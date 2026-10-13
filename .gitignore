@@ -1,0 +1,29 @@
+# ==============================
+# Git Ignore for DQH2 Thai Mod
+# ==============================
+
+# Exclude Large Game Archives & Binaries
+*.bin
+*.idx
+*.rar
+*.zip
+*.7z
+*.g1l
+*.g1m
+*.g1t
+*.exe
+*.dll
+
+# Exclude local backups with large binary dumps
+backup/*.bin
+backup/*.bak
+backup/*.idx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
