@@ -82,21 +82,20 @@ def make_dds_file(dxt_data, w, h):
 
 def render_glyphs_to_font(char_map, out_png_path=None):
     """
-    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนด
-    char_map: dict เช่น {'X': 'อ', 'x': 'ก'} หรือ (row, col): 'ข้อความ'
+    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนด พร้อมจัด Baseline อัตโนมัติ
+    char_map: dict เช่น {'X': 'อ', 'x': 'ก', 'Y': 'เ', 'y': 'ม'}
     """
     print(f"[*] Loading original font sheet: {ORIG_PNG}...")
     img = Image.open(ORIG_PNG).convert("RGBA")
     draw = ImageDraw.Draw(img)
     
-    font_size = 28
+    font_size = 26
     font = ImageFont.truetype(FONT_TTF, font_size)
+    target_baseline = 27 # จัดให้ฐานตัวอักษรวางบนเส้น Y=27 ของ Cell 36px พอดี
     
     for target_char, thai_char in char_map.items():
-        # คำนวณหา Row และ Col ของตัวอักษรเป้าหมาย
         if isinstance(target_char, str):
             code = ord(target_char)
-            # ใน ASCII 0x20..0x7E: row = (code // 16) - 1, col = code % 16
             row = (code // 16) - 1
             col = code % 16
         else:
@@ -110,17 +109,16 @@ def render_glyphs_to_font(char_map, out_png_path=None):
         # เคลียร์พื้นที่เดิมใน Cell ให้โปร่งใส
         draw.rectangle([x0, y0, x1 - 1, y1 - 1], fill=(0, 0, 0, 0))
         
-        # วัดขนาด Bounding Box เพื่อจัดกึ่งกลาง Cell
+        # วัดขนาด Bounding Box
         bbox = font.getbbox(thai_char)
         bw = bbox[2] - bbox[0]
-        bh = bbox[3] - bbox[1]
         
-        # จัดกึ่งกลาง
+        # จัดกึ่งกลางแนวนอน และวางบน Baseline แนวตั้ง
         draw_x = x0 + (CELL_SIZE - bw) // 2 - bbox[0]
-        draw_y = y0 + (CELL_SIZE - bh) // 2 - bbox[1]
+        draw_y = y0 + target_baseline - bbox[3]
         
         draw.text((draw_x, draw_y), thai_char, font=font, fill=(255, 255, 255, 255))
-        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (ASCII '{target_char}')")
+        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Target '{target_char}')")
         
     if out_png_path:
         img.save(out_png_path)
@@ -133,12 +131,26 @@ def render_glyphs_to_font(char_map, out_png_path=None):
     with open(OUT_DDS, "wb") as f:
         f.write(dds_bytes)
     print(f"[+] Exported DXT5 DDS to: {OUT_DDS} ({len(dds_bytes)} bytes)")
+    
+    # แพ็กกลับเป็น .g1t
+    print("[*] Repacking G1T via tools/g1t_tool.py...")
+    import subprocess
+    cmd = [sys.executable, os.path.join(BASE_DIR, "tools", "g1t_tool.py"), "import", TEX_DIR, os.path.join(TEX_DIR, "out")]
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    if res.returncode == 0:
+        print(f"[+] Successfully generated G1T at: {os.path.join(TEX_DIR, 'out', 'entry_342.g1t')}")
+    else:
+        print(f"[-] G1T repack error: {res.stderr}")
+        
     return OUT_DDS
 
 if __name__ == "__main__":
-    # ทดสอบวาดตัว 'อ' ลงในตำแหน่ง 'X' และ 'x'
-    test_map = {
+    # วาดตัว 'อ', 'ก', 'เ', 'ม' สำหรับคำว่า 'ออกเกม'
+    exit_game_map = {
         'X': 'อ',
-        'x': 'ก'
+        'x': 'ก',
+        'Y': 'เ',
+        'y': 'ม'
     }
-    render_glyphs_to_font(test_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+    render_glyphs_to_font(exit_game_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+
