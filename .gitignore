@@ -17,7 +17,8 @@
 # Exclude local backups with large binary dumps
 backup/*.bin
 backup/*.bak
-backup/*.idx
+# Workspace temporary dumps
+workspace/
 
 # Python cache
 __pycache__/
