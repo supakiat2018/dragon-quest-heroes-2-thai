@@ -80,18 +80,35 @@ def make_dds_file(dxt_data, w, h):
     header = struct.pack('<IIIIIII', dwSize, dwFlags, dwHeight, dwWidth, dwPitchOrLinearSize, dwDepth, dwMipMapCount) + dwReserved1 + pixelformat + caps
     return magic + header + dxt_data
 
-def render_cluster_glyph(font, text, target_baseline=32, x_pad=2):
+def render_cluster_glyph(font, text, target_baseline=32, target_w=24, x_pad=2):
     """
     วาดตัวอักษรหรือคลัสเตอร์ (พยัญชนะ + สระบน + วรรณยุกต์) โดยวางบน Baseline เดียวกันเป๊ะ (Y=32)
-    ทำให้ตัวอักษรทุกตัวเรียงบนเส้นบรรทัดเดียวกันสวยงาม ไม่ตก ไม่ลอย ไม่เอียง
+    พร้อมปรับความกว้างแนวนอนให้อ้วนหนาพอดีกับระยะ Advance ของช่องเกม เพื่อให้ตัวอักษรทุกตัวชิดกันสวยงาม ไม่ห่าง
     """
-    bbox = font.getbbox(text)
     cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
     draw = ImageDraw.Draw(cell)
-    
-    draw_x = x_pad - bbox[0]
+    bbox = font.getbbox(text)
+    draw_x = 2 - bbox[0]
     draw_y = target_baseline - bbox[3]
     draw.text((draw_x, draw_y), text, font=font, fill=(255, 255, 255, 255))
+    
+    arr = np.array(cell)
+    coords = np.argwhere(arr[:, :, 3] > 20)
+    if len(coords) == 0:
+        return cell
+    min_y, min_x = coords.min(axis=0)
+    max_y, max_x = coords.max(axis=0)
+    gw = max_x - min_x + 1
+    gh = max_y - min_y + 1
+    
+    # ถ้าตัวอักษรเดี่ยวมีความกว้างแคบกว่า target_w ให้ยืดความกว้างแนวนอนให้เต็มช่อง Advance
+    if gw < target_w:
+        cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
+        new_w = target_w if text not in ['เ', 'า', 'ไ', 'โ'] else max(gw, 22)
+        stretched = cropped.resize((new_w, gh), Image.Resampling.LANCZOS)
+        new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        new_cell.paste(stretched, (x_pad, min_y), stretched)
+        return new_cell
     return cell
 
 def render_glyphs_to_font(char_map, out_png_path=None):
