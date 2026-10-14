@@ -28,30 +28,11 @@ def modify_exit_game(target_text="ออกเกม"):
     expected_ptr = old_offset - 0x20
     assert old_ptr_val == expected_ptr, f"Pointer mismatch! Expected {expected_ptr}, got {old_ptr_val}"
     
-THAI_TO_CYR = {
-    'กี่': '\u0410', # Row 11, Col 0  (А)
-    'กี้': '\u0411', # Row 11, Col 1  (Б)
-    'กี๊': '\u0412', # Row 11, Col 2  (В)
-    'กิ๋': '\u0413', # Row 11, Col 3  (Г)
-    'กั':  '\u0414', # Row 11, Col 4  (Д)
-    'ด':   '\u0415', # Row 11, Col 5  (Е)
-    'ท':   '\u0416', # Row 11, Col 6  (Ж)
-    'ส':   '\u0417', # Row 11, Col 7  (З)
-    'อ':   '\u0418', # Row 11, Col 8  (И)
-    'เ':   '\u0419', # Row 11, Col 9  (Й)
-    'บ':   '\u041A', # Row 11, Col 10 (К)
-    'ภ':   '\u041B', # Row 11, Col 11 (Л)
-    'า':   '\u041C', # Row 11, Col 12 (М)
-    'ษ':   '\u041D', # Row 11, Col 13 (Н)
-    'ไ':   '\u041E', # Row 11, Col 14 (О)
-    'ย':   '\u041F', # Row 11, Col 15 (П)
-    'โ':   '\u0420', # Row 12, Col 0  (Р)
-    'จ':   '\u0421', # Row 12, Col 1  (С)
-    'ริ':  '\u0422', # Row 12, Col 2  (Т)
-    'ง':   '\u0423', # Row 12, Col 3  (У)
-    'ก':   '\u0424', # Row 12, Col 4  (Ф)
-    'ม':   '\u0425', # Row 12, Col 5  (Х)
-}
+# นำเข้า THAI_SLOTS จาก draw_thai_glyphs เพื่อให้รหัสตัวอักษรและตำแหน่งตรงกัน 100%
+from draw_thai_glyphs import THAI_SLOTS
+
+THAI_TO_CYR = {k: v['char'] for k, v in THAI_SLOTS.items()}
+
 
 def tokenize_thai(text, mapping_keys):
     sorted_keys = sorted(mapping_keys, key=lambda x: -len(x))

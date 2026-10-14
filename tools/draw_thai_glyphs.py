@@ -80,10 +80,12 @@ def make_dds_file(dxt_data, w, h):
     header = struct.pack('<IIIIIII', dwSize, dwFlags, dwHeight, dwWidth, dwPitchOrLinearSize, dwDepth, dwMipMapCount) + dwReserved1 + pixelformat + caps
     return magic + header + dxt_data
 
-def render_cluster_glyph(font, text, target_baseline=32, target_w=24, x_pad=2):
+def render_slot_glyph(font, text, info, target_baseline=32):
     """
-    วาดตัวอักษรหรือคลัสเตอร์ (พยัญชนะ + สระบน + วรรณยุกต์) โดยวางบน Baseline เดียวกันเป๊ะ (Y=32)
-    พร้อมปรับความกว้างแนวนอนให้อ้วนหนาพอดีกับระยะ Advance ของช่องเกม เพื่อให้ตัวอักษรทุกตัวชิดกันสวยงาม ไม่ห่าง
+    วาด Glyph ลงใน Cell 36x36 โดย:
+    1. วางบน Baseline เดียวกันเป๊ะ (Y=32)
+    2. ปรับความกว้าง (Width) และตำแหน่ง X (min_x) ให้ตรงกับ Slot เดิมของ Engine เป๊ะ 100%
+       ทำให้ไม่มีช่องว่าง (Gaps) ค้างอยู่ระหว่างตัวอักษร และตัวอักษรทุกตัวชิดกันสวยงาม
     """
     cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
     draw = ImageDraw.Draw(cell)
@@ -101,20 +103,51 @@ def render_cluster_glyph(font, text, target_baseline=32, target_w=24, x_pad=2):
     gw = max_x - min_x + 1
     gh = max_y - min_y + 1
     
-    # ถ้าตัวอักษรเดี่ยวมีความกว้างแคบกว่า target_w ให้ยืดความกว้างแนวนอนให้เต็มช่อง Advance
-    if gw < target_w:
-        cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
-        new_w = target_w if text not in ['เ', 'า', 'ไ', 'โ'] else max(gw, 22)
-        stretched = cropped.resize((new_w, gh), Image.Resampling.LANCZOS)
-        new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-        new_cell.paste(stretched, (x_pad, min_y), stretched)
-        return new_cell
-    return cell
+    target_w = info['orig_w']
+    cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
+    if gw != target_w:
+        stretched = cropped.resize((target_w, gh), Image.Resampling.LANCZOS)
+    else:
+        stretched = cropped
+        
+    new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+    new_cell.paste(stretched, (info['min_x'], min_y), stretched)
+    return new_cell
 
-def render_glyphs_to_font(char_map, out_png_path=None):
+# ตาราง Slot ประจำแต่ละหน่วยอักขระ/คลัสเตอร์
+# คัดเลือก Slot ที่ความกว้าง (Advance Width) สัมพันธ์กับขนาดธรรมชาติของอักษรไทย
+# เพื่อกำจัดปัญหาช่องว่าง (Gaps) อย่างสมบูรณ์ 100%
+THAI_SLOTS = {
+    # คลัสเตอร์ที่มีสระบน/วรรณยุกต์ (ใช้ Slot ตัวพิมพ์ใหญ่กว้าง 21-29px)
+    'กี่': {'char': '\u0410', 'cell': (11,  0), 'orig_w': 28, 'min_x': 1}, # А (28px)
+    'กี้': {'char': '\u0411', 'cell': (11,  1), 'orig_w': 23, 'min_x': 1}, # Б (23px)
+    'กี๊': {'char': '\u0412', 'cell': (11,  2), 'orig_w': 23, 'min_x': 2}, # В (23px)
+    'กิ๋': {'char': '\u0413', 'cell': (11,  3), 'orig_w': 21, 'min_x': 1}, # Г (21px)
+    'กั':  {'char': '\u0414', 'cell': (11,  4), 'orig_w': 29, 'min_x': 1}, # Д (29px)
+    'ด':   {'char': '\u0415', 'cell': (11,  5), 'orig_w': 23, 'min_x': 1}, # Е (23px)
+    'ท':   {'char': '\u0401', 'cell': (11,  6), 'orig_w': 24, 'min_x': 1}, # Ё (24px, U+0401)
+    
+    # พยัญชนะและสระเดี่ยว (แมปลงใน Slot ตัวพิมพ์เล็กที่มีความกว้างพอดี 16-24px)
+    'ส':   {'char': '\u043F', 'cell': (15,  0), 'orig_w': 21, 'min_x': 1}, # п (21px)
+    'อ':   {'char': '\u0440', 'cell': (15,  1), 'orig_w': 21, 'min_x': 1}, # р (21px)
+    'เ':   {'char': '\u0433', 'cell': (14,  3), 'orig_w': 16, 'min_x': 1}, # г (16px - แคบพิเศษ ชิดตัวถัดไปเป๊ะ)
+    'บ':   {'char': '\u0434', 'cell': (14,  4), 'orig_w': 22, 'min_x': 1}, # д (22px)
+    'ภ':   {'char': '\u043B', 'cell': (14, 12), 'orig_w': 22, 'min_x': 1}, # л (22px)
+    'า':   {'char': '\u0435', 'cell': (14,  5), 'orig_w': 18, 'min_x': 1}, # е (18px - พอดีสระอา)
+    'ษ':   {'char': '\u0443', 'cell': (15,  4), 'orig_w': 22, 'min_x': 1}, # у (22px)
+    'ไ':   {'char': '\u0441', 'cell': (15,  2), 'orig_w': 18, 'min_x': 1}, # с (18px - พอดีสระไอ)
+    'ย':   {'char': '\u043A', 'cell': (14, 11), 'orig_w': 21, 'min_x': 1}, # к (21px)
+    'โ':   {'char': '\u0451', 'cell': (14,  6), 'orig_w': 18, 'min_x': 1}, # ё (18px - พอดีสระโอ, U+0451)
+    'จ':   {'char': '\u0446', 'cell': (15,  7), 'orig_w': 21, 'min_x': 1}, # ц (21px)
+    'ริ':  {'char': '\u043C', 'cell': (14, 13), 'orig_w': 24, 'min_x': 1}, # м (24px)
+    'ง':   {'char': '\u044F', 'cell': (16,  0), 'orig_w': 21, 'min_x': 1}, # я (21px)
+    'ก':   {'char': '\u0416', 'cell': (11,  7), 'orig_w': 24, 'min_x': 1}, # Ж (24px)
+    'ม':   {'char': '\u0417', 'cell': (11,  8), 'orig_w': 24, 'min_x': 1}, # З (24px)
+}
+
+def render_glyphs_to_font(slot_dict, out_png_path=None):
     """
     วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนดใน Font Sheet
-    char_map: dict {(row, col): 'ข้อความหรือคลัสเตอร์'}
     """
     print(f"[*] Loading clean original font sheet: {ORIG_PNG}...")
     img = Image.open(ORIG_PNG).convert("RGBA")
@@ -123,18 +156,19 @@ def render_glyphs_to_font(char_map, out_png_path=None):
     font = ImageFont.truetype(FONT_TTF, font_size)
     target_baseline = 32 # ฐานเส้นบรรทัดคงที่ Y=32
     
-    for (row, col), text in char_map.items():
+    for text, info in slot_dict.items():
+        row, col = info['cell']
         x0 = col * CELL_SIZE
         y0 = row * CELL_SIZE
         
         # วาด Glyph ลงใน Cell 36x36
-        glyph_cell = render_cluster_glyph(font, text, target_baseline=target_baseline, x_pad=2)
+        glyph_cell = render_slot_glyph(font, text, info, target_baseline=target_baseline)
         
         # เคลียร์พื้นที่เดิมใน Cell แล้ววางภาพใหม่ลงไป
         blank = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
         img.paste(blank, (x0, y0))
         img.paste(glyph_cell, (x0, y0), glyph_cell)
-        print(f"[+] Rendered '{text}' into cell Row {row}, Col {col} (Baseline Y={target_baseline})")
+        print(f"[+] Rendered '{text}' into cell Row {row:2d}, Col {col:2d} [Char: {info['char']}, orig_w={info['orig_w']}px]")
         
     if out_png_path:
         img.save(out_png_path)
@@ -160,35 +194,9 @@ def render_glyphs_to_font(char_map, out_png_path=None):
         
     return OUT_DDS
 
-# แมปสำหรับประโยคทดสอบ: "กี่กี้กี๊กิ๋กัดทดสอเบภาษาไทยโดยจริง"
-# ใช้เฉพาะ Cyrillic แถว 11 และ 12 (0xC0 ถึง 0xDF) เพื่อให้ Engine ใช้ระนาบ Baseline เดียวกันเป๊ะ 100%
-THAI_UNITS_TO_SLOT = {
-    (11,  0): 'กี่', # U+0410 (А)
-    (11,  1): 'กี้', # U+0411 (Б)
-    (11,  2): 'กี๊', # U+0412 (В)
-    (11,  3): 'กิ๋', # U+0413 (Г)
-    (11,  4): 'กั',  # U+0414 (Д)
-    (11,  5): 'ด',   # U+0415 (Е)
-    (11,  6): 'ท',   # U+0416 (Ж)
-    (11,  7): 'ส',   # U+0417 (З)
-    (11,  8): 'อ',   # U+0418 (И)
-    (11,  9): 'เ',   # U+0419 (Й)
-    (11, 10): 'บ',   # U+041A (К)
-    (11, 11): 'ภ',   # U+041B (Л)
-    (11, 12): 'า',   # U+041C (М)
-    (11, 13): 'ษ',   # U+041D (Н)
-    (11, 14): 'ไ',   # U+041E (О)
-    (11, 15): 'ย',   # U+041F (П)
-    (12,  0): 'โ',   # U+0420 (Р)
-    (12,  1): 'จ',   # U+0421 (С)
-    (12,  2): 'ริ',  # U+0422 (Т)
-    (12,  3): 'ง',   # U+0423 (У)
-    (12,  4): 'ก',   # U+0424 (Ф)
-    (12,  5): 'ม',   # U+0425 (Х)
-}
-
 if __name__ == "__main__":
-    render_glyphs_to_font(THAI_UNITS_TO_SLOT, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+    render_glyphs_to_font(THAI_SLOTS, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+
 
 
 
