@@ -70,11 +70,14 @@ SLOTS = {
     'บั': {'char': '\u0420', 'cell': (12,  1), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Р (23px)
     'ย์': {'char': '\u0410', 'cell': (11,  0), 'orig_w': 28, 'x0': 1, 'align': 'center'}, # А (28px)
     'ส์': {'char': '\u0448', 'cell': (15,  9), 'orig_w': 27, 'x0': 1, 'align': 'center'}, # ш (27px)
+    'ต้': {'char': '\u0445', 'cell': (15,  6), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # х (20px)
+    'ช่': {'char': '\u0451', 'cell': (14,  6), 'orig_w': 18, 'x0': 1, 'align': 'center'}, # ё (18px)
+    'ใ':  {'char': '\u0437', 'cell': (14,  8), 'orig_w': 16, 'x0': 2, 'align': 'right'},  # з (16px)
 }
 
 THAI_TO_CYR = {k: v['char'] for k, v in SLOTS.items()}
 
-# เมนูทั้ง 7 รายการของ Title Screen ในภาษาอังกฤษ
+# รายการข้อความที่แปลงเป็นภาษาไทย (Title Screen Menus + Dialogue Prompts)
 TARGET_MENUS = [
     {
         'name': 'Menu 1: Venture Forth -> เริ่มการเดินทาง',
@@ -110,6 +113,12 @@ TARGET_MENUS = [
         'name': 'Menu 7: Exit Game -> ออกจากเกม',
         'ptr_offset': 6808,
         'tokens': ['อ', 'อ', 'ก', 'จ', 'า', 'ก', 'เ', 'ก', 'ม'],
+    },
+    {
+        'name': 'Prompt: Which slot do you want to create an adventure log in? -> ต้องการสร้างบันทึกการเดินทางในช่องใด',
+        'ptr_offset': 32,
+        'tokens': ['ต้', 'อ', 'ง', 'ก', 'า', 'ร', 'ส', 'ร้', 'า', 'ง', 'บั', 'น', 'ทึ', 'ก', 'ก', 'า', 'ร', 'เ', 'ดิ', 'น', 'ท', 'า', 'ง', 'ใ', 'น', 'ช่', 'อ', 'ง', 'ใ', 'ด'],
+        'suffix': b'\x1bFH\x00',
     },
 ]
 
@@ -251,7 +260,8 @@ def patch_text_entry_204():
     
     for menu in TARGET_MENUS:
         cyr_str = "".join(THAI_TO_CYR[t] for t in menu['tokens'])
-        utf8_bytes = cyr_str.encode('utf-8') + b"\x00"
+        suffix = menu.get('suffix', b"\x00")
+        utf8_bytes = cyr_str.encode('utf-8') + suffix
         
         if append_offset + len(utf8_bytes) > len(data):
             data.extend(b"\x00" * (append_offset + len(utf8_bytes) - len(data)))
