@@ -1,0 +1,52 @@
+﻿EntryID,Category,TotalSlots,NonEmptyLines,WordCount,SampleText
+1,Characters_Main,400,69,69,Lazarel
+8,NPC_Titles,1600,155,218,King of Harba
+15,Monsters,2560,1975,2671,slime
+22,Heroes_Party,2400,274,482,Alena
+29,Vocations_Classes,320,42,44,Warrior
+36,Story_Quests,4800,296,2418,What Do These Idiots Want With Us<FG><FH>
+43,Kingdoms_Regions,400,60,124,Harba
+50,Areas_Wilderness,1600,206,488,Greena Pastures
+57,Spells,32,8,8,Heal
+64,Weapon_Categories,160,119,135,twin swords
+71,Weapons_Equipment,2400,2050,5091,iron broadsword
+78,Orbs,800,308,716,plain orb
+85,Accessory_Types,400,54,62,Standard
+92,Accessories,800,368,903,slime earrings
+99,Stats_Attributes,1600,262,986,Maximum HP
+106,Materials_Items,1680,1656,4550,horse manure
+113,Key_Items,400,164,338,thief's key
+120,Abilities_Skills,5600,1577,7338,M-Pathy
+127,Skill_Types,2400,75,320,Bang-Based
+134,Party_Vocations,400,32,52,Priestess
+141,Side_Quests,400,84,286,Long Time No See
+148,Dungeons_Mazes,400,160,1020,Magic Maze
+155,Menu_Categories,80,14,20,Characters
+162,System_Help,800,116,210,Changing Characters
+169,Accolades_Trophies,344,129,572,Glory Hunter
+176,Battle_Perks,240,12,66,Double experience<FG>
+183,Combat_Tutorials,200,140,300,Using Twin Swords
+190,Character_Index,20,16,38,Main Characters
+197,Location_Lore,800,60,142,Accordia
+204,Menus_UI_Settings,1900,1679,13156,Which slot do you want to create an adventure log 
+211,Battle_Guides_Tutorials,2000,1207,14987,Allow this grizzled veteran to offer you some poin
+218,Dungeon_Prompts,300,217,1373,The door has opened<FG>
+225,Battle_Announcements,100,62,218,That got their attention<FG>
+232,Boundary_Alerts,50,9,49,You can't go any further<FG>
+239,Mission_Objectives,200,166,1242,Overcome the enemy<FG>
+246,Main_Story_Cutscenes_Dialogues,4000,3493,57178,Hm<FH> Who dares trespass upon my domain<FG><FH> V
+253,Monster_Medals,700,358,592,sand sniper
+260,Side_Quest_Rumours,600,250,2441,Smouldering Boulders
+267,Monster_Lore_Bestiary,600,348,6090,Grinning bright-blue blobs beloved for their wide 
+274,Feature_Unlocks,200,152,2709,Now you can switch characters in the heat of battl
+281,Party_Battle_Banter,150,114,389,Let's do this<FG>
+288,Tavern_Online_Lobby,150,114,397,BEGINNERS WELCOME
+295,Monster_Nicknames,1120,744,829,Vlad
+302,Monster_Transformations,140,138,1827,Assume the shape of a lovely little slime and blow
+309,Transformation_Attacks,420,138,238,Body Slam
+316,PC_Config_Tool,100,57,133,DRAGON QUEST HEROES II
+323,Keyboard_Gamepad_Controls,255,116,156,Esc
+518,DLC_Epilogue_Stories,2010,1739,12747,"Once upon a time, many years ago, there was a long"
+11652,Adventurer_Arena,80,31,106,Adventurer's Arena
+11666,Dungeon_Master_Prompts,80,10,28,Dungeon master healed<FG>
+11673,Hocus_Pocus_Medals,80,30,52,Hocus Pocus medal
