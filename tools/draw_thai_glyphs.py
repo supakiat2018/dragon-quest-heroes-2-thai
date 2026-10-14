@@ -82,24 +82,24 @@ def make_dds_file(dxt_data, w, h):
 
 def render_glyphs_to_font(char_map, out_png_path=None):
     """
-    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนด พร้อมจัด Baseline อัตโนมัติ
-    char_map: dict เช่น {'X': 'อ', 'x': 'ก', 'Y': 'เ', 'y': 'ม'}
+    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนด พร้อมจัด Baseline และระยะขอบให้กระชับ
+    char_map: dict เช่น {(11, 14): 'อ', (11, 0): 'ก', (11, 5): 'เ', (11, 12): 'ม'}
     """
-    print(f"[*] Loading original font sheet: {ORIG_PNG}...")
+    print(f"[*] Loading clean original font sheet: {ORIG_PNG}...")
     img = Image.open(ORIG_PNG).convert("RGBA")
     draw = ImageDraw.Draw(img)
     
     font_size = 26
     font = ImageFont.truetype(FONT_TTF, font_size)
-    target_baseline = 27 # จัดให้ฐานตัวอักษรวางบนเส้น Y=27 ของ Cell 36px พอดี
+    target_baseline = 27 # เส้นบรรทัด Y=27
     
-    for target_char, thai_char in char_map.items():
-        if isinstance(target_char, str):
-            code = ord(target_char)
+    for target_slot, thai_char in char_map.items():
+        if isinstance(target_slot, str):
+            code = ord(target_slot)
             row = (code // 16) - 1
             col = code % 16
         else:
-            row, col = target_char
+            row, col = target_slot
             
         x0 = col * CELL_SIZE
         y0 = row * CELL_SIZE
@@ -111,14 +111,13 @@ def render_glyphs_to_font(char_map, out_png_path=None):
         
         # วัดขนาด Bounding Box
         bbox = font.getbbox(thai_char)
-        bw = bbox[2] - bbox[0]
         
-        # จัดกึ่งกลางแนวนอน และวางบน Baseline แนวตั้ง
-        draw_x = x0 + (CELL_SIZE - bw) // 2 - bbox[0]
+        # ชิดซ้ายโดยเว้นระยะหน้า 4 พิกเซล เพื่อให้ตัวอักษรเรียงชิดกันอย่างเป็นธรรมชาติ (ไม่ห่าง)
+        draw_x = x0 + 4 - bbox[0]
         draw_y = y0 + target_baseline - bbox[3]
         
         draw.text((draw_x, draw_y), thai_char, font=font, fill=(255, 255, 255, 255))
-        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Target '{target_char}')")
+        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Slot: {target_slot})")
         
     if out_png_path:
         img.save(out_png_path)
@@ -145,12 +144,17 @@ def render_glyphs_to_font(char_map, out_png_path=None):
     return OUT_DDS
 
 if __name__ == "__main__":
-    # วาดตัว 'อ', 'ก', 'เ', 'ม' สำหรับคำว่า 'ออกเกม'
-    exit_game_map = {
-        'X': 'อ',
-        'x': 'ก',
-        'Y': 'เ',
-        'y': 'ม'
+    # ใช้ช่อง Cyrillic (Row 11) เป็น PUA เฉพาะ เพื่อไม่กระทบตัวอักษรภาษาอังกฤษ
+    # Row 11: Col 14 = 'О' (0x041E) -> 'อ'
+    # Row 11: Col 0  = 'А' (0x0410) -> 'ก'
+    # Row 11: Col 5  = 'Е' (0x0415) -> 'เ'
+    # Row 11: Col 12 = 'М' (0x041C) -> 'ม'
+    cyrillic_pua_map = {
+        (11, 14): 'อ',
+        (11, 0):  'ก',
+        (11, 5):  'เ',
+        (11, 12): 'ม'
     }
-    render_glyphs_to_font(exit_game_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+    render_glyphs_to_font(cyrillic_pua_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+
 
