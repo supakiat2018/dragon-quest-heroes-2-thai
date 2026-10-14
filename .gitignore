@@ -17,6 +17,8 @@
 # Exclude local backups with large binary dumps
 backup/*.bin
 backup/*.bak
+backup/*.png
+backup/*.dds
 # Workspace temporary dumps
 workspace/
 
