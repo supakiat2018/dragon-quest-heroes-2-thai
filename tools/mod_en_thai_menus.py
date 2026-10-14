@@ -41,36 +41,35 @@ SLOTS = {
     'เ':  {'char': '\u0433', 'cell': (14,  3), 'orig_w': 16, 'x0': 2, 'align': 'right'},  # г (16px)
     'า':  {'char': '\u0435', 'cell': (14,  5), 'orig_w': 18, 'x0': 1, 'align': 'left'},   # е (18px)
     
-    # พยัญชนะแคบ/กลาง (17-20px)
-    'ร':  {'char': '\u044C', 'cell': (15, 13), 'orig_w': 19, 'x0': 1, 'align': 'center'}, # ь (19px) - Row 15, Col 13
+    # พยัญชนะแคบ/กลาง (18-20px)
+    'ร':  {'char': '\u044C', 'cell': (15, 13), 'orig_w': 19, 'x0': 1, 'align': 'center'}, # ь (19px)
     'ร้': {'char': '\u0441', 'cell': (15,  2), 'orig_w': 18, 'x0': 1, 'align': 'center'}, # с (18px)
     'ร์': {'char': '\u0442', 'cell': (15,  3), 'orig_w': 19, 'x0': 2, 'align': 'center'}, # т (19px)
     'จ':  {'char': '\u0432', 'cell': (14,  2), 'orig_w': 18, 'x0': 2, 'align': 'center'}, # в (18px)
     'ก':  {'char': '\u0430', 'cell': (14,  0), 'orig_w': 20, 'x0': 1, 'align': 'center'}, # а (20px)
     'ม':  {'char': '\u043E', 'cell': (14, 15), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # о (20px)
     'น':  {'char': '\u0438', 'cell': (14,  9), 'orig_w': 20, 'x0': 1, 'align': 'center'}, # и (20px)
-    'ส':  {'char': '\u0440', 'cell': (15,  1), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # р (20px)
+    'ส':  {'char': '\u0440', 'cell': (15,  1), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # р (21px)
+    'ง':  {'char': '\u0431', 'cell': (14,  1), 'orig_w': 19, 'x0': 1, 'align': 'center'}, # б (19px)
     
     # พยัญชนะขนาดมาตรฐาน (21-22px)
     'ด':  {'char': '\u043A', 'cell': (14, 11), 'orig_w': 21, 'x0': 2, 'align': 'center'}, # к (21px)
     'ท':  {'char': '\u043D', 'cell': (14, 14), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # н (21px)
-    'ง':  {'char': '\u043F', 'cell': (15,  0), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # п (21px)
     'ล':  {'char': '\u043B', 'cell': (14, 12), 'orig_w': 22, 'x0': 1, 'align': 'center'}, # л (22px)
     'บ':  {'char': '\u0434', 'cell': (14,  4), 'orig_w': 22, 'x0': 2, 'align': 'center'}, # д (22px)
     'อ':  {'char': '\u0443', 'cell': (15,  4), 'orig_w': 22, 'x0': 1, 'align': 'center'}, # у (22px)
     
     # คลัสเตอร์สระซ้อนและวรรณยุกต์ (20-28px)
     'ดิ': {'char': '\u0411', 'cell': (11,  1), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Б (23px)
-    'ค่': {'char': '\u0415', 'cell': (11,  5), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Е (23px)
+    'ค่': {'char': '\u0413', 'cell': (11,  3), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # Г (21px)
     'คี': {'char': '\u0412', 'cell': (11,  2), 'orig_w': 23, 'x0': 2, 'align': 'center'}, # В (23px)
-    'ฟิ': {'char': '\u0401', 'cell': (11,  6), 'orig_w': 24, 'x0': 1, 'align': 'center'}, # Ё (24px)
-    'ริ่': {'char': '\u043C', 'cell': (14, 13), 'orig_w': 24, 'x0': 2, 'align': 'center'}, # м (24px)
-    'ทึ': {'char': '\u0447', 'cell': (15,  8), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # ч (20px) - Row 15, Col 8
-    'ตั้': {'char': '\u044E', 'cell': (15, 15), 'orig_w': 26, 'x0': 2, 'align': 'center'}, # ю (26px) - Row 15, Col 15
-    'บั': {'char': '\u044F', 'cell': (16,  0), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # я (21px) - Row 16, Col 0
+    'ฟิ': {'char': '\u0415', 'cell': (11,  5), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Е (23px)
+    'ริ่': {'char': '\u044D', 'cell': (15, 14), 'orig_w': 17, 'x0': 2, 'align': 'center'}, # э (17px)
+    'ทึ': {'char': '\u0447', 'cell': (15,  8), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # ч (20px)
+    'ตั้': {'char': '\u044A', 'cell': (15, 11), 'orig_w': 22, 'x0': 1, 'align': 'center'}, # ъ (22px)
+    'บั': {'char': '\u0420', 'cell': (12,  1), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Р (23px)
     'ย์': {'char': '\u0410', 'cell': (11,  0), 'orig_w': 28, 'x0': 1, 'align': 'center'}, # А (28px)
-    'ส์': {'char': '\u0448', 'cell': (15,  9), 'orig_w': 27, 'x0': 1, 'align': 'center'}, # ш (27px) - Row 15, Col 9
-
+    'ส์': {'char': '\u0448', 'cell': (15,  9), 'orig_w': 27, 'x0': 1, 'align': 'center'}, # ш (27px)
 }
 
 THAI_TO_CYR = {k: v['char'] for k, v in SLOTS.items()}
@@ -118,43 +117,79 @@ def render_unstretched_glyph(font, token, slot):
     """
     วาดตัวอักษรไทยลงบนขนาด 36x36 โดยไม่บีบหรือยืดภาพ
     และจัดตำแหน่ง X ตามชนิดอักขระ (ชิดซ้าย/ชิดขวา/กึ่งกลาง)
+    พร้อมทั้งรองรับคลัสเตอร์ 3 ชั้น (ตั้, ริ่) ไม่ให้วรรณยุกต์ถูกตัดขอบ
     """
-    cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(cell)
-    
-    # คำนวณ Bounding Box ของข้อความ
-    bbox = font.getbbox(token)
-    draw_x = 2 - bbox[0]
-    draw_y = TARGET_BASELINE - bbox[3]
-    draw.text((draw_x, draw_y), token, font=font, fill=(255, 255, 255, 255))
-    
-    arr = np.array(cell)[:, :, 3]
-    coords = np.argwhere(arr > 20)
-    if len(coords) == 0:
-        return cell
-        
-    min_y, min_x = coords.min(axis=0)
-    max_y, max_x = coords.max(axis=0)
-    gw = max_x - min_x + 1
-    gh = max_y - min_y + 1
-    
-    cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
-    
     target_w = slot['orig_w']
     x0 = slot['x0']
     align = slot.get('align', 'center')
-    
-    # กำหนดตำแหน่ง X ตาม Kerning โดยไม่ยืดตัวหนังสือ
-    if align == 'right': # สระหน้า: ดันไปทางขวาของช่องเพื่อชิดพยัญชนะตัวถัดไป
-        paste_x = x0 + max(0, target_w - gw - 1)
-    elif align == 'left': # สระหลัง: ดันไปทางซ้ายของช่องเพื่อชิดพยัญชนะตัวหน้า
-        paste_x = x0 + 1
-    else: # พยัญชนะ: วางกึ่งกลางของความกว้างช่องเดิม
+
+    if token == 'ตั้':
+        f_base = ImageFont.truetype(FONT_TTF, 28)
+        f_tone = ImageFont.truetype(FONT_TTF, 18)
+        temp = Image.new('RGBA', (100, 100), (0, 0, 0, 0))
+        d_t = ImageDraw.Draw(temp)
+        b_base = f_base.getbbox('ต')
+        d_t.text((20, 50 - b_base[3]), 'ตั', font=f_base, fill=(255, 255, 255, 255))
+        d_t.text((20 + 13, 50 - b_base[3] - 7), '้', font=f_tone, fill=(255, 255, 255, 255))
+        arr = np.array(temp)[:, :, 3]
+        coords = np.argwhere(arr > 20)
+        min_y, min_x = coords.min(axis=0)
+        max_y, max_x = coords.max(axis=0)
+        cropped = temp.crop((min_x, min_y, max_x + 1, max_y + 1))
+        gw = max_x - min_x + 1
+        paste_y = TARGET_BASELINE - (max_y - min_y + 1)
         paste_x = x0 + max(0, (target_w - gw) // 2)
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        cell.paste(cropped, (paste_x, paste_y), cropped)
+        return cell
+    elif token == 'ริ่':
+        f_base = ImageFont.truetype(FONT_TTF, 28)
+        f_tone = ImageFont.truetype(FONT_TTF, 18)
+        temp = Image.new('RGBA', (100, 100), (0, 0, 0, 0))
+        d_t = ImageDraw.Draw(temp)
+        b_base = f_base.getbbox('ร')
+        d_t.text((20, 50 - b_base[3]), 'ริ', font=f_base, fill=(255, 255, 255, 255))
+        d_t.text((20 + 11, 50 - b_base[3] - 6), '่', font=f_tone, fill=(255, 255, 255, 255))
+        arr = np.array(temp)[:, :, 3]
+        coords = np.argwhere(arr > 20)
+        min_y, min_x = coords.min(axis=0)
+        max_y, max_x = coords.max(axis=0)
+        cropped = temp.crop((min_x, min_y, max_x + 1, max_y + 1))
+        gw = max_x - min_x + 1
+        paste_y = TARGET_BASELINE - (max_y - min_y + 1)
+        paste_x = x0 + max(0, (target_w - gw) // 2)
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        cell.paste(cropped, (paste_x, paste_y), cropped)
+        return cell
+    else:
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        draw = ImageDraw.Draw(cell)
+        bbox = font.getbbox(token)
+        draw_x = 2 - bbox[0]
+        draw_y = TARGET_BASELINE - bbox[3]
+        draw.text((draw_x, draw_y), token, font=font, fill=(255, 255, 255, 255))
         
-    new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-    new_cell.paste(cropped, (paste_x, min_y), cropped)
-    return new_cell
+        arr = np.array(cell)[:, :, 3]
+        coords = np.argwhere(arr > 20)
+        if len(coords) == 0:
+            return cell
+            
+        min_y, min_x = coords.min(axis=0)
+        max_y, max_x = coords.max(axis=0)
+        gw = max_x - min_x + 1
+        
+        cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
+        
+        if align == 'right': # สระหน้า: ดันไปทางขวาของช่องเพื่อชิดพยัญชนะตัวถัดไป
+            paste_x = x0 + max(0, target_w - gw - 1)
+        elif align == 'left': # สระหลัง: ดันไปทางซ้ายของช่องเพื่อชิดพยัญชนะตัวหน้า
+            paste_x = x0 + 1
+        else: # พยัญชนะ: วางกึ่งกลางของความกว้างช่องเดิม
+            paste_x = x0 + max(0, (target_w - gw) // 2)
+            
+        new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        new_cell.paste(cropped, (paste_x, min_y), cropped)
+        return new_cell
 
 def patch_font_sheet():
     """
