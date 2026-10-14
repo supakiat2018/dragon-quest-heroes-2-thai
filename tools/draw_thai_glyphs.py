@@ -80,68 +80,44 @@ def make_dds_file(dxt_data, w, h):
     header = struct.pack('<IIIIIII', dwSize, dwFlags, dwHeight, dwWidth, dwPitchOrLinearSize, dwDepth, dwMipMapCount) + dwReserved1 + pixelformat + caps
     return magic + header + dxt_data
 
-def render_normalized_glyph(font, ch, target_h=25, x_pad=2, y_top=7):
+def render_cluster_glyph(font, text, target_baseline=32, x_pad=2):
     """
-    วาดและปรับขนาดตัวอักษรให้มีความสูง (Height) เท่ากันทุกตัวเป๊ะๆ
-    พร้อมจัดตำแหน่ง X และ Y ให้ชิดและวางบนเส้นบรรทัดเดียวกัน
+    วาดตัวอักษรหรือคลัสเตอร์ (พยัญชนะ + สระบน + วรรณยุกต์) โดยวางบน Baseline เดียวกันเป๊ะ (Y=32)
+    ทำให้ตัวอักษรทุกตัวเรียงบนเส้นบรรทัดเดียวกันสวยงาม ไม่ตก ไม่ลอย ไม่เอียง
     """
-    scratch = Image.new('RGBA', (70, 70), (0, 0, 0, 0))
-    sdraw = ImageDraw.Draw(scratch)
-    sdraw.text((15, 15), ch, font=font, fill=(255, 255, 255, 255))
-    
-    arr = np.array(scratch)
-    coords = np.argwhere(arr[:, :, 3] > 20)
-    min_y, min_x = coords.min(axis=0)
-    max_y, max_x = coords.max(axis=0)
-    orig_w = max_x - min_x + 1
-    orig_h = max_y - min_y + 1
-    
-    cropped = scratch.crop((min_x, min_y, max_x + 1, max_y + 1))
-    
-    # ยืด/สเกลความสูงให้เท่ากับ target_h เท่ากันทุกตัวอักษร (เช่น ก เดิมเตี้ยกว่า อ จะถูกยืดให้สูงเท่ากันเป๊ะ)
-    new_w = int(round(orig_w * (target_h / orig_h)))
-    scaled = cropped.resize((new_w, target_h), Image.Resampling.LANCZOS)
-    
+    bbox = font.getbbox(text)
     cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-    cell.paste(scaled, (x_pad, y_top), scaled)
+    draw = ImageDraw.Draw(cell)
+    
+    draw_x = x_pad - bbox[0]
+    draw_y = target_baseline - bbox[3]
+    draw.text((draw_x, draw_y), text, font=font, fill=(255, 255, 255, 255))
     return cell
 
 def render_glyphs_to_font(char_map, out_png_path=None):
     """
-    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนด พร้อมปรับสเกลให้สูงเท่ากันทุกตัว
-    char_map: dict เช่น {(11, 15): ('อ', 7), (11, 0): ('ก', 7), (11, 13): ('ม', 8)}
+    วาดตัวอักษรไทยลงบนตำแหน่ง Cell ที่กำหนดใน Font Sheet
+    char_map: dict {(row, col): 'ข้อความหรือคลัสเตอร์'}
     """
     print(f"[*] Loading clean original font sheet: {ORIG_PNG}...")
     img = Image.open(ORIG_PNG).convert("RGBA")
     
-    font_size = 44
+    font_size = 38
     font = ImageFont.truetype(FONT_TTF, font_size)
-    target_h = 25 # ความสูงมาตรฐานเท่ากันทุกตัวอักษร
+    target_baseline = 32 # ฐานเส้นบรรทัดคงที่ Y=32
     
-    for target_slot, val in char_map.items():
-        if isinstance(val, tuple):
-            thai_char, y_top = val
-        else:
-            thai_char, y_top = val, 7
-            
-        if isinstance(target_slot, str):
-            code = ord(target_slot)
-            row = (code // 16) - 1
-            col = code % 16
-        else:
-            row, col = target_slot
-            
+    for (row, col), text in char_map.items():
         x0 = col * CELL_SIZE
         y0 = row * CELL_SIZE
         
-        # เรนเดอร์ Glyph ที่ปรับความสูงเท่ากันแล้ว
-        glyph_cell = render_normalized_glyph(font, thai_char, target_h=target_h, x_pad=2, y_top=y_top)
+        # วาด Glyph ลงใน Cell 36x36
+        glyph_cell = render_cluster_glyph(font, text, target_baseline=target_baseline, x_pad=2)
         
         # เคลียร์พื้นที่เดิมใน Cell แล้ววางภาพใหม่ลงไป
         blank = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
         img.paste(blank, (x0, y0))
         img.paste(glyph_cell, (x0, y0), glyph_cell)
-        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Height={target_h}px, Y_top={y_top})")
+        print(f"[+] Rendered '{text}' into cell Row {row}, Col {col} (Baseline Y={target_baseline})")
         
     if out_png_path:
         img.save(out_png_path)
@@ -167,20 +143,35 @@ def render_glyphs_to_font(char_map, out_png_path=None):
         
     return OUT_DDS
 
+# แมปสำหรับประโยคทดสอบ: "กี่กี้กี๊กิ๋กัดทดสอเบภาษาไทยโดยจริง"
+# ใช้เฉพาะ Cyrillic แถว 11 และ 12 (0xC0 ถึง 0xDF) เพื่อให้ Engine ใช้ระนาบ Baseline เดียวกันเป๊ะ 100%
+THAI_UNITS_TO_SLOT = {
+    (11,  0): 'กี่', # U+0410 (А)
+    (11,  1): 'กี้', # U+0411 (Б)
+    (11,  2): 'กี๊', # U+0412 (В)
+    (11,  3): 'กิ๋', # U+0413 (Г)
+    (11,  4): 'กั',  # U+0414 (Д)
+    (11,  5): 'ด',   # U+0415 (Е)
+    (11,  6): 'ท',   # U+0416 (Ж)
+    (11,  7): 'ส',   # U+0417 (З)
+    (11,  8): 'อ',   # U+0418 (И)
+    (11,  9): 'เ',   # U+0419 (Й)
+    (11, 10): 'บ',   # U+041A (К)
+    (11, 11): 'ภ',   # U+041B (Л)
+    (11, 12): 'า',   # U+041C (М)
+    (11, 13): 'ษ',   # U+041D (Н)
+    (11, 14): 'ไ',   # U+041E (О)
+    (11, 15): 'ย',   # U+041F (П)
+    (12,  0): 'โ',   # U+0420 (Р)
+    (12,  1): 'จ',   # U+0421 (С)
+    (12,  2): 'ริ',  # U+0422 (Т)
+    (12,  3): 'ง',   # U+0423 (У)
+    (12,  4): 'ก',   # U+0424 (Ф)
+    (12,  5): 'ม',   # U+0425 (Х)
+}
+
 if __name__ == "__main__":
-    # ใช้ช่อง Cyrillic (Row 11 & Row 14) เป็น PUA เฉพาะ เพื่อไม่กระทบตัวอักษรภาษาอังกฤษ
-    # ทุกตัวถูก Normalize ให้สูง 25px เท่ากันเป๊ะ (รวม ก และ เ)
-    # Row 11: Col 15 = 'О' (0x041E) -> 'อ' (y_top=7)
-    # Row 11: Col 0  = 'А' (0x0410) -> 'ก' (y_top=7, ยืดสูง 25px เท่า อ เป๊ะ)
-    # Row 14: Col 3  = 'г' (0x0433) -> 'เ' (y_top=7, ช่องแคบ Advance 17px เพื่อให้สระชิดแน่น)
-    # Row 11: Col 13 = 'М' (0x041C) -> 'ม' (y_top=8, ปรับระดับลง 1px ให้อยู่ระนาบเดียวกับตัวอื่นพอดี ไม่ลอย)
-    cyrillic_pua_map = {
-        (11, 15): ('อ', 7),
-        (11, 0):  ('ก', 7),
-        (14, 3):  ('เ', 7),
-        (11, 13): ('ม', 8)
-    }
-    render_glyphs_to_font(cyrillic_pua_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+    render_glyphs_to_font(THAI_UNITS_TO_SLOT, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
 
 
 

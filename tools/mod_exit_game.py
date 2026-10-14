@@ -28,16 +28,71 @@ def modify_exit_game(target_text="ออกเกม"):
     expected_ptr = old_offset - 0x20
     assert old_ptr_val == expected_ptr, f"Pointer mismatch! Expected {expected_ptr}, got {old_ptr_val}"
     
-    # แปลงตัวอักษรไทยเป็นรหัส Cyrillic PUA ตามที่วาดไว้ใน Font Sheet
-    THAI_TO_PUA = {
-        'อ': '\u041E', # Row 11, Col 15 ('О', Advance ~27px)
-        'ก': '\u0410', # Row 11, Col 0  ('А', Advance ~28px)
-        'เ': '\u0433', # Row 14, Col 3  ('г', Advance ~17px ช่องแคบ สระชิดแน่น)
-        'ม': '\u041C', # Row 11, Col 13 ('М', Advance ~32px)
-    }
-    encoded_chars = "".join(THAI_TO_PUA.get(c, c) for c in target_text)
+THAI_TO_CYR = {
+    'กี่': '\u0410', # Row 11, Col 0  (А)
+    'กี้': '\u0411', # Row 11, Col 1  (Б)
+    'กี๊': '\u0412', # Row 11, Col 2  (В)
+    'กิ๋': '\u0413', # Row 11, Col 3  (Г)
+    'กั':  '\u0414', # Row 11, Col 4  (Д)
+    'ด':   '\u0415', # Row 11, Col 5  (Е)
+    'ท':   '\u0416', # Row 11, Col 6  (Ж)
+    'ส':   '\u0417', # Row 11, Col 7  (З)
+    'อ':   '\u0418', # Row 11, Col 8  (И)
+    'เ':   '\u0419', # Row 11, Col 9  (Й)
+    'บ':   '\u041A', # Row 11, Col 10 (К)
+    'ภ':   '\u041B', # Row 11, Col 11 (Л)
+    'า':   '\u041C', # Row 11, Col 12 (М)
+    'ษ':   '\u041D', # Row 11, Col 13 (Н)
+    'ไ':   '\u041E', # Row 11, Col 14 (О)
+    'ย':   '\u041F', # Row 11, Col 15 (П)
+    'โ':   '\u0420', # Row 12, Col 0  (Р)
+    'จ':   '\u0421', # Row 12, Col 1  (С)
+    'ริ':  '\u0422', # Row 12, Col 2  (Т)
+    'ง':   '\u0423', # Row 12, Col 3  (У)
+    'ก':   '\u0424', # Row 12, Col 4  (Ф)
+    'ม':   '\u0425', # Row 12, Col 5  (Х)
+}
+
+def tokenize_thai(text, mapping_keys):
+    sorted_keys = sorted(mapping_keys, key=lambda x: -len(x))
+    tokens = []
+    i = 0
+    while i < len(text):
+        matched = False
+        for k in sorted_keys:
+            if text.startswith(k, i):
+                tokens.append(k)
+                i += len(k)
+                matched = True
+                break
+        if not matched:
+            tokens.append(text[i])
+            i += 1
+    return tokens
+
+def modify_exit_game(target_text="กี่กี้กี๊กิ๋กัดทดสอเบภาษาไทยโดยจริง"):
+    with open(SRC_FILE, "rb") as f:
+        data = bytearray(f.read())
+    
+    print(f"[*] Original size: {len(data)} bytes")
+    
+    old_text = b"Exit Game\x00"
+    old_offset = data.find(old_text)
+    print(f"[*] Original 'Exit Game' at offset: {old_offset} (0x{old_offset:04x})")
+    
+    # Pointer table อยู่ที่ 0x1a98 (offset 6808)
+    ptr_offset = 6808
+    old_ptr_val = struct.unpack("<I", data[ptr_offset:ptr_offset+4])[0]
+    expected_ptr = old_offset - 0x20
+    assert old_ptr_val == expected_ptr, f"Pointer mismatch! Expected {expected_ptr}, got {old_ptr_val}"
+    
+    # Tokenize และแปลงเป็น Cyrillic PUA
+    tokens = tokenize_thai(target_text, THAI_TO_CYR.keys())
+    encoded_chars = "".join(THAI_TO_CYR.get(t, t) for t in tokens)
     new_bytes = encoded_chars.encode("utf-8") + b"\x00"
-    print(f"[*] Target text: '{target_text}' -> Encoded: '{encoded_chars}'")
+    print(f"[*] Target text: '{target_text}'")
+    print(f"[*] Tokens: {tokens}")
+    print(f"[*] Encoded: '{encoded_chars}'")
     print(f"[*] Hex bytes: {new_bytes.hex(' ')}")
     print(f"[*] Byte length: {len(new_bytes)} bytes (including null)")
     
@@ -63,5 +118,5 @@ def modify_exit_game(target_text="ออกเกม"):
     print(f"[+] Saved modded entry to: {OUT_FILE}")
 
 if __name__ == "__main__":
-    text = sys.argv[1] if len(sys.argv) > 1 else "ออกเกม"
+    text = sys.argv[1] if len(sys.argv) > 1 else "กี่กี้กี๊กิ๋กัดทดสอเบภาษาไทยโดยจริง"
     modify_exit_game(text)
