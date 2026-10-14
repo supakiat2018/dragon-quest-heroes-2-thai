@@ -42,7 +42,7 @@ SLOTS = {
     'า':  {'char': '\u0435', 'cell': (14,  5), 'orig_w': 18, 'x0': 1, 'align': 'left'},   # е (18px)
     
     # พยัญชนะแคบ/กลาง (17-20px)
-    'ร':  {'char': '\u044C', 'cell': (15, 14), 'orig_w': 17, 'x0': 2, 'align': 'center'}, # ь (17px)
+    'ร':  {'char': '\u044C', 'cell': (15, 13), 'orig_w': 19, 'x0': 1, 'align': 'center'}, # ь (19px) - Row 15, Col 13
     'ร้': {'char': '\u0441', 'cell': (15,  2), 'orig_w': 18, 'x0': 1, 'align': 'center'}, # с (18px)
     'ร์': {'char': '\u0442', 'cell': (15,  3), 'orig_w': 19, 'x0': 2, 'align': 'center'}, # т (19px)
     'จ':  {'char': '\u0432', 'cell': (14,  2), 'orig_w': 18, 'x0': 2, 'align': 'center'}, # в (18px)
@@ -59,17 +59,18 @@ SLOTS = {
     'บ':  {'char': '\u0434', 'cell': (14,  4), 'orig_w': 22, 'x0': 2, 'align': 'center'}, # д (22px)
     'อ':  {'char': '\u0443', 'cell': (15,  4), 'orig_w': 22, 'x0': 1, 'align': 'center'}, # у (22px)
     
-    # คลัสเตอร์สระซ้อนและวรรณยุกต์ (23-28px)
+    # คลัสเตอร์สระซ้อนและวรรณยุกต์ (20-28px)
     'ดิ': {'char': '\u0411', 'cell': (11,  1), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Б (23px)
     'ค่': {'char': '\u0415', 'cell': (11,  5), 'orig_w': 23, 'x0': 1, 'align': 'center'}, # Е (23px)
     'คี': {'char': '\u0412', 'cell': (11,  2), 'orig_w': 23, 'x0': 2, 'align': 'center'}, # В (23px)
     'ฟิ': {'char': '\u0401', 'cell': (11,  6), 'orig_w': 24, 'x0': 1, 'align': 'center'}, # Ё (24px)
     'ริ่': {'char': '\u043C', 'cell': (14, 13), 'orig_w': 24, 'x0': 2, 'align': 'center'}, # м (24px)
-    'ตั้': {'char': '\u044E', 'cell': (15, 12), 'orig_w': 26, 'x0': 2, 'align': 'center'}, # ю (26px)
-    'บั': {'char': '\u044F', 'cell': (15, 15), 'orig_w': 26, 'x0': 2, 'align': 'center'}, # я (26px)
-    'ทึ': {'char': '\u0447', 'cell': (15,  9), 'orig_w': 27, 'x0': 1, 'align': 'center'}, # ч (27px)
+    'ทึ': {'char': '\u0447', 'cell': (15,  8), 'orig_w': 20, 'x0': 2, 'align': 'center'}, # ч (20px) - Row 15, Col 8
+    'ตั้': {'char': '\u044E', 'cell': (15, 15), 'orig_w': 26, 'x0': 2, 'align': 'center'}, # ю (26px) - Row 15, Col 15
+    'บั': {'char': '\u044F', 'cell': (16,  0), 'orig_w': 21, 'x0': 1, 'align': 'center'}, # я (21px) - Row 16, Col 0
     'ย์': {'char': '\u0410', 'cell': (11,  0), 'orig_w': 28, 'x0': 1, 'align': 'center'}, # А (28px)
-    'ส์': {'char': '\u0448', 'cell': (15, 10), 'orig_w': 28, 'x0': 1, 'align': 'center'}, # ш (28px)
+    'ส์': {'char': '\u0448', 'cell': (15,  9), 'orig_w': 27, 'x0': 1, 'align': 'center'}, # ш (27px) - Row 15, Col 9
+
 }
 
 THAI_TO_CYR = {k: v['char'] for k, v in SLOTS.items()}
