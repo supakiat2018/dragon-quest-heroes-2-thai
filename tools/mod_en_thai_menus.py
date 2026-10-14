@@ -126,14 +126,46 @@ def render_unstretched_glyph(font, token, slot=None):
     """
     วาดตัวอักษรไทยลงบน Cell ขนาด 36x36 ด้วยระบบ Left-Baseline (anchor='ls')
     ทำให้ทุกอักขระมีระดับเส้นฐาน (Baseline) เท่ากัน 100% ไม่มีตัวอักษรตกหล่น
-    และจัดวางตำแหน่งเริ่มต้นที่ x = 2 - min(0, bbox[0]) อย่างคงที่
+    และยกระดับวรรณยุกต์ซ้อน (ตั้, ริ่) ขึ้นชั้น 3 มีช่องไฟไม่ให้ไม้โท/ไม้เอกติดกับสระ
     """
-    bbox = font.getbbox(token)
-    draw_x = 2 - min(0, bbox[0])
-    cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(cell)
-    draw.text((draw_x, TARGET_BASELINE), token, font=font, fill=(255, 255, 255, 255), anchor='ls')
-    return cell
+    if token == 'ตั้':
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        d = ImageDraw.Draw(cell)
+        d.text((2, TARGET_BASELINE), 'ตั', font=font, fill=(255, 255, 255, 255), anchor='ls')
+        f_tone = ImageFont.truetype(FONT_TTF, 18)
+        temp_t = Image.new('RGBA', (50, 50), (0, 0, 0, 0))
+        d_t = ImageDraw.Draw(temp_t)
+        d_t.text((25, 25), '้', font=f_tone, fill=(255, 255, 255, 255))
+        arr_t = np.array(temp_t)[:, :, 3]
+        coords = np.argwhere(arr_t > 20)
+        min_y, min_x = coords.min(axis=0)
+        max_y, max_x = coords.max(axis=0)
+        crop_tho = temp_t.crop((min_x, min_y, max_x + 1, max_y + 1))
+        cell.paste(crop_tho, (14, 0), crop_tho)
+        return cell
+    elif token == 'ริ่':
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        d = ImageDraw.Draw(cell)
+        d.text((2, TARGET_BASELINE), 'ริ', font=font, fill=(255, 255, 255, 255), anchor='ls')
+        f_tone = ImageFont.truetype(FONT_TTF, 18)
+        temp_ek = Image.new('RGBA', (50, 50), (0, 0, 0, 0))
+        d_ek = ImageDraw.Draw(temp_ek)
+        d_ek.text((25, 25), '่', font=f_tone, fill=(255, 255, 255, 255))
+        arr_ek = np.array(temp_ek)[:, :, 3]
+        coords = np.argwhere(arr_ek > 20)
+        min_y, min_x = coords.min(axis=0)
+        max_y, max_x = coords.max(axis=0)
+        crop_ek = temp_ek.crop((min_x, min_y, max_x + 1, max_y + 1))
+        cell.paste(crop_ek, (11, 2), crop_ek)
+        return cell
+    else:
+        bbox = font.getbbox(token)
+        draw_x = 2 - min(0, bbox[0])
+        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+        draw = ImageDraw.Draw(cell)
+        draw.text((draw_x, TARGET_BASELINE), token, font=font, fill=(255, 255, 255, 255), anchor='ls')
+        return cell
+
 
 
 def patch_font_sheet():
