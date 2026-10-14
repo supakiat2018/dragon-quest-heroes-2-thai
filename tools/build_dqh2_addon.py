@@ -154,35 +154,22 @@ def build_entry_204():
         {'off': 6808, 'tokens': ['อ', 'อ', 'ก', 'จ', 'า', 'ก', 'เ', 'ก', 'ม']},
     ]
     
-    # 2. ประโยคคำถาม Save/Load แบบพยางค์ชิด
-    # ต้อ ง กา ร สร้ า ง บั น ทึ ก กา ร เดิ น ทา ง ใน ช่อ ง ใด ?
-    dialogue_tokens = [
-        TIGHT_PAIRS['ต้อ']['char'],
-        SLOTS['ง']['char'],
-        TIGHT_PAIRS['กา']['char'],
-        SLOTS['ร']['char'],
-        TIGHT_PAIRS['สร้']['char'],
-        SLOTS['า']['char'],
-        SLOTS['ง']['char'],
-        SLOTS['บั']['char'],
-        SLOTS['น']['char'],
-        SLOTS['ทึ']['char'],
-        SLOTS['ก']['char'],
-        TIGHT_PAIRS['กา']['char'],
-        SLOTS['ร']['char'],
-        TIGHT_PAIRS['เดิ']['char'],
-        SLOTS['น']['char'],
-        TIGHT_PAIRS['ทา']['char'],
-        SLOTS['ง']['char'],
-        TIGHT_PAIRS['ใน']['char'],
-        TIGHT_PAIRS['ช่อ']['char'],
-        SLOTS['ง']['char'],
-        TIGHT_PAIRS['ใด']['char'],
+    # 2. ประโยคคำถาม Save/Load แบบอักขระเดี่ยวมาตรฐาน (No PUA Ligatures)
+    # ต้ อ ง ก า ร ส ร้ า ง บั น ทึ ก ก า ร เ ดิ น ท า ง ใ น ช่ อ ง ใ ด ?
+    dialogue_tokens_std = [
+        'ต้', 'อ', 'ง', 'ก', 'า', 'ร',
+        'ส', 'ร้', 'า', 'ง',
+        'บั', 'น', 'ทึ', 'ก',
+        'ก', 'า', 'ร',
+        'เ', 'ดิ', 'น', 'ท', 'า', 'ง',
+        'ใ', 'น',
+        'ช่', 'อ', 'ง',
+        'ใ', 'ด',
         '?'
     ]
-    dialogue_cyr_str = "".join(dialogue_tokens)
+    dialogue_cyr_str = "".join(SLOTS[t]['char'] if t in SLOTS else t for t in dialogue_tokens_std)
     dialogue_utf8 = dialogue_cyr_str.encode('utf-8') + b"\x1bFH\x00"
-    
+
     # 1. เขียนเมนู 1, 2, 3 ในบล็อกว่าง 79264..79332 (71 ไบต์)
     cur_off = 79264
     for m in menus_6[:3]:
@@ -191,7 +178,7 @@ def build_entry_204():
         data[cur_off : cur_off + len(utf8)] = utf8
         struct.pack_into("<I", data, m['off'], cur_off - 0x20)
         cur_off = (cur_off + len(utf8) + 1) & ~1
-        
+
     # 2. เขียนเมนู 4, 5, 6, 7 ในบล็อกว่าง 86672..86768 (97 ไบต์)
     cur_off = 86672
     for m in menus_6[3:]:
@@ -200,11 +187,11 @@ def build_entry_204():
         data[cur_off : cur_off + len(utf8)] = utf8
         struct.pack_into("<I", data, m['off'], cur_off - 0x20)
         cur_off = (cur_off + len(utf8) + 1) & ~1
-        
-    # 3. เขียน Dialogue Prompt ลงที่ตำแหน่ง pointer 0 (เดิมอยู่ที่ 7600/abs 7632 ขนาด 55 ไบต์)
-    pos_dialogue = 7632
+
+    # 3. เขียน Dialogue Prompt ในบล็อก Unused ว่างขนาด 2,115 ไบต์ที่ตำแหน่ง 66624
+    pos_dialogue = 66624
     data[pos_dialogue : pos_dialogue + len(dialogue_utf8)] = dialogue_utf8
-    struct.pack_into("<I", data, 32, 7600)
+    struct.pack_into("<I", data, 32, pos_dialogue - 0x20)
     
     assert len(data) == ORIG_SIZE, f"Size changed: {len(data)} != {ORIG_SIZE}"
     print(f"[+] Entry 204 successfully created ({len(data)} bytes, 100% fits in original slot)")

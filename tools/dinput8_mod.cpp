@@ -144,9 +144,9 @@ float GetThaiCharWidth(uint32_t code)
 {
     switch (code) {
         // Standard menu tokens:
-        case 0xD0B3: return 16.0f; // เ (г)
+        case 0xD0B3: return 15.0f; // เ (г)
         case 0xD0B5: return 18.0f; // า (е)
-        case 0xD18C: return 19.0f; // ร (ь)
+        case 0xD18C: return 16.0f; // ร (ь)
         case 0xD181: return 18.0f; // ร้ (с)
         case 0xD182: return 19.0f; // ร์ (т)
         case 0xD0B2: return 18.0f; // จ (в)
