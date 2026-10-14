@@ -145,16 +145,17 @@ def render_glyphs_to_font(char_map, out_png_path=None):
 
 if __name__ == "__main__":
     # ใช้ช่อง Cyrillic (Row 11) เป็น PUA เฉพาะ เพื่อไม่กระทบตัวอักษรภาษาอังกฤษ
-    # Row 11: Col 14 = 'О' (0x041E) -> 'อ'
+    # Row 11: Col 15 = 'О' (0x041E) -> 'อ'
     # Row 11: Col 0  = 'А' (0x0410) -> 'ก'
     # Row 11: Col 5  = 'Е' (0x0415) -> 'เ'
-    # Row 11: Col 12 = 'М' (0x041C) -> 'ม'
+    # Row 11: Col 13 = 'М' (0x041C) -> 'ม'
     cyrillic_pua_map = {
-        (11, 14): 'อ',
+        (11, 15): 'อ',
         (11, 0):  'ก',
         (11, 5):  'เ',
-        (11, 12): 'ม'
+        (11, 13): 'ม'
     }
     render_glyphs_to_font(cyrillic_pua_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))
+
 
 
