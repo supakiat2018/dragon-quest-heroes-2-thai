@@ -87,6 +87,10 @@ bool InitD2D(IDXGISwapChain* pSwapChain)
         return false;
     }
 
+    DXGI_SWAP_CHAIN_DESC scDesc = {};
+    pSwapChain->GetDesc(&scDesc);
+    Log("InitD2D: SwapChain format=%d, res=%dx%d", scDesc.BufferDesc.Format, scDesc.BufferDesc.Width, scDesc.BufferDesc.Height);
+
     if (!pD2DFactory) {
         D2D1CreateFactory(D2D1_FACTORY_TYPE_SINGLE_THREADED, &pD2DFactory);
     }
@@ -95,17 +99,33 @@ bool InitD2D(IDXGISwapChain* pSwapChain)
         DWriteCreateFactory(DWRITE_FACTORY_TYPE_SHARED, __uuidof(IDWriteFactory), (IUnknown**)&pDWriteFactory);
     }
 
-    D2D1_RENDER_TARGET_PROPERTIES props = D2D1::RenderTargetProperties(
-        D2D1_RENDER_TARGET_TYPE_DEFAULT,
-        D2D1::PixelFormat(DXGI_FORMAT_UNKNOWN, D2D1_ALPHA_MODE_PREMULTIPLIED)
-    );
+    // Try various pixel format combinations
+    D2D1_PIXEL_FORMAT formatsToTry[] = {
+        D2D1::PixelFormat(scDesc.BufferDesc.Format, D2D1_ALPHA_MODE_IGNORE),
+        D2D1::PixelFormat(scDesc.BufferDesc.Format, D2D1_ALPHA_MODE_PREMULTIPLIED),
+        D2D1::PixelFormat(DXGI_FORMAT_UNKNOWN, D2D1_ALPHA_MODE_IGNORE),
+        D2D1::PixelFormat(DXGI_FORMAT_UNKNOWN, D2D1_ALPHA_MODE_PREMULTIPLIED),
+    };
 
-    hr = pD2DFactory->CreateDxgiSurfaceRenderTarget(pBackBufferSurface, &props, &pD2DRenderTarget);
+    HRESULT lastHr = E_FAIL;
+    for (int i = 0; i < 4; i++) {
+        D2D1_RENDER_TARGET_PROPERTIES props = D2D1::RenderTargetProperties(
+            D2D1_RENDER_TARGET_TYPE_DEFAULT,
+            formatsToTry[i]
+        );
+        hr = pD2DFactory->CreateDxgiSurfaceRenderTarget(pBackBufferSurface, &props, &pD2DRenderTarget);
+        if (SUCCEEDED(hr) && pD2DRenderTarget) {
+            Log("InitD2D: CreateDxgiSurfaceRenderTarget SUCCEEDED with format index %d!", i);
+            break;
+        }
+        lastHr = hr;
+    }
     pBackBufferSurface->Release();
-    if (FAILED(hr) || !pD2DRenderTarget) {
+
+    if (!pD2DRenderTarget) {
         static bool loggedOnce2 = false;
         if (!loggedOnce2) {
-            Log("InitD2D: CreateDxgiSurfaceRenderTarget failed with hr=0x%08X", hr);
+            Log("InitD2D: All PixelFormat attempts failed, lastHr=0x%08X", lastHr);
             loggedOnce2 = true;
         }
         return false;
