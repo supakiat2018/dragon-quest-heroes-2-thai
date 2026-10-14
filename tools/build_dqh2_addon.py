@@ -103,12 +103,36 @@ def build_entry_341():
     print(f"[+] Entry 341 packed size: {len(packed)} bytes")
     return packed
 
+TIGHT_PAIRS_342 = {
+    'ต้อ': (11, 4),  # Д
+    'กา':  (11, 7),  # Ж
+    'สร้': (11, 8),  # З
+    'เดิ': (11, 9),  # И
+    'ทา':  (11, 10), # Й
+    'ใน':  (11, 11), # К
+    'ช่อ': (11, 12), # Л
+    'ใด':  (11, 13), # М
+}
+
 def build_entry_342():
-    print("[*] Building Entry 342 (Menu Font)...")
+    print("[*] Building Entry 342 (Menu Font with Tight Ligatures)...")
     path_342 = os.path.join(BASE_DIR, "workspace", "tex_342", "out", "entry_342.g1t")
     with open(path_342, "rb") as f:
-        g1t_data = f.read()
-    packed = pack_entry_chunks(g1t_data)
+        g1t_data = bytearray(f.read())
+
+    G1T_HEADER_SIZE = 56
+    SCANBAND_BYTES = 256 * 16  # 4096 bytes (1024 width / 4 * 16)
+
+    for token, (r, c) in TIGHT_PAIRS_342.items():
+        cell_img = render_cell(token, align='center', fsize=30)
+        dxt_rows = encode_cell_dxt5(cell_img)
+        bx = c * 9
+        by = r * 9
+        for dy in range(9):
+            offset = G1T_HEADER_SIZE + (by + dy) * SCANBAND_BYTES + bx * 16
+            g1t_data[offset : offset + 144] = dxt_rows[dy]
+
+    packed = pack_entry_chunks(bytes(g1t_data))
     print(f"[+] Entry 342 packed size: {len(packed)} bytes")
     return packed
 
