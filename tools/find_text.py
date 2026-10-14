@@ -64,31 +64,31 @@ def decompress_entry(f_bin, off, size, zsize, zip_flag):
             out.extend(decomp)
     return bytes(out)
 
-matches = []
+if __name__ == "__main__":
+    matches = []
 
-with open(bin_path, "rb") as f_bin:
-    for i, (off, size, zsize, zip_flag) in enumerate(entries):
-        if size == 0:
-            continue
-        # Skip gigantic entries (> 50MB) for fast scan first, or scan everything
-        if size > 30 * 1024 * 1024:
-            continue
-        try:
-            data = decompress_entry(f_bin, off, size, zsize, zip_flag)
-            found_any = False
-            for t in targets:
-                if t in data:
-                    print(f"MATCH: Entry {i} contains '{t.decode()}' (size={len(data)})", flush=True)
-                    matches.append((i, t))
-                    found_any = True
-            if found_any:
-                out_name = f"entry_{i}.bin"
-                with open(out_name, "wb") as f_out:
-                    f_out.write(data)
-                print(f"Dumped entry {i} to {out_name}", flush=True)
-        except Exception as e:
-            pass
-        if i % 1000 == 0:
-            print(f"Progress: scanned {i}/{len(entries)} entries...", flush=True)
+    with open(bin_path, "rb") as f_bin:
+        for i, (off, size, zsize, zip_flag) in enumerate(entries):
+            if size == 0:
+                continue
+            if size > 30 * 1024 * 1024:
+                continue
+            try:
+                data = decompress_entry(f_bin, off, size, zsize, zip_flag)
+                found_any = False
+                for t in targets:
+                    if t in data:
+                        print(f"MATCH: Entry {i} contains '{t.decode()}' (size={len(data)})", flush=True)
+                        matches.append((i, t))
+                        found_any = True
+                if found_any:
+                    out_name = f"entry_{i}.bin"
+                    with open(out_name, "wb") as f_out:
+                        f_out.write(data)
+                    print(f"Dumped entry {i} to {out_name}", flush=True)
+            except Exception as e:
+                pass
+            if i % 1000 == 0:
+                print(f"Progress: scanned {i}/{len(entries)} entries...", flush=True)
 
-print("Finished scanning. Matches found:", matches, flush=True)
+    print("Finished scanning. Matches found:", matches, flush=True)
