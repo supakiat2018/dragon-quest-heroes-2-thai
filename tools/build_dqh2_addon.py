@@ -17,7 +17,7 @@ from PIL import Image, ImageFont, ImageDraw
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(BASE_DIR, "tools"))
 
-from mod_en_thai_menus import SLOTS, TARGET_MENUS, render_unstretched_glyph, FONT_TTF
+from mod_en_thai_menus import SLOTS, TARGET_MENUS, render_unstretched_glyph, FONT_TTF, patch_font_sheet
 from test_cell_encoder import encode_cell_dxt5
 from inject_inplace import pack_entry_chunks
 
@@ -31,19 +31,6 @@ CYR_UPPER_341.insert(6, chr(0x0401)) # Ё
 CYR_LOWER_341 = [chr(0x0430 + i) for i in range(32)]
 CYR_LOWER_341.insert(6, chr(0x0451)) # ё
 
-# คู่พยางค์ชิด (Natural Syllable Ligatures) สำหรับประโยค Save/Load
-# เพื่อแก้ปัญหาตัวอักษรห่าง ให้ชิดสนิทเป็นคำธรรมชาติ 100%
-TIGHT_PAIRS = {
-    'ต้อ': {'char': '\u0414', 'align': 'center'}, # Д
-    'กา':  {'char': '\u0416', 'align': 'center'}, # Ж
-    'สร้': {'char': '\u0417', 'align': 'center'}, # З
-    'เดิ': {'char': '\u0418', 'align': 'center'}, # И
-    'ทา':  {'char': '\u0419', 'align': 'center'}, # Й
-    'ใน':  {'char': '\u041A', 'align': 'center'}, # К
-    'ช่อ': {'char': '\u041B', 'align': 'center'}, # Л
-    'ใด':  {'char': '\u041C', 'align': 'center'}, # М
-}
-
 def get_341_cell(char):
     if char in CYR_UPPER_341:
         idx = CYR_UPPER_341.index(char)
@@ -54,43 +41,20 @@ def get_341_cell(char):
     else:
         raise ValueError(f"Char {char} not found in Cyrillic alphabet")
 
-def render_cell(token, align='center', fsize=30):
-    font = ImageFont.truetype(FONT_TTF, fsize)
-    cell = Image.new('RGBA', (36, 36), (0, 0, 0, 0))
-    d = ImageDraw.Draw(cell)
-    bbox = font.getbbox(token)
-    w = bbox[2] - bbox[0]
-    x = (36 - w) // 2 - bbox[0]
-    y = 32 - bbox[3]
-    d.text((x, y), token, font=font, fill=(255, 255, 255, 255))
-    return cell
-
 def build_entry_341():
-    print("[*] Building Entry 341 (Main Dialogue Font with Tight Ligatures)...")
+    print("[*] Building Entry 341 (Main Dialogue Font - 100% Single Natural Characters)...")
     with open(os.path.join(BASE_DIR, "backup", "entry_341_original.g1t"), "rb") as f:
         g1t_data = bytearray(f.read())
         
-    font_std = ImageFont.truetype(FONT_TTF, 32)
+    font_std = ImageFont.truetype(FONT_TTF, 30)
     G1T_HEADER_SIZE = 56
     SCANBAND_BYTES = 1024 * 16 # 16384 bytes
     
-    # 1. วาด 29 อักขระมาตรฐาน
+    # วาด 29 อักขระมาตรฐานธรรมชาติ 100% ด้วย Baseline ที่เท่ากันทุกตัว
     for token, slot in SLOTS.items():
         ch = slot['char']
         r, c = get_341_cell(ch)
         cell_img = render_unstretched_glyph(font_std, token, slot)
-        dxt_rows = encode_cell_dxt5(cell_img)
-        bx = c * 9
-        by = r * 9
-        for dy in range(9):
-            offset = G1T_HEADER_SIZE + (by + dy) * SCANBAND_BYTES + bx * 16
-            g1t_data[offset : offset + 144] = dxt_rows[dy]
-            
-    # 2. วาด 8 คู่พยางค์ชิด (Tight Ligatures)
-    for token, info in TIGHT_PAIRS.items():
-        ch = info['char']
-        r, c = get_341_cell(ch)
-        cell_img = render_cell(token, align=info['align'], fsize=30)
         dxt_rows = encode_cell_dxt5(cell_img)
         bx = c * 9
         by = r * 9
@@ -103,34 +67,12 @@ def build_entry_341():
     print(f"[+] Entry 341 packed size: {len(packed)} bytes")
     return packed
 
-TIGHT_PAIRS_342 = {
-    'ต้อ': (11, 4),  # Д
-    'กา':  (11, 7),  # Ж
-    'สร้': (11, 8),  # З
-    'เดิ': (11, 9),  # И
-    'ทา':  (11, 10), # Й
-    'ใน':  (11, 11), # К
-    'ช่อ': (11, 12), # Л
-    'ใด':  (11, 13), # М
-}
-
 def build_entry_342():
-    print("[*] Building Entry 342 (Menu Font with Tight Ligatures)...")
+    print("[*] Building Entry 342 (Menu Font - 100% Single Natural Characters)...")
+    patch_font_sheet()
     path_342 = os.path.join(BASE_DIR, "workspace", "tex_342", "out", "entry_342.g1t")
     with open(path_342, "rb") as f:
         g1t_data = bytearray(f.read())
-
-    G1T_HEADER_SIZE = 56
-    SCANBAND_BYTES = 256 * 16  # 4096 bytes (1024 width / 4 * 16)
-
-    for token, (r, c) in TIGHT_PAIRS_342.items():
-        cell_img = render_cell(token, align='center', fsize=30)
-        dxt_rows = encode_cell_dxt5(cell_img)
-        bx = c * 9
-        by = r * 9
-        for dy in range(9):
-            offset = G1T_HEADER_SIZE + (by + dy) * SCANBAND_BYTES + bx * 16
-            g1t_data[offset : offset + 144] = dxt_rows[dy]
 
     packed = pack_entry_chunks(bytes(g1t_data))
     print(f"[+] Entry 342 packed size: {len(packed)} bytes")
@@ -164,8 +106,7 @@ def build_entry_204():
         'เ', 'ดิ', 'น', 'ท', 'า', 'ง',
         'ใ', 'น',
         'ช่', 'อ', 'ง',
-        'ใ', 'ด',
-        '?'
+        'ใ', 'ด'
     ]
     dialogue_cyr_str = "".join(SLOTS[t]['char'] if t in SLOTS else t for t in dialogue_tokens_std)
     dialogue_utf8 = dialogue_cyr_str.encode('utf-8') + b"\x1bFH\x00"

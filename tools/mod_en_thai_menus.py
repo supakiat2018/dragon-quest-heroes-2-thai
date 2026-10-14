@@ -30,8 +30,8 @@ OUT_DDS = os.path.join(TEX_DIR, "entry_342.TEX0.dxt5.dds")
 OUT_G1T = os.path.join(TEX_DIR, "out", "entry_342.g1t")
 
 CELL_SIZE = 36
-TARGET_BASELINE = 32 # Baseline มาตรฐานของตัวอักษรใน entry_342
-FONT_SIZE = 32       # ขนาดฟอนต์ที่พอดีกับความสูง 20px (ตัวเล็ก) และ 28px (ตัวใหญ่)
+TARGET_BASELINE = 31 # Baseline มาตรฐานของตัวอักษรใน entry_342
+FONT_SIZE = 30       # ขนาดฟอนต์ 30pt สวยงาม คมชัด ไม่ล้นช่อง 36x36
 
 # ตารางจับคู่ 26 อักขระ/คลัสเตอร์ไทย กับช่อง Cyrillic ใน entry_342
 # คัดเลือกช่องที่มีค่าความกว้าง (orig_w) ตรงกับความกว้างธรรมชาติของอักขระไทยที่สุด
@@ -122,83 +122,19 @@ TARGET_MENUS = [
     },
 ]
 
-def render_unstretched_glyph(font, token, slot):
+def render_unstretched_glyph(font, token, slot=None):
     """
-    วาดตัวอักษรไทยลงบนขนาด 36x36 โดยไม่บีบหรือยืดภาพ
-    และจัดตำแหน่ง X ตามชนิดอักขระ (ชิดซ้าย/ชิดขวา/กึ่งกลาง)
-    พร้อมทั้งรองรับคลัสเตอร์ 3 ชั้น (ตั้, ริ่) ไม่ให้วรรณยุกต์ถูกตัดขอบ
+    วาดตัวอักษรไทยลงบน Cell ขนาด 36x36 ด้วยระบบ Left-Baseline (anchor='ls')
+    ทำให้ทุกอักขระมีระดับเส้นฐาน (Baseline) เท่ากัน 100% ไม่มีตัวอักษรตกหล่น
+    และจัดวางตำแหน่งเริ่มต้นที่ x = 2 - min(0, bbox[0]) อย่างคงที่
     """
-    target_w = slot['orig_w']
-    x0 = slot['x0']
-    align = slot.get('align', 'center')
+    bbox = font.getbbox(token)
+    draw_x = 2 - min(0, bbox[0])
+    cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(cell)
+    draw.text((draw_x, TARGET_BASELINE), token, font=font, fill=(255, 255, 255, 255), anchor='ls')
+    return cell
 
-    if token == 'ตั้':
-        f_base = ImageFont.truetype(FONT_TTF, 28)
-        f_tone = ImageFont.truetype(FONT_TTF, 18)
-        temp = Image.new('RGBA', (100, 100), (0, 0, 0, 0))
-        d_t = ImageDraw.Draw(temp)
-        b_base = f_base.getbbox('ต')
-        d_t.text((20, 50 - b_base[3]), 'ตั', font=f_base, fill=(255, 255, 255, 255))
-        d_t.text((20 + 13, 50 - b_base[3] - 7), '้', font=f_tone, fill=(255, 255, 255, 255))
-        arr = np.array(temp)[:, :, 3]
-        coords = np.argwhere(arr > 20)
-        min_y, min_x = coords.min(axis=0)
-        max_y, max_x = coords.max(axis=0)
-        cropped = temp.crop((min_x, min_y, max_x + 1, max_y + 1))
-        gw = max_x - min_x + 1
-        paste_y = TARGET_BASELINE - (max_y - min_y + 1)
-        paste_x = x0 + max(0, (target_w - gw) // 2)
-        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-        cell.paste(cropped, (paste_x, paste_y), cropped)
-        return cell
-    elif token == 'ริ่':
-        f_base = ImageFont.truetype(FONT_TTF, 28)
-        f_tone = ImageFont.truetype(FONT_TTF, 18)
-        temp = Image.new('RGBA', (100, 100), (0, 0, 0, 0))
-        d_t = ImageDraw.Draw(temp)
-        b_base = f_base.getbbox('ร')
-        d_t.text((20, 50 - b_base[3]), 'ริ', font=f_base, fill=(255, 255, 255, 255))
-        d_t.text((20 + 11, 50 - b_base[3] - 6), '่', font=f_tone, fill=(255, 255, 255, 255))
-        arr = np.array(temp)[:, :, 3]
-        coords = np.argwhere(arr > 20)
-        min_y, min_x = coords.min(axis=0)
-        max_y, max_x = coords.max(axis=0)
-        cropped = temp.crop((min_x, min_y, max_x + 1, max_y + 1))
-        gw = max_x - min_x + 1
-        paste_y = TARGET_BASELINE - (max_y - min_y + 1)
-        paste_x = x0 + max(0, (target_w - gw) // 2)
-        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-        cell.paste(cropped, (paste_x, paste_y), cropped)
-        return cell
-    else:
-        cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-        draw = ImageDraw.Draw(cell)
-        bbox = font.getbbox(token)
-        draw_x = 2 - bbox[0]
-        draw_y = TARGET_BASELINE - bbox[3]
-        draw.text((draw_x, draw_y), token, font=font, fill=(255, 255, 255, 255))
-        
-        arr = np.array(cell)[:, :, 3]
-        coords = np.argwhere(arr > 20)
-        if len(coords) == 0:
-            return cell
-            
-        min_y, min_x = coords.min(axis=0)
-        max_y, max_x = coords.max(axis=0)
-        gw = max_x - min_x + 1
-        
-        cropped = cell.crop((min_x, min_y, max_x + 1, max_y + 1))
-        
-        if align == 'right': # สระหน้า: ดันไปทางขวาของช่องเพื่อชิดพยัญชนะตัวถัดไป
-            paste_x = x0 + max(0, target_w - gw - 1)
-        elif align == 'left': # สระหลัง: ดันไปทางซ้ายของช่องเพื่อชิดพยัญชนะตัวหน้า
-            paste_x = x0 + 1
-        else: # พยัญชนะ: วางกึ่งกลางของความกว้างช่องเดิม
-            paste_x = x0 + max(0, (target_w - gw) // 2)
-            
-        new_cell = Image.new('RGBA', (CELL_SIZE, CELL_SIZE), (0, 0, 0, 0))
-        new_cell.paste(cropped, (paste_x, min_y), cropped)
-        return new_cell
 
 def patch_font_sheet():
     """
