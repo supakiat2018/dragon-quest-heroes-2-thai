@@ -125,6 +125,90 @@ void LoadAddonPackage()
     Log("[+] Addon package successfully loaded into memory!");
 }
 
+// =========================================================================
+// Font Advance Width Hook (Proportional Spacing)
+// =========================================================================
+
+struct CharInfo {
+    uint32_t char_code;    // +0x00: UTF-8 character code
+    uint32_t byte_len;     // +0x04: 1, 2, 3, or 4 bytes
+    uint32_t glyph_index;  // +0x08: cell index in font atlas
+    float advance_width;   // +0x0C: spacing / cursor advance
+    uint8_t flags[4];      // +0x10
+};
+
+typedef const char* (*tGetNextCharAndWidth)(void* mgr, const char* str, CharInfo* out_info);
+static tGetNextCharAndWidth oGetNextCharAndWidth = nullptr;
+
+float GetThaiCharWidth(uint32_t code)
+{
+    switch (code) {
+        // Standard menu tokens:
+        case 0xD0B3: return 16.0f; // เ (г)
+        case 0xD0B5: return 18.0f; // า (е)
+        case 0xD18C: return 19.0f; // ร (ь)
+        case 0xD181: return 18.0f; // ร้ (с)
+        case 0xD182: return 19.0f; // ร์ (т)
+        case 0xD0B2: return 18.0f; // จ (в)
+        case 0xD0B0: return 20.0f; // ก (а)
+        case 0xD0BE: return 20.0f; // ม (о)
+        case 0xD0B8: return 20.0f; // น (и)
+        case 0xD180: return 21.0f; // ส (р)
+        case 0xD0B1: return 19.0f; // ง (б)
+        case 0xD0BA: return 21.0f; // ด (к)
+        case 0xD0BD: return 21.0f; // ท (н)
+        case 0xD0BB: return 22.0f; // ล (л)
+        case 0xD0B4: return 22.0f; // บ (д)
+        case 0xD183: return 22.0f; // อ (у)
+        case 0xD091: return 23.0f; // ดิ (Б)
+        case 0xD093: return 21.0f; // ค่ (Г)
+        case 0xD092: return 23.0f; // คี (В)
+        case 0xD095: return 23.0f; // ฟิ (Е)
+        case 0xD18D: return 17.0f; // ริ่ (э)
+        case 0xD187: return 20.0f; // ทึ (ч)
+        case 0xD18A: return 22.0f; // ตั้ (ъ)
+        case 0xD0A0: return 23.0f; // บั (Р)
+        case 0xD090: return 28.0f; // ย์ (А)
+        case 0xD188: return 27.0f; // ส์ (ш)
+        case 0xD185: return 20.0f; // ต้ (х)
+        case 0xD191: return 18.0f; // ช่ (ё)
+        case 0xD0B7: return 16.0f; // ใ (з)
+
+        // Tight syllable pairs:
+        case 0xD094: return 32.0f; // ต้อ (Д)
+        case 0xD096: return 30.0f; // กา  (Ж)
+        case 0xD097: return 32.0f; // สร้ (З)
+        case 0xD098: return 30.0f; // เดิ (И)
+        case 0xD099: return 30.0f; // ทา  (Й)
+        case 0xD09A: return 30.0f; // ใน  (К)
+        case 0xD09B: return 32.0f; // ช่อ (Л)
+        case 0xD09C: return 30.0f; // ใด  (М)
+
+        default:
+            return -1.0f;
+    }
+}
+
+const char* hkGetNextCharAndWidth(void* mgr, const char* str, CharInfo* out_info)
+{
+    const char* ret = oGetNextCharAndWidth(mgr, str, out_info);
+    if (out_info && out_info->byte_len == 2) {
+        float custom_w = GetThaiCharWidth(out_info->char_code);
+        if (custom_w > 0.0f) {
+            float orig_w = out_info->advance_width;
+            out_info->advance_width = custom_w;
+            static bool logged[65536] = { false };
+            uint16_t key = (uint16_t)out_info->char_code;
+            if (!logged[key]) {
+                logged[key] = true;
+                Log("[FONT WIDTH HOOK] char_code: 0x%04X, glyph: %u, width: %.1f -> %.1f",
+                    out_info->char_code, out_info->glyph_index, orig_w, custom_w);
+            }
+        }
+    }
+    return ret;
+}
+
 // Real DirectInput8Create proxy
 typedef HRESULT (WINAPI *tDirectInput8Create)(HINSTANCE hinst, DWORD dwVersion, REFIID riidltf, LPVOID *ppvOut, LPUNKNOWN punkOuter);
 static tDirectInput8Create oDirectInput8Create = nullptr;
@@ -234,8 +318,23 @@ DWORD WINAPI InitThread(LPVOID)
     if (MH_Initialize() == MH_OK) {
         MH_CreateHookApi(L"kernel32.dll", "CreateFileW", (LPVOID)&hkCreateFileW, (LPVOID*)&oCreateFileW);
         MH_CreateHookApi(L"kernel32.dll", "ReadFile", (LPVOID)&hkReadFile, (LPVOID*)&oReadFile);
+
+        uintptr_t exeBase = (uintptr_t)GetModuleHandle(NULL);
+        uintptr_t targetFontFn = exeBase + 0x56a500;
+        const uint8_t expected_prologue[] = { 0x48, 0x89, 0x5c, 0x24, 0x08, 0x48, 0x89, 0x74 };
+        if (memcmp((const void*)targetFontFn, expected_prologue, sizeof(expected_prologue)) == 0) {
+            Log("[+] Verified GetNextCharAndWidth prologue at %p, creating hook...", (void*)targetFontFn);
+            if (MH_CreateHook((LPVOID)targetFontFn, (LPVOID)&hkGetNextCharAndWidth, (LPVOID*)&oGetNextCharAndWidth) == MH_OK) {
+                Log("[+] Successfully hooked GetNextCharAndWidth for Proportional Font Spacing!");
+            } else {
+                Log("[-] Failed to create hook on GetNextCharAndWidth");
+            }
+        } else {
+            Log("[-] Prologue mismatch at %p, skipping font advance width hook", (void*)targetFontFn);
+        }
+
         MH_EnableHook(MH_ALL_HOOKS);
-        Log("[+] Hooks successfully initialized!");
+        Log("[+] Hooks successfully initialized and enabled!");
     }
     return 0;
 }
