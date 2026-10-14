@@ -89,9 +89,9 @@ def render_glyphs_to_font(char_map, out_png_path=None):
     img = Image.open(ORIG_PNG).convert("RGBA")
     draw = ImageDraw.Draw(img)
     
-    font_size = 26
+    font_size = 44
     font = ImageFont.truetype(FONT_TTF, font_size)
-    target_baseline = 27 # เส้นบรรทัด Y=27
+    target_baseline = 32 # เส้นบรรทัด Y=32 (ระดับเดียวกับตัวอักษรเดิมของเกม)
     
     for target_slot, thai_char in char_map.items():
         if isinstance(target_slot, str):
@@ -112,12 +112,12 @@ def render_glyphs_to_font(char_map, out_png_path=None):
         # วัดขนาด Bounding Box
         bbox = font.getbbox(thai_char)
         
-        # ชิดซ้ายโดยเว้นระยะหน้า 4 พิกเซล เพื่อให้ตัวอักษรเรียงชิดกันอย่างเป็นธรรมชาติ (ไม่ห่าง)
-        draw_x = x0 + 4 - bbox[0]
+        # ชิดซ้ายเริ่มต้นที่พิกเซล 2 เพื่อให้ตัวอักษรชิดแน่นเป็นธรรมชาติ
+        draw_x = x0 + 2 - bbox[0]
         draw_y = y0 + target_baseline - bbox[3]
         
         draw.text((draw_x, draw_y), thai_char, font=font, fill=(255, 255, 255, 255))
-        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Slot: {target_slot})")
+        print(f"[+] Rendered '{thai_char}' into cell Row {row}, Col {col} (Slot: {target_slot}, size={font_size})")
         
     if out_png_path:
         img.save(out_png_path)
@@ -144,15 +144,15 @@ def render_glyphs_to_font(char_map, out_png_path=None):
     return OUT_DDS
 
 if __name__ == "__main__":
-    # ใช้ช่อง Cyrillic (Row 11) เป็น PUA เฉพาะ เพื่อไม่กระทบตัวอักษรภาษาอังกฤษ
-    # Row 11: Col 15 = 'О' (0x041E) -> 'อ'
-    # Row 11: Col 0  = 'А' (0x0410) -> 'ก'
-    # Row 11: Col 5  = 'Е' (0x0415) -> 'เ'
-    # Row 11: Col 13 = 'М' (0x041C) -> 'ม'
+    # ใช้ช่อง Cyrillic (Row 11 & Row 14) เป็น PUA เฉพาะ เพื่อไม่กระทบตัวอักษรภาษาอังกฤษ
+    # Row 11: Col 15 = 'О' (0x041E) -> 'อ' (Advance ~27px)
+    # Row 11: Col 0  = 'А' (0x0410) -> 'ก' (Advance ~28px)
+    # Row 14: Col 3  = 'г' (0x0433) -> 'เ' (Advance ~17px, ช่องแคบเพื่อให้ตัว 'เ' ชิดแน่น)
+    # Row 11: Col 13 = 'М' (0x041C) -> 'ม' (Advance ~32px)
     cyrillic_pua_map = {
         (11, 15): 'อ',
         (11, 0):  'ก',
-        (11, 5):  'เ',
+        (14, 3):  'เ',
         (11, 13): 'ม'
     }
     render_glyphs_to_font(cyrillic_pua_map, os.path.join(TEX_DIR, "entry_342_test_thai.png"))

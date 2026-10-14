@@ -28,9 +28,16 @@ def modify_exit_game(target_text="ออกเกม"):
     expected_ptr = old_offset - 0x20
     assert old_ptr_val == expected_ptr, f"Pointer mismatch! Expected {expected_ptr}, got {old_ptr_val}"
     
-    # เข้ารหัสข้อความใหม่เป็น UTF-8 พร้อม null-terminator
-    new_bytes = target_text.encode("utf-8") + b"\x00"
-    print(f"[*] Target text: '{target_text}'")
+    # แปลงตัวอักษรไทยเป็นรหัส Cyrillic PUA ตามที่วาดไว้ใน Font Sheet
+    THAI_TO_PUA = {
+        'อ': '\u041E', # Row 11, Col 15 ('О', Advance ~27px)
+        'ก': '\u0410', # Row 11, Col 0  ('А', Advance ~28px)
+        'เ': '\u0433', # Row 14, Col 3  ('г', Advance ~17px ช่องแคบ สระชิดแน่น)
+        'ม': '\u041C', # Row 11, Col 13 ('М', Advance ~32px)
+    }
+    encoded_chars = "".join(THAI_TO_PUA.get(c, c) for c in target_text)
+    new_bytes = encoded_chars.encode("utf-8") + b"\x00"
+    print(f"[*] Target text: '{target_text}' -> Encoded: '{encoded_chars}'")
     print(f"[*] Hex bytes: {new_bytes.hex(' ')}")
     print(f"[*] Byte length: {len(new_bytes)} bytes (including null)")
     
