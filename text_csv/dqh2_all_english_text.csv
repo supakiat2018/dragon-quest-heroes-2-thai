@@ -8527,9 +8527,9 @@
 36,Story_Quests,1245,5016,26688,,
 36,Story_Quests,1246,5020,26689,,
 36,Story_Quests,1247,5024,26690,,
-36,Story_Quests,1248,5028,26691,Plunder Down Under,
-36,Story_Quests,1249,5032,26710,Plunder Down Under,
-36,Story_Quests,1250,5036,26729,"Before trying the trial for the legendary weapon, you'll need to retrieve the Trinity Stone, which sleeps with the first kings of Dunisia. Go down to the depths of the pyramid and wrest it from its place of rest<FG>",
+36,Story_Quests,1248,5028,26691,Plunder Down Under,บุกปล้นใต้พิภพ
+36,Story_Quests,1249,5032,26710,Plunder Down Under,บุกปล้นใต้พิภพ
+36,Story_Quests,1250,5036,26729,"Before trying the trial for the legendary weapon, you'll need to retrieve the Trinity Stone, which sleeps with the first kings of Dunisia. Go down to the depths of the pyramid and wrest it from its place of rest<FG>",ก่อนที่จะเข้ารับการทดสอบเพื่อชิงอาวุธในตำนาน คุณต้องไปนำศิลาตรีเอกานุภาพที่หลับใหลอยู่เคียงข้างเหล่าปฐมกษัตริย์แห่งดูนิเซียกลับมาก่อน จงลงไปยังส่วนลึกที่สุดของพีระมิดแล้วชิงมันมาจากสถานที่หลับใหล<FG>
 36,Story_Quests,1251,5040,26944,,
 36,Story_Quests,1252,5044,26945,,
 36,Story_Quests,1253,5048,26946,,
@@ -8575,9 +8575,9 @@
 36,Story_Quests,1293,5208,26986,,
 36,Story_Quests,1294,5212,26987,,
 36,Story_Quests,1295,5216,26988,,
-36,Story_Quests,1296,5220,26989,A Way Out of the Wildwood,
-36,Story_Quests,1297,5224,27015,A Way Out of the Wildwood,
-36,Story_Quests,1298,5228,27041,Work your way through the Wildwood to the Ingenian side of the Lumberlands.,
+36,Story_Quests,1296,5220,26989,A Way Out of the Wildwood,หนทางออกจากป่าดงดิบ
+36,Story_Quests,1297,5224,27015,A Way Out of the Wildwood,หนทางออกจากป่าดงดิบ
+36,Story_Quests,1298,5228,27041,Work your way through the Wildwood to the Ingenian side of the Lumberlands.,หาทางฝ่าป่าดงดิบไวลด์วูดไปยังฝั่งอินเกเนียของผืนป่าลัมเบอร์แลนด์
 36,Story_Quests,1299,5232,27117,,
 36,Story_Quests,1300,5236,27118,,
 36,Story_Quests,1301,5240,27119,,
@@ -9071,9 +9071,9 @@
 36,Story_Quests,1789,7192,27607,,
 36,Story_Quests,1790,7196,27608,,
 36,Story_Quests,1791,7200,27609,,
-36,Story_Quests,1792,7204,27610,The Ingenian Insurrection,
-36,Story_Quests,1793,7208,27636,The Ingenian Insurrection,
-36,Story_Quests,1794,7212,27662,"A sorceress as skilful as the Queen of Ingenia must know of some way to break down the barrier in the Pinnacle of Peace. Seek an audience with her, and request that she reveal what she knows.",
+36,Story_Quests,1792,7204,27610,The Ingenian Insurrection,ความวุ่นวายแห่งอินเกเนีย
+36,Story_Quests,1793,7208,27636,The Ingenian Insurrection,ความวุ่นวายแห่งอินเกเนีย
+36,Story_Quests,1794,7212,27662,"A sorceress as skilful as the Queen of Ingenia must know of some way to break down the barrier in the Pinnacle of Peace. Seek an audience with her, and request that she reveal what she knows.",จอมเวทผู้เปี่ยมทักษะอย่างราชินีแห่งอินเกเนียย่อมต้องรู้วิธีทำลายม่านบาเรียในวิหารยอดพสุธาสันติภาพอย่างแน่นอน จงไปขอเข้าเฝ้าพระนาง และขอให้พระนางเปิดเผยสิ่งที่ทรงล่วงรู้
 36,Story_Quests,1795,7216,27854,,
 36,Story_Quests,1796,7220,27855,,
 36,Story_Quests,1797,7224,27856,,
@@ -9087,9 +9087,9 @@
 36,Story_Quests,1805,7256,27864,,
 36,Story_Quests,1806,7260,27865,,
 36,Story_Quests,1807,7264,27866,,
-36,Story_Quests,1808,7268,27867,My Slime to Shine<FG>,
-36,Story_Quests,1809,7272,27888,My Slime to Shine<FG>,
-36,Story_Quests,1810,7276,27909,"With the Lapis Leveli now in hand, our heroes have the power to shatter the barrier blocking their way. It's time to take Healix and head to the top of the Pinnacle of Peace<FG>",
+36,Story_Quests,1808,7268,27867,My Slime to Shine<FG>,ถึงเวลาสไลม์เฉิดฉาย<FG>
+36,Story_Quests,1809,7272,27888,My Slime to Shine<FG>,ถึงเวลาสไลม์เฉิดฉาย<FG>
+36,Story_Quests,1810,7276,27909,"With the Lapis Leveli now in hand, our heroes have the power to shatter the barrier blocking their way. It's time to take Healix and head to the top of the Pinnacle of Peace<FG>",เมื่อได้ศิลาลาพิสเลเวลิมาไว้ในมือแล้ว เหล่าผู้กล้าก็มีพลังที่จะทำลายม่านบาเรียที่ขวางทางอยู่ได้ ถึงเวลาพาโฮมิรอนมุ่งหน้าสู่ยอดวิหารยอดพสุธาสันติภาพแล้ว<FG>
 36,Story_Quests,1811,7280,28086,,
 36,Story_Quests,1812,7284,28087,,
 36,Story_Quests,1813,7288,28088,,
@@ -9103,9 +9103,9 @@
 36,Story_Quests,1821,7320,28096,,
 36,Story_Quests,1822,7324,28097,,
 36,Story_Quests,1823,7328,28098,,
-36,Story_Quests,1824,7332,28099,Quick<FG> To the Queen<FG>,
-36,Story_Quests,1825,7336,28124,Quick<FG> To the Queen<FG>,
-36,Story_Quests,1826,7340,28149,"The Black Manse is a mystery, but perhaps the Queen of Ingenia knows something <F4><I0>01 doesn't. With no other avenues to investigate, it's time to seek her aid once more...",
+36,Story_Quests,1824,7332,28099,Quick<FG> To the Queen<FG>,เร็วเข้า<FG> ไปหาราชินีกัน<FG>
+36,Story_Quests,1825,7336,28124,Quick<FG> To the Queen<FG>,เร็วเข้า<FG> ไปหาราชินีกัน<FG>
+36,Story_Quests,1826,7340,28149,"The Black Manse is a mystery, but perhaps the Queen of Ingenia knows something <F4><I0>01 doesn't. With no other avenues to investigate, it's time to seek her aid once more...",คฤหาสน์ทมิฬยังคงเป็นปริศนา แต่บางทีราชินีแห่งอินเกเนียอาจล่วงรู้บางสิ่งที่ <F4><I0>01 ไม่รู้ เมื่อไร้หนทางอื่นในการสืบหาเบาะแส ถึงเวลาต้องไปขอความช่วยเหลือจากพระนางอีกครั้งแล้ว...
 36,Story_Quests,1827,7344,28323,,
 36,Story_Quests,1828,7348,28324,,
 36,Story_Quests,1829,7352,28325,,
@@ -9207,9 +9207,9 @@
 36,Story_Quests,1925,7736,28421,,
 36,Story_Quests,1926,7740,28422,,
 36,Story_Quests,1927,7744,28423,,
-36,Story_Quests,1928,7748,28424,Inches from Evil,
-36,Story_Quests,1929,7752,28441,Inches from Evil,
-36,Story_Quests,1930,7756,28458,"Thanks to the help of our heroes' monster mates, the door to the top of the Black Manse is open. There's no turning back now<MV>it's time to face Fractos in the final fight<FG>",
+36,Story_Quests,1928,7748,28424,Inches from Evil,ใกล้ชิดความชั่วร้ายเพียงคืบ
+36,Story_Quests,1929,7752,28441,Inches from Evil,ใกล้ชิดความชั่วร้ายเพียงคืบ
+36,Story_Quests,1930,7756,28458,"Thanks to the help of our heroes' monster mates, the door to the top of the Black Manse is open. There's no turning back now<MV>it's time to face Fractos in the final fight<FG>",ด้วยความช่วยเหลือจากเหล่าสหายมอนสเตอร์ ประตูสู่ยอดคฤหาสน์ทมิฬจึงเปิดออกแล้ว ตอนนี้ไม่มีทางให้ถอยกลับอีกต่อไป<MV>ถึงเวลาต้องเผชิญหน้ากับแฟรคทอสในศึกตัดสินครั้งสุดท้ายแล้ว<FG>
 36,Story_Quests,1931,7760,28633,,
 36,Story_Quests,1932,7764,28634,,
 36,Story_Quests,1933,7768,28635,,
@@ -9223,9 +9223,9 @@
 36,Story_Quests,1941,7800,28643,,
 36,Story_Quests,1942,7804,28644,,
 36,Story_Quests,1943,7808,28645,,
-36,Story_Quests,1944,7812,28646,Tales of Herring-Do,
-36,Story_Quests,1945,7816,28666,Tales of Herring-Do,
-36,Story_Quests,1946,7820,28686,<F4><I0>01 and co. have come to Harba in search of a wed herring. They'll need to search the town from top to bottom if they're to find this elusive fish<FG>,
+36,Story_Quests,1944,7812,28646,Tales of Herring-Do,ตำนานปลามงคลสมรส
+36,Story_Quests,1945,7816,28666,Tales of Herring-Do,ตำนานปลามงคลสมรส
+36,Story_Quests,1946,7820,28686,<F4><I0>01 and co. have come to Harba in search of a wed herring. They'll need to search the town from top to bottom if they're to find this elusive fish<FG>,<F4><I0>01 และพรรคพวกเดินทางมายังฮาร์บาเพื่อตามหาปลามงคลสมรส พวกเขาต้องค้นหาให้ทั่วทั้งเมืองเพื่อตามหาปลาหายากชนิดนี้ให้พบ<FG>
 36,Story_Quests,1947,7824,28841,,
 36,Story_Quests,1948,7828,28842,,
 36,Story_Quests,1949,7832,28843,,
@@ -9239,9 +9239,9 @@
 36,Story_Quests,1957,7864,28851,,
 36,Story_Quests,1958,7868,28852,,
 36,Story_Quests,1959,7872,28853,,
-36,Story_Quests,1960,7876,28854,Buds in the Woods,
-36,Story_Quests,1961,7880,28872,Buds in the Woods,
-36,Story_Quests,1962,7884,28890,The rugged lumber required for the bridge repairs can only be found in one place<MV>the Wildwood. <F4><I0>01 and co. will have no choice but to scour the fearsome forest for this rare resource<FG>,
+36,Story_Quests,1960,7876,28854,Buds in the Woods,เพื่อนเกลอในดงดิบ
+36,Story_Quests,1961,7880,28872,Buds in the Woods,เพื่อนเกลอในดงดิบ
+36,Story_Quests,1962,7884,28890,The rugged lumber required for the bridge repairs can only be found in one place<MV>the Wildwood. <F4><I0>01 and co. will have no choice but to scour the fearsome forest for this rare resource<FG>,ไม้เนื้อแข็งทนทานที่จำเป็นสำหรับการซ่อมสะพานสามารถหาได้จากสถานที่เดียวเท่านั้น<MV>นั่นคือป่าดงดิบไวลด์วูด <F4><I0>01 และพรรคพวกไม่มีทางเลือกอื่นนอกจากต้องค้นหาทรัพยากรหายากนี้ในผืนป่าน่าสะพรึงกลัว<FG>
 36,Story_Quests,1963,7888,29083,,
 36,Story_Quests,1964,7892,29084,,
 36,Story_Quests,1965,7896,29085,,
@@ -9255,9 +9255,9 @@
 36,Story_Quests,1973,7928,29093,,
 36,Story_Quests,1974,7932,29094,,
 36,Story_Quests,1975,7936,29095,,
-36,Story_Quests,1976,7940,29096,A Labour of Love,
-36,Story_Quests,1977,7944,29113,A Labour of Love,
-36,Story_Quests,1978,7948,29130,The guy's girlfriend works in Ingenia Castle. <F4><I0>01 will have to help him sneak inside to see her<FG>,
+36,Story_Quests,1976,7940,29096,A Labour of Love,งานหนักเพื่อความรัก
+36,Story_Quests,1977,7944,29113,A Labour of Love,งานหนักเพื่อความรัก
+36,Story_Quests,1978,7948,29130,The guy's girlfriend works in Ingenia Castle. <F4><I0>01 will have to help him sneak inside to see her<FG>,แฟนสาวของชายคนนั้นทำงานอยู่ในปราสาทอินเกเนีย <F4><I0>01 จะต้องช่วยเขาลอบเข้าไปข้างในเพื่อพบกับเธอ<FG>
 36,Story_Quests,1979,7952,29234,,
 36,Story_Quests,1980,7956,29235,,
 36,Story_Quests,1981,7960,29236,,
@@ -9271,9 +9271,9 @@
 36,Story_Quests,1989,7992,29244,,
 36,Story_Quests,1990,7996,29245,,
 36,Story_Quests,1991,8000,29246,,
-36,Story_Quests,1992,8004,29247,The Nicker in Knickers,
-36,Story_Quests,1993,8008,29270,The Nicker in Knickers,
-36,Story_Quests,1994,8012,29293,The bandits who abducted the young bride are hiding on Mount Neverest. <F4><I0>01 and co. must sneak through the snow to find these axe-wielding musclemen and take them to task for their transgressions<FG>,
+36,Story_Quests,1992,8004,29247,The Nicker in Knickers,จอมโจรนุ่งกางเกงใน
+36,Story_Quests,1993,8008,29270,The Nicker in Knickers,จอมโจรนุ่งกางเกงใน
+36,Story_Quests,1994,8012,29293,The bandits who abducted the young bride are hiding on Mount Neverest. <F4><I0>01 and co. must sneak through the snow to find these axe-wielding musclemen and take them to task for their transgressions<FG>,พวกกองโจรที่ลักพาตัวเจ้าสาววัยสาวไปกำลังซ่อนตัวอยู่บนภูเขาเนเวอเรสต์ <F4><I0>01 และพรรคพวกต้องลุยฝ่าหิมะไปตามหาพวกชายกล้ามโตถือขวานพวกนี้ แล้วสั่งสอนพวกมันให้สาสมกับความผิดที่ได้ก่อไว้<FG>
 36,Story_Quests,1995,8016,29496,,
 36,Story_Quests,1996,8020,29497,,
 36,Story_Quests,1997,8024,29498,,
