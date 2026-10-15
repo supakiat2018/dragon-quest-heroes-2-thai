@@ -1,259 +1,259 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-211,Battle_Guides_Tutorials,0,32,8032,"Allow this grizzled veteran to offer you some pointers, young warrior<FG>",
-211,Battle_Guides_Tutorials,1,36,8105,The first thing you're gooing to need to do is get close enough to attack. Advaaance<FG>,
-211,Battle_Guides_Tutorials,2,40,8193,"Gooreat<FG> Now it's time to unleash your fury<FG> Attack is the best form of defence, you know<FG>",
-211,Battle_Guides_Tutorials,3,44,8290,"Bravo<FG> Now let loose an array of amazing attacks, and vanquish your foul foes<FG>",
-211,Battle_Guides_Tutorials,4,48,8373,"Keep up the goo work, soldier<FG>",
-211,Battle_Guides_Tutorials,5,52,8406,"Oh, I almost forgot<MV>don't forget to jump too<FG> Float like a butterfly, and sometimes you can sting like a bee<FG>",
-211,Battle_Guides_Tutorials,6,56,8522,"Huzzah<FG> Excellent work<FG> Keep it up, and victory will soon be yours<FG>",
-211,Battle_Guides_Tutorials,7,60,8596,Let the duel of the cousins commence<FG> This is gooing to be amaaazi<MV><FG>,
-211,Battle_Guides_Tutorials,8,64,8671,"Ahem. I mean<MV>alright, recruit, listen up<FG>",
-211,Battle_Guides_Tutorials,9,68,8717,"As you know, enemy attacks can be evaded by dodging. Goo ahead<MV>show me how it's done<FG>",
-211,Battle_Guides_Tutorials,10,72,8807,Mm. Impressive<FG>,
-211,Battle_Guides_Tutorials,11,76,8825,"And of course, any self-respecting knight knows how to parry. If you please...",
-211,Battle_Guides_Tutorials,12,80,8904,"A fine demonstration of offensive and defensive skills, soldier<FG>",
-211,Battle_Guides_Tutorials,13,84,8971,"Now let's look at spells and special abilities. Remember, both cost magic points to use.",
-211,Battle_Guides_Tutorials,14,88,9060,Goo ahead and try oozing one<FG>,
-211,Battle_Guides_Tutorials,15,92,9092,"Hmm. Looks like you've learnt some fancy new tricks. Good luck trying to land one, though<FG>",
-211,Battle_Guides_Tutorials,16,96,9185,I'll bet you've been swotting up on all kinds of new tricks. Why don't you show me what I've been missing out on<FH>,
-211,Battle_Guides_Tutorials,17,100,9301,I'm almost impressed<FG> You've definitely improved since last year<FG>,
-211,Battle_Guides_Tutorials,18,104,9371,"Yeah, that's the stuff<FG> You've been busy this last year, eh<FH>",
-211,Battle_Guides_Tutorials,19,108,9436,I see that the old rivalry between you two is hotting up<FG> Shall we finish by talking about tension<FH>,
-211,Battle_Guides_Tutorials,20,112,9540,"As I am sure you have learned, both attacking and being attacked cause your tension to increase.",
-211,Battle_Guides_Tutorials,21,116,9637,The bar at the bottom-left of the screen shows your current tension level.,
-211,Battle_Guides_Tutorials,22,120,9712,"Now, let the spirit of cousinly competition flow free, and fill that bar<FG>",
-211,Battle_Guides_Tutorials,23,124,9788,"Alriiight, now we're talking<FG> Let's give pudgy here a pounding<FG>",
-211,Battle_Guides_Tutorials,24,128,9856,"Now we're really getting warmed up<FG> Alright, no more play-fighting<FG>",
-211,Battle_Guides_Tutorials,25,132,9928,"A disgraceful display<FG> Don't expect me to save your hide next slime, recruit<FG>",
-211,Battle_Guides_Tutorials,26,136,10010,I can't believe our first real battle has to be against our own people.,
-211,Battle_Guides_Tutorials,27,140,10082,Me neither. We won't be very popular in Dunisia after this...,
-211,Battle_Guides_Tutorials,28,144,10144,We can't afford to worry about that right now. Let's just concentrate on keeping the people of Harba safe<FG>,
-211,Battle_Guides_Tutorials,29,148,10253,"Hey, do you think Cesar knows this is happening<FH>",
-211,Battle_Guides_Tutorials,30,152,10304,Cesar<FH> Ooze Cesar<FH>,
-211,Battle_Guides_Tutorials,31,156,10327,He's the Prince of Dunisia. We're old friends...kind of.,
-211,Battle_Guides_Tutorials,32,160,10384,I really hope he's not involved in any of this...,
-211,Battle_Guides_Tutorials,33,164,10434,"Not so tough now, are you<FG> If you think you're getting past us, you've got another thing coming<FG>",
-211,Battle_Guides_Tutorials,34,168,10535,"Hey, don't get too carried away<FG> We're fighting our own here, remember<FH>",
-211,Battle_Guides_Tutorials,35,172,10611,Now will you please all just turn around and go home<FH> I don't want to hurt you any more than I have to<FG>,
-211,Battle_Guides_Tutorials,36,176,10719,"Blimey<FG> I don't know about them, but I'm quaking in my boots<FG> Wouldn't want to get on the wrong side of you<FG>",
-211,Battle_Guides_Tutorials,37,180,10834,"Watch out, you two<FG> They call these things night clubbers for a reason<FG>",
-211,Battle_Guides_Tutorials,38,184,10910,"If that club hits you, it's night night<FG>",
-211,Battle_Guides_Tutorials,39,188,10953,It's... It's enormous<FG>,
-211,Battle_Guides_Tutorials,40,192,10978,Since when did the Dunisian army start using these<FG><FH>,
-211,Battle_Guides_Tutorials,41,196,11035,"Night clubbers may be big, but they take a while to recover their footing after attacking.",
-211,Battle_Guides_Tutorials,42,200,11126,"Wait for him to swing his club, then dive in and strike<FG>",
-211,Battle_Guides_Tutorials,43,204,11185,"Be careful<FG> Even if you avoid his attacks, the shockwaves can still knock you off balance<FG>",
-211,Battle_Guides_Tutorials,44,208,11280,You need to jump at just the right moment<FG>,
-211,Battle_Guides_Tutorials,45,212,11325,"Out of sight isn't always out of mind, you know. Standing behind him won't necessarily keep you safe<FG>",
-211,Battle_Guides_Tutorials,46,216,11429,"Alright<FG> Here I goo<FG> I mean<MV>Ahem<FG><MV>what do think you're doing, recruits<FG><FH>",
-211,Battle_Guides_Tutorials,47,220,11516,"I shall come to your aid just this once, but don't goo doing this again, okay<FH>",
-211,Battle_Guides_Tutorials,48,224,11597,Looks like he's worn himself out. Now's our chance<MV>attack<FG>,
-211,Battle_Guides_Tutorials,49,228,11660,"Ha<FG> Not so big and scary now, are you<FH>",
-211,Battle_Guides_Tutorials,50,232,11703,I think he's just about had enough<FG>,
-211,Battle_Guides_Tutorials,51,236,11741,"Don't get cocky, you two<FG> There's nothing more dangerous than a cornered beast<FG>",
-211,Battle_Guides_Tutorials,52,240,11825,It was bad luck running into bandits out here on your own.,
-211,Battle_Guides_Tutorials,53,244,11884,And I thought I'd always had the luck o' the<MV> That I'd always had luck on me side<FG>,
-211,Battle_Guides_Tutorials,54,248,11971,"You do<FG> After all, you ran into us, didn't you<FH>",
-211,Battle_Guides_Tutorials,55,252,12023,"Sure, and ye're not wrong there, lad<FG> I'm blessed to have found youse when I did<FG>",
-211,Battle_Guides_Tutorials,56,256,12109,"Alriiight<FG> You're free to go safely on your way, good sir<FG>",
-211,Battle_Guides_Tutorials,57,260,12172,"By the jaypers, ye've saved me bacon, so ye have<FG> How can I ever repay youse<FH>",
-211,Battle_Guides_Tutorials,58,264,12254,I wouldn't start celebrating just yet. Something tells me those bandits weren't alone...,
-211,Battle_Guides_Tutorials,59,268,12343,She's right<MV>look over there...,
-211,Battle_Guides_Tutorials,60,272,12376,Of all the cheap tricks... Jumping out on people from bushes<FH>,
-211,Battle_Guides_Tutorials,61,276,12440,"Well, it's not all bad<MV>looks like they think we can't see where they're hiding.",
-211,Battle_Guides_Tutorials,62,280,12522,Exactly. Which gives us the element of surprise<FG>,
-211,Battle_Guides_Tutorials,63,284,12573,"Fer the love o'<MV> How many o' these villains are there<FG><FH> We're in a quare auld pickle here, so we are...",
-211,Battle_Guides_Tutorials,64,288,12683,"Oh, I wouldn't be so sure of that<FG> Don't worry<MV>we've got it all under control<FG>",
-211,Battle_Guides_Tutorials,65,292,12768,"Quickly now, we don't want to be overrun. Get them before they can jump out.",
-211,Battle_Guides_Tutorials,66,296,12845,By the hokey... I can't feel me legs...,
-211,Battle_Guides_Tutorials,67,300,12885,Our friend's in trouble<FG> We have to protect him<FG>,
-211,Battle_Guides_Tutorials,68,304,12938,Gah<FG> They just keep coming<FG> You doing okay over there<FH>,
-211,Battle_Guides_Tutorials,69,308,12999,"Oh, don't worry about me. Save your breath<MV>sounds like you need it<FG>",
-211,Battle_Guides_Tutorials,70,312,13071,Ha<FG> It'll take more than this shower of amateurs to tire out the best swordsman in the Academy<FG>,
-211,Battle_Guides_Tutorials,71,316,13171,Our priority here is to get those two to safety<FG> Let's make this quick<FG>,
-211,Battle_Guides_Tutorials,72,320,13247,"Well, we're not exactly going to drag it out, are we<FH> We're fighting our own army here<FG>",
-211,Battle_Guides_Tutorials,73,324,13339,Seriously<FG><FH> More weirdos<FH> Will someone tell me what exactly is going on here<FG><FH>,
-211,Battle_Guides_Tutorials,74,328,13428,"Well, at least these weirdos look like they're on our side<FG>",
-211,Battle_Guides_Tutorials,75,332,13490,Hmph<FG> We'll see about that<FG> Just keep them where you can see them<FG>,
-211,Battle_Guides_Tutorials,76,336,13563,"(sniff sniff) Ooh<FG> Hey, mister, can I have some of your food<FH>",
-211,Battle_Guides_Tutorials,77,340,13629,"Ye've quite a nose on ye there, lad<FG> Maybe once the fightin's done, I'll share some wit ye, eh<FG>",
-211,Battle_Guides_Tutorials,78,344,13729,"Did you hear that, Maribel<FH> Let's finish fighting so we can start eating<FG> Aooo<FG>",
-211,Battle_Guides_Tutorials,79,348,13815,"There's no such thing as a free lunch, you know<FG> It'll be poisoned or rotten or something, you'll see<FG>",
-211,Battle_Guides_Tutorials,80,352,13922,They appear to be intent on pressing their assault. The invaders must be driven back<FG>,
-211,Battle_Guides_Tutorials,81,356,14010,Now hang on just a minute<FG> You're the ones who attacked us<FG>,
-211,Battle_Guides_Tutorials,82,360,14074,"Silence, worm<FG> Your excuses will not save you now<FG>",
-211,Battle_Guides_Tutorials,83,364,14129,"B<MV> We<MV> Ugh, there's clearly no point talking to you<FG> You...you boneheads<FG>",
-211,Battle_Guides_Tutorials,84,368,14211,"We've thinned their numbers a good deal<FG> One final push, and this fight is ours<FG>",
-211,Battle_Guides_Tutorials,85,372,14296,"Aye<FG> But do not get complacent, troops<FG> We must give it our all to the very last<FG>",
-211,Battle_Guides_Tutorials,86,376,14384,Ngh... It seems we have overstretched ourselves... Send word to headquarters<MV>we must fall back and regroup<FG>,
-211,Battle_Guides_Tutorials,87,380,14496,"Gurrr hurrr hurrr<FG> Smell like Harban worms<FG> Welcome, wormy worms<FG>",
-211,Battle_Guides_Tutorials,88,384,14568,"Alright, listen up. For many of you, this is your first full-scale battle, so let me give you some advice.",
-211,Battle_Guides_Tutorials,89,388,14675,"Knowing the terrain is vital, so make sure to get your bearings before you go charging in.",
-211,Battle_Guides_Tutorials,90,392,14766,"Sure, 'tis sound advice, so it is<MV>keep an eye on yer map, an' it'll keep an eye on you, so it will<FG>",
-211,Battle_Guides_Tutorials,91,396,14870,Blimey<FG> More of them<FG> But it'll take ten times as many to stop me<FG> Aooo<FG>,
-211,Battle_Guides_Tutorials,92,400,14951,"Your reputation as a fearsome warrior is certainly well-deserved, Lady Desdemona.",
-211,Battle_Guides_Tutorials,93,404,15033,But we cannot let you have all the fun. Soldiers of Harba...advance<FG>,
-211,Battle_Guides_Tutorials,94,408,15104,Gurrr hurrr hurrr<FG> We not need chase after King of Harba.,
-211,Battle_Guides_Tutorials,95,412,15164,He come straight to us<FG> I not realise he is so stupid<FG>,
-211,Battle_Guides_Tutorials,96,416,15223,Hmph. We'll soon see who's the stupid one. Their commanding officer has exposed himself<FG> Attack<FG>,
-211,Battle_Guides_Tutorials,97,420,15324,"Listen, just let us have a word with Cesar, will you<FH> He's obviously got the wrong end of the stick here<FG>",
-211,Battle_Guides_Tutorials,98,424,15434,That PRINCE Cesar to you<FG> Come here<FG> I smash some manners into you<FG>,
-211,Battle_Guides_Tutorials,99,428,15508,Ngh... No... They cannot be allowed to...win...,
-211,Battle_Guides_Tutorials,100,432,15556,The King's in trouble<FG> We have to go and help him out<FG>,
-211,Battle_Guides_Tutorials,101,436,15615,"Right, we'll be operating as a small, mobile force separate from the main army.",
-211,Battle_Guides_Tutorials,102,440,15695,"Roger that<FG> Let's scout out the lay of the land, and make sure there aren't any nasty surprises lying in wait<FG>",
-211,Battle_Guides_Tutorials,103,444,15810,Well I never<FG> Maybe you really have been paying attention in class<FG>,
-211,Battle_Guides_Tutorials,104,448,15882,Archers<FG> Into position<FG> Pepper them with arrows<FG>,
-211,Battle_Guides_Tutorials,105,452,15937,"Grr... Halt, men<FG> Their bowmen must be defeated before we can go any further<FG>",
-211,Battle_Guides_Tutorials,106,456,16019,"Jaypers<FG> ‘Pepper them with arrows’, he says<FG> I don't much like the sound o' that<FG>",
-211,Battle_Guides_Tutorials,107,460,16111,"Then don't let it happen<FG> Come on, let's get up there and take them down<FG>",
-211,Battle_Guides_Tutorials,108,464,16189,That's the archers dealt with<FG> It should be safe for the King to move forward now<FG>,
-211,Battle_Guides_Tutorials,109,468,16276,"Good work, all of you<FG> Soldiers of Harba, forward<FG>",
-211,Battle_Guides_Tutorials,110,472,16331,"The Harban army has marched straight into our trap<FG> Company, deploy<FG>",
-211,Battle_Guides_Tutorials,111,476,16404,"Grrr<FG> It seems they were expecting us<FG> Men, stand your ground<FG>",
-211,Battle_Guides_Tutorials,112,480,16473,This isn't good<FG> They're going after the King<FG>,
-211,Battle_Guides_Tutorials,113,484,16524,Eep<FG> We have to protect him<FG> But we can't just ignore these nightmaws...,
-211,Battle_Guides_Tutorials,114,488,16601,His Majesty's safety has to be our top priority<FG> The nightmaws will have to wait<FG>,
-211,Battle_Guides_Tutorials,115,492,16687,What were we worried about<FH> They barely even put up a fight<FG>,
-211,Battle_Guides_Tutorials,116,496,16752,We're through the gates. But I can't help thinking we're walking into another trap...,
-211,Battle_Guides_Tutorials,117,500,16838,"Well, not much we can do about it except keep our eyes peeled. Come on<FG>",
-211,Battle_Guides_Tutorials,118,504,16912,"If you don't mind, I'd like to go in first and make sure it's safe, Your Majesty.",
-211,Battle_Guides_Tutorials,119,508,16994,Very good. We will hold here for now.,
-211,Battle_Guides_Tutorials,120,512,17032,"Agh, you<MV><FG> Who put that trapdoor there<FG><FH>",
-211,Battle_Guides_Tutorials,121,516,17081,Owww... A trapdoor<FH> Of all the cheap tricks...,
-211,Battle_Guides_Tutorials,122,520,17130,"A trapdoor with a pit o' monsters beneath it, no less. Ahhh, this takes me back<FG>",
-211,Battle_Guides_Tutorials,123,524,17213,Takes you back<FG><FH> What an awful life you must have led<FG>,
-211,Battle_Guides_Tutorials,124,528,17274,The enemy forces are divided<FG> Now is our chance to capture the King of Harba<FG>,
-211,Battle_Guides_Tutorials,125,532,17356,Hm. Seems we've been outmanoeuvred. We'd better get these monsters dealt with quickly<FG>,
-211,Battle_Guides_Tutorials,126,536,17445,Jaypers<FG> There's arrows comin' out o' the very walls<FG> Mind ye don't get skewered<FG>,
-211,Battle_Guides_Tutorials,127,540,17533,"It looks like they're triggered by panels on the floor. Watch your step, everyone.",
-211,Battle_Guides_Tutorials,128,544,17616,"You will go no further, Harban scum<FG> Prepare to meet your doom<FG>",
-211,Battle_Guides_Tutorials,129,548,17684,"Something tells me they're not in the mood to negotiate. Gah, I hate fighting our own people<FG>",
-211,Battle_Guides_Tutorials,130,552,17780,"Ahhh, there's nuttin' quite like a pyramid<FG> Smell that<FH> 'Tis high adventure lyin' in wait, so it is<FG>",
-211,Battle_Guides_Tutorials,131,556,17887,Really<FH> (sniff sniff) Smells like mould to me<FG>,
-211,Battle_Guides_Tutorials,132,560,17938,"Heh heh<FG> Just you wait, lad<FG> There's excitin' times ahead, or my name's not Torneko Taloon<FG>",
-211,Battle_Guides_Tutorials,133,564,18036,Gurrr hurrr hurrr<FG> You do good getting this far<FG> But you go no further<FG>,
-211,Battle_Guides_Tutorials,134,568,18114,Wait<FG> We just want to talk<FG> We don't want to see any more Dunisian blood spilt<FG>,
-211,Battle_Guides_Tutorials,135,572,18200,Shut up<FG> It too late for that<FG> Now come here and I make old king's grave your grave too<FG>,
-211,Battle_Guides_Tutorials,136,576,18295,Gyurgh<FG> You stronger than you look<FG> But Prince Cesar finish you good<FG>,
-211,Battle_Guides_Tutorials,137,580,18371,Justice will be done<FG> Mercy shall not stay my hand<FG>,
-211,Battle_Guides_Tutorials,138,584,18427,"Same to you, Your Princeliness<FG> We're gonna beat some sense into you whether you like it or not<FG>",
-211,Battle_Guides_Tutorials,139,588,18528,"Oi, that's an old friend you're talking to<FG> But it does seem like the only way to stop him...",
-211,Battle_Guides_Tutorials,140,592,18624,Seems like this lot have some history with the Prince here...,
-211,Battle_Guides_Tutorials,141,596,18686,"Yeah. No idea what, though. He doesn't smell like a baddie, that's for sure.",
-211,Battle_Guides_Tutorials,142,600,18763,"Well, baddie or not, it looks like we're going to have to fight him. Let's get this over with, shall we<FH>",
-211,Battle_Guides_Tutorials,143,604,18870,Jaypers<FG> He nearly took me head clean off<FG>,
-211,Battle_Guides_Tutorials,144,608,18917,"The Prince is a highly skilled swordsman. Be careful, all of you. You're not safe, even at a distance<FG>",
-211,Battle_Guides_Tutorials,145,612,19022,Ngh<FG> Curse you<FG>,
-211,Battle_Guides_Tutorials,146,616,19042,"Had enough yet, Cesar<FH> Ready to put down your sword and talk like a<MV>",
-211,Battle_Guides_Tutorials,147,620,19115,Never<FG> Now suffer the wrath of Dunisia<FG>,
-211,Battle_Guides_Tutorials,148,624,19159,Look<FG> Over there<FG>,
-211,Battle_Guides_Tutorials,149,628,19181,Archers... We'll need to deal with them before we do anything else.,
-211,Battle_Guides_Tutorials,150,632,19249,Ngh... Grrrgh... Heh... Heh heh heh...,
-211,Battle_Guides_Tutorials,151,636,19288,Uh-oh... I know that laugh...and it's not good<FG>,
-211,Battle_Guides_Tutorials,152,640,19338,"Cesar<FG> Get a hold of yourself<FG> Please, just listen to what we<MV>",
-211,Battle_Guides_Tutorials,153,644,19407,"On my honour as Prince of Dunisia, I will strike you down<FG>",
-211,Battle_Guides_Tutorials,154,648,19468,Ngah... Impossible<FG> Father...forgive me...,
-211,Battle_Guides_Tutorials,155,652,19513,Let's make sure we've spoken to all the guards before jumping to any conclusions.,
-211,Battle_Guides_Tutorials,156,656,19595,That's all the guards on patrol. Let's go back and speak to the one on the gate.,
-211,Battle_Guides_Tutorials,157,660,19676,"How dare you, how dare you<FG><FH> Why would you spoil my fun, my fun<FH>",
-211,Battle_Guides_Tutorials,158,664,19747,"Ouch, ow<FG> Ouch, ow<FG> How dare you, how dare you<FG><FH>",
-211,Battle_Guides_Tutorials,159,668,19804,"I'll get you for this, get you for this<FG>",
-211,Battle_Guides_Tutorials,160,672,19847,"Hey, wait<FG> Ach, it got away<FG>",
-211,Battle_Guides_Tutorials,161,676,19880,Hm. That thing is almost as annoying as some others I could mention. We'd better get after it.,
-211,Battle_Guides_Tutorials,162,680,19975,Why doesn't he just turn into a king or something<FH> He could do whatever he wanted then.,
-211,Battle_Guides_Tutorials,163,684,20065,"Come on, come on<FG> I draw the line somewhere, you know, somewhere you know<FG>",
-211,Battle_Guides_Tutorials,164,688,20144,"Annoying you humans is one thing, one thing, but abusing my powers is quite another, another<FG>",
-211,Battle_Guides_Tutorials,165,692,20240,I suppose that sort of m<MV> No it doesn't<FG> Both those things are just as bad as each other<FG>,
-211,Battle_Guides_Tutorials,166,696,20336,"Agh<FG> That's not a tree, it's a monster<FG>",
-211,Battle_Guides_Tutorials,167,700,20380,"A treeface, to be exact. The accursed things plague wooded areas such as this.",
-211,Battle_Guides_Tutorials,168,704,20459,"Oooh, look at all these treasure chests<FG> Bagsy mine<FG>",
-211,Battle_Guides_Tutorials,169,708,20516,"(sniff sniff) Umm... I'm not so sure you want what's in them, you know...",
-211,Battle_Guides_Tutorials,170,712,20590,"Look out<FG> If that cannibox hits you with Whack, you won't be coming back<FG>",
-211,Battle_Guides_Tutorials,171,716,20668,Ugh<FG> I wish you'd told us that before we started throwing open chests all over the place<FG>,
-211,Battle_Guides_Tutorials,172,720,20762,"Alright<FG> Let's get moving, shall we<FH>",
-211,Battle_Guides_Tutorials,173,724,20803,Fool. You mean to go charging blindly onward<FH> Caution is clearly what's needed here.,
-211,Battle_Guides_Tutorials,174,728,20890,"Alright you two, that's enough. We'll get moving...cautiously, okay<FH>",
-211,Battle_Guides_Tutorials,175,732,20961,Urgh<FG> This place stinks of poison<FG> I'm getting sick just sniffing it<FG>,
-211,Battle_Guides_Tutorials,176,736,21037,"You'll be even more sick if you step in it. Careful, everyone<FG>",
-211,Battle_Guides_Tutorials,177,740,21102,"Janey Mac<FG> Pepperin' us with arrows out here in the woods too, are they<FH>",
-211,Battle_Guides_Tutorials,178,744,21179,Hmm... Doesn't look like there's any way around. Which means we'll have to go through...,
-211,Battle_Guides_Tutorials,179,748,21268,But it's one big poisonous swamp<FG> Are you mad<FG><FH>,
-211,Battle_Guides_Tutorials,180,752,21322,"Ah, come on<FG> It'll be fine as long as we're quick<FG> Just close your eyes, hold your nose and barrel on through<FG>",
-211,Battle_Guides_Tutorials,181,756,21439,"Eeeeeep<FG> Arrows<FG> I hate arrows<FG> Goo away<FG> Err, oh, I mean...",
-211,Battle_Guides_Tutorials,182,760,21508,"Comrades<FG> Steel yourselves, and charge boldly into the fray<FG>",
-211,Battle_Guides_Tutorials,183,764,21573,I recognise this place. We're back where we started.,
-211,Battle_Guides_Tutorials,184,768,21626,"Ah, nonsense<FG> You're just getting confused because this whole forest looks the same<FG>",
-211,Battle_Guides_Tutorials,185,772,21715,No he's not. Take a good look around<MV>this is where we were before.,
-211,Battle_Guides_Tutorials,186,776,21784,"Maybe our wee slimy friend'll have a word or two o' wisdom for us, eh<FH>",
-211,Battle_Guides_Tutorials,187,780,21857,"Oh, by the<MV> Back here again<FG><FH>",
-211,Battle_Guides_Tutorials,188,784,21893,"Grr... If we come back here one more time, I'm going to SCREAM<FG>",
-211,Battle_Guides_Tutorials,189,788,21959,(sniff sniff) We're back here again<FG>,
-211,Battle_Guides_Tutorials,190,792,21998,Uh-oh. Back again. This is enough to drive you nuts<FG>,
-211,Battle_Guides_Tutorials,191,796,22053,"Aaand we're back. Okay, we really need to keep track of which teleportals we're using...",
-211,Battle_Guides_Tutorials,192,800,22142,Hmph. Here again. I am not enjoying this one bit.,
-211,Battle_Guides_Tutorials,193,804,22192,"Well, this certainly isn't much fun. We need to memorise the route, or we'll be here forever.",
-211,Battle_Guides_Tutorials,194,808,22286,"Wh<MV> An ambush<FG><FH> Well, that's not very sporting, is it<FG><FH>",
-211,Battle_Guides_Tutorials,195,812,22352,"Oh, come on<FG> At least a good honest fight beats all that wandering back and forth<FG> Let's get stuck in<FG>",
-211,Battle_Guides_Tutorials,196,816,22461,Aye<FG> We must show them the error of their monstrous ways<FG>,
-211,Battle_Guides_Tutorials,197,820,22523,"Well, he may be the boss around here, but there's one of him and lots of us<FG> This'll be easy-peasy<FG>",
-211,Battle_Guides_Tutorials,198,824,22627,Hm. I somehow doubt he travels alone. Be on your guard.,
-211,Battle_Guides_Tutorials,199,828,22683,Come<FG> Forest creatures...time for...revenge<FG>,
-211,Battle_Guides_Tutorials,200,832,22732,"He's calling his friends<FG> Well, two can play at that game<FG>",
-211,Battle_Guides_Tutorials,201,836,22795,Aooooooooo<FG>,
-211,Battle_Guides_Tutorials,202,840,22809,"Shut up, you idiot<FG> You'll just bring more of them running<FG>",
-211,Battle_Guides_Tutorials,203,844,22873,(slurp) He called his friends and then ran away...,
-211,Battle_Guides_Tutorials,204,848,22924,"Indeed. Hardly heroic, but it cannot be helped. Fight on<FG>",
-211,Battle_Guides_Tutorials,205,852,22984,"Jaypers<FG> Don't look now, but the boss is back<FG>",
-211,Battle_Guides_Tutorials,206,856,23035,"If he calls reinforcements and disappears again, we could be in for a long fight...",
-211,Battle_Guides_Tutorials,207,860,23119,Ugh<FG> What is WRONG with the people in your world<FH> Does nobody listen before they start trying to kill each other<FH>,
-211,Battle_Guides_Tutorials,208,864,23239,"No, they... Well, at least some of them... Oh, I give up...",
-211,Battle_Guides_Tutorials,209,868,23299,"Alright, knuckleheads<FG> You're gonna pay for messin' with our monster pals<FG>",
-211,Battle_Guides_Tutorials,210,872,23378,"W-Wait a minute<FG> We haven't messed with anyone, we just<MV>",
-211,Battle_Guides_Tutorials,211,876,23439,Don't try to weasel your way outta this<FG> I'll beat the truth outta ya soon enough<FG>,
-211,Battle_Guides_Tutorials,212,880,23526,"You two certainly know how to handle yourselves. Where are you from, exactly<FH>",
-211,Battle_Guides_Tutorials,213,884,23606,"Heh. Beat me, and maybe I'll tell you. Not that I've ever been beaten...",
-211,Battle_Guides_Tutorials,214,888,23679,"Aww, we can tell 'em that much at least, can't we<FH> ...No<FH> Alright, maybe later.",
-211,Battle_Guides_Tutorials,215,892,23763,"Alright, playtime is over<FG>",
-211,Battle_Guides_Tutorials,216,896,23792,Hyaaahhh<FG>,
-211,Battle_Guides_Tutorials,217,900,23804,"This doesn't look good. Back, all of you<FG>",
-211,Battle_Guides_Tutorials,218,904,23848,"EEEEEEP<FG><FG><FG> I, I mean... Remain calm, friends<FG> W-We must seek out s-suitable cover<FG>",
-211,Battle_Guides_Tutorials,219,908,23941,"Don't worry, Healix<FG> We can hide behind one of these massive trees<FG>",
-211,Battle_Guides_Tutorials,220,912,24013,"Don't worry, Healix<FG> We can hide over there<FG>",
-211,Battle_Guides_Tutorials,221,916,24062,"Heh. You think a tree can save you<FH> Hey, Carver<MV>",
-211,Battle_Guides_Tutorials,222,920,24115,"Heh. You think hiding in the shadows can save you<FH> Hey, Carver<MV>",
-211,Battle_Guides_Tutorials,223,924,24183,"Way ahead o' ya, old pal<FG> Leave it to me<FG>",
-211,Battle_Guides_Tutorials,224,928,24229,D-Did you see that<FH> He smashed that tree to smithereens<FG>,
-211,Battle_Guides_Tutorials,225,932,24290,D-Did you see that<FH> He smashed it to smithereens<FG>,
-211,Battle_Guides_Tutorials,226,936,24344,Heh heh heh<FG> You ain't seen nothin' yet<FG> I could turn these trees to matchwood with both hands tied behind my back<FG>,
-211,Battle_Guides_Tutorials,227,940,24466,Heh heh heh<FG> That ain't nothin<FG> I could smash the rest to pieces with both hands tied behind my back<FG>,
-211,Battle_Guides_Tutorials,228,944,24574,Just tell me one thing<MV>what did you do with all the monsters you took from the forest<FH>,
-211,Battle_Guides_Tutorials,229,948,24665,That's what we've been trying to tell you<MV>we've never even been here before<FG>,
-211,Battle_Guides_Tutorials,230,952,24746,"Hmm... Don't ask me why, but somethin' about the way you fight makes me wanna believe you...",
-211,Battle_Guides_Tutorials,231,956,24839,Uh-oh<FG> I've been spotted<FG> I need to get out of here<FG>,
-211,Battle_Guides_Tutorials,232,960,24898,Oh no<FG> It saw me<FG> I need to get out of here right now<FG>,
-211,Battle_Guides_Tutorials,233,964,24959,"Come, this way. You must follow me.",
-211,Battle_Guides_Tutorials,234,968,24995,"Grrrrrr... Something smells like monsters... Big, fat nasty ones<FG>",
-211,Battle_Guides_Tutorials,235,972,25063,"Get a loada these menaces to society<FG> Guess we don't got time to mess with 'em a little, huh<FH>",
-211,Battle_Guides_Tutorials,236,976,25161,You guess right. We need to get out of here. Now.,
-211,Battle_Guides_Tutorials,237,980,25211,"So we just take down all the guards and see who's carrying the key, huh<FH> Should be easy enough.",
-211,Battle_Guides_Tutorials,238,984,25309,Not ALL of them<FG> We can stop once we've found it<FG>,
-211,Battle_Guides_Tutorials,239,988,25363,"Uhhh, sure we can... Heh.",
-211,Battle_Guides_Tutorials,240,992,25389,Jackpot<FG> We found our key-carrier<FG> Alright<FG>,
-211,Battle_Guides_Tutorials,241,996,25439,"Now we can finally escape this awful-awful dungeon. Come on, to the exit<FG>",
-211,Battle_Guides_Tutorials,242,1000,25515,"The escapees<FG> You, stop right there<FG>",
-211,Battle_Guides_Tutorials,243,1004,25556,H-How did you get in here<FH> Put down your weapons and come quietly<FG>,
-211,Battle_Guides_Tutorials,244,1008,25627,Intruders<FG> Stop them<FG>,
-211,Battle_Guides_Tutorials,245,1012,25653,Where do you think you're going<FH>,
-211,Battle_Guides_Tutorials,246,1016,25688,Raise the alarm<FG> Intruders<FG>,
-211,Battle_Guides_Tutorials,247,1020,25720,"Look, a key<FG> This must be the one<FG> Let's head outside<FG>",
-211,Battle_Guides_Tutorials,248,1024,25781,You<FG> How did you get out of your cells<FG><FH> Men<FG> Get them<FG>,
-211,Battle_Guides_Tutorials,249,1028,25847,Hmm... Seems we've to go for a dip if we want to get ahead here...,
-211,Battle_Guides_Tutorials,250,1032,25914,What<FG><FH> No way<FG> My dress will get soaking wet<FG>,
-211,Battle_Guides_Tutorials,251,1036,25968,"Well, alright then. Guess you better hop on my back, little lady<FG>",
-211,Battle_Guides_Tutorials,252,1040,26036,And exactly how do you suggest I fight from up there<FH> No thank you<FG> I'll just have to grin and bear it<FG>,
-211,Battle_Guides_Tutorials,253,1044,26146,Who are you and what are you doing here<FG><FH> Surrender your weapons and come with us<FG>,
-211,Battle_Guides_Tutorials,254,1048,26235,Heh. I was just thinking I could do with a break from all the tricks and traps. Bring it on<FG>,
+211,Battle_Guides_Tutorials,0,32,8032,"Allow this grizzled veteran to offer you some pointers, young warrior<FG>",ให้ทหารผ่านศึกกร่ำศึกผู้นี้ช่วยชี้แนะเจ้าสักหน่อยนะ นักรบหนุ่ม/สาว<FG>
+211,Battle_Guides_Tutorials,1,36,8105,The first thing you're gooing to need to do is get close enough to attack. Advaaance<FG>,สิ่งแรกที่เจ้าต้องทำคือเข้าไปให้ใกล้พอที่จะโจมตีได้ รุกคืบเข้าไปปป<FG>
+211,Battle_Guides_Tutorials,2,40,8193,"Gooreat<FG> Now it's time to unleash your fury<FG> Attack is the best form of defence, you know<FG>",ยอดเยี่ยมมม<FG> ได้เวลาปลดปล่อยความเดือดดาลแล้ว<FG> การรุกคือการป้องกันที่ดีที่สุดเจ้ารู้ไหมล่ะ<FG>
+211,Battle_Guides_Tutorials,3,44,8290,"Bravo<FG> Now let loose an array of amazing attacks, and vanquish your foul foes<FG>",ไชโย<FG> คราวนี้ปลดปล่อยสารพัดท่าโจมตีสุดเท่ แล้วสยบพวกศัตรูร้ายกาจซะเลย<FG>
+211,Battle_Guides_Tutorials,4,48,8373,"Keep up the goo work, soldier<FG>",ทำได้ดีมาก พลทหาร<FG>
+211,Battle_Guides_Tutorials,5,52,8406,"Oh, I almost forgot<MV>don't forget to jump too<FG> Float like a butterfly, and sometimes you can sting like a bee<FG>",อ้อ ข้าเกือบลืมไป<MV>อย่าลืมกระโดดด้วยล่ะ<FG> พลิ้วไหวดั่งผีเสื้อ และบางทีก็ต่อยเจ็บดั่งผึ้ง<FG>
+211,Battle_Guides_Tutorials,6,56,8522,"Huzzah<FG> Excellent work<FG> Keep it up, and victory will soon be yours<FG>",ฮูเร<FG> เยี่ยมยอดมาก<FG> ทำต่อไปแบบนี้ แล้วชัยชนะจะเป็นของเจ้าในไม่ช้า<FG>
+211,Battle_Guides_Tutorials,7,60,8596,Let the duel of the cousins commence<FG> This is gooing to be amaaazi<MV><FG>,การประลองระหว่างลูกพี่ลูกน้องเริ่มต้นขึ้นแล้ว<FG> มันจะต้องยอดเยี่ยมมากกกแน่ๆ<MV><FG>
+211,Battle_Guides_Tutorials,8,64,8671,"Ahem. I mean<MV>alright, recruit, listen up<FG>",อะแฮ่ม ข้าหมายถึง<MV>เอาล่ะ พลทหารใหม่ ฟังให้ดี<FG>
+211,Battle_Guides_Tutorials,9,68,8717,"As you know, enemy attacks can be evaded by dodging. Goo ahead<MV>show me how it's done<FG>",อย่างที่เจ้ารู้ เราหลบการโจมตีของศัตรูได้ด้วยการกลิ้งหลบ ลุยเลย<MV>แสดงให้ข้าดูหน่อย<FG>
+211,Battle_Guides_Tutorials,10,72,8807,Mm. Impressive<FG>,อืม น่าประทับใจมาก<FG>
+211,Battle_Guides_Tutorials,11,76,8825,"And of course, any self-respecting knight knows how to parry. If you please...",และแน่นอน อัศวินผู้รักเกียรติทุกคนย่อมรู้วิธีปัดป้องดาบ เชิญเลย...
+211,Battle_Guides_Tutorials,12,80,8904,"A fine demonstration of offensive and defensive skills, soldier<FG>",เป็นการแสดงฝีมือทั้งรุกและรับที่ยอดเยี่ยมมาก พลทหาร<FG>
+211,Battle_Guides_Tutorials,13,84,8971,"Now let's look at spells and special abilities. Remember, both cost magic points to use.",คราวนี้มาดูเรื่องคาถาและท่าไม้ตายกัน จำไว้ว่า ทั้ง 2 อย่างต้องใช้แต้มพลังเวทในการร่าย
+211,Battle_Guides_Tutorials,14,88,9060,Goo ahead and try oozing one<FG>,ลุยเลย แล้วลองใช้สักท่าดูสิ<FG>
+211,Battle_Guides_Tutorials,15,92,9092,"Hmm. Looks like you've learnt some fancy new tricks. Good luck trying to land one, though<FG>",หืม ดูเหมือนเจ้าจะไปเรียนรู้ท่าใหม่ๆ สุดเท่มานะ แต่ขอให้โชคดีกับการโจมตีให้โดนก็แล้วกัน<FG>
+211,Battle_Guides_Tutorials,16,96,9185,I'll bet you've been swotting up on all kinds of new tricks. Why don't you show me what I've been missing out on<FH>,พนันได้เลยว่าเธอแอบไปซุ่มฝึกท่าใหม่ๆ มาเพียบแน่ ทำไมไม่โชว์ให้ฉันดูหน่อยล่ะว่าพลาดอะไรไปบ้าง<FH>
+211,Battle_Guides_Tutorials,17,100,9301,I'm almost impressed<FG> You've definitely improved since last year<FG>,เกือบจะประทับใจแล้วเชียว<FG> ฝีมือพัฒนาขึ้นจากปีที่แล้วชัดเจนเลยนะ<FG>
+211,Battle_Guides_Tutorials,18,104,9371,"Yeah, that's the stuff<FG> You've been busy this last year, eh<FH>",ใช่เลย แบบนั้นแหละ<FG> ปีที่ผ่านมาคงซุ่มซ้อมหนักเลยสินะ<FH>
+211,Battle_Guides_Tutorials,19,108,9436,I see that the old rivalry between you two is hotting up<FG> Shall we finish by talking about tension<FH>,ดูเหมือนการแข่งขันเก่าแก่ระหว่างพวกเจ้า 2 คนจะเริ่มร้อนระอุขึ้นมาแล้วสิ<FG> เรามาปิดท้ายด้วยการคุยเรื่องระดับเทนชันกันหน่อยดีไหม<FH>
+211,Battle_Guides_Tutorials,20,112,9540,"As I am sure you have learned, both attacking and being attacked cause your tension to increase.",อย่างที่เจ้าคงได้เรียนรู้มา ทั้งการโจมตีและการถูกโจมตีจะช่วยเพิ่มระดับเทนชันของเจ้า
+211,Battle_Guides_Tutorials,21,116,9637,The bar at the bottom-left of the screen shows your current tension level.,แถบตรงมุมล่างซ้ายของหน้าจอจะแสดงระดับเทนชันปัจจุบันของคุณ
+211,Battle_Guides_Tutorials,22,120,9712,"Now, let the spirit of cousinly competition flow free, and fill that bar<FG>",เอาล่ะ ปล่อยให้จิตวิญญาณแห่งการแข่งขันระหว่างลูกพี่ลูกน้องปะทุขึ้นมา แล้วเติมแถบนั้นให้เต็มเลย<FG>
+211,Battle_Guides_Tutorials,23,124,9788,"Alriiight, now we're talking<FG> Let's give pudgy here a pounding<FG>",เยี่ยมมาก แบบนี้ค่อยคุยกันรู้เรื่องหน่อย<FG> มารุมอัดเจ้าตัวอ้วนกลมนี่กันเลย<FG>
+211,Battle_Guides_Tutorials,24,128,9856,"Now we're really getting warmed up<FG> Alright, no more play-fighting<FG>",ตอนนี้เริ่มเครื่องร้อนของจริงแล้ว<FG> เอาล่ะ เลิกซ้อมเล่นๆ ได้แล้ว<FG>
+211,Battle_Guides_Tutorials,25,132,9928,"A disgraceful display<FG> Don't expect me to save your hide next slime, recruit<FG>",ช่างน่าละอายจริงๆ<FG> คราวหน้าอย่าหวังว่าข้าจะช่วยเจ้าอีกล่ะ พลทหารใหม่<FG>
+211,Battle_Guides_Tutorials,26,136,10010,I can't believe our first real battle has to be against our own people.,ไม่อยากเชื่อเลยว่าการต่อสู้จริงครั้งแรกของเรา จะต้องมาสู้กับคนชาติเดียวกันเองแบบนี้
+211,Battle_Guides_Tutorials,27,140,10082,Me neither. We won't be very popular in Dunisia after this...,ฉันก็เหมือนกัน จบศึกนี้พวกเราคงไม่เป็นที่ต้อนรับในแจวาลแน่ๆ...
+211,Battle_Guides_Tutorials,28,144,10144,We can't afford to worry about that right now. Let's just concentrate on keeping the people of Harba safe<FG>,ตอนนี้เราไม่มีเวลามากังวลเรื่องนั้นหรอก ตั้งสมาธิกับการปกป้องชาวเมืองฮาร์บาให้ปลอดภัยก่อนเถอะ<FG>
+211,Battle_Guides_Tutorials,29,148,10253,"Hey, do you think Cesar knows this is happening<FH>",นี่ คิดว่าซีซาร์จะรู้เรื่องที่เกิดขึ้นนี้ไหม<FH>
+211,Battle_Guides_Tutorials,30,152,10304,Cesar<FH> Ooze Cesar<FH>,ซีซาร์เหรอ<FH> ซีซาร์ไหนกัน<FH>
+211,Battle_Guides_Tutorials,31,156,10327,He's the Prince of Dunisia. We're old friends...kind of.,เขาเป็นเจ้าชายแห่งแจวาลน่ะ พวกเราเป็นเพื่อนเก่ากัน...ประมาณนั้น
+211,Battle_Guides_Tutorials,32,160,10384,I really hope he's not involved in any of this...,หวังว่าเขาจะไม่มีส่วนเกี่ยวข้องกับเรื่องนี้นะ...
+211,Battle_Guides_Tutorials,33,164,10434,"Not so tough now, are you<FG> If you think you're getting past us, you've got another thing coming<FG>",ไม่เห็นเก่งเหมือนปากเลยนี่<FG> ถ้าคิดว่าจะผ่านพวกเราไปได้ล่ะก็ ฝันไปเถอะ<FG>
+211,Battle_Guides_Tutorials,34,168,10535,"Hey, don't get too carried away<FG> We're fighting our own here, remember<FH>",เฮ้ อย่าอินเกินไปสิ<FG> เรากำลังสู้กับพวกเดียวกันอยู่นะ อย่าลืมสิ<FH>
+211,Battle_Guides_Tutorials,35,172,10611,Now will you please all just turn around and go home<FH> I don't want to hurt you any more than I have to<FG>,ได้โปรดหันหลังกลับไปแล้วกลับบ้านกันเถอะนะทุกคน<FH> ฉันไม่อยากทำร้ายพวกคุณไปมากกว่านี้แล้ว<FG>
+211,Battle_Guides_Tutorials,36,176,10719,"Blimey<FG> I don't know about them, but I'm quaking in my boots<FG> Wouldn't want to get on the wrong side of you<FG>",ให้ตายสิ<FG> คนอื่นเป็นไงไม่รู้ แต่ฉันนี่ขาสั่นพั่บๆ เลย<FG> ไม่อยากตกเป็นศัตรูกับเธอเลยจริงๆ<FG>
+211,Battle_Guides_Tutorials,37,180,10834,"Watch out, you two<FG> They call these things night clubbers for a reason<FG>",ระวังด้วยนะทั้ง 2 คน<FG> ที่เขาเรียกเจ้าพวกนี้ว่าไนท์คลับเบอร์น่ะ มันมีเหตุผลอยู่นะ<FG>
+211,Battle_Guides_Tutorials,38,184,10910,"If that club hits you, it's night night<FG>",ถ้าโดนกระบองยักษ์นั่นฟาดเข้าทีเดียวล่ะก็ ได้หลับยาวไม่ตื่นแน่<FG>
+211,Battle_Guides_Tutorials,39,188,10953,It's... It's enormous<FG>,มัน... มันตัวใหญ่เบ้อเริ่มเลย<FG>
+211,Battle_Guides_Tutorials,40,192,10978,Since when did the Dunisian army start using these<FG><FH>,ตั้งแต่เมื่อไหร่กันที่กองทัพแจวาลเริ่มใช้สัตว์ประหลาดพวกนี้<FG><FH>
+211,Battle_Guides_Tutorials,41,196,11035,"Night clubbers may be big, but they take a while to recover their footing after attacking.",ไนท์คลับเบอร์อาจจะตัวใหญ่ แต่พวกมันต้องใช้เวลาครู่หนึ่งเพื่อทรงตัวใหม่หลังจากโจมตี
+211,Battle_Guides_Tutorials,42,200,11126,"Wait for him to swing his club, then dive in and strike<FG>",รอจังหวะที่มันเหวี่ยงกระบองลงมา แล้วพุ่งเข้าไปโจมตีเลย<FG>
+211,Battle_Guides_Tutorials,43,204,11185,"Be careful<FG> Even if you avoid his attacks, the shockwaves can still knock you off balance<FG>",ระวังตัวด้วย<FG> ต่อให้หลบการโจมตีได้ แต่คลื่นกระแทกก็ยังทำให้เสียหลักล้มได้นะ<FG>
+211,Battle_Guides_Tutorials,44,208,11280,You need to jump at just the right moment<FG>,เจ้าต้องกระโดดให้ถูกจังหวะเป๊ะๆ<FG>
+211,Battle_Guides_Tutorials,45,212,11325,"Out of sight isn't always out of mind, you know. Standing behind him won't necessarily keep you safe<FG>",ไม่อยู่ในสายตาก็ใช่ว่าจะปลอดภัยนะ การไปยืนข้างหลังมันไม่ได้แปลว่าจะรอดพ้นเสมอไปหรอก<FG>
+211,Battle_Guides_Tutorials,46,216,11429,"Alright<FG> Here I goo<FG> I mean<MV>Ahem<FG><MV>what do think you're doing, recruits<FG><FH>",เอาล่ะ<FG> ข้าลุยล่ะนะ<FG> หมายถึง<MV>อะแฮ่ม<FG><MV>พวกเจ้าคิดว่ากำลังทำอะไรกันอยู่ พลทหารใหม่<FG><FH>
+211,Battle_Guides_Tutorials,47,220,11516,"I shall come to your aid just this once, but don't goo doing this again, okay<FH>",ข้าจะช่วยเจ้าแค่ครั้งนี้ครั้งเดียวเท่านั้นนะ แต่อย่าทำแบบนี้อีกเป็นอันขาด เข้าใจไหม<FH>
+211,Battle_Guides_Tutorials,48,224,11597,Looks like he's worn himself out. Now's our chance<MV>attack<FG>,ดูเหมือนมันจะหมดแรงแล้ว นี่แหละโอกาสของเรา<MV>โจมตีเลย<FG>
+211,Battle_Guides_Tutorials,49,228,11660,"Ha<FG> Not so big and scary now, are you<FH>",ฮ่า<FG> ไม่เห็นจะตัวใหญ่แล้วน่ากลัวเหมือนเดิมเลยนี่ ใช่ไหมล่ะ<FH>
+211,Battle_Guides_Tutorials,50,232,11703,I think he's just about had enough<FG>,ฉันว่ามันคงทนรับมือไม่ไหวแล้วล่ะ<FG>
+211,Battle_Guides_Tutorials,51,236,11741,"Don't get cocky, you two<FG> There's nothing more dangerous than a cornered beast<FG>",อย่าเพิ่งได้ใจไปทั้ง 2 คน<FG> ไม่มีอะไรจะอันตรายไปกว่าสัตว์ร้ายที่จนตรอกอีกแล้ว<FG>
+211,Battle_Guides_Tutorials,52,240,11825,It was bad luck running into bandits out here on your own.,โชคร้ายจริงๆ ที่ต้องมาเจอกับพวกโจรดักปล้นอยู่คนเดียวกลางทางแบบนี้
+211,Battle_Guides_Tutorials,53,244,11884,And I thought I'd always had the luck o' the<MV> That I'd always had luck on me side<FG>,ทั้งที่ข้านึกว่าตัวเองมีดวงเรื่อง<MV> นึกว่าโชคเข้าข้างมาตลอดแท้ๆ เชียว<FG>
+211,Battle_Guides_Tutorials,54,248,11971,"You do<FG> After all, you ran into us, didn't you<FH>",ก็มีโชคอยู่นี่ไง<FG> ไม่อย่างนั้นจะมาเจอกับพวกเราเหรอ ใช่ไหมล่ะ<FH>
+211,Battle_Guides_Tutorials,55,252,12023,"Sure, and ye're not wrong there, lad<FG> I'm blessed to have found youse when I did<FG>",จริงของเจ้า พ่อหนุ่มเอ๋ย<FG> ช่างเป็นบุญจริงๆ ที่ข้าได้มาเจอพวกเจ้าทันเวลาพอดี<FG>
+211,Battle_Guides_Tutorials,56,256,12109,"Alriiight<FG> You're free to go safely on your way, good sir<FG>",เยี่ยมเลย<FG> ท่านเดินทางต่อไปได้อย่างปลอดภัยแล้วล่ะครับ ท่านผู้เจริญ<FG>
+211,Battle_Guides_Tutorials,57,260,12172,"By the jaypers, ye've saved me bacon, so ye have<FG> How can I ever repay youse<FH>",ขอบคุณสวรรค์ พวกเจ้าช่วยชีวิตข้าไว้แท้ๆ เชียว<FG> จะให้ข้าตอบแทนพวกเจ้าอย่างไรดีนะ<FH>
+211,Battle_Guides_Tutorials,58,264,12254,I wouldn't start celebrating just yet. Something tells me those bandits weren't alone...,ฉันว่าอย่าเพิ่งรีบฉลองกันเลยดีกว่า สังหรณ์ใจว่าพวกโจรพวกนี้ไม่ได้มากันแค่นี้แน่...
+211,Battle_Guides_Tutorials,59,268,12343,She's right<MV>look over there...,เธอพูดถูก<MV>ดูตรงนั้นสิ...
+211,Battle_Guides_Tutorials,60,272,12376,Of all the cheap tricks... Jumping out on people from bushes<FH>,ช่างเป็นลูกไม้ที่สกปรกสิ้นดี... แอบกระโดดออกมาจากพุ่มไม้เล่นงานคนอื่นเนี่ยนะ<FH>
+211,Battle_Guides_Tutorials,61,276,12440,"Well, it's not all bad<MV>looks like they think we can't see where they're hiding.",เอาน่า อย่างน้อยก็ยังดีนะ<MV>ดูเหมือนพวกมันจะนึกว่าเรามองไม่เห็นที่ซ่อนของพวกมัน
+211,Battle_Guides_Tutorials,62,280,12522,Exactly. Which gives us the element of surprise<FG>,ถูกต้อง และนั่นทำให้เราได้เปรียบในการจู่โจมแบบไม่ทันตั้งตัว<FG>
+211,Battle_Guides_Tutorials,63,284,12573,"Fer the love o'<MV> How many o' these villains are there<FG><FH> We're in a quare auld pickle here, so we are...",คุณพระช่วยเอ๋ย<MV> เจ้าพวกคนชั่วพวกนี้มันมีกันกี่คนเนี่ย<FG><FH> งานนี้พวกเราคงตกที่นั่งลำบากเข้าให้แล้วสิ...
+211,Battle_Guides_Tutorials,64,288,12683,"Oh, I wouldn't be so sure of that<FG> Don't worry<MV>we've got it all under control<FG>",โอ้ ฉันว่าไม่ถึงขนาดนั้นหรอกน่า<FG> ไม่ต้องกังวลไป<MV>พวกเราคุมสถานการณ์ได้อยู่หมัดแล้ว<FG>
+211,Battle_Guides_Tutorials,65,292,12768,"Quickly now, we don't want to be overrun. Get them before they can jump out.",เร็วเข้าทุกคน อย่าปล่อยให้พวกมันล้อมเราได้ จัดการพวกมันก่อนที่มันจะกระโดดออกมา
+211,Battle_Guides_Tutorials,66,296,12845,By the hokey... I can't feel me legs...,พุทโธ่เอ๋ย... ข้าไม่รู้สึกถึงขาทั้ง 2 ข้างเลย...
+211,Battle_Guides_Tutorials,67,300,12885,Our friend's in trouble<FG> We have to protect him<FG>,เพื่อนของเรากำลังตกอยู่ในอันตราย<FG> เราต้องปกป้องเขาไว้ให้ได้<FG>
+211,Battle_Guides_Tutorials,68,304,12938,Gah<FG> They just keep coming<FG> You doing okay over there<FH>,หนอย<FG> พวกมันโผล่มาไม่หยุดหย่อนเลย<FG> ทางนั้นไหวไหม<FH>
+211,Battle_Guides_Tutorials,69,308,12999,"Oh, don't worry about me. Save your breath<MV>sounds like you need it<FG>",ไม่ต้องห่วงฉันหรอก เก็บแรงไว้พูดเถอะ<MV>ฟังจากเสียงแล้วเธอน่าจะต้องการแรงมากกว่าฉันนะ<FG>
+211,Battle_Guides_Tutorials,70,312,13071,Ha<FG> It'll take more than this shower of amateurs to tire out the best swordsman in the Academy<FG>,ฮ่า<FG> แค่พวกมือสมัครเล่นพวกนี้ ทำอะไรสุดยอดนักดาบประจำโรงเรียนเตรียมทหารไม่ได้หรอกน่า<FG>
+211,Battle_Guides_Tutorials,71,316,13171,Our priority here is to get those two to safety<FG> Let's make this quick<FG>,ภารกิจหลักของเราคือพา 2 คนนั้นไปที่ปลอดภัยให้ได้<FG> รีบจบเรื่องนี้กันเถอะ<FG>
+211,Battle_Guides_Tutorials,72,320,13247,"Well, we're not exactly going to drag it out, are we<FH> We're fighting our own army here<FG>",เราก็ไม่ได้อยากจะยืดเยื้ออยู่แล้วนี่นา<FH> นี่เรากำลังสู้กับทหารฝ่ายเราเองอยู่นะ<FG>
+211,Battle_Guides_Tutorials,73,324,13339,Seriously<FG><FH> More weirdos<FH> Will someone tell me what exactly is going on here<FG><FH>,จริงจังเหรอเนี่ย<FG><FH> ตัวประหลาดโผล่มาอีกแล้วเหรอ<FH> ใครก็ได้ช่วยบอกทีว่ามันเกิดอะไรขึ้นกันแน่เนี่ย<FG><FH>
+211,Battle_Guides_Tutorials,74,328,13428,"Well, at least these weirdos look like they're on our side<FG>",อย่างน้อยเจ้าพวกตัวประหลาดพวกนี้ก็ดูเหมือนจะอยู่ข้างเรานะ<FG>
+211,Battle_Guides_Tutorials,75,332,13490,Hmph<FG> We'll see about that<FG> Just keep them where you can see them<FG>,ฮึ่ม<FG> เดี๋ยวก็รู้เอง<FG> จับตาดูพวกมันให้อยู่ในสายตาไว้ก็พอ<FG>
+211,Battle_Guides_Tutorials,76,336,13563,"(sniff sniff) Ooh<FG> Hey, mister, can I have some of your food<FH>",(ฟุดฟิด) โฮ่<FG> นี่ คุณลุง ขอของกินหน่อยได้ไหม<FH>
+211,Battle_Guides_Tutorials,77,340,13629,"Ye've quite a nose on ye there, lad<FG> Maybe once the fightin's done, I'll share some wit ye, eh<FG>",จมูกไวใช้ได้เลยนี่ไอ้หนู<FG> เอาไว้สู้เสร็จเมื่อไหร่ ข้าอาจจะแบ่งให้เจ้ากินสักหน่อยก็ได้นะ ดีไหมล่ะ<FG>
+211,Battle_Guides_Tutorials,78,344,13729,"Did you hear that, Maribel<FH> Let's finish fighting so we can start eating<FG> Aooo<FG>",ได้ยินหรือยัง มาริเบล<FH> รีบสู้ให้เสร็จ จะได้เริ่มกินกันได้ซะที<FG> บรู๋ววว<FG>
+211,Battle_Guides_Tutorials,79,348,13815,"There's no such thing as a free lunch, you know<FG> It'll be poisoned or rotten or something, you'll see<FG>",ของฟรีไม่มีในโลกหรอกนะจะบอกให้<FG> เดี๋ยวมันก็คงใส่ยาพิษหรือไม่ก็บูดเน่าแน่ๆ คอยดูสิ<FG>
+211,Battle_Guides_Tutorials,80,352,13922,They appear to be intent on pressing their assault. The invaders must be driven back<FG>,ดูเหมือนพวกมันตั้งใจจะโหมบุกเข้ามา เราต้องขับไล่ผู้รุกรานกลับไปให้หมด<FG>
+211,Battle_Guides_Tutorials,81,356,14010,Now hang on just a minute<FG> You're the ones who attacked us<FG>,เดี๋ยวก่อนสิ หยุดฟังกันสักนิด<FG> ฝ่ายพวกคุณต่างหากที่เป็นคนเปิดฉากโจมตีพวกเราก่อนนะ<FG>
+211,Battle_Guides_Tutorials,82,360,14074,"Silence, worm<FG> Your excuses will not save you now<FG>",หุบปากไปซะ เจ้าหนอนแมลง<FG> ข้อแก้ตัวของเจ้าช่วยชีวิตเจ้าไม่ได้หรอกในตอนนี้<FG>
+211,Battle_Guides_Tutorials,83,364,14129,"B<MV> We<MV> Ugh, there's clearly no point talking to you<FG> You...you boneheads<FG>",ต<MV> พวกเรา<MV> เฮ้อ พูดกับพวกคุณไปก็ไม่มีประโยชน์จริงๆ<FG> เจ้า...เจ้าพวกสมองทึบเอ๊ย<FG>
+211,Battle_Guides_Tutorials,84,368,14211,"We've thinned their numbers a good deal<FG> One final push, and this fight is ours<FG>",เรากำจัดพวกมันไปได้เยอะแล้ว<FG> รุกคืบอีกแค่ครั้งเดียว ชัยชนะในศึกนี้ก็จะเป็นของเรา<FG>
+211,Battle_Guides_Tutorials,85,372,14296,"Aye<FG> But do not get complacent, troops<FG> We must give it our all to the very last<FG>",ใช่แล้ว<FG> แต่อย่าเพิ่งชะล่าใจไป เหล่าทหารกล้า<FG> เราต้องทุ่มสุดกำลังจนถึงที่สุด<FG>
+211,Battle_Guides_Tutorials,86,376,14384,Ngh... It seems we have overstretched ourselves... Send word to headquarters<MV>we must fall back and regroup<FG>,อึก... ดูเหมือนพวกเราจะประเมินกำลังตัวเองสูงไป... ส่งข่าวไปที่กองบัญชาการ<MV>เราต้องถอยร่นไปรวมพลใหม่<FG>
+211,Battle_Guides_Tutorials,87,380,14496,"Gurrr hurrr hurrr<FG> Smell like Harban worms<FG> Welcome, wormy worms<FG>",กรรร ฮึ่มๆๆ<FG> กลิ่นเหมือนพวกหนอนแมลงฮาร์บาเลย<FG> ยินดีต้อนรับนะ เจ้าพวกหนอนชั้นต่ำ<FG>
+211,Battle_Guides_Tutorials,88,384,14568,"Alright, listen up. For many of you, this is your first full-scale battle, so let me give you some advice.",เอาล่ะ ฟังให้ดี สำหรับหลายคนในที่นี้ นี่คงเป็นการรบเต็มรูปแบบครั้งแรก ข้าจึงอยากจะให้คำแนะนำสักหน่อย
+211,Battle_Guides_Tutorials,89,388,14675,"Knowing the terrain is vital, so make sure to get your bearings before you go charging in.",การรู้ภูมิประเทศเป็นสิ่งสำคัญยิ่ง ดังนั้นจงดูทิศทางรอบตัวให้รอบคอบก่อนที่จะพุ่งเข้าไป
+211,Battle_Guides_Tutorials,90,392,14766,"Sure, 'tis sound advice, so it is<MV>keep an eye on yer map, an' it'll keep an eye on you, so it will<FG>",จริงแท้แน่นอน เป็นคำแนะนำที่ดียิ่ง<MV>จับตาดูแผนที่ไว้ แล้วแผนที่จะช่วยคุ้มกันตัวเจ้าเองนะขอรับ<FG>
+211,Battle_Guides_Tutorials,91,396,14870,Blimey<FG> More of them<FG> But it'll take ten times as many to stop me<FG> Aooo<FG>,โหยยย<FG> มากันอีกแล้วเหรอ<FG> แต่ต่อให้มามากกว่านี้ 10 เท่าก็หยุดฉันไม่ได้หรอก<FG> บรู๋ววว<FG>
+211,Battle_Guides_Tutorials,92,400,14951,"Your reputation as a fearsome warrior is certainly well-deserved, Lady Desdemona.",ชื่อเสียงของท่านในฐานะนักรบผู้เกรียงไกร ช่างสมคำร่ำลือจริงๆ ท่านเดสเดโมน่า
+211,Battle_Guides_Tutorials,93,404,15033,But we cannot let you have all the fun. Soldiers of Harba...advance<FG>,แต่เราจะปล่อยให้ท่านสนุกอยู่คนเดียวไม่ได้ เหล่าทหารแห่งฮาร์บา...รุกคืบเข้าไป<FG>
+211,Battle_Guides_Tutorials,94,408,15104,Gurrr hurrr hurrr<FG> We not need chase after King of Harba.,กรรร ฮึ่มๆๆ<FG> พวกเราไม่ต้องเหนื่อยไล่ตามราชาแห่งฮาร์บาแล้ว
+211,Battle_Guides_Tutorials,95,412,15164,He come straight to us<FG> I not realise he is so stupid<FG>,มันเดินเข้ามาหาพวกเราเองถึงที่<FG> ข้าไม่นึกเลยว่ามันจะโง่เง่าขนาดนี้<FG>
+211,Battle_Guides_Tutorials,96,416,15223,Hmph. We'll soon see who's the stupid one. Their commanding officer has exposed himself<FG> Attack<FG>,ฮึ่ม เดี๋ยวก็รู้ว่าใครกันแน่ที่โง่ ผู้บัญชาการของพวกมันเปิดจุดอ่อนแล้ว<FG> โจมตีเลย<FG>
+211,Battle_Guides_Tutorials,97,420,15324,"Listen, just let us have a word with Cesar, will you<FH> He's obviously got the wrong end of the stick here<FG>",ฟังก่อนสิ แค่ขอให้พวกเราได้คุยกับซีซาร์สักคำจะได้ไหม<FH> เขาต้องเข้าใจอะไรผิดไปแน่ๆ<FG>
+211,Battle_Guides_Tutorials,98,424,15434,That PRINCE Cesar to you<FG> Come here<FG> I smash some manners into you<FG>,ต้องเรียกว่า เจ้าชายซีซาร์ ต่างหากเล่า<FG> มานี่เลย<FG> ข้าจะสั่งสอนมารยาทให้พวกเจ้าเอง<FG>
+211,Battle_Guides_Tutorials,99,428,15508,Ngh... No... They cannot be allowed to...win...,อึก... ไม่นะ... จะยอมให้พวกมัน...ชนะไม่ได้เด็ดขาด...
+211,Battle_Guides_Tutorials,100,432,15556,The King's in trouble<FG> We have to go and help him out<FG>,องค์ราชากำลังตกอยู่ในอันตราย<FG> พวกเราต้องรีบไปช่วยพระองค์<FG>
+211,Battle_Guides_Tutorials,101,436,15615,"Right, we'll be operating as a small, mobile force separate from the main army.",รับทราบ เราจะแยกตัวเป็นหน่วยเคลื่อนที่เร็วขนาดเล็ก แยกจากกองทัพหลัก
+211,Battle_Guides_Tutorials,102,440,15695,"Roger that<FG> Let's scout out the lay of the land, and make sure there aren't any nasty surprises lying in wait<FG>",รับทราบแล้ว<FG> ไปสำรวจดูลาดเลาแถวนี้กัน และตรวจดูให้แน่ใจว่าไม่มีกับดักอันตรายรออยู่<FG>
+211,Battle_Guides_Tutorials,103,444,15810,Well I never<FG> Maybe you really have been paying attention in class<FG>,ไม่อยากเชื่อเลย<FG> สงสัยเธอจะตั้งใจเรียนในห้องเรียนจริงๆ สินะเนี่ย<FG>
+211,Battle_Guides_Tutorials,104,448,15882,Archers<FG> Into position<FG> Pepper them with arrows<FG>,พลธนู<FG> ประจำตำแหน่ง<FG> ระดมยิงห่าฝนธนูใส่พวกมันเลย<FG>
+211,Battle_Guides_Tutorials,105,452,15937,"Grr... Halt, men<FG> Their bowmen must be defeated before we can go any further<FG>",หนอย... ทหารทั้งหลาย หยุดทัพก่อน<FG> เราต้องกำจัดพวกพลธนูของมันให้ได้ก่อนจะรุกคืบต่อไป<FG>
+211,Battle_Guides_Tutorials,106,456,16019,"Jaypers<FG> ‘Pepper them with arrows’, he says<FG> I don't much like the sound o' that<FG>",คุณพระช่วย<FG> 'ระดมยิงห่าฝนธนู' งั้นรึ<FG> ข้าไม่ชอบฟังคำนี้เอาเสียเลยจริงๆ<FG>
+211,Battle_Guides_Tutorials,107,460,16111,"Then don't let it happen<FG> Come on, let's get up there and take them down<FG>",งั้นก็อย่าปล่อยให้มันยิงสิ<FG> เร็วเข้า รีบขึ้นไปจัดการพวกมันลงมาให้หมด<FG>
+211,Battle_Guides_Tutorials,108,464,16189,That's the archers dealt with<FG> It should be safe for the King to move forward now<FG>,จัดการพวกพลธนูเรียบร้อยแล้ว<FG> ตอนนี้องค์ราชาน่าจะเคลื่อนทัพไปข้างหน้าได้อย่างปลอดภัยแล้วล่ะ<FG>
+211,Battle_Guides_Tutorials,109,468,16276,"Good work, all of you<FG> Soldiers of Harba, forward<FG>",ทำได้ดีมากทุกคน เหล่าทหารแห่งฮาร์บา รุกไปข้างหน้า<FG>
+211,Battle_Guides_Tutorials,110,472,16331,"The Harban army has marched straight into our trap<FG> Company, deploy<FG>",กองทัพฮาร์บาเดินเข้ามาติดกับดักของเราเต็มเปาแล้ว<FG> ทั้งกองร้อย กระจายกำลัง<FG>
+211,Battle_Guides_Tutorials,111,476,16404,"Grrr<FG> It seems they were expecting us<FG> Men, stand your ground<FG>",หนอยยย<FG> ดูเหมือนพวกมันจะดักรอเราอยู่แล้ว เหล่าทหาร จงรักษาแนวรบไว้ให้มั่น<FG>
+211,Battle_Guides_Tutorials,112,480,16473,This isn't good<FG> They're going after the King<FG>,ท่าไม่ดีแล้วสิ<FG> พวกมันมุ่งเป้าไปที่องค์ราชาแล้ว<FG>
+211,Battle_Guides_Tutorials,113,484,16524,Eep<FG> We have to protect him<FG> But we can't just ignore these nightmaws...,แย่แล้ว<FG> เราต้องไปปกป้องพระองค์ไว้<FG> แต่เราก็ละเลยเจ้าไนท์มอร์พวกนี้ไม่ได้เหมือนกันนะ...
+211,Battle_Guides_Tutorials,114,488,16601,His Majesty's safety has to be our top priority<FG> The nightmaws will have to wait<FG>,ความปลอดภัยของฝ่าบาทต้องสำคัญเป็นอันดับ 1<FG> ส่วนไนท์มอร์คงต้องรอไปก่อน<FG>
+211,Battle_Guides_Tutorials,115,492,16687,What were we worried about<FH> They barely even put up a fight<FG>,เมื่อกี้พวกเรามัวกังวลเรื่องอะไรกันอยู่นะ<FH> เจ้าพวกนี้แทบไม่ได้ออกแรงสู้ด้วยซ้ำ<FG>
+211,Battle_Guides_Tutorials,116,496,16752,We're through the gates. But I can't help thinking we're walking into another trap...,เราผ่านประตูเข้ามาได้แล้ว แต่ฉันอดคิดไม่ได้ว่าเรากำลังเดินเข้าสู่กับดักอีกอัน...
+211,Battle_Guides_Tutorials,117,500,16838,"Well, not much we can do about it except keep our eyes peeled. Come on<FG>",เอาเถอะ เราคงทำอะไรไม่ได้มากไปกว่าเปิดหูเปิดตาให้กว้างเข้าไว้ ไปกันเถอะ<FG>
+211,Battle_Guides_Tutorials,118,504,16912,"If you don't mind, I'd like to go in first and make sure it's safe, Your Majesty.",หากพระองค์ไม่ทรงขัดข้อง ข้าขออาสาเข้าไปตรวจสอบความปลอดภัยข้างในก่อนพ่ะย่ะค่ะ ฝ่าบาท
+211,Battle_Guides_Tutorials,119,508,16994,Very good. We will hold here for now.,ดีมาก เช่นนั้นพวกเราจะตรึงกำลังรออยู่ตรงนี้ก่อน
+211,Battle_Guides_Tutorials,120,512,17032,"Agh, you<MV><FG> Who put that trapdoor there<FG><FH>",โอ๊ย เจ้าพวก<MV><FG> ใครเอากับดักพื้นเปิดมาวางไว้ตรงนี้กันเนี่ย<FG><FH>
+211,Battle_Guides_Tutorials,121,516,17081,Owww... A trapdoor<FH> Of all the cheap tricks...,โอ๊ยยย... กับดักพื้นเปิดเหรอ<FH> ลูกไม้ตื้นๆ แบบนี้เนี่ยนะ...
+211,Battle_Guides_Tutorials,122,520,17130,"A trapdoor with a pit o' monsters beneath it, no less. Ahhh, this takes me back<FG>",แถมข้างล่างยังเป็นหลุมดงมอนสเตอร์ซะด้วยสิ แหม ทำให้คิดถึงวันวานเก่าๆ ชะมัดเลย<FG>
+211,Battle_Guides_Tutorials,123,524,17213,Takes you back<FG><FH> What an awful life you must have led<FG>,คิดถึงวันวานเนี่ยนะ<FG><FH> ชีวิตที่ผ่านมาของลุงนี่มันลำบากลำบนขนาดไหนกันเนี่ย<FG>
+211,Battle_Guides_Tutorials,124,528,17274,The enemy forces are divided<FG> Now is our chance to capture the King of Harba<FG>,กองทัพศัตรูแตกแยกเป็น 2 ฝ่ายแล้ว<FG> ตอนนี้แหละคือโอกาสที่จะจับตัวราชาแห่งฮาร์บา<FG>
+211,Battle_Guides_Tutorials,125,532,17356,Hm. Seems we've been outmanoeuvred. We'd better get these monsters dealt with quickly<FG>,หืม ดูเหมือนพวกเราจะถูกซ้อนกลเข้าให้แล้ว รีบจัดการมอนสเตอร์พวกนี้ให้เสร็จโดยเร็วเถอะ<FG>
+211,Battle_Guides_Tutorials,126,536,17445,Jaypers<FG> There's arrows comin' out o' the very walls<FG> Mind ye don't get skewered<FG>,พุทโธ่เอ๋ย<FG> มีลูกธนูพุ่งออกมาจากฝาผนังด้วย<FG> ระวังตัวอย่าให้โดนเสียบนะขอรับ<FG>
+211,Battle_Guides_Tutorials,127,540,17533,"It looks like they're triggered by panels on the floor. Watch your step, everyone.",ดูเหมือนมันจะทำงานเมื่อเหยียบลงบนแผ่นกลไกบนพื้น ระวังเท้าด้วยนะทุกคน
+211,Battle_Guides_Tutorials,128,544,17616,"You will go no further, Harban scum<FG> Prepare to meet your doom<FG>",พวกสวะฮาร์บา เจ้าจะไปต่อไม่ได้อีกแล้ว<FG> เตรียมตัวพบกับจุดจบซะเถอะ<FG>
+211,Battle_Guides_Tutorials,129,548,17684,"Something tells me they're not in the mood to negotiate. Gah, I hate fighting our own people<FG>",สังหรณ์ใจว่าพวกมันคงไม่ได้อยู่ในอารมณ์ที่จะเจรจาด้วยแน่ๆ เฮ้อ ฉันเกลียดการสู้กับคนชาติเดียวกันจริงๆ<FG>
+211,Battle_Guides_Tutorials,130,552,17780,"Ahhh, there's nuttin' quite like a pyramid<FG> Smell that<FH> 'Tis high adventure lyin' in wait, so it is<FG>",อา ไม่มีอะไรจะวิเศษเท่ากับปิรามิดอีกแล้ว<FG> ได้กลิ่นนั่นไหม<FH> กลิ่นอายของการผจญภัยอันยิ่งใหญ่รอคอยเราอยู่แท้ๆ เลยเชียว<FG>
+211,Battle_Guides_Tutorials,131,556,17887,Really<FH> (sniff sniff) Smells like mould to me<FG>,จริงเหรอ<FH> (ฟุดฟิด) ทำไมฉันได้กลิ่นแต่เชื้อราล่ะเนี่ย<FG>
+211,Battle_Guides_Tutorials,132,560,17938,"Heh heh<FG> Just you wait, lad<FG> There's excitin' times ahead, or my name's not Torneko Taloon<FG>",ฮะฮ่า<FG> คอยดูเถอะเจ้าหนู<FG> มีเรื่องน่าตื่นเต้นรออยู่ข้างหน้าแน่ ไม่อย่างนั้นข้าคงไม่ใช่ ทอร์เนโกะ ทาลูน แล้วล่ะ<FG>
+211,Battle_Guides_Tutorials,133,564,18036,Gurrr hurrr hurrr<FG> You do good getting this far<FG> But you go no further<FG>,กรรร ฮึ่มๆๆ<FG> พวกเจ้าเก่งมากที่มาได้ไกลถึงเพียงนี้<FG> แต่พวกเจ้าจะไม่ได้ไปไกลกว่านี้อีกแล้ว<FG>
+211,Battle_Guides_Tutorials,134,568,18114,Wait<FG> We just want to talk<FG> We don't want to see any more Dunisian blood spilt<FG>,เดี๋ยวก่อน<FG> พวกเราแค่อยากจะขอคุยด้วย<FG> พวกเราไม่อยากเห็นเลือดของชาวแจวาลต้องหลั่งรินไปมากกว่านี้อีกแล้ว<FG>
+211,Battle_Guides_Tutorials,135,572,18200,Shut up<FG> It too late for that<FG> Now come here and I make old king's grave your grave too<FG>,หุบปากซะ<FG> มันสายเกินไปแล้ว<FG> เข้ามานี่เลย ข้าจะทำให้สุสานของอดีตราชาแห่งนี้กลายเป็นหลุมศพของพวกเจ้าไปด้วย<FG>
+211,Battle_Guides_Tutorials,136,576,18295,Gyurgh<FG> You stronger than you look<FG> But Prince Cesar finish you good<FG>,กิ๊ซซซ<FG> พวกเจ้าแข็งแกร่งกว่าที่ตาเห็นนัก<FG> แต่เจ้าชายซีซาร์จะบดขยี้พวกเจ้าจนไม่เหลือซากแน่<FG>
+211,Battle_Guides_Tutorials,137,580,18371,Justice will be done<FG> Mercy shall not stay my hand<FG>,ความยุติธรรมจะต้องปรากฏ<FG> ความปรานีจะไม่อาจเหนี่ยวรั้งดาบของข้าได้อีกต่อไป<FG>
+211,Battle_Guides_Tutorials,138,584,18427,"Same to you, Your Princeliness<FG> We're gonna beat some sense into you whether you like it or not<FG>",ทางนี้ก็เหมือนกันพ่ะย่ะค่ะ องค์เจ้าชาย<FG> พวกเราจะสั่งสอนให้ท่านได้สติกลับคืนมา ไม่ว่าท่านจะชอบหรือไม่ก็ตาม<FG>
+211,Battle_Guides_Tutorials,139,588,18528,"Oi, that's an old friend you're talking to<FG> But it does seem like the only way to stop him...",เฮ้ นั่นนายกำลังพูดกับเพื่อนเก่านะ<FG> แต่ดูเหมือนว่านี่จะเป็นหนทางเดียวที่จะหยุดเขาได้จริงๆ...
+211,Battle_Guides_Tutorials,140,592,18624,Seems like this lot have some history with the Prince here...,ดูท่าทางคนกลุ่มนี้จะมีเรื่องราวในอดีตกับองค์เจ้าชายที่นี่สินะ...
+211,Battle_Guides_Tutorials,141,596,18686,"Yeah. No idea what, though. He doesn't smell like a baddie, that's for sure.",ใช่ แต่ไม่รู้ว่าเรื่องอะไรเหมือนกัน กลิ่นของเขาไม่ได้เหมือนคนชั่วร้ายเลยสักนิด อันนี้ฉันรับประกันได้
+211,Battle_Guides_Tutorials,142,600,18763,"Well, baddie or not, it looks like we're going to have to fight him. Let's get this over with, shall we<FH>",เอาเถอะ ไม่ว่าจะเป็นคนร้ายหรือไม่ ดูเหมือนเราคงเลี่ยงการต่อสู้กับเขาไม่ได้แล้วล่ะ รีบทำให้มันจบๆ กันเถอะ<FH>
+211,Battle_Guides_Tutorials,143,604,18870,Jaypers<FG> He nearly took me head clean off<FG>,คุณพระช่วย<FG> คมดาบเขาเฉียดตัดหัวข้าไปแค่นิดเดียวเอง<FG>
+211,Battle_Guides_Tutorials,144,608,18917,"The Prince is a highly skilled swordsman. Be careful, all of you. You're not safe, even at a distance<FG>",องค์เจ้าชายทรงเป็นนักดาบฝีมือฉกาจ ระวังตัวด้วยทุกคน ถึงจะอยู่ห่างออกมาก็ยังไม่ปลอดภัยนะ<FG>
+211,Battle_Guides_Tutorials,145,612,19022,Ngh<FG> Curse you<FG>,อึก<FG> เจ้าพวกตัวแสบ<FG>
+211,Battle_Guides_Tutorials,146,616,19042,"Had enough yet, Cesar<FH> Ready to put down your sword and talk like a<MV>",พอได้หรือยัง ซีซาร์<FH> พร้อมที่จะวางดาบลงแล้วคุยกันอย่างคนมี<MV>
+211,Battle_Guides_Tutorials,147,620,19115,Never<FG> Now suffer the wrath of Dunisia<FG>,ไม่มีวัน<FG> จงลิ้มรสความพิโรธแห่งแจวาลซะเถอะ<FG>
+211,Battle_Guides_Tutorials,148,624,19159,Look<FG> Over there<FG>,ดูนั่นสิ<FG> ทางโน้นนน<FG>
+211,Battle_Guides_Tutorials,149,628,19181,Archers... We'll need to deal with them before we do anything else.,พวกพลธนู... เราคงต้องจัดการพวกมันก่อนจะทำอย่างอื่นแล้วล่ะ
+211,Battle_Guides_Tutorials,150,632,19249,Ngh... Grrrgh... Heh... Heh heh heh...,อึก... กรรร... หึ... หึๆๆ ฮ่าๆๆ...
+211,Battle_Guides_Tutorials,151,636,19288,Uh-oh... I know that laugh...and it's not good<FG>,แย่แล้ว... ฉันจำเสียงหัวเราะนั้นได้ดี... และมันไม่ใช่เรื่องดีแน่ๆ<FG>
+211,Battle_Guides_Tutorials,152,640,19338,"Cesar<FG> Get a hold of yourself<FG> Please, just listen to what we<MV>",ซีซาร์<FG> ตั้งสติหน่อยสิ<FG> ได้โปรด ฟังสิ่งที่พวกเราจะ<MV>
+211,Battle_Guides_Tutorials,153,644,19407,"On my honour as Prince of Dunisia, I will strike you down<FG>",ด้วยเกียรติแห่งเจ้าชายแห่งแจวาล ข้าจะฟาดฟันพวกเจ้าให้สิ้นซาก<FG>
+211,Battle_Guides_Tutorials,154,648,19468,Ngah... Impossible<FG> Father...forgive me...,อั่ก... เป็นไปไม่ได้<FG> เสด็จพ่อ...โปรดอภัยให้ลูกด้วย...
+211,Battle_Guides_Tutorials,155,652,19513,Let's make sure we've spoken to all the guards before jumping to any conclusions.,เราตรวจดูให้แน่ใจก่อนดีกว่าว่าได้คุยกับยามครบทุกคนแล้ว ก่อนจะด่วนสรุปอะไรไป
+211,Battle_Guides_Tutorials,156,656,19595,That's all the guards on patrol. Let's go back and speak to the one on the gate.,นั่นคือทหารยามลาดตระเวนทั้งหมดแล้วล่ะ กลับไปคุยกับคนที่เฝ้าตรงประตูทางเข้ากันเถอะ
+211,Battle_Guides_Tutorials,157,660,19676,"How dare you, how dare you<FG><FH> Why would you spoil my fun, my fun<FH>",บังอาจมาก บังอาจจริงๆ นะ<FG><FH> ทำไมถึงต้องมาขัดความสนุกของฉัน ขัดความสนุกของฉันด้วยล่ะเนี่ย<FH>
+211,Battle_Guides_Tutorials,158,664,19747,"Ouch, ow<FG> Ouch, ow<FG> How dare you, how dare you<FG><FH>",โอ๊ย เจ็บนะ โอ๊ย เจ็บ<FG> โอ๊ย เจ็บนะ โอ๊ย เจ็บ<FG> บังอาจนัก บังอาจจริงๆ นะ<FG><FH>
+211,Battle_Guides_Tutorials,159,668,19804,"I'll get you for this, get you for this<FG>",ฉันจะเอาคืนพวกแกแน่ จะเอาคืนพวกแกแน่ๆ คอยดูเถอะ<FG>
+211,Battle_Guides_Tutorials,160,672,19847,"Hey, wait<FG> Ach, it got away<FG>",เฮ้ เดี๋ยวสิ<FG> โธ่เอ๊ย มันหนีไปได้อีกแล้ว<FG>
+211,Battle_Guides_Tutorials,161,676,19880,Hm. That thing is almost as annoying as some others I could mention. We'd better get after it.,หืม เจ้าตัวนั้นมันน่ารำคาญพอๆ กับคนบางคนที่ฉันไม่อยากจะเอ่ยชื่อเลยจริงๆ รีบตามมันไปเถอะ
+211,Battle_Guides_Tutorials,162,680,19975,Why doesn't he just turn into a king or something<FH> He could do whatever he wanted then.,ทำไมมันไม่แปลงร่างเป็นราชาไปเลยล่ะ<FH> จะได้ทำอะไรตามใจชอบได้ทุกอย่างไปเลย
+211,Battle_Guides_Tutorials,163,684,20065,"Come on, come on<FG> I draw the line somewhere, you know, somewhere you know<FG>",เดี๋ยวก่อนสิ เดี๋ยวก่อนสิ<FG> ฉันก็ยังมีขอบเขตอยู่นะ มีขอบเขตอยู่นะจะบอกให้<FG>
+211,Battle_Guides_Tutorials,164,688,20144,"Annoying you humans is one thing, one thing, but abusing my powers is quite another, another<FG>",การกวนประสาทพวกมนุษย์อย่างพวกแกก็เรื่องหนึ่ง เรื่องหนึ่ง แต่การใช้อำนาจในทางที่ผิดมันอีกเรื่องหนึ่งนะ อีกเรื่องหนึ่งเลย<FG>
+211,Battle_Guides_Tutorials,165,692,20240,I suppose that sort of m<MV> No it doesn't<FG> Both those things are just as bad as each other<FG>,ฉันว่ามันก็ฟังดูมีเหต<MV> ไม่จริงสักนิด<FG> ทั้ง 2 อย่างนั้นมันก็แย่พอกันทั้งคู่นั่นแหละ<FG>
+211,Battle_Guides_Tutorials,166,696,20336,"Agh<FG> That's not a tree, it's a monster<FG>",เหวอ<FG> นั่นไม่ใช่ต้นไม้ แต่มันคือสัตว์ประหลาดต่างหาก<FG>
+211,Battle_Guides_Tutorials,167,700,20380,"A treeface, to be exact. The accursed things plague wooded areas such as this.",ทรีเฟซ ถ้าจะเรียกให้ถูกนะ เจ้าสิ่งมีชีวิตต้องสาปพวกนี้มักจะเพ่นพ่านอยู่ในป่าทึบแบบนี้แหละ
+211,Battle_Guides_Tutorials,168,704,20459,"Oooh, look at all these treasure chests<FG> Bagsy mine<FG>",โอ้โห ดูหีบสมบัติพวกนี้สิ<FG> ของฉันหมดเลยนะ จองแล้ว<FG>
+211,Battle_Guides_Tutorials,169,708,20516,"(sniff sniff) Umm... I'm not so sure you want what's in them, you know...",(ฟุดฟิด) เอ่อ... ฉันว่าเธอคงไม่อยากได้ของที่อยู่ข้างในนั้นหรอกนะ...
+211,Battle_Guides_Tutorials,170,712,20590,"Look out<FG> If that cannibox hits you with Whack, you won't be coming back<FG>",ระวังด้วยนะ<FG> ถ้าโดนคาถาแซคของแคนนิบ็อกซ์เข้าไปล่ะก็ ได้ไปแล้วไม่กลับแน่<FG>
+211,Battle_Guides_Tutorials,171,716,20668,Ugh<FG> I wish you'd told us that before we started throwing open chests all over the place<FG>,แหวะ<FG> น่าจะบอกกันก่อนที่เราจะเที่ยวเปิดหีบมั่วซั่วไปทั่วแบบนี้นะ<FG>
+211,Battle_Guides_Tutorials,172,720,20762,"Alright<FG> Let's get moving, shall we<FH>",เอาล่ะ<FG> พวกเราออกเดินทางกันต่อดีไหม<FH>
+211,Battle_Guides_Tutorials,173,724,20803,Fool. You mean to go charging blindly onward<FH> Caution is clearly what's needed here.,คนโง่เอ๊ย เจ้าคิดจะพุ่งพรวดพราดไปข้างหน้าโดยไม่ดูตาม้าตาเรือรึไง<FH> ความรอบคอบต่างหากคือสิ่งที่จำเป็นในตอนนี้
+211,Battle_Guides_Tutorials,174,728,20890,"Alright you two, that's enough. We'll get moving...cautiously, okay<FH>",เอาล่ะพวกเธอ 2 คน พอได้แล้ว เราจะเดินทางต่อไป...แบบระมัดระวัง โอเคไหม<FH>
+211,Battle_Guides_Tutorials,175,732,20961,Urgh<FG> This place stinks of poison<FG> I'm getting sick just sniffing it<FG>,แหวะ<FG> ที่นี่เหม็นกลิ่นพิษชะมัดเลย<FG> แค่ดมเข้าไปก็แทบจะอ้วกแล้วเนี่ย<FG>
+211,Battle_Guides_Tutorials,176,736,21037,"You'll be even more sick if you step in it. Careful, everyone<FG>",แล้วจะยิ่งป่วยหนักกว่านี้อีกถ้าก้าวเท้าลงไปโดนมัน ระวังตัวด้วยนะทุกคน<FG>
+211,Battle_Guides_Tutorials,177,740,21102,"Janey Mac<FG> Pepperin' us with arrows out here in the woods too, are they<FH>",คุณพระช่วยเอ๋ย<FG> ในป่าทึบแบบนี้พวกมันยังตามมาระดมยิงห่าฝนธนูใส่อีกรึเนี่ย<FH>
+211,Battle_Guides_Tutorials,178,744,21179,Hmm... Doesn't look like there's any way around. Which means we'll have to go through...,หืม... ดูเหมือนจะไม่มีทางอ้อมเลยแฮะ ซึ่งหมายความว่าเราคงต้องลุยผ่ามันไปตรงๆ...
+211,Battle_Guides_Tutorials,179,748,21268,But it's one big poisonous swamp<FG> Are you mad<FG><FH>,แต่นี่มันเป็นหนองน้ำพิษขนาดใหญ่เลยนะ<FG> จะบ้าไปแล้วเหรอไง<FG><FH>
+211,Battle_Guides_Tutorials,180,752,21322,"Ah, come on<FG> It'll be fine as long as we're quick<FG> Just close your eyes, hold your nose and barrel on through<FG>",เอาน่า ลุยเถอะ<FG> ถ้าเรารีบวิ่งให้ไวก็ไม่เป็นไรหรอก<FG> แค่หลับตา บีบจมูก แล้ววิ่งตะลุยฝ่าไปเลย<FG>
+211,Battle_Guides_Tutorials,181,756,21439,"Eeeeeep<FG> Arrows<FG> I hate arrows<FG> Goo away<FG> Err, oh, I mean...",วี้ดดดดด<FG> ลูกธนู<FG> ข้าเกลียดลูกธนูที่สุดเลยยย<FG> ไปให้พ้นนนนะ<FG> เอ่อ อ๊ะ ข้าหมายถึง...
+211,Battle_Guides_Tutorials,182,760,21508,"Comrades<FG> Steel yourselves, and charge boldly into the fray<FG>",สหายทั้งหลาย<FG> ทำใจให้กล้าหาญ แล้วพุ่งทะยานเข้าสู่สมรภูมิอย่างองอาจเลยยย<FG>
+211,Battle_Guides_Tutorials,183,764,21573,I recognise this place. We're back where we started.,ฉันจำที่นี่ได้ พวกเราวนกลับมาที่จุดเริ่มต้นอีกแล้ว
+211,Battle_Guides_Tutorials,184,768,21626,"Ah, nonsense<FG> You're just getting confused because this whole forest looks the same<FG>",เหลวไหลน่า<FG> นายแค่สับสนไปเองเพราะป่าทั้งป่านี้หน้าตามันเหมือนกันไปหมดต่างหากล่ะ<FG>
+211,Battle_Guides_Tutorials,185,772,21715,No he's not. Take a good look around<MV>this is where we were before.,เขาไม่ได้สับสนหรอก เธอลองมองไปรอบๆ ให้ดีสิ<MV>ที่นี่คือที่ที่เราเคยอยู่มาก่อนจริงๆ
+211,Battle_Guides_Tutorials,186,776,21784,"Maybe our wee slimy friend'll have a word or two o' wisdom for us, eh<FH>",บางทีสหายสไลม์ตัวน้อยของเราอาจจะมีคำแนะนำดีๆ สักคำ 2 คำให้พวกเราบ้างไหมนะ<FH>
+211,Battle_Guides_Tutorials,187,780,21857,"Oh, by the<MV> Back here again<FG><FH>",โอ้ ให้ตายสิ<MV> วนกลับมาที่นี่อีกแล้วเหรอเนี่ย<FG><FH>
+211,Battle_Guides_Tutorials,188,784,21893,"Grr... If we come back here one more time, I'm going to SCREAM<FG>",หนอย... ถ้าเราวนกลับมาตรงนี้อีกรอบเดียวล่ะก็ ฉันจะกรี๊ดดดให้ลั่นป่าเลยคอยดู<FG>
+211,Battle_Guides_Tutorials,189,788,21959,(sniff sniff) We're back here again<FG>,(ฟุดฟิด) พวกเราวนกลับมาที่นี่อีกแล้ว<FG>
+211,Battle_Guides_Tutorials,190,792,21998,Uh-oh. Back again. This is enough to drive you nuts<FG>,อ้าว วนกลับมาอีกแล้ว ชวนให้ประสาทเสียจริงๆ เลยพับผ่า<FG>
+211,Battle_Guides_Tutorials,191,796,22053,"Aaand we're back. Okay, we really need to keep track of which teleportals we're using...",แ้ล้วพวกเราก็กลับมาที่เดิม โอเค คราวนี้เราต้องจำให้ดีจริงๆ แล้วล่ะว่าใช้ประตูเทเลพอร์ทัลบานไหนไปบ้าง...
+211,Battle_Guides_Tutorials,192,800,22142,Hmph. Here again. I am not enjoying this one bit.,ฮึ่ม วนมาที่เดิมอีกแล้ว ไม่สนุกเลยสักนิดเดียว
+211,Battle_Guides_Tutorials,193,804,22192,"Well, this certainly isn't much fun. We need to memorise the route, or we'll be here forever.",นั่นสิ เรื่องนี้ไม่ตลกเลยจริงๆ เราต้องจดจำเส้นทางให้ได้ ไม่อย่างนั้นคงติดอยู่ที่นี่ไปตลอดกาลแน่
+211,Battle_Guides_Tutorials,194,808,22286,"Wh<MV> An ambush<FG><FH> Well, that's not very sporting, is it<FG><FH>",อะ<MV> มีการซุ่มโจมตีเหรอเนี่ย<FG><FH> แหม ช่างไม่มีน้ำใจนักกีฬาเอาซะเลยนะ<FG><FH>
+211,Battle_Guides_Tutorials,195,812,22352,"Oh, come on<FG> At least a good honest fight beats all that wandering back and forth<FG> Let's get stuck in<FG>",เอาน่า อย่างน้อยการต่อสู้อย่างเปิดเผยตรงไปตรงมา ก็ยังดีกว่าการเดินวนไปวนมาล่ะนะ<FG> ลุยกันให้เต็มที่เลย<FG>
+211,Battle_Guides_Tutorials,196,816,22461,Aye<FG> We must show them the error of their monstrous ways<FG>,ถูกต้องแล้ว<FG> เราต้องแสดงให้พวกมันเห็นถึงความผิดพลาดของวิถีสัตว์ประหลาดให้จงได้<FG>
+211,Battle_Guides_Tutorials,197,820,22523,"Well, he may be the boss around here, but there's one of him and lots of us<FG> This'll be easy-peasy<FG>",ถึงมันจะเป็นหัวหน้าแถวนี้ แต่มีมันแค่ตัวเดียวในขณะที่พวกเรามีตั้งหลายคน<FG> สบายมาก หมูๆ อยู่แล้ว<FG>
+211,Battle_Guides_Tutorials,198,824,22627,Hm. I somehow doubt he travels alone. Be on your guard.,หืม ข้าสงสัยเหลือเกินว่ามันคงไม่ได้เดินทางมาคนเดียว ระวังตัวไว้ด้วย
+211,Battle_Guides_Tutorials,199,828,22683,Come<FG> Forest creatures...time for...revenge<FG>,จงมา<FG> เหล่าสิ่งมีชีวิตแห่งพงไพร... ถึงเวลา...ล้างแค้นแล้ว<FG>
+211,Battle_Guides_Tutorials,200,832,22732,"He's calling his friends<FG> Well, two can play at that game<FG>",มันกำลังเรียกพวกพ้องมา<FG> ดีล่ะ เล่นแบบนี้พวกเราก็ทำเป็นเหมือนกันนะ<FG>
+211,Battle_Guides_Tutorials,201,836,22795,Aooooooooo<FG>,บรู๋ววววววววว<FG>
+211,Battle_Guides_Tutorials,202,840,22809,"Shut up, you idiot<FG> You'll just bring more of them running<FG>",หุบปากไปเลยนะ เจ้าทึ่ม<FG> ยิ่งหอนเดี๋ยวพวกมันก็ยิ่งแห่กันวิ่งมาเยอะขึ้นหรอก<FG>
+211,Battle_Guides_Tutorials,203,844,22873,(slurp) He called his friends and then ran away...,(ดูดน้ำลาย) มันเรียกเพื่อนมาแล้วตัวเองก็วิ่งหนีไปเฉยเลย...
+211,Battle_Guides_Tutorials,204,848,22924,"Indeed. Hardly heroic, but it cannot be helped. Fight on<FG>",จริงด้วย ช่างไร้ศักดิ์ศรีนักรบสิ้นดี แต่ก็ช่วยไม่ได้ สู้ต่อไปทุกคน<FG>
+211,Battle_Guides_Tutorials,205,852,22984,"Jaypers<FG> Don't look now, but the boss is back<FG>",คุณพระช่วย<FG> อย่าเพิ่งหันไปมองนะ แต่หัวหน้ามันกลับมาแล้ว<FG>
+211,Battle_Guides_Tutorials,206,856,23035,"If he calls reinforcements and disappears again, we could be in for a long fight...",ถ้ามันเรียกกำลังเสริมมาอีกแล้วหนีหายไปอีกล่ะก็ การต่อสู้นี้คงยืดเยื้อยาวนานแน่...
+211,Battle_Guides_Tutorials,207,860,23119,Ugh<FG> What is WRONG with the people in your world<FH> Does nobody listen before they start trying to kill each other<FH>,เฮ้อ<FG> คนในโลกของพวกนายเป็นอะไรกันไปหมดเนี่ย<FH> ไม่มีใครยอมเปิดหูรับฟังอะไรกันก่อนจะลงมือฆ่ากันเลยรึไงกัน<FH>
+211,Battle_Guides_Tutorials,208,864,23239,"No, they... Well, at least some of them... Oh, I give up...",ก็ไม่นะ พวกเขา... คือ อย่างน้อยก็มีบางคน... โธ่เอ๊ย ยอมแพ้แล้ว...
+211,Battle_Guides_Tutorials,209,868,23299,"Alright, knuckleheads<FG> You're gonna pay for messin' with our monster pals<FG>",เอาล่ะ เจ้าพวกหัวทึบทั้งหลาย<FG> พวกแกต้องชดใช้ที่มารังแกเพื่อนมอนสเตอร์ของพวกเรา<FG>
+211,Battle_Guides_Tutorials,210,872,23378,"W-Wait a minute<FG> We haven't messed with anyone, we just<MV>",ด-เดี๋ยวก่อนสิ<FG> พวกเราไม่ได้รังแกใครเลยนะ พวกเราแค่<MV>
+211,Battle_Guides_Tutorials,211,876,23439,Don't try to weasel your way outta this<FG> I'll beat the truth outta ya soon enough<FG>,อย่ามาแถหาทางเอาตัวรอดหน่อยเลยน่า<FG> เดี๋ยวฉันจะซัดเค้นความจริงออกจากปากพวกแกเอง<FG>
+211,Battle_Guides_Tutorials,212,880,23526,"You two certainly know how to handle yourselves. Where are you from, exactly<FH>",พวกเจ้า 2 คนฝีมือการต่อสู้ไม่เบาเลยจริงๆ พวกเจ้ามาจากที่ไหนกันแน่รึ<FH>
+211,Battle_Guides_Tutorials,213,884,23606,"Heh. Beat me, and maybe I'll tell you. Not that I've ever been beaten...",หึ ชนะฉันให้ได้ก่อนสิ แล้วบางทีฉันอาจจะยอมบอกให้ แต่ก็นะ ฉันไม่เคยแพ้ใครอยู่แล้วด้วยสิ...
+211,Battle_Guides_Tutorials,214,888,23679,"Aww, we can tell 'em that much at least, can't we<FH> ...No<FH> Alright, maybe later.",โถ่ บอกพวกเขาแค่นั้นหน่อยจะเป็นไรไปล่ะเนอะ<FH> ...ไม่ได้เหรอ<FH> ก็ได้ ไว้ค่อยบอกทีหลังแล้วกัน
+211,Battle_Guides_Tutorials,215,892,23763,"Alright, playtime is over<FG>",เอาล่ะ หมดเวลาเล่นสนุกแล้ว<FG>
+211,Battle_Guides_Tutorials,216,896,23792,Hyaaahhh<FG>,ย้ากกกกกกก<FG>
+211,Battle_Guides_Tutorials,217,900,23804,"This doesn't look good. Back, all of you<FG>",ท่าทางไม่ดีแล้ว ถอยออกมาก่อนทุกคน<FG>
+211,Battle_Guides_Tutorials,218,904,23848,"EEEEEEP<FG><FG><FG> I, I mean... Remain calm, friends<FG> W-We must seek out s-suitable cover<FG>",วี้ดดดดดดด<FG><FG><FG> ข-ข้าหมายถึง... ใจเย็นๆ ไว้ก่อนสหายทั้งหลาย<FG> พ-พวกเราต้องหาที่ห-หลบภัยที่เหมาะสมก่อน<FG>
+211,Battle_Guides_Tutorials,219,908,23941,"Don't worry, Healix<FG> We can hide behind one of these massive trees<FG>",ไม่ต้องกลัวนะ โฮมิรอน<FG> เราหลบหลังต้นไม้ยักษ์พวกนี้ได้<FG>
+211,Battle_Guides_Tutorials,220,912,24013,"Don't worry, Healix<FG> We can hide over there<FG>",ไม่ต้องกลัวนะ โฮมิรอน<FG> เราหลบไปตรงนั้นได้<FG>
+211,Battle_Guides_Tutorials,221,916,24062,"Heh. You think a tree can save you<FH> Hey, Carver<MV>",หึ คิดว่าต้นไม้จะช่วยปกป้องแกได้งั้นเหรอ<FH> เฮ้ คาร์เวอร์<MV>
+211,Battle_Guides_Tutorials,222,920,24115,"Heh. You think hiding in the shadows can save you<FH> Hey, Carver<MV>",หึ คิดว่าหลบอยู่ในเงามืดแล้วจะรอดได้งั้นเหรอ<FH> เฮ้ คาร์เวอร์<MV>
+211,Battle_Guides_Tutorials,223,924,24183,"Way ahead o' ya, old pal<FG> Leave it to me<FG>",รู้ใจกันอยู่แล้วเพื่อนยาก<FG> ยกให้เป็นหน้าที่ฉันเอง<FG>
+211,Battle_Guides_Tutorials,224,928,24229,D-Did you see that<FH> He smashed that tree to smithereens<FG>,ห-เห็นนั่นไหม<FH> เขาต่อยต้นไม้นั่นแหลกเป็นชิ้นเล็กชิ้นน้อยเลย<FG>
+211,Battle_Guides_Tutorials,225,932,24290,D-Did you see that<FH> He smashed it to smithereens<FG>,ห-เห็นนั่นไหม<FH> เขาต่อยมันแหลกละเอียดเป็นผุยผงเลย<FG>
+211,Battle_Guides_Tutorials,226,936,24344,Heh heh heh<FG> You ain't seen nothin' yet<FG> I could turn these trees to matchwood with both hands tied behind my back<FG>,ฮะฮ่าๆๆ<FG> ยังไม่ได้เห็นอะไรดีๆ เลยด้วยซ้ำ<FG> ต่อให้มัดมือไว้ข้างหลัง 2 ข้าง ฉันก็ยังต่อยต้นไม้พวกนี้ให้กลายเป็นเศษไม้ขีดได้สบายๆ<FG>
+211,Battle_Guides_Tutorials,227,940,24466,Heh heh heh<FG> That ain't nothin<FG> I could smash the rest to pieces with both hands tied behind my back<FG>,ฮะฮ่าๆๆ<FG> แค่นั้นยังจิ๊บจ๊อยน่า<FG> ต่อให้มัดมือไว้ข้างหลัง 2 ข้าง ฉันก็ยังต่อยที่เหลือให้แหลกเป็นผุยผงได้อยู่ดี<FG>
+211,Battle_Guides_Tutorials,228,944,24574,Just tell me one thing<MV>what did you do with all the monsters you took from the forest<FH>,บอกฉันมาแค่เรื่องเดียวพอ<MV>พวกแกเอาพวกมอนสเตอร์ที่จับไปจากป่านี้ไปไว้ที่ไหนหมด<FH>
+211,Battle_Guides_Tutorials,229,948,24665,That's what we've been trying to tell you<MV>we've never even been here before<FG>,นั่นแหละคือสิ่งที่เราพยายามจะบอกพวกนายอยู่เนี่ย<MV>พวกเราไม่เคยแม้แต่จะเคยมาที่นี่มาก่อนเลยด้วยซ้ำ<FG>
+211,Battle_Guides_Tutorials,230,952,24746,"Hmm... Don't ask me why, but somethin' about the way you fight makes me wanna believe you...",หืม... อย่าถามนะว่าทำไม แต่ท่าทางการต่อสู้ของพวกนายบางอย่างมันทำให้ฉันอยากจะเชื่อพวกนายแฮะ...
+211,Battle_Guides_Tutorials,231,956,24839,Uh-oh<FG> I've been spotted<FG> I need to get out of here<FG>,แย่แล้ว<FG> โดนจับได้แล้วสิ<FG> ต้องรีบหนีออกจากที่นี่แล้ว<FG>
+211,Battle_Guides_Tutorials,232,960,24898,Oh no<FG> It saw me<FG> I need to get out of here right now<FG>,แย่แล้วสิ<FG> มันเห็นฉันแล้ว<FG> ต้องรีบหนีออกจากที่นี่เดี๋ยวนี้เลย<FG>
+211,Battle_Guides_Tutorials,233,964,24959,"Come, this way. You must follow me.",มาทางนี้ เจ้าต้องตามข้ามา
+211,Battle_Guides_Tutorials,234,968,24995,"Grrrrrr... Something smells like monsters... Big, fat nasty ones<FG>",กรรรร... ได้กลิ่นเหมือนมอนสเตอร์เลย... ตัวใหญ่ๆ อ้วนๆ กวนประสาทซะด้วย<FG>
+211,Battle_Guides_Tutorials,235,972,25063,"Get a loada these menaces to society<FG> Guess we don't got time to mess with 'em a little, huh<FH>",ดูเจ้าพวกตัวอันตรายต่อสังคมพวกนี้สิ<FG> สงสัยพวกเราคงไม่มีเวลาไปเล่นสนุกกับพวกมันสักหน่อยแล้วมั้งเนี่ย ใช่ไหมล่ะ<FH>
+211,Battle_Guides_Tutorials,236,976,25161,You guess right. We need to get out of here. Now.,เดาถูกเผงเลย พวกเราต้องออกไปจากที่นี่ เดี๋ยวนี้
+211,Battle_Guides_Tutorials,237,980,25211,"So we just take down all the guards and see who's carrying the key, huh<FH> Should be easy enough.",งั้นเราก็แค่จัดการพวกทหารยามให้หมด แล้วดูว่าใครพกกุญแจไว้ สินะ<FH> น่าจะง่ายนิดเดียว
+211,Battle_Guides_Tutorials,238,984,25309,Not ALL of them<FG> We can stop once we've found it<FG>,ไม่ต้องจัดการหมดทุกคนก็ได้<FG> พอเจอกุญแจแล้วพวกเราก็หยุดได้แล้ว<FG>
+211,Battle_Guides_Tutorials,239,988,25363,"Uhhh, sure we can... Heh.",เอ่อออ แน่นอนสิ หยุดได้อยู่แล้ว... หึ
+211,Battle_Guides_Tutorials,240,992,25389,Jackpot<FG> We found our key-carrier<FG> Alright<FG>,แจ็กพอตแตก<FG> เราเจอคนพกกุญแจแล้ว<FG> เยี่ยมเลย<FG>
+211,Battle_Guides_Tutorials,241,996,25439,"Now we can finally escape this awful-awful dungeon. Come on, to the exit<FG>",ในที่สุดพวกเราก็จะได้หนีออกจากคุกใต้ดินอันแสนเลวร้ายนี้เสียที ไปกันเถอะ มุ่งหน้าสู่ทางออก<FG>
+211,Battle_Guides_Tutorials,242,1000,25515,"The escapees<FG> You, stop right there<FG>",นักโทษแหกคุกนี่หน่า<FG> เจ้าพวกนั้น หยุดอยู่ตรงนั้นเดี๋ยวนี้นะ<FG>
+211,Battle_Guides_Tutorials,243,1004,25556,H-How did you get in here<FH> Put down your weapons and come quietly<FG>,พ-พวกแกเข้ามาในนี้ได้อย่างไรกัน<FH> วางอาวุธลงแล้วยอมมอบตัวแต่โดยดีซะ<FG>
+211,Battle_Guides_Tutorials,244,1008,25627,Intruders<FG> Stop them<FG>,มีผู้บุกรุก<FG> หยุดพวกมันไว้<FG>
+211,Battle_Guides_Tutorials,245,1012,25653,Where do you think you're going<FH>,คิดว่าจะหนีไปไหนได้รึ<FH>
+211,Battle_Guides_Tutorials,246,1016,25688,Raise the alarm<FG> Intruders<FG>,ส่งสัญญาณเตือนภัยเร็วเข้า<FG> มีผู้บุกรุกก<FG>
+211,Battle_Guides_Tutorials,247,1020,25720,"Look, a key<FG> This must be the one<FG> Let's head outside<FG>",ดูนั่นสิ กุญแจล่ะ<FG> ต้องเป็นดอกนี้แน่ๆ<FG> ออกไปข้างนอกกันเถอะ<FG>
+211,Battle_Guides_Tutorials,248,1024,25781,You<FG> How did you get out of your cells<FG><FH> Men<FG> Get them<FG>,พวกแก<FG> ออกมาจากห้องขังได้อย่างไรกัน<FG><FH> ทหารทั้งหลาย<FG> จับพวกมันไว้<FG>
+211,Battle_Guides_Tutorials,249,1028,25847,Hmm... Seems we've to go for a dip if we want to get ahead here...,หืม... ดูเหมือนว่าพวกเราคงต้องยอมเปียกน้ำกันหน่อยแล้วล่ะ ถ้าอยากจะไปข้างหน้าต่อ...
+211,Battle_Guides_Tutorials,250,1032,25914,What<FG><FH> No way<FG> My dress will get soaking wet<FG>,อะไรนะ<FG><FH> ไม่มีทางเด็ดขาด<FG> ชุดกระโปรงของฉันจะเปียกโชกหมดนะยะ<FG>
+211,Battle_Guides_Tutorials,251,1036,25968,"Well, alright then. Guess you better hop on my back, little lady<FG>",เอางั้นก็ได้นะ ดูท่าคุณหนูคงต้องกระโดดขี่หลังฉันแล้วล่ะ แม่สาวน้อย<FG>
+211,Battle_Guides_Tutorials,252,1040,26036,And exactly how do you suggest I fight from up there<FH> No thank you<FG> I'll just have to grin and bear it<FG>,แล้วนายคิดว่าฉันจะสู้จากบนหลังนายได้ยังไงกันยะ<FH> ไม่เอาด้วยหรอกย่ะ<FG> ฉันยอมกัดฟันทนเปียกยังจะดีกว่า<FG>
+211,Battle_Guides_Tutorials,253,1044,26146,Who are you and what are you doing here<FG><FH> Surrender your weapons and come with us<FG>,พวกแกเป็นใคร แล้วเข้ามาทำอะไรที่นี่กัน<FG><FH> ยอมจำนนส่งอาวุธมาแล้วตามพวกเรามาซะดีๆ<FG>
+211,Battle_Guides_Tutorials,254,1048,26235,Heh. I was just thinking I could do with a break from all the tricks and traps. Bring it on<FG>,หึ กำลังคิดอยู่พอดีว่าอยากจะพักจากพวกกลเม็ดกับดักพวกนั้นสักหน่อย เข้ามาเลย<FG>
 211,Battle_Guides_Tutorials,255,1052,26330,"Oh, wherever could my sister be<FH> She'll be the death of me, she really will<FG>",
 211,Battle_Guides_Tutorials,256,1056,26411,"Aww, shucks. It's enough to make a man want a sister of his own<FG>",
 211,Battle_Guides_Tutorials,257,1060,26478,"Whaddya say, little lady<FH> Reckon you could use an older brother<FH>",
