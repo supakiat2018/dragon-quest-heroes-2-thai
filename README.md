@@ -4,7 +4,8 @@
 
 ![Demo Thai Translation](demo.jpg)
 
-> 📢 **โปรดสนับสนุนค่า api และเราจะทำให้ต่อ**
+> 📢 **โปรดสนับสนุนค่า api และเราจะทำให้ต่อ**  
+> 💬 **ช่องทางติดต่อ:** [fb.com/stob2013](https://fb.com/stob2013)
 
 ---
 
@@ -62,3 +63,10 @@
 5. **`import_all_text_csv.py`**: เครื่องมือนำเข้าข้อความแปลจาก CSV กลับเข้าสู่ระบบ
 6. **`g1t_tool.py`**: เครื่องมือถอดและรวมไฟล์ Texture รูปแบบ G1T / DDS ของ Koei Tecmo
 7. **`restore_original.py`**: สคริปต์กู้คืนไฟล์ต้นฉบับแท้กลับเข้าเกมได้ทันที
+
+---
+
+## ช่องทางติดต่อและสนับสนุน (Contact & Support)
+
+* **Facebook:** [fb.com/stob2013](https://fb.com/stob2013)
+
