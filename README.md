@@ -2,9 +2,11 @@
 
 โปรเจกต์ม็อดแปลภาษาไทยสำหรับเกม **DRAGON QUEST HEROES™ II** (PC Steam) โดยอาศัยระบบ **Universal Proportional Typography** บนฟอนต์ `entry_342` และระบบแพ็กเกจหน่วยความจำ `dqh2_font_addons.bin` ผ่าน `dinput8.dll`
 
-![Demo Thai Translation](demo.jpg)
+## 🎮 ภาพตัวอย่าง (DEMO)
 
-> 📢 **โปรดสนับสนุนค่า api และเราจะทำให้ต่อ**  
+![DEMO](demo.png)
+
+> 📢 **DEMO: โปรดสนับสนุนค่า api และเราจะทำให้ต่อ**  
 > 💬 **ช่องทางติดต่อ:** [fb.com/stob2013](https://fb.com/stob2013)
 
 ---
