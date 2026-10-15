@@ -1,13 +1,16 @@
-# DRAGON QUEST HEROES™ II - Thai Translation Project
+# DRAGON QUEST HEROES™ II - Thai Translation Project (DEMO)
 
 โปรเจกต์ม็อดแปลภาษาไทยสำหรับเกม **DRAGON QUEST HEROES™ II** (PC Steam) โดยอาศัยระบบ **Universal Proportional Typography** บนฟอนต์ `entry_342` และระบบแพ็กเกจหน่วยความจำ `dqh2_font_addons.bin` ผ่าน `dinput8.dll`
 
-## 🎮 ภาพตัวอย่าง (DEMO)
+> ⚠️ **สถานะโปรเจกต์:** ขณะนี้เป็นเพียงเวอร์ชัน **DEMO (ตัวอย่างทดลองเล่น)**  
+> 📢 **โปรดสนับสนุนค่า API และเราจะพัฒนาแปลต่อจนจบทั้งเกม!**  
+> 💬 **ช่องทางติดต่อ / สนับสนุน:** [fb.com/stob2013](https://fb.com/stob2013)
+
+---
+
+## 🎮 ภาพตัวอย่างในเกม (DEMO Screenshot)
 
 ![DEMO](demo.png)
-
-> 📢 **DEMO: โปรดสนับสนุนค่า api และเราจะทำให้ต่อ**  
-> 💬 **ช่องทางติดต่อ:** [fb.com/stob2013](https://fb.com/stob2013)
 
 ---
 
