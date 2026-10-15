@@ -1,405 +1,405 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-204,Menus_UI_Settings,0,32,7632,Which slot do you want to create an adventure log in<FH>,
-204,Menus_UI_Settings,1,36,7688,Delete this adventure log and create a new one in its place<FH>,
-204,Menus_UI_Settings,2,40,7751,"Now, choose the hero you'll control on your adventures in this world. This won't affect what you can access in the game.",
-204,Menus_UI_Settings,3,44,7872,Please choose a hero.,
-204,Menus_UI_Settings,4,48,7894,"Next, enter a name for the hero's cousin, who will join you on your adventure.",
-204,Menus_UI_Settings,5,52,7973,The name you have entered contains text that cannot be used. Please use a different name.,
-204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,
-204,Menus_UI_Settings,7,60,8140,"Last of all, choose your control method and camera settings. Both of these can be changed during the game at any time.",
-204,Menus_UI_Settings,8,64,8259,Enabling online features can provide you with all kinds of exciting online content. Would you like to enable online features now<FH>,
-204,Menus_UI_Settings,9,68,8391,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,
-204,Menus_UI_Settings,10,72,8524,Saving...,
-204,Menus_UI_Settings,11,76,8534,Adventure log successfully created.,
-204,Menus_UI_Settings,12,80,8570,Please select an adventure log.,
-204,Menus_UI_Settings,13,84,8602,"This will start the story anew with data including character levels, experience, gold coins and equipment carried over.",
-204,Menus_UI_Settings,14,88,8722,"As an added bonus, each party member will also receive <GR>1 <E5>R1skill point<E6>01skill points<E7>01.",
-204,Menus_UI_Settings,15,92,8822,Delete this adventure log and create a Flying Start adventure log in its place<FH>,
-204,Menus_UI_Settings,16,96,8904,Which adventure log do you want to delete<FH>,
-204,Menus_UI_Settings,17,100,8949,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d<FH>,
-204,Menus_UI_Settings,18,104,9018,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 Lv. %#2d<FH>,
-204,Menus_UI_Settings,19,108,9079,Deleting adventure log...\nDo not turn off the power.,
-204,Menus_UI_Settings,20,112,9132,Adventure log <GR>1 deleted.,
-204,Menus_UI_Settings,21,116,9160,Do you really want to delete the autosave adventure log<FH>,
-204,Menus_UI_Settings,22,120,9219,The autosave adventure log has been deleted.,
-204,Menus_UI_Settings,23,124,9264,You've received a bonus for owning DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>,
-204,Menus_UI_Settings,24,128,9367,You've received a bonus for owning DRAGON QUEST BUILDERS<FG>,
-204,Menus_UI_Settings,25,132,9427,You have no pending bonuses.,
-204,Menus_UI_Settings,26,136,9456,Failed to retrieve bonuses.,
-204,Menus_UI_Settings,27,140,9484,"Welcome, child, to this sanctuary of the Goddess. It is our duty and our pleasure to provide succour to all those of Her flock.",
-204,Menus_UI_Settings,28,144,9612,"Here, you may confess your deeds before Our Holy Mother, that they may be recorded in an adventure log for posterity.",
-204,Menus_UI_Settings,29,148,9730,"As this is your first visit, allow me to offer you this token of the Goddess's abiding love for Her children.",
-204,Menus_UI_Settings,30,152,9840,<F4><I0>00 receives a healstone<FG>,
-204,Menus_UI_Settings,31,156,9873,"With this sacred stone, you may mend all manner of wounds. May it aid you on your journey, and remind you always of Her grace.",
-204,Menus_UI_Settings,32,160,10000,"Now, let us begin.",
-204,Menus_UI_Settings,33,164,10019,"Wayward sheep of the great shepherdess, welcome to this house of the Goddess. How may we help you<FH>",
-204,Menus_UI_Settings,34,168,10120,"Welcome, O favoured soldier of the Goddess. How may we help you<FH>",
-204,Menus_UI_Settings,35,172,10187,"Welcome, O beloved hero of the Goddess. How may we help you<FH>",
-204,Menus_UI_Settings,36,176,10250,How else may we aid you<FH>,
-204,Menus_UI_Settings,37,180,10277,"Confess all that you have done before the almighty Goddess, child...",
-204,Menus_UI_Settings,38,184,10346,Will you permit me to record your works in an adventure log<FH>,
-204,Menus_UI_Settings,39,188,10409,Which adventure log should be used to record your deeds<FH>,
-204,Menus_UI_Settings,40,192,10468,Very well. Then your works thus far shall remain unrecorded.,
-204,Menus_UI_Settings,41,196,10529,"In that case, I must overwrite\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nDo you wish me to proceed, my child<FH>",
-204,Menus_UI_Settings,42,200,10634,"In that case, I must overwrite\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nDo you wish me to proceed, my child<FH>",
-204,Menus_UI_Settings,43,204,10731,This will overwrite\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nDo you wish to proceed<FH>,
-204,Menus_UI_Settings,44,208,10812,This will overwrite\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nDo you wish to proceed<FH>,
-204,Menus_UI_Settings,45,212,10885,Recording your adventure log...\nPlease do not turn the power off.,
-204,Menus_UI_Settings,46,216,10951,Recording your adventure log...\nPlease do not turn the power off.,
-204,Menus_UI_Settings,47,220,11017,Your adventure log has been successfully recorded.,
-204,Menus_UI_Settings,48,224,11068,Your adventure log has been successfully recorded.,
-204,Menus_UI_Settings,49,228,11119,A problem occurred while recording your adventure log.,
-204,Menus_UI_Settings,50,232,11174,A problem occurred while recording your adventure log.,
-204,Menus_UI_Settings,51,236,11229,"Ah, you intend to rest<FH>",
-204,Menus_UI_Settings,52,240,11255,"If you do so, when next you join us, your adventure will begin from the point of your last confession. Are you sure<FH>",
-204,Menus_UI_Settings,53,244,11374,Do you wish to end your adventure and return to the title screen<FH>,
-204,Menus_UI_Settings,54,248,11442,"O great shepherdess, please allow this faithful lamb to rest in peace for a while<FG>",
-204,Menus_UI_Settings,55,252,11527,"May the Goddess watch over you always, and may you ever find solace here.",
-204,Menus_UI_Settings,56,256,11601,"May you continue to thrive under the Goddess's aegis, and may you ever find solace here.",
-204,Menus_UI_Settings,57,260,11690,"May the Goddess continue to guide you to even greater glory, and may you ever find solace here.",
-204,Menus_UI_Settings,58,264,11786,"Save data could not be found. Your confession will be cancelled, as your adventure log cannot be recorded.",
-204,Menus_UI_Settings,59,268,11893,"Save data could not be found. The attempt to save your progress will be cancelled, as your adventure log cannot be recorded.",
-204,Menus_UI_Settings,60,272,12018,"Unable to record your adventure log, as your save data belongs to another player.",
-204,Menus_UI_Settings,61,276,12100,"Unable to record your adventure log, as your save data belongs to another player.",
-204,Menus_UI_Settings,62,280,12182,"Oh, <F4><I0>00<FG> How shameful that you should fail in your quest<FG>",
-204,Menus_UI_Settings,63,284,12249,"Oh, <F4><I0>00<FG> What a terrible tragedy that you should fall in battle<FG>",
-204,Menus_UI_Settings,64,288,12323,We must give thanks. The ever-forgiving Goddess has seen fit to grant you one more chance.,
-204,Menus_UI_Settings,65,292,12414,Do not squander the grace of our benevolent shepherdess. I shall be praying for your safety.,
-204,Menus_UI_Settings,66,296,12507,"Welcome back to us, <F4><I0>00.",
-204,Menus_UI_Settings,67,300,12537,"O Goddess, our great and benevolent shepherdess<FG> Please, protect this poor lost sheep<FG>",
-204,Menus_UI_Settings,68,304,12628,"Welcome to Patty's Place, where the adventurers of the world come together<FG>",
-204,Menus_UI_Settings,69,308,12706,Welcome to Patty's Place<FG> Sure is nice to have a rising star like yourself swing by<FG>,
-204,Menus_UI_Settings,70,312,12795,"Welcome to Patty's Place<FG> Well now, ain't this an honour<MV>a real live celebrity<FG> You make yourself comfy now, y'hear<FH>",
-204,Menus_UI_Settings,71,316,12920,"Sorry, sweetie, we're not open yet. Swing by later when I've finished getting things ready, y'hear<FH>",
-204,Menus_UI_Settings,72,320,13022,"Folks you leave behind will still earn experience, but not nearly so much as everybody else. Bear that in mind, okay, hun<FH>",
-204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",
-204,Menus_UI_Settings,74,328,13274,"Thanks for dropping by, sweetie<FG> You come on back whenever you need some new faces on the team, y'hear<FH>",
-204,Menus_UI_Settings,75,332,13382,"Thanks for dropping by, sweetie<FG> Famous adventurers such as yourself are always welcome here<FG>",
-204,Menus_UI_Settings,76,336,13480,"Thanks for dropping by, sweetie<FG> I can't tell you how good these celebrity visits are for business<FG> Tee hee<FG>",
-204,Menus_UI_Settings,77,340,13595,"Changed your mind<FH> Alright then, as you were, folks. Just holler if you need me, <F4><I0>00.",
-204,Menus_UI_Settings,78,344,13688,"Changed your mind<FH> Alright then, as you were, folks. I'm sure a well-known adventurer such as yourself has your reasons.",
-204,Menus_UI_Settings,79,348,13811,"Changed your mind<FH> Alright then, as you were, folks. The customer's always right<MV>especially this customer<FG>",
-204,Menus_UI_Settings,80,352,13924,You can explore dimensional dungeons with whichever of your friends you like. Go ahead and pick somebody<FG>,
-204,Menus_UI_Settings,81,356,14032,You want <F4><I0>41 to go in<FH>,
-204,Menus_UI_Settings,82,360,14062,"You just let me know whenever you want to nominate a new dimensional dungeon explorer, okay, hun<FH>",
-204,Menus_UI_Settings,83,364,14162,You can relive memories from your adventure here. Would you care to dip back into the past<FH>,
-204,Menus_UI_Settings,84,368,14256,Which memory would you like to relive<FH>,
-204,Menus_UI_Settings,85,372,14297,Stop playback and return to the list of memories<FH>,
-204,Menus_UI_Settings,86,376,14349,Is there anything more stirring than a tale of derring-do<FH> Come back whenever you want to relive your finest moments<FG>,
-204,Menus_UI_Settings,87,380,14471,"Scram, kiddo. Place ain't open yet, see<FH>",
-204,Menus_UI_Settings,88,384,14514,"Say, kiddo<MV>you, uh...got any o' the good stuff<FH> Y'know...the old, uh...mini medals<FH>",
-204,Menus_UI_Settings,89,388,14604,"Ahhh, c'mon<FG> Don't be a schmo<FG> You know what I mean<FG> Dem shiny, fancy little doodads ya find hidden in all kindsa dumb places.",
-204,Menus_UI_Settings,90,392,14737,"Listen, I'll make it simple for ya<MV>you bring me da mini medals, and I'll make it worth your while, see<FH>",
-204,Menus_UI_Settings,91,396,14845,"I got some real nice stuff just waitin' for a...business-minded individual wid a go-gettin' attitude, if ya catch my drift.",
-204,Menus_UI_Settings,92,400,14969,"Why not take a look-see at the list o' what I got<MV>you ain't gonna be disappointed, I promise ya. Alright, let's get downta business<FG>",
-204,Menus_UI_Settings,93,404,15106,"Welcome to Maxi Malone's, kiddo<FG> So<MV>you got any mini medals or what<FH>",
-204,Menus_UI_Settings,94,408,15181,"Whoa, it's da hero of da realm <E0>00himself<E3>00herself<E4>00<FG> You wanna talk mini medals<FH> I wanna talk mini medals<FG>",
-204,Menus_UI_Settings,95,412,15303,"Hmm... Lemme see here... Right now, you got, uh...<E5>P1just da one<E6>01%d o' dem shiny little beauties<E7>01.",
-204,Menus_UI_Settings,96,416,15412,Here's what I got<MV>just don't ask where dis stuff came from if ya know what's good for ya...,
-204,Menus_UI_Settings,97,420,15506,"Make up yer mind already, will ya, kid<FH>",
-204,Menus_UI_Settings,98,424,15548,See anythin' else here ya like<FH>,
-204,Menus_UI_Settings,99,428,15582,"Hey, whatcha tryin' ta pull here<FH> You ain't got da mini medals fer dat<FG>",
-204,Menus_UI_Settings,100,432,15658,"<I8>M1<FH> Okay, dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01. You got the stuff<FH>",
-204,Menus_UI_Settings,101,436,15745,"<F4><I8>M1<FH> Ya came to the right place, kid<MV>da only place, even<FG>",
-204,Menus_UI_Settings,102,440,15814,"Alright, <E5>P1one mini medal<E6>01%d mini medals<E7>01, and dat's my final offer. Deal<FH>",
-204,Menus_UI_Settings,103,444,15902,"Hey goofball, how am I supposed ta give you anythin' when yer bag's full<FH> Come back when ya lose some of da junk, ya walnut.",
-204,Menus_UI_Settings,104,448,16029,"Alright, <I6>M1 is yours. Nice doin' business witcha.",
-204,Menus_UI_Settings,105,452,16082,<F4><I0>00 receives <I8>M1<FG>,
-204,Menus_UI_Settings,106,456,16109,"You ain't no schmuck, kiddo. Dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01 you've brought me now. Here, consider dis a token of my appreciation.",
-204,Menus_UI_Settings,107,460,16258,"Dat's all I got<FG> You cleaned me out, kiddo<FG> Thanks for gettin' me all dem mini medals. You're a real stand-up <E0>00guy<E3>00gal<E4>00<FG>",
-204,Menus_UI_Settings,108,464,16397,"You ever find yourself wid mini medals to spare, you come see me, capisce<FH>",
-204,Menus_UI_Settings,109,468,16474,"Lemme tell ya, it's a real honour doin' business wid a celebrity like yourself. Anybody gives you any trouble, you come see me, capisce<FH>",
-204,Menus_UI_Settings,110,472,16613,"Sorry, I ain't finished settin' up shop yet. Come back in a bit, yeah<FH>",
-204,Menus_UI_Settings,111,476,16686,"'Ello, 'ello, 'ello<FG> Wot's that you've got there<FH> Uh-oh<MV>looks like it's time for the big talk...",
-204,Menus_UI_Settings,112,480,16789,"So basically right, there's weapons out there you won't be able to equip till you've 'ad me cast me expert eye over 'em first.",
-204,Menus_UI_Settings,113,484,16916,"Till you do, they'll just be blobs of useless nothin'. But once I've appraised 'em, you might just find they're proper tasty bits o' kit.",
-204,Menus_UI_Settings,114,488,17054,"Might not make much sense to ya right now, but give it a go an' you'll soon see wot I mean.",
-204,Menus_UI_Settings,115,492,17146,"There ain't just them special weapons, neither. There's ones that've been broken up into shards as well.",
-204,Menus_UI_Settings,116,496,17251,"If you bring 'em to me, I can put 'em back together for ya. You won't know wot yer gettin', but that's all part o' the fun, innit<FG>",
-204,Menus_UI_Settings,117,500,17384,"I can take 'em apart again for you, an' all. Turn 'em back into shards, if that's wot you need.",
-204,Menus_UI_Settings,118,504,17480,"Just one thing, though<MV>I can't do none o' this stuff unless you chuck a few gold coins my way. A bloke's got to eat, innit<FG>",
-204,Menus_UI_Settings,119,508,17608,Alright<FH> I sell weapons<MV>all good stuff. Wot d'you want<FH>,
-204,Menus_UI_Settings,120,512,17670,"Alright<FH> I 'ear you've been makin' a bit of a name for yerself. Well, if it's weapons you're after, I'm yer man<FG>",
-204,Menus_UI_Settings,121,516,17787,"Well, if it ain't my famous adventurer friend<FG> You after a weapon or somethin'<FH>",
-204,Menus_UI_Settings,122,520,17871,"Blimey, if it ain't the 'ero of the realm<FG> This is a real honour. Fancy some new weapons<FH>",
-204,Menus_UI_Settings,123,524,17965,Wot're you after<FH>,
-204,Menus_UI_Settings,124,528,17985,"Wot you in the market for then, eh<FH>",
-204,Menus_UI_Settings,125,532,18023,You buyin' anythin' else<FH>,
-204,Menus_UI_Settings,126,536,18051,"Wot, changed yer mind already<FH> You after anythin' else<FH>",
-204,Menus_UI_Settings,127,540,18111,"Oi<FG> Think I'm thick, do you<FH> You ain't got the gold for that<FG>",
-204,Menus_UI_Settings,128,544,18179,"Hur hur hur<FG> Looks like yer weedy little equipment bag is full. Sort it out an' come back, alright<FH>",
-204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,
-204,Menus_UI_Settings,130,552,18391,"Cheers<FG> You equippin' the goods now, or wot<FH>",
-204,Menus_UI_Settings,131,556,18440,"Cheers<FG> I'll shove the goods in yer bag, shall I<FH>",
-204,Menus_UI_Settings,132,560,18494,"Alright, I'll shove the goods in yer equipment bag.",
-204,Menus_UI_Settings,133,564,18546,"Alright, who's this for<FH>",
-204,Menus_UI_Settings,134,568,18573,"Cheers<FG> So is <F4><I0>41 gonna equip it now, or wot<FH>",
-204,Menus_UI_Settings,135,572,18628,<F4><I0>41 equips <I6>A1<FG>,
-204,Menus_UI_Settings,136,576,18653,Wot're you sellin'<FH>,
-204,Menus_UI_Settings,137,580,18675,"You realise you'll be sellin' me an orb someone's usin', don'tcha<FH> Go on, then<MV>who's'll it be<FH>",
-204,Menus_UI_Settings,138,584,18776,You 'avin' a laugh<FH> You ain't got nothin' to sell<FG>,
-204,Menus_UI_Settings,139,588,18831,Suit yerself. Anythin' else to sell<FH>,
-204,Menus_UI_Settings,140,592,18870,'Ang abaht<FG> Someone's usin' <EH>M1them<EI>01that<EJ>01 <I0>M1<FG> You sure you wanna sell <EH>M1'em<EI>01it<EJ>01<FH>,
-204,Menus_UI_Settings,141,596,18981,Got anythin' else to sell<FH>,
-204,Menus_UI_Settings,142,600,19010,"I ain't buyin' that, an' you know it.",
-204,Menus_UI_Settings,143,604,19048,"You know these ain't easy to come by, don'tcha<FH> You sure you wanna sell<FH>",
-204,Menus_UI_Settings,144,608,19125,Looks like yer usin' that for one of yer other vocations. You sure you wanna sell it<FH>,
-204,Menus_UI_Settings,145,612,19213,"<F4><I8>M1, eh<FH> I'll take <EH>M1those<EI>01that<EJ>01 off yer 'ands for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",
-204,Menus_UI_Settings,146,616,19333,"Done<FG> 'And over the goods, then<FG>",
-204,Menus_UI_Settings,147,620,19370,"<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01, eh<FH> I'll give you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",
-204,Menus_UI_Settings,148,624,19476,"Right, wot am I lookin' at<FH>",
-204,Menus_UI_Settings,149,628,19506,You got anythin' else for me to cast me eye over<FH>,
-204,Menus_UI_Settings,150,632,19558,"Hmm, let's see... That'll cost ya...<E5>O1one gold coin<E6>01%d gold coins<E7>01, I reckon. Deal<FH>",
-204,Menus_UI_Settings,151,636,19655,You takin' the mick<FH> You ain't got enough cash<FG>,
-204,Menus_UI_Settings,152,640,19707,"'Ang on, you ain't got nothin' for me to appraise<FG>",
-204,Menus_UI_Settings,153,644,19760,"'Ang on, you ain't got nothin' for me to take apart<FG>",
-204,Menus_UI_Settings,154,648,19815,"'Ang on, you ain't got nothin' for me to put together<FG>",
-204,Menus_UI_Settings,155,652,19872,"Blimey O'Reilly, get a load o' this<FG>",
-204,Menus_UI_Settings,156,656,19911,It's only <I8>A1<FG>,
-204,Menus_UI_Settings,157,660,19930,"Right, what do you want takin' apart<FH>",
-204,Menus_UI_Settings,158,664,19970,Got anythin' else to take apart<FH>,
-204,Menus_UI_Settings,159,668,20005,"This ain't a charity, you know<FG> Pay full whack, or I ain't takin' it apart<FG>",
-204,Menus_UI_Settings,160,672,20085,Reckon I can get <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 out o' <EH>A1these<EI>01this<EJ>01 for ya. It'll cost you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>,
-204,Menus_UI_Settings,161,676,20239,"Alright, 'ere's yer bits an' bobs<FG>",
-204,Menus_UI_Settings,162,680,20276,"If you've got the right shards, I can use <E5>R1one of 'em<E6>01<GR>1 of 'em<E7>01 to make you a weapon if you want.",
-204,Menus_UI_Settings,163,684,20389,'Ang on<FG> I'll need more shards than that to put a weapon together<FG>,
-204,Menus_UI_Settings,164,688,20460,"Got any more shards for me<FH> Gimme <E5>R1one<E6>01<GR>1<E7>01, an' I'll make you somethin' lovely<FG>",
-204,Menus_UI_Settings,165,692,20558,"<F4><I8>M1, eh<FH> I can do you that for...ooh, <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",
-204,Menus_UI_Settings,166,696,20654,"'Ang abaht, you ain't got enough gold coins<FG>",
-204,Menus_UI_Settings,167,700,20701,"Alright, let's get busy<FG> Let's see... This bit goes 'ere, this bit goes there, and... Bish, bash, bosh, Bob's yer uncle<FG>",
-204,Menus_UI_Settings,168,704,20826,'Ere we are<MV><I8>A1 of yer very own<FG>,
-204,Menus_UI_Settings,169,708,20865,Be lucky<FG> Hur hur<FG>,
-204,Menus_UI_Settings,170,712,20888,I'm expectin' big things from you<FG> Be lucky<FG>,
-204,Menus_UI_Settings,171,716,20937,"It's good doin' business wiv a celebrity like yerself<FG> Cor, me 'umble little stall's on the up an' up now<FG>",
-204,Menus_UI_Settings,172,720,21048,"Fancy the 'ero of the realm comin' to me 'umble little stall, eh<FH> Be lucky<FG>",
-204,Menus_UI_Settings,173,724,21128,"My apologies, young traveller. I'm not quite ready to open up shop yet, but do come back later.",
-204,Menus_UI_Settings,174,728,21224,Hello there<FG> I'm your friendly local orb seller<FG> Orbs are fantastic artefacts that amplify the defensive capabilities of the user.,
-204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",
-204,Menus_UI_Settings,176,736,21494,"But before you can choose, you'll have to buy<FG> Shall we get down to business<FH> Ahem...",
-204,Menus_UI_Settings,177,740,21584,"Welcome, friend<FG> Can I interest you in a protective orb or two<FH>",
-204,Menus_UI_Settings,178,744,21652,Is there anything else you'd like<FH>,
-204,Menus_UI_Settings,179,748,21689,"Well, look who it is<FG> It's an honour to sell orbs to such an upstanding citizen<FG>",
-204,Menus_UI_Settings,180,752,21774,"If it isn't our promising young hero<FG> Here to buy some orbs, are you<FH>",
-204,Menus_UI_Settings,181,756,21848,Well<FG> The hero of the realm <E0>00himself<E3>00herself<E4>00<FG> This is quite the honour<MV>I do hope my orbs are up to scratch<FG>,
-204,Menus_UI_Settings,182,760,21977,"Here to buy, are we<FH> Very good. What would you like<FH>",
-204,Menus_UI_Settings,183,764,22034,Does anything else catch your eye<FH>,
-204,Menus_UI_Settings,184,768,22071,"Ah, a pity. Perhaps something else might take your fancy<FH>",
-204,Menus_UI_Settings,185,772,22131,Ahem<FG> It seems you are somewhat...short on gold coins...,
-204,Menus_UI_Settings,186,776,22190,"Why, thank you very much<FG> Will you be equipping your purchase right away<FH>",
-204,Menus_UI_Settings,187,780,22268,Oh dear<MV>it seems your bag is full to bursting. Why not make a little room and come back<FH>,
-204,Menus_UI_Settings,188,784,22361,"<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01, eh<FH> That will be <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",
-204,Menus_UI_Settings,189,788,22488,And who will be equipping your purchase<FH>,
-204,Menus_UI_Settings,190,792,22531,<F4><I6>C1 was equipped.,
-204,Menus_UI_Settings,191,796,22554,"Very well. I'll pop the goods in your bag, then.",
-204,Menus_UI_Settings,192,800,22603,"Very well. I'll pop the remainder in your bag, then.",
-204,Menus_UI_Settings,193,804,22656,What would you like to sell<FH>,
-204,Menus_UI_Settings,194,808,22687,Will you be selling anything else<FH>,
-204,Menus_UI_Settings,195,812,22724,"I'm ever so sorry, but it seems you don't have anything to sell...",
-204,Menus_UI_Settings,196,816,22791,"Ah, as you wish. Is there anything else you'd like to sell<FH>",
-204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,
-204,Menus_UI_Settings,198,824,22980,"You realise this will mean selling orbs you're currently using, don't you<FH> Well then, which do you wish to sell<FH>",
-204,Menus_UI_Settings,199,828,23097,"Goodness<FG> Are you sure, <E0>00young man<E3>00young lady<E4>00<FH> Items of this kind don't grow on trees, you know.",
-204,Menus_UI_Settings,200,832,23211,"Hmm... My apologies, but I feel it would be better if you were to keep that particular curiosity.",
-204,Menus_UI_Settings,201,836,23309,Are you not using this orb for a different vocation<FH> Are you sure you wish to sell it<FH>,
-204,Menus_UI_Settings,202,840,23400,<F4><I8>M1<FH> I'll buy <EH>M1those<EI>01that<EJ>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,
-204,Menus_UI_Settings,203,844,23531,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01<FH> I'll buy <E5>R1it<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,
-204,Menus_UI_Settings,204,848,23684,Very good<FG> Here you are.,
-204,Menus_UI_Settings,205,852,23711,Do come again<FG>,
-204,Menus_UI_Settings,206,856,23728,Customers of your good reputation are always welcome here<FG>,
-204,Menus_UI_Settings,207,860,23789,It is always a pleasure and a privilege to serve such a widely admired <E0>00young gentleman<E3>00young lady<E4>00<FG>,
-204,Menus_UI_Settings,208,864,23904,That renowned heroes should frequent my humble shop is an inestimable honour<FG> Until next time<FG>,
-204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",
-204,Menus_UI_Settings,210,872,24187,"Good<FG> Ah, but I cannot simply hand it over... Very well. I will arrange for you to receive it through a...certain quest at the quest counter...",
-204,Menus_UI_Settings,211,876,24333,"Welcome to the accolades counter, where your activities on the battlefield are rewarded with prizes aplenty<FG>",
-204,Menus_UI_Settings,212,880,24444,"Welcome back<FG> This is the accolades counter, where your martial prowess is rewarded with accolades and mini medals<FG>",
-204,Menus_UI_Settings,213,884,24564,Welcome back<FG> I've been hearing a lot about you lately.,
-204,Menus_UI_Settings,214,888,24622,Welcome back<FG> I've heard all about the phenomenal work you've been doing<MV>it's a real privilege to be able to reward you for it<FG>,
-204,Menus_UI_Settings,215,892,24756,Welcome<FG> What an honour it is to have the hero of the realm drop by<FG> I can't wait to hear what incredible feats you'll accomplish next<FG>,
-204,Menus_UI_Settings,216,896,24898,Which accolade would you like to check<FH>,
-204,Menus_UI_Settings,217,900,24940,"Why, I think you're in line for an accolade<FG>",
-204,Menus_UI_Settings,218,904,24987,"Congratulations<FG> You've been awarded the ‘<I0>K1’ accolade, and a bonus of <E5>P0one mini medal<E6>01%d mini medals<E7>01<FG>",
-204,Menus_UI_Settings,219,908,25114,<F4><I0>00 receives <E5>O1one mini medal<E6>01%d mini medals<E7>01<FG>,
-204,Menus_UI_Settings,220,912,25179,Congratulations<FG> What a momentous feat<MV>you've claimed every accolade there is<FG>,
-204,Menus_UI_Settings,221,916,25264,I've prepared a little something for you to commemorate this amazing occasion<MV>you've more than earned it<FG>,
-204,Menus_UI_Settings,222,920,25374,<F4><I0>00 receives a gospel ring<FG>,
-204,Menus_UI_Settings,223,924,25409,Equip the gospel ring after finishing the game to see its incredible effects in action<FG>,
-204,Menus_UI_Settings,224,928,25499,We're expecting great things from you. See you soon<FG>,
-204,Menus_UI_Settings,225,932,25554,"Keep up the good work, <F4><I0>00<FG> We can't wait to see what you'll get up to next<FG>",
-204,Menus_UI_Settings,226,936,25640,"You're setting a wonderful example for us all, <F4><I0>00<FG> See you soon<FG>",
-204,Menus_UI_Settings,227,940,25715,"It's such an honour to have a visit from the hero of the realm<FG> Please, do come again<FG>",
-204,Menus_UI_Settings,228,944,25806,"Hello, duckie<FG> I'm afraid the old cauldron still needs a bit of time to warm up. Come back later, alright<FH>",
-204,Menus_UI_Settings,229,948,25917,"Ooh, duckie<FG> You can't carry any more accessories, I'm afraid<FG> You'll have to make some room and come back<FG>",
-204,Menus_UI_Settings,230,952,26031,"Hello there, duckie, and welcome to my little alchemy hut<FG> This is where you can soup up your accessories using all sorts of ingredients<FG>",
-204,Menus_UI_Settings,231,956,26173,"You'll find ingredients all over the place<MV>in treasure chests, on monsters you've defeated... Bring them here and see what you can make<FG>",
-204,Menus_UI_Settings,232,960,26314,"Oh, I know<MV>seeing as this is your first visit, why don't I get you started<FG> Here<FG>",
-204,Menus_UI_Settings,233,964,26402,<F4><I0>00 receives a pair of slime earrings<FG>,
-204,Menus_UI_Settings,234,968,26448,<F4><I0>00 receives a slimedrop<FG>,
-204,Menus_UI_Settings,235,972,26481,<F4><I0>00 receives two sprigs of cottontop<FG>,
-204,Menus_UI_Settings,236,976,26526,"Pop that little lot in the cauldron together, and you'll soon see what alchemy's all about<FG>",
-204,Menus_UI_Settings,237,980,26620,"Now, let's get down to business, shall we<FH> Ahem...",
-204,Menus_UI_Settings,238,984,26673,"How can I help you, duckie<FH> Fancy a spot of alchemy today<FH>",
-204,Menus_UI_Settings,239,988,26736,"Oh, hello, love<FG> I hear you've been working very hard to make a name for yourself<FG> Fancy a spot of nice, relaxing alchemy<FH>",
-204,Menus_UI_Settings,240,992,26865,"Oh, hello, love<FG> You've come up in the world since I first met you, haven't you<FH> Now then, what can I do for you<FH>",
-204,Menus_UI_Settings,241,996,26985,"Oh, hello<FG> Goodness, look at you, all grown into everyone's hero<FG> Now then, how can I help, duckie<FH>",
-204,Menus_UI_Settings,242,1000,27091,"Well, that'll never do, will it<FH> You don't have any accessories<FG> How d'you expect to do any alchemy without accessories, duckie<FH> Honestly<FG>",
-204,Menus_UI_Settings,243,1004,27238,"How can I help you, duckie<FH> Fancy a spot of alchemy today<FH>",
-204,Menus_UI_Settings,244,1008,27301,"Oh, hello, love<FG> I hear you've been working very hard to make a name for yourself<FG> Fancy a spot of nice, relaxing alchemy<FH>",
-204,Menus_UI_Settings,245,1012,27430,"Oh, hello, love<FG> You've come up in the world since I first met you, haven't you<FH> Now then, what can I do for you<FH>",
-204,Menus_UI_Settings,246,1016,27550,"Oh, hello<FG> Goodness, look at you, all grown into everyone's hero<FG> Now then, how can I help, duckie<FH>",
-204,Menus_UI_Settings,247,1020,27656,"Now, why don't you start by telling me which type of accessory you want to enhance<FH>",
-204,Menus_UI_Settings,248,1024,27742,"Oh dear... That accessory's a little special, dearie. It doesn't take well to alchemy, you see.",
-204,Menus_UI_Settings,249,1028,27838,"Righto, which accessory do you want me to grind down for you<FH>",
-204,Menus_UI_Settings,250,1032,27902,"I'm afraid that one's a little special, love. Too special to grind down, that's for certain.",
-204,Menus_UI_Settings,251,1036,27995,"Alright. Which one would you like to enhance, dearie<FH>",
-204,Menus_UI_Settings,252,1040,28051,"Sorry love, but it looks like that accessory's had all the alchemising it can take<FG>",
-204,Menus_UI_Settings,253,1044,28137,How would you like to enhance it<FH>,
-204,Menus_UI_Settings,254,1048,28173,"Sorry duckie, but you don't seem to have the right bits and pieces for that. You'll need all the ingredients and enough gold coins...",
-204,Menus_UI_Settings,255,1052,28307,"You've jumped the gun a little there, I'm afraid. That accessory's not ready for that enhancement just yet.",
+204,Menus_UI_Settings,0,32,7632,Which slot do you want to create an adventure log in<FH>,ต้องการสร้างบันทึกการเดินทางในช่องใด<FH>
+204,Menus_UI_Settings,1,36,7688,Delete this adventure log and create a new one in its place<FH>,ต้องการลบบันทึกการเดินทางนี้และสร้างบันทึกใหม่ทับหรือไม่<FH>
+204,Menus_UI_Settings,2,40,7751,"Now, choose the hero you'll control on your adventures in this world. This won't affect what you can access in the game.",เอาล่ะ โปรดเลือกผู้กล้าที่คุณจะใช้ควบคุมในการผจญภัยในโลกนี้ การเลือกนี้จะไม่มีผลต่อเนื้อหาที่คุณสามารถเข้าถึงได้ในเกม
+204,Menus_UI_Settings,3,44,7872,Please choose a hero.,โปรดเลือกผู้กล้า
+204,Menus_UI_Settings,4,48,7894,"Next, enter a name for the hero's cousin, who will join you on your adventure.",ต่อไป โปรดตั้งชื่อให้ลูกพี่ลูกน้องของผู้กล้า ที่จะร่วมเดินทางไปกับคุณ
+204,Menus_UI_Settings,5,52,7973,The name you have entered contains text that cannot be used. Please use a different name.,ชื่อที่คุณป้อนมีตัวอักษรที่ไม่สามารถใช้งานได้ โปรดใช้ชื่ออื่น
+204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,คุณพร้อมที่จะสร้างบันทึกการเดินทางสำหรับผู้กล้าทั้งสองคนแล้วหรือไม่<FH>
+204,Menus_UI_Settings,7,60,8140,"Last of all, choose your control method and camera settings. Both of these can be changed during the game at any time.",สุดท้ายนี้ โปรดเลือกรูปแบบการควบคุมและการตั้งค่ามุมกล้อง ซึ่งสามารถเปลี่ยนได้ตลอดเวลาในระหว่างการเล่นเกม
+204,Menus_UI_Settings,8,64,8259,Enabling online features can provide you with all kinds of exciting online content. Would you like to enable online features now<FH>,การเปิดใช้งานฟีเจอร์ออนไลน์จะช่วยให้คุณเพลิดเพลินกับเนื้อหาออนไลน์ที่น่าตื่นเต้นมากมาย ต้องการเปิดใช้งานฟีเจอร์ออนไลน์ตอนนี้หรือไม่<FH>
+204,Menus_UI_Settings,9,68,8391,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,เกมนี้มีระบบบันทึกอัตโนมัติ ห้ามปิดเครื่องในขณะที่กำลังบันทึกข้อมูล ระบบบันทึกอัตโนมัติจะใช้ช่องบันทึก 1 ช่อง
+204,Menus_UI_Settings,10,72,8524,Saving...,กำลังบันทึกข้อมูล...
+204,Menus_UI_Settings,11,76,8534,Adventure log successfully created.,สร้างบันทึกการเดินทางสำเร็จแล้ว
+204,Menus_UI_Settings,12,80,8570,Please select an adventure log.,โปรดเลือกบันทึกการเดินทาง
+204,Menus_UI_Settings,13,84,8602,"This will start the story anew with data including character levels, experience, gold coins and equipment carried over.","สิ่งนี้จะเริ่มเรื่องราวใหม่ทั้งหมด โดยโอนย้ายข้อมูลเลเวลตัวละคร, ค่าประสบการณ์, เหรียญทอง และอุปกรณ์สวมใส่ไปด้วย"
+204,Menus_UI_Settings,14,88,8722,"As an added bonus, each party member will also receive <GR>1 <E5>R1skill point<E6>01skill points<E7>01.",และโบนัสพิเศษ สมาชิกปาร์ตี้แต่ละคนจะได้รับแต้มสกิล <GR>1 แต้ม
+204,Menus_UI_Settings,15,92,8822,Delete this adventure log and create a Flying Start adventure log in its place<FH>,ต้องการลบบันทึกการเดินทางนี้และสร้างบันทึกแบบก้าวกระโดด (Flying Start) ทับหรือไม่<FH>
+204,Menus_UI_Settings,16,96,8904,Which adventure log do you want to delete<FH>,ต้องการลบบันทึกการเดินทางใด<FH>
+204,Menus_UI_Settings,17,100,8949,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d<FH>,แน่ใจหรือไม่ว่าต้องการลบ\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d<FH>
+204,Menus_UI_Settings,18,104,9018,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 Lv. %#2d<FH>,แน่ใจหรือไม่ว่าต้องการลบ\n<GR>1<FI> <F4><I0>41 Lv. %#2d<FH>
+204,Menus_UI_Settings,19,108,9079,Deleting adventure log...\nDo not turn off the power.,กำลังลบบันทึกการเดินทาง...\nห้ามปิดเครื่องโดยเด็ดขาด
+204,Menus_UI_Settings,20,112,9132,Adventure log <GR>1 deleted.,ลบบันทึกการเดินทาง <GR>1 เรียบร้อยแล้ว
+204,Menus_UI_Settings,21,116,9160,Do you really want to delete the autosave adventure log<FH>,ต้องการลบบันทึกการเดินทางบันทึกอัตโนมัติจริงหรือไม่<FH>
+204,Menus_UI_Settings,22,120,9219,The autosave adventure log has been deleted.,ลบบันทึกการเดินทางบันทึกอัตโนมัติเรียบร้อยแล้ว
+204,Menus_UI_Settings,23,124,9264,You've received a bonus for owning DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>,คุณได้รับโบนัสจากการเป็นเจ้าของเกม DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>
+204,Menus_UI_Settings,24,128,9367,You've received a bonus for owning DRAGON QUEST BUILDERS<FG>,คุณได้รับโบนัสจากการเป็นเจ้าของเกม DRAGON QUEST BUILDERS<FG>
+204,Menus_UI_Settings,25,132,9427,You have no pending bonuses.,คุณไม่มีโบนัสที่รอรับ
+204,Menus_UI_Settings,26,136,9456,Failed to retrieve bonuses.,ไม่สามารถรับโบนัสได้
+204,Menus_UI_Settings,27,140,9484,"Welcome, child, to this sanctuary of the Goddess. It is our duty and our pleasure to provide succour to all those of Her flock.",ยินดีต้อนรับ บุตรแห่งเทพธิดา สู่สถานศักดิ์สิทธิ์แห่งนี้ หน้าที่และความปีติของเราคือการมอบความช่วยเหลือแก่เหล่าผู้อยู่ใต้ร่มเงาของพระองค์
+204,Menus_UI_Settings,28,144,9612,"Here, you may confess your deeds before Our Holy Mother, that they may be recorded in an adventure log for posterity.",ณ ที่แห่งนี้ เจ้าสามารถสารภาพการกระทำของเจ้าต่อหน้าพระมารดาผู้ศักดิ์สิทธิ์ เพื่อให้ได้รับการบันทึกลงในบันทึกการเดินทางสืบไป
+204,Menus_UI_Settings,29,148,9730,"As this is your first visit, allow me to offer you this token of the Goddess's abiding love for Her children.",เนื่องจากนี่เป็นการมาเยือนครั้งแรกของเจ้า ขอมอบสิ่งนี้เป็นสัญลักษณ์แห่งความรักอันเปี่ยมล้นของเทพธิดาที่มีต่อบุตรของพระองค์
+204,Menus_UI_Settings,30,152,9840,<F4><I0>00 receives a healstone<FG>,<F4><I0>00 ได้รับหินฮีลสโตน<FG>
+204,Menus_UI_Settings,31,156,9873,"With this sacred stone, you may mend all manner of wounds. May it aid you on your journey, and remind you always of Her grace.",ด้วยหินศักดิ์สิทธิ์นี้ เจ้าจะสามารถรักษาบาดแผลได้ทุกรูปแบบ ขอให้สิ่งนี้ช่วยเจ้าในการเดินทาง และคอยเตือนใจถึงพระเมตตาของพระองค์เสมอ
+204,Menus_UI_Settings,32,160,10000,"Now, let us begin.",เอาล่ะ เรามาเริ่มกันเถิด
+204,Menus_UI_Settings,33,164,10019,"Wayward sheep of the great shepherdess, welcome to this house of the Goddess. How may we help you<FH>",แกะหลงทางของผู้เลี้ยงดูอันยิ่งใหญ่ ยินดีต้อนรับสู่อารามแห่งเทพธิดา มีสิ่งใดให้เราช่วยเหลือหรือไม่<FH>
+204,Menus_UI_Settings,34,168,10120,"Welcome, O favoured soldier of the Goddess. How may we help you<FH>",ยินดีต้อนรับ ทหารผู้เป็นที่โปรดปรานของเทพธิดา มีสิ่งใดให้เราช่วยเหลือหรือไม่<FH>
+204,Menus_UI_Settings,35,172,10187,"Welcome, O beloved hero of the Goddess. How may we help you<FH>",ยินดีต้อนรับ ผู้กล้าอันเป็นที่รักของเทพธิดา มีสิ่งใดให้เราช่วยเหลือหรือไม่<FH>
+204,Menus_UI_Settings,36,176,10250,How else may we aid you<FH>,มีสิ่งใดอื่นให้เราช่วยเหลืออีกหรือไม่<FH>
+204,Menus_UI_Settings,37,180,10277,"Confess all that you have done before the almighty Goddess, child...",จงสารภาพทุกสิ่งทุกอย่างที่เจ้าได้กระทำลงไปต่อหน้าองค์เทพธิดาผู้ทรงฤทธานุภาพเถิด บุตรเอ๋ย...
+204,Menus_UI_Settings,38,184,10346,Will you permit me to record your works in an adventure log<FH>,เจ้าจะอนุญาตให้เราบันทึกผลงานของเจ้าลงในบันทึกการเดินทางหรือไม่<FH>
+204,Menus_UI_Settings,39,188,10409,Which adventure log should be used to record your deeds<FH>,ต้องการบันทึกการกระทำของเจ้าลงในบันทึกการเดินทางช่องใด<FH>
+204,Menus_UI_Settings,40,192,10468,Very well. Then your works thus far shall remain unrecorded.,เช่นนั้น ผลงานที่ผ่านมาของเจ้าจะยังคงไม่ถูกบันทึกไว้
+204,Menus_UI_Settings,41,196,10529,"In that case, I must overwrite\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nDo you wish me to proceed, my child<FH>",หากเป็นเช่นนั้น เราจำต้องบันทึกทับ\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nเจ้าประสงค์ให้ดำเนินการต่อไปหรือไม่ บุตรเอ๋ย<FH>
+204,Menus_UI_Settings,42,200,10634,"In that case, I must overwrite\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nDo you wish me to proceed, my child<FH>",หากเป็นเช่นนั้น เราจำต้องบันทึกทับ\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nเจ้าประสงค์ให้ดำเนินการต่อไปหรือไม่ บุตรเอ๋ย<FH>
+204,Menus_UI_Settings,43,204,10731,This will overwrite\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nDo you wish to proceed<FH>,การดำเนินการนี้จะบันทึกทับ\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d.\nต้องการดำเนินการต่อหรือไม่<FH>
+204,Menus_UI_Settings,44,208,10812,This will overwrite\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nDo you wish to proceed<FH>,การดำเนินการนี้จะบันทึกทับ\n<GR>1<FI> <F4><I0>41 Lv. %#2d.\nต้องการดำเนินการต่อหรือไม่<FH>
+204,Menus_UI_Settings,45,212,10885,Recording your adventure log...\nPlease do not turn the power off.,กำลังบันทึกการเดินทาง...\nโปรดอย่าปิดเครื่องโดยเด็ดขาด
+204,Menus_UI_Settings,46,216,10951,Recording your adventure log...\nPlease do not turn the power off.,กำลังบันทึกการเดินทาง...\nโปรดอย่าปิดเครื่องโดยเด็ดขาด
+204,Menus_UI_Settings,47,220,11017,Your adventure log has been successfully recorded.,บันทึกการเดินทางของเจ้าได้รับการบันทึกเรียบร้อยแล้ว
+204,Menus_UI_Settings,48,224,11068,Your adventure log has been successfully recorded.,บันทึกการเดินทางของเจ้าได้รับการบันทึกเรียบร้อยแล้ว
+204,Menus_UI_Settings,49,228,11119,A problem occurred while recording your adventure log.,เกิดปัญหาขึ้นขณะบันทึกการเดินทางของเจ้า
+204,Menus_UI_Settings,50,232,11174,A problem occurred while recording your adventure log.,เกิดปัญหาขึ้นขณะบันทึกการเดินทางของเจ้า
+204,Menus_UI_Settings,51,236,11229,"Ah, you intend to rest<FH>",อ้อ เจ้าประสงค์จะพักผ่อนงั้นหรือ<FH>
+204,Menus_UI_Settings,52,240,11255,"If you do so, when next you join us, your adventure will begin from the point of your last confession. Are you sure<FH>",หากเจ้าทำเช่นนั้น เมื่อเจ้ากลับมาอีกครา การผจญภัยของเจ้าจะเริ่มจากจุดที่เจ้าสารภาพบาปครั้งล่าสุด แน่ใจหรือไม่<FH>
+204,Menus_UI_Settings,53,244,11374,Do you wish to end your adventure and return to the title screen<FH>,ต้องการยุติการผจญภัยและกลับสู่หน้าจอไตเติลหรือไม่<FH>
+204,Menus_UI_Settings,54,248,11442,"O great shepherdess, please allow this faithful lamb to rest in peace for a while<FG>",ข้าแต่องค์ผู้เลี้ยงดูอันยิ่งใหญ่ โปรดประทานการพักผ่อนอันสงบสุขอ่อนโยนแก่ลูกแกะผู้ศรัทธานี้ชั่วคราวด้วยเถิด<FG>
+204,Menus_UI_Settings,55,252,11527,"May the Goddess watch over you always, and may you ever find solace here.",ขอให้เทพธิดาทรงคุ้มครองเจ้าเสมอ และขอให้เจ้าพบความสงบสุข ณ ที่แห่งนี้เสมอไป
+204,Menus_UI_Settings,56,256,11601,"May you continue to thrive under the Goddess's aegis, and may you ever find solace here.",ขอให้เจ้าเจริญรุ่งเรืองใต้ร่มเงาคุ้มครองของเทพธิดา และขอให้เจ้าพบความสงบสุข ณ ที่แห่งนี้เสมอไป
+204,Menus_UI_Settings,57,260,11690,"May the Goddess continue to guide you to even greater glory, and may you ever find solace here.",ขอให้เทพธิดาทรงนำทางเจ้าสู่เกียรติยศอันยิ่งใหญ่สืบไป และขอให้เจ้าพบความสงบสุข ณ ที่แห่งนี้เสมอไป
+204,Menus_UI_Settings,58,264,11786,"Save data could not be found. Your confession will be cancelled, as your adventure log cannot be recorded.",ไม่พบข้อมูลเซฟ การสารภาพบาปของเจ้าจะถูกยกเลิก เนื่องจากไม่สามารถบันทึกการเดินทางได้
+204,Menus_UI_Settings,59,268,11893,"Save data could not be found. The attempt to save your progress will be cancelled, as your adventure log cannot be recorded.",ไม่พบข้อมูลเซฟ ความพยายามในการบันทึกจะถูกยกเลิก เนื่องจากไม่สามารถบันทึกการเดินทางได้
+204,Menus_UI_Settings,60,272,12018,"Unable to record your adventure log, as your save data belongs to another player.",ไม่สามารถบันทึกการเดินทางได้ เนื่องจากข้อมูลเซฟเป็นของผู้เล่นคนอื่น
+204,Menus_UI_Settings,61,276,12100,"Unable to record your adventure log, as your save data belongs to another player.",ไม่สามารถบันทึกการเดินทางได้ เนื่องจากข้อมูลเซฟเป็นของผู้เล่นคนอื่น
+204,Menus_UI_Settings,62,280,12182,"Oh, <F4><I0>00<FG> How shameful that you should fail in your quest<FG>",โอ้ <F4><I0>00<FG> ช่างน่าเสียดายยิ่งนักที่เจ้าต้องล้มเหลวในภารกิจของเจ้า<FG>
+204,Menus_UI_Settings,63,284,12249,"Oh, <F4><I0>00<FG> What a terrible tragedy that you should fall in battle<FG>",โอ้ <F4><I0>00<FG> ช่างเป็นโศกนาฏกรรมอันน่าเศร้าที่เจ้าต้องพ่ายแพ้ในสนามรบ<FG>
+204,Menus_UI_Settings,64,288,12323,We must give thanks. The ever-forgiving Goddess has seen fit to grant you one more chance.,เราต้องขอบพระคุณ องค์เทพธิดาผู้เปี่ยมด้วยการให้อภัยทรงเห็นสมควรที่จะมอบโอกาสให้เจ้าอีกคราหนึ่ง
+204,Menus_UI_Settings,65,292,12414,Do not squander the grace of our benevolent shepherdess. I shall be praying for your safety.,อย่าได้ละเลยพระเมตตาของผู้เลี้ยงดูอันโอบอ้อมอารีของเรา เราจะคอยสวดภาวนาเพื่อความปลอดภัยของเจ้า
+204,Menus_UI_Settings,66,296,12507,"Welcome back to us, <F4><I0>00.",ยินดีต้อนรับกลับมาสู่พวกเรานะ <F4><I0>00
+204,Menus_UI_Settings,67,300,12537,"O Goddess, our great and benevolent shepherdess<FG> Please, protect this poor lost sheep<FG>",ข้าแต่องค์เทพธิดา ผู้เลี้ยงดูอันยิ่งใหญ่และโอบอ้อมอารี<FG> โปรดปกป้องคุ้มครองลูกแกะหลงทางผู้น่าสงสารนี้ด้วยเถิด<FG>
+204,Menus_UI_Settings,68,304,12628,"Welcome to Patty's Place, where the adventurers of the world come together<FG>",ยินดีต้อนรับสู่บาร์ของแพตตี้ ศูนย์รวมเหล่านักผจญภัยจากทั่วสารทิศจ้ะ<FG>
+204,Menus_UI_Settings,69,308,12706,Welcome to Patty's Place<FG> Sure is nice to have a rising star like yourself swing by<FG>,ยินดีต้อนรับสู่บาร์ของแพตตี้จ้ะ<FG> ดีใจจริง ๆ ที่มีดาวรุ่งพุ่งแรงอย่างเธอแวะมาหา<FG>
+204,Menus_UI_Settings,70,312,12795,"Welcome to Patty's Place<FG> Well now, ain't this an honour<MV>a real live celebrity<FG> You make yourself comfy now, y'hear<FH>",ยินดีต้อนรับสู่บาร์ของแพตตี้จ้ะ<FG> แหม ช่างเป็นเกียรติจริง ๆ<MV>คนดังตัวจริงเสียงจริงมาเองเลย<FG> ทำตัวตามสบายได้เลยนะจ๊ะ<FH>
+204,Menus_UI_Settings,71,316,12920,"Sorry, sweetie, we're not open yet. Swing by later when I've finished getting things ready, y'hear<FH>",ขอโทษทีจ้ะคนดี ร้านยังไม่เปิดเลยจ้ะ ไว้แวะมาใหม่ตอนที่ฉันเตรียมของเสร็จแล้วนะจ๊ะ<FH>
+204,Menus_UI_Settings,72,320,13022,"Folks you leave behind will still earn experience, but not nearly so much as everybody else. Bear that in mind, okay, hun<FH>",คนที่เธอทิ้งไว้ที่นี่ก็ยังได้ค่าประสบการณ์นะจ๊ะ แต่จะได้ไม่มากเท่ากับคนที่ออกไปลุย จำตรงนี้ไว้ให้ดีนะจ๊ะคนดี<FH>
+204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",เลือกคนที่เธออยากพาไปด้วยได้เลยจ้ะ รวมทั้งจัดลำดับด้วยนะ และจำไว้ว่า<MV>ไม่จำเป็นต้องจัดทีมเต็มสี่คนเสมอไปหรอกนะจ๊ะ
+204,Menus_UI_Settings,74,328,13274,"Thanks for dropping by, sweetie<FG> You come on back whenever you need some new faces on the team, y'hear<FH>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> แวะกลับมาได้เสมอเมื่อไหร่ก็ตามที่เธอต้องการเปลี่ยนหน้าสมาชิกในทีมนะจ๊ะ<FH>
+204,Menus_UI_Settings,75,332,13382,"Thanks for dropping by, sweetie<FG> Famous adventurers such as yourself are always welcome here<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> นักผจญภัยชื่อดังอย่างเธอ ยินดีต้อนรับเสมอจ้ะ<FG>
+204,Menus_UI_Settings,76,336,13480,"Thanks for dropping by, sweetie<FG> I can't tell you how good these celebrity visits are for business<FG> Tee hee<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> บอกไม่ถูกเลยว่าการที่คนดังแวะมาแบบนี้ มันช่วยให้ร้านขายดีแค่ไหน<FG> คิก ๆ<FG>
+204,Menus_UI_Settings,77,340,13595,"Changed your mind<FH> Alright then, as you were, folks. Just holler if you need me, <F4><I0>00.",เปลี่ยนใจเหรอจ๊ะ<FH> ถ้างั้นก็เอาตามเดิมนะทุกคน ถ้ามีอะไรให้ฉันช่วยก็เรียกได้เลยนะ <F4><I0>00
+204,Menus_UI_Settings,78,344,13688,"Changed your mind<FH> Alright then, as you were, folks. I'm sure a well-known adventurer such as yourself has your reasons.",เปลี่ยนใจเหรอจ๊ะ<FH> ถ้างั้นก็เอาตามเดิมนะทุกคน ฉันเชื่อว่านักผจญภัยชื่อดังอย่างเธอคงมีเหตุผลของตัวเองอยู่แล้วจ้ะ
+204,Menus_UI_Settings,79,348,13811,"Changed your mind<FH> Alright then, as you were, folks. The customer's always right<MV>especially this customer<FG>",เปลี่ยนใจเหรอจ๊ะ<FH> ถ้างั้นก็เอาตามเดิมนะทุกคน ลูกค้าคือพระเจ้าเสมอ<MV>โดยเฉพาะลูกค้าระดับเธอคนนี้<FG>
+204,Menus_UI_Settings,80,352,13924,You can explore dimensional dungeons with whichever of your friends you like. Go ahead and pick somebody<FG>,เธอสามารถสำรวจดันเจี้ยนมิติร่วมกับเพื่อนคนไหนก็ได้ที่เธอชอบนะจ๊ะ เลือกใครสักคนได้เลย<FG>
+204,Menus_UI_Settings,81,356,14032,You want <F4><I0>41 to go in<FH>,เธอต้องการให้ <F4><I0>41 เข้าไปงั้นเหรอจ๊ะ<FH>
+204,Menus_UI_Settings,82,360,14062,"You just let me know whenever you want to nominate a new dimensional dungeon explorer, okay, hun<FH>",บอกฉันได้เสมอนะจ๊ะเมื่อไหร่ก็ตามที่เธออยากเสนอชื่อคนสำรวจดันเจี้ยนมิติคนใหม่ ตกลงนะจ๊ะคนดี<FH>
+204,Menus_UI_Settings,83,364,14162,You can relive memories from your adventure here. Would you care to dip back into the past<FH>,เธอสามารถย้อนชมความทรงจำจากการผจญภัยได้ที่นี่นะจ๊ะ สนใจจะย้อนเวลากลับไปดูอดีตสักหน่อยไหม<FH>
+204,Menus_UI_Settings,84,368,14256,Which memory would you like to relive<FH>,ต้องการย้อนชมความทรงจำไหนดีจ๊ะ<FH>
+204,Menus_UI_Settings,85,372,14297,Stop playback and return to the list of memories<FH>,หยุดการเล่นและกลับสู่รายการความทรงจำหรือไม่<FH>
+204,Menus_UI_Settings,86,376,14349,Is there anything more stirring than a tale of derring-do<FH> Come back whenever you want to relive your finest moments<FG>,มีอะไรน่าตื่นเต้นไปกว่าเรื่องเล่าการผจญภัยอันกล้าหาญอีกล่ะจ๊ะ<FH> กลับมาได้เสมอนะเมื่อไหร่ที่อยากย้อนชมช่วงเวลาสุดยอดของเธอ<FG>
+204,Menus_UI_Settings,87,380,14471,"Scram, kiddo. Place ain't open yet, see<FH>",ไปไกล ๆ เลยเจ้าหนู ร้านยังไม่เปิด ไม่เห็นเรอะ<FH>
+204,Menus_UI_Settings,88,384,14514,"Say, kiddo<MV>you, uh...got any o' the good stuff<FH> Y'know...the old, uh...mini medals<FH>",นี่ เจ้าหนู<MV>เอ่อ...มีของดีติดตัวบ้างมั้ยล่ะ<FH> ก็นั่นไง...ของเก่า ๆ...มินิเมดัลน่ะ<FH>
+204,Menus_UI_Settings,89,388,14604,"Ahhh, c'mon<FG> Don't be a schmo<FG> You know what I mean<FG> Dem shiny, fancy little doodads ya find hidden in all kindsa dumb places.",อ้า โธ่เอ๊ย<FG> อย่ามาทำไขสือไปหน่อยเลย<FG> แกรู้ว่าฉันหมายถึงอะไร<FG> ไอ้เหรียญประกายแวววาวกระจิริดที่แอบซ่อนอยู่ตามซอกตามมุมพิลึก ๆ พวกนั้นไงล่ะ
+204,Menus_UI_Settings,90,392,14737,"Listen, I'll make it simple for ya<MV>you bring me da mini medals, and I'll make it worth your while, see<FH>",ฟังนะ ฉันจะพูดง่าย ๆ ให้แกเข้าใจ<MV>แกเอามินิเมดัลมาให้ฉัน แล้วฉันจะให้ของตอบแทนที่คุ้มค่าอย่างงาม เข้าใจมั้ยล่ะ<FH>
+204,Menus_UI_Settings,91,396,14845,"I got some real nice stuff just waitin' for a...business-minded individual wid a go-gettin' attitude, if ya catch my drift.",ฉันมีของดีชั้นยอดรออยู่สำหรับคน...ที่มีหัวการค้าและใจกล้าบ้าบิ่น ถ้าแกเก็ทที่ฉันพูดนะ
+204,Menus_UI_Settings,92,400,14969,"Why not take a look-see at the list o' what I got<MV>you ain't gonna be disappointed, I promise ya. Alright, let's get downta business<FG>",ลองมาดูรายการของที่ฉันมีหน่อยเป็นไง<MV>รับรองแกไม่ผิดหวังแน่ ฉันสัญญา เอาล่ะ มาเริ่มคุยธุรกิจกันดีกว่า<FG>
+204,Menus_UI_Settings,93,404,15106,"Welcome to Maxi Malone's, kiddo<FG> So<MV>you got any mini medals or what<FH>",ยินดีต้อนรับสู่ร้านของแม็กซี่ มาโลน เจ้าหนู<FG> ว่าไงล่ะ<MV>แกมีมินิเมดัลมามั่งมั้ยเนี่ย<FH>
+204,Menus_UI_Settings,94,408,15181,"Whoa, it's da hero of da realm <E0>00himself<E3>00herself<E4>00<FG> You wanna talk mini medals<FH> I wanna talk mini medals<FG>",โอ้โห ผู้กล้าแห่งอาณาจักรมาเองเลยนี่หว่า<FG> แกอยากคุยเรื่องมินิเมดัลใช่มั้ย<FH> ฉันก็อยากคุยเรื่องมินิเมดัลเหมือนกันโว้ย<FG>
+204,Menus_UI_Settings,95,412,15303,"Hmm... Lemme see here... Right now, you got, uh...<E5>P1just da one<E6>01%d o' dem shiny little beauties<E7>01.",หืม... ไหนขอดูซิ... ตอนนี้แกมีไอ้เหรียญแวววาวพวกนี้อยู่... <E5>P1แค่เหรียญเดียวเอง<E6>01%d เหรียญแน่ะ<E7>01
+204,Menus_UI_Settings,96,416,15412,Here's what I got<MV>just don't ask where dis stuff came from if ya know what's good for ya...,นี่คือของที่ฉันมี<MV>แต่อย่าถามนะว่าไปเอามาจากไหน ถ้ายังอยากมีชีวิตอยู่อย่างสงบสุขน่ะนะ...
+204,Menus_UI_Settings,97,420,15506,"Make up yer mind already, will ya, kid<FH>",ตัดสินใจได้ยังล่ะหืม เจ้าหนู<FH>
+204,Menus_UI_Settings,98,424,15548,See anythin' else here ya like<FH>,มีชิ้นไหนที่แกชอบอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,99,428,15582,"Hey, whatcha tryin' ta pull here<FH> You ain't got da mini medals fer dat<FG>",เฮ้ย แกจะเล่นตุกติกเรอะ<FH> มินิเมดัลแกไม่พอแลกของชิ้นนั้นโว้ย<FG>
+204,Menus_UI_Settings,100,432,15658,"<I8>M1<FH> Okay, dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01. You got the stuff<FH>",<I8>M1 งั้นเรอะ<FH> ได้เลย ต้องใช้มินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01
+204,Menus_UI_Settings,101,436,15745,"<F4><I8>M1<FH> Ya came to the right place, kid<MV>da only place, even<FG>",แน่ใจนะว่าอยากจะยอมจ่ายมันน่ะ<FH>
+204,Menus_UI_Settings,102,440,15814,"Alright, <E5>P1one mini medal<E6>01%d mini medals<E7>01, and dat's my final offer. Deal<FH>",นั่นมันมินิเมดัลตั้งเยอะเลยนะเจ้าหนู แน่ใจนะว่าอยากจะจ่ายจริง ๆ น่ะ<FH>
+204,Menus_UI_Settings,103,444,15902,"Hey goofball, how am I supposed ta give you anythin' when yer bag's full<FH> Come back when ya lose some of da junk, ya walnut.",เอาเถอะ งั้นไม่แลก มีของชิ้นอื่นที่แกถูกใจอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,104,448,16029,"Alright, <I6>M1 is yours. Nice doin' business witcha.",เรียบร้อย <I6>M1 เป็นของแกแล้ว ดีใจที่ได้ทำธุรกิจด้วยกันนะเว้ย
+204,Menus_UI_Settings,105,452,16082,<F4><I0>00 receives <I8>M1<FG>,<F4><I0>00 ได้รับ <I8>M1<FG>
+204,Menus_UI_Settings,106,456,16109,"You ain't no schmuck, kiddo. Dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01 you've brought me now. Here, consider dis a token of my appreciation.",แกนี่ไม่ธรรมดาจริง ๆ ว่ะเจ้าหนู นี่แกเอามินิเมดัลมาให้ฉันครบ <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01 แล้วนะเนี่ย เอ้า ถือซะว่านี่เป็นของกำนัลเล็ก ๆ น้อย ๆ แทนคำขอบคุณจากฉันก็แล้วกัน
+204,Menus_UI_Settings,107,460,16258,"Dat's all I got<FG> You cleaned me out, kiddo<FG> Thanks for gettin' me all dem mini medals. You're a real stand-up <E0>00guy<E3>00gal<E4>00<FG>",ของฉันหมดเกลี้ยงแล้วโว้ย<FG> แกกวาดซะเกลี้ยงร้านเลยเจ้าหนู<FG> ขอบใจมากนะที่เอามินิเมดัลทั้งหมดนั่นมาให้ฉัน แกนี่เป็นคนเจ๋งจริง ๆ ว่ะ<FG>
+204,Menus_UI_Settings,108,464,16397,"You ever find yourself wid mini medals to spare, you come see me, capisce<FH>",ถ้าแกมีมินิเมดัลเหลือเมื่อไหร่ ก็แวะมาหาฉันได้ตลอด เข้าใจมั้ยล่ะ<FH>
+204,Menus_UI_Settings,109,468,16474,"Lemme tell ya, it's a real honour doin' business wid a celebrity like yourself. Anybody gives you any trouble, you come see me, capisce<FH>",บอกตรง ๆ เลยนะ เป็นเกียรติจริง ๆ ที่ได้ทำธุรกิจกับคนดังอย่างแกเนี่ย ถ้าใครมีปัญหาหรือมารังแกแก มาบอกฉันได้เลย เข้าใจมั้ยล่ะ<FH>
+204,Menus_UI_Settings,110,472,16613,"Sorry, I ain't finished settin' up shop yet. Come back in a bit, yeah<FH>",โทษทีนะ ยังจัดร้านไม่เสร็จเลยว่ะ ไว้แวะมาใหม่ทีหลังนะเพื่อน<FH>
+204,Menus_UI_Settings,111,476,16686,"'Ello, 'ello, 'ello<FG> Wot's that you've got there<FH> Uh-oh<MV>looks like it's time for the big talk...",ฮัลโหล ๆๆ<FG> นั่นแกถืออะไรมาน่ะ<FH> อ้าว ๆ<MV>ดูท่าจะต้องอธิบายเรื่องสำคัญซะแล้วสิ...
+204,Menus_UI_Settings,112,480,16789,"So basically right, there's weapons out there you won't be able to equip till you've 'ad me cast me expert eye over 'em first.",เอาจริง ๆ เลยนะ มีอาวุธบางชิ้นที่แกจะสวมใส่ไม่ได้จนกว่าจะเอามาให้สายตาผู้เชี่ยวชาญอย่างฉันช่วยตรวจดูซะก่อน
+204,Menus_UI_Settings,113,484,16916,"Till you do, they'll just be blobs of useless nothin'. But once I've appraised 'em, you might just find they're proper tasty bits o' kit.",ถ้าแกไม่เอามาให้ดู มันก็จะเป็นแค่ก้อนเศษอะไรไร้ประโยชน์ แต่พอฉันประเมินค่ามันแล้ว แกอาจจะพบว่ามันเป็นของดีชั้นยอดเลยก็ได้นะ
+204,Menus_UI_Settings,114,488,17054,"Might not make much sense to ya right now, but give it a go an' you'll soon see wot I mean.",ตอนนี้แกอาจจะยังไม่ค่อยเข้าใจ แต่ลองทำดูสักทีเดี๋ยวก็รู้ว่าฉันหมายถึงอะไร
+204,Menus_UI_Settings,115,492,17146,"There ain't just them special weapons, neither. There's ones that've been broken up into shards as well.",แล้วก็ไม่ได้มีแค่อาวุธพิเศษพวกนั้นหรอกนะ มีพวกที่แตกเป็นชิ้นส่วนเศษอาวุธด้วยเหมือนกัน
+204,Menus_UI_Settings,116,496,17251,"If you bring 'em to me, I can put 'em back together for ya. You won't know wot yer gettin', but that's all part o' the fun, innit<FG>",ถ้าแกเอาเศษพวกนั้นมาให้ฉัน ฉันประกอบมันกลับคืนให้ได้ แกจะไม่รู้หรอกว่าจะได้อะไรออกมา แต่นั่นแหละคือความสนุกจริงมั้ยล่ะ<FG>
+204,Menus_UI_Settings,117,500,17384,"I can take 'em apart again for you, an' all. Turn 'em back into shards, if that's wot you need.",แถมฉันยังแยกชิ้นส่วนมันให้แกได้อีกด้วย แยกกลับไปเป็นเศษอาวุธถ้าแกต้องการน่ะนะ
+204,Menus_UI_Settings,118,504,17480,"Just one thing, though<MV>I can't do none o' this stuff unless you chuck a few gold coins my way. A bloke's got to eat, innit<FG>",แต่มีอยู่อย่างเดียวนะ<MV>ฉันทำให้ฟรีไม่ได้หรอก ต้องจ่ายเหรียญทองมาบ้าง คนเรามันก็ต้องกินต้องใช้นี่หว่า จริงมั้ยล่ะ<FG>
+204,Menus_UI_Settings,119,508,17608,Alright<FH> I sell weapons<MV>all good stuff. Wot d'you want<FH>,ว่าไง<FH> ฉันขายอาวุธ<MV>ของดีทั้งนั้น อยากได้อะไรล่ะ<FH>
+204,Menus_UI_Settings,120,512,17670,"Alright<FH> I 'ear you've been makin' a bit of a name for yerself. Well, if it's weapons you're after, I'm yer man<FG>",ว่าไง<FH> ได้ยินว่าช่วงนี้แกเริ่มมีชื่อเสียงขึ้นมาแล้วนี่ ถ้าอยากได้อาวุธล่ะก็ มาหาฉันน่ะถูกคนแล้ว<FG>
+204,Menus_UI_Settings,121,516,17787,"Well, if it ain't my famous adventurer friend<FG> You after a weapon or somethin'<FH>",แหม นี่มันสหายนักผจญภัยชื่อดังของฉันนี่หว่า<FG> อยากได้อาวุธหรืออะไรทำนองนั้นเรอะ<FH>
+204,Menus_UI_Settings,122,520,17871,"Blimey, if it ain't the 'ero of the realm<FG> This is a real honour. Fancy some new weapons<FH>",คุณพระช่วย นี่มันท่านผู้กล้าแห่งอาณาจักรนี่หว่า<FG> เป็นเกียรติจริง ๆ สนใจอาวุธใหม่สักชิ้นมั้ยล่ะครับ<FH>
+204,Menus_UI_Settings,123,524,17965,Wot're you after<FH>,อยากได้อะไรล่ะ<FH>
+204,Menus_UI_Settings,124,528,17985,"Wot you in the market for then, eh<FH>",มองหาอะไรอยู่ล่ะ หืม<FH>
+204,Menus_UI_Settings,125,532,18023,You buyin' anythin' else<FH>,จะซื้ออะไรอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,126,536,18051,"Wot, changed yer mind already<FH> You after anythin' else<FH>",อ้าว เปลี่ยนใจซะแล้วเรอะ<FH> อยากได้อะไรอื่นอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,127,540,18111,"Oi<FG> Think I'm thick, do you<FH> You ain't got the gold for that<FG>",เฮ้ย<FG> นึกว่าฉันโง่เรอะ<FH> เหรียญทองแกไม่พอนะเว้ย<FG>
+204,Menus_UI_Settings,128,544,18179,"Hur hur hur<FG> Looks like yer weedy little equipment bag is full. Sort it out an' come back, alright<FH>",ฮึ ๆๆ<FG> ดูเหมือนกระเป๋าเก็บของกระจิริดของแกจะเต็มเอี๊ยดแล้ว ไปเคลียร์ของแล้วค่อยกลับมานะ ตกลงมั้ย<FH>
+204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,แกรับ <EH>A1ชิ้นเหล่านี้<EI>01ชิ้นนี้<EJ>01 <I0>A1 ไปได้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,130,552,18391,"Cheers<FG> You equippin' the goods now, or wot<FH>",ขอบใจ<FG> จะสวมใส่ของตอนนี้เลยมั้ยล่ะ<FH>
+204,Menus_UI_Settings,131,556,18440,"Cheers<FG> I'll shove the goods in yer bag, shall I<FH>",ขอบใจ<FG> งั้นฉันยัดของใส่กระเป๋าให้เลยนะ<FH>
+204,Menus_UI_Settings,132,560,18494,"Alright, I'll shove the goods in yer equipment bag.",ได้เลย งั้นฉันเก็บของใส่กระเป๋าเก็บอุปกรณ์ให้นะ
+204,Menus_UI_Settings,133,564,18546,"Alright, who's this for<FH>",แล้วจะให้ใครสวมล่ะ<FH>
+204,Menus_UI_Settings,134,568,18573,"Cheers<FG> So is <F4><I0>41 gonna equip it now, or wot<FH>",ขอบใจ<FG> งั้นจะให้ <F4><I0>41 สวมใส่ตอนนี้เลยมั้ยล่ะ<FH>
+204,Menus_UI_Settings,135,572,18628,<F4><I0>41 equips <I6>A1<FG>,<F4><I0>41 สวมใส่ <I6>A1<FG>
+204,Menus_UI_Settings,136,576,18653,Wot're you sellin'<FH>,จะขายอะไรล่ะ<FH>
+204,Menus_UI_Settings,137,580,18675,"You realise you'll be sellin' me an orb someone's usin', don'tcha<FH> Go on, then<MV>who's'll it be<FH>",แกรู้ตัวนะว่าจะขายลูกแก้วที่คนอื่นกำลังสวมอยู่ให้ฉันน่ะ<FH> เอาสิ<MV>แล้วจะขายของใครล่ะ<FH>
+204,Menus_UI_Settings,138,584,18776,You 'avin' a laugh<FH> You ain't got nothin' to sell<FG>,ล้อเล่นปะเนี่ย<FH> แกไม่มีอะไรจะขายเลยนะเว้ย<FG>
+204,Menus_UI_Settings,139,588,18831,Suit yerself. Anythin' else to sell<FH>,ตามใจแก มีอะไรจะขายอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,140,592,18870,'Ang abaht<FG> Someone's usin' <EH>M1them<EI>01that<EJ>01 <I0>M1<FG> You sure you wanna sell <EH>M1'em<EI>01it<EJ>01<FH>,เดี๋ยวก่อนสิโว้ย<FG> มีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะ<FG> แน่ใจนะว่าอยากจะขาย<FH>
+204,Menus_UI_Settings,141,596,18981,Got anythin' else to sell<FH>,มีอะไรจะขายอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,142,600,19010,"I ain't buyin' that, an' you know it.",ฉันไม่รับซื้อของชิ้นนั้นหรอก แกก็รู้ดีนี่
+204,Menus_UI_Settings,143,604,19048,"You know these ain't easy to come by, don'tcha<FH> You sure you wanna sell<FH>",แกรู้นะว่าของพวกนี้มันไม่ได้หากันง่าย ๆ น่ะ แน่ใจนะว่าอยากจะขายจริง ๆ<FH>
+204,Menus_UI_Settings,144,608,19125,Looks like yer usin' that for one of yer other vocations. You sure you wanna sell it<FH>,ดูเหมือนแกจะใช้ของชิ้นนั้นกับอาชีพอื่นอยู่นะ แน่ใจนะว่าอยากจะขายมันน่ะ<FH>
+204,Menus_UI_Settings,145,612,19213,"<F4><I8>M1, eh<FH> I'll take <EH>M1those<EI>01that<EJ>01 off yer 'ands for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันรับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ก็แล้วกัน ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,146,616,19333,"Done<FG> 'And over the goods, then<FG>",ตกลง<FG> ส่งของมาเลยสิพวก<FG>
+204,Menus_UI_Settings,147,620,19370,"<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01, eh<FH> I'll give you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 งั้นเรอะ<FH> ฉันให้แก <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,148,624,19476,"Right, wot am I lookin' at<FH>",เอาล่ะ จะให้ฉันดูชิ้นไหนล่ะ<FH>
+204,Menus_UI_Settings,149,628,19506,You got anythin' else for me to cast me eye over<FH>,มีชิ้นอื่นให้ฉันช่วยดูอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,150,632,19558,"Hmm, let's see... That'll cost ya...<E5>O1one gold coin<E6>01%d gold coins<E7>01, I reckon. Deal<FH>",หืม ไหนดูซิ... ค่าตรวจชิ้นนี้น่าจะ... <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,151,636,19655,You takin' the mick<FH> You ain't got enough cash<FG>,มากวนโอ๊ยฉันเรอะ<FH> เหรียญทองแกไม่พอนี่หว่า<FG>
+204,Menus_UI_Settings,152,640,19707,"'Ang on, you ain't got nothin' for me to appraise<FG>",เดี๋ยวก่อนสิ แกไม่มีอะไรให้ฉันประเมินเลยนะเว้ย<FG>
+204,Menus_UI_Settings,153,644,19760,"'Ang on, you ain't got nothin' for me to take apart<FG>",เดี๋ยวก่อนสิ แกไม่มีอะไรให้ฉันแยกชิ้นส่วนเลยนะเว้ย<FG>
+204,Menus_UI_Settings,154,648,19815,"'Ang on, you ain't got nothin' for me to put together<FG>",เดี๋ยวก่อนสิ แกไม่มีอะไรให้ฉันประกอบเลยนะเว้ย<FG>
+204,Menus_UI_Settings,155,652,19872,"Blimey O'Reilly, get a load o' this<FG>",คุณพระช่วย ดูนี่ซะก่อนสิวะ<FG>
+204,Menus_UI_Settings,156,656,19911,It's only <I8>A1<FG>,มันคือ <I8>A1 เชียวนะเนี่ย<FG>
+204,Menus_UI_Settings,157,660,19930,"Right, what do you want takin' apart<FH>",เอาล่ะ อยากแยกชิ้นส่วนชิ้นไหนล่ะ<FH>
+204,Menus_UI_Settings,158,664,19970,Got anythin' else to take apart<FH>,มีชิ้นอื่นให้แยกอีกมั้ยล่ะ<FH>
+204,Menus_UI_Settings,159,668,20005,"This ain't a charity, you know<FG> Pay full whack, or I ain't takin' it apart<FG>",นี่ไม่ใช่โรงทานนะเว้ย<FG> จ่ายมาให้ครบ ไม่งั้นฉันไม่แยกชิ้นส่วนให้หรอกนะ<FG>
+204,Menus_UI_Settings,160,672,20085,Reckon I can get <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 out o' <EH>A1these<EI>01this<EJ>01 for ya. It'll cost you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>,ฉันคิดว่าแยก <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 ออกมาจากของชิ้นนี้ให้แกได้นะ ค่าบริการ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,161,676,20239,"Alright, 'ere's yer bits an' bobs<FG>",เอาล่ะ นี่เศษชิ้นส่วนของแก<FG>
+204,Menus_UI_Settings,162,680,20276,"If you've got the right shards, I can use <E5>R1one of 'em<E6>01<GR>1 of 'em<E7>01 to make you a weapon if you want.",ถ้าแกมีเศษอาวุธที่ถูกต้อง ฉันสามารถใช้มัน <E5>R1หนึ่งชิ้น<E6>01<GR>1 ชิ้น<E7>01 เพื่อสร้างอาวุธให้แกได้นะถ้าต้องการ
+204,Menus_UI_Settings,163,684,20389,'Ang on<FG> I'll need more shards than that to put a weapon together<FG>,เดี๋ยวก่อนสิ<FG> ฉันต้องใช้เศษอาวุธมากกว่านั้นถึงจะประกอบเป็นอาวุธได้นะเว้ย<FG>
+204,Menus_UI_Settings,164,688,20460,"Got any more shards for me<FH> Gimme <E5>R1one<E6>01<GR>1<E7>01, an' I'll make you somethin' lovely<FG>",มีเศษอาวุธมาเพิ่มอีกมั้ยล่ะ<FH> เอามาให้ฉันสัก <E5>R1หนึ่งชิ้น<E6>01<GR>1 ชิ้น<E7>01 แล้วฉันจะสร้างของสุดยอดให้แกดู<FG>
+204,Menus_UI_Settings,165,692,20558,"<F4><I8>M1, eh<FH> I can do you that for...ooh, <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันทำให้แกได้ในราคา... อูย <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,166,696,20654,"'Ang abaht, you ain't got enough gold coins<FG>",เดี๋ยวก่อนสิ แกมีเหรียญทองไม่พอนี่หว่า<FG>
+204,Menus_UI_Settings,167,700,20701,"Alright, let's get busy<FG> Let's see... This bit goes 'ere, this bit goes there, and... Bish, bash, bosh, Bob's yer uncle<FG>",เอาล่ะ ลุยกันเลย<FG> ไหนดูซิ... ชิ้นนี้ใส่ตรงนี้ ชิ้นนี้ใส่ตรงนั้น แล้วก็... ชึก ชัก โชะ เรียบร้อยโรงเรียนจีน<FG>
+204,Menus_UI_Settings,168,704,20826,'Ere we are<MV><I8>A1 of yer very own<FG>,เรียบร้อย<MV><I8>A1 เฉพาะตัวของแกเองเลยนะเนี่ย<FG>
+204,Menus_UI_Settings,169,708,20865,Be lucky<FG> Hur hur<FG>,โชคดีนะเพื่อน<FG> ฮึ ๆๆ<FG>
+204,Menus_UI_Settings,170,712,20888,I'm expectin' big things from you<FG> Be lucky<FG>,ฉันหวังผลงานเจ๋ง ๆ จากแกอยู่นะเว้ย<FG> โชคดีนะเพื่อน<FG>
+204,Menus_UI_Settings,171,716,20937,"It's good doin' business wiv a celebrity like yerself<FG> Cor, me 'umble little stall's on the up an' up now<FG>",ดีใจจริง ๆ ที่ได้ทำธุรกิจกับคนดังอย่างแก<FG> แหม แผงลอยซอมซ่อของฉันดูดีขึ้นเป็นกองเลยว่ะ<FG>
+204,Menus_UI_Settings,172,720,21048,"Fancy the 'ero of the realm comin' to me 'umble little stall, eh<FH> Be lucky<FG>",ไม่นึกไม่ฝันเลยว่าท่านผู้กล้าแห่งอาณาจักรจะแวะมาที่แผงลอยซอมซ่อของฉันนะเนี่ย<FH> ขอให้โชคดีนะเพื่อน<FG>
+204,Menus_UI_Settings,173,724,21128,"My apologies, young traveller. I'm not quite ready to open up shop yet, but do come back later.",ต้องขออภัยด้วยนะ ท่านนักเดินทางรุ่นเยาว์ ข้ายังเตรียมเปิดร้านไม่เสร็จดีเลย ไว้ค่อยกลับมาใหม่ทีหลังนะ
+204,Menus_UI_Settings,174,728,21224,Hello there<FG> I'm your friendly local orb seller<FG> Orbs are fantastic artefacts that amplify the defensive capabilities of the user.,สวัสดีขอรับ<FG> ข้าคือพ่อค้าขายลูกแก้วประจำเมืองขอรับ<FG> ลูกแก้วคือโบราณวัตถุสุดวิเศษที่ช่วยเสริมพลังป้องกันให้แก่ผู้สวมใส่
+204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",บางชิ้นยังมีคุณสมบัติพิเศษเสริมด้วยนะขอรับ ทว่าแต่ละคนจะสวมใส่ได้เพียงครั้งละหนึ่งชิ้นเท่านั้น จึงต้องเลือกสรรอย่างรอบคอบขอรับ
+204,Menus_UI_Settings,176,736,21494,"But before you can choose, you'll have to buy<FG> Shall we get down to business<FH> Ahem...",แต่ก่อนจะเลือกได้ ก็ต้องซื้อก่อนขอรับ<FG> เรามาเริ่มคุยธุรกิจกันเลยดีไหมขอรับ<FH> อะแฮ่ม...
+204,Menus_UI_Settings,177,740,21584,"Welcome, friend<FG> Can I interest you in a protective orb or two<FH>",ยินดีต้อนรับ สหายเอ๋ย<FG> สนใจรับลูกแก้วคุ้มครองสักชิ้นสองชิ้นไหมขอรับ<FH>
+204,Menus_UI_Settings,178,744,21652,Is there anything else you'd like<FH>,มีสิ่งอื่นใดที่ต้องการอีกไหมขอรับ<FH>
+204,Menus_UI_Settings,179,748,21689,"Well, look who it is<FG> It's an honour to sell orbs to such an upstanding citizen<FG>",แหม ดูซิว่าใครมา<FG> ช่างเป็นเกียรติยิ่งนักที่ได้ขายลูกแก้วให้แก่ผู้ทรงเกียรติเช่นท่าน<FG>
+204,Menus_UI_Settings,180,752,21774,"If it isn't our promising young hero<FG> Here to buy some orbs, are you<FH>",นี่ท่านผู้กล้ารุ่นเยาว์ผู้มีอนาคตไกลนี่เอง<FG> แวะมาซื้อลูกแก้วใช่ไหมขอรับ<FH>
+204,Menus_UI_Settings,181,756,21848,Well<FG> The hero of the realm <E0>00himself<E3>00herself<E4>00<FG> This is quite the honour<MV>I do hope my orbs are up to scratch<FG>,แหม<FG> ท่านผู้กล้าแห่งอาณาจักรมาด้วยตนเองเลยหรือนี่<FG> ช่างเป็นเกียรติเหลือเกิน<MV>หวังว่าลูกแก้วของข้าจะมีคุณภาพถูกใจท่านนะขอรับ<FG>
+204,Menus_UI_Settings,182,760,21977,"Here to buy, are we<FH> Very good. What would you like<FH>",แวะมาซื้อของใช่ไหมขอรับ<FH> ดีเยี่ยมเลย ประสงค์สิ่งใดดีขอรับ<FH>
+204,Menus_UI_Settings,183,764,22034,Does anything else catch your eye<FH>,มีชิ้นอื่นที่ต้องตาต้องใจท่านอีกไหมขอรับ<FH>
+204,Menus_UI_Settings,184,768,22071,"Ah, a pity. Perhaps something else might take your fancy<FH>",อ่า น่าเสียดายจัง บางทีชิ้นอื่นอาจจะถูกใจท่านมากกว่าไหมขอรับ<FH>
+204,Menus_UI_Settings,185,772,22131,Ahem<FG> It seems you are somewhat...short on gold coins...,อะแฮ่ม<FG> ดูเหมือนท่านจะ... มีเหรียญทองไม่พอขอรับ...
+204,Menus_UI_Settings,186,776,22190,"Why, thank you very much<FG> Will you be equipping your purchase right away<FH>",ขอบพระคุณเป็นอย่างยิ่งขอรับ<FG> ประสงค์จะสวมใส่ของที่ซื้อทันทีเลยหรือไม่ขอรับ<FH>
+204,Menus_UI_Settings,187,780,22268,Oh dear<MV>it seems your bag is full to bursting. Why not make a little room and come back<FH>,โอ้แย่แล้ว<MV>ดูเหมือนกระเป๋าของท่านจะแน่นเอี๊ยดเลยนะขอรับ ลองไปเคลียร์ที่ว่างสักนิดแล้วค่อยกลับมาดีไหมขอรับ<FH>
+204,Menus_UI_Settings,188,784,22361,"<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01, eh<FH> That will be <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01 สินะขอรับ<FH> ราคาทั้งหมดคือ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้สมเหตุสมผลดีไหมขอรับ<FH>
+204,Menus_UI_Settings,189,788,22488,And who will be equipping your purchase<FH>,แล้วจะให้ใครเป็นผู้สวมใส่ของที่ซื้อไปดีขอรับ<FH>
+204,Menus_UI_Settings,190,792,22531,<F4><I6>C1 was equipped.,สวมใส่ <F4><I6>C1 เรียบร้อยแล้ว
+204,Menus_UI_Settings,191,796,22554,"Very well. I'll pop the goods in your bag, then.",เข้าใจแล้วขอรับ เช่นนั้นข้าจะเก็บของใส่กระเป๋าให้ท่านนะขอรับ
+204,Menus_UI_Settings,192,800,22603,"Very well. I'll pop the remainder in your bag, then.",เข้าใจแล้วขอรับ เช่นนั้นข้าจะเก็บของส่วนที่เหลือใส่กระเป๋าให้ท่านนะขอรับ
+204,Menus_UI_Settings,193,804,22656,What would you like to sell<FH>,ประสงค์จะขายสิ่งใดหรือขอรับ<FH>
+204,Menus_UI_Settings,194,808,22687,Will you be selling anything else<FH>,มีสิ่งอื่นใดจะขายอีกหรือไม่ขอรับ<FH>
+204,Menus_UI_Settings,195,812,22724,"I'm ever so sorry, but it seems you don't have anything to sell...",ต้องขอประทานอภัยจริง ๆ ขอรับ แต่ดูเหมือนท่านจะไม่มีสิ่งใดให้ขายเลย...
+204,Menus_UI_Settings,196,816,22791,"Ah, as you wish. Is there anything else you'd like to sell<FH>",อ่า ตามที่ท่านประสงค์ขอรับ มีสิ่งอื่นใดจะขายอีกไหมขอรับ<FH>
+204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,อะแฮ่ม... ดูเหมือนว่ามีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะขอรับ แน่ใจจริง ๆ หรือขอรับว่าประสงค์จะขาย<FH>
+204,Menus_UI_Settings,198,824,22980,"You realise this will mean selling orbs you're currently using, don't you<FH> Well then, which do you wish to sell<FH>",ท่านทราบใช่ไหมขอรับว่าการทำเช่นนี้หมายถึงการขายลูกแก้วที่กำลังใช้งานอยู่ในขณะนี้ แล้วประสงค์จะขายชิ้นใดหรือขอรับ<FH>
+204,Menus_UI_Settings,199,828,23097,"Goodness<FG> Are you sure, <E0>00young man<E3>00young lady<E4>00<FH> Items of this kind don't grow on trees, you know.",คุณพระช่วย<FG> แน่ใจแล้วหรือขอรับ <E0>00พ่อหนุ่ม<E3>00แม่หนู<E4>00<FH> ของพรรค์นี้ไม่ได้หากันได้ง่าย ๆ ตามต้นไม้นะขอรับ
+204,Menus_UI_Settings,200,832,23211,"Hmm... My apologies, but I feel it would be better if you were to keep that particular curiosity.",หืม... ต้องขออภัยด้วยขอรับ แต่ข้ารู้สึกว่าท่านน่าจะเก็บของแปลกชิ้นนั้นไว้กับตัวดีกว่านะขอรับ
+204,Menus_UI_Settings,201,836,23309,Are you not using this orb for a different vocation<FH> Are you sure you wish to sell it<FH>,ท่านไม่ได้ใช้ลูกแก้วนี้กับอาชีพอื่นอยู่หรือขอรับ<FH> แน่ใจแล้วหรือขอรับว่าประสงค์จะขาย<FH>
+204,Menus_UI_Settings,202,840,23400,<F4><I8>M1<FH> I'll buy <EH>M1those<EI>01that<EJ>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<F4><I8>M1 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
+204,Menus_UI_Settings,203,844,23531,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01<FH> I'll buy <E5>R1it<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
+204,Menus_UI_Settings,204,848,23684,Very good<FG> Here you are.,ดีเยี่ยมเลยขอรับ<FG> นี่ของท่านขอรับ
+204,Menus_UI_Settings,205,852,23711,Do come again<FG>,ไว้แวะมาใหม่นะขอรับ<FG>
+204,Menus_UI_Settings,206,856,23728,Customers of your good reputation are always welcome here<FG>,ลูกค้าผู้มีชื่อเสียงอันดีงามเช่นท่าน ยินดีต้อนรับเสมอขอรับ<FG>
+204,Menus_UI_Settings,207,860,23789,It is always a pleasure and a privilege to serve such a widely admired <E0>00young gentleman<E3>00young lady<E4>00<FG>,เป็นเกียรติและความยินดีอย่างยิ่งเสมอที่ได้รับใช้ <E0>00สุภาพบุรุษรุ่นเยาว์<E3>00สุภาพสตรีรุ่นเยาว์<E4>00 ผู้เป็นที่ชื่นชมเช่นท่าน<FG>
+204,Menus_UI_Settings,208,864,23904,That renowned heroes should frequent my humble shop is an inestimable honour<FG> Until next time<FG>,การที่ผู้กล้าชื่อเสียงขจรไกลแวะเวียนมายังร้านซอมซ่อของข้า ถือเป็นเกียรติอันหาที่สุดมิได้<FG> ไว้พบกันใหม่นะขอรับ<FG>
+204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",เอ๊ะ<MV><FG> ท่านมองเห็นความลับเล็ก ๆ ของข้าได้อย่างไรกันขอรับเนี่ย<FG><FH> ตาแหลมคมจริง ๆ <E0>00นายน้อย<E3>00คุณหนู<E4>00<FG> ข้ามอบให้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้ฟังดูเข้าทีไหมขอรับ<FH>
+204,Menus_UI_Settings,210,872,24187,"Good<FG> Ah, but I cannot simply hand it over... Very well. I will arrange for you to receive it through a...certain quest at the quest counter...",ดีเลยขอรับ<FG> อ๊ะ แต่ข้าคงส่งมอบให้ตรง ๆ ไม่ได้... เอาเถอะ ข้าจะจัดการให้ท่านได้รับมันผ่าน...เควสต์บางอย่างที่เคาน์เตอร์เควสต์ก็แล้วกัน...
+204,Menus_UI_Settings,211,876,24333,"Welcome to the accolades counter, where your activities on the battlefield are rewarded with prizes aplenty<FG>",ยินดีต้อนรับสู่เคาน์เตอร์เกียรติยศ ที่ซึ่งผลงานในสนามรบของท่านจะได้รับรางวัลตอบแทนมากมาย<FG>
+204,Menus_UI_Settings,212,880,24444,"Welcome back<FG> This is the accolades counter, where your martial prowess is rewarded with accolades and mini medals<FG>",ยินดีต้อนรับกลับมา<FG> นี่คือเคาน์เตอร์เกียรติยศ ที่ซึ่งฝีมือการต่อสู้ของท่านจะได้รับรางวัลเป็นเกียรติยศและมินิเมดัล<FG>
+204,Menus_UI_Settings,213,884,24564,Welcome back<FG> I've been hearing a lot about you lately.,ยินดีต้อนรับกลับมา<FG> ช่วงนี้ข้าได้ยินเรื่องราวเกี่ยวกับท่านมาเยอะเลยทีเดียว
+204,Menus_UI_Settings,214,888,24622,Welcome back<FG> I've heard all about the phenomenal work you've been doing<MV>it's a real privilege to be able to reward you for it<FG>,ยินดีต้อนรับกลับมา<FG> ข้าได้ยินเรื่องผลงานอันน่าทึ่งที่ท่านทำมาทั้งหมดแล้ว<MV>ช่างเป็นเกียรติจริง ๆ ที่ได้มอบรางวัลตอบแทนให้แก่ท่าน<FG>
+204,Menus_UI_Settings,215,892,24756,Welcome<FG> What an honour it is to have the hero of the realm drop by<FG> I can't wait to hear what incredible feats you'll accomplish next<FG>,ยินดีต้อนรับ<FG> เป็นเกียรติอย่างยิ่งที่ท่านผู้กล้าแห่งอาณาจักรแวะมาเยือน<FG> ข้าแทบรอไม่ไหวที่จะได้ยินเรื่องความสำเร็จอันน่าทึ่งครั้งต่อไปของท่านแล้ว<FG>
+204,Menus_UI_Settings,216,896,24898,Which accolade would you like to check<FH>,ต้องการตรวจสอบเกียรติยศใดหรือ<FH>
+204,Menus_UI_Settings,217,900,24940,"Why, I think you're in line for an accolade<FG>",แหม ข้าคิดว่าท่านมีเกียรติยศที่รอรับรางวัลอยู่นะ<FG>
+204,Menus_UI_Settings,218,904,24987,"Congratulations<FG> You've been awarded the ‘<I0>K1’ accolade, and a bonus of <E5>P0one mini medal<E6>01%d mini medals<E7>01<FG>",ขอแสดงความยินดีด้วย<FG> ท่านได้รับเกียรติยศ ‘<I0>K1’ พร้อมโบนัสมินิเมดัล <E5>P0หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,219,908,25114,<F4><I0>00 receives <E5>O1one mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>O1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,220,912,25179,Congratulations<FG> What a momentous feat<MV>you've claimed every accolade there is<FG>,ขอแสดงความยินดีด้วย<FG> ช่างเป็นความสำเร็จอันยิ่งใหญ่จริง ๆ<MV>ท่านพิชิตเกียรติยศที่มีทั้งหมดได้ครบถ้วนแล้ว<FG>
+204,Menus_UI_Settings,221,916,25264,I've prepared a little something for you to commemorate this amazing occasion<MV>you've more than earned it<FG>,ข้าได้เตรียมของขวัญพิเศษเพื่อเป็นที่ระลึกสำหรับโอกาสอันน่าอัศจรรย์นี้ไว้ให้ท่าน<MV>ท่านคู่ควรกับมันอย่างยิ่งแล้ว<FG>
+204,Menus_UI_Settings,222,920,25374,<F4><I0>00 receives a gospel ring<FG>,<F4><I0>00 ได้รับแหวนกอสเปลริง<FG>
+204,Menus_UI_Settings,223,924,25409,Equip the gospel ring after finishing the game to see its incredible effects in action<FG>,สวมใส่แหวนกอสเปลริงหลังจากเคลียร์เกมเพื่อดูพลังอันน่าทึ่งของมันนะ<FG>
+204,Menus_UI_Settings,224,928,25499,We're expecting great things from you. See you soon<FG>,พวกเราเฝ้ารอผลงานอันยอดเยี่ยมจากท่านอยู่นะ ไว้พบกันใหม่<FG>
+204,Menus_UI_Settings,225,932,25554,"Keep up the good work, <F4><I0>00<FG> We can't wait to see what you'll get up to next<FG>",สู้ต่อไปนะ <F4><I0>00<FG> พวกเราแทบรอไม่ไหวที่จะได้เห็นสิ่งต่อไปที่ท่านจะทำแล้ว<FG>
+204,Menus_UI_Settings,226,936,25640,"You're setting a wonderful example for us all, <F4><I0>00<FG> See you soon<FG>",ท่านเป็นแบบอย่างที่วิเศษสุดสำหรับพวกเราทุกคนเลย <F4><I0>00<FG> ไว้พบกันใหม่นะ<FG>
+204,Menus_UI_Settings,227,940,25715,"It's such an honour to have a visit from the hero of the realm<FG> Please, do come again<FG>",เป็นเกียรติอย่างยิ่งที่ท่านผู้กล้าแห่งอาณาจักรแวะมาเยือน<FG> โปรดแวะมาอีกนะ<FG>
+204,Menus_UI_Settings,228,944,25806,"Hello, duckie<FG> I'm afraid the old cauldron still needs a bit of time to warm up. Come back later, alright<FH>",สวัสดีจ้ะคนดี<FG> ยายว่าหม้อต้มโบราณใบนี้ยังต้องใช้เวลาอุ่นอีกสักหน่อยน่ะ ไว้แวะมาใหม่ทีหลังนะจ๊ะ<FH>
+204,Menus_UI_Settings,229,948,25917,"Ooh, duckie<FG> You can't carry any more accessories, I'm afraid<FG> You'll have to make some room and come back<FG>",โอ๊ะ คนดี<FG> ยายว่าเธอพกเครื่องประดับเพิ่มไม่ได้แล้วนะจ๊ะ<FG> ต้องไปเคลียร์ที่ว่างแล้วค่อยกลับมาใหม่นะ<FG>
+204,Menus_UI_Settings,230,952,26031,"Hello there, duckie, and welcome to my little alchemy hut<FG> This is where you can soup up your accessories using all sorts of ingredients<FG>",สวัสดีจ้ะคนดี ยินดีต้อนรับสู่กระท่อมเล่นแร่แปรธาตุหลังน้อยของยายนะจ๊ะ<FG> ที่นี่คือที่ที่เธอสามารถอัปเกรดเครื่องประดับได้โดยใช้วัตถุดิบนานาชนิด<FG>
+204,Menus_UI_Settings,231,956,26173,"You'll find ingredients all over the place<MV>in treasure chests, on monsters you've defeated... Bring them here and see what you can make<FG>",เธอจะพบวัตถุดิบได้ทั่วทุกหนทุกแห่ง<MV>ทั้งในหีบสมบัติ หรือจากสัตว์ประหลาดที่ปราบได้... เอาพวกมันมาที่นี่แล้วมาดูสิว่าเธอจะสร้างอะไรได้บ้าง<FG>
+204,Menus_UI_Settings,232,960,26314,"Oh, I know<MV>seeing as this is your first visit, why don't I get you started<FG> Here<FG>",โอ้ ยายนึกออกแล้ว<MV>ไหน ๆ ก็มาเยือนเป็นครั้งแรก เดี๋ยวจะช่วยให้เริ่มต้นง่าย ๆ ดีกว่านะจ๊ะ<FG> เอ้านี่<FG>
+204,Menus_UI_Settings,233,964,26402,<F4><I0>00 receives a pair of slime earrings<FG>,<F4><I0>00 ได้รับต่างหูสไลม์เอียร์ริง<FG>
+204,Menus_UI_Settings,234,968,26448,<F4><I0>00 receives a slimedrop<FG>,<F4><I0>00 ได้รับสไลม์ดรอป<FG>
+204,Menus_UI_Settings,235,972,26481,<F4><I0>00 receives two sprigs of cottontop<FG>,<F4><I0>00 ได้รับหญ้าคอตตอนท็อป 2 กิ่ง<FG>
+204,Menus_UI_Settings,236,976,26526,"Pop that little lot in the cauldron together, and you'll soon see what alchemy's all about<FG>",หย่อนของพวกนั้นลงหม้อต้มพร้อมกัน แล้วเดี๋ยวเธอก็จะเข้าใจเองว่าการเล่นแร่แปรธาตุคืออะไร<FG>
+204,Menus_UI_Settings,237,980,26620,"Now, let's get down to business, shall we<FH> Ahem...",เอาล่ะ เรามาเริ่มกันเลยดีกว่าไหมจ๊ะ<FH> อะแฮ่ม...
+204,Menus_UI_Settings,238,984,26673,"How can I help you, duckie<FH> Fancy a spot of alchemy today<FH>",มีอะไรให้ยายช่วยจ๊ะคนดี<FH> วันนี้สนใจเล่นแร่แปรธาตุสักหน่อยไหม<FH>
+204,Menus_UI_Settings,239,988,26736,"Oh, hello, love<FG> I hear you've been working very hard to make a name for yourself<FG> Fancy a spot of nice, relaxing alchemy<FH>",โอ้ สวัสดีจ้ะพ่อคุณ<FG> ได้ยินมาว่าพยายามสร้างชื่อเสียงอย่างหนักเลยนี่จ๊ะ<FG> สนใจมาเล่นแร่แปรธาตุผ่อนคลายสบาย ๆ สักหน่อยไหม<FH>
+204,Menus_UI_Settings,240,992,26865,"Oh, hello, love<FG> You've come up in the world since I first met you, haven't you<FH> Now then, what can I do for you<FH>",โอ้ สวัสดีจ้ะพ่อคุณ<FG> ก้าวหน้าขึ้นเยอะเลยนะตั้งแต่ตอนที่เราเจอกันครั้งแรกใช่ไหมล่ะจ๊ะ<FH> เอาล่ะ มีอะไรให้ยายรับใช้จ๊ะ<FH>
+204,Menus_UI_Settings,241,996,26985,"Oh, hello<FG> Goodness, look at you, all grown into everyone's hero<FG> Now then, how can I help, duckie<FH>",โอ้ สวัสดีจ้ะ<FG> คุณพระช่วย ดูเธอสิ เติบโตขึ้นมาเป็นผู้กล้าของทุกคนแล้วนะเนี่ย<FG> เอาล่ะ มีอะไรให้ยายช่วยจ๊ะคนดี<FH>
+204,Menus_UI_Settings,242,1000,27091,"Well, that'll never do, will it<FH> You don't have any accessories<FG> How d'you expect to do any alchemy without accessories, duckie<FH> Honestly<FG>",แหม แบบนั้นใช้ไม่ได้หรอกนะจ๊ะ<FH> เธอไม่มีเครื่องประดับติดตัวเลยสักชิ้น<FG> แล้วจะเล่นแร่แปรธาตุได้ยังไงถ้าไม่มีเครื่องประดับล่ะจ๊ะคนดี<FH> ให้ตายสิ<FG>
+204,Menus_UI_Settings,243,1004,27238,"How can I help you, duckie<FH> Fancy a spot of alchemy today<FH>",มีอะไรให้ยายช่วยจ๊ะคนดี<FH> วันนี้สนใจเล่นแร่แปรธาตุสักหน่อยไหม<FH>
+204,Menus_UI_Settings,244,1008,27301,"Oh, hello, love<FG> I hear you've been working very hard to make a name for yourself<FG> Fancy a spot of nice, relaxing alchemy<FH>",โอ้ สวัสดีจ้ะพ่อคุณ<FG> ได้ยินมาว่าพยายามสร้างชื่อเสียงอย่างหนักเลยนี่จ๊ะ<FG> สนใจมาเล่นแร่แปรธาตุผ่อนคลายสบาย ๆ สักหน่อยไหม<FH>
+204,Menus_UI_Settings,245,1012,27430,"Oh, hello, love<FG> You've come up in the world since I first met you, haven't you<FH> Now then, what can I do for you<FH>",โอ้ สวัสดีจ้ะพ่อคุณ<FG> ก้าวหน้าขึ้นเยอะเลยนะตั้งแต่ตอนที่เราเจอกันครั้งแรกใช่ไหมล่ะจ๊ะ<FH> เอาล่ะ มีอะไรให้ยายรับใช้จ๊ะ<FH>
+204,Menus_UI_Settings,246,1016,27550,"Oh, hello<FG> Goodness, look at you, all grown into everyone's hero<FG> Now then, how can I help, duckie<FH>",โอ้ สวัสดีจ้ะ<FG> คุณพระช่วย ดูเธอสิ เติบโตขึ้นมาเป็นผู้กล้าของทุกคนแล้วนะเนี่ย<FG> เอาล่ะ มีอะไรให้ยายช่วยจ๊ะคนดี<FH>
+204,Menus_UI_Settings,247,1020,27656,"Now, why don't you start by telling me which type of accessory you want to enhance<FH>",เอาล่ะ ไหนลองบอกยายก่อนสิจ๊ะว่าอยากเสริมพลังเครื่องประดับประเภทไหน<FH>
+204,Menus_UI_Settings,248,1024,27742,"Oh dear... That accessory's a little special, dearie. It doesn't take well to alchemy, you see.",โอ้แย่จัง... เครื่องประดับชิ้นนั้นมันพิเศษไปหน่อยจ้ะคนดี มันเข้ากับการเล่นแร่แปรธาตุไม่ได้น่ะสิ
+204,Menus_UI_Settings,249,1028,27838,"Righto, which accessory do you want me to grind down for you<FH>",เอาล่ะ อยากให้ยายช่วยบดสลายเครื่องประดับชิ้นไหนให้จ๊ะ<FH>
+204,Menus_UI_Settings,250,1032,27902,"I'm afraid that one's a little special, love. Too special to grind down, that's for certain.",ยายว่าชิ้นนั้นมันพิเศษไปหน่อยนะจ๊ะพ่อคุณ พิเศษเกินกว่าจะเอามาบดสลายได้แน่นอนจ้ะ
+204,Menus_UI_Settings,251,1036,27995,"Alright. Which one would you like to enhance, dearie<FH>",ได้เลย อยากเสริมพลังชิ้นไหนล่ะจ๊ะคนดี<FH>
+204,Menus_UI_Settings,252,1040,28051,"Sorry love, but it looks like that accessory's had all the alchemising it can take<FG>",ขอโทษทีนะจ๊ะพ่อคุณ แต่ดูเหมือนเครื่องประดับชิ้นนั้นจะเสริมพลังจนถึงขีดจำกัดแล้วล่ะ<FG>
+204,Menus_UI_Settings,253,1044,28137,How would you like to enhance it<FH>,อยากเสริมพลังแบบไหนดีจ๊ะ<FH>
+204,Menus_UI_Settings,254,1048,28173,"Sorry duckie, but you don't seem to have the right bits and pieces for that. You'll need all the ingredients and enough gold coins...",ขอโทษทีนะจ๊ะคนดี แต่ดูเหมือนเธอจะไม่มีวัตถุดิบและชิ้นส่วนที่ถูกต้องสำหรับทำนะ ต้องมีทั้งวัตถุดิบและเหรียญทองให้ครบด้วยจ้ะ...
+204,Menus_UI_Settings,255,1052,28307,"You've jumped the gun a little there, I'm afraid. That accessory's not ready for that enhancement just yet.",ยายว่าเธอใจร้อนเกินไปหน่อยแล้วล่ะจ้ะ เครื่องประดับชิ้นนั้นยังไม่พร้อมสำหรับการเสริมพลังขั้นนั้นหรอกนะ
 204,Menus_UI_Settings,256,1056,28415,UNUSED,
-204,Menus_UI_Settings,257,1060,28422,"Well, dearie<FH> Shall we pop those ingredients in the pot and get enhancing<FH>",
-204,Menus_UI_Settings,258,1064,28501,There we are<FG> All done<FG>,
-204,Menus_UI_Settings,259,1068,28529,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it any further...,
-204,Menus_UI_Settings,260,1072,28660,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it...,
-204,Menus_UI_Settings,261,1076,28779,"What special powder's that, you ask<FH> Oh, I make it by grinding down accessories. It's for extra-advanced alchemy only<FG>",
-204,Menus_UI_Settings,262,1080,28902,"If you've any accessories you don't need, why not try getting me to grind them down for you<FH> Waste not, want not, and all that<FG>",
-204,Menus_UI_Settings,263,1084,29034,"Oh, and just so you know, the more enhancements an accessory has, the more powder I'll be able to get out of it.",
-204,Menus_UI_Settings,264,1088,29147,"And don't you worry about my old arms getting tired<MV>it's all part of the service, duckie<FG>",
-204,Menus_UI_Settings,265,1092,29241,"What would you like me to grind down for you, love<FH>",
-204,Menus_UI_Settings,266,1096,29295,"Hang on, someone's got that accessory equipped<FG> Are you sure you want me to grind it down<FH>",
-204,Menus_UI_Settings,267,1100,29390,"Grinding <EH>E1those<EI>01that<EJ>01 down will get you <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01. Does that sound good to you, duckie<FH>",
-204,Menus_UI_Settings,268,1104,29513,"Looks like you're a little short on gold, duckie. You need <E5>O1one gold coin<E6>01%d gold coins<E7>01.",
-204,Menus_UI_Settings,269,1108,29615,Aren't you using this for another vocation<FH> Are you sure you want to grind it down<FH>,
-204,Menus_UI_Settings,270,1112,29703,There we are<FG> All lovely and powdery for you<FG>,
-204,Menus_UI_Settings,271,1116,29753,Is there anything else I can help with<FH>,
-204,Menus_UI_Settings,272,1120,29795,"Come back whenever you feel like doing a spot of alchemy, won't you<FG>",
-204,Menus_UI_Settings,273,1124,29866,"The alchemy pot's always bubbling away ready for fine, upstanding citizens like yourself, dearie<FG>",
-204,Menus_UI_Settings,274,1128,29966,"With celebrities like you for regulars, my humble little hut'll be the talk of the town before long<FG> Don't be a stranger now, duckie<FG>",
-204,Menus_UI_Settings,275,1132,30104,"If I've helped you even a little way on the path to hero-hood, that's enough for me, duckie<FG> See you again soon<FG>",
-204,Menus_UI_Settings,276,1136,30221,"Hello, and welcome to the Quester's Rest, where intrepid adventurers from all over the world gather and go forth<FG>",
-204,Menus_UI_Settings,277,1140,30337,"I'm still getting things ready, but we'll be open for business soon<FG>",
-204,Menus_UI_Settings,278,1144,30408,"In multiplayer mode, your online ID and name will become visible to other people you are playing with.",
-204,Menus_UI_Settings,279,1148,30511,"Also, if other players choose to share or stream their gameplay, your online ID and name may become visible via those sharing/streaming services.",
-204,Menus_UI_Settings,280,1152,30657,Do you agree to share your online ID and name with other players and/or the public while in multiplayer mode<FH>,
-204,Menus_UI_Settings,281,1156,30769,"Thank you<FG> You're now free to cooperate with other players in dimensional dungeons, which can be visited from the Quester's Rest.",
-204,Menus_UI_Settings,282,1160,30901,"You can also ask other players to help with story battles, and offer to help others with story battles you've already completed.",
-204,Menus_UI_Settings,283,1164,31030,"To ask for help with a story battle, simply select the relevant option before the battle begins.",
-204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,
-204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",
+204,Menus_UI_Settings,257,1060,28422,"Well, dearie<FH> Shall we pop those ingredients in the pot and get enhancing<FH>",เอาล่ะ คนดี<FH> เรามาหย่อนวัตถุดิบลงหม้อแล้วเริ่มเสริมพลังกันเลยไหมจ๊ะ<FH>
+204,Menus_UI_Settings,258,1064,28501,There we are<FG> All done<FG>,เรียบร้อยแล้วจ้ะ<FG> เสร็จสมบูรณ์<FG>
+204,Menus_UI_Settings,259,1068,28529,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it any further...,แหม... ดูเหมือนเธอจะได้เครื่องประดับที่ต้องใช้ผงพิเศษของยาย ถ้าอยากจะเสริมพลังมันให้สูงขึ้นไปอีกล่ะนะ...
+204,Menus_UI_Settings,260,1072,28660,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it...,แหม... ดูเหมือนเธอจะได้เครื่องประดับที่ต้องใช้ผงพิเศษของยาย ถ้าอยากจะเสริมพลังมันล่ะนะ...
+204,Menus_UI_Settings,261,1076,28779,"What special powder's that, you ask<FH> Oh, I make it by grinding down accessories. It's for extra-advanced alchemy only<FG>",ผงพิเศษอะไรเหรอจ๊ะที่เธอถาม<FH> อ๋อ ยายทำมันจากการบดสลายเครื่องประดับน่ะ มันมีไว้สำหรับการเล่นแร่แปรธาตุขั้นสูงพิเศษเท่านั้นนะจ๊ะ<FG>
+204,Menus_UI_Settings,262,1080,28902,"If you've any accessories you don't need, why not try getting me to grind them down for you<FH> Waste not, want not, and all that<FG>",ถ้าเธอมีเครื่องประดับที่ไม่ใช้แล้ว ทำไมไม่ลองเอามันมาให้ยายช่วยบดสลายให้ล่ะจ๊ะ<FH> ของไม่ทิ้งขว้างก็มีประโยชน์ทั้งนั้นแหละนะ<FG>
+204,Menus_UI_Settings,263,1084,29034,"Oh, and just so you know, the more enhancements an accessory has, the more powder I'll be able to get out of it.",อ้อ แล้วก็จำไว้นะ ยิ่งเครื่องประดับชิ้นนั้นผ่านการเสริมพลังมามากเท่าไหร่ ยายก็ยิ่งบดออกมาเป็นผงได้เยอะขึ้นเท่านั้นนะจ๊ะ
+204,Menus_UI_Settings,264,1088,29147,"And don't you worry about my old arms getting tired<MV>it's all part of the service, duckie<FG>",แล้วก็ไม่ต้องห่วงว่าแขนคนแก่ของยายจะล้าหรอกนะ<MV>มันเป็นส่วนหนึ่งของการบริการอยู่แล้วจ้ะคนดี<FG>
+204,Menus_UI_Settings,265,1092,29241,"What would you like me to grind down for you, love<FH>",อยากให้ยายบดสลายชิ้นไหนให้จ๊ะพ่อคุณ<FH>
+204,Menus_UI_Settings,266,1096,29295,"Hang on, someone's got that accessory equipped<FG> Are you sure you want me to grind it down<FH>",เดี๋ยวก่อนสิ มีคนกำลังสวมเครื่องประดับชิ้นนั้นอยู่นะจ๊ะ<FG> แน่ใจนะว่าอยากให้ยายบดมันน่ะ<FH>
+204,Menus_UI_Settings,267,1100,29390,"Grinding <EH>E1those<EI>01that<EJ>01 down will get you <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01. Does that sound good to you, duckie<FH>",การบดสลายชิ้นนั้นจะได้ <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 ฟังดูดีไหมจ๊ะคนดี<FH>
+204,Menus_UI_Settings,268,1104,29513,"Looks like you're a little short on gold, duckie. You need <E5>O1one gold coin<E6>01%d gold coins<E7>01.",ดูเหมือนเหรียญทองจะไม่พอนะจ๊ะคนดี เธอต้องใช้ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 จ้ะ
+204,Menus_UI_Settings,269,1108,29615,Aren't you using this for another vocation<FH> Are you sure you want to grind it down<FH>,เธอไม่ได้ใช้ชิ้นนี้กับอีกอาชีพหนึ่งอยู่เหรอจ๊ะ<FH> แน่ใจนะว่าอยากจะบดมันน่ะ<FH>
+204,Menus_UI_Settings,270,1112,29703,There we are<FG> All lovely and powdery for you<FG>,เรียบร้อยแล้วจ้ะ<FG> บดเป็นผงละเอียดสวยงามให้แล้วนะจ๊ะ<FG>
+204,Menus_UI_Settings,271,1116,29753,Is there anything else I can help with<FH>,มีอะไรอื่นให้ยายช่วยอีกไหมจ๊ะ<FH>
+204,Menus_UI_Settings,272,1120,29795,"Come back whenever you feel like doing a spot of alchemy, won't you<FG>",แวะมาใหม่ได้เสมอเมื่อไหร่ก็ตามที่อยากเล่นแร่แปรธาตุนะจ๊ะ<FG>
+204,Menus_UI_Settings,273,1124,29866,"The alchemy pot's always bubbling away ready for fine, upstanding citizens like yourself, dearie<FG>",หม้อเล่นแร่แปรธาตุใบนี้ต้มเดือดปุด ๆ รอคอยคนดีมีเกียรติอย่างเธอเสมอจ้ะคนดี<FG>
+204,Menus_UI_Settings,274,1128,29966,"With celebrities like you for regulars, my humble little hut'll be the talk of the town before long<FG> Don't be a stranger now, duckie<FG>",มีคนดังอย่างเธอมาเป็นลูกค้าประจำแบบนี้ กระท่อมซอมซ่อของยายคงกลายเป็นขี้ปากคนทั้งเมืองในไม่ช้าแน่ ๆ<FG> อย่าลืมแวะมาบ่อย ๆ นะจ๊ะคนดี<FG>
+204,Menus_UI_Settings,275,1132,30104,"If I've helped you even a little way on the path to hero-hood, that's enough for me, duckie<FG> See you again soon<FG>",ถ้ายายได้ช่วยเธอสักนิดบนเส้นทางสู่การเป็นผู้กล้า แค่นี้ก็เพียงพอสำหรับยายแล้วจ้ะคนดี<FG> ไว้พบกันใหม่นะจ๊ะ<FG>
+204,Menus_UI_Settings,276,1136,30221,"Hello, and welcome to the Quester's Rest, where intrepid adventurers from all over the world gather and go forth<FG>",สวัสดีค่ะ และยินดีต้อนรับสู่เควสเตอร์ส เรสต์ สถานที่ที่เหล่านักผจญภัยผู้กล้าหาญจากทั่วทุกมุมโลกมารวมตัวและออกเดินทางไปด้วยกันค่ะ<FG>
+204,Menus_UI_Settings,277,1140,30337,"I'm still getting things ready, but we'll be open for business soon<FG>",ตอนนี้ฉันกำลังเตรียมความพร้อมอยู่ค่ะ แต่เราจะเปิดให้บริการในเร็ว ๆ นี้นะคะ<FG>
+204,Menus_UI_Settings,278,1144,30408,"In multiplayer mode, your online ID and name will become visible to other people you are playing with.",ในโหมดผู้เล่นหลายคน (Multiplayer) ไอดีและชื่อออนไลน์ของคุณจะแสดงให้ผู้เล่นอื่นที่คุณร่วมเล่นด้วยมองเห็น
+204,Menus_UI_Settings,279,1148,30511,"Also, if other players choose to share or stream their gameplay, your online ID and name may become visible via those sharing/streaming services.",นอกจากนี้ หากผู้เล่นคนอื่นเลือกที่จะแชร์หรือถ่ายทอดสด (Stream) การเล่นเกม ไอดีและชื่อออนไลน์ของคุณอาจปรากฏผ่านบริการแชร์หรือสตรีมมิ่งเหล่านั้นได้
+204,Menus_UI_Settings,280,1152,30657,Do you agree to share your online ID and name with other players and/or the public while in multiplayer mode<FH>,คุณยินยอมที่จะแชร์ไอดีและชื่อออนไลน์ของคุณกับผู้เล่นคนอื่น และ/หรือต่อสาธารณะในขณะอยู่ในโหมดผู้เล่นหลายคนหรือไม่<FH>
+204,Menus_UI_Settings,281,1156,30769,"Thank you<FG> You're now free to cooperate with other players in dimensional dungeons, which can be visited from the Quester's Rest.",ขอบคุณค่ะ<FG> ตอนนี้คุณสามารถร่วมมือกับผู้เล่นคนอื่นในดันเจี้ยนมิติ ซึ่งสามารถเดินทางไปได้จากเควสเตอร์ส เรสต์แห่งนี้ค่ะ
+204,Menus_UI_Settings,282,1160,30901,"You can also ask other players to help with story battles, and offer to help others with story battles you've already completed.",คุณยังสามารถขอความช่วยเหลือจากผู้เล่นคนอื่นในการต่อสู้ตามเนื้อเรื่อง หรือเสนอตัวไปช่วยเหลือคนอื่นในการต่อสู้ที่คุณเคยเคลียร์มาแล้วได้ด้วยค่ะ
+204,Menus_UI_Settings,283,1164,31030,"To ask for help with a story battle, simply select the relevant option before the battle begins.",หากต้องการขอความช่วยเหลือในการต่อสู้ตามเนื้อเรื่อง เพียงเลือกตัวเลือกที่เกี่ยวข้องก่อนเริ่มการต่อสู้ค่ะ
+204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,พวกเรารอคอยที่จะได้พบคุณอีกครั้งเมื่อเปิดให้บริการอย่างเป็นทางการนะคะ<FG>
+204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",ขออภัยด้วยนะคะ เรายังจัดเตรียมสถานที่อยู่ค่ะ แต่จะเปิดให้บริการเร็ว ๆ นี้ ไว้แวะมาใหม่เมื่อเราพร้อมให้บริการนะคะ<FG>
 204,Menus_UI_Settings,286,1176,31316,UNUSED,
-204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",
-204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,
-204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",
-204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",
-204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",
+204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึงสามคนค่ะ
+204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,การเข้าสู่ดันเจี้ยนมิติจะเริ่มจากห้องที่เรียกว่า 'ล็อบบี้' คุณสามารถเข้าร่วมห้องเหล่านี้ได้สามวิธีค่ะ
+204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล (Call to Arms)' ค่ะ
+204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล (Answer the Call)' ค่ะ
+204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",และวิธีสุดท้าย หากคุณต้องการเริ่มลุยให้เร็วที่สุด ก็เพียงเลือก 'ให้เอรินน์จัดการ (Leave it to Erinn)' แล้วฉันจะช่วยจัดเตรียมทุกอย่างให้คุณเองค่ะ<FG>
 204,Menus_UI_Settings,292,1200,31924,UNUSED,
-204,Menus_UI_Settings,293,1204,31931,"Okay, that's all the paperwork done<FG> Sit tight while I take you to the world between dimensions<FG>",
-204,Menus_UI_Settings,294,1208,32032,Select the part of the story you'd like to help with.,
-204,Menus_UI_Settings,295,1212,32086,"I've found some adventurers looking for people like you<FG> If you want to search again, press the <P3> button.",
-204,Menus_UI_Settings,296,1216,32196,That's a pity... I couldn't find anything that fit the bill. Try changing your conditions or creating your own lobby instead.,
-204,Menus_UI_Settings,297,1220,32322,Your request to join has been accepted<FG> Sit tight while I take you to the world between dimensions<FG>,
-204,Menus_UI_Settings,298,1224,32426,Oh no<FG> It looks like your message about wanting to join didn't get through. I'll try and look again for you.,
-204,Menus_UI_Settings,299,1228,32537,What kind of thing are you looking for<FH>,
-204,Menus_UI_Settings,300,1232,32579,Which lobby do you want to go with<FH>,
-204,Menus_UI_Settings,301,1236,32617,"Okay, if you'd like to enter your secret number...",
-204,Menus_UI_Settings,302,1240,32668,Choose which lobby to go and help out in.,
-204,Menus_UI_Settings,303,1244,32710,"Sorry, it looks like that lobby isn't looking for help right now. Try another one<FG>",
-204,Menus_UI_Settings,304,1248,32795,"Oh, I'm sorry<MV>it looks like you're not far enough through the story to help out in that lobby.",
-204,Menus_UI_Settings,305,1252,32892,<I0>M1 is looking for help with ‘<I0>M2’.,
-204,Menus_UI_Settings,306,1256,32936,Do you want to go to this lobby and help out<FH>,
+204,Menus_UI_Settings,293,1204,31931,"Okay, that's all the paperwork done<FG> Sit tight while I take you to the world between dimensions<FG>",เอาล่ะ เอกสารทุกอย่างเรียบร้อยแล้วค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะพาคุณไปยังโลกระหว่างมิติค่ะ<FG>
+204,Menus_UI_Settings,294,1208,32032,Select the part of the story you'd like to help with.,เลือกส่วนของเนื้อเรื่องที่คุณต้องการไปช่วยเหลือค่ะ
+204,Menus_UI_Settings,295,1212,32086,"I've found some adventurers looking for people like you<FG> If you want to search again, press the <P3> button.",ฉันพบเหล่านักผจญภัยที่กำลังมองหาคนอย่างคุณแล้วค่ะ<FG> หากต้องการค้นหาใหม่อีกครั้ง ให้กดปุ่ม <P3> นะคะ
+204,Menus_UI_Settings,296,1216,32196,That's a pity... I couldn't find anything that fit the bill. Try changing your conditions or creating your own lobby instead.,น่าเสียดายจัง... ฉันไม่พบล็อบบี้ที่ตรงตามเงื่อนไขเลยค่ะ ลองเปลี่ยนเงื่อนไขหรือสร้างล็อบบี้ของคุณเองดูนะคะ
+204,Menus_UI_Settings,297,1220,32322,Your request to join has been accepted<FG> Sit tight while I take you to the world between dimensions<FG>,คำขอเข้าร่วมของคุณได้รับการตอบรับแล้วค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะพาคุณไปยังโลกระหว่างมิติค่ะ<FG>
+204,Menus_UI_Settings,298,1224,32426,Oh no<FG> It looks like your message about wanting to join didn't get through. I'll try and look again for you.,แย่จัง<FG> ดูเหมือนข้อความขอเข้าร่วมของคุณจะส่งไปไม่ถึงค่ะ เดี๋ยวฉันจะลองค้นหาใหม่อีกครั้งให้นะคะ
+204,Menus_UI_Settings,299,1228,32537,What kind of thing are you looking for<FH>,คุณกำลังมองหาล็อบบี้แบบไหนอยู่เหรอคะ<FH>
+204,Menus_UI_Settings,300,1232,32579,Which lobby do you want to go with<FH>,ต้องการเข้าร่วมล็อบบี้ไหนดีคะ<FH>
+204,Menus_UI_Settings,301,1236,32617,"Okay, if you'd like to enter your secret number...",ได้เลยค่ะ โปรดป้อนหมายเลขลับของคุณ...
+204,Menus_UI_Settings,302,1240,32668,Choose which lobby to go and help out in.,เลือกล็อบบี้ที่คุณต้องการเข้าไปช่วยเหลือค่ะ
+204,Menus_UI_Settings,303,1244,32710,"Sorry, it looks like that lobby isn't looking for help right now. Try another one<FG>",ขออภัยด้วยนะคะ ดูเหมือนล็อบบี้นั้นจะไม่ได้ต้องการความช่วยเหลือในตอนนี้แล้ว ลองห้องอื่นดูนะคะ<FG>
+204,Menus_UI_Settings,304,1248,32795,"Oh, I'm sorry<MV>it looks like you're not far enough through the story to help out in that lobby.",โอ้ ขอโทษด้วยนะคะ<MV>ดูเหมือนคุณจะดำเนินเนื้อเรื่องไปไม่ไกลพอที่จะเข้าไปช่วยเหลือในล็อบบี้นั้นได้ค่ะ
+204,Menus_UI_Settings,305,1252,32892,<I0>M1 is looking for help with ‘<I0>M2’.,<I0>M1 กำลังมองหาคนช่วยใน ‘<I0>M2’ ค่ะ
+204,Menus_UI_Settings,306,1256,32936,Do you want to go to this lobby and help out<FH>,ต้องการไปที่ล็อบบี้นี้เพื่อช่วยเหลือหรือไม่คะ<FH>
 204,Menus_UI_Settings,307,1260,32984,UNUSED,
 204,Menus_UI_Settings,308,1264,32991,UNUSED,
-204,Menus_UI_Settings,309,1268,32998,"This is your first visit, isn't it<FH> Alright, we just need to do a little paperwork first<FG>",
-204,Menus_UI_Settings,310,1272,33092,You'll need to decide what name you want to use when visiting other dimensions. Bear in mind that other people will be able to see it.,
-204,Menus_UI_Settings,311,1276,33227,"So that's...<I0>41... Alright, just putting that down... Lovely<FG> Thank you very much<FG>",
-204,Menus_UI_Settings,312,1280,33316,How can I help you today<FH>,
-204,Menus_UI_Settings,313,1284,33344,"Oh, you've got a quicksilver key<FG> Lucky you<MV>that means you can visit a quicksilver colony<FG>",
-204,Menus_UI_Settings,314,1288,33441,"Alright, choose which map you'd like to use.",
-204,Menus_UI_Settings,315,1292,33486,"Ever so sorry, but I can't let you use that map unless everyone in your party has reached at least Level %d...",
-204,Menus_UI_Settings,316,1296,33597,"Okay, <I0>M1 it is. Are you ready to go<FH>",
-204,Menus_UI_Settings,317,1300,33639,Alright<FG> Bon voyage<FG>,
-204,Menus_UI_Settings,318,1304,33664,"Now, if you'd like to choose one of the following...",
-204,Menus_UI_Settings,319,1308,33717,"Let's put together some details of what you're looking for, shall we<FH> If you'd like to fill out this form for me...",
-204,Menus_UI_Settings,320,1312,33835,Which mode would you like to play in<FH>,
-204,Menus_UI_Settings,321,1316,33875,"Go ahead and pick a map, please.",
-204,Menus_UI_Settings,322,1320,33908,"Go ahead and pick a map, please.",
-204,Menus_UI_Settings,323,1324,33941,Choose a few words or phrases to describe your lobby.,
-204,Menus_UI_Settings,324,1328,33995,"Thanks<FG> Sit tight a moment, and I'll have everything ready in a jiffy.",
-204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",
-204,Menus_UI_Settings,326,1336,34175,"Alright, that's everything<FG> Let's see if I can find a match for you, shall we<FH>",
+204,Menus_UI_Settings,309,1268,32998,"This is your first visit, isn't it<FH> Alright, we just need to do a little paperwork first<FG>",นี่เป็นการมาเยือนครั้งแรกใช่ไหมคะ<FH> เอาล่ะ เราต้องจัดการเอกสารเล็ก ๆ น้อย ๆ กันก่อนนะคะ<FG>
+204,Menus_UI_Settings,310,1272,33092,You'll need to decide what name you want to use when visiting other dimensions. Bear in mind that other people will be able to see it.,คุณต้องตัดสินใจว่าจะใช้ชื่ออะไรในการเดินทางข้ามมิติ โปรดจำไว้ว่าผู้เล่นคนอื่นจะสามารถมองเห็นชื่อนี้ได้นะคะ
+204,Menus_UI_Settings,311,1276,33227,"So that's...<I0>41... Alright, just putting that down... Lovely<FG> Thank you very much<FG>",ชื่อนั้นคือ... <I0>41... ได้เลยค่ะ ขอจดบันทึกไว้ก่อนนะคะ... เรียบร้อยค่ะ<FG> ขอบคุณมากนะคะ<FG>
+204,Menus_UI_Settings,312,1280,33316,How can I help you today<FH>,วันนี้มีอะไรให้ฉันช่วยเหลือดีคะ<FH>
+204,Menus_UI_Settings,313,1284,33344,"Oh, you've got a quicksilver key<FG> Lucky you<MV>that means you can visit a quicksilver colony<FG>",โอ้ คุณมีกุญแจควิกซิลเวอร์คีย์ด้วย<FG> โชคดีจังเลยค่ะ<MV>นั่นหมายความว่าคุณสามารถไปเยือนอาณานิคมควิกซิลเวอร์ได้นะคะ<FG>
+204,Menus_UI_Settings,314,1288,33441,"Alright, choose which map you'd like to use.",เอาล่ะ โปรดเลือกแผนที่ที่คุณต้องการใช้ค่ะ
+204,Menus_UI_Settings,315,1292,33486,"Ever so sorry, but I can't let you use that map unless everyone in your party has reached at least Level %d...",ต้องขออภัยจริง ๆ นะคะ แต่ฉันให้คุณใช้แผนที่นั้นไม่ได้ จนกว่าทุกคนในปาร์ตี้จะมีเลเวลอย่างน้อยเลเวล %d ค่ะ...
+204,Menus_UI_Settings,316,1296,33597,"Okay, <I0>M1 it is. Are you ready to go<FH>",ตกลงค่ะ เลือก <I0>M1 นะคะ พร้อมออกเดินทางแล้วหรือยังคะ<FH>
+204,Menus_UI_Settings,317,1300,33639,Alright<FG> Bon voyage<FG>,ได้เลยค่ะ<FG> ขอให้เดินทางโดยสวัสดิภาพนะคะ<FG>
+204,Menus_UI_Settings,318,1304,33664,"Now, if you'd like to choose one of the following...",เอาล่ะ โปรดเลือกรายการต่อไปนี้ค่ะ...
+204,Menus_UI_Settings,319,1308,33717,"Let's put together some details of what you're looking for, shall we<FH> If you'd like to fill out this form for me...",เรามากำหนดรายละเอียดของสิ่งที่คุณกำลังค้นหากันดีกว่าไหมคะ<FH> โปรดกรอกแบบฟอร์มนี้ให้ฉันหน่อยนะคะ...
+204,Menus_UI_Settings,320,1312,33835,Which mode would you like to play in<FH>,ต้องการเล่นในโหมดใดคะ<FH>
+204,Menus_UI_Settings,321,1316,33875,"Go ahead and pick a map, please.",โปรดเลือกแผนที่ได้เลยค่ะ
+204,Menus_UI_Settings,322,1320,33908,"Go ahead and pick a map, please.",โปรดเลือกแผนที่ได้เลยค่ะ
+204,Menus_UI_Settings,323,1324,33941,Choose a few words or phrases to describe your lobby.,เลือกคำหรือข้อความเพื่ออธิบายล็อบบี้ของคุณค่ะ
+204,Menus_UI_Settings,324,1328,33995,"Thanks<FG> Sit tight a moment, and I'll have everything ready in a jiffy.",ขอบคุณค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะเตรียมทุกอย่างให้เสร็จในพริบตาเดียวค่ะ
+204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",<F4><I0>M1 นะคะ<FH> ได้แน่นอนค่ะ เพียงกรอกรายละเอียดอื่น ๆ ที่คุณต้องการ แล้วฉันจะเริ่มดำเนินการให้ทันทีค่ะ
+204,Menus_UI_Settings,326,1336,34175,"Alright, that's everything<FG> Let's see if I can find a match for you, shall we<FH>",เอาล่ะ ครบทุกอย่างแล้วค่ะ<FG> มาดูกันนะคะว่าฉันจะค้นหาห้องที่เข้ากับคุณได้ไหม<FH>
 204,Menus_UI_Settings,327,1340,34258,UNUSED,
-204,Menus_UI_Settings,328,1344,34265,We've sent a request for you to join that lobby. Please wait a moment...,
-204,Menus_UI_Settings,329,1348,34338,"You'd like to change your online name<FH> Not to worry, I have a form for that too. Just jot a name down in the box there.",
-204,Menus_UI_Settings,330,1352,34460,You haven't chosen a destination yet. You'll need to choose one before you can go off adventuring.,
-204,Menus_UI_Settings,331,1356,34559,You're not at the right level yet. You'll have to change character if you want to go there.,
-204,Menus_UI_Settings,332,1360,34651,Are you ready to set off<FH>,
-204,Menus_UI_Settings,333,1364,34679,Your companions are still getting ready. Please wait a little while.,
-204,Menus_UI_Settings,334,1368,34748,Do you need more time to prepare<FH>,
-204,Menus_UI_Settings,335,1372,34784,"Right, all set<FG> Time to embark on your interdimensional adventure<FG>",
-204,Menus_UI_Settings,336,1376,34855,Thank you very much<FG>,
-204,Menus_UI_Settings,337,1380,34878,Thank you very much<FG> Well-known adventurers like yourself are always welcome at the Quester's Rest<FG> See you again soon<FG>,
-204,Menus_UI_Settings,338,1384,35004,Thank you very much<FG> It's a real honour to count the hero of the realm among our regulars<FG> See you again soon<FG>,
-204,Menus_UI_Settings,339,1388,35121,How else can I help you<FH>,
-204,Menus_UI_Settings,340,1392,35148,"It's <I0>41, isn't it<FH> Hello<FG> What can I do for you today<FH>",
-204,Menus_UI_Settings,341,1396,35212,"Oh, welcome back, <I0>41<FG> This is quite the honour<FG> What can I do for you today<FH>",
-204,Menus_UI_Settings,342,1400,35298,"Welcome back, <I0>41<FG> It's an honour to have such an esteemed guest. What can I do for you today<FH>",
-204,Menus_UI_Settings,343,1404,35399,"Before you set out on your journey, don't forget to sort out details like your character, equipment, vocation and abilities<FG>",
-204,Menus_UI_Settings,344,1408,35526,"Once you've got everything organised, you can set out from the door behind you. Bon voyage<FG>",
-204,Menus_UI_Settings,345,1412,35620,"Oh, you've changed your mind<FH> Alright, no problem.",
-204,Menus_UI_Settings,346,1416,35673,"I'm sorry, but I'm afraid you can't use that name. Would you mind going with something else<FH>",
-204,Menus_UI_Settings,347,1420,35768,Setting a secret number lets you make sure only other people who know that number can join you.,
-204,Menus_UI_Settings,348,1424,35864,"If you want to set up a game with friends, agree on a number beforehand, and you can go adventuring together in private.",
-204,Menus_UI_Settings,349,1428,35985,"Likewise, you'll sometimes come across a lobby where the owner has set a secret number of their own.",
-204,Menus_UI_Settings,350,1432,36086,"You won't be able to join them if you don't know it, so if you're planning to work together, be sure to find out the number first.",
-204,Menus_UI_Settings,351,1436,36217,Right<FG> Time to choose which room you'd like to enter<FG>,
-204,Menus_UI_Settings,352,1440,36275,"Okay, I'll take care of this. Just leave it to me and the powers of my Traveller's Tome, and I'll see who I can find for you<FG>",
-204,Menus_UI_Settings,353,1444,36403,"Right, that's everything set up. I'll let you know when it's all ready, so feel free to carry on adventuring in the meantime<FG>",
-204,Menus_UI_Settings,354,1448,36531,"Oh, you've changed your mind<FH> Alright, no problem.",
-204,Menus_UI_Settings,355,1452,36584,Which map do you want to change to<FH>,
-204,Menus_UI_Settings,356,1456,36622,"I'll change your destination to <I0>M1, then.\nIs that right<FH>",
-204,Menus_UI_Settings,357,1460,36684,"Okay, I've changed your destination to <I0>M1. Have a nice trip<FG>",
-204,Menus_UI_Settings,358,1464,36750,"...Sorry, I wasn't able to change your destination for some reason. Would you mind trying again in a little while<FH>",
-204,Menus_UI_Settings,359,1468,36867,"I'm ever so sorry, but only the host can change the destination of this lobby.",
-204,Menus_UI_Settings,360,1472,36946,"I'm ever so sorry, but the destination of this lobby can't be changed.",
-204,Menus_UI_Settings,361,1476,37017,"You'd like to change where this lobby leads to<FH> Alright, but if you remember, you specified a destination on your recruitment sheet too.",
-204,Menus_UI_Settings,362,1480,37156,"If you don't mind, I'll take the liberty of updating it there as well.",
-204,Menus_UI_Settings,363,1484,37227,Hello and welcome to the world between dimensions<FG>,
-204,Menus_UI_Settings,364,1488,37280,Are you sure you want to leave the world between dimensions<FH>,
-204,Menus_UI_Settings,365,1492,37343,"Alright, let's get you home. Give me a few moments...",
-204,Menus_UI_Settings,366,1496,37397,Welcome back<FG>,
-204,Menus_UI_Settings,367,1500,37413,Welcome back<FG> Did you have a nice time in the dimensional dungeons<FH>,
-204,Menus_UI_Settings,368,1504,37485,Welcome back<FG> Did you have fun in the dimensional dungeons<FH>,
-204,Menus_UI_Settings,369,1508,37549,"If you'd like to go back to the same dungeon, just walk back through the door behind you. If you'd like to go somewhere else, let me know<FG>",
-204,Menus_UI_Settings,370,1512,37690,Welcome back<FG> I hope you were able to help that adventurer in need.,
-204,Menus_UI_Settings,371,1516,37760,It's possible to set a secret number for this lobby if you like. Do you want to<FH>,
-204,Menus_UI_Settings,372,1520,37843,You can use the number to make sure that only your friends can join you. But you'll have to remember to let them know what it is<FG>,
-204,Menus_UI_Settings,373,1524,37975,I'm afraid you'll need to know what the secret number is before you can enter this lobby.,
-204,Menus_UI_Settings,374,1528,38065,"If you know the host, ask nicely and they might just tell you<FG>",
-204,Menus_UI_Settings,375,1532,38130,"Right, let's see what we can find for you, shall we<FH>",
-204,Menus_UI_Settings,376,1536,38185,"Okay, I'm passing on your request. Just a moment, please.",
-204,Menus_UI_Settings,377,1540,38243,I'm terribly sorry. I wasn't able to get in touch with the host.,
-204,Menus_UI_Settings,378,1544,38308,"Okay, I'll just get your new lobby ready for you. One moment, please...",
-204,Menus_UI_Settings,379,1548,38380,Your network connection was lost. Returning to your world...,
-204,Menus_UI_Settings,380,1552,38441,"Unfortunately, it wasn't possible to create your lobby.",
-204,Menus_UI_Settings,381,1556,38497,A network error occurred.,
-204,Menus_UI_Settings,382,1560,38523,"Unfortunately, it wasn't possible to sign you in.",
-204,Menus_UI_Settings,383,1564,38573,"Unfortunately, it wasn't possible to access the server.",
-204,Menus_UI_Settings,384,1568,38629,Who would you like to use<FH>,
-204,Menus_UI_Settings,385,1572,38658,Which vocation would you like to set for <F4><I0>41<FH>,
-204,Menus_UI_Settings,386,1576,38711,Looks like you've got the hang of how things work around here<FG> Why don't I give you a little something to make it easier in future<FH>,
-204,Menus_UI_Settings,387,1580,38847,"Here, it's called a Traveller's Tome. I hope you'll make good use of it<FG>",
-204,Menus_UI_Settings,388,1584,38922,<F4><I0>00 receives a Traveller's Tome<FG>,
-204,Menus_UI_Settings,389,1588,38962,"Here at the Quester's Rest, we send adventurers off to dungeons in other dimensions using magical maps.",
-204,Menus_UI_Settings,390,1592,39066,"To commemorate your first visit, here's a free map of your very own<FG> The dungeon this one leads to is great for beginners<FG>",
-204,Menus_UI_Settings,391,1596,39193,<F4><I0>00 receives the <I0>M1 map<FG>,
-204,Menus_UI_Settings,392,1600,39228,I'm afraid I'm going to have to suspend any calls or answers to arms you have open via the Traveller's Tome. Sorry for the bother.,
-204,Menus_UI_Settings,393,1604,39359,"Ah, <I0>41. How can I help<FH>",
-204,Menus_UI_Settings,394,1608,39388,"Alright, see you shortly<FG>",
-204,Menus_UI_Settings,395,1612,39416,"Welcome to the Quester's Rest, where you can use magical maps to travel to dungeons in other dimensions<FG>",
-204,Menus_UI_Settings,396,1616,39523,Pop by whenever you feel like taking another trip to a dimensional dungeon<FG> See you soon<FG>,
-204,Menus_UI_Settings,397,1620,39617,What would you like to claim<FH>,
-204,Menus_UI_Settings,398,1624,39649,"I'm terribly sorry, but there aren't any bonus balls waiting for you.",
-204,Menus_UI_Settings,399,1628,39719,"I'm terribly sorry, but there aren't any quicksilver keys waiting for you.",
-204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,
+204,Menus_UI_Settings,328,1344,34265,We've sent a request for you to join that lobby. Please wait a moment...,เราได้ส่งคำขอเข้าร่วมล็อบบี้นั้นไปแล้วค่ะ โปรดรอสักครู่...
+204,Menus_UI_Settings,329,1348,34338,"You'd like to change your online name<FH> Not to worry, I have a form for that too. Just jot a name down in the box there.",ต้องการเปลี่ยนชื่อออนไลน์งั้นเหรอคะ<FH> ไม่ต้องกังวลค่ะ ฉันมีแบบฟอร์มให้กรอกเช่นกัน เพียงเขียนชื่อลงในช่องตรงนั้นได้เลยค่ะ
+204,Menus_UI_Settings,330,1352,34460,You haven't chosen a destination yet. You'll need to choose one before you can go off adventuring.,คุณยังไม่ได้เลือกจุดหมายปลายทางเลยค่ะ ต้องเลือกก่อนจึงจะออกไปผจญภัยได้นะคะ
+204,Menus_UI_Settings,331,1356,34559,You're not at the right level yet. You'll have to change character if you want to go there.,เลเวลของคุณยังไม่ถึงเกณฑ์ค่ะ คุณต้องเปลี่ยนตัวละครหากต้องการไปที่นั่นนะคะ
+204,Menus_UI_Settings,332,1360,34651,Are you ready to set off<FH>,พร้อมออกเดินทางแล้วหรือยังคะ<FH>
+204,Menus_UI_Settings,333,1364,34679,Your companions are still getting ready. Please wait a little while.,เพื่อนร่วมทางของคุณกำลังเตรียมตัวอยู่ค่ะ โปรดรอสักครู่นะคะ
+204,Menus_UI_Settings,334,1368,34748,Do you need more time to prepare<FH>,ต้องการเวลาเตรียมตัวเพิ่มเติมหรือไม่คะ<FH>
+204,Menus_UI_Settings,335,1372,34784,"Right, all set<FG> Time to embark on your interdimensional adventure<FG>",เอาล่ะ พร้อมหมดแล้วค่ะ<FG> ถึงเวลาออกเดินทางสู่การผจญภัยข้ามมิติแล้วค่ะ<FG>
+204,Menus_UI_Settings,336,1376,34855,Thank you very much<FG>,ขอบคุณมากนะคะ<FG>
+204,Menus_UI_Settings,337,1380,34878,Thank you very much<FG> Well-known adventurers like yourself are always welcome at the Quester's Rest<FG> See you again soon<FG>,ขอบคุณมากนะคะ<FG> นักผจญภัยชื่อดังอย่างคุณ ยินดีต้อนรับสู่เควสเตอร์ส เรสต์เสมอค่ะ<FG> ไว้พบกันใหม่นะคะ<FG>
+204,Menus_UI_Settings,338,1384,35004,Thank you very much<FG> It's a real honour to count the hero of the realm among our regulars<FG> See you again soon<FG>,ขอบคุณมากนะคะ<FG> เป็นเกียรติจริง ๆ ที่ได้ต้อนรับท่านผู้กล้าแห่งอาณาจักรเป็นลูกค้าประจำค่ะ<FG> ไว้พบกันใหม่นะคะ<FG>
+204,Menus_UI_Settings,339,1388,35121,How else can I help you<FH>,มีสิ่งใดอื่นให้ฉันช่วยเหลืออีกไหมคะ<FH>
+204,Menus_UI_Settings,340,1392,35148,"It's <I0>41, isn't it<FH> Hello<FG> What can I do for you today<FH>",คุณ <I0>41 ใช่ไหมคะ<FH> สวัสดีค่ะ<FG> วันนี้มีอะไรให้ฉันรับใช้ดีคะ<FH>
+204,Menus_UI_Settings,341,1396,35212,"Oh, welcome back, <I0>41<FG> This is quite the honour<FG> What can I do for you today<FH>",โอ้ ยินดีต้อนรับกลับมาค่ะ คุณ <I0>41<FG> เป็นเกียรติจริง ๆ ค่ะ<FG> วันนี้มีอะไรให้ฉันรับใช้ดีคะ<FH>
+204,Menus_UI_Settings,342,1400,35298,"Welcome back, <I0>41<FG> It's an honour to have such an esteemed guest. What can I do for you today<FH>",ยินดีต้อนรับกลับมาค่ะ คุณ <I0>41<FG> ช่างเป็นเกียรติที่ได้ต้อนรับแขกผู้ทรงเกียรติเช่นนี้ วันนี้มีอะไรให้ฉันรับใช้ดีคะ<FH>
+204,Menus_UI_Settings,343,1404,35399,"Before you set out on your journey, don't forget to sort out details like your character, equipment, vocation and abilities<FG>","ก่อนออกเดินทาง อย่าลืมตรวจสอบรายละเอียดอย่างตัวละคร, อุปกรณ์สวมใส่, อาชีพ และท่าความสามารถให้เรียบร้อยนะคะ<FG>"
+204,Menus_UI_Settings,344,1408,35526,"Once you've got everything organised, you can set out from the door behind you. Bon voyage<FG>",เมื่อเตรียมทุกอย่างพร้อมแล้ว คุณสามารถออกเดินทางผ่านประตูบานข้างหลังได้เลยค่ะ ขอให้เดินทางปลอดภัยนะคะ<FG>
+204,Menus_UI_Settings,345,1412,35620,"Oh, you've changed your mind<FH> Alright, no problem.",อ้าว เปลี่ยนใจแล้วเหรอคะ<FH> ไม่เป็นไรเลยค่ะ ไม่มีปัญหา
+204,Menus_UI_Settings,346,1416,35673,"I'm sorry, but I'm afraid you can't use that name. Would you mind going with something else<FH>",ขออภัยด้วยนะคะ แต่ดูเหมือนคุณจะใช้ชื่อนั้นไม่ได้ ช่วยเปลี่ยนเป็นชื่ออื่นได้ไหมคะ<FH>
+204,Menus_UI_Settings,347,1420,35768,Setting a secret number lets you make sure only other people who know that number can join you.,การตั้งหมายเลขลับจะช่วยให้มั่นใจได้ว่ามีเพียงคนที่รู้หมายเลขนี้เท่านั้นที่จะเข้าร่วมกับคุณได้ค่ะ
+204,Menus_UI_Settings,348,1424,35864,"If you want to set up a game with friends, agree on a number beforehand, and you can go adventuring together in private.",หากคุณต้องการเล่นกับเพื่อน ให้ตกลงหมายเลขกันไว้ล่วงหน้า แล้วคุณจะสามารถออกผจญภัยด้วยกันแบบส่วนตัวได้ค่ะ
+204,Menus_UI_Settings,349,1428,35985,"Likewise, you'll sometimes come across a lobby where the owner has set a secret number of their own.",ในทางกลับกัน บางครั้งคุณอาจเจอล็อบบี้ที่เจ้าของห้องตั้งหมายเลขลับของตนเองไว้เช่นกันค่ะ
+204,Menus_UI_Settings,350,1432,36086,"You won't be able to join them if you don't know it, so if you're planning to work together, be sure to find out the number first.",คุณจะไม่สามารถเข้าร่วมได้หากไม่ทราบหมายเลข ดังนั้นหากวางแผนจะเล่นด้วยกัน อย่าลืมถามหมายเลขลับมาก่อนนะคะ
+204,Menus_UI_Settings,351,1436,36217,Right<FG> Time to choose which room you'd like to enter<FG>,เอาล่ะค่ะ<FG> ถึงเวลาเลือกว่าต้องการเข้าห้องใดแล้วค่ะ<FG>
+204,Menus_UI_Settings,352,1440,36275,"Okay, I'll take care of this. Just leave it to me and the powers of my Traveller's Tome, and I'll see who I can find for you<FG>",ได้เลยค่ะ เดี๋ยวฉันจัดการให้เอง ปล่อยให้เป็นหน้าที่ของฉันและพลังแห่งบันทึกนักเดินทาง แล้วฉันจะดูให้ว่ามีใครที่คุณร่วมทางด้วยได้บ้างนะคะ<FG>
+204,Menus_UI_Settings,353,1444,36403,"Right, that's everything set up. I'll let you know when it's all ready, so feel free to carry on adventuring in the meantime<FG>",เอาล่ะ ทุกอย่างพร้อมแล้วค่ะ เมื่อพร้อมทั้งหมดฉันจะแจ้งให้ทราบ ระหว่างนี้ผจญภัยตามสบายได้เลยนะคะ<FG>
+204,Menus_UI_Settings,354,1448,36531,"Oh, you've changed your mind<FH> Alright, no problem.",อ้าว เปลี่ยนใจแล้วเหรอคะ<FH> ได้เลยค่ะ ไม่มีปัญหา
+204,Menus_UI_Settings,355,1452,36584,Which map do you want to change to<FH>,ต้องการเปลี่ยนเป็นแผนที่ใดคะ<FH>
+204,Menus_UI_Settings,356,1456,36622,"I'll change your destination to <I0>M1, then.\nIs that right<FH>",งั้นฉันจะเปลี่ยนจุดหมายปลายทางเป็น <I0>M1 นะคะ\nถูกต้องหรือไม่คะ<FH>
+204,Menus_UI_Settings,357,1460,36684,"Okay, I've changed your destination to <I0>M1. Have a nice trip<FG>",เรียบร้อยค่ะ ฉันเปลี่ยนจุดหมายเป็น <I0>M1 ให้แล้ว ขอให้เดินทางให้สนุกนะคะ<FG>
+204,Menus_UI_Settings,358,1464,36750,"...Sorry, I wasn't able to change your destination for some reason. Would you mind trying again in a little while<FH>",...ขออภัยด้วยนะคะ ไม่สามารถเปลี่ยนจุดหมายปลายทางได้ด้วยเหตุผลบางประการ ช่วยลองใหม่อีกครั้งในอีกสักครู่ได้ไหมคะ<FH>
+204,Menus_UI_Settings,359,1468,36867,"I'm ever so sorry, but only the host can change the destination of this lobby.",ต้องขออภัยจริง ๆ นะคะ แต่มีเพียงหัวหน้าห้อง (Host) เท่านั้นที่สามารถเปลี่ยนจุดหมายปลายทางของล็อบบี้นี้ได้ค่ะ
+204,Menus_UI_Settings,360,1472,36946,"I'm ever so sorry, but the destination of this lobby can't be changed.",ต้องขออภัยจริง ๆ นะคะ แต่จุดหมายปลายทางของล็อบบี้นี้ไม่สามารถเปลี่ยนแปลงได้ค่ะ
+204,Menus_UI_Settings,361,1476,37017,"You'd like to change where this lobby leads to<FH> Alright, but if you remember, you specified a destination on your recruitment sheet too.",ต้องการเปลี่ยนจุดหมายของล็อบบี้นี้งั้นเหรอคะ<FH> ได้ค่ะ แต่ถ้ายังจำได้ คุณระบุจุดหมายไว้ในใบประกาศรับสมัครด้วยนะคะ
+204,Menus_UI_Settings,362,1480,37156,"If you don't mind, I'll take the liberty of updating it there as well.",หากไม่ขัดข้อง ฉันขออนุญาตอัปเดตข้อมูลตรงจุดนั้นให้ด้วยเลยนะคะ
+204,Menus_UI_Settings,363,1484,37227,Hello and welcome to the world between dimensions<FG>,สวัสดีค่ะ และยินดีต้อนรับสู่โลกระหว่างมิติค่ะ<FG>
+204,Menus_UI_Settings,364,1488,37280,Are you sure you want to leave the world between dimensions<FH>,แน่ใจหรือไม่คะว่าต้องการออกจากโลกระหว่างมิติ<FH>
+204,Menus_UI_Settings,365,1492,37343,"Alright, let's get you home. Give me a few moments...",ได้เลยค่ะ เดี๋ยวฉันพาคุณกลับบ้านนะคะ ขอเวลาสักครู่...
+204,Menus_UI_Settings,366,1496,37397,Welcome back<FG>,ยินดีต้อนรับกลับมาค่ะ<FG>
+204,Menus_UI_Settings,367,1500,37413,Welcome back<FG> Did you have a nice time in the dimensional dungeons<FH>,ยินดีต้อนรับกลับมาค่ะ<FG> สนุกกับการผจญภัยในดันเจี้ยนมิติไหมคะ<FH>
+204,Menus_UI_Settings,368,1504,37485,Welcome back<FG> Did you have fun in the dimensional dungeons<FH>,ยินดีต้อนรับกลับมาค่ะ<FG> ได้รับความสนุกสนานในดันเจี้ยนมิติไหมคะ<FH>
+204,Menus_UI_Settings,369,1508,37549,"If you'd like to go back to the same dungeon, just walk back through the door behind you. If you'd like to go somewhere else, let me know<FG>",หากต้องการกลับไปดันเจี้ยนเดิม เพียงเดินกลับเข้าประตูบานข้างหลังได้เลยค่ะ หรือหากต้องการไปที่อื่น โปรดบอกฉันนะคะ<FG>
+204,Menus_UI_Settings,370,1512,37690,Welcome back<FG> I hope you were able to help that adventurer in need.,ยินดีต้อนรับกลับมาค่ะ<FG> หวังว่าคุณจะช่วยเหลือเพื่อนนักผจญภัยคนนั้นได้สำเร็จนะคะ
+204,Menus_UI_Settings,371,1516,37760,It's possible to set a secret number for this lobby if you like. Do you want to<FH>,คุณสามารถตั้งหมายเลขลับสำหรับล็อบบี้นี้ได้นะคะ ต้องการตั้งค่าหรือไม่คะ<FH>
+204,Menus_UI_Settings,372,1520,37843,You can use the number to make sure that only your friends can join you. But you'll have to remember to let them know what it is<FG>,คุณสามารถใช้หมายเลขนี้เพื่อให้มั่นใจว่ามีเพียงเพื่อนของคุณเท่านั้นที่จะเข้าร่วมได้ แต่อย่าลืมบอกหมายเลขให้เพื่อนทราบด้วยนะคะ<FG>
+204,Menus_UI_Settings,373,1524,37975,I'm afraid you'll need to know what the secret number is before you can enter this lobby.,ดูเหมือนคุณต้องทราบหมายเลขลับก่อนจึงจะสามารถเข้าสู่ล็อบบี้นี้ได้ค่ะ
+204,Menus_UI_Settings,374,1528,38065,"If you know the host, ask nicely and they might just tell you<FG>",หากคุณรู้จักกับหัวหน้าห้อง ลองถามเขาดี ๆ เขาอาจจะบอกคุณก็ได้นะคะ<FG>
+204,Menus_UI_Settings,375,1532,38130,"Right, let's see what we can find for you, shall we<FH>",เอาล่ะ มาดูกันนะคะว่าเราจะพบห้องไหนให้คุณบ้าง<FH>
+204,Menus_UI_Settings,376,1536,38185,"Okay, I'm passing on your request. Just a moment, please.",ได้เลยค่ะ ฉันกำลังส่งคำขอของคุณไปให้นะคะ โปรดรอสักครู่ค่ะ
+204,Menus_UI_Settings,377,1540,38243,I'm terribly sorry. I wasn't able to get in touch with the host.,ต้องขออภัยเป็นอย่างยิ่งค่ะ ฉันไม่สามารถติดต่อกับหัวหน้าห้องได้ค่ะ
+204,Menus_UI_Settings,378,1544,38308,"Okay, I'll just get your new lobby ready for you. One moment, please...",ได้เลยค่ะ เดี๋ยวฉันจะเตรียมล็อบบี้ใหม่ให้คุณนะคะ โปรดรอสักครู่...
+204,Menus_UI_Settings,379,1548,38380,Your network connection was lost. Returning to your world...,การเชื่อมต่อเครือข่ายขาดหาย กำลังพากลับสู่โลกของคุณ...
+204,Menus_UI_Settings,380,1552,38441,"Unfortunately, it wasn't possible to create your lobby.",ขออภัยด้วยค่ะ ไม่สามารถสร้างล็อบบี้ของคุณได้
+204,Menus_UI_Settings,381,1556,38497,A network error occurred.,เกิดข้อผิดพลาดในการเชื่อมต่อเครือข่าย
+204,Menus_UI_Settings,382,1560,38523,"Unfortunately, it wasn't possible to sign you in.",ขออภัยด้วยค่ะ ไม่สามารถลงชื่อเข้าใช้ให้คุณได้
+204,Menus_UI_Settings,383,1564,38573,"Unfortunately, it wasn't possible to access the server.",ขออภัยด้วยค่ะ ไม่สามารถเข้าถึงเซิร์ฟเวอร์ได้
+204,Menus_UI_Settings,384,1568,38629,Who would you like to use<FH>,ต้องการใช้ตัวละครใดคะ<FH>
+204,Menus_UI_Settings,385,1572,38658,Which vocation would you like to set for <F4><I0>41<FH>,ต้องการกำหนดอาชีพใดให้กับ <F4><I0>41 คะ<FH>
+204,Menus_UI_Settings,386,1576,38711,Looks like you've got the hang of how things work around here<FG> Why don't I give you a little something to make it easier in future<FH>,ดูเหมือนคุณจะเริ่มคุ้นเคยกับระบบที่นี่แล้วนะคะ<FG> ฉันขอมอบของเล็ก ๆ น้อย ๆ เพื่อให้สะดวกขึ้นในอนาคตดีกว่าไหมคะ<FH>
+204,Menus_UI_Settings,387,1580,38847,"Here, it's called a Traveller's Tome. I hope you'll make good use of it<FG>",นี่ค่ะ สิ่งนี้เรียกว่า บันทึกนักเดินทาง (Traveller's Tome) หวังว่าคุณจะใช้ประโยชน์จากมันได้เป็นอย่างดีนะคะ<FG>
+204,Menus_UI_Settings,388,1584,38922,<F4><I0>00 receives a Traveller's Tome<FG>,<F4><I0>00 ได้รับบันทึกนักเดินทาง (Traveller's Tome)<FG>
+204,Menus_UI_Settings,389,1588,38962,"Here at the Quester's Rest, we send adventurers off to dungeons in other dimensions using magical maps.",ที่เควสเตอร์ส เรสต์แห่งนี้ เราส่งเหล่านักผจญภัยไปยังดันเจี้ยนในมิติอื่นโดยใช้แผนที่เวทมนตร์ค่ะ
+204,Menus_UI_Settings,390,1592,39066,"To commemorate your first visit, here's a free map of your very own<FG> The dungeon this one leads to is great for beginners<FG>",เพื่อเป็นที่ระลึกในการมาเยือนครั้งแรก นี่คือแผนที่ฟรีของคุณเองค่ะ<FG> ดันเจี้ยนที่แผนที่นี้นำไปนั้นเหมาะสำหรับผู้เริ่มต้นอย่างยิ่งเลยค่ะ<FG>
+204,Menus_UI_Settings,391,1596,39193,<F4><I0>00 receives the <I0>M1 map<FG>,<F4><I0>00 ได้รับแผนที่ <I0>M1<FG>
+204,Menus_UI_Settings,392,1600,39228,I'm afraid I'm going to have to suspend any calls or answers to arms you have open via the Traveller's Tome. Sorry for the bother.,ดูเหมือนฉันจำเป็นต้องระงับการระดมพลหรือการตอบรับการระดมพลที่คุณเปิดไว้ผ่านบันทึกนักเดินทางชั่วคราวนะคะ ขออภัยในความไม่สะดวกด้วยค่ะ
+204,Menus_UI_Settings,393,1604,39359,"Ah, <I0>41. How can I help<FH>",อ๊ะ คุณ <I0>41 มีอะไรให้ฉันช่วยคะ<FH>
+204,Menus_UI_Settings,394,1608,39388,"Alright, see you shortly<FG>",ได้เลยค่ะ ไว้พบกันใหม่ในไม่ช้านะคะ<FG>
+204,Menus_UI_Settings,395,1612,39416,"Welcome to the Quester's Rest, where you can use magical maps to travel to dungeons in other dimensions<FG>",ยินดีต้อนรับสู่เควสเตอร์ส เรสต์ สถานที่ที่คุณสามารถใช้แผนที่เวทมนตร์เดินทางสู่ดันเจี้ยนในมิติอื่นได้ค่ะ<FG>
+204,Menus_UI_Settings,396,1616,39523,Pop by whenever you feel like taking another trip to a dimensional dungeon<FG> See you soon<FG>,แวะมาได้เสมอเมื่อไหร่ก็ตามที่อยากไปเยือนดันเจี้ยนมิตินะคะ<FG> ไว้พบกันใหม่ค่ะ<FG>
+204,Menus_UI_Settings,397,1620,39617,What would you like to claim<FH>,ต้องการรับรางวัลใดหรือคะ<FH>
+204,Menus_UI_Settings,398,1624,39649,"I'm terribly sorry, but there aren't any bonus balls waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีโบนัสบอลรอคุณอยู่เลยค่ะ
+204,Menus_UI_Settings,399,1628,39719,"I'm terribly sorry, but there aren't any quicksilver keys waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีกุญแจควิกซิลเวอร์คีย์รอคุณอยู่เลยค่ะ
+204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1โบนัสบอล 1 ลูก<E6>01โบนัสบอล <GR>1 ลูก<E7>01 นะคะ
 204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",
 204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,
 204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",
