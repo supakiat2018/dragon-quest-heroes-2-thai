@@ -20271,1658 +20271,1658 @@
 99,Stats_Attributes,1597,6424,14145,,
 99,Stats_Attributes,1598,6428,14146,,
 99,Stats_Attributes,1599,6432,14147,,
-106,Materials_Items,0,36,6756,horse manure,
-106,Materials_Items,1,40,6769,horse manure,
-106,Materials_Items,2,44,6782,An equine extra that exudes a pungent perfume.,
-106,Materials_Items,3,48,6829,dollops of horse manure,
+106,Materials_Items,0,36,6756,horse manure,มูลม้า
+106,Materials_Items,1,40,6769,horse manure,มูลม้า
+106,Materials_Items,2,44,6782,An equine extra that exudes a pungent perfume.,ของเสียจากม้าที่ส่งกลิ่นฉุนรุนแรงเป็นเอกลักษณ์
+106,Materials_Items,3,48,6829,dollops of horse manure,มูลม้า
 106,Materials_Items,4,52,6853,the ,
 106,Materials_Items,5,56,6858,the ,
 106,Materials_Items,6,60,6863,a dollop of ,
 106,Materials_Items,7,64,6876,some ,
-106,Materials_Items,8,68,6882,salt of the earth,
-106,Materials_Items,9,72,6900,salt of the earth,
-106,Materials_Items,10,76,6918,A superb seasoning that lends any food a fine flavour.,
-106,Materials_Items,11,80,6973,pinches of salt of the earth,
+106,Materials_Items,8,68,6882,salt of the earth,เกลือบริสุทธิ์
+106,Materials_Items,9,72,6900,salt of the earth,เกลือบริสุทธิ์
+106,Materials_Items,10,76,6918,A superb seasoning that lends any food a fine flavour.,เครื่องปรุงชั้นยอดที่ช่วยชูรสชาติให้อาหารทุกจานเอร็ดอร่อย
+106,Materials_Items,11,80,6973,pinches of salt of the earth,เกลือบริสุทธิ์
 106,Materials_Items,12,84,7002,the ,
 106,Materials_Items,13,88,7007,the ,
 106,Materials_Items,14,92,7012,a pinch of ,
 106,Materials_Items,15,96,7024,some ,
-106,Materials_Items,16,100,7030,iron nails,
-106,Materials_Items,17,104,7041,iron nails,
-106,Materials_Items,18,108,7052,"Seriously sharp, rust-resistant iron nails.",
-106,Materials_Items,19,112,7096,bags of iron nails,
+106,Materials_Items,16,100,7030,iron nails,ตะปูเหล็ก
+106,Materials_Items,17,104,7041,iron nails,ตะปูเหล็ก
+106,Materials_Items,18,108,7052,"Seriously sharp, rust-resistant iron nails.",ตะปูเหล็กกันสนิมที่มีความแหลมคมอย่างยิ่ง
+106,Materials_Items,19,112,7096,bags of iron nails,ตะปูเหล็ก
 106,Materials_Items,20,116,7115,the ,
 106,Materials_Items,21,120,7120,the ,
 106,Materials_Items,22,124,7125,a bag of ,
 106,Materials_Items,23,128,7135,some ,
-106,Materials_Items,24,132,7141,butterfly wing,
-106,Materials_Items,25,136,7156,butterfly wing,
-106,Materials_Items,26,140,7171,"The light, lustrous wing of a fluttering thing.",
-106,Materials_Items,27,144,7219,butterfly wings,
+106,Materials_Items,24,132,7141,butterfly wing,ปีกผีเสื้อ
+106,Materials_Items,25,136,7156,butterfly wing,ปีกผีเสื้อ
+106,Materials_Items,26,140,7171,"The light, lustrous wing of a fluttering thing.",ปีกอันบางเบาและเปล่งประกายของสิ่งมีชีวิตที่โบยบิน
+106,Materials_Items,27,144,7219,butterfly wings,ปีกผีเสื้อ
 106,Materials_Items,28,148,7235,the ,
 106,Materials_Items,29,152,7240,the ,
 106,Materials_Items,30,156,7245,a ,
 106,Materials_Items,31,160,7248,some ,
-106,Materials_Items,32,164,7254,cruel claw,
-106,Materials_Items,33,168,7265,cruel claw,
-106,Materials_Items,34,172,7276,A curved claw that comes in differing dimensions.,
-106,Materials_Items,35,176,7326,cruel claws,
+106,Materials_Items,32,164,7254,cruel claw,กรงเล็บสังหาร
+106,Materials_Items,33,168,7265,cruel claw,กรงเล็บสังหาร
+106,Materials_Items,34,172,7276,A curved claw that comes in differing dimensions.,กรงเล็บโค้งงอที่มีหลากหลายขนาด
+106,Materials_Items,35,176,7326,cruel claws,กรงเล็บสังหาร
 106,Materials_Items,36,180,7338,the ,
 106,Materials_Items,37,184,7343,the ,
 106,Materials_Items,38,188,7348,a ,
 106,Materials_Items,39,192,7351,some ,
-106,Materials_Items,40,196,7357,nectar,
-106,Materials_Items,41,200,7364,nectar,
-106,Materials_Items,42,204,7371,The sweet-smelling essence of a flower in bloom.,
-106,Materials_Items,43,208,7420,phials of nectar,
+106,Materials_Items,40,196,7357,nectar,น้ำหวานดอกไม้
+106,Materials_Items,41,200,7364,nectar,น้ำหวานดอกไม้
+106,Materials_Items,42,204,7371,The sweet-smelling essence of a flower in bloom.,แก่นแท้กลิ่นหอมหวานของดอกไม้ยามผลิบาน
+106,Materials_Items,43,208,7420,phials of nectar,น้ำหวานดอกไม้
 106,Materials_Items,44,212,7437,the ,
 106,Materials_Items,45,216,7442,the ,
 106,Materials_Items,46,220,7447,a phial of ,
 106,Materials_Items,47,224,7459,some ,
-106,Materials_Items,48,228,7465,manky mud,
-106,Materials_Items,49,232,7475,manky mud,
-106,Materials_Items,50,236,7485,Dangerous dirt that's totally toxic. Do not touch.,
-106,Materials_Items,51,240,7536,splats of manky mud,
+106,Materials_Items,48,228,7465,manky mud,โคลนพิษเน่าเปื่อย
+106,Materials_Items,49,232,7475,manky mud,โคลนพิษเน่าเปื่อย
+106,Materials_Items,50,236,7485,Dangerous dirt that's totally toxic. Do not touch.,ดินสกปรกอันตรายที่เต็มไปด้วยพิษร้าย ห้ามสัมผัสเด็ดขาด
+106,Materials_Items,51,240,7536,splats of manky mud,โคลนพิษเน่าเปื่อย
 106,Materials_Items,52,244,7556,the ,
 106,Materials_Items,53,248,7561,the ,
 106,Materials_Items,54,252,7566,a splat of ,
 106,Materials_Items,55,256,7578,some ,
-106,Materials_Items,56,260,7584,kitty litter,
-106,Materials_Items,57,264,7597,kitty litter,
-106,Materials_Items,58,268,7610,A peculiar powder that purring pets apparently prefer.,
-106,Materials_Items,59,272,7665,bags of kitty litter,
+106,Materials_Items,56,260,7584,kitty litter,ทรายแมว
+106,Materials_Items,57,264,7597,kitty litter,ทรายแมว
+106,Materials_Items,58,268,7610,A peculiar powder that purring pets apparently prefer.,ผงแป้งประหลาดที่สัตว์เลี้ยงตระกูลแมวโปรดปราน
+106,Materials_Items,59,272,7665,bags of kitty litter,ทรายแมว
 106,Materials_Items,60,276,7686,the ,
 106,Materials_Items,61,280,7691,the ,
 106,Materials_Items,62,284,7696,a bag of ,
 106,Materials_Items,63,288,7706,some ,
-106,Materials_Items,64,292,7712,narspicious,
-106,Materials_Items,65,296,7724,narspicious,
-106,Materials_Items,66,300,7736,A peculiar plant with an untrustworthy air.,
-106,Materials_Items,67,304,7780,narspiciouses,
+106,Materials_Items,64,292,7712,narspicious,หญ้าพิศวง
+106,Materials_Items,65,296,7724,narspicious,หญ้าพิศวง
+106,Materials_Items,66,300,7736,A peculiar plant with an untrustworthy air.,พืชหน้าตาประหลาดที่ดูไม่น่าไว้วางใจ
+106,Materials_Items,67,304,7780,narspiciouses,หญ้าพิศวง
 106,Materials_Items,68,308,7794,the ,
 106,Materials_Items,69,312,7799,the ,
 106,Materials_Items,70,316,7804,a ,
 106,Materials_Items,71,320,7807,some ,
-106,Materials_Items,72,324,7813,lava lump,
-106,Materials_Items,73,328,7823,lava lump,
-106,Materials_Items,74,332,7833,A pyroclastic rock flung from a fiery volcano.,
-106,Materials_Items,75,336,7880,lava lumps,
+106,Materials_Items,72,324,7813,lava lump,ก้อนลาวา
+106,Materials_Items,73,328,7823,lava lump,ก้อนลาวา
+106,Materials_Items,74,332,7833,A pyroclastic rock flung from a fiery volcano.,หินหลอมเหลวจากภูเขาไฟอันร้อนระอุ
+106,Materials_Items,75,336,7880,lava lumps,ก้อนลาวา
 106,Materials_Items,76,340,7891,the ,
 106,Materials_Items,77,344,7896,the ,
 106,Materials_Items,78,348,7901,a ,
 106,Materials_Items,79,352,7904,some ,
-106,Materials_Items,80,356,7910,thinkincense,
-106,Materials_Items,81,360,7923,thinkincense,
-106,Materials_Items,82,364,7936,A peculiar plant with an enlightening odour.,
-106,Materials_Items,83,368,7981,clumps of thinkincense,
+106,Materials_Items,80,356,7910,thinkincense,ธูปปัญญา
+106,Materials_Items,81,360,7923,thinkincense,ธูปปัญญา
+106,Materials_Items,82,364,7936,A peculiar plant with an enlightening odour.,พืชกลิ่นประหลาดที่ช่วยให้สมองปลอดโปร่ง
+106,Materials_Items,83,368,7981,clumps of thinkincense,ธูปปัญญา
 106,Materials_Items,84,372,8004,the ,
 106,Materials_Items,85,376,8009,the ,
 106,Materials_Items,86,380,8014,a clump of ,
 106,Materials_Items,87,384,8026,some ,
-106,Materials_Items,88,388,8032,flintstone,
-106,Materials_Items,89,392,8043,flintstone,
-106,Materials_Items,90,396,8054,A rock that's just right for setting off sparks.,
-106,Materials_Items,91,400,8103,pieces of flintstone,
+106,Materials_Items,88,388,8032,flintstone,หินเหล็กไฟ
+106,Materials_Items,89,392,8043,flintstone,หินเหล็กไฟ
+106,Materials_Items,90,396,8054,A rock that's just right for setting off sparks.,หินที่เหมาะอย่างยิ่งสำหรับการจุดประกายไฟ
+106,Materials_Items,91,400,8103,pieces of flintstone,หินเหล็กไฟ
 106,Materials_Items,92,404,8124,the ,
 106,Materials_Items,93,408,8129,the ,
 106,Materials_Items,94,412,8134,a piece of ,
 106,Materials_Items,95,416,8146,some ,
-106,Materials_Items,96,420,8152,glass frit,
-106,Materials_Items,97,424,8163,glass frit,
-106,Materials_Items,98,428,8174,Gentle grit that's perfect for polishing.,
-106,Materials_Items,99,432,8216,pinches of glass frits,
+106,Materials_Items,96,420,8152,glass frit,ทรายแก้วขัดเงา
+106,Materials_Items,97,424,8163,glass frit,ทรายแก้วขัดเงา
+106,Materials_Items,98,428,8174,Gentle grit that's perfect for polishing.,ผงทรายเนื้อละเอียดที่สมบูรณ์แบบสำหรับการขัดเงา
+106,Materials_Items,99,432,8216,pinches of glass frits,ทรายแก้วขัดเงา
 106,Materials_Items,100,436,8239,the ,
 106,Materials_Items,101,440,8244,the ,
 106,Materials_Items,102,444,8249,a pinch of ,
 106,Materials_Items,103,448,8261,some ,
-106,Materials_Items,104,452,8267,fresh milk,
-106,Materials_Items,105,456,8278,fresh milk,
-106,Materials_Items,106,460,8289,"Freshly squeezed cow's milk, straight from the udder.",
-106,Materials_Items,107,464,8343,bottles of fresh milk,
+106,Materials_Items,104,452,8267,fresh milk,นมสด
+106,Materials_Items,105,456,8278,fresh milk,นมสด
+106,Materials_Items,106,460,8289,"Freshly squeezed cow's milk, straight from the udder.",นมวัวคั้นสดใหม่จากเต้า
+106,Materials_Items,107,464,8343,bottles of fresh milk,นมสด
 106,Materials_Items,108,468,8365,the ,
 106,Materials_Items,109,472,8370,the ,
 106,Materials_Items,110,476,8375,a bottle of ,
 106,Materials_Items,111,480,8388,some ,
-106,Materials_Items,112,484,8394,sturdy stick,
-106,Materials_Items,113,488,8407,sturdy stick,
-106,Materials_Items,114,492,8420,A gnarled and knotty tree branch found in the forest.,
-106,Materials_Items,115,496,8474,sturdy sticks,
+106,Materials_Items,112,484,8394,sturdy stick,กิ่งไม้แข็งแรง
+106,Materials_Items,113,488,8407,sturdy stick,กิ่งไม้แข็งแรง
+106,Materials_Items,114,492,8420,A gnarled and knotty tree branch found in the forest.,กิ่งไม้เนื้อแน่นขรุขระที่พบได้ตามผืนป่า
+106,Materials_Items,115,496,8474,sturdy sticks,กิ่งไม้แข็งแรง
 106,Materials_Items,116,500,8488,the ,
 106,Materials_Items,117,504,8493,the ,
 106,Materials_Items,118,508,8498,a ,
 106,Materials_Items,119,512,8501,some ,
-106,Materials_Items,120,516,8507,wing of bat,
-106,Materials_Items,121,520,8519,wing of bat,
-106,Materials_Items,122,524,8531,The big black wing of a big black bat.,
-106,Materials_Items,123,528,8570,wings of bat,
+106,Materials_Items,120,516,8507,wing of bat,ปีกค้างคาว
+106,Materials_Items,121,520,8519,wing of bat,ปีกค้างคาว
+106,Materials_Items,122,524,8531,The big black wing of a big black bat.,ปีกสีดำขนาดใหญ่ของค้างคาวทมิฬ
+106,Materials_Items,123,528,8570,wings of bat,ปีกค้างคาว
 106,Materials_Items,124,532,8583,the ,
 106,Materials_Items,125,536,8588,the ,
 106,Materials_Items,126,540,8593,a ,
 106,Materials_Items,127,544,8596,some ,
-106,Materials_Items,128,548,8602,grubby bandage,
-106,Materials_Items,129,552,8617,grubby bandage,
-106,Materials_Items,130,556,8632,A slightly soiled dressing much loved by mummies.,
-106,Materials_Items,131,560,8682,grubby bandages,
+106,Materials_Items,128,548,8602,grubby bandage,ผ้าพันแผลเปื้อนฝุ่น
+106,Materials_Items,129,552,8617,grubby bandage,ผ้าพันแผลเปื้อนฝุ่น
+106,Materials_Items,130,556,8632,A slightly soiled dressing much loved by mummies.,ผ้าพันแผลมอมแมมของโปรดของเหล่ามัมมี่
+106,Materials_Items,131,560,8682,grubby bandages,ผ้าพันแผลเปื้อนฝุ่น
 106,Materials_Items,132,564,8698,the ,
 106,Materials_Items,133,568,8703,the ,
 106,Materials_Items,134,572,8708,a ,
 106,Materials_Items,135,576,8711,some ,
-106,Materials_Items,136,580,8717,iron ore,
-106,Materials_Items,137,584,8726,iron ore,
-106,Materials_Items,138,588,8735,A ferrous fragment that can be melted to make metal.,
-106,Materials_Items,139,592,8788,lumps of iron ore,
+106,Materials_Items,136,580,8717,iron ore,แร่เหล็ก
+106,Materials_Items,137,584,8726,iron ore,แร่เหล็ก
+106,Materials_Items,138,588,8735,A ferrous fragment that can be melted to make metal.,เศษแร่โลหะที่สามารถนำไปหลอมสร้างเป็นเหล็กกล้าได้
+106,Materials_Items,139,592,8788,lumps of iron ore,แร่เหล็ก
 106,Materials_Items,140,596,8806,the ,
 106,Materials_Items,141,600,8811,the ,
 106,Materials_Items,142,604,8816,a lump of ,
 106,Materials_Items,143,608,8827,some ,
-106,Materials_Items,144,612,8833,slipweed,
-106,Materials_Items,145,616,8842,slipweed,
-106,Materials_Items,146,620,8851,A plant so slippery it's problematic to pick up.,
-106,Materials_Items,147,624,8900,bunches of slipweed,
+106,Materials_Items,144,612,8833,slipweed,หญ้าลื่นไหล
+106,Materials_Items,145,616,8842,slipweed,หญ้าลื่นไหล
+106,Materials_Items,146,620,8851,A plant so slippery it's problematic to pick up.,พืชที่ลื่นมือมากจนหยิบจับได้ยากลำบาก
+106,Materials_Items,147,624,8900,bunches of slipweed,หญ้าลื่นไหล
 106,Materials_Items,148,628,8920,the ,
 106,Materials_Items,149,632,8925,the ,
 106,Materials_Items,150,636,8930,a bunch of ,
 106,Materials_Items,151,640,8942,some ,
-106,Materials_Items,152,644,8948,mirrorstone,
-106,Materials_Items,153,648,8960,mirrorstone,
-106,Materials_Items,154,652,8972,A resplendent rock that reflects light like a mirror.,
-106,Materials_Items,155,656,9026,lumps of mirrorstone,
+106,Materials_Items,152,644,8948,mirrorstone,หินกระจกเงา
+106,Materials_Items,153,648,8960,mirrorstone,หินกระจกเงา
+106,Materials_Items,154,652,8972,A resplendent rock that reflects light like a mirror.,หินสะท้อนแสงแวววาวที่สะท้อนภาพได้ดั่งกระจก
+106,Materials_Items,155,656,9026,lumps of mirrorstone,หินกระจกเงา
 106,Materials_Items,156,660,9047,the ,
 106,Materials_Items,157,664,9052,the ,
 106,Materials_Items,158,668,9057,a lump of ,
 106,Materials_Items,159,672,9068,some ,
-106,Materials_Items,160,676,9074,sizeable seashell,
-106,Materials_Items,161,680,9092,sizeable seashell,
-106,Materials_Items,162,684,9110,A seashell a seashell-seller saw on the seashore.,
-106,Materials_Items,163,688,9160,sizeable seashells,
+106,Materials_Items,160,676,9074,sizeable seashell,เปลือกหอยยักษ์
+106,Materials_Items,161,680,9092,sizeable seashell,เปลือกหอยยักษ์
+106,Materials_Items,162,684,9110,A seashell a seashell-seller saw on the seashore.,เปลือกหอยขนาดใหญ่พิเศษที่พบได้ตามแนวชายหาด
+106,Materials_Items,163,688,9160,sizeable seashells,เปลือกหอยยักษ์
 106,Materials_Items,164,692,9179,the ,
 106,Materials_Items,165,696,9184,the ,
 106,Materials_Items,166,700,9189,a ,
 106,Materials_Items,167,704,9192,some ,
-106,Materials_Items,168,708,9198,emerald moss,
-106,Materials_Items,169,712,9211,emerald moss,
-106,Materials_Items,170,716,9224,A vividly verdant mass of moist moss.,
-106,Materials_Items,171,720,9262,clumps of emerald moss,
+106,Materials_Items,168,708,9198,emerald moss,มอสมรกต
+106,Materials_Items,169,712,9211,emerald moss,มอสมรกต
+106,Materials_Items,170,716,9224,A vividly verdant mass of moist moss.,กลุ่มก้อนมอสชุ่มชื้นสีเขียวสดใสดั่งมรกต
+106,Materials_Items,171,720,9262,clumps of emerald moss,มอสมรกต
 106,Materials_Items,172,724,9285,the ,
 106,Materials_Items,173,728,9290,the ,
 106,Materials_Items,174,732,9295,a clump of ,
 106,Materials_Items,175,736,9307,some ,
-106,Materials_Items,176,740,9313,magic beast bone,
-106,Materials_Items,177,744,9330,magic beast bone,
-106,Materials_Items,178,748,9347,A misshapen bone dropped by a barbaric beast.,
-106,Materials_Items,179,752,9393,magic beast bones,
+106,Materials_Items,176,740,9313,magic beast bone,กระดูกสัตว์อสูร
+106,Materials_Items,177,744,9330,magic beast bone,กระดูกสัตว์อสูร
+106,Materials_Items,178,748,9347,A misshapen bone dropped by a barbaric beast.,กระดูกรูปทรงบิดเบี้ยวที่สัตว์ร้ายป่าเถื่อนทิ้งไว้
+106,Materials_Items,179,752,9393,magic beast bones,กระดูกสัตว์อสูร
 106,Materials_Items,180,756,9411,the ,
 106,Materials_Items,181,760,9416,the ,
 106,Materials_Items,182,764,9421,a ,
 106,Materials_Items,183,768,9424,some ,
-106,Materials_Items,184,772,9430,fisticup,
-106,Materials_Items,185,776,9439,fisticup,
-106,Materials_Items,186,780,9448,A funny fungus in the form of a fist.,
-106,Materials_Items,187,784,9486,fisticups,
+106,Materials_Items,184,772,9430,fisticup,เห็ดกำปั้น
+106,Materials_Items,185,776,9439,fisticup,เห็ดกำปั้น
+106,Materials_Items,186,780,9448,A funny fungus in the form of a fist.,เห็ดหน้าตาตลกที่มีรูปทรงคล้ายกำปั้น
+106,Materials_Items,187,784,9486,fisticups,เห็ดกำปั้น
 106,Materials_Items,188,788,9496,the ,
 106,Materials_Items,189,792,9501,the ,
 106,Materials_Items,190,796,9506,a ,
 106,Materials_Items,191,800,9509,some ,
-106,Materials_Items,192,804,9515,slimedrop,
-106,Materials_Items,193,808,9525,slimedrop,
-106,Materials_Items,194,812,9535,A gooey gumdrop shaped like a lovely little slime.,
-106,Materials_Items,195,816,9586,slimedrops,
+106,Materials_Items,192,804,9515,slimedrop,สไลม์ดรอป
+106,Materials_Items,193,808,9525,slimedrop,สไลม์ดรอป
+106,Materials_Items,194,812,9535,A gooey gumdrop shaped like a lovely little slime.,กัมมี่เหนียวนุ่มรูปสไลม์ตัวน้อยน่ารัก
+106,Materials_Items,195,816,9586,slimedrops,สไลม์ดรอป
 106,Materials_Items,196,820,9597,the ,
 106,Materials_Items,197,824,9602,the ,
 106,Materials_Items,198,828,9607,a ,
 106,Materials_Items,199,832,9610,some ,
-106,Materials_Items,200,836,9616,fresh water,
-106,Materials_Items,201,840,9628,fresh water,
-106,Materials_Items,202,844,9640,Wondrous water of perfect purity.,
-106,Materials_Items,203,848,9674,jugs of fresh water,
+106,Materials_Items,200,836,9616,fresh water,น้ำบริสุทธิ์
+106,Materials_Items,201,840,9628,fresh water,น้ำบริสุทธิ์
+106,Materials_Items,202,844,9640,Wondrous water of perfect purity.,น้ำแร่มหัศจรรย์ที่มีความใสสะอาดยิ่ง
+106,Materials_Items,203,848,9674,jugs of fresh water,น้ำบริสุทธิ์
 106,Materials_Items,204,852,9694,the ,
 106,Materials_Items,205,856,9699,the ,
 106,Materials_Items,206,860,9704,a jug of ,
 106,Materials_Items,207,864,9714,some ,
-106,Materials_Items,208,868,9720,snakeskin,
-106,Materials_Items,209,872,9730,snakeskin,
-106,Materials_Items,210,876,9740,The sloughed-off skin of a slithering serpent.,
-106,Materials_Items,211,880,9787,pieces of snakeskin,
+106,Materials_Items,208,868,9720,snakeskin,คราบงู
+106,Materials_Items,209,872,9730,snakeskin,คราบงู
+106,Materials_Items,210,876,9740,The sloughed-off skin of a slithering serpent.,คราบผิวหนังที่งูเลื้อยลอกทิ้งไว้
+106,Materials_Items,211,880,9787,pieces of snakeskin,คราบงู
 106,Materials_Items,212,884,9807,the ,
 106,Materials_Items,213,888,9812,the ,
 106,Materials_Items,214,892,9817,a piece of ,
 106,Materials_Items,215,896,9829,some ,
-106,Materials_Items,216,900,9835,royal soil,
-106,Materials_Items,217,904,9846,royal soil,
-106,Materials_Items,218,908,9857,A mass of mud with magical characteristics.,
-106,Materials_Items,219,912,9901,urns of royal soil,
+106,Materials_Items,216,900,9835,royal soil,ดินแดนศักดิ์สิทธิ์
+106,Materials_Items,217,904,9846,royal soil,ดินแดนศักดิ์สิทธิ์
+106,Materials_Items,218,908,9857,A mass of mud with magical characteristics.,ก้อนดินที่มีคุณสมบัติทางเวทมนตร์แฝงอยู่
+106,Materials_Items,219,912,9901,urns of royal soil,ดินแดนศักดิ์สิทธิ์
 106,Materials_Items,220,916,9920,the ,
 106,Materials_Items,221,920,9925,the ,
 106,Materials_Items,222,924,9930,an urn of ,
 106,Materials_Items,223,928,9941,some ,
-106,Materials_Items,224,932,9947,belle cap,
-106,Materials_Items,225,936,9957,belle cap,
-106,Materials_Items,226,940,9967,A mysterious mushroom that looks pretty lethal.,
-106,Materials_Items,227,944,10015,belle caps,
+106,Materials_Items,224,932,9947,belle cap,เห็ดพิษแสนสวย
+106,Materials_Items,225,936,9957,belle cap,เห็ดพิษแสนสวย
+106,Materials_Items,226,940,9967,A mysterious mushroom that looks pretty lethal.,เห็ดรูปร่างลึกลับที่ดูมีพิษร้ายแรงถึงตาย
+106,Materials_Items,227,944,10015,belle caps,เห็ดพิษแสนสวย
 106,Materials_Items,228,948,10026,the ,
 106,Materials_Items,229,952,10031,the ,
 106,Materials_Items,230,956,10036,a ,
 106,Materials_Items,231,960,10039,some ,
-106,Materials_Items,232,964,10045,flurry feather,
-106,Materials_Items,233,968,10060,flurry feather,
-106,Materials_Items,234,972,10075,A pretty plume plucked from a great big bird.,
-106,Materials_Items,235,976,10121,flurry feathers,
+106,Materials_Items,232,964,10045,flurry feather,ขนนกวายุ
+106,Materials_Items,233,968,10060,flurry feather,ขนนกวายุ
+106,Materials_Items,234,972,10075,A pretty plume plucked from a great big bird.,ขนนกแสนสวยที่ดึงมาจากนกยักษ์
+106,Materials_Items,235,976,10121,flurry feathers,ขนนกวายุ
 106,Materials_Items,236,980,10137,the ,
 106,Materials_Items,237,984,10142,the ,
 106,Materials_Items,238,988,10147,a ,
 106,Materials_Items,239,992,10150,some ,
-106,Materials_Items,240,996,10156,ice crystal,
-106,Materials_Items,241,1000,10168,ice crystal,
-106,Materials_Items,242,1004,10180,A captivating crystal with cryogenic powers.,
-106,Materials_Items,243,1008,10225,ice crystals,
+106,Materials_Items,240,996,10156,ice crystal,ผลึกน้ำแข็ง
+106,Materials_Items,241,1000,10168,ice crystal,ผลึกน้ำแข็ง
+106,Materials_Items,242,1004,10180,A captivating crystal with cryogenic powers.,ผลึกคริสตัลอันงดงามที่มีพลังเยือกแข็ง
+106,Materials_Items,243,1008,10225,ice crystals,ผลึกน้ำแข็ง
 106,Materials_Items,244,1012,10238,the ,
 106,Materials_Items,245,1016,10243,the ,
 106,Materials_Items,246,1020,10248,an ,
 106,Materials_Items,247,1024,10252,some ,
-106,Materials_Items,248,1028,10258,toad oil,
-106,Materials_Items,249,1032,10267,toad oil,
-106,Materials_Items,250,1036,10276,The greasy excretion of a warty amphibian.,
-106,Materials_Items,251,1040,10319,phials of toad oil,
+106,Materials_Items,248,1028,10258,toad oil,น้ำมันคางคก
+106,Materials_Items,249,1032,10267,toad oil,น้ำมันคางคก
+106,Materials_Items,250,1036,10276,The greasy excretion of a warty amphibian.,สารคัดหลั่งเหนียวหนืดของสัตว์สะเทินน้ำสะเทินบก
+106,Materials_Items,251,1040,10319,phials of toad oil,น้ำมันคางคก
 106,Materials_Items,252,1044,10338,the ,
 106,Materials_Items,253,1048,10343,the ,
 106,Materials_Items,254,1052,10348,a phial of ,
 106,Materials_Items,255,1056,10360,some ,
-106,Materials_Items,256,1060,10366,magic beast hide,
-106,Materials_Items,257,1064,10383,magic beast hide,
-106,Materials_Items,258,1068,10400,"Stiff, spiny skin sloughed off by a brutal beast.",
-106,Materials_Items,259,1072,10450,pieces of magic beast hide,
+106,Materials_Items,256,1060,10366,magic beast hide,หนังสัตว์อสูร
+106,Materials_Items,257,1064,10383,magic beast hide,หนังสัตว์อสูร
+106,Materials_Items,258,1068,10400,"Stiff, spiny skin sloughed off by a brutal beast.",หนังสัตว์หนาแข็งกระด้างที่ลอกมาจากสัตว์ร้าย
+106,Materials_Items,259,1072,10450,pieces of magic beast hide,หนังสัตว์อสูร
 106,Materials_Items,260,1076,10477,the ,
 106,Materials_Items,261,1080,10482,the ,
 106,Materials_Items,262,1084,10487,a piece of ,
 106,Materials_Items,263,1088,10499,some ,
-106,Materials_Items,264,1092,10505,magic beast horn,
-106,Materials_Items,265,1096,10522,magic beast horn,
-106,Materials_Items,266,1100,10539,A hard horn harvested from a brutal beast.,
-106,Materials_Items,267,1104,10582,magic beast horns,
+106,Materials_Items,264,1092,10505,magic beast horn,เขาสัตว์อสูร
+106,Materials_Items,265,1096,10522,magic beast horn,เขาสัตว์อสูร
+106,Materials_Items,266,1100,10539,A hard horn harvested from a brutal beast.,เขาสัตว์อันแข็งแกร่งที่เก็บเกี่ยวมาจากสัตว์ร้าย
+106,Materials_Items,267,1104,10582,magic beast horns,เขาสัตว์อสูร
 106,Materials_Items,268,1108,10600,the ,
 106,Materials_Items,269,1112,10605,the ,
 106,Materials_Items,270,1116,10610,a ,
 106,Materials_Items,271,1120,10613,some ,
-106,Materials_Items,272,1124,10619,evencloth,
-106,Materials_Items,273,1128,10629,evencloth,
-106,Materials_Items,274,1132,10639,Coal-black cloth cloaked in the deepest darkness.,
-106,Materials_Items,275,1136,10689,pieces of evencloth,
+106,Materials_Items,272,1124,10619,evencloth,ผ้าทอราตรี
+106,Materials_Items,273,1128,10629,evencloth,ผ้าทอราตรี
+106,Materials_Items,274,1132,10639,Coal-black cloth cloaked in the deepest darkness.,ผืนผ้าสีดำสนิทดั่งถ่านที่ปกคลุมด้วยความมืดมิด
+106,Materials_Items,275,1136,10689,pieces of evencloth,ผ้าทอราตรี
 106,Materials_Items,276,1140,10709,the ,
 106,Materials_Items,277,1144,10714,the ,
 106,Materials_Items,278,1148,10719,a piece of ,
 106,Materials_Items,279,1152,10731,some ,
-106,Materials_Items,280,1156,10737,lambswool,
-106,Materials_Items,281,1160,10747,lambswool,
-106,Materials_Items,282,1164,10757,A fluffy fleece of ovine origins.,
-106,Materials_Items,283,1168,10791,pieces of lambswool,
+106,Materials_Items,280,1156,10737,lambswool,ขนแกะ
+106,Materials_Items,281,1160,10747,lambswool,ขนแกะ
+106,Materials_Items,282,1164,10757,A fluffy fleece of ovine origins.,ปุยขนแกะนุ่มฟูจากฟาร์มเลี้ยงแกะ
+106,Materials_Items,283,1168,10791,pieces of lambswool,ขนแกะ
 106,Materials_Items,284,1172,10811,the ,
 106,Materials_Items,285,1176,10816,the ,
 106,Materials_Items,286,1180,10821,a piece of ,
 106,Materials_Items,287,1184,10833,some ,
-106,Materials_Items,288,1188,10839,dragon hide,
-106,Materials_Items,289,1192,10851,dragon hide,
-106,Materials_Items,290,1196,10863,Scaly skin dropped by a dragon. Utterly incombustible.,
-106,Materials_Items,291,1200,10918,pieces of dragon hide,
+106,Materials_Items,288,1188,10839,dragon hide,หนังมังกร
+106,Materials_Items,289,1192,10851,dragon hide,หนังมังกร
+106,Materials_Items,290,1196,10863,Scaly skin dropped by a dragon. Utterly incombustible.,เกล็ดหนังหนาที่มังกรทำตกไว้ ทนทานต่อไฟอย่างแท้จริง
+106,Materials_Items,291,1200,10918,pieces of dragon hide,หนังมังกร
 106,Materials_Items,292,1204,10940,the ,
 106,Materials_Items,293,1208,10945,the ,
 106,Materials_Items,294,1212,10950,a piece of ,
 106,Materials_Items,295,1216,10962,some ,
-106,Materials_Items,296,1220,10968,thunderball,
-106,Materials_Items,297,1224,10980,thunderball,
-106,Materials_Items,298,1228,10992,A chunk of rock charged with electrical energy.,
-106,Materials_Items,299,1232,11040,thunderballs,
+106,Materials_Items,296,1220,10968,thunderball,ลูกบอลอัสนี
+106,Materials_Items,297,1224,10980,thunderball,ลูกบอลอัสนี
+106,Materials_Items,298,1228,10992,A chunk of rock charged with electrical energy.,ก้อนหินที่อัดแน่นไปด้วยประจุพลังงานไฟฟ้า
+106,Materials_Items,299,1232,11040,thunderballs,ลูกบอลอัสนี
 106,Materials_Items,300,1236,11053,the ,
 106,Materials_Items,301,1240,11058,the ,
 106,Materials_Items,302,1244,11063,a ,
 106,Materials_Items,303,1248,11066,some ,
-106,Materials_Items,304,1252,11072,giant tortoise shell,
-106,Materials_Items,305,1256,11093,giant tortoise shell,
-106,Materials_Items,306,1260,11114,The colossal carapace of a titanic tortoise.,
-106,Materials_Items,307,1264,11159,giant tortoise shells,
+106,Materials_Items,304,1252,11072,giant tortoise shell,กระดองเต่ายักษ์
+106,Materials_Items,305,1256,11093,giant tortoise shell,กระดองเต่ายักษ์
+106,Materials_Items,306,1260,11114,The colossal carapace of a titanic tortoise.,กระดองขนาดมหึมาของเต่ายักษ์ไททัน
+106,Materials_Items,307,1264,11159,giant tortoise shells,กระดองเต่ายักษ์
 106,Materials_Items,308,1268,11181,the ,
 106,Materials_Items,309,1272,11186,the ,
 106,Materials_Items,310,1276,11191,a ,
 106,Materials_Items,311,1280,11194,some ,
-106,Materials_Items,312,1284,11200,warmaline,
-106,Materials_Items,313,1288,11210,warmaline,
-106,Materials_Items,314,1292,11220,A glowing stone that emits a welcoming warmth.,
-106,Materials_Items,315,1296,11267,lumps of warmaline,
+106,Materials_Items,312,1284,11200,warmaline,หินไออุ่น
+106,Materials_Items,313,1288,11210,warmaline,หินไออุ่น
+106,Materials_Items,314,1292,11220,A glowing stone that emits a welcoming warmth.,หินเปล่งแสงเรืองรองที่แผ่ไออุ่นอันน่ารื่นรมย์ออกมา
+106,Materials_Items,315,1296,11267,lumps of warmaline,หินไออุ่น
 106,Materials_Items,316,1300,11286,the ,
 106,Materials_Items,317,1304,11291,the ,
 106,Materials_Items,318,1308,11296,a lump of ,
 106,Materials_Items,319,1312,11307,some ,
-106,Materials_Items,320,1316,11313,birdsong nectar,
-106,Materials_Items,321,1320,11329,birdsong nectar,
-106,Materials_Items,322,1324,11345,A queer concoction that confers a sweet singing voice.,
-106,Materials_Items,323,1328,11400,phials of birdsong nectar,
+106,Materials_Items,320,1316,11313,birdsong nectar,น้ำหวานเสียงวิหค
+106,Materials_Items,321,1320,11329,birdsong nectar,น้ำหวานเสียงวิหค
+106,Materials_Items,322,1324,11345,A queer concoction that confers a sweet singing voice.,น้ำอมฤตประหลาดที่จะช่วยให้ขับขานเสียงเพลงได้ไพเราะ
+106,Materials_Items,323,1328,11400,phials of birdsong nectar,น้ำหวานเสียงวิหค
 106,Materials_Items,324,1332,11426,the ,
 106,Materials_Items,325,1336,11431,the ,
 106,Materials_Items,326,1340,11436,a phial of ,
 106,Materials_Items,327,1344,11448,some ,
-106,Materials_Items,328,1348,11454,faerie flame,
-106,Materials_Items,329,1352,11467,faerie flame,
-106,Materials_Items,330,1356,11480,"The cold, quivering candle of a secretive sprite.",
-106,Materials_Items,331,1360,11530,faerie flames,
+106,Materials_Items,328,1348,11454,faerie flame,เปลวไฟภูต
+106,Materials_Items,329,1352,11467,faerie flame,เปลวไฟภูต
+106,Materials_Items,330,1356,11480,"The cold, quivering candle of a secretive sprite.",เปลวเทียนอันเย็นเยียบและสั่นไหวของภูตพรายลึกลับ
+106,Materials_Items,331,1360,11530,faerie flames,เปลวไฟภูต
 106,Materials_Items,332,1364,11544,the ,
 106,Materials_Items,333,1368,11549,the ,
 106,Materials_Items,334,1372,11554,a ,
 106,Materials_Items,335,1376,11557,some ,
-106,Materials_Items,336,1380,11563,technicolour dreamcloth,
-106,Materials_Items,337,1384,11587,technicolour dreamcloth,
-106,Materials_Items,338,1388,11611,Colourful cloth that glows like a rainbow.,
-106,Materials_Items,339,1392,11654,pieces of technicolour dreamcloth,
+106,Materials_Items,336,1380,11563,technicolour dreamcloth,ผ้าทอสีรุ้งมายา
+106,Materials_Items,337,1384,11587,technicolour dreamcloth,ผ้าทอสีรุ้งมายา
+106,Materials_Items,338,1388,11611,Colourful cloth that glows like a rainbow.,ผืนผ้าหลากสีสันที่เปล่งประกายเจิดจ้าดั่งสายรุ้ง
+106,Materials_Items,339,1392,11654,pieces of technicolour dreamcloth,ผ้าทอสีรุ้งมายา
 106,Materials_Items,340,1396,11688,the ,
 106,Materials_Items,341,1400,11693,the ,
 106,Materials_Items,342,1404,11698,a piece of ,
 106,Materials_Items,343,1408,11710,some ,
-106,Materials_Items,344,1412,11716,saint's ashes,
-106,Materials_Items,345,1416,11730,saint's ashes,
-106,Materials_Items,346,1420,11744,An urnful of abrasive ash that cleans off curses.,
-106,Materials_Items,347,1424,11794,urns of saint's ashes,
+106,Materials_Items,344,1412,11716,saint's ashes,เถ้ากระดูกนักบุญ
+106,Materials_Items,345,1416,11730,saint's ashes,เถ้ากระดูกนักบุญ
+106,Materials_Items,346,1420,11744,An urnful of abrasive ash that cleans off curses.,เถ้าถ่านศักดิ์สิทธิ์ในโถที่ใช้สำหรับชำระล้างคำสาป
+106,Materials_Items,347,1424,11794,urns of saint's ashes,เถ้ากระดูกนักบุญ
 106,Materials_Items,348,1428,11816,the ,
 106,Materials_Items,349,1432,11821,the ,
 106,Materials_Items,350,1436,11826,an urn of ,
 106,Materials_Items,351,1440,11837,some ,
-106,Materials_Items,352,1444,11843,royal ruby,
-106,Materials_Items,353,1448,11854,royal ruby,
-106,Materials_Items,354,1452,11865,A radiant red rock filled with fervour.,
-106,Materials_Items,355,1456,11905,royal rubies,
+106,Materials_Items,352,1444,11843,royal ruby,ทับทิมราชวงศ์
+106,Materials_Items,353,1448,11854,royal ruby,ทับทิมราชวงศ์
+106,Materials_Items,354,1452,11865,A radiant red rock filled with fervour.,อัญมณีสีแดงสดเปล่งประกายที่เปี่ยมด้วยความร้อนแรง
+106,Materials_Items,355,1456,11905,royal rubies,ทับทิมราชวงศ์
 106,Materials_Items,356,1460,11918,the ,
 106,Materials_Items,357,1464,11923,the ,
 106,Materials_Items,358,1468,11928,a ,
 106,Materials_Items,359,1472,11931,some ,
-106,Materials_Items,360,1476,11937,faerie fluff,
-106,Materials_Items,361,1480,11950,faerie fluff,
-106,Materials_Items,362,1484,11963,A flyaway flock of cotton with an other-worldly aura.,
-106,Materials_Items,363,1488,12017,clumps of faerie fluff,
+106,Materials_Items,360,1476,11937,faerie fluff,ปุยฝ้ายภูต
+106,Materials_Items,361,1480,11950,faerie fluff,ปุยฝ้ายภูต
+106,Materials_Items,362,1484,11963,A flyaway flock of cotton with an other-worldly aura.,ปุยฝ้ายลอยละล่องที่อบอวลไปด้วยกลิ่นอายแห่งต่างภพ
+106,Materials_Items,363,1488,12017,clumps of faerie fluff,ปุยฝ้ายภูต
 106,Materials_Items,364,1492,12040,the ,
 106,Materials_Items,365,1496,12045,the ,
 106,Materials_Items,366,1500,12050,a clump of ,
 106,Materials_Items,367,1504,12062,some ,
-106,Materials_Items,368,1508,12068,finessence,
-106,Materials_Items,369,1512,12079,finessence,
-106,Materials_Items,370,1516,12090,A concoction of condensed combat capabilities.,
-106,Materials_Items,371,1520,12137,phials of finessence,
+106,Materials_Items,368,1508,12068,finessence,น้ำมันสมาธิ
+106,Materials_Items,369,1512,12079,finessence,น้ำมันสมาธิ
+106,Materials_Items,370,1516,12090,A concoction of condensed combat capabilities.,โอสถสกัดเข้มข้นที่ช่วยเสริมทักษะความสามารถในการต่อสู้
+106,Materials_Items,371,1520,12137,phials of finessence,น้ำมันสมาธิ
 106,Materials_Items,372,1524,12158,the ,
 106,Materials_Items,373,1528,12163,the ,
 106,Materials_Items,374,1532,12168,a phial of ,
 106,Materials_Items,375,1536,12180,some ,
-106,Materials_Items,376,1540,12186,dragon horn,
-106,Materials_Items,377,1544,12198,dragon horn,
-106,Materials_Items,378,1548,12210,A horn hacked from the head of a deadly dragon.,
-106,Materials_Items,379,1552,12258,dragon horns,
+106,Materials_Items,376,1540,12186,dragon horn,เขามังกร
+106,Materials_Items,377,1544,12198,dragon horn,เขามังกร
+106,Materials_Items,378,1548,12210,A horn hacked from the head of a deadly dragon.,เขาสัตว์ที่ฟันตัดมาจากศีรษะของมังกรสังหาร
+106,Materials_Items,379,1552,12258,dragon horns,เขามังกร
 106,Materials_Items,380,1556,12271,the ,
 106,Materials_Items,381,1560,12276,the ,
 106,Materials_Items,382,1564,12281,a ,
 106,Materials_Items,383,1568,12284,some ,
-106,Materials_Items,384,1572,12290,not-colossal fossil,
-106,Materials_Items,385,1576,12310,not-colossal fossil,
-106,Materials_Items,386,1580,12330,The fossilised remains of a small sea creature.,
-106,Materials_Items,387,1584,12378,not-colossal fossils,
+106,Materials_Items,384,1572,12290,not-colossal fossil,ซากดึกดำบรรพ์ขนาดเล็ก
+106,Materials_Items,385,1576,12310,not-colossal fossil,ซากดึกดำบรรพ์ขนาดเล็ก
+106,Materials_Items,386,1580,12330,The fossilised remains of a small sea creature.,ซากฟอสซิลโบราณของสิ่งมีชีวิตใต้ท้องทะเลขนาดเล็ก
+106,Materials_Items,387,1584,12378,not-colossal fossils,ซากดึกดำบรรพ์ขนาดเล็ก
 106,Materials_Items,388,1588,12399,the ,
 106,Materials_Items,389,1592,12404,the ,
 106,Materials_Items,390,1596,12409,a ,
 106,Materials_Items,391,1600,12412,some ,
-106,Materials_Items,392,1604,12418,ethereal stone,
-106,Materials_Items,393,1608,12433,ethereal stone,
-106,Materials_Items,394,1612,12448,A paranormal pebble possessed by a phantom spirit.,
-106,Materials_Items,395,1616,12499,ethereal stones,
+106,Materials_Items,392,1604,12418,ethereal stone,หินวิญญาณสถิต
+106,Materials_Items,393,1608,12433,ethereal stone,หินวิญญาณสถิต
+106,Materials_Items,394,1612,12448,A paranormal pebble possessed by a phantom spirit.,ก้อนกรวดเหนือธรรมชาติที่มีดวงวิญญาณสิงสถิตอยู่
+106,Materials_Items,395,1616,12499,ethereal stones,หินวิญญาณสถิต
 106,Materials_Items,396,1620,12515,the ,
 106,Materials_Items,397,1624,12520,the ,
 106,Materials_Items,398,1628,12525,an ,
 106,Materials_Items,399,1632,12529,some ,
-106,Materials_Items,400,1636,12535,platinum ore,
-106,Materials_Items,401,1640,12548,platinum ore,
-106,Materials_Items,402,1644,12561,A costly rock containing a high proportion of platinum.,
-106,Materials_Items,403,1648,12617,lumps of platinum ore,
+106,Materials_Items,400,1636,12535,platinum ore,แร่แพลทินัม
+106,Materials_Items,401,1640,12548,platinum ore,แร่แพลทินัม
+106,Materials_Items,402,1644,12561,A costly rock containing a high proportion of platinum.,แร่ราคาแพงที่มีส่วนผสมของแพลทินัมในสัดส่วนสูง
+106,Materials_Items,403,1648,12617,lumps of platinum ore,แร่แพลทินัม
 106,Materials_Items,404,1652,12639,the ,
 106,Materials_Items,405,1656,12644,the ,
 106,Materials_Items,406,1660,12649,a lump of ,
 106,Materials_Items,407,1664,12660,some ,
-106,Materials_Items,408,1668,12666,pitch pearl,
-106,Materials_Items,409,1672,12678,pitch pearl,
-106,Materials_Items,410,1676,12690,An ink-black pearl beloved of ladies who live for the night.,
-106,Materials_Items,411,1680,12751,pitch pearls,
+106,Materials_Items,408,1668,12666,pitch pearl,ไข่มุกดำขลับ
+106,Materials_Items,409,1672,12678,pitch pearl,ไข่มุกดำขลับ
+106,Materials_Items,410,1676,12690,An ink-black pearl beloved of ladies who live for the night.,ไข่มุกสีดำสนิทดั่งน้ำหมึก ยอดนิยมของเหล่าสตรีแห่งราตรี
+106,Materials_Items,411,1680,12751,pitch pearls,ไข่มุกดำขลับ
 106,Materials_Items,412,1684,12764,the ,
 106,Materials_Items,413,1688,12769,the ,
 106,Materials_Items,414,1692,12774,a ,
 106,Materials_Items,415,1696,12777,some ,
-106,Materials_Items,416,1700,12783,gold bar,
-106,Materials_Items,417,1704,12792,gold bar,
-106,Materials_Items,418,1708,12801,A piece of pure gold that's heart-warmingly heavy.,
-106,Materials_Items,419,1712,12852,gold bars,
+106,Materials_Items,416,1700,12783,gold bar,ทองคำแท่ง
+106,Materials_Items,417,1704,12792,gold bar,ทองคำแท่ง
+106,Materials_Items,418,1708,12801,A piece of pure gold that's heart-warmingly heavy.,แท่งทองคำบริสุทธิ์ที่มีน้ำหนักแน่นกระชับมือ
+106,Materials_Items,419,1712,12852,gold bars,ทองคำแท่ง
 106,Materials_Items,420,1716,12862,the ,
 106,Materials_Items,421,1720,12867,the ,
 106,Materials_Items,422,1724,12872,a ,
 106,Materials_Items,423,1728,12875,some ,
-106,Materials_Items,424,1732,12881,celestial skein,
-106,Materials_Items,425,1736,12897,celestial skein,
-106,Materials_Items,426,1740,12913,Strange cerulean string within which water flows.,
-106,Materials_Items,427,1744,12963,celestial skeins,
+106,Materials_Items,424,1732,12881,celestial skein,ด้ายสรวงสวรรค์
+106,Materials_Items,425,1736,12897,celestial skein,ด้ายสรวงสวรรค์
+106,Materials_Items,426,1740,12913,Strange cerulean string within which water flows.,เส้นด้ายสีครามประหลาดที่มีสายน้ำไหลเวียนอยู่ภายใน
+106,Materials_Items,427,1744,12963,celestial skeins,ด้ายสรวงสวรรค์
 106,Materials_Items,428,1748,12980,the ,
 106,Materials_Items,429,1752,12985,the ,
 106,Materials_Items,430,1756,12990,a ,
 106,Materials_Items,431,1760,12993,some ,
-106,Materials_Items,432,1764,12999,pale pearl,
-106,Materials_Items,433,1768,13010,pale pearl,
-106,Materials_Items,434,1772,13021,"A pure white pearl, popular with prim and proper ladies.",
-106,Materials_Items,435,1776,13078,pale pearls,
+106,Materials_Items,432,1764,12999,pale pearl,ไข่มุกขาวบริสุทธิ์
+106,Materials_Items,433,1768,13010,pale pearl,ไข่มุกขาวบริสุทธิ์
+106,Materials_Items,434,1772,13021,"A pure white pearl, popular with prim and proper ladies.",ไข่มุกสีขาวผุดผ่อง เป็นที่นิยมของสุภาพสตรีผู้เรียบร้อย
+106,Materials_Items,435,1776,13078,pale pearls,ไข่มุกขาวบริสุทธิ์
 106,Materials_Items,436,1780,13090,the ,
 106,Materials_Items,437,1784,13095,the ,
 106,Materials_Items,438,1788,13100,a ,
 106,Materials_Items,439,1792,13103,some ,
-106,Materials_Items,440,1796,13109,lucida shard,
-106,Materials_Items,441,1800,13122,lucida shard,
-106,Materials_Items,442,1804,13135,A fragment formed from some heavenly fallout.,
-106,Materials_Items,443,1808,13181,lucida shards,
+106,Materials_Items,440,1796,13109,lucida shard,เศษผลึกลูซิดา
+106,Materials_Items,441,1800,13122,lucida shard,เศษผลึกลูซิดา
+106,Materials_Items,442,1804,13135,A fragment formed from some heavenly fallout.,เศษชิ้นส่วนที่ก่อตัวขึ้นจากซากสิ่งของแห่งสรวงสวรรค์
+106,Materials_Items,443,1808,13181,lucida shards,เศษผลึกลูซิดา
 106,Materials_Items,444,1812,13195,the ,
 106,Materials_Items,445,1816,13200,the ,
 106,Materials_Items,446,1820,13205,a ,
 106,Materials_Items,447,1824,13208,some ,
-106,Materials_Items,448,1828,13214,molten globules,
-106,Materials_Items,449,1832,13230,molten globules,
-106,Materials_Items,450,1836,13246,These liquid lumps are a blacksmith's worst nightmare.,
-106,Materials_Items,451,1840,13301,spatters of molten globules,
+106,Materials_Items,448,1828,13214,molten globules,หยดโลหะหลอมเหลว
+106,Materials_Items,449,1832,13230,molten globules,หยดโลหะหลอมเหลว
+106,Materials_Items,450,1836,13246,These liquid lumps are a blacksmith's worst nightmare.,ก้อนของเหลวหลอมเหลวเหล่านี้คือฝันร้ายที่สุดของช่างตีเหล็ก
+106,Materials_Items,451,1840,13301,spatters of molten globules,หยดโลหะหลอมเหลว
 106,Materials_Items,452,1844,13329,the ,
 106,Materials_Items,453,1848,13334,the ,
 106,Materials_Items,454,1852,13339,a spatter of ,
 106,Materials_Items,455,1856,13353,some ,
-106,Materials_Items,456,1860,13359,sainted soma,
-106,Materials_Items,457,1864,13372,sainted soma,
-106,Materials_Items,458,1868,13385,An incredible liquid infused with an angelic essence.,
-106,Materials_Items,459,1872,13439,phials of sainted soma,
+106,Materials_Items,456,1860,13359,sainted soma,น้ำอมฤตศักดิ์สิทธิ์
+106,Materials_Items,457,1864,13372,sainted soma,น้ำอมฤตศักดิ์สิทธิ์
+106,Materials_Items,458,1868,13385,An incredible liquid infused with an angelic essence.,ของเหลวมหัศจรรย์ที่ผสานแก่นแท้แห่งทูตสวรรค์
+106,Materials_Items,459,1872,13439,phials of sainted soma,น้ำอมฤตศักดิ์สิทธิ์
 106,Materials_Items,460,1876,13462,the ,
 106,Materials_Items,461,1880,13467,the ,
 106,Materials_Items,462,1884,13472,a phial of ,
 106,Materials_Items,463,1888,13484,some ,
-106,Materials_Items,464,1892,13490,densinium,
-106,Materials_Items,465,1896,13500,densinium,
-106,Materials_Items,466,1900,13510,A drastically dense mass of mysterious metal.,
-106,Materials_Items,467,1904,13556,lumps of densinium,
+106,Materials_Items,464,1892,13490,densinium,แร่เดนซิเนียม
+106,Materials_Items,465,1896,13500,densinium,แร่เดนซิเนียม
+106,Materials_Items,466,1900,13510,A drastically dense mass of mysterious metal.,ก้อนโลหะลึกลับที่มีความหนาแน่นสูงเป็นพิเศษ
+106,Materials_Items,467,1904,13556,lumps of densinium,แร่เดนซิเนียม
 106,Materials_Items,468,1908,13575,the ,
 106,Materials_Items,469,1912,13580,the ,
 106,Materials_Items,470,1916,13585,a lump of ,
 106,Materials_Items,471,1920,13596,some ,
-106,Materials_Items,472,1924,13602,sparkly sap,
-106,Materials_Items,473,1928,13614,sparkly sap,
-106,Materials_Items,474,1932,13626,The shining sap of a tree that twinkles on moonlit nights.,
-106,Materials_Items,475,1936,13685,phials of sparkly sap,
+106,Materials_Items,472,1924,13602,sparkly sap,ยางไม้วับวาว
+106,Materials_Items,473,1928,13614,sparkly sap,ยางไม้วับวาว
+106,Materials_Items,474,1932,13626,The shining sap of a tree that twinkles on moonlit nights.,ยางไม้เปล่งประกายระยิบระยับในค่ำคืนที่มีแสงจันทร์สาดส่อง
+106,Materials_Items,475,1936,13685,phials of sparkly sap,ยางไม้วับวาว
 106,Materials_Items,476,1940,13707,the ,
 106,Materials_Items,477,1944,13712,the ,
 106,Materials_Items,478,1948,13717,a phial of ,
 106,Materials_Items,479,1952,13729,some ,
-106,Materials_Items,480,1956,13735,enchanted stone,
-106,Materials_Items,481,1960,13751,enchanted stone,
-106,Materials_Items,482,1964,13767,A polished pebble possessed by a departed soul.,
-106,Materials_Items,483,1968,13815,enchanted stones,
+106,Materials_Items,480,1956,13735,enchanted stone,หินเวทมนตร์
+106,Materials_Items,481,1960,13751,enchanted stone,หินเวทมนตร์
+106,Materials_Items,482,1964,13767,A polished pebble possessed by a departed soul.,หินขัดเงาที่มีวิญญาณของผู้ล่วงลับสถิตอยู่
+106,Materials_Items,483,1968,13815,enchanted stones,หินเวทมนตร์
 106,Materials_Items,484,1972,13832,the ,
 106,Materials_Items,485,1976,13837,the ,
 106,Materials_Items,486,1980,13842,an ,
 106,Materials_Items,487,1984,13846,some ,
-106,Materials_Items,488,1988,13852,spellbound bough,
-106,Materials_Items,489,1992,13869,spellbound bough,
-106,Materials_Items,490,1996,13886,The branch of an enchanted tree that pulses with magic.,
-106,Materials_Items,491,2000,13942,spellbound boughs,
+106,Materials_Items,488,1988,13852,spellbound bough,กิ่งไม้ต้องมนตร์
+106,Materials_Items,489,1992,13869,spellbound bough,กิ่งไม้ต้องมนตร์
+106,Materials_Items,490,1996,13886,The branch of an enchanted tree that pulses with magic.,กิ่งก้านของต้นไม้ต้องมนตร์ที่ส่งคลื่นพลังเวทมนตร์ออกมา
+106,Materials_Items,491,2000,13942,spellbound boughs,กิ่งไม้ต้องมนตร์
 106,Materials_Items,492,2004,13960,the ,
 106,Materials_Items,493,2008,13965,the ,
 106,Materials_Items,494,2012,13970,a ,
 106,Materials_Items,495,2016,13973,some ,
-106,Materials_Items,496,2020,13979,chronocrystal,
-106,Materials_Items,497,2024,13993,chronocrystal,
-106,Materials_Items,498,2028,14007,A crystal created over countless millennia.,
-106,Materials_Items,499,2032,14051,chronocrystals,
+106,Materials_Items,496,2020,13979,chronocrystal,ผลึกกาลเวลา
+106,Materials_Items,497,2024,13993,chronocrystal,ผลึกกาลเวลา
+106,Materials_Items,498,2028,14007,A crystal created over countless millennia.,ผลึกคริสตัลที่ก่อตัวขึ้นผ่านกาลเวลาเนิ่นนานนับพันปี
+106,Materials_Items,499,2032,14051,chronocrystals,ผลึกกาลเวลา
 106,Materials_Items,500,2036,14066,the ,
 106,Materials_Items,501,2040,14071,the ,
 106,Materials_Items,502,2044,14076,a ,
 106,Materials_Items,503,2048,14079,some ,
-106,Materials_Items,504,2052,14085,kaleidoskin,
-106,Materials_Items,505,2056,14097,kaleidoskin,
-106,Materials_Items,506,2060,14109,A coat of many colours borne on a beast's back.,
-106,Materials_Items,507,2064,14157,pieces of kaleidoskin,
+106,Materials_Items,504,2052,14085,kaleidoskin,หนังหลากสีสัน
+106,Materials_Items,505,2056,14097,kaleidoskin,หนังหลากสีสัน
+106,Materials_Items,506,2060,14109,A coat of many colours borne on a beast's back.,เสื้อคลุมหลากสีสันที่ลอกมาจากแผ่นหลังของสัตว์ร้าย
+106,Materials_Items,507,2064,14157,pieces of kaleidoskin,หนังหลากสีสัน
 106,Materials_Items,508,2068,14179,the ,
 106,Materials_Items,509,2072,14184,the ,
 106,Materials_Items,510,2076,14189,a piece of ,
 106,Materials_Items,511,2080,14201,some ,
-106,Materials_Items,512,2084,14207,gold nuglet,
-106,Materials_Items,513,2088,14219,gold nuglet,
-106,Materials_Items,514,2092,14231,A small piece of gold to exchange for gold pieces.,
-106,Materials_Items,515,2096,14282,gold nuglets,
+106,Materials_Items,512,2084,14207,gold nuglet,เศษทองคำชิ้นเล็ก
+106,Materials_Items,513,2088,14219,gold nuglet,เศษทองคำชิ้นเล็ก
+106,Materials_Items,514,2092,14231,A small piece of gold to exchange for gold pieces.,เศษทองคำชิ้นเล็กๆ สำหรับนำไปแลกเปลี่ยนเป็นเงินเหรียญทอง
+106,Materials_Items,515,2096,14282,gold nuglets,เศษทองคำชิ้นเล็ก
 106,Materials_Items,516,2100,14295,the ,
 106,Materials_Items,517,2104,14300,the ,
 106,Materials_Items,518,2108,14305,a ,
 106,Materials_Items,519,2112,14308,some ,
-106,Materials_Items,520,2116,14314,silver nugget,
-106,Materials_Items,521,2120,14328,silver nugget,
-106,Materials_Items,522,2124,14342,A precious piece of purest silver.,
-106,Materials_Items,523,2128,14377,silver nuggets,
+106,Materials_Items,520,2116,14314,silver nugget,ก้อนเงินบริสุทธิ์
+106,Materials_Items,521,2120,14328,silver nugget,ก้อนเงินบริสุทธิ์
+106,Materials_Items,522,2124,14342,A precious piece of purest silver.,ชิ้นส่วนล้ำค่าของเนื้อเงินที่บริสุทธิ์ที่สุด
+106,Materials_Items,523,2128,14377,silver nuggets,ก้อนเงินบริสุทธิ์
 106,Materials_Items,524,2132,14392,the ,
 106,Materials_Items,525,2136,14397,the ,
 106,Materials_Items,526,2140,14402,a ,
 106,Materials_Items,527,2144,14405,some ,
-106,Materials_Items,528,2148,14411,gold nugget,
-106,Materials_Items,529,2152,14423,gold nugget,
-106,Materials_Items,530,2156,14435,A highly priced hunk of glittering gold.,
-106,Materials_Items,531,2160,14476,gold nuggets,
+106,Materials_Items,528,2148,14411,gold nugget,ก้อนทองคำ
+106,Materials_Items,529,2152,14423,gold nugget,ก้อนทองคำ
+106,Materials_Items,530,2156,14435,A highly priced hunk of glittering gold.,ก้อนทองคำเปล่งประกายระยิบระยับที่มีมูลค่าสูงลิ่ว
+106,Materials_Items,531,2160,14476,gold nuggets,ก้อนทองคำ
 106,Materials_Items,532,2164,14489,the ,
 106,Materials_Items,533,2168,14494,the ,
 106,Materials_Items,534,2172,14499,a ,
 106,Materials_Items,535,2176,14502,some ,
-106,Materials_Items,536,2180,14508,silver bar,
-106,Materials_Items,537,2184,14519,silver bar,
-106,Materials_Items,538,2188,14530,A bulky brick of shining silver.,
-106,Materials_Items,539,2192,14563,silver bars,
+106,Materials_Items,536,2180,14508,silver bar,เงินแท่ง
+106,Materials_Items,537,2184,14519,silver bar,เงินแท่ง
+106,Materials_Items,538,2188,14530,A bulky brick of shining silver.,แท่งเงินแวววาวขนาดใหญ่ที่มีน้ำหนักมาก
+106,Materials_Items,539,2192,14563,silver bars,เงินแท่ง
 106,Materials_Items,540,2196,14575,the ,
 106,Materials_Items,541,2200,14580,the ,
 106,Materials_Items,542,2204,14585,a ,
 106,Materials_Items,543,2208,14588,some ,
-106,Materials_Items,544,2212,14594,hardy hide,
-106,Materials_Items,545,2216,14605,hardy hide,
-106,Materials_Items,546,2220,14616,Sturdy yet supple skin dropped by beasts when beaten.,
-106,Materials_Items,547,2224,14670,hardy hides,
+106,Materials_Items,544,2212,14594,hardy hide,หนังสัตว์ทนทาน
+106,Materials_Items,545,2216,14605,hardy hide,หนังสัตว์ทนทาน
+106,Materials_Items,546,2220,14616,Sturdy yet supple skin dropped by beasts when beaten.,หนังสัตว์ที่เหนียวแน่นแต่ยืดหยุ่น ตกจากสัตว์ร้ายที่พ่ายแพ้
+106,Materials_Items,547,2224,14670,hardy hides,หนังสัตว์ทนทาน
 106,Materials_Items,548,2228,14682,the ,
 106,Materials_Items,549,2232,14687,the ,
 106,Materials_Items,550,2236,14692,a ,
 106,Materials_Items,551,2240,14695,some ,
-106,Materials_Items,552,2244,14701,twisted talons,
-106,Materials_Items,553,2248,14716,twisted talons,
-106,Materials_Items,554,2252,14731,Don't catch yourself on one of these<MV>it'll hurt like heck<FG>,
-106,Materials_Items,555,2256,14794,pairs of twisted talons,
+106,Materials_Items,552,2244,14701,twisted talons,กรงเล็บคดงอ
+106,Materials_Items,553,2248,14716,twisted talons,กรงเล็บคดงอ
+106,Materials_Items,554,2252,14731,Don't catch yourself on one of these<MV>it'll hurt like heck<FG>,ระวังอย่าให้โดนกรงเล็บนี้บาดเข้าล่ะ<MV>เพราะมันจะเจ็บปวดทรมานสุดๆ ไปเลย<FG>
+106,Materials_Items,555,2256,14794,pairs of twisted talons,กรงเล็บคดงอ
 106,Materials_Items,556,2260,14818,the ,
 106,Materials_Items,557,2264,14823,the ,
 106,Materials_Items,558,2268,14828,a pair of ,
 106,Materials_Items,559,2272,14839,some ,
-106,Materials_Items,560,2276,14845,itty-bitty bone,
-106,Materials_Items,561,2280,14861,itty-bitty bone,
-106,Materials_Items,562,2284,14877,A small but sturdy section of a monster's skeleton.,
-106,Materials_Items,563,2288,14929,itty-bitty bones,
+106,Materials_Items,560,2276,14845,itty-bitty bone,กระดูกชิ้นจิ๋ว
+106,Materials_Items,561,2280,14861,itty-bitty bone,กระดูกชิ้นจิ๋ว
+106,Materials_Items,562,2284,14877,A small but sturdy section of a monster's skeleton.,ชิ้นส่วนกระดูกขนาดเล็กแต่แข็งแกร่งของสัตว์ประหลาด
+106,Materials_Items,563,2288,14929,itty-bitty bones,กระดูกชิ้นจิ๋ว
 106,Materials_Items,564,2292,14946,the ,
 106,Materials_Items,565,2296,14951,the ,
 106,Materials_Items,566,2300,14956,an ,
 106,Materials_Items,567,2304,14960,some ,
-106,Materials_Items,568,2308,14966,small scale,
-106,Materials_Items,569,2312,14978,small scale,
-106,Materials_Items,570,2316,14990,"A fragile, fingernail-sized flake from a fish or reptile.",
-106,Materials_Items,571,2320,15048,small scales,
+106,Materials_Items,568,2308,14966,small scale,เกล็ดปลาขนาดเล็ก
+106,Materials_Items,569,2312,14978,small scale,เกล็ดปลาขนาดเล็ก
+106,Materials_Items,570,2316,14990,"A fragile, fingernail-sized flake from a fish or reptile.",สะเก็ดเกล็ดบางเบาขนาดเท่าเล็บมือจากปลาหรือสัตว์เลื้อยคลาน
+106,Materials_Items,571,2320,15048,small scales,เกล็ดปลาขนาดเล็ก
 106,Materials_Items,572,2324,15061,the ,
 106,Materials_Items,573,2328,15066,the ,
 106,Materials_Items,574,2332,15071,a ,
 106,Materials_Items,575,2336,15074,some ,
-106,Materials_Items,576,2340,15080,permasnow,
-106,Materials_Items,577,2344,15090,permasnow,
-106,Materials_Items,578,2348,15100,Soft snow that strangely doesn't seem to melt.,
-106,Materials_Items,579,2352,15147,handfuls of permasnow,
+106,Materials_Items,576,2340,15080,permasnow,หิมะนิรันดร์
+106,Materials_Items,577,2344,15090,permasnow,หิมะนิรันดร์
+106,Materials_Items,578,2348,15100,Soft snow that strangely doesn't seem to melt.,หิมะเนื้อนุ่มประหลาดที่ดูเหมือนจะไม่มีวันละลาย
+106,Materials_Items,579,2352,15147,handfuls of permasnow,หิมะนิรันดร์
 106,Materials_Items,580,2356,15169,the ,
 106,Materials_Items,581,2360,15174,the ,
 106,Materials_Items,582,2364,15179,a handful of ,
 106,Materials_Items,583,2368,15193,some ,
-106,Materials_Items,584,2372,15199,colossal cactus,
-106,Materials_Items,585,2376,15215,colossal cactus,
-106,Materials_Items,586,2380,15231,Even the spines on this prickly plant are seriously big.,
-106,Materials_Items,587,2384,15288,colossal cacti,
+106,Materials_Items,584,2372,15199,colossal cactus,กระบองเพชรยักษ์
+106,Materials_Items,585,2376,15215,colossal cactus,กระบองเพชรยักษ์
+106,Materials_Items,586,2380,15231,Even the spines on this prickly plant are seriously big.,แม้แต่หนามบนต้นกระบองเพชรต้นนี้ก็ยังมีขนาดใหญ่โตอย่างมาก
+106,Materials_Items,587,2384,15288,colossal cacti,กระบองเพชรยักษ์
 106,Materials_Items,588,2388,15303,the ,
 106,Materials_Items,589,2392,15308,the ,
 106,Materials_Items,590,2396,15313,a ,
 106,Materials_Items,591,2400,15316,some ,
-106,Materials_Items,592,2404,15322,waveweed,
-106,Materials_Items,593,2408,15331,waveweed,
-106,Materials_Items,594,2412,15340,A plant that smells ever so slightly of the sea.,
-106,Materials_Items,595,2416,15389,sprigs of waveweed,
+106,Materials_Items,592,2404,15322,waveweed,สาหร่ายคลื่นสมุทร
+106,Materials_Items,593,2408,15331,waveweed,สาหร่ายคลื่นสมุทร
+106,Materials_Items,594,2412,15340,A plant that smells ever so slightly of the sea.,พืชพรรณที่ส่งกลิ่นอายจางๆ ของท้องทะเล
+106,Materials_Items,595,2416,15389,sprigs of waveweed,สาหร่ายคลื่นสมุทร
 106,Materials_Items,596,2420,15408,the ,
 106,Materials_Items,597,2424,15413,the ,
 106,Materials_Items,598,2428,15418,a sprig of ,
 106,Materials_Items,599,2432,15430,some ,
-106,Materials_Items,600,2436,15436,bendy branch,
-106,Materials_Items,601,2440,15449,bendy branch,
-106,Materials_Items,602,2444,15462,A supple stick that could serve as a makeshift whip.,
-106,Materials_Items,603,2448,15515,bendy branches,
+106,Materials_Items,600,2436,15436,bendy branch,กิ่งไม้ดัดโค้ง
+106,Materials_Items,601,2440,15449,bendy branch,กิ่งไม้ดัดโค้ง
+106,Materials_Items,602,2444,15462,A supple stick that could serve as a makeshift whip.,กิ่งไม้เหนียวนุ่มยืดหยุ่นที่สามารถนำมาดัดแปลงเป็นแส้ชั่วคราวได้
+106,Materials_Items,603,2448,15515,bendy branches,กิ่งไม้ดัดโค้ง
 106,Materials_Items,604,2452,15530,the ,
 106,Materials_Items,605,2456,15535,the ,
 106,Materials_Items,606,2460,15540,a ,
 106,Materials_Items,607,2464,15543,some ,
-106,Materials_Items,608,2468,15549,deadwood,
-106,Materials_Items,609,2472,15558,deadwood,
-106,Materials_Items,610,2476,15567,Peculiar lumber with an ominous aura.,
-106,Materials_Items,611,2480,15605,scraps of deadwood,
+106,Materials_Items,608,2468,15549,deadwood,ไม้ซากศพแห้งกรัง
+106,Materials_Items,609,2472,15558,deadwood,ไม้ซากศพแห้งกรัง
+106,Materials_Items,610,2476,15567,Peculiar lumber with an ominous aura.,เนื้อไม้ประหลาดที่มีออร่าแห่งลางร้ายแผ่ออกมา
+106,Materials_Items,611,2480,15605,scraps of deadwood,ไม้ซากศพแห้งกรัง
 106,Materials_Items,612,2484,15624,the ,
 106,Materials_Items,613,2488,15629,the ,
 106,Materials_Items,614,2492,15634,a scrap of ,
 106,Materials_Items,615,2496,15646,some ,
-106,Materials_Items,616,2500,15652,malicite,
-106,Materials_Items,617,2504,15661,malicite,
-106,Materials_Items,618,2508,15670,A spiteful stone steeped in endless aeons of animosity.,
-106,Materials_Items,619,2512,15726,pieces of malicite,
+106,Materials_Items,616,2500,15652,malicite,หินอาฆาต
+106,Materials_Items,617,2504,15661,malicite,หินอาฆาต
+106,Materials_Items,618,2508,15670,A spiteful stone steeped in endless aeons of animosity.,หินแห่งความเคียดแค้นที่จมปลักอยู่ในความเกลียดชังอันยาวนานนับกัปนับกัลป์
+106,Materials_Items,619,2512,15726,pieces of malicite,หินอาฆาต
 106,Materials_Items,620,2516,15745,the ,
 106,Materials_Items,621,2520,15750,the ,
 106,Materials_Items,622,2524,15755,a piece of ,
 106,Materials_Items,623,2528,15767,some ,
-106,Materials_Items,624,2532,15773,flaxen thread,
-106,Materials_Items,625,2536,15787,flaxen thread,
-106,Materials_Items,626,2540,15801,Fibres of flax spun into strong string.,
-106,Materials_Items,627,2544,15841,spools of flaxen thread,
+106,Materials_Items,624,2532,15773,flaxen thread,ด้ายป่านลินิน
+106,Materials_Items,625,2536,15787,flaxen thread,ด้ายป่านลินิน
+106,Materials_Items,626,2540,15801,Fibres of flax spun into strong string.,เส้นใยจากต้นแฟลกซ์ที่ปั่นเป็นเส้นด้ายอันเหนียวแน่น
+106,Materials_Items,627,2544,15841,spools of flaxen thread,ด้ายป่านลินิน
 106,Materials_Items,628,2548,15865,the ,
 106,Materials_Items,629,2552,15870,the ,
 106,Materials_Items,630,2556,15875,a spool of ,
 106,Materials_Items,631,2560,15887,some ,
-106,Materials_Items,632,2564,15893,cottontop,
-106,Materials_Items,633,2568,15903,cottontop,
-106,Materials_Items,634,2572,15913,"A peculiar plant with a soft, fluffy substance on top.",
-106,Materials_Items,635,2576,15968,sprigs of cottontop,
+106,Materials_Items,632,2564,15893,cottontop,ต้นฝ้ายปุยเมฆ
+106,Materials_Items,633,2568,15903,cottontop,ต้นฝ้ายปุยเมฆ
+106,Materials_Items,634,2572,15913,"A peculiar plant with a soft, fluffy substance on top.",พืชประหลาดที่มีสารนุ่มฟูดั่งปุยเมฆอยู่บนยอด
+106,Materials_Items,635,2576,15968,sprigs of cottontop,ต้นฝ้ายปุยเมฆ
 106,Materials_Items,636,2580,15988,the ,
 106,Materials_Items,637,2584,15993,the ,
 106,Materials_Items,638,2588,15998,a sprig of ,
 106,Materials_Items,639,2592,16010,some ,
-106,Materials_Items,640,2596,16016,silkblossom,
-106,Materials_Items,641,2600,16028,silkblossom,
-106,Materials_Items,642,2604,16040,A precious plant that produces fine fibres.,
-106,Materials_Items,643,2608,16084,sprigs of silkblossom,
+106,Materials_Items,640,2596,16016,silkblossom,ดอกไม้ไหมทอง
+106,Materials_Items,641,2600,16028,silkblossom,ดอกไม้ไหมทอง
+106,Materials_Items,642,2604,16040,A precious plant that produces fine fibres.,พืชล้ำค่าที่ให้เส้นใยไหมเนื้อละเอียดประณีต
+106,Materials_Items,643,2608,16084,sprigs of silkblossom,ดอกไม้ไหมทอง
 106,Materials_Items,644,2612,16106,the ,
 106,Materials_Items,645,2616,16111,the ,
 106,Materials_Items,646,2620,16116,a sprig of ,
 106,Materials_Items,647,2624,16128,some ,
-106,Materials_Items,648,2628,16134,glimmergrass,
-106,Materials_Items,649,2632,16147,glimmergrass,
-106,Materials_Items,650,2636,16160,Mysterious and mesmerising grass that glows.,
-106,Materials_Items,651,2640,16205,sprigs of glimmergrass,
+106,Materials_Items,648,2628,16134,glimmergrass,หญ้าเรืองแสง
+106,Materials_Items,649,2632,16147,glimmergrass,หญ้าเรืองแสง
+106,Materials_Items,650,2636,16160,Mysterious and mesmerising grass that glows.,หญ้าลึกลับชวนหลงใหลที่สามารถเปล่งแสงเรืองรองในความมืด
+106,Materials_Items,651,2640,16205,sprigs of glimmergrass,หญ้าเรืองแสง
 106,Materials_Items,652,2644,16228,the ,
 106,Materials_Items,653,2648,16233,the ,
 106,Materials_Items,654,2652,16238,a sprig of ,
 106,Materials_Items,655,2656,16250,some ,
-106,Materials_Items,656,2660,16256,colourful cocoon,
-106,Materials_Items,657,2664,16273,colourful cocoon,
-106,Materials_Items,658,2668,16290,A pretty pupa in all the colours of the rainbow.,
-106,Materials_Items,659,2672,16339,colourful cocoons,
+106,Materials_Items,656,2660,16256,colourful cocoon,รังไหมสีรุ้ง
+106,Materials_Items,657,2664,16273,colourful cocoon,รังไหมสีรุ้ง
+106,Materials_Items,658,2668,16290,A pretty pupa in all the colours of the rainbow.,รังดักแด้แสนสวยที่มีสีสันครบทุกสีของสายรุ้ง
+106,Materials_Items,659,2672,16339,colourful cocoons,รังไหมสีรุ้ง
 106,Materials_Items,660,2676,16357,the ,
 106,Materials_Items,661,2680,16362,the ,
 106,Materials_Items,662,2684,16367,a ,
 106,Materials_Items,663,2688,16370,some ,
-106,Materials_Items,664,2692,16376,silver ore,
-106,Materials_Items,665,2696,16387,silver ore,
-106,Materials_Items,666,2700,16398,All silver is made from this marvellous mineral.,
-106,Materials_Items,667,2704,16447,chunks of silver ore,
+106,Materials_Items,664,2692,16376,silver ore,แร่เงิน
+106,Materials_Items,665,2696,16387,silver ore,แร่เงิน
+106,Materials_Items,666,2700,16398,All silver is made from this marvellous mineral.,เครื่องเงินทั้งหมดล้วนถลุงขึ้นมาจากแร่มหัศจรรย์ชนิดนี้
+106,Materials_Items,667,2704,16447,chunks of silver ore,แร่เงิน
 106,Materials_Items,668,2708,16468,the ,
 106,Materials_Items,669,2712,16473,the ,
 106,Materials_Items,670,2716,16478,a chunk of ,
 106,Materials_Items,671,2720,16490,some ,
-106,Materials_Items,672,2724,16496,darkonium,
-106,Materials_Items,673,2728,16506,darkonium,
-106,Materials_Items,674,2732,16516,A beautiful crystal with a creepy crimson glow.,
-106,Materials_Items,675,2736,16564,chunks of darkonium,
+106,Materials_Items,672,2724,16496,darkonium,แร่ดาร์โกเนียม
+106,Materials_Items,673,2728,16506,darkonium,แร่ดาร์โกเนียม
+106,Materials_Items,674,2732,16516,A beautiful crystal with a creepy crimson glow.,ผลึกคริสตัลอันงดงามที่มีแสงสีแดงเลือดอันน่าขนลุกเปล่งออกมา
+106,Materials_Items,675,2736,16564,chunks of darkonium,แร่ดาร์โกเนียม
 106,Materials_Items,676,2740,16584,the ,
 106,Materials_Items,677,2744,16589,the ,
 106,Materials_Items,678,2748,16594,a chunk of ,
 106,Materials_Items,679,2752,16606,some ,
-106,Materials_Items,680,2756,16612,orichalcum,
-106,Materials_Items,681,2760,16623,orichalcum,
-106,Materials_Items,682,2764,16634,A rare metal said to be more durable than any other.,
-106,Materials_Items,683,2768,16687,chunks of orichalcum,
+106,Materials_Items,680,2756,16612,orichalcum,แร่โอริฮัลกอน
+106,Materials_Items,681,2760,16623,orichalcum,แร่โอริฮัลกอน
+106,Materials_Items,682,2764,16634,A rare metal said to be more durable than any other.,โลหะหายากที่เล่าขานกันว่ามีความแข็งแกร่งทนทานยิ่งกว่าโลหะใดๆ ในโลก
+106,Materials_Items,683,2768,16687,chunks of orichalcum,แร่โอริฮัลกอน
 106,Materials_Items,684,2772,16708,the ,
 106,Materials_Items,685,2776,16713,the ,
 106,Materials_Items,686,2780,16718,a chunk of ,
 106,Materials_Items,687,2784,16730,some ,
-106,Materials_Items,688,2788,16736,fine fur,
-106,Materials_Items,689,2792,16745,fine fur,
-106,Materials_Items,690,2796,16754,A piece of the pelt of a pretty fluffy creature.,
-106,Materials_Items,691,2800,16803,clumps of fine fur,
+106,Materials_Items,688,2788,16736,fine fur,ขนสัตว์ชั้นดี
+106,Materials_Items,689,2792,16745,fine fur,ขนสัตว์ชั้นดี
+106,Materials_Items,690,2796,16754,A piece of the pelt of a pretty fluffy creature.,ผืนหนังขนสัตว์นุ่มฟูแสนสวยของสิ่งมีชีวิตน่ารัก
+106,Materials_Items,691,2800,16803,clumps of fine fur,ขนสัตว์ชั้นดี
 106,Materials_Items,692,2804,16822,the ,
 106,Materials_Items,693,2808,16827,the ,
 106,Materials_Items,694,2812,16832,a clump of ,
 106,Materials_Items,695,2816,16844,some ,
-106,Materials_Items,696,2820,16850,odd clod,
-106,Materials_Items,697,2824,16859,odd clod,
-106,Materials_Items,698,2828,16868,An ugly but extremely adhesive mass of mud.,
-106,Materials_Items,699,2832,16912,odd clods,
+106,Materials_Items,696,2820,16850,odd clod,ก้อนดินเหนียวหนืด
+106,Materials_Items,697,2824,16859,odd clod,ก้อนดินเหนียวหนืด
+106,Materials_Items,698,2828,16868,An ugly but extremely adhesive mass of mud.,ก้อนดินเหนียวหน้าตาน่าเกลียดแต่มีคุณสมบัติยึดเกาะติดแน่นเป็นเลิศ
+106,Materials_Items,699,2832,16912,odd clods,ก้อนดินเหนียวหนืด
 106,Materials_Items,700,2836,16922,the ,
 106,Materials_Items,701,2840,16927,the ,
 106,Materials_Items,702,2844,16932,an ,
 106,Materials_Items,703,2848,16936,some ,
-106,Materials_Items,704,2852,16942,red eye,
-106,Materials_Items,705,2856,16950,red eye,
-106,Materials_Items,706,2860,16958,A precious stone that burns with a blood-red glow.,
-106,Materials_Items,707,2864,17009,red eyes,
+106,Materials_Items,704,2852,16942,red eye,อัญมณีเนตรสีเพลิง
+106,Materials_Items,705,2856,16950,red eye,อัญมณีเนตรสีเพลิง
+106,Materials_Items,706,2860,16958,A precious stone that burns with a blood-red glow.,หินล้ำค่าที่แผดเผาด้วยแสงสีแดงดั่งเลือด
+106,Materials_Items,707,2864,17009,red eyes,อัญมณีเนตรสีเพลิง
 106,Materials_Items,708,2868,17018,the ,
 106,Materials_Items,709,2872,17023,the ,
 106,Materials_Items,710,2876,17028,a ,
 106,Materials_Items,711,2880,17031,some ,
-106,Materials_Items,712,2884,17037,blue eye,
-106,Materials_Items,713,2888,17046,blue eye,
-106,Materials_Items,714,2892,17055,A precious stone that beams out a brilliant blue light.,
-106,Materials_Items,715,2896,17111,blue eyes,
+106,Materials_Items,712,2884,17037,blue eye,อัญมณีเนตรสมุทร
+106,Materials_Items,713,2888,17046,blue eye,อัญมณีเนตรสมุทร
+106,Materials_Items,714,2892,17055,A precious stone that beams out a brilliant blue light.,หินล้ำค่าที่ส่องประกายแสงสีฟ้าสดใสเจิดจ้า
+106,Materials_Items,715,2896,17111,blue eyes,อัญมณีเนตรสมุทร
 106,Materials_Items,716,2900,17121,the ,
 106,Materials_Items,717,2904,17126,the ,
 106,Materials_Items,718,2908,17131,a ,
 106,Materials_Items,719,2912,17134,some ,
-106,Materials_Items,720,2916,17140,savvy sapphire,
-106,Materials_Items,721,2920,17155,savvy sapphire,
-106,Materials_Items,722,2924,17170,A bright blue gem said to sharpen the senses.,
-106,Materials_Items,723,2928,17216,savvy sapphires,
+106,Materials_Items,720,2916,17140,savvy sapphire,ไพลินเฉลียวฉลาด
+106,Materials_Items,721,2920,17155,savvy sapphire,ไพลินเฉลียวฉลาด
+106,Materials_Items,722,2924,17170,A bright blue gem said to sharpen the senses.,อัญมณีสีน้ำเงินสว่างที่เล่าขานกันว่าจะช่วยเพิ่มพูนประสาทสัมผัสให้เฉียบคม
+106,Materials_Items,723,2928,17216,savvy sapphires,ไพลินเฉลียวฉลาด
 106,Materials_Items,724,2932,17232,the ,
 106,Materials_Items,725,2936,17237,the ,
 106,Materials_Items,726,2940,17242,a ,
 106,Materials_Items,727,2944,17245,some ,
-106,Materials_Items,728,2948,17251,large scale,
-106,Materials_Items,729,2952,17263,large scale,
-106,Materials_Items,730,2956,17275,A fair-sized flake from a fish or reptile.,
-106,Materials_Items,731,2960,17318,large scales,
+106,Materials_Items,728,2948,17251,large scale,เกล็ดขนาดใหญ่
+106,Materials_Items,729,2952,17263,large scale,เกล็ดขนาดใหญ่
+106,Materials_Items,730,2956,17275,A fair-sized flake from a fish or reptile.,สะเก็ดเกล็ดขนาดใหญ่พอเหมาะจากปลาหรือสัตว์เลื้อยคลาน
+106,Materials_Items,731,2960,17318,large scales,เกล็ดขนาดใหญ่
 106,Materials_Items,732,2964,17331,the ,
 106,Materials_Items,733,2968,17336,the ,
 106,Materials_Items,734,2972,17341,a ,
 106,Materials_Items,735,2976,17344,some ,
-106,Materials_Items,736,2980,17350,big bone,
-106,Materials_Items,737,2984,17359,big bone,
-106,Materials_Items,738,2988,17368,A sizeable section of...something's skeleton.,
-106,Materials_Items,739,2992,17414,big bones,
+106,Materials_Items,736,2980,17350,big bone,กระดูกชิ้นโต
+106,Materials_Items,737,2984,17359,big bone,กระดูกชิ้นโต
+106,Materials_Items,738,2988,17368,A sizeable section of...something's skeleton.,ชิ้นส่วนกระดูกขนาดใหญ่ของสิ่งมีชีวิตบางอย่าง
+106,Materials_Items,739,2992,17414,big bones,กระดูกชิ้นโต
 106,Materials_Items,740,2996,17424,the ,
 106,Materials_Items,741,3000,17429,the ,
 106,Materials_Items,742,3004,17434,a ,
 106,Materials_Items,743,3008,17437,some ,
-106,Materials_Items,744,3012,17443,colossal fossil,
-106,Materials_Items,745,3016,17459,colossal fossil,
-106,Materials_Items,746,3020,17475,The remains of a rare creature dug up from deep down.,
-106,Materials_Items,747,3024,17529,colossal fossils,
+106,Materials_Items,744,3012,17443,colossal fossil,ซากดึกดำบรรพ์ขนาดยักษ์
+106,Materials_Items,745,3016,17459,colossal fossil,ซากดึกดำบรรพ์ขนาดยักษ์
+106,Materials_Items,746,3020,17475,The remains of a rare creature dug up from deep down.,ซากฟอสซิลโบราณของสิ่งมีชีวิตหายากที่ขุดพบจากใต้ผืนพิภพส่วนลึก
+106,Materials_Items,747,3024,17529,colossal fossils,ซากดึกดำบรรพ์ขนาดยักษ์
 106,Materials_Items,748,3028,17546,the ,
 106,Materials_Items,749,3032,17551,the ,
 106,Materials_Items,750,3036,17556,a ,
 106,Materials_Items,751,3040,17559,some ,
-106,Materials_Items,752,3044,17565,mythic beast bone,
-106,Materials_Items,753,3048,17583,mythic beast bone,
-106,Materials_Items,754,3052,17601,Believed to be the remnant of an incredible creature.,
-106,Materials_Items,755,3056,17655,mythic beast bones,
+106,Materials_Items,752,3044,17565,mythic beast bone,กระดูกสัตว์เทวะในตำนาน
+106,Materials_Items,753,3048,17583,mythic beast bone,กระดูกสัตว์เทวะในตำนาน
+106,Materials_Items,754,3052,17601,Believed to be the remnant of an incredible creature.,เชื่อกันว่าเป็นชิ้นส่วนซากที่หลงเหลืออยู่ของสิ่งมีชีวิตในตำนานอันน่าอัศจรรย์
+106,Materials_Items,755,3056,17655,mythic beast bones,กระดูกสัตว์เทวะในตำนาน
 106,Materials_Items,756,3060,17674,the ,
 106,Materials_Items,757,3064,17679,the ,
 106,Materials_Items,758,3068,17684,a ,
 106,Materials_Items,759,3072,17687,some ,
-106,Materials_Items,760,3076,17693,powdered slime earrings,
-106,Materials_Items,761,3080,17717,powdered slime earrings,
-106,Materials_Items,762,3084,17741,An accessory that has been reduced to dust.,
-106,Materials_Items,763,3088,17785,pouches of powdered slime earrings,
+106,Materials_Items,760,3076,17693,powdered slime earrings,ผงต่างหูสไลม์
+106,Materials_Items,761,3080,17717,powdered slime earrings,ผงต่างหูสไลม์
+106,Materials_Items,762,3084,17741,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,763,3088,17785,pouches of powdered slime earrings,ผงต่างหูสไลม์
 106,Materials_Items,764,3092,17820,the ,
 106,Materials_Items,765,3096,17825,the ,
 106,Materials_Items,766,3100,17830,a pouch of ,
 106,Materials_Items,767,3104,17842,some ,
-106,Materials_Items,768,3108,17848,powdered restless heart,
-106,Materials_Items,769,3112,17872,powdered restless heart,
-106,Materials_Items,770,3116,17896,An accessory that has been reduced to dust.,
-106,Materials_Items,771,3120,17940,pouches of powdered restless heart,
+106,Materials_Items,768,3108,17848,powdered restless heart,ผงหัวใจกระสับกระส่าย
+106,Materials_Items,769,3112,17872,powdered restless heart,ผงหัวใจกระสับกระส่าย
+106,Materials_Items,770,3116,17896,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,771,3120,17940,pouches of powdered restless heart,ผงหัวใจกระสับกระส่าย
 106,Materials_Items,772,3124,17975,the ,
 106,Materials_Items,773,3128,17980,the ,
 106,Materials_Items,774,3132,17985,a pouch of ,
 106,Materials_Items,775,3136,17997,some ,
-106,Materials_Items,776,3140,18003,powdered monocle,
-106,Materials_Items,777,3144,18020,powdered monocle,
-106,Materials_Items,778,3148,18037,An accessory that has been reduced to dust.,
-106,Materials_Items,779,3152,18081,pouches of powdered monocle,
+106,Materials_Items,776,3140,18003,powdered monocle,ผงแว่นตาข้างเดียว
+106,Materials_Items,777,3144,18020,powdered monocle,ผงแว่นตาข้างเดียว
+106,Materials_Items,778,3148,18037,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,779,3152,18081,pouches of powdered monocle,ผงแว่นตาข้างเดียว
 106,Materials_Items,780,3156,18109,the ,
 106,Materials_Items,781,3160,18114,the ,
 106,Materials_Items,782,3164,18119,a pouch of ,
 106,Materials_Items,783,3168,18131,some ,
-106,Materials_Items,784,3172,18137,powdered gold ring,
-106,Materials_Items,785,3176,18156,powdered gold ring,
-106,Materials_Items,786,3180,18175,An accessory that has been reduced to dust.,
-106,Materials_Items,787,3184,18219,pouches of powdered gold ring,
+106,Materials_Items,784,3172,18137,powdered gold ring,ผงแหวนทองคำ
+106,Materials_Items,785,3176,18156,powdered gold ring,ผงแหวนทองคำ
+106,Materials_Items,786,3180,18175,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,787,3184,18219,pouches of powdered gold ring,ผงแหวนทองคำ
 106,Materials_Items,788,3188,18249,the ,
 106,Materials_Items,789,3192,18254,the ,
 106,Materials_Items,790,3196,18259,a pouch of ,
 106,Materials_Items,791,3200,18271,some ,
-106,Materials_Items,792,3204,18277,powdered bunny tail,
-106,Materials_Items,793,3208,18297,powdered bunny tail,
-106,Materials_Items,794,3212,18317,An accessory that has been reduced to dust.,
-106,Materials_Items,795,3216,18361,pouches of powdered bunny tail,
+106,Materials_Items,792,3204,18277,powdered bunny tail,ผงหางกระต่าย
+106,Materials_Items,793,3208,18297,powdered bunny tail,ผงหางกระต่าย
+106,Materials_Items,794,3212,18317,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,795,3216,18361,pouches of powdered bunny tail,ผงหางกระต่าย
 106,Materials_Items,796,3220,18392,the ,
 106,Materials_Items,797,3224,18397,the ,
 106,Materials_Items,798,3228,18402,a pouch of ,
 106,Materials_Items,799,3232,18414,some ,
-106,Materials_Items,800,3236,18420,powdered mechanical monocle,
-106,Materials_Items,801,3240,18448,powdered mechanical monocle,
-106,Materials_Items,802,3244,18476,An accessory that has been reduced to dust.,
-106,Materials_Items,803,3248,18520,pouches of powdered mechanical monocle,
+106,Materials_Items,800,3236,18420,powdered mechanical monocle,ผงแว่นตาจักรกลข้างเดียว
+106,Materials_Items,801,3240,18448,powdered mechanical monocle,ผงแว่นตาจักรกลข้างเดียว
+106,Materials_Items,802,3244,18476,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,803,3248,18520,pouches of powdered mechanical monocle,ผงแว่นตาจักรกลข้างเดียว
 106,Materials_Items,804,3252,18559,the ,
 106,Materials_Items,805,3256,18564,the ,
 106,Materials_Items,806,3260,18569,a pouch of ,
 106,Materials_Items,807,3264,18581,some ,
-106,Materials_Items,808,3268,18587,powdered gold bracer,
-106,Materials_Items,809,3272,18608,powdered gold bracer,
-106,Materials_Items,810,3276,18629,An accessory that has been reduced to dust.,
-106,Materials_Items,811,3280,18673,pouches of powdered gold bracer,
+106,Materials_Items,808,3268,18587,powdered gold bracer,ผงปลอกแขนทองคำ
+106,Materials_Items,809,3272,18608,powdered gold bracer,ผงปลอกแขนทองคำ
+106,Materials_Items,810,3276,18629,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,811,3280,18673,pouches of powdered gold bracer,ผงปลอกแขนทองคำ
 106,Materials_Items,812,3284,18705,the ,
 106,Materials_Items,813,3288,18710,the ,
 106,Materials_Items,814,3292,18715,a pouch of ,
 106,Materials_Items,815,3296,18727,some ,
-106,Materials_Items,816,3300,18733,powdered champion's choker,
-106,Materials_Items,817,3304,18760,powdered champion's choker,
-106,Materials_Items,818,3308,18787,An accessory that has been reduced to dust.,
-106,Materials_Items,819,3312,18831,pouches of powdered champion's choker,
+106,Materials_Items,816,3300,18733,powdered champion's choker,ผงปลอกคอผู้พิชิต
+106,Materials_Items,817,3304,18760,powdered champion's choker,ผงปลอกคอผู้พิชิต
+106,Materials_Items,818,3308,18787,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,819,3312,18831,pouches of powdered champion's choker,ผงปลอกคอผู้พิชิต
 106,Materials_Items,820,3316,18869,the ,
 106,Materials_Items,821,3320,18874,the ,
 106,Materials_Items,822,3324,18879,a pouch of ,
 106,Materials_Items,823,3328,18891,some ,
-106,Materials_Items,824,3332,18897,powdered earthwyrm's eye,
-106,Materials_Items,825,3336,18922,powdered earthwyrm's eye,
-106,Materials_Items,826,3340,18947,An accessory that has been reduced to dust.,
-106,Materials_Items,827,3344,18991,pouches of powdered earthwyrm's eye,
+106,Materials_Items,824,3332,18897,powdered earthwyrm's eye,ผงเนตรมังกรปฐพี
+106,Materials_Items,825,3336,18922,powdered earthwyrm's eye,ผงเนตรมังกรปฐพี
+106,Materials_Items,826,3340,18947,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,827,3344,18991,pouches of powdered earthwyrm's eye,ผงเนตรมังกรปฐพี
 106,Materials_Items,828,3348,19027,the ,
 106,Materials_Items,829,3352,19032,the ,
 106,Materials_Items,830,3356,19037,a pouch of ,
 106,Materials_Items,831,3360,19049,some ,
-106,Materials_Items,832,3364,19055,powdered scholar's specs,
-106,Materials_Items,833,3368,19080,powdered scholar's specs,
-106,Materials_Items,834,3372,19105,An accessory that has been reduced to dust.,
-106,Materials_Items,835,3376,19149,pouches of powdered scholar's specs,
+106,Materials_Items,832,3364,19055,powdered scholar's specs,ผงแว่นตานักปราชญ์
+106,Materials_Items,833,3368,19080,powdered scholar's specs,ผงแว่นตานักปราชญ์
+106,Materials_Items,834,3372,19105,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,835,3376,19149,pouches of powdered scholar's specs,ผงแว่นตานักปราชญ์
 106,Materials_Items,836,3380,19185,the ,
 106,Materials_Items,837,3384,19190,the ,
 106,Materials_Items,838,3388,19195,a pouch of ,
 106,Materials_Items,839,3392,19207,some ,
-106,Materials_Items,840,3396,19213,powdered Kamikazee bracer,
-106,Materials_Items,841,3400,19239,powdered Kamikazee bracer,
-106,Materials_Items,842,3404,19265,An accessory that has been reduced to dust.,
-106,Materials_Items,843,3408,19309,pouches of powdered Kamikazee bracer,
+106,Materials_Items,840,3396,19213,powdered Kamikazee bracer,ผงปลอกแขนสละชีพ
+106,Materials_Items,841,3400,19239,powdered Kamikazee bracer,ผงปลอกแขนสละชีพ
+106,Materials_Items,842,3404,19265,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,843,3408,19309,pouches of powdered Kamikazee bracer,ผงปลอกแขนสละชีพ
 106,Materials_Items,844,3412,19346,the ,
 106,Materials_Items,845,3416,19351,the ,
 106,Materials_Items,846,3420,19356,a pouch of ,
 106,Materials_Items,847,3424,19368,some ,
-106,Materials_Items,848,3428,19374,powdered ring of riddance,
-106,Materials_Items,849,3432,19400,powdered ring of riddance,
-106,Materials_Items,850,3436,19426,An accessory that has been reduced to dust.,
-106,Materials_Items,851,3440,19470,pouches of powdered ring of riddance,
+106,Materials_Items,848,3428,19374,powdered ring of riddance,ผงแหวนขจัดภัย
+106,Materials_Items,849,3432,19400,powdered ring of riddance,ผงแหวนขจัดภัย
+106,Materials_Items,850,3436,19426,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,851,3440,19470,pouches of powdered ring of riddance,ผงแหวนขจัดภัย
 106,Materials_Items,852,3444,19507,the ,
 106,Materials_Items,853,3448,19512,the ,
 106,Materials_Items,854,3452,19517,a pouch of ,
 106,Materials_Items,855,3456,19529,some ,
-106,Materials_Items,856,3460,19535,powdered tough guy tattoo,
-106,Materials_Items,857,3464,19561,powdered tough guy tattoo,
-106,Materials_Items,858,3468,19587,An accessory that has been reduced to dust.,
-106,Materials_Items,859,3472,19631,pouches of powdered tough guy tattoo,
+106,Materials_Items,856,3460,19535,powdered tough guy tattoo,ผงรอยสักคนเหล็ก
+106,Materials_Items,857,3464,19561,powdered tough guy tattoo,ผงรอยสักคนเหล็ก
+106,Materials_Items,858,3468,19587,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,859,3472,19631,pouches of powdered tough guy tattoo,ผงรอยสักคนเหล็ก
 106,Materials_Items,860,3476,19668,the ,
 106,Materials_Items,861,3480,19673,the ,
 106,Materials_Items,862,3484,19678,a pouch of ,
 106,Materials_Items,863,3488,19690,some ,
-106,Materials_Items,864,3492,19696,powdered strength ring,
-106,Materials_Items,865,3496,19719,powdered strength ring,
-106,Materials_Items,866,3500,19742,An accessory that has been reduced to dust.,
-106,Materials_Items,867,3504,19786,pouches of powdered strength ring,
+106,Materials_Items,864,3492,19696,powdered strength ring,ผงแหวนพลังกาย
+106,Materials_Items,865,3496,19719,powdered strength ring,ผงแหวนพลังกาย
+106,Materials_Items,866,3500,19742,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,867,3504,19786,pouches of powdered strength ring,ผงแหวนพลังกาย
 106,Materials_Items,868,3508,19820,the ,
 106,Materials_Items,869,3512,19825,the ,
 106,Materials_Items,870,3516,19830,a pouch of ,
 106,Materials_Items,871,3520,19842,some ,
-106,Materials_Items,872,3524,19848,powdered meteorite bracer,
-106,Materials_Items,873,3528,19874,powdered meteorite bracer,
-106,Materials_Items,874,3532,19900,An accessory that has been reduced to dust.,
-106,Materials_Items,875,3536,19944,pouches of powdered meteorite bracer,
+106,Materials_Items,872,3524,19848,powdered meteorite bracer,ผงปลอกแขนอุกกาบาต
+106,Materials_Items,873,3528,19874,powdered meteorite bracer,ผงปลอกแขนอุกกาบาต
+106,Materials_Items,874,3532,19900,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,875,3536,19944,pouches of powdered meteorite bracer,ผงปลอกแขนอุกกาบาต
 106,Materials_Items,876,3540,19981,the ,
 106,Materials_Items,877,3544,19986,the ,
 106,Materials_Items,878,3548,19991,a pouch of ,
 106,Materials_Items,879,3552,20003,some ,
-106,Materials_Items,880,3556,20009,powdered agility ring,
-106,Materials_Items,881,3560,20031,powdered agility ring,
-106,Materials_Items,882,3564,20053,An accessory that has been reduced to dust.,
-106,Materials_Items,883,3568,20097,pouches of powdered agility ring,
+106,Materials_Items,880,3556,20009,powdered agility ring,ผงแหวนความว่องไว
+106,Materials_Items,881,3560,20031,powdered agility ring,ผงแหวนความว่องไว
+106,Materials_Items,882,3564,20053,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,883,3568,20097,pouches of powdered agility ring,ผงแหวนความว่องไว
 106,Materials_Items,884,3572,20130,the ,
 106,Materials_Items,885,3576,20135,the ,
 106,Materials_Items,886,3580,20140,a pouch of ,
 106,Materials_Items,887,3584,20152,some ,
-106,Materials_Items,888,3588,20158,powdered raging ruby,
-106,Materials_Items,889,3592,20179,powdered raging ruby,
-106,Materials_Items,890,3596,20200,An accessory that has been reduced to dust.,
-106,Materials_Items,891,3600,20244,pouches of powdered raging ruby,
+106,Materials_Items,888,3588,20158,powdered raging ruby,ผงทับทิมพิโรธ
+106,Materials_Items,889,3592,20179,powdered raging ruby,ผงทับทิมพิโรธ
+106,Materials_Items,890,3596,20200,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,891,3600,20244,pouches of powdered raging ruby,ผงทับทิมพิโรธ
 106,Materials_Items,892,3604,20276,the ,
 106,Materials_Items,893,3608,20281,the ,
 106,Materials_Items,894,3612,20286,a pouch of ,
 106,Materials_Items,895,3616,20298,some ,
-106,Materials_Items,896,3620,20304,powdered ruby of protection,
-106,Materials_Items,897,3624,20332,powdered ruby of protection,
-106,Materials_Items,898,3628,20360,An accessory that has been reduced to dust.,
-106,Materials_Items,899,3632,20404,pouches of powdered ruby of protection,
+106,Materials_Items,896,3620,20304,powdered ruby of protection,ผงทับทิมคุ้มกาย
+106,Materials_Items,897,3624,20332,powdered ruby of protection,ผงทับทิมคุ้มกาย
+106,Materials_Items,898,3628,20360,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,899,3632,20404,pouches of powdered ruby of protection,ผงทับทิมคุ้มกาย
 106,Materials_Items,900,3636,20443,the ,
 106,Materials_Items,901,3640,20448,the ,
 106,Materials_Items,902,3644,20453,a pouch of ,
 106,Materials_Items,903,3648,20465,some ,
-106,Materials_Items,904,3652,20471,powdered prayer ring,
-106,Materials_Items,905,3656,20492,powdered prayer ring,
-106,Materials_Items,906,3660,20513,An accessory that has been reduced to dust.,
-106,Materials_Items,907,3664,20557,pouches of powdered prayer ring,
+106,Materials_Items,904,3652,20471,powdered prayer ring,ผงแหวนอธิษฐาน
+106,Materials_Items,905,3656,20492,powdered prayer ring,ผงแหวนอธิษฐาน
+106,Materials_Items,906,3660,20513,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,907,3664,20557,pouches of powdered prayer ring,ผงแหวนอธิษฐาน
 106,Materials_Items,908,3668,20589,the ,
 106,Materials_Items,909,3672,20594,the ,
 106,Materials_Items,910,3676,20599,a pouch of ,
 106,Materials_Items,911,3680,20611,some ,
-106,Materials_Items,912,3684,20617,powdered gold rosary,
-106,Materials_Items,913,3688,20638,powdered gold rosary,
-106,Materials_Items,914,3692,20659,An accessory that has been reduced to dust.,
-106,Materials_Items,915,3696,20703,pouches of powdered gold rosary,
+106,Materials_Items,912,3684,20617,powdered gold rosary,ผงสายประคำทองคำ
+106,Materials_Items,913,3688,20638,powdered gold rosary,ผงสายประคำทองคำ
+106,Materials_Items,914,3692,20659,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,915,3696,20703,pouches of powdered gold rosary,ผงสายประคำทองคำ
 106,Materials_Items,916,3700,20735,the ,
 106,Materials_Items,917,3704,20740,the ,
 106,Materials_Items,918,3708,20745,a pouch of ,
 106,Materials_Items,919,3712,20757,some ,
-106,Materials_Items,920,3716,20763,powdered beckoning bell,
-106,Materials_Items,921,3720,20787,powdered beckoning bell,
-106,Materials_Items,922,3724,20811,An accessory that has been reduced to dust.,
-106,Materials_Items,923,3728,20855,pouches of powdered beckoning bell,
+106,Materials_Items,920,3716,20763,powdered beckoning bell,ผงกระดิ่งเพรียกหา
+106,Materials_Items,921,3720,20787,powdered beckoning bell,ผงกระดิ่งเพรียกหา
+106,Materials_Items,922,3724,20811,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,923,3728,20855,pouches of powdered beckoning bell,ผงกระดิ่งเพรียกหา
 106,Materials_Items,924,3732,20890,the ,
 106,Materials_Items,925,3736,20895,the ,
 106,Materials_Items,926,3740,20900,a pouch of ,
 106,Materials_Items,927,3744,20912,some ,
-106,Materials_Items,928,3748,20918,powdered titan belt,
-106,Materials_Items,929,3752,20938,powdered titan belt,
-106,Materials_Items,930,3756,20958,An accessory that has been reduced to dust.,
-106,Materials_Items,931,3760,21002,pouches of powdered titan belt,
+106,Materials_Items,928,3748,20918,powdered titan belt,ผงเข็มขัดไททัน
+106,Materials_Items,929,3752,20938,powdered titan belt,ผงเข็มขัดไททัน
+106,Materials_Items,930,3756,20958,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,931,3760,21002,pouches of powdered titan belt,ผงเข็มขัดไททัน
 106,Materials_Items,932,3764,21033,the ,
 106,Materials_Items,933,3768,21038,the ,
 106,Materials_Items,934,3772,21043,a pouch of ,
 106,Materials_Items,935,3776,21055,some ,
-106,Materials_Items,936,3780,21061,powdered life ring,
-106,Materials_Items,937,3784,21080,powdered life ring,
-106,Materials_Items,938,3788,21099,An accessory that has been reduced to dust.,
-106,Materials_Items,939,3792,21143,pouches of powdered life ring,
+106,Materials_Items,936,3780,21061,powdered life ring,ผงแหวนชีวิต
+106,Materials_Items,937,3784,21080,powdered life ring,ผงแหวนชีวิต
+106,Materials_Items,938,3788,21099,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,939,3792,21143,pouches of powdered life ring,ผงแหวนชีวิต
 106,Materials_Items,940,3796,21173,the ,
 106,Materials_Items,941,3800,21178,the ,
 106,Materials_Items,942,3804,21183,a pouch of ,
 106,Materials_Items,943,3808,21195,some ,
-106,Materials_Items,944,3812,21201,powdered elevating shoes,
-106,Materials_Items,945,3816,21226,powdered elevating shoes,
-106,Materials_Items,946,3820,21251,An accessory that has been reduced to dust.,
-106,Materials_Items,947,3824,21295,pouches of powdered elevating shoes,
+106,Materials_Items,944,3812,21201,powdered elevating shoes,ผงรองเท้ายกระดับ
+106,Materials_Items,945,3816,21226,powdered elevating shoes,ผงรองเท้ายกระดับ
+106,Materials_Items,946,3820,21251,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,947,3824,21295,pouches of powdered elevating shoes,ผงรองเท้ายกระดับ
 106,Materials_Items,948,3828,21331,the ,
 106,Materials_Items,949,3832,21336,the ,
 106,Materials_Items,950,3836,21341,a pouch of ,
 106,Materials_Items,951,3840,21353,some ,
-106,Materials_Items,952,3844,21359,powdered über ace of spoils,
-106,Materials_Items,953,3848,21388,powdered über ace of spoils,
-106,Materials_Items,954,3852,21417,An accessory that has been reduced to dust.,
-106,Materials_Items,955,3856,21461,pouches of powdered über ace of spoils,
+106,Materials_Items,952,3844,21359,powdered über ace of spoils,ผงไพ่โชคลาภชั้นยอด
+106,Materials_Items,953,3848,21388,powdered über ace of spoils,ผงไพ่โชคลาภชั้นยอด
+106,Materials_Items,954,3852,21417,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,955,3856,21461,pouches of powdered über ace of spoils,ผงไพ่โชคลาภชั้นยอด
 106,Materials_Items,956,3860,21501,the ,
 106,Materials_Items,957,3864,21506,the ,
 106,Materials_Items,958,3868,21511,a pouch of ,
 106,Materials_Items,959,3872,21523,some ,
-106,Materials_Items,960,3876,21529,powdered sorcerer's ring,
-106,Materials_Items,961,3880,21554,powdered sorcerer's ring,
-106,Materials_Items,962,3884,21579,An accessory that has been reduced to dust.,
-106,Materials_Items,963,3888,21623,pouches of powdered sorcerer's ring,
+106,Materials_Items,960,3876,21529,powdered sorcerer's ring,ผงแหวนจอมเวท
+106,Materials_Items,961,3880,21554,powdered sorcerer's ring,ผงแหวนจอมเวท
+106,Materials_Items,962,3884,21579,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,963,3888,21623,pouches of powdered sorcerer's ring,ผงแหวนจอมเวท
 106,Materials_Items,964,3892,21659,the ,
 106,Materials_Items,965,3896,21664,the ,
 106,Materials_Items,966,3900,21669,a pouch of ,
 106,Materials_Items,967,3904,21681,some ,
-106,Materials_Items,968,3908,21687,powdered lucky dragon's wing,
-106,Materials_Items,969,3912,21716,powdered lucky dragon's wing,
-106,Materials_Items,970,3916,21745,An accessory that has been reduced to dust.,
-106,Materials_Items,971,3920,21789,pouches of powdered lucky dragon's wing,
+106,Materials_Items,968,3908,21687,powdered lucky dragon's wing,ผงปีกมังกรนำโชค
+106,Materials_Items,969,3912,21716,powdered lucky dragon's wing,ผงปีกมังกรนำโชค
+106,Materials_Items,970,3916,21745,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,971,3920,21789,pouches of powdered lucky dragon's wing,ผงปีกมังกรนำโชค
 106,Materials_Items,972,3924,21829,the ,
 106,Materials_Items,973,3928,21834,the ,
 106,Materials_Items,974,3932,21839,a pouch of ,
 106,Materials_Items,975,3936,21851,some ,
-106,Materials_Items,976,3940,21857,powdered ace of spoils,
-106,Materials_Items,977,3944,21880,powdered ace of spoils,
-106,Materials_Items,978,3948,21903,An accessory that has been reduced to dust.,
-106,Materials_Items,979,3952,21947,pouches of powdered ace of spoils,
+106,Materials_Items,976,3940,21857,powdered ace of spoils,ผงไพ่โชคลาภ
+106,Materials_Items,977,3944,21880,powdered ace of spoils,ผงไพ่โชคลาภ
+106,Materials_Items,978,3948,21903,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,979,3952,21947,pouches of powdered ace of spoils,ผงไพ่โชคลาภ
 106,Materials_Items,980,3956,21981,the ,
 106,Materials_Items,981,3960,21986,the ,
 106,Materials_Items,982,3964,21991,a pouch of ,
 106,Materials_Items,983,3968,22003,some ,
-106,Materials_Items,984,3972,22009,powdered catholicon ring,
-106,Materials_Items,985,3976,22034,powdered catholicon ring,
-106,Materials_Items,986,3980,22059,An accessory that has been reduced to dust.,
-106,Materials_Items,987,3984,22103,pouches of powdered catholicon ring,
+106,Materials_Items,984,3972,22009,powdered catholicon ring,ผงแหวนต้านสารพัดพิษ
+106,Materials_Items,985,3976,22034,powdered catholicon ring,ผงแหวนต้านสารพัดพิษ
+106,Materials_Items,986,3980,22059,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,987,3984,22103,pouches of powdered catholicon ring,ผงแหวนต้านสารพัดพิษ
 106,Materials_Items,988,3988,22139,the ,
 106,Materials_Items,989,3992,22144,the ,
 106,Materials_Items,990,3996,22149,a pouch of ,
 106,Materials_Items,991,4000,22161,some ,
-106,Materials_Items,992,4004,22167,powdered wrecklace,
-106,Materials_Items,993,4008,22186,powdered wrecklace,
-106,Materials_Items,994,4012,22205,An accessory that has been reduced to dust.,
-106,Materials_Items,995,4016,22249,pouches of powdered wrecklace,
+106,Materials_Items,992,4004,22167,powdered wrecklace,ผงสร้อยคอทลายมาร
+106,Materials_Items,993,4008,22186,powdered wrecklace,ผงสร้อยคอทลายมาร
+106,Materials_Items,994,4012,22205,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,995,4016,22249,pouches of powdered wrecklace,ผงสร้อยคอทลายมาร
 106,Materials_Items,996,4020,22279,the ,
 106,Materials_Items,997,4024,22284,the ,
 106,Materials_Items,998,4028,22289,a pouch of ,
 106,Materials_Items,999,4032,22301,some ,
-106,Materials_Items,1000,4036,22307,powdered loin-girder,
-106,Materials_Items,1001,4040,22328,powdered loin-girder,
-106,Materials_Items,1002,4044,22349,An accessory that has been reduced to dust.,
-106,Materials_Items,1003,4048,22393,pouches of powdered loin-girder,
+106,Materials_Items,1000,4036,22307,powdered loin-girder,ผงผ้าเตี่ยวเหล็ก
+106,Materials_Items,1001,4040,22328,powdered loin-girder,ผงผ้าเตี่ยวเหล็ก
+106,Materials_Items,1002,4044,22349,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1003,4048,22393,pouches of powdered loin-girder,ผงผ้าเตี่ยวเหล็ก
 106,Materials_Items,1004,4052,22425,the ,
 106,Materials_Items,1005,4056,22430,the ,
 106,Materials_Items,1006,4060,22435,a pouch of ,
 106,Materials_Items,1007,4064,22447,some ,
-106,Materials_Items,1008,4068,22453,powdered care ring,
-106,Materials_Items,1009,4072,22472,powdered care ring,
-106,Materials_Items,1010,4076,22491,An accessory that has been reduced to dust.,
-106,Materials_Items,1011,4080,22535,pouches of powdered care ring,
+106,Materials_Items,1008,4068,22453,powdered care ring,ผงแหวนห่วงใย
+106,Materials_Items,1009,4072,22472,powdered care ring,ผงแหวนห่วงใย
+106,Materials_Items,1010,4076,22491,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1011,4080,22535,pouches of powdered care ring,ผงแหวนห่วงใย
 106,Materials_Items,1012,4084,22565,the ,
 106,Materials_Items,1013,4088,22570,the ,
 106,Materials_Items,1014,4092,22575,a pouch of ,
 106,Materials_Items,1015,4096,22587,some ,
-106,Materials_Items,1016,4100,22593,powdered dogged collar,
-106,Materials_Items,1017,4104,22616,powdered dogged collar,
-106,Materials_Items,1018,4108,22639,An accessory that has been reduced to dust.,
-106,Materials_Items,1019,4112,22683,pouches of powdered dogged collar,
+106,Materials_Items,1016,4100,22593,powdered dogged collar,ผงปลอกคอหมาป่า
+106,Materials_Items,1017,4104,22616,powdered dogged collar,ผงปลอกคอหมาป่า
+106,Materials_Items,1018,4108,22639,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1019,4112,22683,pouches of powdered dogged collar,ผงปลอกคอหมาป่า
 106,Materials_Items,1020,4116,22717,the ,
 106,Materials_Items,1021,4120,22722,the ,
 106,Materials_Items,1022,4124,22727,a pouch of ,
 106,Materials_Items,1023,4128,22739,some ,
-106,Materials_Items,1024,4132,22745,powdered Venus' tear,
-106,Materials_Items,1025,4136,22766,powdered Venus' tear,
-106,Materials_Items,1026,4140,22787,An accessory that has been reduced to dust.,
-106,Materials_Items,1027,4144,22831,pouches of powdered Venus' tear,
+106,Materials_Items,1024,4132,22745,powdered Venus' tear,ผงน้ำตาวีนัส
+106,Materials_Items,1025,4136,22766,powdered Venus' tear,ผงน้ำตาวีนัส
+106,Materials_Items,1026,4140,22787,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1027,4144,22831,pouches of powdered Venus' tear,ผงน้ำตาวีนัส
 106,Materials_Items,1028,4148,22863,the ,
 106,Materials_Items,1029,4152,22868,the ,
 106,Materials_Items,1030,4156,22873,a pouch of ,
 106,Materials_Items,1031,4160,22885,some ,
-106,Materials_Items,1032,4164,22891,powdered adamant pendant,
-106,Materials_Items,1033,4168,22916,powdered adamant pendant,
-106,Materials_Items,1034,4172,22941,An accessory that has been reduced to dust.,
-106,Materials_Items,1035,4176,22985,pouches of powdered adamant pendant,
+106,Materials_Items,1032,4164,22891,powdered adamant pendant,ผงจี้เพชรอดามันต์
+106,Materials_Items,1033,4168,22916,powdered adamant pendant,ผงจี้เพชรอดามันต์
+106,Materials_Items,1034,4172,22941,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1035,4176,22985,pouches of powdered adamant pendant,ผงจี้เพชรอดามันต์
 106,Materials_Items,1036,4180,23021,the ,
 106,Materials_Items,1037,4184,23026,the ,
 106,Materials_Items,1038,4188,23031,a pouch of ,
 106,Materials_Items,1039,4192,23043,some ,
-106,Materials_Items,1040,4196,23049,powdered rousing ring,
-106,Materials_Items,1041,4200,23071,powdered rousing ring,
-106,Materials_Items,1042,4204,23093,An accessory that has been reduced to dust.,
-106,Materials_Items,1043,4208,23137,pouches of powdered rousing ring,
+106,Materials_Items,1040,4196,23049,powdered rousing ring,ผงแหวนตื่นรู้
+106,Materials_Items,1041,4200,23071,powdered rousing ring,ผงแหวนตื่นรู้
+106,Materials_Items,1042,4204,23093,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1043,4208,23137,pouches of powdered rousing ring,ผงแหวนตื่นรู้
 106,Materials_Items,1044,4212,23170,the ,
 106,Materials_Items,1045,4216,23175,the ,
 106,Materials_Items,1046,4220,23180,a pouch of ,
 106,Materials_Items,1047,4224,23192,some ,
-106,Materials_Items,1048,4228,23198,powdered papillon pendant,
-106,Materials_Items,1049,4232,23224,powdered papillon pendant,
-106,Materials_Items,1050,4236,23250,An accessory that has been reduced to dust.,
-106,Materials_Items,1051,4240,23294,pouches of powdered papillon pendant,
+106,Materials_Items,1048,4228,23198,powdered papillon pendant,ผงจี้ผีเสื้อ
+106,Materials_Items,1049,4232,23224,powdered papillon pendant,ผงจี้ผีเสื้อ
+106,Materials_Items,1050,4236,23250,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1051,4240,23294,pouches of powdered papillon pendant,ผงจี้ผีเสื้อ
 106,Materials_Items,1052,4244,23331,the ,
 106,Materials_Items,1053,4248,23336,the ,
 106,Materials_Items,1054,4252,23341,a pouch of ,
 106,Materials_Items,1055,4256,23353,some ,
-106,Materials_Items,1056,4260,23359,powdered allure ring,
-106,Materials_Items,1057,4264,23380,powdered allure ring,
-106,Materials_Items,1058,4268,23401,An accessory that has been reduced to dust.,
-106,Materials_Items,1059,4272,23445,pouches of powdered allure ring,
+106,Materials_Items,1056,4260,23359,powdered allure ring,ผงแหวนทรงเสน่ห์
+106,Materials_Items,1057,4264,23380,powdered allure ring,ผงแหวนทรงเสน่ห์
+106,Materials_Items,1058,4268,23401,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1059,4272,23445,pouches of powdered allure ring,ผงแหวนทรงเสน่ห์
 106,Materials_Items,1060,4276,23477,the ,
 106,Materials_Items,1061,4280,23482,the ,
 106,Materials_Items,1062,4284,23487,a pouch of ,
 106,Materials_Items,1063,4288,23499,some ,
-106,Materials_Items,1064,4292,23505,powdered monarchic mark,
-106,Materials_Items,1065,4296,23529,powdered monarchic mark,
-106,Materials_Items,1066,4300,23553,An accessory that has been reduced to dust.,
-106,Materials_Items,1067,4304,23597,pouches of powdered monarchic mark,
+106,Materials_Items,1064,4292,23505,powdered monarchic mark,ผงตราสัญลักษณ์กษัตริย์
+106,Materials_Items,1065,4296,23529,powdered monarchic mark,ผงตราสัญลักษณ์กษัตริย์
+106,Materials_Items,1066,4300,23553,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1067,4304,23597,pouches of powdered monarchic mark,ผงตราสัญลักษณ์กษัตริย์
 106,Materials_Items,1068,4308,23632,the ,
 106,Materials_Items,1069,4312,23637,the ,
 106,Materials_Items,1070,4316,23642,a pouch of ,
 106,Materials_Items,1071,4320,23654,some ,
-106,Materials_Items,1072,4324,23660,powdered endure ring,
-106,Materials_Items,1073,4328,23681,powdered endure ring,
-106,Materials_Items,1074,4332,23702,An accessory that has been reduced to dust.,
-106,Materials_Items,1075,4336,23746,pouches of powdered endure ring,
+106,Materials_Items,1072,4324,23660,powdered endure ring,ผงแหวนทรหด
+106,Materials_Items,1073,4328,23681,powdered endure ring,ผงแหวนทรหด
+106,Materials_Items,1074,4332,23702,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1075,4336,23746,pouches of powdered endure ring,ผงแหวนทรหด
 106,Materials_Items,1076,4340,23778,the ,
 106,Materials_Items,1077,4344,23783,the ,
 106,Materials_Items,1078,4348,23788,a pouch of ,
 106,Materials_Items,1079,4352,23800,some ,
-106,Materials_Items,1080,4356,23806,powdered ring of truth,
-106,Materials_Items,1081,4360,23829,powdered ring of truth,
-106,Materials_Items,1082,4364,23852,An accessory that has been reduced to dust.,
-106,Materials_Items,1083,4368,23896,pouches of powdered ring of truth,
+106,Materials_Items,1080,4356,23806,powdered ring of truth,ผงแหวนแห่งสัจธรรม
+106,Materials_Items,1081,4360,23829,powdered ring of truth,ผงแหวนแห่งสัจธรรม
+106,Materials_Items,1082,4364,23852,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1083,4368,23896,pouches of powdered ring of truth,ผงแหวนแห่งสัจธรรม
 106,Materials_Items,1084,4372,23930,the ,
 106,Materials_Items,1085,4376,23935,the ,
 106,Materials_Items,1086,4380,23940,a pouch of ,
 106,Materials_Items,1087,4384,23952,some ,
-106,Materials_Items,1088,4388,23958,powdered ring of immunity,
-106,Materials_Items,1089,4392,23984,powdered ring of immunity,
-106,Materials_Items,1090,4396,24010,An accessory that has been reduced to dust.,
-106,Materials_Items,1091,4400,24054,pouches of powdered ring of immunity,
+106,Materials_Items,1088,4388,23958,powdered ring of immunity,ผงแหวนภูมิคุ้มกัน
+106,Materials_Items,1089,4392,23984,powdered ring of immunity,ผงแหวนภูมิคุ้มกัน
+106,Materials_Items,1090,4396,24010,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1091,4400,24054,pouches of powdered ring of immunity,ผงแหวนภูมิคุ้มกัน
 106,Materials_Items,1092,4404,24091,the ,
 106,Materials_Items,1093,4408,24096,the ,
 106,Materials_Items,1094,4412,24101,a pouch of ,
 106,Materials_Items,1095,4416,24113,some ,
-106,Materials_Items,1096,4420,24119,powdered sock-it locket,
-106,Materials_Items,1097,4424,24143,powdered sock-it locket,
-106,Materials_Items,1098,4428,24167,An accessory that has been reduced to dust.,
-106,Materials_Items,1099,4432,24211,pouches of powdered sock-it locket,
+106,Materials_Items,1096,4420,24119,powdered sock-it locket,ผงล็อกเก็ตหมัดหนัก
+106,Materials_Items,1097,4424,24143,powdered sock-it locket,ผงล็อกเก็ตหมัดหนัก
+106,Materials_Items,1098,4428,24167,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1099,4432,24211,pouches of powdered sock-it locket,ผงล็อกเก็ตหมัดหนัก
 106,Materials_Items,1100,4436,24246,the ,
 106,Materials_Items,1101,4440,24251,the ,
 106,Materials_Items,1102,4444,24256,a pouch of ,
 106,Materials_Items,1103,4448,24268,some ,
-106,Materials_Items,1104,4452,24274,powdered block-it locket,
-106,Materials_Items,1105,4456,24299,powdered block-it locket,
-106,Materials_Items,1106,4460,24324,An accessory that has been reduced to dust.,
-106,Materials_Items,1107,4464,24368,pouches of powdered block-it locket,
+106,Materials_Items,1104,4452,24274,powdered block-it locket,ผงล็อกเก็ตปัดป้อง
+106,Materials_Items,1105,4456,24299,powdered block-it locket,ผงล็อกเก็ตปัดป้อง
+106,Materials_Items,1106,4460,24324,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1107,4464,24368,pouches of powdered block-it locket,ผงล็อกเก็ตปัดป้อง
 106,Materials_Items,1108,4468,24404,the ,
 106,Materials_Items,1109,4472,24409,the ,
 106,Materials_Items,1110,4476,24414,a pouch of ,
 106,Materials_Items,1111,4480,24426,some ,
-106,Materials_Items,1112,4484,24432,powdered nacreous necromonocle,
-106,Materials_Items,1113,4488,24463,powdered nacreous necromonocle,
-106,Materials_Items,1114,4492,24494,An accessory that has been reduced to dust.,
-106,Materials_Items,1115,4496,24538,pouches of powdered nacreous necromonocle,
+106,Materials_Items,1112,4484,24432,powdered nacreous necromonocle,ผงแว่นตามุกมรณะ
+106,Materials_Items,1113,4488,24463,powdered nacreous necromonocle,ผงแว่นตามุกมรณะ
+106,Materials_Items,1114,4492,24494,An accessory that has been reduced to dust.,เครื่องประดับที่ถูกบดละเอียดจนกลายเป็นผง
+106,Materials_Items,1115,4496,24538,pouches of powdered nacreous necromonocle,ผงแว่นตามุกมรณะ
 106,Materials_Items,1116,4500,24580,the ,
 106,Materials_Items,1117,4504,24585,the ,
 106,Materials_Items,1118,4508,24590,a pouch of ,
 106,Materials_Items,1119,4512,24602,some ,
-106,Materials_Items,1120,4516,24608,twin sword shards,
-106,Materials_Items,1121,4520,24626,twin sword shards,
-106,Materials_Items,1122,4524,24644,"With enough of these, you could create a weapon.",
-106,Materials_Items,1123,4528,24693,handfuls of twin sword shards,
+106,Materials_Items,1120,4516,24608,twin sword shards,เศษชิ้นส่วนดาบคู่
+106,Materials_Items,1121,4520,24626,twin sword shards,เศษชิ้นส่วนดาบคู่
+106,Materials_Items,1122,4524,24644,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1123,4528,24693,handfuls of twin sword shards,เศษชิ้นส่วนดาบคู่
 106,Materials_Items,1124,4532,24723,the ,
 106,Materials_Items,1125,4536,24728,the ,
 106,Materials_Items,1126,4540,24733,a handful of ,
 106,Materials_Items,1127,4544,24747,some ,
-106,Materials_Items,1128,4548,24753,sword shards,
-106,Materials_Items,1129,4552,24766,sword shards,
-106,Materials_Items,1130,4556,24779,"With enough of these, you could create a weapon.",
-106,Materials_Items,1131,4560,24828,handfuls of sword shards,
+106,Materials_Items,1128,4548,24753,sword shards,เศษชิ้นส่วนดาบ
+106,Materials_Items,1129,4552,24766,sword shards,เศษชิ้นส่วนดาบ
+106,Materials_Items,1130,4556,24779,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1131,4560,24828,handfuls of sword shards,เศษชิ้นส่วนดาบ
 106,Materials_Items,1132,4564,24853,the ,
 106,Materials_Items,1133,4568,24858,the ,
 106,Materials_Items,1134,4572,24863,a handful of ,
 106,Materials_Items,1135,4576,24877,some ,
-106,Materials_Items,1136,4580,24883,broadsword shards,
-106,Materials_Items,1137,4584,24901,broadsword shards,
-106,Materials_Items,1138,4588,24919,"With enough of these, you could create a weapon.",
-106,Materials_Items,1139,4592,24968,handfuls of broadsword shards,
+106,Materials_Items,1136,4580,24883,broadsword shards,เศษชิ้นส่วนดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1137,4584,24901,broadsword shards,เศษชิ้นส่วนดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1138,4588,24919,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1139,4592,24968,handfuls of broadsword shards,เศษชิ้นส่วนดาบใหญ่บรอดซอร์ด
 106,Materials_Items,1140,4596,24998,the ,
 106,Materials_Items,1141,4600,25003,the ,
 106,Materials_Items,1142,4604,25008,a handful of ,
 106,Materials_Items,1143,4608,25022,some ,
-106,Materials_Items,1144,4612,25028,greatsword shards,
-106,Materials_Items,1145,4616,25046,greatsword shards,
-106,Materials_Items,1146,4620,25064,"With enough of these, you could create a weapon.",
-106,Materials_Items,1147,4624,25113,handfuls of greatsword shards,
+106,Materials_Items,1144,4612,25028,greatsword shards,เศษชิ้นส่วนดาบยักษ์
+106,Materials_Items,1145,4616,25046,greatsword shards,เศษชิ้นส่วนดาบยักษ์
+106,Materials_Items,1146,4620,25064,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1147,4624,25113,handfuls of greatsword shards,เศษชิ้นส่วนดาบยักษ์
 106,Materials_Items,1148,4628,25143,the ,
 106,Materials_Items,1149,4632,25148,the ,
 106,Materials_Items,1150,4636,25153,a handful of ,
 106,Materials_Items,1151,4640,25167,some ,
-106,Materials_Items,1152,4644,25173,axe shards,
-106,Materials_Items,1153,4648,25184,axe shards,
-106,Materials_Items,1154,4652,25195,"With enough of these, you could create a weapon.",
-106,Materials_Items,1155,4656,25244,handfuls of axe shards,
+106,Materials_Items,1152,4644,25173,axe shards,เศษชิ้นส่วนขวาน
+106,Materials_Items,1153,4648,25184,axe shards,เศษชิ้นส่วนขวาน
+106,Materials_Items,1154,4652,25195,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1155,4656,25244,handfuls of axe shards,เศษชิ้นส่วนขวาน
 106,Materials_Items,1156,4660,25267,the ,
 106,Materials_Items,1157,4664,25272,the ,
 106,Materials_Items,1158,4668,25277,a handful of ,
 106,Materials_Items,1159,4672,25291,some ,
-106,Materials_Items,1160,4676,25297,boomerang shards,
-106,Materials_Items,1161,4680,25314,boomerang shards,
-106,Materials_Items,1162,4684,25331,"With enough of these, you could create a weapon.",
-106,Materials_Items,1163,4688,25380,handfuls of boomerang shards,
+106,Materials_Items,1160,4676,25297,boomerang shards,เศษชิ้นส่วนบูมเมอแรง
+106,Materials_Items,1161,4680,25314,boomerang shards,เศษชิ้นส่วนบูมเมอแรง
+106,Materials_Items,1162,4684,25331,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1163,4688,25380,handfuls of boomerang shards,เศษชิ้นส่วนบูมเมอแรง
 106,Materials_Items,1164,4692,25409,the ,
 106,Materials_Items,1165,4696,25414,the ,
 106,Materials_Items,1166,4700,25419,a handful of ,
 106,Materials_Items,1167,4704,25433,some ,
-106,Materials_Items,1168,4708,25439,glove shards,
-106,Materials_Items,1169,4712,25452,glove shards,
-106,Materials_Items,1170,4716,25465,"With enough of these, you could create a weapon.",
-106,Materials_Items,1171,4720,25514,handfuls of glove shards,
+106,Materials_Items,1168,4708,25439,glove shards,เศษชิ้นส่วนถุงมือ
+106,Materials_Items,1169,4712,25452,glove shards,เศษชิ้นส่วนถุงมือ
+106,Materials_Items,1170,4716,25465,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1171,4720,25514,handfuls of glove shards,เศษชิ้นส่วนถุงมือ
 106,Materials_Items,1172,4724,25539,the ,
 106,Materials_Items,1173,4728,25544,the ,
 106,Materials_Items,1174,4732,25549,a handful of ,
 106,Materials_Items,1175,4736,25563,some ,
-106,Materials_Items,1176,4740,25569,gauntlet shards,
-106,Materials_Items,1177,4744,25585,gauntlet shards,
-106,Materials_Items,1178,4748,25601,"With enough of these, you could create a weapon.",
-106,Materials_Items,1179,4752,25650,handfuls of gauntlet shards,
+106,Materials_Items,1176,4740,25569,gauntlet shards,เศษชิ้นส่วนสนับมือ
+106,Materials_Items,1177,4744,25585,gauntlet shards,เศษชิ้นส่วนสนับมือ
+106,Materials_Items,1178,4748,25601,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1179,4752,25650,handfuls of gauntlet shards,เศษชิ้นส่วนสนับมือ
 106,Materials_Items,1180,4756,25678,the ,
 106,Materials_Items,1181,4760,25683,the ,
 106,Materials_Items,1182,4764,25688,a handful of ,
 106,Materials_Items,1183,4768,25702,some ,
-106,Materials_Items,1184,4772,25708,claw shards,
-106,Materials_Items,1185,4776,25720,claw shards,
-106,Materials_Items,1186,4780,25732,"With enough of these, you could create a weapon.",
-106,Materials_Items,1187,4784,25781,handfuls of claw shards,
+106,Materials_Items,1184,4772,25708,claw shards,เศษชิ้นส่วนกรงเล็บ
+106,Materials_Items,1185,4776,25720,claw shards,เศษชิ้นส่วนกรงเล็บ
+106,Materials_Items,1186,4780,25732,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1187,4784,25781,handfuls of claw shards,เศษชิ้นส่วนกรงเล็บ
 106,Materials_Items,1188,4788,25805,the ,
 106,Materials_Items,1189,4792,25810,the ,
 106,Materials_Items,1190,4796,25815,a handful of ,
 106,Materials_Items,1191,4800,25829,some ,
-106,Materials_Items,1192,4804,25835,abacus shards,
-106,Materials_Items,1193,4808,25849,abacus shards,
-106,Materials_Items,1194,4812,25863,"With enough of these, you could create a weapon.",
-106,Materials_Items,1195,4816,25912,handfuls of abacus shards,
+106,Materials_Items,1192,4804,25835,abacus shards,เศษชิ้นส่วนลูกคิด
+106,Materials_Items,1193,4808,25849,abacus shards,เศษชิ้นส่วนลูกคิด
+106,Materials_Items,1194,4812,25863,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1195,4816,25912,handfuls of abacus shards,เศษชิ้นส่วนลูกคิด
 106,Materials_Items,1196,4820,25938,the ,
 106,Materials_Items,1197,4824,25943,the ,
 106,Materials_Items,1198,4828,25948,a handful of ,
 106,Materials_Items,1199,4832,25962,some ,
-106,Materials_Items,1200,4836,25968,card shards,
-106,Materials_Items,1201,4840,25980,card shards,
-106,Materials_Items,1202,4844,25992,"With enough of these, you could create a weapon.",
-106,Materials_Items,1203,4848,26041,handfuls of card shards,
+106,Materials_Items,1200,4836,25968,card shards,เศษชิ้นส่วนไพ่
+106,Materials_Items,1201,4840,25980,card shards,เศษชิ้นส่วนไพ่
+106,Materials_Items,1202,4844,25992,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1203,4848,26041,handfuls of card shards,เศษชิ้นส่วนไพ่
 106,Materials_Items,1204,4852,26065,the ,
 106,Materials_Items,1205,4856,26070,the ,
 106,Materials_Items,1206,4860,26075,a handful of ,
 106,Materials_Items,1207,4864,26089,some ,
-106,Materials_Items,1208,4868,26095,spear shards,
-106,Materials_Items,1209,4872,26108,spear shards,
-106,Materials_Items,1210,4876,26121,"With enough of these, you could create a weapon.",
-106,Materials_Items,1211,4880,26170,handfuls of spear shards,
+106,Materials_Items,1208,4868,26095,spear shards,เศษชิ้นส่วนหอก
+106,Materials_Items,1209,4872,26108,spear shards,เศษชิ้นส่วนหอก
+106,Materials_Items,1210,4876,26121,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1211,4880,26170,handfuls of spear shards,เศษชิ้นส่วนหอก
 106,Materials_Items,1212,4884,26195,the ,
 106,Materials_Items,1213,4888,26200,the ,
 106,Materials_Items,1214,4892,26205,a handful of ,
 106,Materials_Items,1215,4896,26219,some ,
-106,Materials_Items,1216,4900,26225,whip shards,
-106,Materials_Items,1217,4904,26237,whip shards,
-106,Materials_Items,1218,4908,26249,"With enough of these, you could create a weapon.",
-106,Materials_Items,1219,4912,26298,handfuls of whip shards,
+106,Materials_Items,1216,4900,26225,whip shards,เศษชิ้นส่วนแส้
+106,Materials_Items,1217,4904,26237,whip shards,เศษชิ้นส่วนแส้
+106,Materials_Items,1218,4908,26249,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1219,4912,26298,handfuls of whip shards,เศษชิ้นส่วนแส้
 106,Materials_Items,1220,4916,26322,the ,
 106,Materials_Items,1221,4920,26327,the ,
 106,Materials_Items,1222,4924,26332,a handful of ,
 106,Materials_Items,1223,4928,26346,some ,
-106,Materials_Items,1224,4932,26352,bow shards,
-106,Materials_Items,1225,4936,26363,bow shards,
-106,Materials_Items,1226,4940,26374,"With enough of these, you could create a weapon.",
-106,Materials_Items,1227,4944,26423,handfuls of bow shards,
+106,Materials_Items,1224,4932,26352,bow shards,เศษชิ้นส่วนธนู
+106,Materials_Items,1225,4936,26363,bow shards,เศษชิ้นส่วนธนู
+106,Materials_Items,1226,4940,26374,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1227,4944,26423,handfuls of bow shards,เศษชิ้นส่วนธนู
 106,Materials_Items,1228,4948,26446,the ,
 106,Materials_Items,1229,4952,26451,the ,
 106,Materials_Items,1230,4956,26456,a handful of ,
 106,Materials_Items,1231,4960,26470,some ,
-106,Materials_Items,1232,4964,26476,fan shards,
-106,Materials_Items,1233,4968,26487,fan shards,
-106,Materials_Items,1234,4972,26498,"With enough of these, you could create a weapon.",
-106,Materials_Items,1235,4976,26547,handfuls of fan shards,
+106,Materials_Items,1232,4964,26476,fan shards,เศษชิ้นส่วนพัด
+106,Materials_Items,1233,4968,26487,fan shards,เศษชิ้นส่วนพัด
+106,Materials_Items,1234,4972,26498,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1235,4976,26547,handfuls of fan shards,เศษชิ้นส่วนพัด
 106,Materials_Items,1236,4980,26570,the ,
 106,Materials_Items,1237,4984,26575,the ,
 106,Materials_Items,1238,4988,26580,a handful of ,
 106,Materials_Items,1239,4992,26594,some ,
-106,Materials_Items,1240,4996,26600,wand shards,
-106,Materials_Items,1241,5000,26612,wand shards,
-106,Materials_Items,1242,5004,26624,"With enough of these, you could create a weapon.",
-106,Materials_Items,1243,5008,26673,handfuls of wand shards,
+106,Materials_Items,1240,4996,26600,wand shards,เศษชิ้นส่วนคทา
+106,Materials_Items,1241,5000,26612,wand shards,เศษชิ้นส่วนคทา
+106,Materials_Items,1242,5004,26624,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1243,5008,26673,handfuls of wand shards,เศษชิ้นส่วนคทา
 106,Materials_Items,1244,5012,26697,the ,
 106,Materials_Items,1245,5016,26702,the ,
 106,Materials_Items,1246,5020,26707,a handful of ,
 106,Materials_Items,1247,5024,26721,some ,
-106,Materials_Items,1248,5028,26727,staff shards,
-106,Materials_Items,1249,5032,26740,staff shards,
-106,Materials_Items,1250,5036,26753,"With enough of these, you could create a weapon.",
-106,Materials_Items,1251,5040,26802,handfuls of staff shards,
+106,Materials_Items,1248,5028,26727,staff shards,เศษชิ้นส่วนกระบอง
+106,Materials_Items,1249,5032,26740,staff shards,เศษชิ้นส่วนกระบอง
+106,Materials_Items,1250,5036,26753,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1251,5040,26802,handfuls of staff shards,เศษชิ้นส่วนกระบอง
 106,Materials_Items,1252,5044,26827,the ,
 106,Materials_Items,1253,5048,26832,the ,
 106,Materials_Items,1254,5052,26837,a handful of ,
 106,Materials_Items,1255,5056,26851,some ,
-106,Materials_Items,1256,5060,26857,heavy wand shards,
-106,Materials_Items,1257,5064,26875,heavy wand shards,
-106,Materials_Items,1258,5068,26893,"With enough of these, you could create a weapon.",
-106,Materials_Items,1259,5072,26942,handfuls of heavy wand shards,
+106,Materials_Items,1256,5060,26857,heavy wand shards,เศษชิ้นส่วนคทาเวทมนตร์
+106,Materials_Items,1257,5064,26875,heavy wand shards,เศษชิ้นส่วนคทาเวทมนตร์
+106,Materials_Items,1258,5068,26893,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1259,5072,26942,handfuls of heavy wand shards,เศษชิ้นส่วนคทาเวทมนตร์
 106,Materials_Items,1260,5076,26972,the ,
 106,Materials_Items,1261,5080,26977,the ,
 106,Materials_Items,1262,5084,26982,a handful of ,
 106,Materials_Items,1263,5088,26996,some ,
-106,Materials_Items,1264,5092,27002,twin sword essence,
-106,Materials_Items,1265,5096,27021,twin sword essence,
-106,Materials_Items,1266,5100,27040,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1267,5104,27094,lumps of twin sword essence,
+106,Materials_Items,1264,5092,27002,twin sword essence,แก่นแท้ดาบคู่
+106,Materials_Items,1265,5096,27021,twin sword essence,แก่นแท้ดาบคู่
+106,Materials_Items,1266,5100,27040,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1267,5104,27094,lumps of twin sword essence,แก่นแท้ดาบคู่
 106,Materials_Items,1268,5108,27122,the ,
 106,Materials_Items,1269,5112,27127,the ,
 106,Materials_Items,1270,5116,27132,a lump of ,
 106,Materials_Items,1271,5120,27143,some ,
-106,Materials_Items,1272,5124,27149,sword essence,
-106,Materials_Items,1273,5128,27163,sword essence,
-106,Materials_Items,1274,5132,27177,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1275,5136,27231,lumps of sword essence,
+106,Materials_Items,1272,5124,27149,sword essence,แก่นแท้ดาบ
+106,Materials_Items,1273,5128,27163,sword essence,แก่นแท้ดาบ
+106,Materials_Items,1274,5132,27177,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1275,5136,27231,lumps of sword essence,แก่นแท้ดาบ
 106,Materials_Items,1276,5140,27254,the ,
 106,Materials_Items,1277,5144,27259,the ,
 106,Materials_Items,1278,5148,27264,a lump of ,
 106,Materials_Items,1279,5152,27275,some ,
-106,Materials_Items,1280,5156,27281,broadsword essence,
-106,Materials_Items,1281,5160,27300,broadsword essence,
-106,Materials_Items,1282,5164,27319,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1283,5168,27373,lumps of broadsword essence,
+106,Materials_Items,1280,5156,27281,broadsword essence,แก่นแท้ดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1281,5160,27300,broadsword essence,แก่นแท้ดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1282,5164,27319,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1283,5168,27373,lumps of broadsword essence,แก่นแท้ดาบใหญ่บรอดซอร์ด
 106,Materials_Items,1284,5172,27401,the ,
 106,Materials_Items,1285,5176,27406,the ,
 106,Materials_Items,1286,5180,27411,a lump of ,
 106,Materials_Items,1287,5184,27422,some ,
-106,Materials_Items,1288,5188,27428,greatsword essence,
-106,Materials_Items,1289,5192,27447,greatsword essence,
-106,Materials_Items,1290,5196,27466,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1291,5200,27520,lumps of greatsword essence,
+106,Materials_Items,1288,5188,27428,greatsword essence,แก่นแท้ดาบยักษ์
+106,Materials_Items,1289,5192,27447,greatsword essence,แก่นแท้ดาบยักษ์
+106,Materials_Items,1290,5196,27466,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1291,5200,27520,lumps of greatsword essence,แก่นแท้ดาบยักษ์
 106,Materials_Items,1292,5204,27548,the ,
 106,Materials_Items,1293,5208,27553,the ,
 106,Materials_Items,1294,5212,27558,a lump of ,
 106,Materials_Items,1295,5216,27569,some ,
-106,Materials_Items,1296,5220,27575,axe essence,
-106,Materials_Items,1297,5224,27587,axe essence,
-106,Materials_Items,1298,5228,27599,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1299,5232,27653,lumps of axe essence,
+106,Materials_Items,1296,5220,27575,axe essence,แก่นแท้ขวาน
+106,Materials_Items,1297,5224,27587,axe essence,แก่นแท้ขวาน
+106,Materials_Items,1298,5228,27599,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1299,5232,27653,lumps of axe essence,แก่นแท้ขวาน
 106,Materials_Items,1300,5236,27674,the ,
 106,Materials_Items,1301,5240,27679,the ,
 106,Materials_Items,1302,5244,27684,a lump of ,
 106,Materials_Items,1303,5248,27695,some ,
-106,Materials_Items,1304,5252,27701,boomerang essence,
-106,Materials_Items,1305,5256,27719,boomerang essence,
-106,Materials_Items,1306,5260,27737,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1307,5264,27791,lumps of boomerang essence,
+106,Materials_Items,1304,5252,27701,boomerang essence,แก่นแท้บูมเมอแรง
+106,Materials_Items,1305,5256,27719,boomerang essence,แก่นแท้บูมเมอแรง
+106,Materials_Items,1306,5260,27737,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1307,5264,27791,lumps of boomerang essence,แก่นแท้บูมเมอแรง
 106,Materials_Items,1308,5268,27818,the ,
 106,Materials_Items,1309,5272,27823,the ,
 106,Materials_Items,1310,5276,27828,a lump of ,
 106,Materials_Items,1311,5280,27839,some ,
-106,Materials_Items,1312,5284,27845,glove essence,
-106,Materials_Items,1313,5288,27859,glove essence,
-106,Materials_Items,1314,5292,27873,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1315,5296,27927,lumps of glove essence,
+106,Materials_Items,1312,5284,27845,glove essence,แก่นแท้ถุงมือ
+106,Materials_Items,1313,5288,27859,glove essence,แก่นแท้ถุงมือ
+106,Materials_Items,1314,5292,27873,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1315,5296,27927,lumps of glove essence,แก่นแท้ถุงมือ
 106,Materials_Items,1316,5300,27950,the ,
 106,Materials_Items,1317,5304,27955,the ,
 106,Materials_Items,1318,5308,27960,a lump of ,
 106,Materials_Items,1319,5312,27971,some ,
-106,Materials_Items,1320,5316,27977,gauntlet essence,
-106,Materials_Items,1321,5320,27994,gauntlet essence,
-106,Materials_Items,1322,5324,28011,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1323,5328,28065,gauntlet essences,
+106,Materials_Items,1320,5316,27977,gauntlet essence,แก่นแท้สนับมือ
+106,Materials_Items,1321,5320,27994,gauntlet essence,แก่นแท้สนับมือ
+106,Materials_Items,1322,5324,28011,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1323,5328,28065,gauntlet essences,แก่นแท้สนับมือ
 106,Materials_Items,1324,5332,28083,the ,
 106,Materials_Items,1325,5336,28088,the ,
 106,Materials_Items,1326,5340,28093,a lump of ,
 106,Materials_Items,1327,5344,28104,some ,
-106,Materials_Items,1328,5348,28110,claw essence,
-106,Materials_Items,1329,5352,28123,claw essence,
-106,Materials_Items,1330,5356,28136,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1331,5360,28190,lumps of claw essence,
+106,Materials_Items,1328,5348,28110,claw essence,แก่นแท้กรงเล็บ
+106,Materials_Items,1329,5352,28123,claw essence,แก่นแท้กรงเล็บ
+106,Materials_Items,1330,5356,28136,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1331,5360,28190,lumps of claw essence,แก่นแท้กรงเล็บ
 106,Materials_Items,1332,5364,28212,the ,
 106,Materials_Items,1333,5368,28217,the ,
 106,Materials_Items,1334,5372,28222,a lump of ,
 106,Materials_Items,1335,5376,28233,some ,
-106,Materials_Items,1336,5380,28239,abacus essence,
-106,Materials_Items,1337,5384,28254,abacus essence,
-106,Materials_Items,1338,5388,28269,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1339,5392,28323,lumps of abacus essence,
+106,Materials_Items,1336,5380,28239,abacus essence,แก่นแท้ลูกคิด
+106,Materials_Items,1337,5384,28254,abacus essence,แก่นแท้ลูกคิด
+106,Materials_Items,1338,5388,28269,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1339,5392,28323,lumps of abacus essence,แก่นแท้ลูกคิด
 106,Materials_Items,1340,5396,28347,the ,
 106,Materials_Items,1341,5400,28352,the ,
 106,Materials_Items,1342,5404,28357,a lump of ,
 106,Materials_Items,1343,5408,28368,some ,
-106,Materials_Items,1344,5412,28374,card essence,
-106,Materials_Items,1345,5416,28387,card essence,
-106,Materials_Items,1346,5420,28400,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1347,5424,28454,lumps of card essence,
+106,Materials_Items,1344,5412,28374,card essence,แก่นแท้ไพ่
+106,Materials_Items,1345,5416,28387,card essence,แก่นแท้ไพ่
+106,Materials_Items,1346,5420,28400,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1347,5424,28454,lumps of card essence,แก่นแท้ไพ่
 106,Materials_Items,1348,5428,28476,the ,
 106,Materials_Items,1349,5432,28481,the ,
 106,Materials_Items,1350,5436,28486,a lump of ,
 106,Materials_Items,1351,5440,28497,some ,
-106,Materials_Items,1352,5444,28503,spear essence,
-106,Materials_Items,1353,5448,28517,spear essence,
-106,Materials_Items,1354,5452,28531,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1355,5456,28585,lumps of spear essence,
+106,Materials_Items,1352,5444,28503,spear essence,แก่นแท้หอก
+106,Materials_Items,1353,5448,28517,spear essence,แก่นแท้หอก
+106,Materials_Items,1354,5452,28531,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1355,5456,28585,lumps of spear essence,แก่นแท้หอก
 106,Materials_Items,1356,5460,28608,the ,
 106,Materials_Items,1357,5464,28613,the ,
 106,Materials_Items,1358,5468,28618,a lump of ,
 106,Materials_Items,1359,5472,28629,some ,
-106,Materials_Items,1360,5476,28635,whip essence,
-106,Materials_Items,1361,5480,28648,whip essence,
-106,Materials_Items,1362,5484,28661,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1363,5488,28715,lumps of whip essence,
+106,Materials_Items,1360,5476,28635,whip essence,แก่นแท้แส้
+106,Materials_Items,1361,5480,28648,whip essence,แก่นแท้แส้
+106,Materials_Items,1362,5484,28661,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1363,5488,28715,lumps of whip essence,แก่นแท้แส้
 106,Materials_Items,1364,5492,28737,the ,
 106,Materials_Items,1365,5496,28742,the ,
 106,Materials_Items,1366,5500,28747,a lump of ,
 106,Materials_Items,1367,5504,28758,some ,
-106,Materials_Items,1368,5508,28764,bow essence,
-106,Materials_Items,1369,5512,28776,bow essence,
-106,Materials_Items,1370,5516,28788,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1371,5520,28842,lumps of bow essence,
+106,Materials_Items,1368,5508,28764,bow essence,แก่นแท้ธนู
+106,Materials_Items,1369,5512,28776,bow essence,แก่นแท้ธนู
+106,Materials_Items,1370,5516,28788,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1371,5520,28842,lumps of bow essence,แก่นแท้ธนู
 106,Materials_Items,1372,5524,28863,the ,
 106,Materials_Items,1373,5528,28868,the ,
 106,Materials_Items,1374,5532,28873,a lump of ,
 106,Materials_Items,1375,5536,28884,some ,
-106,Materials_Items,1376,5540,28890,fan essence,
-106,Materials_Items,1377,5544,28902,fan essence,
-106,Materials_Items,1378,5548,28914,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1379,5552,28968,lumps of fan essence,
+106,Materials_Items,1376,5540,28890,fan essence,แก่นแท้พัด
+106,Materials_Items,1377,5544,28902,fan essence,แก่นแท้พัด
+106,Materials_Items,1378,5548,28914,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1379,5552,28968,lumps of fan essence,แก่นแท้พัด
 106,Materials_Items,1380,5556,28989,the ,
 106,Materials_Items,1381,5560,28994,the ,
 106,Materials_Items,1382,5564,28999,a lump of ,
 106,Materials_Items,1383,5568,29010,some ,
-106,Materials_Items,1384,5572,29016,wand essence,
-106,Materials_Items,1385,5576,29029,wand essence,
-106,Materials_Items,1386,5580,29042,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1387,5584,29096,lumps of wand essence,
+106,Materials_Items,1384,5572,29016,wand essence,แก่นแท้คทา
+106,Materials_Items,1385,5576,29029,wand essence,แก่นแท้คทา
+106,Materials_Items,1386,5580,29042,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1387,5584,29096,lumps of wand essence,แก่นแท้คทา
 106,Materials_Items,1388,5588,29118,the ,
 106,Materials_Items,1389,5592,29123,the ,
 106,Materials_Items,1390,5596,29128,a lump of ,
 106,Materials_Items,1391,5600,29139,some ,
-106,Materials_Items,1392,5604,29145,staff essence,
-106,Materials_Items,1393,5608,29159,staff essence,
-106,Materials_Items,1394,5612,29173,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1395,5616,29227,lumps of staff essence,
+106,Materials_Items,1392,5604,29145,staff essence,แก่นแท้กระบอง
+106,Materials_Items,1393,5608,29159,staff essence,แก่นแท้กระบอง
+106,Materials_Items,1394,5612,29173,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1395,5616,29227,lumps of staff essence,แก่นแท้กระบอง
 106,Materials_Items,1396,5620,29250,the ,
 106,Materials_Items,1397,5624,29255,the ,
 106,Materials_Items,1398,5628,29260,a lump of ,
 106,Materials_Items,1399,5632,29271,some ,
-106,Materials_Items,1400,5636,29277,heavy wand essence,
-106,Materials_Items,1401,5640,29296,heavy wand essence,
-106,Materials_Items,1402,5644,29315,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1403,5648,29369,lumps of heavy wand essence,
+106,Materials_Items,1400,5636,29277,heavy wand essence,แก่นแท้คทาเวทมนตร์
+106,Materials_Items,1401,5640,29296,heavy wand essence,แก่นแท้คทาเวทมนตร์
+106,Materials_Items,1402,5644,29315,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1403,5648,29369,lumps of heavy wand essence,แก่นแท้คทาเวทมนตร์
 106,Materials_Items,1404,5652,29397,the ,
 106,Materials_Items,1405,5656,29402,the ,
 106,Materials_Items,1406,5660,29407,a lump of ,
 106,Materials_Items,1407,5664,29418,some ,
-106,Materials_Items,1408,5668,29424,bondstone,
-106,Materials_Items,1409,5672,29434,bondstone,
-106,Materials_Items,1410,5676,29444,A strange gem that strengthens the bonds of friendship.,
-106,Materials_Items,1411,5680,29500,bondstones,
+106,Materials_Items,1408,5668,29424,bondstone,หินสายสัมพันธ์
+106,Materials_Items,1409,5672,29434,bondstone,หินสายสัมพันธ์
+106,Materials_Items,1410,5676,29444,A strange gem that strengthens the bonds of friendship.,อัญมณีประหลาดที่ช่วยเสริมสร้างสายใยแห่งมิตรภาพให้แน่นแฟ้นยิ่งขึ้น
+106,Materials_Items,1411,5680,29500,bondstones,หินสายสัมพันธ์
 106,Materials_Items,1412,5684,29511,the ,
 106,Materials_Items,1413,5688,29516,the ,
 106,Materials_Items,1414,5692,29521,a ,
 106,Materials_Items,1415,5696,29524,some ,
-106,Materials_Items,1416,5700,29530,remedial rock,
-106,Materials_Items,1417,5704,29544,remedial rock,
-106,Materials_Items,1418,5708,29558,An odd ore. Take it to the quest counter<FG>,
-106,Materials_Items,1419,5712,29602,remedial rocks,
+106,Materials_Items,1416,5700,29530,remedial rock,หินฟื้นฟู
+106,Materials_Items,1417,5704,29544,remedial rock,หินฟื้นฟู
+106,Materials_Items,1418,5708,29558,An odd ore. Take it to the quest counter<FG>,แร่ประหลาด นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1419,5712,29602,remedial rocks,หินฟื้นฟู
 106,Materials_Items,1420,5716,29617,the ,
 106,Materials_Items,1421,5720,29622,the ,
 106,Materials_Items,1422,5724,29627,a ,
 106,Materials_Items,1423,5728,29630,some ,
-106,Materials_Items,1424,5732,29636,walking stick,
-106,Materials_Items,1425,5736,29650,walking stick,
-106,Materials_Items,1426,5740,29664,An old man's lost property. Take it to the quest counter<FG>,
-106,Materials_Items,1427,5744,29724,walking sticks,
+106,Materials_Items,1424,5732,29636,walking stick,ไม้เท้าคนชรา
+106,Materials_Items,1425,5736,29650,walking stick,ไม้เท้าคนชรา
+106,Materials_Items,1426,5740,29664,An old man's lost property. Take it to the quest counter<FG>,ของหายของชายชรา นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1427,5744,29724,walking sticks,ไม้เท้าคนชรา
 106,Materials_Items,1428,5748,29739,the ,
 106,Materials_Items,1429,5752,29744,the ,
 106,Materials_Items,1430,5756,29749,a ,
 106,Materials_Items,1431,5760,29752,some ,
-106,Materials_Items,1432,5764,29758,monsterium ore,
-106,Materials_Items,1433,5768,29773,monsterium ore,
-106,Materials_Items,1434,5772,29788,A peculiar powder. Take it to the quest counter<FG>,
-106,Materials_Items,1435,5776,29839,pinches of monsterium ore,
+106,Materials_Items,1432,5764,29758,monsterium ore,แร่มอนสเตอเรียม
+106,Materials_Items,1433,5768,29773,monsterium ore,แร่มอนสเตอเรียม
+106,Materials_Items,1434,5772,29788,A peculiar powder. Take it to the quest counter<FG>,ผงแป้งประหลาด นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1435,5776,29839,pinches of monsterium ore,แร่มอนสเตอเรียม
 106,Materials_Items,1436,5780,29865,the ,
 106,Materials_Items,1437,5784,29870,the ,
 106,Materials_Items,1438,5788,29875,a pinch of ,
 106,Materials_Items,1439,5792,29887,some ,
-106,Materials_Items,1440,5796,29893,cracking egg,
-106,Materials_Items,1441,5800,29906,cracking egg,
-106,Materials_Items,1442,5804,29919,An uplifting ovum. Take it to the quest counter<FG>,
-106,Materials_Items,1443,5808,29970,cracking eggs,
+106,Materials_Items,1440,5796,29893,cracking egg,ไข่รอยร้าว
+106,Materials_Items,1441,5800,29906,cracking egg,ไข่รอยร้าว
+106,Materials_Items,1442,5804,29919,An uplifting ovum. Take it to the quest counter<FG>,ฟองไข่แห่งกำลังใจ นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1443,5808,29970,cracking eggs,ไข่รอยร้าว
 106,Materials_Items,1444,5812,29984,the ,
 106,Materials_Items,1445,5816,29989,the ,
 106,Materials_Items,1446,5820,29994,a ,
 106,Materials_Items,1447,5824,29997,some ,
-106,Materials_Items,1448,5828,30003,true lovage,
-106,Materials_Items,1449,5832,30015,true lovage,
-106,Materials_Items,1450,5836,30027,A secret ingredient. Take it to the quest counter<FG>,
-106,Materials_Items,1451,5840,30080,sprigs of true lovage,
+106,Materials_Items,1448,5828,30003,true lovage,สมุนไพรแห่งรักแท้
+106,Materials_Items,1449,5832,30015,true lovage,สมุนไพรแห่งรักแท้
+106,Materials_Items,1450,5836,30027,A secret ingredient. Take it to the quest counter<FG>,ส่วนผสมลับ นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1451,5840,30080,sprigs of true lovage,สมุนไพรแห่งรักแท้
 106,Materials_Items,1452,5844,30102,the ,
 106,Materials_Items,1453,5848,30107,the ,
 106,Materials_Items,1454,5852,30112,a sprig of ,
 106,Materials_Items,1455,5856,30124,some ,
-106,Materials_Items,1456,5860,30130,curative crystal,
-106,Materials_Items,1457,5864,30147,curative crystal,
-106,Materials_Items,1458,5868,30164,A peculiar precious stone. Take it to the quest counter<FG>,
-106,Materials_Items,1459,5872,30223,curative crystals,
+106,Materials_Items,1456,5860,30130,curative crystal,ผลึกรักษา
+106,Materials_Items,1457,5864,30147,curative crystal,ผลึกรักษา
+106,Materials_Items,1458,5868,30164,A peculiar precious stone. Take it to the quest counter<FG>,อัญมณีล้ำค่าประหลาด นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1459,5872,30223,curative crystals,ผลึกรักษา
 106,Materials_Items,1460,5876,30241,the ,
 106,Materials_Items,1461,5880,30246,the ,
 106,Materials_Items,1462,5884,30251,a ,
 106,Materials_Items,1463,5888,30254,some ,
-106,Materials_Items,1464,5892,30260,monsterium nugget,
-106,Materials_Items,1465,5896,30278,monsterium nugget,
-106,Materials_Items,1466,5900,30296,A strange stone. Take it to the quest counter<FG>,
-106,Materials_Items,1467,5904,30345,monsterium nuggets,
+106,Materials_Items,1464,5892,30260,monsterium nugget,ก้อนมอนสเตอเรียม
+106,Materials_Items,1465,5896,30278,monsterium nugget,ก้อนมอนสเตอเรียม
+106,Materials_Items,1466,5900,30296,A strange stone. Take it to the quest counter<FG>,หินประหลาด นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1467,5904,30345,monsterium nuggets,ก้อนมอนสเตอเรียม
 106,Materials_Items,1468,5908,30364,the ,
 106,Materials_Items,1469,5912,30369,the ,
 106,Materials_Items,1470,5916,30374,a ,
 106,Materials_Items,1471,5920,30377,some ,
-106,Materials_Items,1472,5924,30383,frozen fire,
-106,Materials_Items,1473,5928,30395,frozen fire,
-106,Materials_Items,1474,5932,30407,Burns curiously coolly. Take it to the quest counter<FG>,
-106,Materials_Items,1475,5936,30463,pieces of frozen fire,
+106,Materials_Items,1472,5924,30383,frozen fire,เปลวเพลิงเยือกแข็ง
+106,Materials_Items,1473,5928,30395,frozen fire,เปลวเพลิงเยือกแข็ง
+106,Materials_Items,1474,5932,30407,Burns curiously coolly. Take it to the quest counter<FG>,ลุกไหม้อย่างเย็นเยียบอย่างน่าประหลาด นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1475,5936,30463,pieces of frozen fire,เปลวเพลิงเยือกแข็ง
 106,Materials_Items,1476,5940,30485,the ,
 106,Materials_Items,1477,5944,30490,the ,
 106,Materials_Items,1478,5948,30495,a piece of ,
 106,Materials_Items,1479,5952,30507,some ,
-106,Materials_Items,1480,5956,30513,rejuvenating jewel,
-106,Materials_Items,1481,5960,30532,rejuvenating jewel,
-106,Materials_Items,1482,5964,30551,A glowing golden gem. Take it to the quest counter<FG>,
-106,Materials_Items,1483,5968,30605,rejuvenating jewels,
+106,Materials_Items,1480,5956,30513,rejuvenating jewel,อัญมณีคืนความเยาว์
+106,Materials_Items,1481,5960,30532,rejuvenating jewel,อัญมณีคืนความเยาว์
+106,Materials_Items,1482,5964,30551,A glowing golden gem. Take it to the quest counter<FG>,อัญมณีสีทองเปล่งประกาย นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1483,5968,30605,rejuvenating jewels,อัญมณีคืนความเยาว์
 106,Materials_Items,1484,5972,30625,the ,
 106,Materials_Items,1485,5976,30630,the ,
 106,Materials_Items,1486,5980,30635,a ,
 106,Materials_Items,1487,5984,30638,some ,
-106,Materials_Items,1488,5988,30644,monsterium ingot,
-106,Materials_Items,1489,5992,30661,monsterium ingot,
-106,Materials_Items,1490,5996,30678,A malevolent lump. Take it to the quest counter<FG>,
-106,Materials_Items,1491,6000,30729,monsterium ingots,
+106,Materials_Items,1488,5988,30644,monsterium ingot,แท่งมอนสเตอเรียม
+106,Materials_Items,1489,5992,30661,monsterium ingot,แท่งมอนสเตอเรียม
+106,Materials_Items,1490,5996,30678,A malevolent lump. Take it to the quest counter<FG>,ก้อนแร่อันชั่วร้าย นำไปส่งที่เคาน์เตอร์เควสต์สิ<FG>
+106,Materials_Items,1491,6000,30729,monsterium ingots,แท่งมอนสเตอเรียม
 106,Materials_Items,1492,6004,30747,the ,
 106,Materials_Items,1493,6008,30752,the ,
 106,Materials_Items,1494,6012,30757,a ,
 106,Materials_Items,1495,6016,30760,some ,
-106,Materials_Items,1496,6020,30766,broadsword fragments,
-106,Materials_Items,1497,6024,30787,broadsword fragments,
-106,Materials_Items,1498,6028,30808,"With enough of these, you could create a weapon.",
-106,Materials_Items,1499,6032,30857,handfuls of broadsword fragments,
+106,Materials_Items,1496,6020,30766,broadsword fragments,เศษดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1497,6024,30787,broadsword fragments,เศษดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1498,6028,30808,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1499,6032,30857,handfuls of broadsword fragments,เศษดาบใหญ่บรอดซอร์ด
 106,Materials_Items,1500,6036,30890,the ,
 106,Materials_Items,1501,6040,30895,the ,
 106,Materials_Items,1502,6044,30900,a handful of ,
 106,Materials_Items,1503,6048,30914,some ,
-106,Materials_Items,1504,6052,30920,rapier fragments,
-106,Materials_Items,1505,6056,30937,rapier fragments,
-106,Materials_Items,1506,6060,30954,"With enough of these, you could create a weapon.",
-106,Materials_Items,1507,6064,31003,handfuls of rapier fragments,
+106,Materials_Items,1504,6052,30920,rapier fragments,เศษดาบเรเปียร์
+106,Materials_Items,1505,6056,30937,rapier fragments,เศษดาบเรเปียร์
+106,Materials_Items,1506,6060,30954,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1507,6064,31003,handfuls of rapier fragments,เศษดาบเรเปียร์
 106,Materials_Items,1508,6068,31032,the ,
 106,Materials_Items,1509,6072,31037,the ,
 106,Materials_Items,1510,6076,31042,a handful of ,
 106,Materials_Items,1511,6080,31056,some ,
-106,Materials_Items,1512,6084,31062,staff fragments,
-106,Materials_Items,1513,6088,31078,staff fragments,
-106,Materials_Items,1514,6092,31094,"With enough of these, you could create a weapon.",
-106,Materials_Items,1515,6096,31143,handfuls of staff fragments,
+106,Materials_Items,1512,6084,31062,staff fragments,เศษกระบอง
+106,Materials_Items,1513,6088,31078,staff fragments,เศษกระบอง
+106,Materials_Items,1514,6092,31094,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1515,6096,31143,handfuls of staff fragments,เศษกระบอง
 106,Materials_Items,1516,6100,31171,the ,
 106,Materials_Items,1517,6104,31176,the ,
 106,Materials_Items,1518,6108,31181,a handful of ,
 106,Materials_Items,1519,6112,31195,some ,
-106,Materials_Items,1520,6116,31201,boomerang fragments,
-106,Materials_Items,1521,6120,31221,boomerang fragments,
-106,Materials_Items,1522,6124,31241,"With enough of these, you could create a weapon.",
-106,Materials_Items,1523,6128,31290,handfuls of boomerang fragments,
+106,Materials_Items,1520,6116,31201,boomerang fragments,เศษบูมเมอแรง
+106,Materials_Items,1521,6120,31221,boomerang fragments,เศษบูมเมอแรง
+106,Materials_Items,1522,6124,31241,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1523,6128,31290,handfuls of boomerang fragments,เศษบูมเมอแรง
 106,Materials_Items,1524,6132,31322,the ,
 106,Materials_Items,1525,6136,31327,the ,
 106,Materials_Items,1526,6140,31332,a handful of ,
 106,Materials_Items,1527,6144,31346,some ,
-106,Materials_Items,1528,6148,31352,bow fragments,
-106,Materials_Items,1529,6152,31366,bow fragments,
-106,Materials_Items,1530,6156,31380,"With enough of these, you could create a weapon.",
-106,Materials_Items,1531,6160,31429,handfuls of bow fragments,
+106,Materials_Items,1528,6148,31352,bow fragments,เศษธนู
+106,Materials_Items,1529,6152,31366,bow fragments,เศษธนู
+106,Materials_Items,1530,6156,31380,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1531,6160,31429,handfuls of bow fragments,เศษธนู
 106,Materials_Items,1532,6164,31455,the ,
 106,Materials_Items,1533,6168,31460,the ,
 106,Materials_Items,1534,6172,31465,a handful of ,
 106,Materials_Items,1535,6176,31479,some ,
-106,Materials_Items,1536,6180,31485,wand fragments,
-106,Materials_Items,1537,6184,31500,wand fragments,
-106,Materials_Items,1538,6188,31515,"With enough of these, you could create a weapon.",
-106,Materials_Items,1539,6192,31564,handfuls of wand fragments,
+106,Materials_Items,1536,6180,31485,wand fragments,เศษคทา
+106,Materials_Items,1537,6184,31500,wand fragments,เศษคทา
+106,Materials_Items,1538,6188,31515,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1539,6192,31564,handfuls of wand fragments,เศษคทา
 106,Materials_Items,1540,6196,31591,the ,
 106,Materials_Items,1541,6200,31596,the ,
 106,Materials_Items,1542,6204,31601,a handful of ,
 106,Materials_Items,1543,6208,31615,some ,
-106,Materials_Items,1544,6212,31621,axe fragments,
-106,Materials_Items,1545,6216,31635,axe fragments,
-106,Materials_Items,1546,6220,31649,"With enough of these, you could create a weapon.",
-106,Materials_Items,1547,6224,31698,handfuls of axe fragments,
+106,Materials_Items,1544,6212,31621,axe fragments,เศษขวาน
+106,Materials_Items,1545,6216,31635,axe fragments,เศษขวาน
+106,Materials_Items,1546,6220,31649,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1547,6224,31698,handfuls of axe fragments,เศษขวาน
 106,Materials_Items,1548,6228,31724,the ,
 106,Materials_Items,1549,6232,31729,the ,
 106,Materials_Items,1550,6236,31734,a handful of ,
 106,Materials_Items,1551,6240,31748,some ,
-106,Materials_Items,1552,6244,31754,greatsword fragments,
-106,Materials_Items,1553,6248,31775,greatsword fragments,
-106,Materials_Items,1554,6252,31796,"With enough of these, you could create a weapon.",
-106,Materials_Items,1555,6256,31845,handfuls of greatsword fragments,
+106,Materials_Items,1552,6244,31754,greatsword fragments,เศษดาบยักษ์
+106,Materials_Items,1553,6248,31775,greatsword fragments,เศษดาบยักษ์
+106,Materials_Items,1554,6252,31796,"With enough of these, you could create a weapon.",หากรวบรวมชิ้นส่วนเหล่านี้ได้มากพอ เจ้าจะสามารถสร้างอาวุธขึ้นมาได้
+106,Materials_Items,1555,6256,31845,handfuls of greatsword fragments,เศษดาบยักษ์
 106,Materials_Items,1556,6260,31878,the ,
 106,Materials_Items,1557,6264,31883,the ,
 106,Materials_Items,1558,6268,31888,a handful of ,
 106,Materials_Items,1559,6272,31902,some ,
-106,Materials_Items,1560,6276,31908,broadsword extract,
-106,Materials_Items,1561,6280,31927,broadsword extract,
-106,Materials_Items,1562,6284,31946,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1563,6288,32000,lumps of broadsword extract,
+106,Materials_Items,1560,6276,31908,broadsword extract,สารสกัดดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1561,6280,31927,broadsword extract,สารสกัดดาบใหญ่บรอดซอร์ด
+106,Materials_Items,1562,6284,31946,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1563,6288,32000,lumps of broadsword extract,สารสกัดดาบใหญ่บรอดซอร์ด
 106,Materials_Items,1564,6292,32028,the ,
 106,Materials_Items,1565,6296,32033,the ,
 106,Materials_Items,1566,6300,32038,a lump of ,
 106,Materials_Items,1567,6304,32049,some ,
-106,Materials_Items,1568,6308,32055,rapier extract,
-106,Materials_Items,1569,6312,32070,rapier extract,
-106,Materials_Items,1570,6316,32085,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1571,6320,32139,lumps of rapier extract,
+106,Materials_Items,1568,6308,32055,rapier extract,สารสกัดดาบเรเปียร์
+106,Materials_Items,1569,6312,32070,rapier extract,สารสกัดดาบเรเปียร์
+106,Materials_Items,1570,6316,32085,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1571,6320,32139,lumps of rapier extract,สารสกัดดาบเรเปียร์
 106,Materials_Items,1572,6324,32163,the ,
 106,Materials_Items,1573,6328,32168,the ,
 106,Materials_Items,1574,6332,32173,a lump of ,
 106,Materials_Items,1575,6336,32184,some ,
-106,Materials_Items,1576,6340,32190,staff extract,
-106,Materials_Items,1577,6344,32204,staff extract,
-106,Materials_Items,1578,6348,32218,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1579,6352,32272,lumps of staff extract,
+106,Materials_Items,1576,6340,32190,staff extract,สารสกัดกระบอง
+106,Materials_Items,1577,6344,32204,staff extract,สารสกัดกระบอง
+106,Materials_Items,1578,6348,32218,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1579,6352,32272,lumps of staff extract,สารสกัดกระบอง
 106,Materials_Items,1580,6356,32295,the ,
 106,Materials_Items,1581,6360,32300,the ,
 106,Materials_Items,1582,6364,32305,a lump of ,
 106,Materials_Items,1583,6368,32316,some ,
-106,Materials_Items,1584,6372,32322,boomerang extract,
-106,Materials_Items,1585,6376,32340,boomerang extract,
-106,Materials_Items,1586,6380,32358,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1587,6384,32412,lumps of boomerang extract,
+106,Materials_Items,1584,6372,32322,boomerang extract,สารสกัดบูมเมอแรง
+106,Materials_Items,1585,6376,32340,boomerang extract,สารสกัดบูมเมอแรง
+106,Materials_Items,1586,6380,32358,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1587,6384,32412,lumps of boomerang extract,สารสกัดบูมเมอแรง
 106,Materials_Items,1588,6388,32439,the ,
 106,Materials_Items,1589,6392,32444,the ,
 106,Materials_Items,1590,6396,32449,a lump of ,
 106,Materials_Items,1591,6400,32460,some ,
-106,Materials_Items,1592,6404,32466,bow extract,
-106,Materials_Items,1593,6408,32478,bow extract,
-106,Materials_Items,1594,6412,32490,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1595,6416,32544,lumps of bow extract,
+106,Materials_Items,1592,6404,32466,bow extract,สารสกัดธนู
+106,Materials_Items,1593,6408,32478,bow extract,สารสกัดธนู
+106,Materials_Items,1594,6412,32490,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1595,6416,32544,lumps of bow extract,สารสกัดธนู
 106,Materials_Items,1596,6420,32565,the ,
 106,Materials_Items,1597,6424,32570,the ,
 106,Materials_Items,1598,6428,32575,a lump of ,
 106,Materials_Items,1599,6432,32586,some ,
-106,Materials_Items,1600,6436,32592,wand extract,
-106,Materials_Items,1601,6440,32605,wand extract,
-106,Materials_Items,1602,6444,32618,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1603,6448,32672,lumps of wand extract,
+106,Materials_Items,1600,6436,32592,wand extract,สารสกัดคทา
+106,Materials_Items,1601,6440,32605,wand extract,สารสกัดคทา
+106,Materials_Items,1602,6444,32618,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1603,6448,32672,lumps of wand extract,สารสกัดคทา
 106,Materials_Items,1604,6452,32694,the ,
 106,Materials_Items,1605,6456,32699,the ,
 106,Materials_Items,1606,6460,32704,a lump of ,
 106,Materials_Items,1607,6464,32715,some ,
-106,Materials_Items,1608,6468,32721,axe extract,
-106,Materials_Items,1609,6472,32733,axe extract,
-106,Materials_Items,1610,6476,32745,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1611,6480,32799,lumps of axe extract,
+106,Materials_Items,1608,6468,32721,axe extract,สารสกัดขวาน
+106,Materials_Items,1609,6472,32733,axe extract,สารสกัดขวาน
+106,Materials_Items,1610,6476,32745,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1611,6480,32799,lumps of axe extract,สารสกัดขวาน
 106,Materials_Items,1612,6484,32820,the ,
 106,Materials_Items,1613,6488,32825,the ,
 106,Materials_Items,1614,6492,32830,a lump of ,
 106,Materials_Items,1615,6496,32841,some ,
-106,Materials_Items,1616,6500,32847,greatsword extract,
-106,Materials_Items,1617,6504,32866,greatsword extract,
-106,Materials_Items,1618,6508,32885,Have this appraised to see what weapon it can become.,
-106,Materials_Items,1619,6512,32939,lumps of greatsword extract,
+106,Materials_Items,1616,6500,32847,greatsword extract,สารสกัดดาบยักษ์
+106,Materials_Items,1617,6504,32866,greatsword extract,สารสกัดดาบยักษ์
+106,Materials_Items,1618,6508,32885,Have this appraised to see what weapon it can become.,นำสิ่งนี้ไปประเมินตรวจสอบดูสิว่าจะกลายเป็นอาวุธอะไรได้บ้าง
+106,Materials_Items,1619,6512,32939,lumps of greatsword extract,สารสกัดดาบยักษ์
 106,Materials_Items,1620,6516,32967,the ,
 106,Materials_Items,1621,6520,32972,the ,
 106,Materials_Items,1622,6524,32977,a lump of ,
 106,Materials_Items,1623,6528,32988,some ,
-106,Materials_Items,1624,6532,32994,Victory's Secret,
-106,Materials_Items,1625,6536,33011,Victory's Secret,
-106,Materials_Items,1626,6540,33028,An excellent extract that enables one to win with ease.,
-106,Materials_Items,1627,6544,33084,doses of Victory's Secret,
+106,Materials_Items,1624,6532,32994,Victory's Secret,ความลับแห่งชัยชนะ
+106,Materials_Items,1625,6536,33011,Victory's Secret,ความลับแห่งชัยชนะ
+106,Materials_Items,1626,6540,33028,An excellent extract that enables one to win with ease.,สารสกัดชั้นยอดที่ช่วยให้คว้าชัยชนะมาได้อย่างง่ายดาย
+106,Materials_Items,1627,6544,33084,doses of Victory's Secret,ความลับแห่งชัยชนะ
 106,Materials_Items,1628,6548,33110,the ,
 106,Materials_Items,1629,6552,33115,the ,
 106,Materials_Items,1630,6556,33120,a dose of ,
 106,Materials_Items,1631,6560,33131,some ,
-106,Materials_Items,1632,6564,33137,would-be weapon,
-106,Materials_Items,1633,6568,33153,would-be weapon,
-106,Materials_Items,1634,6572,33169,Have this appraised\nto see what weapon\nit can become.,
-106,Materials_Items,1635,6576,33223,would-be weapons,
+106,Materials_Items,1632,6564,33137,would-be weapon,อาวุธปริศนา
+106,Materials_Items,1633,6568,33153,would-be weapon,อาวุธปริศนา
+106,Materials_Items,1634,6572,33169,Have this appraised\nto see what weapon\nit can become.,นำสิ่งนี้ไปประเมินตรวจสอบ\nดูสิว่าจะกลายเป็น\nอาวุธอะไรได้บ้าง
+106,Materials_Items,1635,6576,33223,would-be weapons,อาวุธปริศนา
 106,Materials_Items,1636,6580,33240,the ,
 106,Materials_Items,1637,6584,33245,the ,
 106,Materials_Items,1638,6588,33250,a ,
 106,Materials_Items,1639,6592,33253,some ,
-106,Materials_Items,1640,6596,33259,would-be weapon of worth,
-106,Materials_Items,1641,6600,33284,would-be weapon of worth,
-106,Materials_Items,1642,6604,33309,Have this appraised\nto see what weapon\nit can become.,
-106,Materials_Items,1643,6608,33363,would-be weapons of worth,
+106,Materials_Items,1640,6596,33259,would-be weapon of worth,อาวุธล้ำค่าปริศนา
+106,Materials_Items,1641,6600,33284,would-be weapon of worth,อาวุธล้ำค่าปริศนา
+106,Materials_Items,1642,6604,33309,Have this appraised\nto see what weapon\nit can become.,นำสิ่งนี้ไปประเมินตรวจสอบ\nดูสิว่าจะกลายเป็น\nอาวุธอะไรได้บ้าง
+106,Materials_Items,1643,6608,33363,would-be weapons of worth,อาวุธล้ำค่าปริศนา
 106,Materials_Items,1644,6612,33389,the ,
 106,Materials_Items,1645,6616,33394,the ,
 106,Materials_Items,1646,6620,33399,a ,
 106,Materials_Items,1647,6624,33402,some ,
-106,Materials_Items,1648,6628,33408,would-be weapon of wonder,
-106,Materials_Items,1649,6632,33434,would-be weapon of wonder,
-106,Materials_Items,1650,6636,33460,Have this appraised\nto see what weapon\nit can become.,
-106,Materials_Items,1651,6640,33514,would-be weapons of wonder,
+106,Materials_Items,1648,6628,33408,would-be weapon of wonder,อาวุธมหัศจรรย์ปริศนา
+106,Materials_Items,1649,6632,33434,would-be weapon of wonder,อาวุธมหัศจรรย์ปริศนา
+106,Materials_Items,1650,6636,33460,Have this appraised\nto see what weapon\nit can become.,นำสิ่งนี้ไปประเมินตรวจสอบ\nดูสิว่าจะกลายเป็น\nอาวุธอะไรได้บ้าง
+106,Materials_Items,1651,6640,33514,would-be weapons of wonder,อาวุธมหัศจรรย์ปริศนา
 106,Materials_Items,1652,6644,33541,the ,
 106,Materials_Items,1653,6648,33546,the ,
 106,Materials_Items,1654,6652,33551,a ,
