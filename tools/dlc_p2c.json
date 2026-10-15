@@ -1,0 +1,958 @@
+[
+  {
+    "StringIndex":1729,
+    "OriginalEnglish":"Alright. If you promise me it will keep them safe..."
+  },
+  {
+    "StringIndex":1730,
+    "OriginalEnglish":"Don't worry."
+  },
+  {
+    "StringIndex":1731,
+    "OriginalEnglish":"When the time comes...they'll remember who they are."
+  },
+  {
+    "StringIndex":1732,
+    "OriginalEnglish":"So, then... It seems like...we're not cousins..."
+  },
+  {
+    "StringIndex":1734,
+    "OriginalEnglish":"We're twins<FG>"
+  },
+  {
+    "StringIndex":1735,
+    "OriginalEnglish":"Hear me, children of Unos<FG>"
+  },
+  {
+    "StringIndex":1736,
+    "OriginalEnglish":"Your time has come."
+  },
+  {
+    "StringIndex":1737,
+    "OriginalEnglish":"Arise, and embrace your true power<FG>"
+  },
+  {
+    "StringIndex":1738,
+    "OriginalEnglish":"Wake up<FG>"
+  },
+  {
+    "StringIndex":1739,
+    "OriginalEnglish":"Please, wake up<FG>"
+  },
+  {
+    "StringIndex":1740,
+    "OriginalEnglish":"They're awake<FG>"
+  },
+  {
+    "StringIndex":1741,
+    "OriginalEnglish":"Look, look<FG> Their eyes are open and everything<FG>"
+  },
+  {
+    "StringIndex":1742,
+    "OriginalEnglish":"Praises be<FG>"
+  },
+  {
+    "StringIndex":1743,
+    "OriginalEnglish":"You are not expired<FG>"
+  },
+  {
+    "StringIndex":1744,
+    "OriginalEnglish":"Though we shook and shouted you, you did not arouse."
+  },
+  {
+    "StringIndex":1745,
+    "OriginalEnglish":"We have been most perturbed..."
+  },
+  {
+    "StringIndex":1746,
+    "OriginalEnglish":"Ah...we're back."
+  },
+  {
+    "StringIndex":1747,
+    "OriginalEnglish":"I thought I'd never see you again<FG>"
+  },
+  {
+    "StringIndex":1748,
+    "OriginalEnglish":"Don't cry, Healix."
+  },
+  {
+    "StringIndex":1749,
+    "OriginalEnglish":"We're not going anywhere."
+  },
+  {
+    "StringIndex":1750,
+    "OriginalEnglish":"So, uh...what exactly happened to us back there<FH>"
+  },
+  {
+    "StringIndex":1752,
+    "OriginalEnglish":"Fractos hit us with the lightning, and then..."
+  },
+  {
+    "StringIndex":1754,
+    "OriginalEnglish":"Sorry, lad...but that's as much as any of us remembers."
+  },
+  {
+    "StringIndex":1756,
+    "OriginalEnglish":"We woke up down here, with no Pinnacle o' Peace left up there..."
+  },
+  {
+    "StringIndex":1758,
+    "OriginalEnglish":"Guess someone was lookin' out for us, huh<FH>"
+  },
+  {
+    "StringIndex":1759,
+    "OriginalEnglish":"Got us outta there before the whole place came crumblin' down."
+  },
+  {
+    "StringIndex":1760,
+    "OriginalEnglish":"Don't know who, though. Your guess is as good as mine."
+  },
+  {
+    "StringIndex":1761,
+    "OriginalEnglish":"But there's one thing we do remember<FG>"
+  },
+  {
+    "StringIndex":1762,
+    "OriginalEnglish":"Right, everyone<FH>"
+  },
+  {
+    "StringIndex":1763,
+    "OriginalEnglish":"The truth is...while we were unconscious...it seems we all had the same dream."
+  },
+  {
+    "StringIndex":1766,
+    "OriginalEnglish":"A dream...<FH>"
+  },
+  {
+    "StringIndex":1767,
+    "OriginalEnglish":"It was about you."
+  },
+  {
+    "StringIndex":1768,
+    "OriginalEnglish":"We dreamt that you were twins<MV>twins descended from High King Unos himself."
+  },
+  {
+    "StringIndex":1770,
+    "OriginalEnglish":"This is no ordinary wind<FG>"
+  },
+  {
+    "StringIndex":1771,
+    "OriginalEnglish":"What is wrong with the weather in this world<FG><FH>"
+  },
+  {
+    "StringIndex":1772,
+    "OriginalEnglish":"First we get struck by lightning, and now we're caught in a hurricane<FG>"
+  },
+  {
+    "StringIndex":1773,
+    "OriginalEnglish":"L-Look<FG>"
+  },
+  {
+    "StringIndex":1774,
+    "OriginalEnglish":"Arey<FG>"
+  },
+  {
+    "StringIndex":1775,
+    "OriginalEnglish":"Where is he<FH>"
+  },
+  {
+    "StringIndex":1776,
+    "OriginalEnglish":"It seems Fractos is otherwise engaged."
+  },
+  {
+    "StringIndex":1777,
+    "OriginalEnglish":"No matter<MV>I'm sure he won't mind if we wait."
+  },
+  {
+    "StringIndex":1778,
+    "OriginalEnglish":"Hiding from us, is he<FH>"
+  },
+  {
+    "StringIndex":1779,
+    "OriginalEnglish":"Come out, come out, wherever you are<FG>"
+  },
+  {
+    "StringIndex":1780,
+    "OriginalEnglish":"My congratulations, humans<FG>"
+  },
+  {
+    "StringIndex":1781,
+    "OriginalEnglish":"How marvellous it must feel to such lowly creatures to bask in my divine presence once more<FG>"
+  },
+  {
+    "StringIndex":1783,
+    "OriginalEnglish":"Fractos<FG>"
+  },
+  {
+    "StringIndex":1784,
+    "OriginalEnglish":"I confess, when I unleashed the Dreadbolt"
+  },
+  {
+    "StringIndex":1785,
+    "OriginalEnglish":"and struck down that eyesore of a tower,"
+  },
+  {
+    "StringIndex":1786,
+    "OriginalEnglish":"I rather thought I had seen the last of you."
+  },
+  {
+    "StringIndex":1787,
+    "OriginalEnglish":"I do not know whether to be impressed by your tenacity,"
+  },
+  {
+    "StringIndex":1788,
+    "OriginalEnglish":"or amused that you should imagine yourselves worthy to face me,"
+  },
+  {
+    "StringIndex":1790,
+    "OriginalEnglish":"despite all evidence to the contrary."
+  },
+  {
+    "StringIndex":1791,
+    "OriginalEnglish":"Well, you won't be amused for long, I can promise you that<FG>"
+  },
+  {
+    "StringIndex":1792,
+    "OriginalEnglish":"Yeah<FG> Shoulda finished us when you had the chance<FG>"
+  },
+  {
+    "StringIndex":1793,
+    "OriginalEnglish":"Yapping dogs<FG>"
+  },
+  {
+    "StringIndex":1794,
+    "OriginalEnglish":"Whelps<FG>"
+  },
+  {
+    "StringIndex":1795,
+    "OriginalEnglish":"I have seen it all before."
+  },
+  {
+    "StringIndex":1796,
+    "OriginalEnglish":"You bark..."
+  },
+  {
+    "StringIndex":1797,
+    "OriginalEnglish":"You snap..."
+  },
+  {
+    "StringIndex":1798,
+    "OriginalEnglish":"You bear your teeth and growl..."
+  },
+  {
+    "StringIndex":1799,
+    "OriginalEnglish":"And yet..."
+  },
+  {
+    "StringIndex":1800,
+    "OriginalEnglish":"When faced with the power of the master, you will beg like the pets you are."
+  },
+  {
+    "StringIndex":1802,
+    "OriginalEnglish":"But you will find no mercy here."
+  },
+  {
+    "StringIndex":1803,
+    "OriginalEnglish":"The flames of hell await you."
+  },
+  {
+    "StringIndex":1804,
+    "OriginalEnglish":"Now come to me, and burn<FG>"
+  },
+  {
+    "StringIndex":1805,
+    "OriginalEnglish":"Oh, my poor little darlings."
+  },
+  {
+    "StringIndex":1806,
+    "OriginalEnglish":"Did you think you had beaten the big, bad monster<FH>"
+  },
+  {
+    "StringIndex":1807,
+    "OriginalEnglish":"Ever so sorry, but you must try harder."
+  },
+  {
+    "StringIndex":1808,
+    "OriginalEnglish":"We've barely even started<MV>and you've barely made a scratch<FG>"
+  },
+  {
+    "StringIndex":1810,
+    "OriginalEnglish":"The time has come for you to learn the true meaning of power."
+  },
+  {
+    "StringIndex":1811,
+    "OriginalEnglish":"Now...cower for me like good little pets...and DIE<FG>"
+  },
+  {
+    "StringIndex":1813,
+    "OriginalEnglish":"What<FG><FH>"
+  },
+  {
+    "StringIndex":1814,
+    "OriginalEnglish":"Well, now<FG>"
+  },
+  {
+    "StringIndex":1815,
+    "OriginalEnglish":"This is a surprise<FG>"
+  },
+  {
+    "StringIndex":1816,
+    "OriginalEnglish":"Unos, old boy<MV>I have found your elusive offspring at last<FG>"
+  },
+  {
+    "StringIndex":1818,
+    "OriginalEnglish":"SO<FG>"
+  },
+  {
+    "StringIndex":1819,
+    "OriginalEnglish":"I have merely to pluck off their heads, and my revenge against you will be complete<FG>"
+  },
+  {
+    "StringIndex":1821,
+    "OriginalEnglish":"And then...at long last..."
+  },
+  {
+    "StringIndex":1822,
+    "OriginalEnglish":"I alone will be Supreme Sovereign of this world,"
+  },
+  {
+    "StringIndex":1824,
+    "OriginalEnglish":"and all the Seven Realms shall answer to me<FG>"
+  },
+  {
+    "StringIndex":1825,
+    "OriginalEnglish":"The time has come..."
+  },
+  {
+    "StringIndex":1826,
+    "OriginalEnglish":"One thousand years ago, almost to the hour, I took on this monstrous form, and settled down to wait."
+  },
+  {
+    "StringIndex":1828,
+    "OriginalEnglish":"To await the day that I would meet you, children of Unos<MV>and tear you limb from limb<FG>"
+  },
+  {
+    "StringIndex":1830,
+    "OriginalEnglish":"Oh, you have got to be joking<FG>"
+  },
+  {
+    "StringIndex":1831,
+    "OriginalEnglish":"Didn't he look creepy enough already<FG><FH>"
+  },
+  {
+    "StringIndex":1832,
+    "OriginalEnglish":"That's just...hideous."
+  },
+  {
+    "StringIndex":1833,
+    "OriginalEnglish":"Can we really fight something like that<FH>"
+  },
+  {
+    "StringIndex":1834,
+    "OriginalEnglish":"We haven't got any choice."
+  },
+  {
+    "StringIndex":1835,
+    "OriginalEnglish":"It's the only way we're gonna save our world<FG>"
+  },
+  {
+    "StringIndex":1836,
+    "OriginalEnglish":"Don't worry."
+  },
+  {
+    "StringIndex":1837,
+    "OriginalEnglish":"It won't be just the two of you."
+  },
+  {
+    "StringIndex":1838,
+    "OriginalEnglish":"The fate of this world rests on all our shoulders."
+  },
+  {
+    "StringIndex":1839,
+    "OriginalEnglish":"We're right behind you."
+  },
+  {
+    "StringIndex":1840,
+    "OriginalEnglish":"And we will win. Whatever it takes<FG>"
+  },
+  {
+    "StringIndex":1841,
+    "OriginalEnglish":"Since you've been waiting for a thousand years, I'd say it's time we finished this<FG>"
+  },
+  {
+    "StringIndex":1843,
+    "OriginalEnglish":"For the Seven Realms...to the end<FG>"
+  },
+  {
+    "StringIndex":1844,
+    "OriginalEnglish":"You are s-spirited..."
+  },
+  {
+    "StringIndex":1845,
+    "OriginalEnglish":"I will give you that..."
+  },
+  {
+    "StringIndex":1846,
+    "OriginalEnglish":"But it will do you no good."
+  },
+  {
+    "StringIndex":1847,
+    "OriginalEnglish":"It is not within your power to<MV>"
+  },
+  {
+    "StringIndex":1848,
+    "OriginalEnglish":"Wh-What<MV><FG><FH>"
+  },
+  {
+    "StringIndex":1849,
+    "OriginalEnglish":"What is happening to me<FG><FH>"
+  },
+  {
+    "StringIndex":1850,
+    "OriginalEnglish":"I have transcended my mortal form...and yet...<FG>"
+  },
+  {
+    "StringIndex":1851,
+    "OriginalEnglish":"How can this be<FG><FH>"
+  },
+  {
+    "StringIndex":1852,
+    "OriginalEnglish":"My body<FG>"
+  },
+  {
+    "StringIndex":1853,
+    "OriginalEnglish":"My body<FG>"
+  },
+  {
+    "StringIndex":1854,
+    "OriginalEnglish":"M-M-My beautiful body<FG>"
+  },
+  {
+    "StringIndex":1855,
+    "OriginalEnglish":"It is...concluded<FH>"
+  },
+  {
+    "StringIndex":1856,
+    "OriginalEnglish":"Desdemona<FG>"
+  },
+  {
+    "StringIndex":1857,
+    "OriginalEnglish":"Your arm<FG> A-Are you okay<FH>"
+  },
+  {
+    "StringIndex":1858,
+    "OriginalEnglish":"The mark..."
+  },
+  {
+    "StringIndex":1859,
+    "OriginalEnglish":"It's gone<FG>"
+  },
+  {
+    "StringIndex":1860,
+    "OriginalEnglish":"Fractos is no more."
+  },
+  {
+    "StringIndex":1861,
+    "OriginalEnglish":"And the brand with which his kin were cursed has passed along with him..."
+  },
+  {
+    "StringIndex":1863,
+    "OriginalEnglish":"Children of Unos, you have my thanks..."
+  },
+  {
+    "StringIndex":1865,
+    "OriginalEnglish":"along with those of your noble forefather,"
+  },
+  {
+    "StringIndex":1866,
+    "OriginalEnglish":"whose greatest wish has at last been fulfilled."
+  },
+  {
+    "StringIndex":1867,
+    "OriginalEnglish":"That which he strove to achieve one thousand years ago is now done."
+  },
+  {
+    "StringIndex":1868,
+    "OriginalEnglish":"That voice..."
+  },
+  {
+    "StringIndex":1869,
+    "OriginalEnglish":"It's the one we heard in our dream<FG>"
+  },
+  {
+    "StringIndex":1870,
+    "OriginalEnglish":"Go now, twins of destiny."
+  },
+  {
+    "StringIndex":1871,
+    "OriginalEnglish":"Take the Cup of Kings, and make this riven realm whole once more."
+  },
+  {
+    "StringIndex":1873,
+    "OriginalEnglish":"Just as the ancient prophecy foretold..."
+  },
+  {
+    "StringIndex":1875,
+    "OriginalEnglish":"Quickly, everyone<MV>I don't think this castle's going to last much longer."
+  },
+  {
+    "StringIndex":1877,
+    "OriginalEnglish":"We should head for solid ground."
+  },
+  {
+    "StringIndex":1878,
+    "OriginalEnglish":"Look<FG> The castle<FG>"
+  },
+  {
+    "StringIndex":1879,
+    "OriginalEnglish":"Look at that..."
+  },
+  {
+    "StringIndex":1880,
+    "OriginalEnglish":"It's disappearing..."
+  },
+  {
+    "StringIndex":1881,
+    "OriginalEnglish":"It's gone..."
+  },
+  {
+    "StringIndex":1882,
+    "OriginalEnglish":"That's it."
+  },
+  {
+    "StringIndex":1883,
+    "OriginalEnglish":"It's all over."
+  },
+  {
+    "StringIndex":1884,
+    "OriginalEnglish":"No. Not quite."
+  },
+  {
+    "StringIndex":1885,
+    "OriginalEnglish":"We have an announcement to make<MV>the prophecy is fulfilled, and the sovereign twins are found."
+  },
+  {
+    "StringIndex":1888,
+    "OriginalEnglish":"Look."
+  },
+  {
+    "StringIndex":1889,
+    "OriginalEnglish":"W-Wait<FG>"
+  },
+  {
+    "StringIndex":1890,
+    "OriginalEnglish":"Er... Can we talk about this<FH>"
+  },
+  {
+    "StringIndex":1891,
+    "OriginalEnglish":"Even if we are the twins from the prophecy, you can't just stick crowns on our heads<FG>"
+  },
+  {
+    "StringIndex":1893,
+    "OriginalEnglish":"You do realise we're still at school, don't you<FH>"
+  },
+  {
+    "StringIndex":1894,
+    "OriginalEnglish":"I mean, we don't know the first thing about how to rule<FG>"
+  },
+  {
+    "StringIndex":1896,
+    "OriginalEnglish":"It was you who defeated Fractos."
+  },
+  {
+    "StringIndex":1897,
+    "OriginalEnglish":"You who saved this world."
+  },
+  {
+    "StringIndex":1898,
+    "OriginalEnglish":"I know of none more qualified than you to rule over it."
+  },
+  {
+    "StringIndex":1899,
+    "OriginalEnglish":"Don't worry, you're going to be just fine<FG>"
+  },
+  {
+    "StringIndex":1900,
+    "OriginalEnglish":"And even if you do make a mess of it, we'll always be around to pick up the pieces."
+  },
+  {
+    "StringIndex":1902,
+    "OriginalEnglish":"Me too<FG>"
+  },
+  {
+    "StringIndex":1903,
+    "OriginalEnglish":"I live to serve, Your Radiances<FG>"
+  },
+  {
+    "StringIndex":1904,
+    "OriginalEnglish":"I dunno..."
+  },
+  {
+    "StringIndex":1905,
+    "OriginalEnglish":"Where are<MV><FH>"
+  },
+  {
+    "StringIndex":1906,
+    "OriginalEnglish":"Where are the others<FH> I can't see them anywhere..."
+  },
+  {
+    "StringIndex":1907,
+    "OriginalEnglish":"Oh yeah. Where have they run off to all of a sudden<FH>"
+  },
+  {
+    "StringIndex":1909,
+    "OriginalEnglish":"That's odd."
+  },
+  {
+    "StringIndex":1910,
+    "OriginalEnglish":"They were here a minute ago..."
+  },
+  {
+    "StringIndex":1911,
+    "OriginalEnglish":"I'll go and find them<FG>"
+  },
+  {
+    "StringIndex":1912,
+    "OriginalEnglish":"And I'll help<FG>"
+  },
+  {
+    "StringIndex":1913,
+    "OriginalEnglish":"Me too<FG>"
+  },
+  {
+    "StringIndex":1914,
+    "OriginalEnglish":"Oi<FG> Where are you going<FG><FH>"
+  },
+  {
+    "StringIndex":1915,
+    "OriginalEnglish":"There they are<FG>"
+  },
+  {
+    "StringIndex":1916,
+    "OriginalEnglish":"HEEEY<FG>"
+  },
+  {
+    "StringIndex":1917,
+    "OriginalEnglish":"You had us worried<FG> Hiding up here, were you<FH>"
+  },
+  {
+    "StringIndex":1918,
+    "OriginalEnglish":"Oh, 'tis yerselves."
+  },
+  {
+    "StringIndex":1919,
+    "OriginalEnglish":"Seems ye've caught us red-handed."
+  },
+  {
+    "StringIndex":1920,
+    "OriginalEnglish":"Arey<FG>"
+  },
+  {
+    "StringIndex":1921,
+    "OriginalEnglish":"And there I was hoping to make a mysterious exit..."
+  },
+  {
+    "StringIndex":1922,
+    "OriginalEnglish":"You're leaving<FH>"
+  },
+  {
+    "StringIndex":1923,
+    "OriginalEnglish":"You mean...you're going back to your own worlds<FH>"
+  },
+  {
+    "StringIndex":1925,
+    "OriginalEnglish":"Yes."
+  },
+  {
+    "StringIndex":1926,
+    "OriginalEnglish":"An old friend's come to collect us."
+  },
+  {
+    "StringIndex":1927,
+    "OriginalEnglish":"Fractos is defeated, and now this world is at peace once again."
+  },
+  {
+    "StringIndex":1929,
+    "OriginalEnglish":"Our role in this adventure...is complete."
+  },
+  {
+    "StringIndex":1931,
+    "OriginalEnglish":"Wait, no<FG>"
+  },
+  {
+    "StringIndex":1932,
+    "OriginalEnglish":"No... You can't go..."
+  },
+  {
+    "StringIndex":1933,
+    "OriginalEnglish":"What<FH> You guys looking at me for a reason<FH>"
+  },
+  {
+    "StringIndex":1934,
+    "OriginalEnglish":"You two're in charge around here now."
+  },
+  {
+    "StringIndex":1935,
+    "OriginalEnglish":"C'mon, you don't need to be frettin' about the likes of us<FG>"
+  },
+  {
+    "StringIndex":1936,
+    "OriginalEnglish":"And anyway... What have you got to frown about<FH>"
+  },
+  {
+    "StringIndex":1937,
+    "OriginalEnglish":"The minute you beat Fractos, they made you the rulers of the whole, wide world<FG>"
+  },
+  {
+    "StringIndex":1938,
+    "OriginalEnglish":"Not that..."
+  },
+  {
+    "StringIndex":1939,
+    "OriginalEnglish":"Not that I'm complaining about it, of course."
+  },
+  {
+    "StringIndex":1940,
+    "OriginalEnglish":"I'm glad you turned out to be the legendary twins."
+  },
+  {
+    "StringIndex":1941,
+    "OriginalEnglish":"I, too, correspond with this sentiment."
+  },
+  {
+    "StringIndex":1942,
+    "OriginalEnglish":"With yourselves as rulers, the world assuredly is destined for excellence<FG>"
+  },
+  {
+    "StringIndex":1944,
+    "OriginalEnglish":"One day, it may even to rival Zamoksva<FG>"
+  },
+  {
+    "StringIndex":1946,
+    "OriginalEnglish":"Alena..."
+  },
+  {
+    "StringIndex":1947,
+    "OriginalEnglish":"You know, when I get home, I'm going to tell all my friends about you, and the grrreat adventure we had together<FG>"
+  },
+  {
+    "StringIndex":1949,
+    "OriginalEnglish":"And that's why..."
+  },
+  {
+    "StringIndex":1950,
+    "OriginalEnglish":"And that's why..."
+  },
+  {
+    "StringIndex":1951,
+    "OriginalEnglish":"I want you to promise me that..."
+  },
+  {
+    "StringIndex":1952,
+    "OriginalEnglish":"That we'll all meet up again one day<FG>"
+  },
+  {
+    "StringIndex":1953,
+    "OriginalEnglish":"Come back here, private<FG>"
+  },
+  {
+    "StringIndex":1954,
+    "OriginalEnglish":"A real soldier never cries<FG>"
+  },
+  {
+    "StringIndex":1955,
+    "OriginalEnglish":"Don't you dare cryyyyyy...<FG>"
+  },
+  {
+    "StringIndex":1956,
+    "OriginalEnglish":"Now, now, lad."
+  },
+  {
+    "StringIndex":1957,
+    "OriginalEnglish":"What did we say about tryin' to be big strong boys and keepin' from sheddin' a tear, eh<FH>"
+  },
+  {
+    "StringIndex":1959,
+    "OriginalEnglish":"Well, I suppose it's only natural to feel gloomy when the curtain falls."
+  },
+  {
+    "StringIndex":1960,
+    "OriginalEnglish":"After all we've done together, you can hardly blame everyone for feeling sad."
+  },
+  {
+    "StringIndex":1962,
+    "OriginalEnglish":"Well, then."
+  },
+  {
+    "StringIndex":1963,
+    "OriginalEnglish":"It seems our carriage awaits."
+  },
+  {
+    "StringIndex":1964,
+    "OriginalEnglish":"Hm. Time to go."
+  },
+  {
+    "StringIndex":1965,
+    "OriginalEnglish":"I'm sorry we were going to leave without saying goodbye."
+  },
+  {
+    "StringIndex":1966,
+    "OriginalEnglish":"It's just...after everything we've been through together, we thought it would be too sad."
+  },
+  {
+    "StringIndex":1968,
+    "OriginalEnglish":"Anyway..."
+  },
+  {
+    "StringIndex":1969,
+    "OriginalEnglish":"Thank you. You've made us feel very welcome."
+  },
+  {
+    "StringIndex":1970,
+    "OriginalEnglish":"Okay, let's go<FG>"
+  },
+  {
+    "StringIndex":1971,
+    "OriginalEnglish":"What're you<MV><FG><FH>"
+  },
+  {
+    "StringIndex":1972,
+    "OriginalEnglish":"H-Hey, w-wait<FG>"
+  },
+  {
+    "StringIndex":1973,
+    "OriginalEnglish":"Ciao."
+  },
+  {
+    "StringIndex":1974,
+    "OriginalEnglish":"Come, Kiryl<FG> Cease your dawdlings<FG>"
+  },
+  {
+    "StringIndex":1975,
+    "OriginalEnglish":"Ts-Tsarevna<FG> Please to not impel me to JUUUMP<FG>"
+  },
+  {
+    "StringIndex":1976,
+    "OriginalEnglish":"BYE-BYYYE<FG>"
+  },
+  {
+    "StringIndex":1977,
+    "OriginalEnglish":"I'll come back and play soon, I promise<FG>"
+  },
+  {
+    "StringIndex":1979,
+    "OriginalEnglish":"Come back and visit<FG>"
+  },
+  {
+    "StringIndex":1980,
+    "OriginalEnglish":"See you soon<FG>"
+  },
+  {
+    "StringIndex":1981,
+    "OriginalEnglish":"Goodbyyye<FG>"
+  },
+  {
+    "StringIndex":1982,
+    "OriginalEnglish":"Have a safe trip<FG>"
+  },
+  {
+    "StringIndex":1983,
+    "OriginalEnglish":"Huzzah<FG> Hooray<FG>"
+  },
+  {
+    "StringIndex":1984,
+    "OriginalEnglish":"Rulers of the world, eh...<FH>"
+  },
+  {
+    "StringIndex":1985,
+    "OriginalEnglish":"Do you really think we can do it<FH>"
+  },
+  {
+    "StringIndex":1986,
+    "OriginalEnglish":"Hey<FG> Are you<MV><FH>"
+  },
+  {
+    "StringIndex":1987,
+    "OriginalEnglish":"Are you okay<FH>"
+  },
+  {
+    "StringIndex":1988,
+    "OriginalEnglish":"ALLLRIGHT<FG>"
+  },
+  {
+    "StringIndex":1989,
+    "OriginalEnglish":"Time to get RULING<FG>"
+  },
+  {
+    "StringIndex":1990,
+    "OriginalEnglish":"We'll be the best kings ever<FG>"
+  },
+  {
+    "StringIndex":1991,
+    "OriginalEnglish":"We'll give it everything we've got, and rule this country's pants off<FG>"
+  },
+  {
+    "StringIndex":1992,
+    "OriginalEnglish":"Come on<FG>"
+  },
+  {
+    "StringIndex":1993,
+    "OriginalEnglish":"It's a big decision<FG>"
+  },
+  {
+    "StringIndex":1994,
+    "OriginalEnglish":"You can't just go jumping in willy-nilly like you usually do."
+  },
+  {
+    "StringIndex":1995,
+    "OriginalEnglish":"You've got to think seriousl<MV>"
+  },
+  {
+    "StringIndex":1996,
+    "OriginalEnglish":"I'm serious."
+  },
+  {
+    "StringIndex":1997,
+    "OriginalEnglish":"Everyone's dreaming of the day the prophecy's fulfilled and peace returns for good..."
+  },
+  {
+    "StringIndex":1999,
+    "OriginalEnglish":"and only we can make those dreams come true<FG>"
+  },
+  {
+    "StringIndex":2000,
+    "OriginalEnglish":"...You're right."
+  },
+  {
+    "StringIndex":2001,
+    "OriginalEnglish":"It looks like you might have a brain after all<FG>"
+  },
+  {
+    "StringIndex":2002,
+    "OriginalEnglish":"We'll just have to do our best<MV>for the sake of our world, and everyone in it<FG>"
+  },
+  {
+    "StringIndex":2004,
+    "OriginalEnglish":"To make all our dreams come true<FG>"
+  },
+  {
+    "StringIndex":2005,
+    "OriginalEnglish":"Yeah<FG>"
+  },
+  {
+    "StringIndex":2006,
+    "OriginalEnglish":"Alllright<FG>"
+  },
+  {
+    "StringIndex":2007,
+    "OriginalEnglish":"I'm the king of the whole, wide world<FG>"
+  },
+  {
+    "StringIndex":2008,
+    "OriginalEnglish":"Alllright<FG>"
+  },
+  {
+    "StringIndex":2009,
+    "OriginalEnglish":"I'm the queen of the whole, wide world<FG>"
+  }
+]

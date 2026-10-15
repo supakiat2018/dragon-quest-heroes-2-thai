@@ -1,0 +1,1252 @@
+[
+  {
+    "idx": 1000,
+    "en": "The war's over, and it's time to celebrate<FG> Everything else can wait till later<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1001,
+    "en": "Arey, look<MV>there's a teleportal<FG> That must be the way to the other world<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1002,
+    "en": "No doubt about it<FG> An' if we're lucky, the back door to Fractos's place'll be just beyond<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1003,
+    "en": "Ngh... I fear the end is nigh... Help me drive these fiends away, I beg you<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1004,
+    "en": "Haaah... Haaah... I could not have defeated those fiends alone. You have my heartfelt thanks<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1005,
+    "en": "Waaaaaagh<FG> There's monsters everywhere<FG> Please, you have to help me<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1006,
+    "en": "I, I'm saved<FG> Thank you, from the bottom of my heart<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1007,
+    "en": "Wait a minute<FG> We're right back where we came from...aren't we<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1008,
+    "en": "It does look that way... Strange... The teleportal definitely seemed to work...",
+    "th": ""
+  },
+  {
+    "idx": 1009,
+    "en": "What's the matter, Cesar<FH> You look even more miserable than usual.",
+    "th": ""
+  },
+  {
+    "idx": 1010,
+    "en": "Hm. Unlike you, I have grown-up problems to attend to.",
+    "th": ""
+  },
+  {
+    "idx": 1011,
+    "en": "I will be representing Dunisia at the ceremony tomorrow...not as a prince, but as a king...",
+    "th": ""
+  },
+  {
+    "idx": 1012,
+    "en": "Of course<FG> What with everything that's been going on, I'd completely forgotten<MV>you're the new King of Dunisia<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1013,
+    "en": "Yes. My duty now is to protect my kingdom and its people, just as my father did... Just as the late King of Harba did...",
+    "th": ""
+  },
+  {
+    "idx": 1014,
+    "en": "But the man who murdered my father and drove the world to war still walks free. I long to find him...and see that he suffers.",
+    "th": ""
+  },
+  {
+    "idx": 1015,
+    "en": "I see... So you can't decide whether to go back to Dunisia to rule after the ceremony tomorrow, or to keep looking for the seer<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1016,
+    "en": "Not only that... Returning to Dunisia would<MV> It would mean leaving everyone behind. You included.",
+    "th": ""
+  },
+  {
+    "idx": 1017,
+    "en": "Well, you didn't seem that upset when we went our separate ways four years ago<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1018,
+    "en": "Hm. I may not have seemed it, but I do have a heart, you know... In any case, I will continue to think this over...",
+    "th": ""
+  },
+  {
+    "idx": 1019,
+    "en": "What does this mean<FH> Is it some kind of trick<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1020,
+    "en": "We can't be sure of anything yet. Let's go outside and see if anything looks different.",
+    "th": ""
+  },
+  {
+    "idx": 1021,
+    "en": "This is still the Grand Dunes...right<FH> But it wasn't night when we went in... Hmm...",
+    "th": ""
+  },
+  {
+    "idx": 1022,
+    "en": "We've got company.",
+    "th": ""
+  },
+  {
+    "idx": 1023,
+    "en": "It doesn't look aggressive. Let's try talking to it...",
+    "th": ""
+  },
+  {
+    "idx": 1024,
+    "en": "It'll take some time to organise Prince Cesar's hearing. I know you're worried about your friend, but could you wait a little while longer<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1025,
+    "en": "You are the otherworldly warriors who seek to take Fractos to task, correct<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1026,
+    "en": "<F4><I0>00 receives an ogre shield<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1027,
+    "en": "You must defeat Fractos, and ensure that your world does not suffer the same fate as did ours<FG> Fight valiantly, brave warriors<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1028,
+    "en": "This world's light is extinguished... Eternal night reigns... Behold the devastation that surrounds you, otherworlders...",
+    "th": ""
+  },
+  {
+    "idx": 1029,
+    "en": "And you are<FH> Ah, of course. The ones who would do battle with Fractos...",
+    "th": ""
+  },
+  {
+    "idx": 1030,
+    "en": "<F4><I0>00 receives a chunk of orichalcum<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1031,
+    "en": "There is nothing more terrifying than Fractos and his wickedness... But you cannot give in... You must not<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1032,
+    "en": "I heard that Unos's palace fell from the sky in the north-western part of the wilds. Be careful, won't you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1033,
+    "en": "You are the ones who are off to fight Fractos, correct<FH> One can't help but remember Unos doing the same... So very brave...",
+    "th": ""
+  },
+  {
+    "idx": 1034,
+    "en": "Ooh<FG> You're the ones who came from the other world to fight Fractos, right<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1035,
+    "en": "<F4><I0>00 receives a bondstone<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1036,
+    "en": "I meant to tell you... His Radiance has asked me to go in search of the black-robed seer when the celebrations are over.",
+    "th": ""
+  },
+  {
+    "idx": 1037,
+    "en": "Then we're coming with you<FG> I'm not missing out on the chance to unmask the villain who murdered Cesar's father<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1038,
+    "en": "Ha<FG> And what about your studies, hm<FH> Or have you forgotten that you're both still knights-in-training<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1039,
+    "en": "Ugh, please not you as well. Look, we're going to be travelling together, so just plain ‘Desdemona’ will be fine, okay<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1040,
+    "en": "And what about you two<FH> I know you're cousins, and that you're both from Dunisia originally, but...what do I call you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1041,
+    "en": "I'm <F4><S3>, and this is <F4><S2><FG> We're both trainee knights at the Academy in Dunisia.",
+    "th": ""
+  },
+  {
+    "idx": 1042,
+    "en": "Well, sort of<MV>I've spent the last year studying in Harba. Needed to get away from Miss Smarty-Pants here. Heh<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1043,
+    "en": "<F4><S2><FG> Don't call me that in front of Lady Des<MV> I mean, Desdemona<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1044,
+    "en": "Ha ha<FG> I can see I'm going to have some fun with you two<FG> Come on then<MV>shall we get going<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1045,
+    "en": "What's this strange crystal<FH> I haven't seen one of these before...",
+    "th": ""
+  },
+  {
+    "idx": 1046,
+    "en": "It's called a Zoomstone. You can use Zoom to travel to them. They've been around since...well, forever.",
+    "th": ""
+  },
+  {
+    "idx": 1047,
+    "en": "Oh, I see. Zoom's that spell that lets you travel to far-off places in the blink of an eye, isn't it<FH> You need a Zoomethyst to cast it, right<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1048,
+    "en": "Then we need to get one<FG> That sounds like my kind of spell<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1049,
+    "en": "I hate to break it to you, but Zoomethysts don't exactly grow on trees. I've only ever heard of kings and queens having them.",
+    "th": ""
+  },
+  {
+    "idx": 1050,
+    "en": "Bah, what a let-down. And there I was thinking we'd be able to zip over to Accordia just like that...",
+    "th": ""
+  },
+  {
+    "idx": 1051,
+    "en": "Ha ha. Well, don't give up just yet. You never know what you might find.",
+    "th": ""
+  },
+  {
+    "idx": 1052,
+    "en": "Tell you what<MV>why not attune yourself to this Zoomstone just on the off-chance you end up learning the spell one day<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1053,
+    "en": "But as you are here, allow me to invoke the powers of the Arbiter of All Vocations, and provide you with some insight... Hmm... Yes...",
+    "th": ""
+  },
+  {
+    "idx": 1054,
+    "en": "I see that you walk the path of the warrior... And that you are destined to walk it a little longer yet...",
+    "th": ""
+  },
+  {
+    "idx": 1055,
+    "en": "Warriors are masters of battle, skilled in the use of the sword, twin swords, axe and shield. A noble profession indeed.",
+    "th": ""
+  },
+  {
+    "idx": 1056,
+    "en": "Maribel and Ruff join the party<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1057,
+    "en": "Well, Prince Cesar, it looks like you're coming to Accordia with us. We'll need you to explain yourself to the High King.",
+    "th": ""
+  },
+  {
+    "idx": 1058,
+    "en": "The King of Harba has already set out. Anything you want to say to him, you can say when we get there.",
+    "th": ""
+  },
+  {
+    "idx": 1059,
+    "en": "Hm. I will play along with your little charade. But only to see justice done. Do not think for one second that you have bested me.",
+    "th": ""
+  },
+  {
+    "idx": 1060,
+    "en": "Ha<FG> Bested you<FG><FH> We beat you black and blue<FG> I see that princes are every bit as stubborn and stupid in your world as in mine<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1061,
+    "en": "Cesar... (sigh)",
+    "th": ""
+  },
+  {
+    "idx": 1062,
+    "en": "I've ordered some men to take the Prince back to Accordia. We should head there too.",
+    "th": ""
+  },
+  {
+    "idx": 1063,
+    "en": "Alright... (sigh) What happened to you, Cesar<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1064,
+    "en": "Lady Desdemona<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1065,
+    "en": "The Prince's hearing is to be held in the throne room<FG> The necessary preparations are being made as we speak<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1066,
+    "en": "Thank you.",
+    "th": ""
+  },
+  {
+    "idx": 1067,
+    "en": "Desdemona<FG> You have to let us be there<FG> We're going mad worrying about what's been going on with Cesar<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1068,
+    "en": "Outsiders aren't usually allowed in to proceedings like these without the High King's permission.",
+    "th": ""
+  },
+  {
+    "idx": 1069,
+    "en": "But you two did play a crucial role in all of this... Alright, I'll talk to His Radiance and see what I can do.",
+    "th": ""
+  },
+  {
+    "idx": 1070,
+    "en": "Thanks, Desdemona<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1071,
+    "en": "In the meantime, why don't you take a look around town<FH> It looks like a few new places have opened up shop since we were last here.",
+    "th": ""
+  },
+  {
+    "idx": 1072,
+    "en": "So if you're friends with Torneko...does that mean you're from his world as well<FH> How did you end up here<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1073,
+    "en": "Well... My sister went out and didn't come back, so I went where the cards told me she would be, and...before I knew it, I was here.",
+    "th": ""
+  },
+  {
+    "idx": 1074,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1075,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1076,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1077,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1078,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1079,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1080,
+    "en": "I wouldn't get your hopes up<MV>the monsters of the forest are even worse than those of the desert. Be on your guard.",
+    "th": ""
+  },
+  {
+    "idx": 1081,
+    "en": "Right, not even Morph<FG> Er... What's that again<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1082,
+    "en": "Seriously<FG><FH> Have you forgotten everything they ever taught us<FG><FH> It's a spell that lets you look like anything you want<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1083,
+    "en": "<F4><I0>00 receives a pepstone<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1084,
+    "en": "Blimey<FG> Did you feel that<FG><FH> It sent a jolt right through me<FG> And now I feel...fired up<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1085,
+    "en": "Me too<FG> What is this thing<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1086,
+    "en": "It is called a pepstone. It will focus the fire within you, and drive your tension to ever-greater heights.",
+    "th": ""
+  },
+  {
+    "idx": 1087,
+    "en": "In doing so, it will open the path to newer and greater abilities. May it aid you on the journey ahead.",
+    "th": ""
+  },
+  {
+    "idx": 1088,
+    "en": "Wow<FG> Thanks, Your Majesty<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1089,
+    "en": "Indeed. Tsarevna has been greatly concerned for all your safeties<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1090,
+    "en": "But how did you find out what was happening<FH> And how did you get here<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1091,
+    "en": "A most peculiar voice informed me in a dream<FG> It says my friends are embroiled in war, and that I must hasten to assist them<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1092,
+    "en": "Tsarevna flew promptly from castle, and I gave spirited chase. Before realising, we found ourselves in this present location.",
+    "th": ""
+  },
+  {
+    "idx": 1093,
+    "en": "And speaking of which, what is this place, please<FH> I am mortified to confess that we have lost our bearings entirely...",
+    "th": ""
+  },
+  {
+    "idx": 1094,
+    "en": "These surroundings appear so unfamiliar, I am almost of the mind that we have journeyed to an altogether other world...",
+    "th": ""
+  },
+  {
+    "idx": 1095,
+    "en": "So I know she's here somewhere, but I haven't got the foggiest how to find her...",
+    "th": ""
+  },
+  {
+    "idx": 1096,
+    "en": "Not to worry<FG> The Queen will know something one way or the other, I'm sure<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1097,
+    "en": "You make it sound as if Her Majesty will be in the mood to talk. I somehow doubt she will be happy to see us...",
+    "th": ""
+  },
+  {
+    "idx": 1098,
+    "en": "Then I'm glad I will not be seeing her alone. And that our fates are intertwined...for now.",
+    "th": ""
+  },
+  {
+    "idx": 1099,
+    "en": "I hope I won't be too much of a burden.",
+    "th": ""
+  },
+  {
+    "idx": 1100,
+    "en": "Meena joins the party<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1101,
+    "en": "Well, what are we waitin' for, eh<FH>\\nLet's go see this queen o' yours<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1102,
+    "en": "Sorry, but I won't be coming with you. I've got a little...business to attend to.",
+    "th": ""
+  },
+  {
+    "idx": 1103,
+    "en": "What<FG><FH> Where are you going<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1104,
+    "en": "If something's going on in Ingenia, it's unlikely the Queen will know the whole picture. I need to ask some questions around town.",
+    "th": ""
+  },
+  {
+    "idx": 1105,
+    "en": "It's better if I go alone<MV>it'll make it easier to keep a low profile. Don't worry, I'll be back soon enough.",
+    "th": ""
+  },
+  {
+    "idx": 1106,
+    "en": "Well, alright, but...be careful, won't you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1107,
+    "en": "You too. I'll catch up with you later<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1108,
+    "en": "So...who exactly was this seer in black<FH> And how did he know what was going to happen<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1109,
+    "en": "Very sorry, but unless you have a permit from the High King, I must ask that you turn back.",
+    "th": ""
+  },
+  {
+    "idx": 1110,
+    "en": "The lands that lie beyond this gate are extremely perilous<FG> None may enter without the High King's permission<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1111,
+    "en": "Turn back, traveller<FG> Unless you have His Radiance's leave, the lands that lie beyond this gate are strictly off limits<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1112,
+    "en": "If you have reason to go beyond this gate, you'll need to ask His Radiance for permission.",
+    "th": ""
+  },
+  {
+    "idx": 1113,
+    "en": "Oi, where do you think you're going<FH> In case you've forgotten, we've got an audience with the High King<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1114,
+    "en": "It's going to take a little longer to arrange, but you need to stay close. Why don't you carry on looking around town<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1115,
+    "en": "Let's get going, shall we<FH> The throne room is at the top of the Pinnacle of Peace.",
+    "th": ""
+  },
+  {
+    "idx": 1116,
+    "en": "Hello, you lot<FG> Long time no see, eh<FH> I'm still keeping myself busy travelling around the Seven Realms selling my wares.",
+    "th": ""
+  },
+  {
+    "idx": 1117,
+    "en": "Speaking of which<MV>I've just come from Dunisia, and I heard a rumour that might be of interest to adventurers like you.",
+    "th": ""
+  },
+  {
+    "idx": 1118,
+    "en": "Apparently, there's an ancient treasure hidden somewhere inside the pyramids. A golden weapon that shines like the sun...",
+    "th": ""
+  },
+  {
+    "idx": 1119,
+    "en": "It might just be a rumour, but if it really does exist, I'd love to get a look at it. Satisfy my professional curiosity, so to speak...",
+    "th": ""
+  },
+  {
+    "idx": 1120,
+    "en": "Which reminds me<MV>I'd better be getting back on the road. I mustn't keep my customers waiting<FG> Take care of yourselves, alright<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1121,
+    "en": "Ah, there you are. The hearing is about to begin.",
+    "th": ""
+  },
+  {
+    "idx": 1122,
+    "en": "You know where the throne room is already. Come on, we should get over to the Pinnacle of Peace as soon as possible.",
+    "th": ""
+  },
+  {
+    "idx": 1123,
+    "en": "Honestly, he's such a stubborn old goat<FG> If he was hungry, he only had to say so. Don't you think he's being ridiculous<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1124,
+    "en": "Why doesn't anyone believe me<FG><FH> I didn't eat anyone's blessed lunch<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1125,
+    "en": "A float-o-copier just went flying by. It looked harmless enough, though, so I let it be. Nothing to report<FG> All's peaceful in Harba<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1126,
+    "en": "But it will take them a little while to get ready for us. Why not take a look around town while we're waiting<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1127,
+    "en": "It looks like a few more shops and stalls have opened for business. It'll be a while before the hearing begins<MV>why not do a little shopping<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1128,
+    "en": "Ah, perfect timing. They're ready for us over at the Pinnacle.",
+    "th": ""
+  },
+  {
+    "idx": 1129,
+    "en": "Shall we get moving<FH> The Queen's already been waiting a while.",
+    "th": ""
+  },
+  {
+    "idx": 1130,
+    "en": "‘If you are reading this, you have proved yourself a true master of the shadows. I hereby admit you to the league of thieves.’",
+    "th": ""
+  },
+  {
+    "idx": 1131,
+    "en": "<F4><I0>01 found the secret message<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1132,
+    "en": "‘P.S. Do not allow the guards to spot you on your way out. A professional pilferer always leaves the scene unseen.’",
+    "th": ""
+  },
+  {
+    "idx": 1133,
+    "en": "Wait, what am I talking about<FG><FH> Healix<MV>you'll have to do it<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1134,
+    "en": "Everyone in the city will be there, so if you want to do any shopping or visit the priestess or anything, now's the time.",
+    "th": ""
+  },
+  {
+    "idx": 1135,
+    "en": "I'll be waiting here. That client list means the world to me<MV>bring it back in one piece, I'm begging you<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1136,
+    "en": "My business is saved, and it's all thanks to you<FG> Thank you so much<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1137,
+    "en": "There's a war on, in case you haven't heard, so don't expect safe passage through Outer Dunisia<MV>you won't get it.",
+    "th": ""
+  },
+  {
+    "idx": 1138,
+    "en": "Oi, cloth-ears<FG> Didn't I tell you<FH> You need a writ of passage<FG> Get out of here before I have to try and use this rusty old spear<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1139,
+    "en": "If you've any unfinished business, you'd better get it out of the way.",
+    "th": ""
+  },
+  {
+    "idx": 1140,
+    "en": "So, are you ready for the party<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1141,
+    "en": "Oi<FG> Wot are you scamperin' 'round back 'ere for<FG><FH> If you wanna buy somefink, 'ead back round the front<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1142,
+    "en": "...Hm<FH> What's that, <E0>00boy<E3>00girl<E4>01<FH> Speak up<FG> I can't hear a word you're saying.",
+    "th": ""
+  },
+  {
+    "idx": 1143,
+    "en": "Mini medals are the bee's knees, lemme tell ya<FG> You find any, you bring 'em to me. I'll make you an offer you can't refuse<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1144,
+    "en": "Have you spoken with the Clerk of Works yet<FH> She's my sister, you know<FG> But people say there's no resemblance at all...",
+    "th": ""
+  },
+  {
+    "idx": 1145,
+    "en": "I don't know what you think you're doing back there. If you want to use the cauldron, come round in front of me and ask nicely<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1146,
+    "en": "Hmm... If we could get this tree to fall over, we might be able to use it as a bridge to get over to that island...",
+    "th": ""
+  },
+  {
+    "idx": 1147,
+    "en": "Accordia's such a lovely city. I can see why so many people choose to stay for longer than they planned<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1148,
+    "en": "If you have business with us, my child, please conduct it from the front of the counter.",
+    "th": ""
+  },
+  {
+    "idx": 1149,
+    "en": "My sister is starting a shop out in the main square. I don't think it's open yet, but please pay her a visit once she's ready<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1150,
+    "en": "I'm sorry, <E0>00sir<E3>00ma'am<E4>01, but I am afraid I must ask you to make any enquiries from the other side of the counter.",
+    "th": ""
+  },
+  {
+    "idx": 1151,
+    "en": "I'm sorry, we're not quite ready for business yet. You'll have to come back later.",
+    "th": ""
+  },
+  {
+    "idx": 1152,
+    "en": "I patrol these streets each and every day. 'Tis the duty of a soldier of Accordia to ensure that the city is safe.",
+    "th": ""
+  },
+  {
+    "idx": 1153,
+    "en": "Mention Accordia, and the first thing people think of is the Pinnacle of Peace. It's a symbol of power visible from anywhere in the land.",
+    "th": ""
+  },
+  {
+    "idx": 1154,
+    "en": "I just love the view from here. I could spend all day gazing out over the city...",
+    "th": ""
+  },
+  {
+    "idx": 1155,
+    "en": "I'm going to train every single day so I can be a super-powerful warrior like Lady Desdemona when I'm older<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1156,
+    "en": "When I grow up, I want to be just like Lady Desdemona<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1157,
+    "en": "<F4><I0>00 acquires the Trinity Stone<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1158,
+    "en": "The guardians' true identity is revealed<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1159,
+    "en": "...Hm<FH> Hmmm<FG><FH> Can it really be true<FH> You have gained complete mastery of your weapon<FG> Well done, my young disciple<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1160,
+    "en": "A new quest is now available<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1161,
+    "en": "A writ of passage is required in order to pass<FG> No exceptions<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1162,
+    "en": "He's right<FG> We need to get back to Accordia<FG> This is an emergency<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1163,
+    "en": "<F4><I0>41 tries to read the sign...\\nBut <EK>00he<EL>00she<EM>00's standing on the wrong side of it, and can't see what it says<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1164,
+    "en": "‘You are now entering the Grand Dunes<FG> Don't set out without stocking up on supplies<FG>\\n<MV> The Accordian Entrepreneurial Association’",
+    "th": ""
+  },
+  {
+    "idx": 1165,
+    "en": "‘Head through the tunnel to reach Dunisia. Aim for the giant skull.’",
+    "th": ""
+  },
+  {
+    "idx": 1166,
+    "en": "‘Poisonous swamp<FG> Danger<FG> Keep out<FG>’",
+    "th": ""
+  },
+  {
+    "idx": 1167,
+    "en": "‘South-West<FI> Dunisia\\nEast<FI> Oasis\\nNorth<FI> Accordia’",
+    "th": ""
+  },
+  {
+    "idx": 1168,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1169,
+    "en": "The bridge is out<FG> The party can't go any further<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1170,
+    "en": "Ya want that thing knockin' down, huh<FH> Well, I ain't no pushover, but if it's a pusher-overer you're after, I'm your guy<FG> Get a loada this<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1171,
+    "en": "Alright, here I come<FG> Time to thunk that trunk<FG> HYAAARRRGH<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1172,
+    "en": "Whoever he was, he made quite an impression on the people of Ingenia. Everyone was talking about him prophesying doom left and right.",
+    "th": ""
+  },
+  {
+    "idx": 1173,
+    "en": "That's strange... What's a barrier doing all the way out here<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1174,
+    "en": "Monsters make these, don't they<FH> And you have to beat the monster that made it to make it go away, right<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1175,
+    "en": "Someone's been paying attention in class. Still, I don't see any likely culprits around<MV>let's leave it for now and head to Accordia.",
+    "th": ""
+  },
+  {
+    "idx": 1176,
+    "en": "I did not see his face. The hood of his cloak hid it completely.",
+    "th": ""
+  },
+  {
+    "idx": 1177,
+    "en": "And though I asked that he be brought before me again when his prophecies began to come true...he was nowhere to be found.",
+    "th": ""
+  },
+  {
+    "idx": 1178,
+    "en": "I can tell you little more. Come, there is no time for idle chatter. We must go to Accordia and speak with His Radiance.",
+    "th": ""
+  },
+  {
+    "idx": 1179,
+    "en": "I will put my story before him. You will tell him yours. And perhaps some truth can be dragged out of this sorry little affair...",
+    "th": ""
+  },
+  {
+    "idx": 1180,
+    "en": "Carver's Knuckle Sandwich sends the tree crashing to the ground<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1181,
+    "en": "Proceed to the throne room<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1182,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1183,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1184,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1185,
+    "en": "Wow<FG> You knocked it down with a single punch<FG> Incredible<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1186,
+    "en": "The doors are shut fast.",
+    "th": ""
+  },
+  {
+    "idx": 1187,
+    "en": "I thought the High King would be, er, a bit...taller... But I guess ‘Low King’ doesn't have quite the same ring to it...",
+    "th": ""
+  },
+  {
+    "idx": 1188,
+    "en": "What he lacks in stature he more than makes up for in wisdom. He's descended from a great sage who advised the kings of old, you know.",
+    "th": ""
+  },
+  {
+    "idx": 1189,
+    "en": "His line have been responsible for keeping the peace of the world ever since it was split into seven after the war a thousand years ago.",
+    "th": ""
+  },
+  {
+    "idx": 1190,
+    "en": "And it's not just his lineage that's impressive. He's also a renowned scholar. He knows more about our world than anyone alive.",
+    "th": ""
+  },
+  {
+    "idx": 1191,
+    "en": "Anyway, that's enough about the High King for now. Let's head back to town<MV>Torneko will be wondering where we've got to.",
+    "th": ""
+  },
+  {
+    "idx": 1192,
+    "en": "Well now... So ye're off to this Dunisia place on the High King's say-so, eh<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1193,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1194,
+    "en": "And you have accumulated some skill points, I see. You will be blessed with these ability-enhancing gifts whenever your level rises.",
+    "th": ""
+  },
+  {
+    "idx": 1195,
+    "en": "Ack<FG> Errr... Ahem, ahem<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1196,
+    "en": "We have succeeded in driving back the initial onslaught...but I fear that the Beastlanders will not be so easily defeated.",
+    "th": ""
+  },
+  {
+    "idx": 1197,
+    "en": "Sire<FG> A horde of monsters has amassed at the mouth of the valley leading to the main Al-Khazami force<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1198,
+    "en": "Mawkeepers have also been sighted to the east and the west<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1199,
+    "en": "I have to make the King of Harba proud... I have to get big and strong so I can goo my bit... (slurp)",
+    "th": ""
+  },
+  {
+    "idx": 1200,
+    "en": "Goowee<FG> I can feel new magic oozing through my veins<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1201,
+    "en": "Hmm... They intend to attack on three fronts at once<FH> Then we must strike the first blow before they can succeed<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1202,
+    "en": "Dunisia<FG> Ingenia<FG> March to the east and west and defeat the mawkeepers<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1203,
+    "en": "Nightmaws appear<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1204,
+    "en": "The door slams shut<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1205,
+    "en": "I cannot help but be suspicious... The Al-Khazami headquarters lie just ahead, and yet...",
+    "th": ""
+  },
+  {
+    "idx": 1206,
+    "en": "Hmm... Just as I feared...",
+    "th": ""
+  },
+  {
+    "idx": 1207,
+    "en": "Meow<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1208,
+    "en": "Forward, my slimy steed<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1209,
+    "en": "(slurp)",
+    "th": ""
+  },
+  {
+    "idx": 1210,
+    "en": "What's going on<FH> I just saw a float-o-copier rush past. You're not playing hide-and-seek, are you<FH> Can I play<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1211,
+    "en": "I'm making an honest living here as a carpenter<MV>honest<FG> I've been doing repairs on the cathedral<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1212,
+    "en": "Smashing wood, all day long, smashing wood while I sing this song<FG> ...Hm<FH> The weird guard<FH> He ran off. Went for a nap or something...",
+    "th": ""
+  },
+  {
+    "idx": 1213,
+    "en": "Zzz... Forward, my...slimy steed... Zzz...",
+    "th": ""
+  },
+  {
+    "idx": 1214,
+    "en": "Zzz... Zzz...",
+    "th": ""
+  },
+  {
+    "idx": 1215,
+    "en": "Hello, and welcome to Harba<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1216,
+    "en": "Squee<FG> I'm in the middle of my morning walk, and you're a teeny bit in the way<FG> Can you move, pleeease<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1217,
+    "en": "‘Follow the road north to reach Accordia.’",
+    "th": ""
+  },
+  {
+    "idx": 1218,
+    "en": "‘Follow the road east to reach Accordia.’",
+    "th": ""
+  },
+  {
+    "idx": 1219,
+    "en": "‘Follow the road straight on to reach Accordia.’",
+    "th": ""
+  },
+  {
+    "idx": 1220,
+    "en": "That sounds like a wonderful plan, Your Majesty. But before you go<MV>there's the little matter of my reward...",
+    "th": ""
+  },
+  {
+    "idx": 1221,
+    "en": "Did you see that<FH> It lit up<FG> Does this mean the trials have started<FH> It, err...doesn't look like much has changed...",
+    "th": ""
+  },
+  {
+    "idx": 1222,
+    "en": "Do not try my patience, girl. You have been reunited with your sister. That is more than you deserve.",
+    "th": ""
+  },
+  {
+    "idx": 1223,
+    "en": "Well, it was worth a try<FG> I suppose I'd better come along with you people then, hm<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1224,
+    "en": "I haven't got the foggiest what's going on, but if Meena's been hanging around with you, you can't be all bad<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1225,
+    "en": "Gragwort told us that the Trinity Stone is to be found somewhere within the pyramids of Dunisia.",
+    "th": ""
+  },
+  {
+    "idx": 1226,
+    "en": "The pyramids will not readily give up their secrets to those unfamiliar with their intricacies. Luckily, I know them well.",
+    "th": ""
+  },
+  {
+    "idx": 1227,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1228,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1229,
+    "en": "Heh heh<FG> I envy you young whippersnappers<FG> When I was your age, I was off on adventures of my own, you know<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1230,
+    "en": "I can't shake the feeling that somebody's watching me. I'm sure it's just my imagination...",
+    "th": ""
+  },
+  {
+    "idx": 1231,
+    "en": "Have you ever seen snow<FH> Apparently there's lots of it beyond this gate, but I've never gone through to the other side...",
+    "th": ""
+  },
+  {
+    "idx": 1232,
+    "en": "Only grown-ups are allowed through the city gates. I hope I get big soon so I can see what's outside the city<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1233,
+    "en": "Wh-What<FG><FH> Don't sneak up on me like that<FG> Are you trying to give me a heart attack<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1234,
+    "en": "Anuvver tourist come for a gander at the Pinnacle o' Peace, eh<FH> Can't say I blame ya<FG> Get a good eyeful before you 'ead 'ome<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1235,
+    "en": "Inns, places to change yer vocation, places to 'ave a nice drink... You name it, Accordia's got it<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1236,
+    "en": "Ahhh, breathe in that sweet, sweet air<FG> And the weather's perfect too<MV>makes you wish we had time to lie down and soak up some sun<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1237,
+    "en": "Soak up some bonks on the head, more like<FG> The monsters around these parts are a mischievous bunch.",
+    "th": ""
+  },
+  {
+    "idx": 1238,
+    "en": "And besides, knights-in-training aren't supposed to spend their days lazing around in sunny meadows. Come on, let's get moving<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1239,
+    "en": "They can be used to learn new skills, or to improve existing ones. Spend them wisely, child. Their value is incalculable.",
+    "th": ""
+  },
+  {
+    "idx": 1240,
+    "en": "(sigh) I never thought that the next time we saw Cesar would be on the opposite side of a battlefield, did you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1241,
+    "en": "Halt<FG> The road ahead is dangerous and closed to travellers.",
+    "th": ""
+  },
+  {
+    "idx": 1242,
+    "en": "The old road goes through the graveyard over yonder. Mind yourselves<MV>it's more than a little dangerous<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1243,
+    "en": "Do you know, I had almost forgotten<FG> I can't imagine going back to the Academy after all that's happened...",
+    "th": ""
+  },
+  {
+    "idx": 1244,
+    "en": "Well, you must. It will be a shame to go our separate ways, but we all have our duties. Besides, I have a feeling the seer might be...",
+    "th": ""
+  },
+  {
+    "idx": 1245,
+    "en": "No, it's nothing. We've got a party to go to<FG> Let's make the most of our last evening together<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1246,
+    "en": "The Dreadbolt is the scariest thing ever<FG> You've got to stop Fractos before he can fire it again<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1247,
+    "en": "The ruins are in the wilds, far to the north of here. May you find what you seek there...",
+    "th": ""
+  },
+  {
+    "idx": 1248,
+    "en": "You're the ones who are going to give Fractos what for, aren't you<FH> Want to hear a secret<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1249,
+    "en": "Ooh, ooh<FG> You're going to go and beat up Fractos, right<FH> Here, take this<FG>",
+    "th": ""
+  }
+]

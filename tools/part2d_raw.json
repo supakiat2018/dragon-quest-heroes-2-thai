@@ -1,0 +1,1252 @@
+[
+  {
+    "idx": 1750,
+    "en": "Though I am but a humble knight at present, I have sworn to do all that I can to become a storied hero of whom my family can be proud.",
+    "th": ""
+  },
+  {
+    "idx": 1751,
+    "en": "Not quite. History has a habit of repeating itself. Should the current wave of suspicion and conflict continue to rise...",
+    "th": ""
+  },
+  {
+    "idx": 1752,
+    "en": "...then there'll be another war, and it won't be a warning any more<MV>the prophecy will have come true.",
+    "th": ""
+  },
+  {
+    "idx": 1753,
+    "en": "Indeed. And we must do everything in our power to stop it. Your mission to Ingenia is a vital one. Our hopes go with you.",
+    "th": ""
+  },
+  {
+    "idx": 1754,
+    "en": "So, ready for your first trip to Ingenia<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1755,
+    "en": "Yep<FG> I can't wait<FG> I've read so much about it<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1756,
+    "en": "Well, as I mentioned, you need to go through the forest to get there. And it's not just any old forest...",
+    "th": ""
+  },
+  {
+    "idx": 1757,
+    "en": "The route runs through an area called the Wildwood. It's easy to get lost there, and even easier to get attacked by monsters.",
+    "th": ""
+  },
+  {
+    "idx": 1758,
+    "en": "Mmm... Sounds lovely...",
+    "th": ""
+  },
+  {
+    "idx": 1759,
+    "en": "Well, it wouldn't have been a few years ago, but luckily, the Ingenians have built a path that skirts the worst of it.",
+    "th": ""
+  },
+  {
+    "idx": 1760,
+    "en": "So it shouldn't be too horrible a trip, but you should still make sure you're ready for anything. You never know...",
+    "th": ""
+  },
+  {
+    "idx": 1761,
+    "en": "Right, here we all are. I think it's safe to say we should expect the worst<MV>tricks, traps...the whole lot...",
+    "th": ""
+  },
+  {
+    "idx": 1762,
+    "en": "And, of course, monsters<MV>lots of them. This is going to be harder than anything we've faced before. Are you sure you're ready<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1763,
+    "en": "Sure. Any excuse.",
+    "th": ""
+  },
+  {
+    "idx": 1764,
+    "en": "Ha ha<FG> I'm glad you're on our side now, that's all I can say<FG> Happy to have you along<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1765,
+    "en": "Carver and Terry join the party<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1766,
+    "en": "Well, I'm ready to leave this forest behind if you are. The city should be just a short walk north of here.",
+    "th": ""
+  },
+  {
+    "idx": 1767,
+    "en": "Ingenia at last... Time to find out what the Queen has been up to...and what else she might be plotting...",
+    "th": ""
+  },
+  {
+    "idx": 1768,
+    "en": "Let's move.",
+    "th": ""
+  },
+  {
+    "idx": 1769,
+    "en": "...Forgive me. I accused you of being traitors, and refused to listen when you tried to explain. You have every right to despise me.",
+    "th": ""
+  },
+  {
+    "idx": 1770,
+    "en": "Than I've ever been for anything<FG> The High King can throw whatever he likes at us<MV>we can handle it<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1771,
+    "en": "As I'll ever be<FG> We'll make it to that throne room if it's the last thing we do<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1772,
+    "en": "Hm. That's the spirit. Then it's time...",
+    "th": ""
+  },
+  {
+    "idx": 1773,
+    "en": "Alright. Well, make the necessary preparations and let me know when you're done.",
+    "th": ""
+  },
+  {
+    "idx": 1774,
+    "en": "Thanks so much for taking back the city<FG> I thought we'd never be able to come home again<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1775,
+    "en": "I'm sure you must have defeated a lot of monsters in the process of reclaiming the city. Don't forget to report the numbers to me<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1776,
+    "en": "The Ingenians will be in the middle of retaking their capital. Hardly the time for a friendly exchange of barrier-related information...",
+    "th": ""
+  },
+  {
+    "idx": 1777,
+    "en": "Then we'll just have to get stuck in and help them out<FG> That'll make things quicker anyway.",
+    "th": ""
+  },
+  {
+    "idx": 1778,
+    "en": "And it might put Her Majesty in more of a mood to help us...",
+    "th": ""
+  },
+  {
+    "idx": 1779,
+    "en": "Alright, sounds like we have a plan<FG> Let's head for Ingenia<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1780,
+    "en": "Life in the encampment was surprisingly bearable, but nothing beats being back behind the counter of the Quester's Rest<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1781,
+    "en": "Your heroic actions have helped deliver the citizens of Accordia from evil. Your path is a virtuous one indeed.",
+    "th": ""
+  },
+  {
+    "idx": 1782,
+    "en": "I wonder what would have happened to us all if you weren't here to save us... Well, anyway, it's a good thing you were. Thank you<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1783,
+    "en": "You're so brave, going up against the monsters like that<FG> I saw everything<FG> You really were a sight to behold<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1784,
+    "en": "Well, that's Ingenia saved, and a magic stone retrieved<FG> And all thanks to me<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1785,
+    "en": "Now we can finally get back to the Pinnacle<FG> We'll be counting on you, Healix<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1786,
+    "en": "Fear not, comrades<FG> It is only a matter of slime until that barrier is no more<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1787,
+    "en": "So that's the Black Manse... It was supposed to have been destroyed a thousand years ago...but there it is...",
+    "th": ""
+  },
+  {
+    "idx": 1788,
+    "en": "And if he has the power to bring back the Manse...he has the power to destroy the world again...",
+    "th": ""
+  },
+  {
+    "idx": 1789,
+    "en": "What do you mean ‘again’<FH> He failed last time, didn't he<FH> And how could a castle destroy the world anyway<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1790,
+    "en": "He failed to put an end to this world...but he did destroy another<MV>its twin...",
+    "th": ""
+  },
+  {
+    "idx": 1791,
+    "en": "With a single blast from the Black Manse's most formidable weapon...the Dreadbolt...",
+    "th": ""
+  },
+  {
+    "idx": 1792,
+    "en": "My father told me of this<MV>of a twin world that was plunged into darkness during the War of Kings and lost to us forever.",
+    "th": ""
+  },
+  {
+    "idx": 1793,
+    "en": "Wait, wait, wait<FG> This can't be true<FG> How could we never have heard about it<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1794,
+    "en": "And how could there possibly be a weapon that powerful<FH> This is madness<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1795,
+    "en": "It works by channelling all the darkness and hatred in the world into a single beam. It's a truly horrifying device...",
+    "th": ""
+  },
+  {
+    "idx": 1796,
+    "en": "And there's only one way to stop it<MV>we have to defeat Fractos before the Black Manse has the chance to build up enough power.",
+    "th": ""
+  },
+  {
+    "idx": 1797,
+    "en": "He's up there somewhere...we just have to find a way to reach him...",
+    "th": ""
+  },
+  {
+    "idx": 1798,
+    "en": "There's no need to go that way at the moment. Come on, we've got things to do<MV>let's not waste time with detours.",
+    "th": ""
+  },
+  {
+    "idx": 1799,
+    "en": "Wassat<FH> Which way did 'e go<FH> Off to the north-west there, I fink. Blimey, there's kids playin' over that way<MV>I 'ope they're okay...",
+    "th": ""
+  },
+  {
+    "idx": 1800,
+    "en": "Meena casts Woosh on the fan, and blows the door wide open<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1801,
+    "en": "Hmph. Our orders are to retrieve the legendary weapon. We cannot return to the Great Divide empty-handed.",
+    "th": ""
+  },
+  {
+    "idx": 1802,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1803,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1804,
+    "en": "Wow, I haven't seen a wind-powered door before<FG> We never would have worked that out without you<FG> Well done, Meena<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1805,
+    "en": "That mark on your arm... Does that really mean Fractos is your ancestor<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1806,
+    "en": "I'm afraid so... All his descendants bear it... It's our punishment for his having succumbed to the power of darkness...",
+    "th": ""
+  },
+  {
+    "idx": 1807,
+    "en": "So he's<MV>what<MV>your great-great-great-great grandad or something like that<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1808,
+    "en": "That's right. And he damned us all. He knew that if he began practising the dark arts, we would suffer...and it still didn't stop him...",
+    "th": ""
+  },
+  {
+    "idx": 1809,
+    "en": "It's more than just a mark...it's a curse... Many of my ancestors died before their time because of it...and those who didn't were reviled...",
+    "th": ""
+  },
+  {
+    "idx": 1810,
+    "en": "Slowly, one by one, our entire line died out... Until eventually, I was the only one left...",
+    "th": ""
+  },
+  {
+    "idx": 1811,
+    "en": "And that's what's driven me all these years<MV>the need to finally rid my family of the shame and suffering he condemned us to...",
+    "th": ""
+  },
+  {
+    "idx": 1812,
+    "en": "But to do that, I had to find him. I couldn't put an end to his evil otherwise...",
+    "th": ""
+  },
+  {
+    "idx": 1813,
+    "en": "And he was right there all along. It's kind of ironic when you think about it...",
+    "th": ""
+  },
+  {
+    "idx": 1814,
+    "en": "Hm. Not as ironic as two of my closest allies turning out to be Unos's direct descendants. That must have made Fractos laugh...",
+    "th": ""
+  },
+  {
+    "idx": 1815,
+    "en": "You have cleared the way onward, you say<FH> Goddess bless you<FG> Now I can be on my way<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1816,
+    "en": "Well, well, well, what have we here<FH> You look like a born fighter<FG> You might even have what it takes to wield one of my little beauties...",
+    "th": ""
+  },
+  {
+    "idx": 1817,
+    "en": "Hurr hurr hurr<FG> Come here<FG> Fight Donk<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1818,
+    "en": "You hear the growling of a great wild beast on the other side... Go through the gate<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1819,
+    "en": "You hear a creepy cackle and the clacking of cloven hooves on the other side... Go through the gate<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1820,
+    "en": "You hear the slow scraping of someone sharpening steel, and chuckling demonically all the while... Go through the gate<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1821,
+    "en": "You hear the ponderous plodding of a portly presence on the other side... Go through the gate<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1822,
+    "en": "...Me<FH> I'm just a humble blacksmith. I teach armourers the tricks of the trade so they can make new weapons to sell in their stores.",
+    "th": ""
+  },
+  {
+    "idx": 1823,
+    "en": "And it's about time I was on my way. I'm travelling all around the world, you see, brushing up on the secrets of smithing.",
+    "th": ""
+  },
+  {
+    "idx": 1824,
+    "en": "If you catch sight of me out on your travels, come and say hello<FG> Right then, I'm off. See you around, <EK>00lad<EL>00lass<EM>00.",
+    "th": ""
+  },
+  {
+    "idx": 1825,
+    "en": "Gragwort holds the Trinity Stone aloft<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1826,
+    "en": "A pazuzu, a belial and the mighty Atlas appear<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1827,
+    "en": "Do you really think we are<FH> Could we really be the twins from the prophecy<FH> Even if we are, we still don't know how to beat Fractos...",
+    "th": ""
+  },
+  {
+    "idx": 1828,
+    "en": "Just because you're descended from Unos, that doesn't mean we're going to leave you to sort everything out. We'll find a way together.",
+    "th": ""
+  },
+  {
+    "idx": 1829,
+    "en": "Oh, umm... I'm just glad that I could be of help... Well, shall we see what's on the other side<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1830,
+    "en": "Wow... I've got no clue what that thing is, but I'm guessing it's not good. Any idea how we're going to get past it<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1831,
+    "en": "...Ah, I comprehend<FG> This is accumulation of grievances of dearly departed in nearby graveyard, entrapped in incorrect world<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1832,
+    "en": "O mild and merciful Goddess<FG> Take pity on suffering souls, and allow to rest easily in hereafter<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1833,
+    "en": "Kiryl's prayer dispels the barrier<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1834,
+    "en": "That was amazing, Kiryl<FG> All that darkness disappeared in the blink of an eye<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1835,
+    "en": "All is thanks to Goddess. Anguished spirits are now at peace. Come, let us to proceed inwards.",
+    "th": ""
+  },
+  {
+    "idx": 1836,
+    "en": "Hm. Hm hm hm<FG> Fractos has made fools of all of us. Oh, how we danced in the palm of his hand<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1837,
+    "en": "Cesar, please<FG> Now's not the time to get angry and give up<FG> We need to work out a plan<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1838,
+    "en": "You misunderstand me. I am not giving up. I am encouraged. Defeating Fractos won't just save our world<MV>it will avenge my father.",
+    "th": ""
+  },
+  {
+    "idx": 1839,
+    "en": "And besides, we have the descendants of Unos himself fighting beside us now. How can we possibly lose<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1840,
+    "en": "Hmm... I'm not sure that makes any difference, you know... I feel exactly the same as I did before we found all that stuff out...",
+    "th": ""
+  },
+  {
+    "idx": 1841,
+    "en": "Hm. Then carry on exactly as you always have. We have proven our strength time and again. Together, we will end this.",
+    "th": ""
+  },
+  {
+    "idx": 1842,
+    "en": "That's strange<MV>I'm sure this path was blocked by rocks the last time we were here. I wonder when they were cleared away<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1843,
+    "en": "No Man's Land is full of powerful monsters. Maybe one of them smashed a way through...",
+    "th": ""
+  },
+  {
+    "idx": 1844,
+    "en": "If we could knock that tree over, we might be able to use it as a bridge to get to the other side of the canyon...",
+    "th": ""
+  },
+  {
+    "idx": 1845,
+    "en": "You want it laid low<FH> Your wish is my command, kiddo<FG> It ain't gonna know what hit it<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1846,
+    "en": "Here it comes<FG> Three, two, one...OOSH<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1847,
+    "en": "Carver's Knuckle Sandwich sends the tree crashing to the ground<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1848,
+    "en": "So we're twins... The twins from the prophecy, right<FH> I don't know about you, but I don't feel like I have any special powers or anything...",
+    "th": ""
+  },
+  {
+    "idx": 1849,
+    "en": "Me neither... And it's not like I know what we're supposed to do now, either...",
+    "th": ""
+  },
+  {
+    "idx": 1850,
+    "en": "Maybe we shouldn't worry about it for now. We just have to knuckle down and do what we can, right<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1851,
+    "en": "Right. Which means finding a way into the Black Manse. Let's get to work<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1852,
+    "en": "Alriiight<FG> Nice work, Carver<FG> I can't believe you took down a tree that big with a single punch<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1853,
+    "en": "You better believe it, baby<FG> Alright, let's go see what's on the other side<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1854,
+    "en": "Right, enough chat. The Beastlands await<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1855,
+    "en": "The entrance to the Tomb of the Sun is up on that plateau.",
+    "th": ""
+  },
+  {
+    "idx": 1856,
+    "en": "Alright then<FG> Let's get up there<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1857,
+    "en": "Alena and Kiryl join the party<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1858,
+    "en": "A cat jumps out of the well<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1859,
+    "en": "This is my first trip to Harba in a while, and business is far from booming, I have to say. It's a lot quieter than usual...",
+    "th": ""
+  },
+  {
+    "idx": 1860,
+    "en": "What's that<FH> The Dunisians attacked the town<FG><FH> No wonder no one's out and about<FG> M-Maybe I should...come back another time...",
+    "th": ""
+  },
+  {
+    "idx": 1861,
+    "en": "Isn't the sea here in Harba a beauty to behold<FH> I can feel my worries just washing away<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1862,
+    "en": "Can we go home now, Grandad<FH> I'm not angry with you for eating my lunch any more, I promise<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1863,
+    "en": "How many times, child<FG><FH> I did NOT eat it<FG> Someone must have been pretending to be me<MV>it's the only answer<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1864,
+    "en": "Hiss... Let me out of here, and I'll ssslice you up real nice...",
+    "th": ""
+  },
+  {
+    "idx": 1865,
+    "en": "Clank...",
+    "th": ""
+  },
+  {
+    "idx": 1866,
+    "en": "Oi, what you lookin' at<FH> You startin' or somefink<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1867,
+    "en": "A motley crew of mean-looking monsters glowers from behind the bars...",
+    "th": ""
+  },
+  {
+    "idx": 1868,
+    "en": "By the hokey, would ye look at the size o' them snowballs<FG> An' all perched precariously at the top o' steep, snowy slopes...",
+    "th": ""
+  },
+  {
+    "idx": 1869,
+    "en": "Heh. Almost as if somebody wanted us to send 'em rollin' down onto the critters below, huh<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1870,
+    "en": "Now here's a face I have not seen before. Well met, friend<FG> I am a scion of one of the most ancient and honourable houses of Accordia.",
+    "th": ""
+  },
+  {
+    "idx": 1871,
+    "en": "Ah, you again. I am hearing great things about your progress. But you still have a way to go until you are as eminent as I<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1872,
+    "en": "Hmm... You appear a little more...gallant than when last we met. Not nearly as heroic as myself, of course.",
+    "th": ""
+  },
+  {
+    "idx": 1873,
+    "en": "It seems you are becoming quite the well-known knight<FG> If your fame continues to grow, I may even have to learn your name<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1874,
+    "en": "Ah, my good friend <F4><I0>01<FG> Oft have I heard your name on the lips of the townspeople of late. Your fame is growing<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1875,
+    "en": "<F4><I0>01<FG> The tales of your deeds grow ever more marvellous<FG> May I offer you my heartiest congratulations<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1876,
+    "en": "<F4><I0>01... It seems there is not a man, woman or child in Accordia who does not know that name... But I may outshine you yet<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1877,
+    "en": "<F4><I0>01... When first we met, I could scarcely have foreseen the heights to which your fame has soared. ...You have bested me.",
+    "th": ""
+  },
+  {
+    "idx": 1878,
+    "en": "Ah, <EK>00Lord<EL>00Lady<EM>00 <F4><I0>01. ...Hm<FH> Do you find the title strange<FH> 'Tis the fitting form of address for a hero such as yourself<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1879,
+    "en": "<EK>00Lord<EL>00Lady<EM>00 <F4><I0>01<FG> 'Tis an honour and a privilege to have met such an illustrious hero as yourself<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1880,
+    "en": "Finally made it, eh<FH> Come on, then<MV>let's get cracking.",
+    "th": ""
+  },
+  {
+    "idx": 1881,
+    "en": "The rules of this trial are so simple, any idiot could understand them. See these bad 'uns<FH> You've to batter 'em. Every last one.",
+    "th": ""
+  },
+  {
+    "idx": 1882,
+    "en": "If you can do that, I'll let you into a special corner of the Frosty Foothills where you can get your hands on some right tasty bits of kit.",
+    "th": ""
+  },
+  {
+    "idx": 1883,
+    "en": "Well<FH> What are you waiting for<FH> This trial won't pass itself, you know<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1884,
+    "en": "Ooh, get you<FG> Not a bad little performance<FG> Alright, a deal's a deal<MV>I'll open up that bit of the Frosty Foothills for you.",
+    "th": ""
+  },
+  {
+    "idx": 1885,
+    "en": "You go and get your result rubber-stamped by the questmistress, and I'll see about bringing down that barrier.",
+    "th": ""
+  },
+  {
+    "idx": 1886,
+    "en": "No, no<FG> I'm not going back, not going back<FG> I still have tricks to play, tricks to play<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1887,
+    "en": "Well, you'll be enjoying the hospitality of her dungeons again if we don't get moving. Come on, let's get outside<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1888,
+    "en": "He's right. We all understand how you feel, but please<MV>try to keep a cool head.",
+    "th": ""
+  },
+  {
+    "idx": 1889,
+    "en": "Grr... Fine. I will be a picture of princely restraint...",
+    "th": ""
+  },
+  {
+    "idx": 1890,
+    "en": "Are you ready to get going<FH> Make sure you're properly prepared before we set off<MV>anything could happen out there<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1891,
+    "en": "The Beastlands sound really scary... (quiver) B-B-But never fear<FG> I'm b-b-brave enough for b-b-both of us<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1892,
+    "en": "The King of Al-Khazam has always been a just and merciful ruler. He would never invade his neighbours without good reason...",
+    "th": ""
+  },
+  {
+    "idx": 1893,
+    "en": "Come along, we can't hang around here forever. As soon as you're ready, let's head through that gate and on to the Beastlands.",
+    "th": ""
+  },
+  {
+    "idx": 1894,
+    "en": "Fancy Meena and Maya windin' up here in yer world an' all<FG> What in the world could it mean<FH> Yerra, 'tis a puzzle, so it is...",
+    "th": ""
+  },
+  {
+    "idx": 1895,
+    "en": "The Beastlands sound absolutely horrible. I'll come along if I have to, but if any of those monsters so much as scratch me, I'll scream<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1896,
+    "en": "The Beastlands sound brilliant<FG> Aooo<FG> I can't wait to see what a place completely run by monsters is like<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1897,
+    "en": "Three whole countries full of wild, warring monsters, huh<FH> Sounds like my kinda party.",
+    "th": ""
+  },
+  {
+    "idx": 1898,
+    "en": "The King of Al-Khazam took over two kingdoms at once<FH> Jeez, I can't even pat my head and rub my belly at the same time<FG> Heh<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1899,
+    "en": "There are no casinos in this world, it seems. Thank the Goddess<MV>that means my sister won't be able to gamble all our money away.",
+    "th": ""
+  },
+  {
+    "idx": 1900,
+    "en": "Are there really no casinos in this world<FH> Oh, Goddess... I think I'm going to cry...",
+    "th": ""
+  },
+  {
+    "idx": 1901,
+    "en": "The Beastlands are home to some of the most formidable monsters in the Seven Realms. Be on your guard.",
+    "th": ""
+  },
+  {
+    "idx": 1902,
+    "en": "If the monsters keep marching on Ingenia, we'll have no choice but to fight them. It'll be like the War of Kings all over again<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1903,
+    "en": "Is there really no way this battle can be avoided<FH> Do we really have to fight<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1904,
+    "en": "If the monsters keep trying to push into Ingenia, it'll lead to a war like nothing we've seen before...",
+    "th": ""
+  },
+  {
+    "idx": 1905,
+    "en": "Gah<FG> Why is the King of Al-Khazam doing this<FG><FH>",
+    "th": ""
+  },
+  {
+    "idx": 1906,
+    "en": "Everyone in Accordia seems really wobbly... (quiver) You don't think there's gooing to be another gooreat war, do you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1907,
+    "en": "Don't waste my time with idle chit-chat. We need to prepare for battle and make for the Great Divide without delay.",
+    "th": ""
+  },
+  {
+    "idx": 1908,
+    "en": "The King of Al-Khazam is a wise and merciful ruler. It's completely out of character for him to invade his neighbours on a whim.",
+    "th": ""
+  },
+  {
+    "idx": 1909,
+    "en": "By the hokey, this world's in a quare auld pickle, and no mistake<FG> Ye'd best be sure to double-check yer gear before we head out<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1910,
+    "en": "Do you really think this is the time to be chatting<FH> Stop dawdling and get ready for battle, will you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1911,
+    "en": "Grrr... Everyone in town's so tense. It's setting my teeth right on edge<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1912,
+    "en": "Do I have to remind you that there's an army headed our way<FH> Less talk, more action<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1913,
+    "en": "Seems the King of Al-Khazam ain't none too keen on keepin' the peace in this world<MV>he's fixin' to rip it to pieces far as I can see<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1914,
+    "en": "The cards tell me there are dark days ahead... We must go to the Great Divide without delay<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1915,
+    "en": "Is it really true<FH> Is an army of monsters marching on Ingenia<FH> I do hope Her Majesty is okay...",
+    "th": ""
+  },
+  {
+    "idx": 1916,
+    "en": "The King of Harba's last wish was for us to go to Mt Neverest and bring back that legendary weapon. We can't let him down<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1917,
+    "en": "The King of Harba gave us our orders...and I'm not going to let him down<FG> Alriiight<FG> Mt Neverest, here we come<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1918,
+    "en": "Everyone in Harba loved the King... He was so kind, and just, and gooracious... (sniff)",
+    "th": ""
+  },
+  {
+    "idx": 1919,
+    "en": "And now they'll never get to see him ever again... (slurp) It's just snot fair...",
+    "th": ""
+  },
+  {
+    "idx": 1920,
+    "en": "The King of Harba was a shining example to all those who would rule. I must strive to follow in his footsteps...",
+    "th": ""
+  },
+  {
+    "idx": 1921,
+    "en": "We've been given an important mission<MV>one on which the fate of this world may very well depend. So what say we get to work<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1922,
+    "en": "I wonder what the craic is with this legendary weapon. Is it a sword<FH> A spear<FH> ...An abacus<FG><FH> Oh, that'd be deadly, that would<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1923,
+    "en": "I feel absolutely awful about what happened to the King. But this is no time to be moping around<FG> We've got to find that weapon<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1924,
+    "en": "Grrr... That rotten drakulard... I'm gonna get him back if it's the last thing I do<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1925,
+    "en": "They don't call weapons ‘legendary’ for nothing. This thing must be special...",
+    "th": ""
+  },
+  {
+    "idx": 1926,
+    "en": "I been thinkin'<MV>if this weapon's got what it takes to bring down that mountain of a critter, it's gotta be pretty big itself, right<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1927,
+    "en": "Which means bringin' it down from the top o' Mt Neverest is gonna be a big ask...",
+    "th": ""
+  },
+  {
+    "idx": 1928,
+    "en": "I see an icy peak surrounded by a snowfield... I see great, swirling blizzards... Be sure to wrap up warm, won't you<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1929,
+    "en": "It was an awful-awful thing that happened, but we have to stop moping and look ahead. Let's grab this weapon and get our revenge<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1930,
+    "en": "Where are you going<FH> This is no time for sightseeing<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1931,
+    "en": "Ma'am<FG> A message from the Queen of Ingenia<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1932,
+    "en": "She would like to speak with you about the great floating castle that has appeared in the sky<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1933,
+    "en": "Well now, isn't that a coincidence. She might just know something. Alright<MV>to Ingenia<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1934,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1935,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1936,
+    "en": "<F4><I0>01 receives a map to the Aberrant Estate<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1937,
+    "en": "<F4><I0>01 receives a map to the Night Club<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1938,
+    "en": "I am glad to see you well. I was worried for your safety when I heard that the Pinnacle had collapsed.",
+    "th": ""
+  },
+  {
+    "idx": 1939,
+    "en": "Tell me everything that happened in Accordia. Then we will speak of the Black Manse...",
+    "th": ""
+  },
+  {
+    "idx": 1940,
+    "en": "...So Fractos has grown powerful enough to bring the Black Manse back to our world<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1941,
+    "en": "Then time is of the essence. I called you here to tell you how you might gain access to Fractos's stronghold.",
+    "th": ""
+  },
+  {
+    "idx": 1942,
+    "en": "You must go via the other world. The one he laid waste to all those years ago. There is a teleportal in Unos's palace there.",
+    "th": ""
+  },
+  {
+    "idx": 1943,
+    "en": "When the two brothers each ruled over their own worlds, they would use it to travel between them.",
+    "th": ""
+  },
+  {
+    "idx": 1944,
+    "en": "So if we go to this other world and use the teleportal in Unos's palace, we'll be able to jump straight into the Black Manse<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1945,
+    "en": "It's not quite that simple. After the Dreadbolt destroyed his world, Unos sealed it away, hoping to trap Fractos and the Black Manse.",
+    "th": ""
+  },
+  {
+    "idx": 1946,
+    "en": "So our problem will be getting to the other world in the first place.",
+    "th": ""
+  },
+  {
+    "idx": 1947,
+    "en": "You are well informed. But there is something you do not know. Unos created a secret portal to the other world during his final days here.",
+    "th": ""
+  },
+  {
+    "idx": 1948,
+    "en": "So there is a way<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1949,
+    "en": "There is. No one knows quite why he created it, but he is said to have used it several times before finally succumbing to his injuries.",
+    "th": ""
+  },
+  {
+    "idx": 1950,
+    "en": "It is hidden in Dunisia. In the Tomb of the Sun, to be precise. Were you aware of its existence, Cesar<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1951,
+    "en": "I was not. But I could well believe it<MV>the ruins hide many mysteries.",
+    "th": ""
+  },
+  {
+    "idx": 1952,
+    "en": "Alllright then<FG> Looks like we're heading for the Tomb of the Sun<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1953,
+    "en": "Thank you, Your Majesty<FG> We'll find the way to the other world, I promise<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1954,
+    "en": "I am sure you will. But be careful<MV>I do not know what has become of that ruined world, or what dangers may await you...",
+    "th": ""
+  },
+  {
+    "idx": 1955,
+    "en": "<F4><I0>01 receives a map to the Bad Guys' Base<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1956,
+    "en": "<F4><I0>01 receives maps to the Kings' Combat Zone and Port-au-Pain<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1957,
+    "en": "<F4><I0>01 receives a map to the Abominable Abode<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1958,
+    "en": "<F4><I0>01 receives maps to the Tomb of the Trinity and Savage Sands<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1959,
+    "en": "<F4><I0>01 receives a map to the Despot's Domain<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1960,
+    "en": "<F4><I0>01 receives maps to the Big Cat's Boudoir and the Deadly Divide<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1961,
+    "en": "<F4><I0>01 receives maps to the Lair of the Dark Lord and the Tower of Tribulations<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1962,
+    "en": "<F4><I0>01 receives a map to the Lair of the Dark Master<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1963,
+    "en": "<F4><I0>01 receives a map to the Twin Sovereigns' Seat<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1964,
+    "en": "Eek<FG> Don't scare me like that, scare me like that<FG> If there's something you want, ask from in front of the counter, in front of the counter<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1965,
+    "en": "NOT USED",
+    "th": ""
+  },
+  {
+    "idx": 1966,
+    "en": "<F4><I0>01 receives maps to the Maze of the Mighty and the Foul Fortress<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1967,
+    "en": "<F4><I0>01 receives a map to the Tower of Tribulations<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1968,
+    "en": "<F4><I0>01 receives a map to the Foul Fortress<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1969,
+    "en": "<F4><I0>01 receives a map to the Metal Maze<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1970,
+    "en": "Humans... Can it really be<FH> Have you come here from the other world<FH> The world that yet lives<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1971,
+    "en": "I was once a servant to Unos... The Dreadbolt cursed me to wander this dead world as a spirit, never to know rest...",
+    "th": ""
+  },
+  {
+    "idx": 1972,
+    "en": "Why have you come to these forsaken lands<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1973,
+    "en": "Fractos has returned. He has corrupted the Cup of Kings, and is plotting to destroy our world.",
+    "th": ""
+  },
+  {
+    "idx": 1974,
+    "en": "We need to find a way into the Black Manse so that we can stop him.",
+    "th": ""
+  },
+  {
+    "idx": 1975,
+    "en": "So that is why Fractos and his palace have vanished...",
+    "th": ""
+  },
+  {
+    "idx": 1976,
+    "en": "We seek a portal that leads to the Manse. We were told it was to be found in Unos's palace.",
+    "th": ""
+  },
+  {
+    "idx": 1977,
+    "en": "Do you know of it<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1978,
+    "en": "Unos's palace<FH> I am afraid it fell from the sky a thousand long years ago... It lies now in pieces...",
+    "th": ""
+  },
+  {
+    "idx": 1979,
+    "en": "Oh no... So does that mean the teleportal's gone too<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1980,
+    "en": "I cannot say for certain... The ruins lie in the wilds to the north of here. Perhaps you will find what you seek there...",
+    "th": ""
+  },
+  {
+    "idx": 1981,
+    "en": "Alright, we'll go and see what we can find. Thanks<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1982,
+    "en": "There are other cursed souls like myself who still wander this world. I will ask them to lend you their aid<MV>seek them out<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1983,
+    "en": "<F4><I0>01 receives a map to the Liquid Metal Maze<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1984,
+    "en": "<F4><I0>01 receives a map to the Metal King Maze<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1985,
+    "en": "Ah<FG> And you are wearing my ring<FG> Truly, this is an honour beyond compare<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1986,
+    "en": "Underssstood, Your Highnesss<FG> We live to ssserve<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1987,
+    "en": "‘Continue east to reach the Great Divide. Beware of falling rocks<FG>’",
+    "th": ""
+  },
+  {
+    "idx": 1988,
+    "en": "‘Follow the path downhill to reach the Great Divide. Follow the path uphill to reach Accordia. Hairpin bends ahead<FG>’",
+    "th": ""
+  },
+  {
+    "idx": 1989,
+    "en": "Oh, goodness<FG> You must be the people from the other world I've heard about<FG> Don't worry, the others have told me everything.",
+    "th": ""
+  },
+  {
+    "idx": 1990,
+    "en": "Were you one of Unos's servants too<FH>",
+    "th": ""
+  },
+  {
+    "idx": 1991,
+    "en": "Servant indeed<FG> Ooh, you little scamp<FG> I was his nanny<FG> I looked after the little angel from the day he was born...",
+    "th": ""
+  },
+  {
+    "idx": 1992,
+    "en": "He and his brother were inseparable once, you know... Even as grown-ups, they were always zipping back and forth visiting one another...",
+    "th": ""
+  },
+  {
+    "idx": 1993,
+    "en": "But then...Fractos took a turn for the evil, and poor Unos was forced to fight him for the greater good... Oh, it breaks my heart...",
+    "th": ""
+  },
+  {
+    "idx": 1994,
+    "en": "Oh, but listen to me nattering on about the past<FG> You need to get on and find the remains of the palace...",
+    "th": ""
+  },
+  {
+    "idx": 1995,
+    "en": "I'm afraid so. We were told we could find them in the wilds to the north.",
+    "th": ""
+  },
+  {
+    "idx": 1996,
+    "en": "That's right, dear. Head all the way north through these woods and you'll find them. Ooh, but be careful of all the horrible monsters<FG>",
+    "th": ""
+  },
+  {
+    "idx": 1997,
+    "en": "‘Follow the path east to reach the Great Divide.’",
+    "th": ""
+  },
+  {
+    "idx": 1998,
+    "en": "‘Follow the path straight on to reach Mt Neverest.’",
+    "th": ""
+  },
+  {
+    "idx": 1999,
+    "en": "Who's there<FH> Ah. You must be the travellers seeking the ruins of Unos's palace...",
+    "th": ""
+  }
+]
