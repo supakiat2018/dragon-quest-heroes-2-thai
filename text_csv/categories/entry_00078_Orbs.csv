@@ -1,328 +1,328 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-78,Orbs,0,36,3236,plain orb,
-78,Orbs,1,40,3246,plain orb,
-78,Orbs,2,44,3256,An orb with the defensive density of a woollen tunic.,
-78,Orbs,3,48,3310,plain orbs,
+78,Orbs,0,36,3236,plain orb,ลูกแก้วผ้าทอ
+78,Orbs,1,40,3246,plain orb,ลูกแก้วผ้าทอ
+78,Orbs,2,44,3256,An orb with the defensive density of a woollen tunic.,ลูกแก้วที่มีพลังป้องกันเทียบเท่ากับเสื้อกั๊กผ้าขนสัตว์
+78,Orbs,3,48,3310,plain orbs,ลูกแก้วผ้าทอ
 78,Orbs,4,52,3321,the ,
 78,Orbs,5,56,3326,the ,
 78,Orbs,6,60,3331,a ,
 78,Orbs,7,64,3334,some ,
-78,Orbs,8,68,3340,wayfarer's orb,
-78,Orbs,9,72,3355,wayfarer's orb,
-78,Orbs,10,76,3370,An orb designed to replace a traveller's robes.,
-78,Orbs,11,80,3418,wayfarer's orbs,
+78,Orbs,8,68,3340,wayfarer's orb,ลูกแก้วนักเดินทาง
+78,Orbs,9,72,3355,wayfarer's orb,ลูกแก้วนักเดินทาง
+78,Orbs,10,76,3370,An orb designed to replace a traveller's robes.,ลูกแก้วที่สร้างขึ้นเพื่อใช้แทนชุดคลุมของนักเดินทาง
+78,Orbs,11,80,3418,wayfarer's orbs,ลูกแก้วนักเดินทาง
 78,Orbs,12,84,3434,the ,
 78,Orbs,13,88,3439,the ,
 78,Orbs,14,92,3444,a ,
 78,Orbs,15,96,3447,some ,
-78,Orbs,16,100,3453,leather orb,
-78,Orbs,17,104,3465,leather orb,
-78,Orbs,18,108,3477,Offers the same protection as a suit of leather armour.,
-78,Orbs,19,112,3533,leather orbs,
+78,Orbs,16,100,3453,leather orb,ลูกแก้วหนัง
+78,Orbs,17,104,3465,leather orb,ลูกแก้วหนัง
+78,Orbs,18,108,3477,Offers the same protection as a suit of leather armour.,มอบพลังป้องกันเทียบเท่ากับชุดเกราะหนัง
+78,Orbs,19,112,3533,leather orbs,ลูกแก้วหนัง
 78,Orbs,20,116,3546,the ,
 78,Orbs,21,120,3551,the ,
 78,Orbs,22,124,3556,a ,
 78,Orbs,23,128,3559,some ,
-78,Orbs,24,132,3565,scale orb,
-78,Orbs,25,136,3575,scale orb,
-78,Orbs,26,140,3585,Offers similar protection to a suit of scale mail.,
-78,Orbs,27,144,3636,scale orbs,
+78,Orbs,24,132,3565,scale orb,ลูกแก้วเกล็ดปลา
+78,Orbs,25,136,3575,scale orb,ลูกแก้วเกล็ดปลา
+78,Orbs,26,140,3585,Offers similar protection to a suit of scale mail.,มอบพลังป้องกันเทียบเท่ากับเกราะเกล็ดปลา
+78,Orbs,27,144,3636,scale orbs,ลูกแก้วเกล็ดปลา
 78,Orbs,28,148,3647,the ,
 78,Orbs,29,152,3652,the ,
 78,Orbs,30,156,3657,a ,
 78,Orbs,31,160,3660,some ,
-78,Orbs,32,164,3666,Unused,
-78,Orbs,33,168,3673,Unused,
-78,Orbs,34,172,3680,Unused,
-78,Orbs,35,176,3687,Unused,
+78,Orbs,32,164,3666,Unused,ไม่ได้ใช้งาน
+78,Orbs,33,168,3673,Unused,ไม่ได้ใช้งาน
+78,Orbs,34,172,3680,Unused,ไม่ได้ใช้งาน
+78,Orbs,35,176,3687,Unused,ไม่ได้ใช้งาน
 78,Orbs,36,180,3694,,
 78,Orbs,37,184,3695,,
 78,Orbs,38,188,3696,,
 78,Orbs,39,192,3697,,
-78,Orbs,40,196,3698,Unused,
-78,Orbs,41,200,3705,Unused,
-78,Orbs,42,204,3712,Unused,
-78,Orbs,43,208,3719,Unused,
+78,Orbs,40,196,3698,Unused,ไม่ได้ใช้งาน
+78,Orbs,41,200,3705,Unused,ไม่ได้ใช้งาน
+78,Orbs,42,204,3712,Unused,ไม่ได้ใช้งาน
+78,Orbs,43,208,3719,Unused,ไม่ได้ใช้งาน
 78,Orbs,44,212,3726,,
 78,Orbs,45,216,3727,,
 78,Orbs,46,220,3728,,
 78,Orbs,47,224,3729,,
-78,Orbs,48,228,3730,iron orb,
-78,Orbs,49,232,3739,iron orb,
-78,Orbs,50,236,3748,A cold grey orb that's as hard as iron.,
-78,Orbs,51,240,3788,iron orbs,
+78,Orbs,48,228,3730,iron orb,ลูกแก้วเหล็ก
+78,Orbs,49,232,3739,iron orb,ลูกแก้วเหล็ก
+78,Orbs,50,236,3748,A cold grey orb that's as hard as iron.,ลูกแก้วสีเทาอันเย็นเยียบที่มีความแข็งแกร่งดั่งเหล็กกล้า
+78,Orbs,51,240,3788,iron orbs,ลูกแก้วเหล็ก
 78,Orbs,52,244,3798,the ,
 78,Orbs,53,248,3803,the ,
 78,Orbs,54,252,3808,an ,
 78,Orbs,55,256,3812,some ,
-78,Orbs,56,260,3818,steel orb,
-78,Orbs,57,264,3828,steel orb,
-78,Orbs,58,268,3838,A stainless steel orb that keeps you safe<MV>and clean<FG>,
-78,Orbs,59,272,3895,steel orbs,
+78,Orbs,56,260,3818,steel orb,ลูกแก้วเหล็กกล้า
+78,Orbs,57,264,3828,steel orb,ลูกแก้วเหล็กกล้า
+78,Orbs,58,268,3838,A stainless steel orb that keeps you safe<MV>and clean<FG>,ลูกแก้วเหล็กกล้าไร้สนิมที่ช่วยปกป้องเจ้าให้ปลอดภัย<MV>และสะอาดสะอ้าน<FG>
+78,Orbs,59,272,3895,steel orbs,ลูกแก้วเหล็กกล้า
 78,Orbs,60,276,3906,the ,
 78,Orbs,61,280,3911,the ,
 78,Orbs,62,284,3916,a ,
 78,Orbs,63,288,3919,some ,
-78,Orbs,64,292,3925,orb of evasion,
-78,Orbs,65,296,3940,orb of evasion,
-78,Orbs,66,300,3955,An orb that makes you as hard to hit as an artful dodger.,
-78,Orbs,67,304,4013,orbs of evasion,
+78,Orbs,64,292,3925,orb of evasion,ลูกแก้วหลบหลีก
+78,Orbs,65,296,3940,orb of evasion,ลูกแก้วหลบหลีก
+78,Orbs,66,300,3955,An orb that makes you as hard to hit as an artful dodger.,ลูกแก้วที่ช่วยให้เจ้าหลบหลีกการโจมตีได้อย่างพลิ้วไหวดั่งสายลม
+78,Orbs,67,304,4013,orbs of evasion,ลูกแก้วหลบหลีก
 78,Orbs,68,308,4029,the ,
 78,Orbs,69,312,4034,the ,
 78,Orbs,70,316,4039,an ,
 78,Orbs,71,320,4043,some ,
-78,Orbs,72,324,4049,Unused,
-78,Orbs,73,328,4056,Unused,
-78,Orbs,74,332,4063,Unused,
-78,Orbs,75,336,4070,Unused,
+78,Orbs,72,324,4049,Unused,ไม่ได้ใช้งาน
+78,Orbs,73,328,4056,Unused,ไม่ได้ใช้งาน
+78,Orbs,74,332,4063,Unused,ไม่ได้ใช้งาน
+78,Orbs,75,336,4070,Unused,ไม่ได้ใช้งาน
 78,Orbs,76,340,4077,,
 78,Orbs,77,344,4078,,
 78,Orbs,78,348,4079,,
 78,Orbs,79,352,4080,,
-78,Orbs,80,356,4081,orb of serenity,
-78,Orbs,81,360,4097,orb of serenity,
-78,Orbs,82,364,4113,"Guaranteed to keep you safe, secure and serene.",
-78,Orbs,83,368,4161,orbs of serenity,
+78,Orbs,80,356,4081,orb of serenity,ลูกแก้วสงบนิ่ง
+78,Orbs,81,360,4097,orb of serenity,ลูกแก้วสงบนิ่ง
+78,Orbs,82,364,4113,"Guaranteed to keep you safe, secure and serene.",รับประกันว่าจะช่วยให้เจ้าปลอดภัย มั่นคง และสงบสุข
+78,Orbs,83,368,4161,orbs of serenity,ลูกแก้วสงบนิ่ง
 78,Orbs,84,372,4178,the ,
 78,Orbs,85,376,4183,the ,
 78,Orbs,86,380,4188,an ,
 78,Orbs,87,384,4192,some ,
-78,Orbs,88,388,4198,magic orb,
-78,Orbs,89,392,4208,magic orb,
-78,Orbs,90,396,4218,An orb imbued with magic-resistant powers.,
-78,Orbs,91,400,4261,magic orbs,
+78,Orbs,88,388,4198,magic orb,ลูกแก้วมนตรา
+78,Orbs,89,392,4208,magic orb,ลูกแก้วมนตรา
+78,Orbs,90,396,4218,An orb imbued with magic-resistant powers.,ลูกแก้วที่เปี่ยมด้วยพลังในการต้านทานเวทมนตร์
+78,Orbs,91,400,4261,magic orbs,ลูกแก้วมนตรา
 78,Orbs,92,404,4272,the ,
 78,Orbs,93,408,4277,the ,
 78,Orbs,94,412,4282,a ,
 78,Orbs,95,416,4285,some ,
-78,Orbs,96,420,4291,orbolero,
-78,Orbs,97,424,4300,orbolero,
-78,Orbs,98,428,4309,A curious orb with an advantageous affinity for magic.,
-78,Orbs,99,432,4364,orboleros,
+78,Orbs,96,420,4291,orbolero,ลูกแก้วโบเลโร
+78,Orbs,97,424,4300,orbolero,ลูกแก้วโบเลโร
+78,Orbs,98,428,4309,A curious orb with an advantageous affinity for magic.,ลูกแก้วประหลาดที่ดึงดูดพลังเวทมนตร์มาเป็นประโยชน์แก่ผู้สวมใส่
+78,Orbs,99,432,4364,orboleros,ลูกแก้วโบเลโร
 78,Orbs,100,436,4374,the ,
 78,Orbs,101,440,4379,the ,
 78,Orbs,102,444,4384,an ,
 78,Orbs,103,448,4388,some ,
-78,Orbs,104,452,4394,illusionist's orb,
-78,Orbs,105,456,4412,illusionist's orb,
-78,Orbs,106,460,4430,Offers protection similar to that of a sorcerer's surplice.,
-78,Orbs,107,464,4490,illusionist's orbs,
+78,Orbs,104,452,4394,illusionist's orb,ลูกแก้วนักมายากล
+78,Orbs,105,456,4412,illusionist's orb,ลูกแก้วนักมายากล
+78,Orbs,106,460,4430,Offers protection similar to that of a sorcerer's surplice.,มอบการปกป้องเทียบเท่ากับเสื้อคลุมขาวของจอมเวท
+78,Orbs,107,464,4490,illusionist's orbs,ลูกแก้วนักมายากล
 78,Orbs,108,468,4509,the ,
 78,Orbs,109,472,4514,the ,
 78,Orbs,110,476,4519,an ,
 78,Orbs,111,480,4523,some ,
-78,Orbs,112,484,4529,Unused,
-78,Orbs,113,488,4536,Unused,
-78,Orbs,114,492,4543,Unused,
-78,Orbs,115,496,4550,Unused,
+78,Orbs,112,484,4529,Unused,ไม่ได้ใช้งาน
+78,Orbs,113,488,4536,Unused,ไม่ได้ใช้งาน
+78,Orbs,114,492,4543,Unused,ไม่ได้ใช้งาน
+78,Orbs,115,496,4550,Unused,ไม่ได้ใช้งาน
 78,Orbs,116,500,4557,,
 78,Orbs,117,504,4558,,
 78,Orbs,118,508,4559,,
 78,Orbs,119,512,4560,,
-78,Orbs,120,516,4561,witch's orb,
-78,Orbs,121,520,4573,witch's orb,
-78,Orbs,122,524,4585,An eerie orb enchanted by a wizened witch.,
-78,Orbs,123,528,4628,witch's orbs,
+78,Orbs,120,516,4561,witch's orb,ลูกแก้วแม่มด
+78,Orbs,121,520,4573,witch's orb,ลูกแก้วแม่มด
+78,Orbs,122,524,4585,An eerie orb enchanted by a wizened witch.,ลูกแก้วชวนขนลุกที่ร่ายมนตร์โดยแม่มดเฒ่าผู้เหี่ยวย่น
+78,Orbs,123,528,4628,witch's orbs,ลูกแก้วแม่มด
 78,Orbs,124,532,4641,the ,
 78,Orbs,125,536,4646,the ,
 78,Orbs,126,540,4651,a ,
 78,Orbs,127,544,4654,some ,
-78,Orbs,128,548,4660,heavy orb,
-78,Orbs,129,552,4670,heavy orb,
-78,Orbs,130,556,4680,An orb that's about as protective as plate armour.,
-78,Orbs,131,560,4731,heavy orbs,
+78,Orbs,128,548,4660,heavy orb,ลูกแก้วเกราะหนัก
+78,Orbs,129,552,4670,heavy orb,ลูกแก้วเกราะหนัก
+78,Orbs,130,556,4680,An orb that's about as protective as plate armour.,ลูกแก้วที่มอบพลังป้องกันสูงเทียบเท่ากับชุดเกราะเหล็กแผ่นหนา
+78,Orbs,131,560,4731,heavy orbs,ลูกแก้วเกราะหนัก
 78,Orbs,132,564,4742,the ,
 78,Orbs,133,568,4747,the ,
 78,Orbs,134,572,4752,a ,
 78,Orbs,135,576,4755,some ,
-78,Orbs,136,580,4761,flowing orb,
-78,Orbs,137,584,4773,flowing orb,
-78,Orbs,138,588,4785,"A soft, silky orb that lets you sidestep spells.",
-78,Orbs,139,592,4834,flowing orbs,
+78,Orbs,136,580,4761,flowing orb,ลูกแก้วสายน้ำไหล
+78,Orbs,137,584,4773,flowing orb,ลูกแก้วสายน้ำไหล
+78,Orbs,138,588,4785,"A soft, silky orb that lets you sidestep spells.",ลูกแก้วผ้าไหมนุ่มลื่นที่ช่วยให้เจ้าหลบหลีกเวทมนตร์ได้อย่างง่ายดาย
+78,Orbs,139,592,4834,flowing orbs,ลูกแก้วสายน้ำไหล
 78,Orbs,140,596,4847,the ,
 78,Orbs,141,600,4852,the ,
 78,Orbs,142,604,4857,a ,
 78,Orbs,143,608,4860,some ,
-78,Orbs,144,612,4866,exorcist's orb,
-78,Orbs,145,616,4881,exorcist's orb,
-78,Orbs,146,620,4896,An orb with the power of a robe that dispels demons.,
-78,Orbs,147,624,4949,exorcist's orbs,
+78,Orbs,144,612,4866,exorcist's orb,ลูกแก้วปราบมาร
+78,Orbs,145,616,4881,exorcist's orb,ลูกแก้วปราบมาร
+78,Orbs,146,620,4896,An orb with the power of a robe that dispels demons.,ลูกแก้วที่มีพลังดั่งเสื้อคลุมศักดิ์สิทธิ์สำหรับขับไล่เหล่าปีศาจ
+78,Orbs,147,624,4949,exorcist's orbs,ลูกแก้วปราบมาร
 78,Orbs,148,628,4965,the ,
 78,Orbs,149,632,4970,the ,
 78,Orbs,150,636,4975,an ,
 78,Orbs,151,640,4979,some ,
-78,Orbs,152,644,4985,Unused,
-78,Orbs,153,648,4992,Unused,
-78,Orbs,154,652,4999,Unused,
-78,Orbs,155,656,5006,Unused,
+78,Orbs,152,644,4985,Unused,ไม่ได้ใช้งาน
+78,Orbs,153,648,4992,Unused,ไม่ได้ใช้งาน
+78,Orbs,154,652,4999,Unused,ไม่ได้ใช้งาน
+78,Orbs,155,656,5006,Unused,ไม่ได้ใช้งาน
 78,Orbs,156,660,5013,the ,
 78,Orbs,157,664,5018,the ,
 78,Orbs,158,668,5023,a ,
 78,Orbs,159,672,5026,some ,
-78,Orbs,160,676,5032,dragon orb,
-78,Orbs,161,680,5043,dragon orb,
-78,Orbs,162,684,5054,A reptilian orb forged from the scales of a serpent.,
-78,Orbs,163,688,5107,dragon orbs,
+78,Orbs,160,676,5032,dragon orb,ลูกแก้วมังกร
+78,Orbs,161,680,5043,dragon orb,ลูกแก้วมังกร
+78,Orbs,162,684,5054,A reptilian orb forged from the scales of a serpent.,ลูกแก้วที่หลอมขึ้นจากเกล็ดของมังกรเลื้อย
+78,Orbs,163,688,5107,dragon orbs,ลูกแก้วมังกร
 78,Orbs,164,692,5119,the ,
 78,Orbs,165,696,5124,the ,
 78,Orbs,166,700,5129,a ,
 78,Orbs,167,704,5132,some ,
-78,Orbs,168,708,5138,enchanted orb,
-78,Orbs,169,712,5152,enchanted orb,
-78,Orbs,170,716,5166,About as protective as a suit of spirit-infused armour.,
-78,Orbs,171,720,5222,enchanted orbs,
+78,Orbs,168,708,5138,enchanted orb,ลูกแก้วเวทมนตร์คุ้มกาย
+78,Orbs,169,712,5152,enchanted orb,ลูกแก้วเวทมนตร์คุ้มกาย
+78,Orbs,170,716,5166,About as protective as a suit of spirit-infused armour.,มอบการปกป้องเทียบเท่ากับชุดเกราะที่สถิตด้วยพลังแห่งจิตวิญญาณ
+78,Orbs,171,720,5222,enchanted orbs,ลูกแก้วเวทมนตร์คุ้มกาย
 78,Orbs,172,724,5237,the ,
 78,Orbs,173,728,5242,the ,
 78,Orbs,174,732,5247,an ,
 78,Orbs,175,736,5251,some ,
-78,Orbs,176,740,5257,dark orb,
-78,Orbs,177,744,5266,dark orb,
-78,Orbs,178,748,5275,An ink-black orb that sends enemy attacks astray.,
-78,Orbs,179,752,5325,dark orbs,
+78,Orbs,176,740,5257,dark orb,ลูกแก้วทมิฬ
+78,Orbs,177,744,5266,dark orb,ลูกแก้วทมิฬ
+78,Orbs,178,748,5275,An ink-black orb that sends enemy attacks astray.,ลูกแก้วสีดำสนิทดั่งน้ำหมึกที่จะเบี่ยงเบนการโจมตีของศัตรูให้พลาดเป้า
+78,Orbs,179,752,5325,dark orbs,ลูกแก้วทมิฬ
 78,Orbs,180,756,5335,the ,
 78,Orbs,181,760,5340,the ,
 78,Orbs,182,764,5345,a ,
 78,Orbs,183,768,5348,some ,
-78,Orbs,184,772,5354,tectonic orb,
-78,Orbs,185,776,5367,tectonic orb,
-78,Orbs,186,780,5380,A majestic orb of earth-shattering strength.,
-78,Orbs,187,784,5425,tectonic orbs,
+78,Orbs,184,772,5354,tectonic orb,ลูกแก้วพสุธา
+78,Orbs,185,776,5367,tectonic orb,ลูกแก้วพสุธา
+78,Orbs,186,780,5380,A majestic orb of earth-shattering strength.,ลูกแก้วอันสง่างามที่มีพละกำลังมหาศาลดั่งแผ่นดินไหวสะเทือน
+78,Orbs,187,784,5425,tectonic orbs,ลูกแก้วพสุธา
 78,Orbs,188,788,5439,the ,
 78,Orbs,189,792,5444,the ,
 78,Orbs,190,796,5449,a ,
 78,Orbs,191,800,5452,some ,
-78,Orbs,192,804,5458,wizard's orb,
-78,Orbs,193,808,5471,wizard's orb,
-78,Orbs,194,812,5484,An orb instilled with the energies of a great enchanter.,
-78,Orbs,195,816,5541,wizard's orbs,
+78,Orbs,192,804,5458,wizard's orb,ลูกแก้วจอมปราชญ์
+78,Orbs,193,808,5471,wizard's orb,ลูกแก้วจอมปราชญ์
+78,Orbs,194,812,5484,An orb instilled with the energies of a great enchanter.,ลูกแก้วที่อัดแน่นไปด้วยพลังงานเวทมนตร์ของมหาจอมเวท
+78,Orbs,195,816,5541,wizard's orbs,ลูกแก้วจอมปราชญ์
 78,Orbs,196,820,5555,the ,
 78,Orbs,197,824,5560,the ,
 78,Orbs,198,828,5565,a ,
 78,Orbs,199,832,5568,some ,
-78,Orbs,200,836,5574,gigant orb,
-78,Orbs,201,840,5585,gigant orb,
-78,Orbs,202,844,5596,This enlarging orb makes its owner feel ten feet tall.,
-78,Orbs,203,848,5651,gigant orbs,
+78,Orbs,200,836,5574,gigant orb,ลูกแก้วยักษ์ไททัน
+78,Orbs,201,840,5585,gigant orb,ลูกแก้วยักษ์ไททัน
+78,Orbs,202,844,5596,This enlarging orb makes its owner feel ten feet tall.,ลูกแก้วขยายพลังนี้จะทำให้ผู้ถือครองรู้สึกตัวสูงใหญ่ดั่งยักษ์
+78,Orbs,203,848,5651,gigant orbs,ลูกแก้วยักษ์ไททัน
 78,Orbs,204,852,5663,the ,
 78,Orbs,205,856,5668,the ,
 78,Orbs,206,860,5673,a ,
 78,Orbs,207,864,5676,some ,
-78,Orbs,208,868,5682,orbus regale,
-78,Orbs,209,872,5695,orbus regale,
-78,Orbs,210,876,5708,An orb that resists any infraction on its ruler's rights.,
-78,Orbs,211,880,5766,orbi regalia,
+78,Orbs,208,868,5682,orbus regale,ลูกแก้วราชันย์
+78,Orbs,209,872,5695,orbus regale,ลูกแก้วราชันย์
+78,Orbs,210,876,5708,An orb that resists any infraction on its ruler's rights.,ลูกแก้วที่จะต่อต้านการล่วงละเมิดใดๆ ต่อสิทธิของผู้ปกครอง
+78,Orbs,211,880,5766,orbi regalia,ลูกแก้วราชันย์
 78,Orbs,212,884,5779,the ,
 78,Orbs,213,888,5784,the ,
 78,Orbs,214,892,5789,an ,
 78,Orbs,215,896,5793,some ,
-78,Orbs,216,900,5799,orb of enlightenment,
-78,Orbs,217,904,5820,orb of enlightenment,
-78,Orbs,218,908,5841,A divine orb dripping with noble knowledge.,
-78,Orbs,219,912,5885,orbs of enlightenment,
+78,Orbs,216,900,5799,orb of enlightenment,ลูกแก้วรู้แจ้ง
+78,Orbs,217,904,5820,orb of enlightenment,ลูกแก้วรู้แจ้ง
+78,Orbs,218,908,5841,A divine orb dripping with noble knowledge.,ลูกแก้วศักดิ์สิทธิ์ที่เปี่ยมล้นไปด้วยภูมิปัญญาอันสูงส่ง
+78,Orbs,219,912,5885,orbs of enlightenment,ลูกแก้วรู้แจ้ง
 78,Orbs,220,916,5907,the ,
 78,Orbs,221,920,5912,the ,
 78,Orbs,222,924,5917,an ,
 78,Orbs,223,928,5921,some ,
-78,Orbs,224,932,5927,princess's orb,
-78,Orbs,225,936,5942,princess's orb,
-78,Orbs,226,940,5957,This eminent orb makes its owner feel like royalty.,
-78,Orbs,227,944,6009,princess's orbs,
+78,Orbs,224,932,5927,princess's orb,ลูกแก้วเจ้าหญิง
+78,Orbs,225,936,5942,princess's orb,ลูกแก้วเจ้าหญิง
+78,Orbs,226,940,5957,This eminent orb makes its owner feel like royalty.,ลูกแก้วชั้นสูงที่จะทำให้ผู้ถือครองรู้สึกงดงามดั่งเชื้อพระวงศ์
+78,Orbs,227,944,6009,princess's orbs,ลูกแก้วเจ้าหญิง
 78,Orbs,228,948,6025,the ,
 78,Orbs,229,952,6030,the ,
 78,Orbs,230,956,6035,a ,
 78,Orbs,231,960,6038,some ,
-78,Orbs,232,964,6044,sacred orb,
-78,Orbs,233,968,6055,sacred orb,
-78,Orbs,234,972,6066,A blessed orb that boosts its bearer's well-being.,
-78,Orbs,235,976,6117,sacred orbs,
+78,Orbs,232,964,6044,sacred orb,ลูกแก้วศักดิ์สิทธิ์
+78,Orbs,233,968,6055,sacred orb,ลูกแก้วศักดิ์สิทธิ์
+78,Orbs,234,972,6066,A blessed orb that boosts its bearer's well-being.,ลูกแก้วแห่งการอวยพรที่จะช่วยเสริมสร้างความอยู่ดีมีสุขให้แก่ผู้สวมใส่
+78,Orbs,235,976,6117,sacred orbs,ลูกแก้วศักดิ์สิทธิ์
 78,Orbs,236,980,6129,the ,
 78,Orbs,237,984,6134,the ,
 78,Orbs,238,988,6139,a ,
 78,Orbs,239,992,6142,some ,
-78,Orbs,240,996,6148,metal king orb,
-78,Orbs,241,1000,6163,metal king orb,
-78,Orbs,242,1004,6178,A decidedly dense orb that confers a stupendous solidity.,
-78,Orbs,243,1008,6236,metal king orbs,
+78,Orbs,240,996,6148,metal king orb,ลูกแก้วเมทัลคิง
+78,Orbs,241,1000,6163,metal king orb,ลูกแก้วเมทัลคิง
+78,Orbs,242,1004,6178,A decidedly dense orb that confers a stupendous solidity.,ลูกแก้วเนื้อแน่นพิเศษที่จะมอบความแข็งแกร่งทนทานอย่างน่าอัศจรรย์
+78,Orbs,243,1008,6236,metal king orbs,ลูกแก้วเมทัลคิง
 78,Orbs,244,1012,6252,the ,
 78,Orbs,245,1016,6257,the ,
 78,Orbs,246,1020,6262,a ,
 78,Orbs,247,1024,6265,some ,
-78,Orbs,248,1028,6271,angel's orb,
-78,Orbs,249,1032,6283,angel's orb,
-78,Orbs,250,1036,6295,A holy orb once held by a herald of the heavens.,
-78,Orbs,251,1040,6344,angel's orbs,
+78,Orbs,248,1028,6271,angel's orb,ลูกแก้วทูตสวรรค์
+78,Orbs,249,1032,6283,angel's orb,ลูกแก้วทูตสวรรค์
+78,Orbs,250,1036,6295,A holy orb once held by a herald of the heavens.,ลูกแก้วศักดิ์สิทธิ์ที่ครั้งหนึ่งเคยถูกถือครองโดยทูตแห่งสรวงสวรรค์
+78,Orbs,251,1040,6344,angel's orbs,ลูกแก้วทูตสวรรค์
 78,Orbs,252,1044,6357,the ,
 78,Orbs,253,1048,6362,the ,
 78,Orbs,254,1052,6367,an ,
 78,Orbs,255,1056,6371,some ,
-78,Orbs,256,1060,6377,elevating orb,
-78,Orbs,257,1064,6391,elevating orb,
-78,Orbs,258,1068,6405,This eye-opening orb lets one see the world in a new light.,
-78,Orbs,259,1072,6465,elevating orbs,
+78,Orbs,256,1060,6377,elevating orb,ลูกแก้วยกระดับ
+78,Orbs,257,1064,6391,elevating orb,ลูกแก้วยกระดับ
+78,Orbs,258,1068,6405,This eye-opening orb lets one see the world in a new light.,ลูกแก้วเปิดหูเปิดตานี้จะช่วยให้เจ้ามองเห็นโลกในมุมมองใหม่
+78,Orbs,259,1072,6465,elevating orbs,ลูกแก้วยกระดับ
 78,Orbs,260,1076,6480,the ,
 78,Orbs,261,1080,6485,the ,
 78,Orbs,262,1084,6490,an ,
 78,Orbs,263,1088,6494,some ,
-78,Orbs,264,1092,6500,Unused,
-78,Orbs,265,1096,6507,Unused,
-78,Orbs,266,1100,6514,Unused,
-78,Orbs,267,1104,6521,Unused,
+78,Orbs,264,1092,6500,Unused,ไม่ได้ใช้งาน
+78,Orbs,265,1096,6507,Unused,ไม่ได้ใช้งาน
+78,Orbs,266,1100,6514,Unused,ไม่ได้ใช้งาน
+78,Orbs,267,1104,6521,Unused,ไม่ได้ใช้งาน
 78,Orbs,268,1108,6528,,
 78,Orbs,269,1112,6529,,
 78,Orbs,270,1116,6530,,
 78,Orbs,271,1120,6531,,
-78,Orbs,272,1124,6532,Erdrick's orb,
-78,Orbs,273,1128,6546,Erdrick's orb,
-78,Orbs,274,1132,6560,An orb imbued with the spirit of a legendary lionheart.,
-78,Orbs,275,1136,6616,Erdrick's orbs,
+78,Orbs,272,1124,6532,Erdrick's orb,ลูกแก้วแห่งโรโตะ
+78,Orbs,273,1128,6546,Erdrick's orb,ลูกแก้วแห่งโรโตะ
+78,Orbs,274,1132,6560,An orb imbued with the spirit of a legendary lionheart.,ลูกแก้วที่ผสานดวงวิญญาณของผู้กล้าหัวใจสิงห์ในตำนาน
+78,Orbs,275,1136,6616,Erdrick's orbs,ลูกแก้วแห่งโรโตะ
 78,Orbs,276,1140,6631,the ,
 78,Orbs,277,1144,6636,the ,
 78,Orbs,278,1148,6641,an ,
 78,Orbs,279,1152,6645,some ,
-78,Orbs,280,1156,6651,Zenithian orb,
-78,Orbs,281,1160,6665,Zenithian orb,
-78,Orbs,282,1164,6679,A legendary orb that boasts potent protective powers.,
-78,Orbs,283,1168,6733,Zenithian orbs,
+78,Orbs,280,1156,6651,Zenithian orb,ลูกแก้วแห่งเซนิเธีย
+78,Orbs,281,1160,6665,Zenithian orb,ลูกแก้วแห่งเซนิเธีย
+78,Orbs,282,1164,6679,A legendary orb that boasts potent protective powers.,ลูกแก้วในตำนานที่เปี่ยมด้วยพลังแห่งการปกป้องอันทรงอานุภาพ
+78,Orbs,283,1168,6733,Zenithian orbs,ลูกแก้วแห่งเซนิเธีย
 78,Orbs,284,1172,6748,the ,
 78,Orbs,285,1176,6753,the ,
 78,Orbs,286,1180,6758,a ,
 78,Orbs,287,1184,6761,some ,
-78,Orbs,288,1188,6767,Dragovian orb,
-78,Orbs,289,1192,6781,Dragovian orb,
-78,Orbs,290,1196,6795,Equivalent to the armour of a leader of dragon men.,
-78,Orbs,291,1200,6847,Dragovian orbs,
+78,Orbs,288,1188,6767,Dragovian orb,ลูกแก้วเผ่ามังกรดราโกเวียน
+78,Orbs,289,1192,6781,Dragovian orb,ลูกแก้วเผ่ามังกรดราโกเวียน
+78,Orbs,290,1196,6795,Equivalent to the armour of a leader of dragon men.,เทียบเท่ากับชุดเกราะของผู้นำแห่งเผ่านักรบมังกร
+78,Orbs,291,1200,6847,Dragovian orbs,ลูกแก้วเผ่ามังกรดราโกเวียน
 78,Orbs,292,1204,6862,the ,
 78,Orbs,293,1208,6867,the ,
 78,Orbs,294,1212,6872,a ,
 78,Orbs,295,1216,6875,some ,
-78,Orbs,296,1220,6881,Gaia orb,
-78,Orbs,297,1224,6890,Gaia orb,
-78,Orbs,298,1228,6899,An orb imbued with the strength of the spirit of the earth.,
-78,Orbs,299,1232,6959,Gaia orbs,
+78,Orbs,296,1220,6881,Gaia orb,ลูกแก้วไกอา
+78,Orbs,297,1224,6890,Gaia orb,ลูกแก้วไกอา
+78,Orbs,298,1228,6899,An orb imbued with the strength of the spirit of the earth.,ลูกแก้วที่เปี่ยมด้วยพละกำลังอันยิ่งใหญ่ของจิตวิญญาณแห่งผืนพิภพ
+78,Orbs,299,1232,6959,Gaia orbs,ลูกแก้วไกอา
 78,Orbs,300,1236,6969,the ,
 78,Orbs,301,1240,6974,the ,
 78,Orbs,302,1244,6979,a ,
 78,Orbs,303,1248,6982,some ,
-78,Orbs,304,1252,6988,orb of implacability,
-78,Orbs,305,1256,7009,orb of implacability,
-78,Orbs,306,1260,7030,An orb afflicted with an incredibly calamitous curse.,
-78,Orbs,307,1264,7084,orbs of implacability,
+78,Orbs,304,1252,6988,orb of implacability,ลูกแก้วต้องสาปหายนะ
+78,Orbs,305,1256,7009,orb of implacability,ลูกแก้วต้องสาปหายนะ
+78,Orbs,306,1260,7030,An orb afflicted with an incredibly calamitous curse.,ลูกแก้วที่ถูกครอบงำด้วยคำสาปแห่งหายนะอันร้ายแรงอย่างยิ่ง
+78,Orbs,307,1264,7084,orbs of implacability,ลูกแก้วต้องสาปหายนะ
 78,Orbs,308,1268,7106,the ,
 78,Orbs,309,1272,7111,the ,
 78,Orbs,310,1276,7116,an ,
 78,Orbs,311,1280,7120,some ,
-78,Orbs,312,1284,7126,ominous orb,
-78,Orbs,313,1288,7138,ominous orb,
-78,Orbs,314,1292,7150,An orb that will curse the wearer to an unenviable fate.,
-78,Orbs,315,1296,7207,ominous orbs,
+78,Orbs,312,1284,7126,ominous orb,ลูกแก้วลางร้าย
+78,Orbs,313,1288,7138,ominous orb,ลูกแก้วลางร้าย
+78,Orbs,314,1292,7150,An orb that will curse the wearer to an unenviable fate.,ลูกแก้วที่จะสาปผู้สวมใส่ให้ต้องเผชิญกับชะตากรรมอันน่าสังเวช
+78,Orbs,315,1296,7207,ominous orbs,ลูกแก้วลางร้าย
 78,Orbs,316,1300,7220,the ,
 78,Orbs,317,1304,7225,the ,
 78,Orbs,318,1308,7230,an ,
 78,Orbs,319,1312,7234,some ,
-78,Orbs,320,1316,7240,ill-omened orb,
-78,Orbs,321,1320,7255,ill-omened orb,
-78,Orbs,322,1324,7270,An orb that will curse the wearer to an ugly fate.,
-78,Orbs,323,1328,7321,ill-omened orbs,
+78,Orbs,320,1316,7240,ill-omened orb,ลูกแก้วอัปมงคล
+78,Orbs,321,1320,7255,ill-omened orb,ลูกแก้วอัปมงคล
+78,Orbs,322,1324,7270,An orb that will curse the wearer to an ugly fate.,ลูกแก้วที่จะสาปผู้สวมใส่ให้ต้องเผชิญกับชะตากรรมอันเลวร้าย
+78,Orbs,323,1328,7321,ill-omened orbs,ลูกแก้วอัปมงคล
 78,Orbs,324,1332,7337,the ,
 78,Orbs,325,1336,7342,the ,
 78,Orbs,326,1340,7347,an ,

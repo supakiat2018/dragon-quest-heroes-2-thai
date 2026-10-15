@@ -1,424 +1,424 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-253,Monster_Medals,0,36,2836,sand sniper,
-253,Monster_Medals,1,40,2848,sand snipers,
+253,Monster_Medals,0,36,2836,sand sniper,สไนเปอร์ทะเลทราย
+253,Monster_Medals,1,40,2848,sand snipers,สไนเปอร์ทะเลทราย
 253,Monster_Medals,2,44,2861,the ,
 253,Monster_Medals,3,48,2866,the ,
 253,Monster_Medals,4,52,2871,a ,
 253,Monster_Medals,5,56,2874,some ,
-253,Monster_Medals,6,60,2880,Sand Sniper,
-253,Monster_Medals,7,64,2892,Hood A,
-253,Monster_Medals,8,68,2899,Hood As,
+253,Monster_Medals,6,60,2880,Sand Sniper,สไนเปอร์ทะเลทราย
+253,Monster_Medals,7,64,2892,Hood A,จอมโจรมีฮู้ด A
+253,Monster_Medals,8,68,2899,Hood As,จอมโจรมีฮู้ด A
 253,Monster_Medals,9,72,2907,,
 253,Monster_Medals,10,76,2908,the ,
 253,Monster_Medals,11,80,2913,,
 253,Monster_Medals,12,84,2914,some ,
-253,Monster_Medals,13,88,2920,Hood A,
-253,Monster_Medals,14,92,2927,Hood B,
-253,Monster_Medals,15,96,2934,Hood Bs,
+253,Monster_Medals,13,88,2920,Hood A,จอมโจรมีฮู้ด A
+253,Monster_Medals,14,92,2927,Hood B,จอมโจรมีฮู้ด B
+253,Monster_Medals,15,96,2934,Hood Bs,จอมโจรมีฮู้ด B
 253,Monster_Medals,16,100,2942,,
 253,Monster_Medals,17,104,2943,the ,
 253,Monster_Medals,18,108,2948,,
 253,Monster_Medals,19,112,2949,some ,
-253,Monster_Medals,20,116,2955,Hood B,
-253,Monster_Medals,21,120,2962,Hood C,
-253,Monster_Medals,22,124,2969,Hood Cs,
+253,Monster_Medals,20,116,2955,Hood B,จอมโจรมีฮู้ด B
+253,Monster_Medals,21,120,2962,Hood C,จอมโจรมีฮู้ด C
+253,Monster_Medals,22,124,2969,Hood Cs,จอมโจรมีฮู้ด C
 253,Monster_Medals,23,128,2977,,
 253,Monster_Medals,24,132,2978,the ,
 253,Monster_Medals,25,136,2983,,
 253,Monster_Medals,26,140,2984,some ,
-253,Monster_Medals,27,144,2990,Hood C,
-253,Monster_Medals,28,148,2997,Hood D,
-253,Monster_Medals,29,152,3004,Hood Ds,
+253,Monster_Medals,27,144,2990,Hood C,จอมโจรมีฮู้ด C
+253,Monster_Medals,28,148,2997,Hood D,จอมโจรมีฮู้ด D
+253,Monster_Medals,29,152,3004,Hood Ds,จอมโจรมีฮู้ด D
 253,Monster_Medals,30,156,3012,,
 253,Monster_Medals,31,160,3013,the ,
 253,Monster_Medals,32,164,3018,,
 253,Monster_Medals,33,168,3019,some ,
-253,Monster_Medals,34,172,3025,Hood D,
-253,Monster_Medals,35,176,3032,Hood E,
-253,Monster_Medals,36,180,3039,Hood Es,
+253,Monster_Medals,34,172,3025,Hood D,จอมโจรมีฮู้ด D
+253,Monster_Medals,35,176,3032,Hood E,จอมโจรมีฮู้ด E
+253,Monster_Medals,36,180,3039,Hood Es,จอมโจรมีฮู้ด E
 253,Monster_Medals,37,184,3047,,
 253,Monster_Medals,38,188,3048,the ,
 253,Monster_Medals,39,192,3053,,
 253,Monster_Medals,40,196,3054,some ,
-253,Monster_Medals,41,200,3060,Hood E,
-253,Monster_Medals,42,204,3067,Hood F,
-253,Monster_Medals,43,208,3074,Hood Fs,
+253,Monster_Medals,41,200,3060,Hood E,จอมโจรมีฮู้ด E
+253,Monster_Medals,42,204,3067,Hood F,จอมโจรมีฮู้ด F
+253,Monster_Medals,43,208,3074,Hood Fs,จอมโจรมีฮู้ด F
 253,Monster_Medals,44,212,3082,,
 253,Monster_Medals,45,216,3083,the ,
 253,Monster_Medals,46,220,3088,,
 253,Monster_Medals,47,224,3089,some ,
-253,Monster_Medals,48,228,3095,Hood F,
-253,Monster_Medals,49,232,3102,Hood G,
-253,Monster_Medals,50,236,3109,Hood Gs,
+253,Monster_Medals,48,228,3095,Hood F,จอมโจรมีฮู้ด F
+253,Monster_Medals,49,232,3102,Hood G,จอมโจรมีฮู้ด G
+253,Monster_Medals,50,236,3109,Hood Gs,จอมโจรมีฮู้ด G
 253,Monster_Medals,51,240,3117,,
 253,Monster_Medals,52,244,3118,the ,
 253,Monster_Medals,53,248,3123,,
 253,Monster_Medals,54,252,3124,some ,
-253,Monster_Medals,55,256,3130,Hood G,
-253,Monster_Medals,56,260,3137,Hood H,
-253,Monster_Medals,57,264,3144,Hood Hs,
+253,Monster_Medals,55,256,3130,Hood G,จอมโจรมีฮู้ด G
+253,Monster_Medals,56,260,3137,Hood H,จอมโจรมีฮู้ด H
+253,Monster_Medals,57,264,3144,Hood Hs,จอมโจรมีฮู้ด H
 253,Monster_Medals,58,268,3152,,
 253,Monster_Medals,59,272,3153,the ,
 253,Monster_Medals,60,276,3158,,
 253,Monster_Medals,61,280,3159,some ,
-253,Monster_Medals,62,284,3165,Hood H,
-253,Monster_Medals,63,288,3172,Hood I,
-253,Monster_Medals,64,292,3179,Hood Is,
+253,Monster_Medals,62,284,3165,Hood H,จอมโจรมีฮู้ด H
+253,Monster_Medals,63,288,3172,Hood I,จอมโจรมีฮู้ด I
+253,Monster_Medals,64,292,3179,Hood Is,จอมโจรมีฮู้ด I
 253,Monster_Medals,65,296,3187,,
 253,Monster_Medals,66,300,3188,the ,
 253,Monster_Medals,67,304,3193,,
 253,Monster_Medals,68,308,3194,some ,
-253,Monster_Medals,69,312,3200,Hood I,
-253,Monster_Medals,70,316,3207,Hood J,
-253,Monster_Medals,71,320,3214,Hood Js,
+253,Monster_Medals,69,312,3200,Hood I,จอมโจรมีฮู้ด I
+253,Monster_Medals,70,316,3207,Hood J,จอมโจรมีฮู้ด J
+253,Monster_Medals,71,320,3214,Hood Js,จอมโจรมีฮู้ด J
 253,Monster_Medals,72,324,3222,,
 253,Monster_Medals,73,328,3223,the ,
 253,Monster_Medals,74,332,3228,,
 253,Monster_Medals,75,336,3229,some ,
-253,Monster_Medals,76,340,3235,Hood J,
-253,Monster_Medals,77,344,3242,Hood K,
-253,Monster_Medals,78,348,3249,Hood Ks,
+253,Monster_Medals,76,340,3235,Hood J,จอมโจรมีฮู้ด J
+253,Monster_Medals,77,344,3242,Hood K,จอมโจรมีฮู้ด K
+253,Monster_Medals,78,348,3249,Hood Ks,จอมโจรมีฮู้ด K
 253,Monster_Medals,79,352,3257,,
 253,Monster_Medals,80,356,3258,the ,
 253,Monster_Medals,81,360,3263,,
 253,Monster_Medals,82,364,3264,some ,
-253,Monster_Medals,83,368,3270,Hood K,
-253,Monster_Medals,84,372,3277,Hood L,
-253,Monster_Medals,85,376,3284,Hood Ls,
+253,Monster_Medals,83,368,3270,Hood K,จอมโจรมีฮู้ด K
+253,Monster_Medals,84,372,3277,Hood L,จอมโจรมีฮู้ด L
+253,Monster_Medals,85,376,3284,Hood Ls,จอมโจรมีฮู้ด L
 253,Monster_Medals,86,380,3292,,
 253,Monster_Medals,87,384,3293,the ,
 253,Monster_Medals,88,388,3298,,
 253,Monster_Medals,89,392,3299,some ,
-253,Monster_Medals,90,396,3305,Hood L,
-253,Monster_Medals,91,400,3312,barrier guardian,
-253,Monster_Medals,92,404,3329,barrier guardians,
+253,Monster_Medals,90,396,3305,Hood L,จอมโจรมีฮู้ด L
+253,Monster_Medals,91,400,3312,barrier guardian,ผู้พิทักษ์ม่านพลัง
+253,Monster_Medals,92,404,3329,barrier guardians,ผู้พิทักษ์ม่านพลัง
 253,Monster_Medals,93,408,3347,the ,
 253,Monster_Medals,94,412,3352,the ,
 253,Monster_Medals,95,416,3357,a ,
 253,Monster_Medals,96,420,3360,some ,
-253,Monster_Medals,97,424,3366,Barrier Guardian,
-253,Monster_Medals,98,428,3383,watchman o' war,
-253,Monster_Medals,99,432,3399,watchmen o' war,
+253,Monster_Medals,97,424,3366,Barrier Guardian,ผู้พิทักษ์ม่านพลัง
+253,Monster_Medals,98,428,3383,watchman o' war,แมงกะพรุนยามศึก
+253,Monster_Medals,99,432,3399,watchmen o' war,แมงกะพรุนยามศึก
 253,Monster_Medals,100,436,3415,the ,
 253,Monster_Medals,101,440,3420,the ,
 253,Monster_Medals,102,444,3425,a ,
 253,Monster_Medals,103,448,3428,some ,
-253,Monster_Medals,104,452,3434,Watchman o' War,
-253,Monster_Medals,105,456,3450,messenger,
-253,Monster_Medals,106,460,3460,messengers,
+253,Monster_Medals,104,452,3434,Watchman o' War,แมงกะพรุนยามศึก
+253,Monster_Medals,105,456,3450,messenger,ผู้ส่งสาร
+253,Monster_Medals,106,460,3460,messengers,ผู้ส่งสาร
 253,Monster_Medals,107,464,3471,the ,
 253,Monster_Medals,108,468,3476,the ,
 253,Monster_Medals,109,472,3481,a ,
 253,Monster_Medals,110,476,3484,some ,
-253,Monster_Medals,111,480,3490,Messenger,
-253,Monster_Medals,112,484,3500,King of Harba,
-253,Monster_Medals,113,488,3514,Kings of Harba,
+253,Monster_Medals,111,480,3490,Messenger,ผู้ส่งสาร
+253,Monster_Medals,112,484,3500,King of Harba,กษัตริย์แห่งฮาร์บา
+253,Monster_Medals,113,488,3514,Kings of Harba,กษัตริย์แห่งฮาร์บา
 253,Monster_Medals,114,492,3529,the ,
 253,Monster_Medals,115,496,3534,the ,
 253,Monster_Medals,116,500,3539,the ,
 253,Monster_Medals,117,504,3544,some ,
-253,Monster_Medals,118,508,3550,King of Harba,
-253,Monster_Medals,119,512,3564,Queen of Ingenia,
-253,Monster_Medals,120,516,3581,Queens of Ingenia,
+253,Monster_Medals,118,508,3550,King of Harba,กษัตริย์แห่งฮาร์บา
+253,Monster_Medals,119,512,3564,Queen of Ingenia,ราชินีแห่งอินเกเนีย
+253,Monster_Medals,120,516,3581,Queens of Ingenia,ราชินีแห่งอินเกเนีย
 253,Monster_Medals,121,520,3599,the ,
 253,Monster_Medals,122,524,3604,the ,
 253,Monster_Medals,123,528,3609,the ,
 253,Monster_Medals,124,532,3614,some ,
-253,Monster_Medals,125,536,3620,Queen of Ingenia,
-253,Monster_Medals,126,540,3637,Field Marshal Donk,
-253,Monster_Medals,127,544,3656,Field Marshal Donks,
+253,Monster_Medals,125,536,3620,Queen of Ingenia,ราชินีแห่งอินเกเนีย
+253,Monster_Medals,126,540,3637,Field Marshal Donk,จอมพล ดองค์
+253,Monster_Medals,127,544,3656,Field Marshal Donks,จอมพล ดองค์
 253,Monster_Medals,128,548,3676,,
 253,Monster_Medals,129,552,3677,the ,
 253,Monster_Medals,130,556,3682,,
 253,Monster_Medals,131,560,3683,some ,
-253,Monster_Medals,132,564,3689,Field Marshal Donk,
-253,Monster_Medals,133,568,3708,Samson Knight,
-253,Monster_Medals,134,572,3722,Samson Knights,
+253,Monster_Medals,132,564,3689,Field Marshal Donk,จอมพล ดองค์
+253,Monster_Medals,133,568,3708,Samson Knight,อัศวินแซมสัน
+253,Monster_Medals,134,572,3722,Samson Knights,อัศวินแซมสัน
 253,Monster_Medals,135,576,3737,,
 253,Monster_Medals,136,580,3738,the ,
 253,Monster_Medals,137,584,3743,,
 253,Monster_Medals,138,588,3744,some ,
-253,Monster_Medals,139,592,3750,Samson Knight,
-253,Monster_Medals,140,596,3764,mischievous magus,
-253,Monster_Medals,141,600,3782,mischievous magi,
+253,Monster_Medals,139,592,3750,Samson Knight,อัศวินแซมสัน
+253,Monster_Medals,140,596,3764,mischievous magus,เมกัสจอมซน
+253,Monster_Medals,141,600,3782,mischievous magi,เมกัสจอมซน
 253,Monster_Medals,142,604,3799,the ,
 253,Monster_Medals,143,608,3804,the ,
 253,Monster_Medals,144,612,3809,a ,
 253,Monster_Medals,145,616,3812,some ,
-253,Monster_Medals,146,620,3818,Mischievous Magus,
-253,Monster_Medals,147,624,3836,roguish ruffian,
-253,Monster_Medals,148,628,3852,roguish ruffians,
+253,Monster_Medals,146,620,3818,Mischievous Magus,เมกัสจอมซน
+253,Monster_Medals,147,624,3836,roguish ruffian,อันธพาลจอมกวน
+253,Monster_Medals,148,628,3852,roguish ruffians,อันธพาลจอมกวน
 253,Monster_Medals,149,632,3869,the ,
 253,Monster_Medals,150,636,3874,the ,
 253,Monster_Medals,151,640,3879,a ,
 253,Monster_Medals,152,644,3882,some ,
-253,Monster_Medals,153,648,3888,Roguish Ruffian,
-253,Monster_Medals,154,652,3904,impish imp,
-253,Monster_Medals,155,656,3915,impish imps,
+253,Monster_Medals,153,648,3888,Roguish Ruffian,อันธพาลจอมกวน
+253,Monster_Medals,154,652,3904,impish imp,อิมป์จอมซน
+253,Monster_Medals,155,656,3915,impish imps,อิมป์จอมซน
 253,Monster_Medals,156,660,3927,the ,
 253,Monster_Medals,157,664,3932,the ,
 253,Monster_Medals,158,668,3937,an ,
 253,Monster_Medals,159,672,3941,some ,
-253,Monster_Medals,160,676,3947,Impish Imp,
-253,Monster_Medals,161,680,3958,badly behaved bodkin,
-253,Monster_Medals,162,684,3979,badly behaved bodkins,
+253,Monster_Medals,160,676,3947,Impish Imp,อิมป์จอมซน
+253,Monster_Medals,161,680,3958,badly behaved bodkin,บ็อดกินจอมเกเร
+253,Monster_Medals,162,684,3979,badly behaved bodkins,บ็อดกินจอมเกเร
 253,Monster_Medals,163,688,4001,the ,
 253,Monster_Medals,164,692,4006,the ,
 253,Monster_Medals,165,696,4011,a ,
 253,Monster_Medals,166,700,4014,some ,
-253,Monster_Medals,167,704,4020,Badly Behaved Bodkin,
-253,Monster_Medals,168,708,4041,merry minnow,
-253,Monster_Medals,169,712,4054,merry minnows,
+253,Monster_Medals,167,704,4020,Badly Behaved Bodkin,บ็อดกินจอมเกเร
+253,Monster_Medals,168,708,4041,merry minnow,ปลาซิวผู้เริงร่า
+253,Monster_Medals,169,712,4054,merry minnows,ปลาซิวผู้เริงร่า
 253,Monster_Medals,170,716,4068,the ,
 253,Monster_Medals,171,720,4073,the ,
 253,Monster_Medals,172,724,4078,a ,
 253,Monster_Medals,173,728,4081,some ,
-253,Monster_Medals,174,732,4087,Merry Minnow,
-253,Monster_Medals,175,736,4100,merry mugger,
-253,Monster_Medals,176,740,4113,merry muggers,
+253,Monster_Medals,174,732,4087,Merry Minnow,ปลาซิวผู้เริงร่า
+253,Monster_Medals,175,736,4100,merry mugger,จอมจี้ชิงทรัพย์ผู้เริงร่า
+253,Monster_Medals,176,740,4113,merry muggers,จอมจี้ชิงทรัพย์ผู้เริงร่า
 253,Monster_Medals,177,744,4127,the ,
 253,Monster_Medals,178,748,4132,the ,
 253,Monster_Medals,179,752,4137,a ,
 253,Monster_Medals,180,756,4140,some ,
-253,Monster_Medals,181,760,4146,Merry Mugger,
-253,Monster_Medals,182,764,4159,merry mobster,
-253,Monster_Medals,183,768,4173,merry mobsters,
+253,Monster_Medals,181,760,4146,Merry Mugger,จอมจี้ชิงทรัพย์ผู้เริงร่า
+253,Monster_Medals,182,764,4159,merry mobster,นักเลงผู้เริงร่า
+253,Monster_Medals,183,768,4173,merry mobsters,นักเลงผู้เริงร่า
 253,Monster_Medals,184,772,4188,the ,
 253,Monster_Medals,185,776,4193,the ,
 253,Monster_Medals,186,780,4198,a ,
 253,Monster_Medals,187,784,4201,some ,
-253,Monster_Medals,188,788,4207,Merry Mobster,
-253,Monster_Medals,189,792,4221,merry master-thief,
-253,Monster_Medals,190,796,4240,merry master-thieves,
+253,Monster_Medals,188,788,4207,Merry Mobster,นักเลงผู้เริงร่า
+253,Monster_Medals,189,792,4221,merry master-thief,จอมโจรผู้เริงร่า
+253,Monster_Medals,190,796,4240,merry master-thieves,จอมโจรผู้เริงร่า
 253,Monster_Medals,191,800,4261,the ,
 253,Monster_Medals,192,804,4266,the ,
 253,Monster_Medals,193,808,4271,a ,
 253,Monster_Medals,194,812,4274,some ,
-253,Monster_Medals,195,816,4280,Merry Master-Thief,
-253,Monster_Medals,196,820,4299,hacksaurus,
-253,Monster_Medals,197,824,4310,hacksauruses,
+253,Monster_Medals,195,816,4280,Merry Master-Thief,จอมโจรผู้เริงร่า
+253,Monster_Medals,196,820,4299,hacksaurus,แฮ็กซอรัส
+253,Monster_Medals,197,824,4310,hacksauruses,แฮ็กซอรัส
 253,Monster_Medals,198,828,4323,the ,
 253,Monster_Medals,199,832,4328,the ,
 253,Monster_Medals,200,836,4333,a ,
 253,Monster_Medals,201,840,4336,some ,
-253,Monster_Medals,202,844,4342,Hacksaurus,
-253,Monster_Medals,203,848,4353,slime,
-253,Monster_Medals,204,852,4359,slimes,
+253,Monster_Medals,202,844,4342,Hacksaurus,แฮ็กซอรัส
+253,Monster_Medals,203,848,4353,slime,สไลม์
+253,Monster_Medals,204,852,4359,slimes,สไลม์
 253,Monster_Medals,205,856,4366,the ,
 253,Monster_Medals,206,860,4371,the ,
 253,Monster_Medals,207,864,4376,a ,
 253,Monster_Medals,208,868,4379,some ,
-253,Monster_Medals,209,872,4385,Slime,
-253,Monster_Medals,210,876,4391,imp,
-253,Monster_Medals,211,880,4395,imps,
+253,Monster_Medals,209,872,4385,Slime,สไลม์
+253,Monster_Medals,210,876,4391,imp,อิมป์
+253,Monster_Medals,211,880,4395,imps,อิมป์
 253,Monster_Medals,212,884,4400,the ,
 253,Monster_Medals,213,888,4405,the ,
 253,Monster_Medals,214,892,4410,an ,
 253,Monster_Medals,215,896,4414,some ,
-253,Monster_Medals,216,900,4420,Imp,
-253,Monster_Medals,217,904,4424,bodkin fletcher,
-253,Monster_Medals,218,908,4440,bodkin fletchers,
+253,Monster_Medals,216,900,4420,Imp,อิมป์
+253,Monster_Medals,217,904,4424,bodkin fletcher,บ็อดกินเฟลตเชอร์
+253,Monster_Medals,218,908,4440,bodkin fletchers,บ็อดกินเฟลตเชอร์
 253,Monster_Medals,219,912,4457,the ,
 253,Monster_Medals,220,916,4462,the ,
 253,Monster_Medals,221,920,4467,a ,
 253,Monster_Medals,222,924,4470,some ,
-253,Monster_Medals,223,928,4476,Bodkin Fletcher,
-253,Monster_Medals,224,932,4492,glade invader,
-253,Monster_Medals,225,936,4506,glade invaders,
+253,Monster_Medals,223,928,4476,Bodkin Fletcher,บ็อดกินเฟลตเชอร์
+253,Monster_Medals,224,932,4492,glade invader,ผู้รุกรานพงไพร
+253,Monster_Medals,225,936,4506,glade invaders,ผู้รุกรานพงไพร
 253,Monster_Medals,226,940,4521,the ,
 253,Monster_Medals,227,944,4526,the ,
 253,Monster_Medals,228,948,4531,a ,
 253,Monster_Medals,229,952,4534,some ,
-253,Monster_Medals,230,956,4540,Glade Invader,
-253,Monster_Medals,231,960,4554,Major Domo,
-253,Monster_Medals,232,964,4565,Major Domos,
+253,Monster_Medals,230,956,4540,Glade Invader,ผู้รุกรานพงไพร
+253,Monster_Medals,231,960,4554,Major Domo,พ่อบ้านเมเจอร์โดโม
+253,Monster_Medals,232,964,4565,Major Domos,พ่อบ้านเมเจอร์โดโม
 253,Monster_Medals,233,968,4577,,
 253,Monster_Medals,234,972,4578,the ,
 253,Monster_Medals,235,976,4583,,
 253,Monster_Medals,236,980,4584,some ,
-253,Monster_Medals,237,984,4590,Major Domo,
-253,Monster_Medals,238,988,4601,Tombinator A,
-253,Monster_Medals,239,992,4614,Tombinator As,
+253,Monster_Medals,237,984,4590,Major Domo,พ่อบ้านเมเจอร์โดโม
+253,Monster_Medals,238,988,4601,Tombinator A,ทอมบิเนเตอร์ A
+253,Monster_Medals,239,992,4614,Tombinator As,ทอมบิเนเตอร์ A
 253,Monster_Medals,240,996,4628,,
 253,Monster_Medals,241,1000,4629,the ,
 253,Monster_Medals,242,1004,4634,,
 253,Monster_Medals,243,1008,4635,some ,
-253,Monster_Medals,244,1012,4641,Tombinator A,
-253,Monster_Medals,245,1016,4654,Tombinator B,
-253,Monster_Medals,246,1020,4667,Tombinator Bs,
+253,Monster_Medals,244,1012,4641,Tombinator A,ทอมบิเนเตอร์ A
+253,Monster_Medals,245,1016,4654,Tombinator B,ทอมบิเนเตอร์ B
+253,Monster_Medals,246,1020,4667,Tombinator Bs,ทอมบิเนเตอร์ B
 253,Monster_Medals,247,1024,4681,,
 253,Monster_Medals,248,1028,4682,the ,
 253,Monster_Medals,249,1032,4687,,
 253,Monster_Medals,250,1036,4688,some ,
-253,Monster_Medals,251,1040,4694,Tombinator B,
-253,Monster_Medals,252,1044,4707,Dynamic Duo,
-253,Monster_Medals,253,1048,4719,Dynamic Duos,
+253,Monster_Medals,251,1040,4694,Tombinator B,ทอมบิเนเตอร์ B
+253,Monster_Medals,252,1044,4707,Dynamic Duo,คู่หูพลังเทอร์โบ
+253,Monster_Medals,253,1048,4719,Dynamic Duos,คู่หูพลังเทอร์โบ
 253,Monster_Medals,254,1052,4732,the ,
 253,Monster_Medals,255,1056,4737,the ,
 253,Monster_Medals,256,1060,4742,the ,
 253,Monster_Medals,257,1064,4747,some ,
-253,Monster_Medals,258,1068,4753,Dynamic Duo,
-253,Monster_Medals,259,1072,4765,Kadavan commander,
-253,Monster_Medals,260,1076,4783,Kadavan commanders,
+253,Monster_Medals,258,1068,4753,Dynamic Duo,คู่หูพลังเทอร์โบ
+253,Monster_Medals,259,1072,4765,Kadavan commander,ผู้บัญชาการคาดาวา
+253,Monster_Medals,260,1076,4783,Kadavan commanders,ผู้บัญชาการคาดาวา
 253,Monster_Medals,261,1080,4802,the ,
 253,Monster_Medals,262,1084,4807,the ,
 253,Monster_Medals,263,1088,4812,the ,
 253,Monster_Medals,264,1092,4817,some ,
-253,Monster_Medals,265,1096,4823,Kadavan Commander,
-253,Monster_Medals,266,1100,4841,Major Arcana,
-253,Monster_Medals,267,1104,4854,Major Arcanas,
+253,Monster_Medals,265,1096,4823,Kadavan Commander,ผู้บัญชาการคาดาวา
+253,Monster_Medals,266,1100,4841,Major Arcana,อาร์คานาผู้ยิ่งใหญ่
+253,Monster_Medals,267,1104,4854,Major Arcanas,อาร์คานาผู้ยิ่งใหญ่
 253,Monster_Medals,268,1108,4868,,
 253,Monster_Medals,269,1112,4869,the ,
 253,Monster_Medals,270,1116,4874,,
 253,Monster_Medals,271,1120,4875,some ,
-253,Monster_Medals,272,1124,4881,Major Arcana,
-253,Monster_Medals,273,1128,4894,NOT USED,
-253,Monster_Medals,274,1132,4903,NOT USED,
+253,Monster_Medals,272,1124,4881,Major Arcana,อาร์คานาผู้ยิ่งใหญ่
+253,Monster_Medals,273,1128,4894,NOT USED,ไม่ได้ใช้งาน
+253,Monster_Medals,274,1132,4903,NOT USED,ไม่ได้ใช้งาน
 253,Monster_Medals,275,1136,4912,the ,
 253,Monster_Medals,276,1140,4917,the ,
 253,Monster_Medals,277,1144,4922,a ,
 253,Monster_Medals,278,1148,4925,some ,
-253,Monster_Medals,279,1152,4931,NOT USED,
-253,Monster_Medals,280,1156,4940,Kings of Accordia,
-253,Monster_Medals,281,1160,4958,Kings of Accordia,
+253,Monster_Medals,279,1152,4931,NOT USED,ไม่ได้ใช้งาน
+253,Monster_Medals,280,1156,4940,Kings of Accordia,กษัตริย์แห่งออร์คาเนีย
+253,Monster_Medals,281,1160,4958,Kings of Accordia,กษัตริย์แห่งออร์คาเนีย
 253,Monster_Medals,282,1164,4976,the ,
 253,Monster_Medals,283,1168,4981,the ,
 253,Monster_Medals,284,1172,4986,the ,
 253,Monster_Medals,285,1176,4991,some ,
-253,Monster_Medals,286,1180,4997,Kings of Accordia,
-253,Monster_Medals,287,1184,5015,Harban Soldier A,
-253,Monster_Medals,288,1188,5032,Harban Soldier As,
+253,Monster_Medals,286,1180,4997,Kings of Accordia,กษัตริย์แห่งออร์คาเนีย
+253,Monster_Medals,287,1184,5015,Harban Soldier A,ทหารฮาร์บา A
+253,Monster_Medals,288,1188,5032,Harban Soldier As,ทหารฮาร์บา A
 253,Monster_Medals,289,1192,5050,,
 253,Monster_Medals,290,1196,5051,the ,
 253,Monster_Medals,291,1200,5056,,
 253,Monster_Medals,292,1204,5057,some ,
-253,Monster_Medals,293,1208,5063,Harban Soldier A,
-253,Monster_Medals,294,1212,5080,Harban Soldier B,
-253,Monster_Medals,295,1216,5097,Harban Soldier Bs,
+253,Monster_Medals,293,1208,5063,Harban Soldier A,ทหารฮาร์บา A
+253,Monster_Medals,294,1212,5080,Harban Soldier B,ทหารฮาร์บา B
+253,Monster_Medals,295,1216,5097,Harban Soldier Bs,ทหารฮาร์บา B
 253,Monster_Medals,296,1220,5115,,
 253,Monster_Medals,297,1224,5116,the ,
 253,Monster_Medals,298,1228,5121,,
 253,Monster_Medals,299,1232,5122,some ,
-253,Monster_Medals,300,1236,5128,Harban Soldier B,
-253,Monster_Medals,301,1240,5145,Harban Soldier C,
-253,Monster_Medals,302,1244,5162,Harban Soldier Cs,
+253,Monster_Medals,300,1236,5128,Harban Soldier B,ทหารฮาร์บา B
+253,Monster_Medals,301,1240,5145,Harban Soldier C,ทหารฮาร์บา C
+253,Monster_Medals,302,1244,5162,Harban Soldier Cs,ทหารฮาร์บา C
 253,Monster_Medals,303,1248,5180,,
 253,Monster_Medals,304,1252,5181,the ,
 253,Monster_Medals,305,1256,5186,,
 253,Monster_Medals,306,1260,5187,some ,
-253,Monster_Medals,307,1264,5193,Harban Soldier C,
-253,Monster_Medals,308,1268,5210,Harban Soldier D,
-253,Monster_Medals,309,1272,5227,Harban Soldier Ds,
+253,Monster_Medals,307,1264,5193,Harban Soldier C,ทหารฮาร์บา C
+253,Monster_Medals,308,1268,5210,Harban Soldier D,ทหารฮาร์บา D
+253,Monster_Medals,309,1272,5227,Harban Soldier Ds,ทหารฮาร์บา D
 253,Monster_Medals,310,1276,5245,,
 253,Monster_Medals,311,1280,5246,the ,
 253,Monster_Medals,312,1284,5251,,
 253,Monster_Medals,313,1288,5252,some ,
-253,Monster_Medals,314,1292,5258,Harban Soldier D,
-253,Monster_Medals,315,1296,5275,Harban Soldier E,
-253,Monster_Medals,316,1300,5292,Harban Soldier Es,
+253,Monster_Medals,314,1292,5258,Harban Soldier D,ทหารฮาร์บา D
+253,Monster_Medals,315,1296,5275,Harban Soldier E,ทหารฮาร์บา E
+253,Monster_Medals,316,1300,5292,Harban Soldier Es,ทหารฮาร์บา E
 253,Monster_Medals,317,1304,5310,,
 253,Monster_Medals,318,1308,5311,the ,
 253,Monster_Medals,319,1312,5316,,
 253,Monster_Medals,320,1316,5317,some ,
-253,Monster_Medals,321,1320,5323,Harban Soldier E,
-253,Monster_Medals,322,1324,5340,moustachioed merchant,
-253,Monster_Medals,323,1328,5362,moustachioed merchants,
+253,Monster_Medals,321,1320,5323,Harban Soldier E,ทหารฮาร์บา E
+253,Monster_Medals,322,1324,5340,moustachioed merchant,พ่อค้าไว้หนวด
+253,Monster_Medals,323,1328,5362,moustachioed merchants,พ่อค้าไว้หนวด
 253,Monster_Medals,324,1332,5385,the ,
 253,Monster_Medals,325,1336,5390,the ,
 253,Monster_Medals,326,1340,5395,a ,
 253,Monster_Medals,327,1344,5398,some ,
-253,Monster_Medals,328,1348,5404,Moustachioed Merchant,
-253,Monster_Medals,329,1352,5426,dungeon master,
-253,Monster_Medals,330,1356,5441,dungeon masters,
+253,Monster_Medals,328,1348,5404,Moustachioed Merchant,พ่อค้าไว้หนวด
+253,Monster_Medals,329,1352,5426,dungeon master,ผู้คุมดันเจียน
+253,Monster_Medals,330,1356,5441,dungeon masters,ผู้คุมดันเจียน
 253,Monster_Medals,331,1360,5457,the ,
 253,Monster_Medals,332,1364,5462,the ,
 253,Monster_Medals,333,1368,5467,a ,
 253,Monster_Medals,334,1372,5470,some ,
-253,Monster_Medals,335,1376,5476,Dungeon Master,
-253,Monster_Medals,336,1380,5491,dungeon masher,
-253,Monster_Medals,337,1384,5506,dungeon mashers,
+253,Monster_Medals,335,1376,5476,Dungeon Master,ผู้คุมดันเจียน
+253,Monster_Medals,336,1380,5491,dungeon masher,จอมทุบดันเจียน
+253,Monster_Medals,337,1384,5506,dungeon mashers,จอมทุบดันเจียน
 253,Monster_Medals,338,1388,5522,the ,
 253,Monster_Medals,339,1392,5527,the ,
 253,Monster_Medals,340,1396,5532,a ,
 253,Monster_Medals,341,1400,5535,some ,
-253,Monster_Medals,342,1404,5541,Dungeon Masher,
-253,Monster_Medals,343,1408,5556,King of Al-Khazam,
-253,Monster_Medals,344,1412,5574,Kings of Al-Khazam,
+253,Monster_Medals,342,1404,5541,Dungeon Masher,จอมทุบดันเจียน
+253,Monster_Medals,343,1408,5556,King of Al-Khazam,กษัตริย์แห่งอัลคาซัม
+253,Monster_Medals,344,1412,5574,Kings of Al-Khazam,กษัตริย์แห่งอัลคาซัม
 253,Monster_Medals,345,1416,5593,the ,
 253,Monster_Medals,346,1420,5598,the ,
 253,Monster_Medals,347,1424,5603,the ,
 253,Monster_Medals,348,1428,5608,some ,
-253,Monster_Medals,349,1432,5614,King of Al-Khazam,
-253,Monster_Medals,350,1436,5632,Dungeon Master A,
-253,Monster_Medals,351,1440,5649,Dungeon Master As,
+253,Monster_Medals,349,1432,5614,King of Al-Khazam,กษัตริย์แห่งอัลคาซัม
+253,Monster_Medals,350,1436,5632,Dungeon Master A,ผู้คุมดันเจียน A
+253,Monster_Medals,351,1440,5649,Dungeon Master As,ผู้คุมดันเจียน A
 253,Monster_Medals,352,1444,5667,,
 253,Monster_Medals,353,1448,5668,the ,
 253,Monster_Medals,354,1452,5673,,
 253,Monster_Medals,355,1456,5674,some ,
-253,Monster_Medals,356,1460,5680,Dungeon Master A,
-253,Monster_Medals,357,1464,5697,Dungeon Master B,
-253,Monster_Medals,358,1468,5714,Dungeon Master Bs,
+253,Monster_Medals,356,1460,5680,Dungeon Master A,ผู้คุมดันเจียน A
+253,Monster_Medals,357,1464,5697,Dungeon Master B,ผู้คุมดันเจียน B
+253,Monster_Medals,358,1468,5714,Dungeon Master Bs,ผู้คุมดันเจียน B
 253,Monster_Medals,359,1472,5732,,
 253,Monster_Medals,360,1476,5733,the ,
 253,Monster_Medals,361,1480,5738,,
 253,Monster_Medals,362,1484,5739,some ,
-253,Monster_Medals,363,1488,5745,Dungeon Master B,
-253,Monster_Medals,364,1492,5762,Dungeon Master C,
-253,Monster_Medals,365,1496,5779,Dungeon Master Cs,
+253,Monster_Medals,363,1488,5745,Dungeon Master B,ผู้คุมดันเจียน B
+253,Monster_Medals,364,1492,5762,Dungeon Master C,ผู้คุมดันเจียน C
+253,Monster_Medals,365,1496,5779,Dungeon Master Cs,ผู้คุมดันเจียน C
 253,Monster_Medals,366,1500,5797,,
 253,Monster_Medals,367,1504,5798,the ,
 253,Monster_Medals,368,1508,5803,,
 253,Monster_Medals,369,1512,5804,some ,
-253,Monster_Medals,370,1516,5810,Dungeon Master C,
-253,Monster_Medals,371,1520,5827,Dungeon Master D,
-253,Monster_Medals,372,1524,5844,Dungeon Master Ds,
+253,Monster_Medals,370,1516,5810,Dungeon Master C,ผู้คุมดันเจียน C
+253,Monster_Medals,371,1520,5827,Dungeon Master D,ผู้คุมดันเจียน D
+253,Monster_Medals,372,1524,5844,Dungeon Master Ds,ผู้คุมดันเจียน D
 253,Monster_Medals,373,1528,5862,,
 253,Monster_Medals,374,1532,5863,the ,
 253,Monster_Medals,375,1536,5868,,
 253,Monster_Medals,376,1540,5869,some ,
-253,Monster_Medals,377,1544,5875,Dungeon Master D,
-253,Monster_Medals,378,1548,5892,Dungeon Master E,
-253,Monster_Medals,379,1552,5909,Dungeon Master Es,
+253,Monster_Medals,377,1544,5875,Dungeon Master D,ผู้คุมดันเจียน D
+253,Monster_Medals,378,1548,5892,Dungeon Master E,ผู้คุมดันเจียน E
+253,Monster_Medals,379,1552,5909,Dungeon Master Es,ผู้คุมดันเจียน E
 253,Monster_Medals,380,1556,5927,,
 253,Monster_Medals,381,1560,5928,the ,
 253,Monster_Medals,382,1564,5933,,
 253,Monster_Medals,383,1568,5934,some ,
-253,Monster_Medals,384,1572,5940,Dungeon Master E,
-253,Monster_Medals,385,1576,5957,Dungeon Master F,
-253,Monster_Medals,386,1580,5974,Dungeon Master Fs,
+253,Monster_Medals,384,1572,5940,Dungeon Master E,ผู้คุมดันเจียน E
+253,Monster_Medals,385,1576,5957,Dungeon Master F,ผู้คุมดันเจียน F
+253,Monster_Medals,386,1580,5974,Dungeon Master Fs,ผู้คุมดันเจียน F
 253,Monster_Medals,387,1584,5992,,
 253,Monster_Medals,388,1588,5993,the ,
 253,Monster_Medals,389,1592,5998,,
 253,Monster_Medals,390,1596,5999,some ,
-253,Monster_Medals,391,1600,6005,Dungeon Master F,
-253,Monster_Medals,392,1604,6022,Dungeon Master G,
-253,Monster_Medals,393,1608,6039,Dungeon Master Gs,
+253,Monster_Medals,391,1600,6005,Dungeon Master F,ผู้คุมดันเจียน F
+253,Monster_Medals,392,1604,6022,Dungeon Master G,ผู้คุมดันเจียน G
+253,Monster_Medals,393,1608,6039,Dungeon Master Gs,ผู้คุมดันเจียน G
 253,Monster_Medals,394,1612,6057,,
 253,Monster_Medals,395,1616,6058,the ,
 253,Monster_Medals,396,1620,6063,,
 253,Monster_Medals,397,1624,6064,some ,
-253,Monster_Medals,398,1628,6070,Dungeon Master G,
-253,Monster_Medals,399,1632,6087,Dungeon Master H,
-253,Monster_Medals,400,1636,6104,Dungeon Master Hs,
+253,Monster_Medals,398,1628,6070,Dungeon Master G,ผู้คุมดันเจียน G
+253,Monster_Medals,399,1632,6087,Dungeon Master H,ผู้คุมดันเจียน H
+253,Monster_Medals,400,1636,6104,Dungeon Master Hs,ผู้คุมดันเจียน H
 253,Monster_Medals,401,1640,6122,,
 253,Monster_Medals,402,1644,6123,the ,
 253,Monster_Medals,403,1648,6128,,
 253,Monster_Medals,404,1652,6129,some ,
-253,Monster_Medals,405,1656,6135,Dungeon Master H,
-253,Monster_Medals,406,1660,6152,cranked-up Kings of Accordia,
-253,Monster_Medals,407,1664,6181,cranked-up Kings of Accordia,
+253,Monster_Medals,405,1656,6135,Dungeon Master H,ผู้คุมดันเจียน H
+253,Monster_Medals,406,1660,6152,cranked-up Kings of Accordia,กษัตริย์แห่งออร์คาเนียคลุ้มคลั่ง
+253,Monster_Medals,407,1664,6181,cranked-up Kings of Accordia,กษัตริย์แห่งออร์คาเนียคลุ้มคลั่ง
 253,Monster_Medals,408,1668,6210,the ,
 253,Monster_Medals,409,1672,6215,the ,
 253,Monster_Medals,410,1676,6220,the ,
 253,Monster_Medals,411,1680,6225,some ,
-253,Monster_Medals,412,1684,6231,Cranked-Up Kings of Accordia,
-253,Monster_Medals,413,1688,6260,runaway rogue,
-253,Monster_Medals,414,1692,6274,runaway rogues,
+253,Monster_Medals,412,1684,6231,Cranked-Up Kings of Accordia,กษัตริย์แห่งออร์คาเนียคลุ้มคลั่ง
+253,Monster_Medals,413,1688,6260,runaway rogue,จอมโจรหลบหนี
+253,Monster_Medals,414,1692,6274,runaway rogues,จอมโจรหลบหนี
 253,Monster_Medals,415,1696,6289,the ,
 253,Monster_Medals,416,1700,6294,the ,
 253,Monster_Medals,417,1704,6299,a ,
 253,Monster_Medals,418,1708,6302,some ,
-253,Monster_Medals,419,1712,6308,Runaway Rogue,
+253,Monster_Medals,419,1712,6308,Runaway Rogue,จอมโจรหลบหนี
 253,Monster_Medals,420,1716,6322,,
 253,Monster_Medals,421,1720,6323,,
 253,Monster_Medals,422,1724,6324,,
