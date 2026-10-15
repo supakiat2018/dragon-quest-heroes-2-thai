@@ -1,93 +1,93 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
 323,Keyboard_Gamepad_Controls,0,32,1052,,
-323,Keyboard_Gamepad_Controls,1,36,1053,Esc,
-323,Keyboard_Gamepad_Controls,2,40,1057,1,
-323,Keyboard_Gamepad_Controls,3,44,1059,2,
-323,Keyboard_Gamepad_Controls,4,48,1061,3,
-323,Keyboard_Gamepad_Controls,5,52,1063,4,
-323,Keyboard_Gamepad_Controls,6,56,1065,5,
-323,Keyboard_Gamepad_Controls,7,60,1067,6,
-323,Keyboard_Gamepad_Controls,8,64,1069,7,
-323,Keyboard_Gamepad_Controls,9,68,1071,8,
-323,Keyboard_Gamepad_Controls,10,72,1073,9,
-323,Keyboard_Gamepad_Controls,11,76,1075,0,
-323,Keyboard_Gamepad_Controls,12,80,1077,-,
-323,Keyboard_Gamepad_Controls,13,84,1079,=,
-323,Keyboard_Gamepad_Controls,14,88,1081,Backspace,
-323,Keyboard_Gamepad_Controls,15,92,1091,Tab,
-323,Keyboard_Gamepad_Controls,16,96,1095,Q,
-323,Keyboard_Gamepad_Controls,17,100,1097,W,
-323,Keyboard_Gamepad_Controls,18,104,1099,E,
-323,Keyboard_Gamepad_Controls,19,108,1101,R,
-323,Keyboard_Gamepad_Controls,20,112,1103,T,
-323,Keyboard_Gamepad_Controls,21,116,1105,Y,
-323,Keyboard_Gamepad_Controls,22,120,1107,U,
-323,Keyboard_Gamepad_Controls,23,124,1109,I,
-323,Keyboard_Gamepad_Controls,24,128,1111,O,
-323,Keyboard_Gamepad_Controls,25,132,1113,P,
-323,Keyboard_Gamepad_Controls,26,136,1115,[,
-323,Keyboard_Gamepad_Controls,27,140,1117,],
-323,Keyboard_Gamepad_Controls,28,144,1119,Enter,
-323,Keyboard_Gamepad_Controls,29,148,1125,Left Ctrl,
-323,Keyboard_Gamepad_Controls,30,152,1135,A,
-323,Keyboard_Gamepad_Controls,31,156,1137,S,
-323,Keyboard_Gamepad_Controls,32,160,1139,D,
-323,Keyboard_Gamepad_Controls,33,164,1141,F,
-323,Keyboard_Gamepad_Controls,34,168,1143,G,
-323,Keyboard_Gamepad_Controls,35,172,1145,H,
-323,Keyboard_Gamepad_Controls,36,176,1147,J,
-323,Keyboard_Gamepad_Controls,37,180,1149,K,
-323,Keyboard_Gamepad_Controls,38,184,1151,L,
-323,Keyboard_Gamepad_Controls,39,188,1153,<FJ>,
-323,Keyboard_Gamepad_Controls,40,192,1157,',
-323,Keyboard_Gamepad_Controls,41,196,1159,`,
-323,Keyboard_Gamepad_Controls,42,200,1161,Left Shift,
-323,Keyboard_Gamepad_Controls,43,204,1172,# (UK) / Backslash (US),
-323,Keyboard_Gamepad_Controls,44,208,1196,Z,
-323,Keyboard_Gamepad_Controls,45,212,1198,X,
-323,Keyboard_Gamepad_Controls,46,216,1200,C,
-323,Keyboard_Gamepad_Controls,47,220,1202,V,
-323,Keyboard_Gamepad_Controls,48,224,1204,B,
-323,Keyboard_Gamepad_Controls,49,228,1206,N,
-323,Keyboard_Gamepad_Controls,50,232,1208,M,
-323,Keyboard_Gamepad_Controls,51,236,1210,",",
-323,Keyboard_Gamepad_Controls,52,240,1212,.,
-323,Keyboard_Gamepad_Controls,53,244,1214,Slash,
-323,Keyboard_Gamepad_Controls,54,248,1220,Right Shift,
-323,Keyboard_Gamepad_Controls,55,252,1232,Numpad *,
-323,Keyboard_Gamepad_Controls,56,256,1241,Left Alt,
-323,Keyboard_Gamepad_Controls,57,260,1250,Space,
-323,Keyboard_Gamepad_Controls,58,264,1256,Caps Lock,
-323,Keyboard_Gamepad_Controls,59,268,1266,F1,
-323,Keyboard_Gamepad_Controls,60,272,1269,F2,
-323,Keyboard_Gamepad_Controls,61,276,1272,F3,
-323,Keyboard_Gamepad_Controls,62,280,1275,F4,
-323,Keyboard_Gamepad_Controls,63,284,1278,F5,
-323,Keyboard_Gamepad_Controls,64,288,1281,F6,
-323,Keyboard_Gamepad_Controls,65,292,1284,F7,
-323,Keyboard_Gamepad_Controls,66,296,1287,F8,
-323,Keyboard_Gamepad_Controls,67,300,1290,F9,
-323,Keyboard_Gamepad_Controls,68,304,1293,F10,
-323,Keyboard_Gamepad_Controls,69,308,1297,Num Lock,
-323,Keyboard_Gamepad_Controls,70,312,1306,Scroll Lock,
-323,Keyboard_Gamepad_Controls,71,316,1318,Numpad 7,
-323,Keyboard_Gamepad_Controls,72,320,1327,Numpad 8,
-323,Keyboard_Gamepad_Controls,73,324,1336,Numpad 9,
-323,Keyboard_Gamepad_Controls,74,328,1345,Numpad -,
-323,Keyboard_Gamepad_Controls,75,332,1354,Numpad 4,
-323,Keyboard_Gamepad_Controls,76,336,1363,Numpad 5,
-323,Keyboard_Gamepad_Controls,77,340,1372,Numpad 6,
-323,Keyboard_Gamepad_Controls,78,344,1381,Numpad +,
-323,Keyboard_Gamepad_Controls,79,348,1390,Numpad 1,
-323,Keyboard_Gamepad_Controls,80,352,1399,Numpad 2,
-323,Keyboard_Gamepad_Controls,81,356,1408,Numpad 3,
-323,Keyboard_Gamepad_Controls,82,360,1417,Numpad 0,
-323,Keyboard_Gamepad_Controls,83,364,1426,Numpad .,
+323,Keyboard_Gamepad_Controls,1,36,1053,Esc,Esc
+323,Keyboard_Gamepad_Controls,2,40,1057,1,1
+323,Keyboard_Gamepad_Controls,3,44,1059,2,2
+323,Keyboard_Gamepad_Controls,4,48,1061,3,3
+323,Keyboard_Gamepad_Controls,5,52,1063,4,4
+323,Keyboard_Gamepad_Controls,6,56,1065,5,5
+323,Keyboard_Gamepad_Controls,7,60,1067,6,6
+323,Keyboard_Gamepad_Controls,8,64,1069,7,7
+323,Keyboard_Gamepad_Controls,9,68,1071,8,8
+323,Keyboard_Gamepad_Controls,10,72,1073,9,9
+323,Keyboard_Gamepad_Controls,11,76,1075,0,0
+323,Keyboard_Gamepad_Controls,12,80,1077,-,-
+323,Keyboard_Gamepad_Controls,13,84,1079,=,=
+323,Keyboard_Gamepad_Controls,14,88,1081,Backspace,Backspace
+323,Keyboard_Gamepad_Controls,15,92,1091,Tab,Tab
+323,Keyboard_Gamepad_Controls,16,96,1095,Q,Q
+323,Keyboard_Gamepad_Controls,17,100,1097,W,W
+323,Keyboard_Gamepad_Controls,18,104,1099,E,E
+323,Keyboard_Gamepad_Controls,19,108,1101,R,R
+323,Keyboard_Gamepad_Controls,20,112,1103,T,T
+323,Keyboard_Gamepad_Controls,21,116,1105,Y,Y
+323,Keyboard_Gamepad_Controls,22,120,1107,U,U
+323,Keyboard_Gamepad_Controls,23,124,1109,I,I
+323,Keyboard_Gamepad_Controls,24,128,1111,O,O
+323,Keyboard_Gamepad_Controls,25,132,1113,P,P
+323,Keyboard_Gamepad_Controls,26,136,1115,[,[
+323,Keyboard_Gamepad_Controls,27,140,1117,],]
+323,Keyboard_Gamepad_Controls,28,144,1119,Enter,Enter
+323,Keyboard_Gamepad_Controls,29,148,1125,Left Ctrl,Ctrl ซ้าย
+323,Keyboard_Gamepad_Controls,30,152,1135,A,A
+323,Keyboard_Gamepad_Controls,31,156,1137,S,S
+323,Keyboard_Gamepad_Controls,32,160,1139,D,D
+323,Keyboard_Gamepad_Controls,33,164,1141,F,F
+323,Keyboard_Gamepad_Controls,34,168,1143,G,G
+323,Keyboard_Gamepad_Controls,35,172,1145,H,H
+323,Keyboard_Gamepad_Controls,36,176,1147,J,J
+323,Keyboard_Gamepad_Controls,37,180,1149,K,K
+323,Keyboard_Gamepad_Controls,38,184,1151,L,L
+323,Keyboard_Gamepad_Controls,39,188,1153,<FJ>,<FJ>
+323,Keyboard_Gamepad_Controls,40,192,1157,','
+323,Keyboard_Gamepad_Controls,41,196,1159,`,`
+323,Keyboard_Gamepad_Controls,42,200,1161,Left Shift,Shift ซ้าย
+323,Keyboard_Gamepad_Controls,43,204,1172,# (UK) / Backslash (US),# / แบ็กสแลช
+323,Keyboard_Gamepad_Controls,44,208,1196,Z,Z
+323,Keyboard_Gamepad_Controls,45,212,1198,X,X
+323,Keyboard_Gamepad_Controls,46,216,1200,C,C
+323,Keyboard_Gamepad_Controls,47,220,1202,V,V
+323,Keyboard_Gamepad_Controls,48,224,1204,B,B
+323,Keyboard_Gamepad_Controls,49,228,1206,N,N
+323,Keyboard_Gamepad_Controls,50,232,1208,M,M
+323,Keyboard_Gamepad_Controls,51,236,1210,",",","
+323,Keyboard_Gamepad_Controls,52,240,1212,.,.
+323,Keyboard_Gamepad_Controls,53,244,1214,Slash,สแลช
+323,Keyboard_Gamepad_Controls,54,248,1220,Right Shift,Shift ขวา
+323,Keyboard_Gamepad_Controls,55,252,1232,Numpad *,Numpad *
+323,Keyboard_Gamepad_Controls,56,256,1241,Left Alt,Alt ซ้าย
+323,Keyboard_Gamepad_Controls,57,260,1250,Space,Space
+323,Keyboard_Gamepad_Controls,58,264,1256,Caps Lock,Caps Lock
+323,Keyboard_Gamepad_Controls,59,268,1266,F1,F1
+323,Keyboard_Gamepad_Controls,60,272,1269,F2,F2
+323,Keyboard_Gamepad_Controls,61,276,1272,F3,F3
+323,Keyboard_Gamepad_Controls,62,280,1275,F4,F4
+323,Keyboard_Gamepad_Controls,63,284,1278,F5,F5
+323,Keyboard_Gamepad_Controls,64,288,1281,F6,F6
+323,Keyboard_Gamepad_Controls,65,292,1284,F7,F7
+323,Keyboard_Gamepad_Controls,66,296,1287,F8,F8
+323,Keyboard_Gamepad_Controls,67,300,1290,F9,F9
+323,Keyboard_Gamepad_Controls,68,304,1293,F10,F10
+323,Keyboard_Gamepad_Controls,69,308,1297,Num Lock,Num Lock
+323,Keyboard_Gamepad_Controls,70,312,1306,Scroll Lock,Scroll Lock
+323,Keyboard_Gamepad_Controls,71,316,1318,Numpad 7,Numpad 7
+323,Keyboard_Gamepad_Controls,72,320,1327,Numpad 8,Numpad 8
+323,Keyboard_Gamepad_Controls,73,324,1336,Numpad 9,Numpad 9
+323,Keyboard_Gamepad_Controls,74,328,1345,Numpad -,Numpad -
+323,Keyboard_Gamepad_Controls,75,332,1354,Numpad 4,Numpad 4
+323,Keyboard_Gamepad_Controls,76,336,1363,Numpad 5,Numpad 5
+323,Keyboard_Gamepad_Controls,77,340,1372,Numpad 6,Numpad 6
+323,Keyboard_Gamepad_Controls,78,344,1381,Numpad +,Numpad +
+323,Keyboard_Gamepad_Controls,79,348,1390,Numpad 1,Numpad 1
+323,Keyboard_Gamepad_Controls,80,352,1399,Numpad 2,Numpad 2
+323,Keyboard_Gamepad_Controls,81,356,1408,Numpad 3,Numpad 3
+323,Keyboard_Gamepad_Controls,82,360,1417,Numpad 0,Numpad 0
+323,Keyboard_Gamepad_Controls,83,364,1426,Numpad .,Numpad .
 323,Keyboard_Gamepad_Controls,84,368,1435,,
 323,Keyboard_Gamepad_Controls,85,372,1436,,
-323,Keyboard_Gamepad_Controls,86,376,1437,Backslash (UK),
-323,Keyboard_Gamepad_Controls,87,380,1452,F11,
-323,Keyboard_Gamepad_Controls,88,384,1456,F12,
+323,Keyboard_Gamepad_Controls,86,376,1437,Backslash (UK),แบ็กสแลช
+323,Keyboard_Gamepad_Controls,87,380,1452,F11,F11
+323,Keyboard_Gamepad_Controls,88,384,1456,F12,F12
 323,Keyboard_Gamepad_Controls,89,388,1460,,
 323,Keyboard_Gamepad_Controls,90,392,1461,,
 323,Keyboard_Gamepad_Controls,91,396,1462,,
@@ -99,9 +99,9 @@
 323,Keyboard_Gamepad_Controls,97,420,1468,,
 323,Keyboard_Gamepad_Controls,98,424,1469,,
 323,Keyboard_Gamepad_Controls,99,428,1470,,
-323,Keyboard_Gamepad_Controls,100,432,1471,F13,
-323,Keyboard_Gamepad_Controls,101,436,1475,F14,
-323,Keyboard_Gamepad_Controls,102,440,1479,F15,
+323,Keyboard_Gamepad_Controls,100,432,1471,F13,F13
+323,Keyboard_Gamepad_Controls,101,436,1475,F14,F14
+323,Keyboard_Gamepad_Controls,102,440,1479,F15,F15
 323,Keyboard_Gamepad_Controls,103,444,1483,,
 323,Keyboard_Gamepad_Controls,104,448,1484,,
 323,Keyboard_Gamepad_Controls,105,452,1485,,
@@ -111,20 +111,20 @@
 323,Keyboard_Gamepad_Controls,109,468,1489,,
 323,Keyboard_Gamepad_Controls,110,472,1490,,
 323,Keyboard_Gamepad_Controls,111,476,1491,,
-323,Keyboard_Gamepad_Controls,112,480,1492,Kana,
+323,Keyboard_Gamepad_Controls,112,480,1492,Kana,Kana
 323,Keyboard_Gamepad_Controls,113,484,1497,,
 323,Keyboard_Gamepad_Controls,114,488,1498,,
-323,Keyboard_Gamepad_Controls,115,492,1499,ABNT_C1,
+323,Keyboard_Gamepad_Controls,115,492,1499,ABNT_C1,ABNT_C1
 323,Keyboard_Gamepad_Controls,116,496,1507,,
 323,Keyboard_Gamepad_Controls,117,500,1508,,
 323,Keyboard_Gamepad_Controls,118,504,1509,,
 323,Keyboard_Gamepad_Controls,119,508,1510,,
 323,Keyboard_Gamepad_Controls,120,512,1511,,
-323,Keyboard_Gamepad_Controls,121,516,1512,Convert,
+323,Keyboard_Gamepad_Controls,121,516,1512,Convert,Convert
 323,Keyboard_Gamepad_Controls,122,520,1520,,
-323,Keyboard_Gamepad_Controls,123,524,1521,Non-Convert,
+323,Keyboard_Gamepad_Controls,123,524,1521,Non-Convert,Non-Convert
 323,Keyboard_Gamepad_Controls,124,528,1533,,
-323,Keyboard_Gamepad_Controls,125,532,1534,\,
+323,Keyboard_Gamepad_Controls,125,532,1534,\,\
 323,Keyboard_Gamepad_Controls,126,536,1536,,
 323,Keyboard_Gamepad_Controls,127,540,1537,,
 323,Keyboard_Gamepad_Controls,128,544,1538,,
@@ -143,9 +143,9 @@
 323,Keyboard_Gamepad_Controls,141,596,1551,,
 323,Keyboard_Gamepad_Controls,142,600,1552,,
 323,Keyboard_Gamepad_Controls,143,604,1553,,
-323,Keyboard_Gamepad_Controls,144,608,1554,^,
-323,Keyboard_Gamepad_Controls,145,612,1556,@,
-323,Keyboard_Gamepad_Controls,146,616,1558,<FI>,
+323,Keyboard_Gamepad_Controls,144,608,1554,^,^
+323,Keyboard_Gamepad_Controls,145,612,1556,@,@
+323,Keyboard_Gamepad_Controls,146,616,1558,<FI>,<FI>
 323,Keyboard_Gamepad_Controls,147,620,1562,,
 323,Keyboard_Gamepad_Controls,148,624,1563,,
 323,Keyboard_Gamepad_Controls,149,628,1564,,
@@ -155,8 +155,8 @@
 323,Keyboard_Gamepad_Controls,153,644,1568,,
 323,Keyboard_Gamepad_Controls,154,648,1569,,
 323,Keyboard_Gamepad_Controls,155,652,1570,,
-323,Keyboard_Gamepad_Controls,156,656,1571,Numpad Enter,
-323,Keyboard_Gamepad_Controls,157,660,1584,Right Ctrl,
+323,Keyboard_Gamepad_Controls,156,656,1571,Numpad Enter,Numpad Enter
+323,Keyboard_Gamepad_Controls,157,660,1584,Right Ctrl,Ctrl ขวา
 323,Keyboard_Gamepad_Controls,158,664,1595,,
 323,Keyboard_Gamepad_Controls,159,668,1596,,
 323,Keyboard_Gamepad_Controls,160,672,1597,,
@@ -180,10 +180,10 @@
 323,Keyboard_Gamepad_Controls,178,744,1615,,
 323,Keyboard_Gamepad_Controls,179,748,1616,,
 323,Keyboard_Gamepad_Controls,180,752,1617,,
-323,Keyboard_Gamepad_Controls,181,756,1618,Numpad /,
+323,Keyboard_Gamepad_Controls,181,756,1618,Numpad /,Numpad /
 323,Keyboard_Gamepad_Controls,182,760,1627,,
-323,Keyboard_Gamepad_Controls,183,764,1628,Print Screen,
-323,Keyboard_Gamepad_Controls,184,768,1641,Right Alt,
+323,Keyboard_Gamepad_Controls,183,764,1628,Print Screen,Print Screen
+323,Keyboard_Gamepad_Controls,184,768,1641,Right Alt,Alt ขวา
 323,Keyboard_Gamepad_Controls,185,772,1651,,
 323,Keyboard_Gamepad_Controls,186,776,1652,,
 323,Keyboard_Gamepad_Controls,187,780,1653,,
@@ -196,21 +196,21 @@
 323,Keyboard_Gamepad_Controls,194,808,1660,,
 323,Keyboard_Gamepad_Controls,195,812,1661,,
 323,Keyboard_Gamepad_Controls,196,816,1662,,
-323,Keyboard_Gamepad_Controls,197,820,1663,Pause/Break,
+323,Keyboard_Gamepad_Controls,197,820,1663,Pause/Break,Pause/Break
 323,Keyboard_Gamepad_Controls,198,824,1675,,
-323,Keyboard_Gamepad_Controls,199,828,1676,Home,
-323,Keyboard_Gamepad_Controls,200,832,1681,Up Arrow,
-323,Keyboard_Gamepad_Controls,201,836,1690,Page Up,
+323,Keyboard_Gamepad_Controls,199,828,1676,Home,Home
+323,Keyboard_Gamepad_Controls,200,832,1681,Up Arrow,ลูกศรขึ้น
+323,Keyboard_Gamepad_Controls,201,836,1690,Page Up,Page Up
 323,Keyboard_Gamepad_Controls,202,840,1698,,
-323,Keyboard_Gamepad_Controls,203,844,1699,Left Arrow,
+323,Keyboard_Gamepad_Controls,203,844,1699,Left Arrow,ลูกศรซ้าย
 323,Keyboard_Gamepad_Controls,204,848,1710,,
-323,Keyboard_Gamepad_Controls,205,852,1711,Right Arrow,
+323,Keyboard_Gamepad_Controls,205,852,1711,Right Arrow,ลูกศรขวา
 323,Keyboard_Gamepad_Controls,206,856,1723,,
-323,Keyboard_Gamepad_Controls,207,860,1724,End,
-323,Keyboard_Gamepad_Controls,208,864,1728,Down Arrow,
-323,Keyboard_Gamepad_Controls,209,868,1739,Page Down,
-323,Keyboard_Gamepad_Controls,210,872,1749,Insert,
-323,Keyboard_Gamepad_Controls,211,876,1756,Delete,
+323,Keyboard_Gamepad_Controls,207,860,1724,End,End
+323,Keyboard_Gamepad_Controls,208,864,1728,Down Arrow,ลูกศรลง
+323,Keyboard_Gamepad_Controls,209,868,1739,Page Down,Page Down
+323,Keyboard_Gamepad_Controls,210,872,1749,Insert,Insert
+323,Keyboard_Gamepad_Controls,211,876,1756,Delete,Delete
 323,Keyboard_Gamepad_Controls,212,880,1763,,
 323,Keyboard_Gamepad_Controls,213,884,1764,,
 323,Keyboard_Gamepad_Controls,214,888,1765,,
@@ -218,9 +218,9 @@
 323,Keyboard_Gamepad_Controls,216,896,1767,,
 323,Keyboard_Gamepad_Controls,217,900,1768,,
 323,Keyboard_Gamepad_Controls,218,904,1769,,
-323,Keyboard_Gamepad_Controls,219,908,1770,Left Win,
-323,Keyboard_Gamepad_Controls,220,912,1779,Right Win,
-323,Keyboard_Gamepad_Controls,221,916,1789,Menu Key,
+323,Keyboard_Gamepad_Controls,219,908,1770,Left Win,Win ซ้าย
+323,Keyboard_Gamepad_Controls,220,912,1779,Right Win,Win ขวา
+323,Keyboard_Gamepad_Controls,221,916,1789,Menu Key,ปุ่มเมนู
 323,Keyboard_Gamepad_Controls,222,920,1798,,
 323,Keyboard_Gamepad_Controls,223,924,1799,,
 323,Keyboard_Gamepad_Controls,224,928,1800,,

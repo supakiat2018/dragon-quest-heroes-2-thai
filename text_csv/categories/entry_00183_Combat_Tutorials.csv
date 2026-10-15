@@ -1,144 +1,144 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-183,Combat_Tutorials,0,32,832,Using Twin Swords,
-183,Combat_Tutorials,1,36,850,Using Twin Swords,
-183,Combat_Tutorials,2,40,868,Using a Sword,
-183,Combat_Tutorials,3,44,882,Using a Sword,
-183,Combat_Tutorials,4,48,896,Using an Axe,
-183,Combat_Tutorials,5,52,909,Using an Axe,
-183,Combat_Tutorials,6,56,922,Using a Whip,
-183,Combat_Tutorials,7,60,935,Using a Whip,
-183,Combat_Tutorials,8,64,948,Using a Wand,
-183,Combat_Tutorials,9,68,961,Using a Wand,
-183,Combat_Tutorials,10,72,974,Using a Spear,
-183,Combat_Tutorials,11,76,988,Using a Spear,
-183,Combat_Tutorials,12,80,1002,Using a Bow,
-183,Combat_Tutorials,13,84,1014,Using a Bow,
-183,Combat_Tutorials,14,88,1026,Using a Staff,
-183,Combat_Tutorials,15,92,1040,Using a Staff,
-183,Combat_Tutorials,16,96,1054,Using a Heavy Wand,
-183,Combat_Tutorials,17,100,1073,Using a Heavy Wand,
-183,Combat_Tutorials,18,104,1092,Using Claws,
-183,Combat_Tutorials,19,108,1104,Using Claws,
-183,Combat_Tutorials,20,112,1116,Desdemona,
-183,Combat_Tutorials,21,116,1126,Desdemona,
-183,Combat_Tutorials,22,120,1136,Cesar,
-183,Combat_Tutorials,23,124,1142,Cesar,
-183,Combat_Tutorials,24,128,1148,Alena,
-183,Combat_Tutorials,25,132,1154,Alena,
-183,Combat_Tutorials,26,136,1160,Kiryl,
-183,Combat_Tutorials,27,140,1166,Kiryl,
-183,Combat_Tutorials,28,144,1172,Torneko,
-183,Combat_Tutorials,29,148,1180,Torneko,
-183,Combat_Tutorials,30,152,1188,Meena,
-183,Combat_Tutorials,31,156,1194,Meena,
-183,Combat_Tutorials,32,160,1200,Maya,
-183,Combat_Tutorials,33,164,1205,Maya,
-183,Combat_Tutorials,34,168,1210,Carver,
-183,Combat_Tutorials,35,172,1217,Carver,
-183,Combat_Tutorials,36,176,1224,Terry,
-183,Combat_Tutorials,37,180,1230,Terry,
-183,Combat_Tutorials,38,184,1236,Maribel,
-183,Combat_Tutorials,39,188,1244,Maribel,
-183,Combat_Tutorials,40,192,1252,Ruff,
-183,Combat_Tutorials,41,196,1257,Ruff,
-183,Combat_Tutorials,42,200,1262,Angelo,
-183,Combat_Tutorials,43,204,1269,Angelo,
-183,Combat_Tutorials,44,208,1276,Jessica,
-183,Combat_Tutorials,45,212,1284,Jessica,
-183,Combat_Tutorials,46,216,1292,Luceus,
-183,Combat_Tutorials,47,220,1299,Luceus,
-183,Combat_Tutorials,48,224,1306,Aurora,
-183,Combat_Tutorials,49,228,1313,Aurora,
-183,Combat_Tutorials,50,232,1320,Doric,
-183,Combat_Tutorials,51,236,1326,Doric,
-183,Combat_Tutorials,52,240,1332,Isla,
-183,Combat_Tutorials,53,244,1337,Isla,
-183,Combat_Tutorials,54,248,1342,Yangus,
-183,Combat_Tutorials,55,252,1349,Yangus,
-183,Combat_Tutorials,56,256,1356,Bianca,
-183,Combat_Tutorials,57,260,1363,Bianca,
-183,Combat_Tutorials,58,264,1370,Nera,
-183,Combat_Tutorials,59,268,1375,Nera,
-183,Combat_Tutorials,60,272,1380,Psaro,
-183,Combat_Tutorials,61,276,1386,Psaro,
-183,Combat_Tutorials,62,280,1392,Basic Controls,
-183,Combat_Tutorials,63,284,1407,Basic Controls,
-183,Combat_Tutorials,64,288,1422,Basic Controls 2,
-183,Combat_Tutorials,65,292,1439,Basic Controls 2,
-183,Combat_Tutorials,66,296,1456,Basic Controls 3,
-183,Combat_Tutorials,67,300,1473,Basic Controls 3,
-183,Combat_Tutorials,68,304,1490,Attack 1 and Attack 2,
-183,Combat_Tutorials,69,308,1512,Attack 1 and Attack 2,
-183,Combat_Tutorials,70,312,1534,Spells and Abilities,
-183,Combat_Tutorials,71,316,1555,Spells and Abilities,
-183,Combat_Tutorials,72,320,1576,Tension,
-183,Combat_Tutorials,73,324,1584,Tension,
-183,Combat_Tutorials,74,328,1592,Getting Fired Up/Evading Attacks,
-183,Combat_Tutorials,75,332,1625,Getting Fired Up/Evading Attacks,
-183,Combat_Tutorials,76,336,1658,Recovery and Blocking,
-183,Combat_Tutorials,77,340,1680,Recovery and Blocking,
-183,Combat_Tutorials,78,344,1702,Locking On,
-183,Combat_Tutorials,79,348,1713,Locking On,
-183,Combat_Tutorials,80,352,1724,Changing Characters,
-183,Combat_Tutorials,81,356,1744,Changing Characters,
-183,Combat_Tutorials,82,360,1764,Monster Minion Controls,
-183,Combat_Tutorials,83,364,1788,Monster Minion Controls,
-183,Combat_Tutorials,84,368,1812,Monster Minion Types,
-183,Combat_Tutorials,85,372,1833,Monster Minion Types,
-183,Combat_Tutorials,86,376,1854,Gameplay Overview,
-183,Combat_Tutorials,87,380,1872,Gameplay Overview,
-183,Combat_Tutorials,88,384,1890,List of Menus,
-183,Combat_Tutorials,89,388,1904,List of Menus,
-183,Combat_Tutorials,90,392,1918,Skills,
-183,Combat_Tutorials,91,396,1925,Skills,
-183,Combat_Tutorials,92,400,1932,Equipment,
-183,Combat_Tutorials,93,404,1942,Equipment,
-183,Combat_Tutorials,94,408,1952,Attributes,
-183,Combat_Tutorials,95,412,1963,Attributes,
-183,Combat_Tutorials,96,416,1974,Zoom and Evac,
-183,Combat_Tutorials,97,420,1988,Zoom and Evac,
-183,Combat_Tutorials,98,424,2002,The Armourer and the Orb Seller,
-183,Combat_Tutorials,99,428,2034,The Armourer and the Orb Seller,
-183,Combat_Tutorials,100,432,2066,Auntie Alchemy,
-183,Combat_Tutorials,101,436,2081,Auntie Alchemy,
-183,Combat_Tutorials,102,440,2096,Patty's Place,
-183,Combat_Tutorials,103,444,2110,Patty's Place,
-183,Combat_Tutorials,104,448,2124,The Quester's Rest,
-183,Combat_Tutorials,105,452,2143,The Quester's Rest,
-183,Combat_Tutorials,106,456,2162,The Abbot of Alltrades,
-183,Combat_Tutorials,107,460,2185,The Abbot of Alltrades,
-183,Combat_Tutorials,108,464,2208,Other Facilities 1,
-183,Combat_Tutorials,109,468,2227,Other Facilities 1,
-183,Combat_Tutorials,110,472,2246,Other Facilities 2,
-183,Combat_Tutorials,111,476,2265,Other Facilities 2,
-183,Combat_Tutorials,112,480,2284,Game Interface,
-183,Combat_Tutorials,113,484,2299,Game Interface,
-183,Combat_Tutorials,114,488,2314,Player Information,
-183,Combat_Tutorials,115,492,2333,Player Information,
-183,Combat_Tutorials,116,496,2352,Wild Zones,
-183,Combat_Tutorials,117,500,2363,Wild Zones,
-183,Combat_Tutorials,118,504,2374,War Zones,
-183,Combat_Tutorials,119,508,2384,War Zones,
-183,Combat_Tutorials,120,512,2394,Battle Basics,
-183,Combat_Tutorials,121,516,2408,Battle Basics,
-183,Combat_Tutorials,122,520,2422,Nightmaws,
-183,Combat_Tutorials,123,524,2432,Nightmaws,
-183,Combat_Tutorials,124,528,2442,Bosses,
-183,Combat_Tutorials,125,532,2449,Bosses,
-183,Combat_Tutorials,126,536,2456,Status Ailments and Boosts,
-183,Combat_Tutorials,127,540,2483,Status Ailments and Boosts,
-183,Combat_Tutorials,128,544,2510,Healing and Reviving,
-183,Combat_Tutorials,129,548,2531,Healing and Reviving,
-183,Combat_Tutorials,130,552,2552,Spoils,
-183,Combat_Tutorials,131,556,2559,Spoils,
-183,Combat_Tutorials,132,560,2566,Finding Other Players,
-183,Combat_Tutorials,133,564,2588,Finding Other Players,
-183,Combat_Tutorials,134,568,2610,The World Between Dimensions,
-183,Combat_Tutorials,135,572,2639,The World Between Dimensions,
-183,Combat_Tutorials,136,576,2668,Multiplayer,
-183,Combat_Tutorials,137,580,2680,Multiplayer,
-183,Combat_Tutorials,138,584,2692,Story Co-Op Mode,
-183,Combat_Tutorials,139,588,2709,Story Co-Op Mode,
+183,Combat_Tutorials,0,32,832,Using Twin Swords,การใช้ดาบคู่
+183,Combat_Tutorials,1,36,850,Using Twin Swords,การใช้ดาบคู่
+183,Combat_Tutorials,2,40,868,Using a Sword,การใช้ดาบมือเดียว
+183,Combat_Tutorials,3,44,882,Using a Sword,การใช้ดาบมือเดียว
+183,Combat_Tutorials,4,48,896,Using an Axe,การใช้ขวาน
+183,Combat_Tutorials,5,52,909,Using an Axe,การใช้ขวาน
+183,Combat_Tutorials,6,56,922,Using a Whip,การใช้แส้
+183,Combat_Tutorials,7,60,935,Using a Whip,การใช้แส้
+183,Combat_Tutorials,8,64,948,Using a Wand,การใช้คทาเวท
+183,Combat_Tutorials,9,68,961,Using a Wand,การใช้คทาเวท
+183,Combat_Tutorials,10,72,974,Using a Spear,การใช้หอก
+183,Combat_Tutorials,11,76,988,Using a Spear,การใช้หอก
+183,Combat_Tutorials,12,80,1002,Using a Bow,การใช้ธนู
+183,Combat_Tutorials,13,84,1014,Using a Bow,การใช้ธนู
+183,Combat_Tutorials,14,88,1026,Using a Staff,การใช้ไม้เท้า
+183,Combat_Tutorials,15,92,1040,Using a Staff,การใช้ไม้เท้า
+183,Combat_Tutorials,16,96,1054,Using a Heavy Wand,การใช้คทาหนัก
+183,Combat_Tutorials,17,100,1073,Using a Heavy Wand,การใช้คทาหนัก
+183,Combat_Tutorials,18,104,1092,Using Claws,การใช้กรงเล็บ
+183,Combat_Tutorials,19,108,1104,Using Claws,การใช้กรงเล็บ
+183,Combat_Tutorials,20,112,1116,Desdemona,เดสเดโมน่า
+183,Combat_Tutorials,21,116,1126,Desdemona,เดสเดโมน่า
+183,Combat_Tutorials,22,120,1136,Cesar,ซีซาร์
+183,Combat_Tutorials,23,124,1142,Cesar,ซีซาร์
+183,Combat_Tutorials,24,128,1148,Alena,อาลีน่า
+183,Combat_Tutorials,25,132,1154,Alena,อาลีน่า
+183,Combat_Tutorials,26,136,1160,Kiryl,คริฟต์
+183,Combat_Tutorials,27,140,1166,Kiryl,คริฟต์
+183,Combat_Tutorials,28,144,1172,Torneko,ทอร์เนโก้
+183,Combat_Tutorials,29,148,1180,Torneko,ทอร์เนโก้
+183,Combat_Tutorials,30,152,1188,Meena,มีเนีย
+183,Combat_Tutorials,31,156,1194,Meena,มีเนีย
+183,Combat_Tutorials,32,160,1200,Maya,มาเนีย
+183,Combat_Tutorials,33,164,1205,Maya,มาเนีย
+183,Combat_Tutorials,34,168,1210,Carver,ฮัสซัน
+183,Combat_Tutorials,35,172,1217,Carver,ฮัสซัน
+183,Combat_Tutorials,36,176,1224,Terry,เทอร์รี่
+183,Combat_Tutorials,37,180,1230,Terry,เทอร์รี่
+183,Combat_Tutorials,38,184,1236,Maribel,มาริเบล
+183,Combat_Tutorials,39,188,1244,Maribel,มาริเบล
+183,Combat_Tutorials,40,192,1252,Ruff,กาโบ
+183,Combat_Tutorials,41,196,1257,Ruff,กาโบ
+183,Combat_Tutorials,42,200,1262,Angelo,คูเคิล
+183,Combat_Tutorials,43,204,1269,Angelo,คูเคิล
+183,Combat_Tutorials,44,208,1276,Jessica,เจสสิก้า
+183,Combat_Tutorials,45,212,1284,Jessica,เจสสิก้า
+183,Combat_Tutorials,46,216,1292,Luceus,แอคท์
+183,Combat_Tutorials,47,220,1299,Luceus,แอคท์
+183,Combat_Tutorials,48,224,1306,Aurora,เมียร์
+183,Combat_Tutorials,49,228,1313,Aurora,เมียร์
+183,Combat_Tutorials,50,232,1320,Doric,ดิลค์
+183,Combat_Tutorials,51,236,1326,Doric,ดิลค์
+183,Combat_Tutorials,52,240,1332,Isla,จูเลียตต้า
+183,Combat_Tutorials,53,244,1337,Isla,จูเลียตต้า
+183,Combat_Tutorials,54,248,1342,Yangus,ยังกัส
+183,Combat_Tutorials,55,252,1349,Yangus,ยังกัส
+183,Combat_Tutorials,56,256,1356,Bianca,เบียงก้า
+183,Combat_Tutorials,57,260,1363,Bianca,เบียงก้า
+183,Combat_Tutorials,58,264,1370,Nera,ฟลอร่า
+183,Combat_Tutorials,59,268,1375,Nera,ฟลอร่า
+183,Combat_Tutorials,60,272,1380,Psaro,พิซาโร่
+183,Combat_Tutorials,61,276,1386,Psaro,พิซาโร่
+183,Combat_Tutorials,62,280,1392,Basic Controls,การควบคุมพื้นฐาน
+183,Combat_Tutorials,63,284,1407,Basic Controls,การควบคุมพื้นฐาน
+183,Combat_Tutorials,64,288,1422,Basic Controls 2,การควบคุมพื้นฐาน 2
+183,Combat_Tutorials,65,292,1439,Basic Controls 2,การควบคุมพื้นฐาน 2
+183,Combat_Tutorials,66,296,1456,Basic Controls 3,การควบคุมพื้นฐาน 3
+183,Combat_Tutorials,67,300,1473,Basic Controls 3,การควบคุมพื้นฐาน 3
+183,Combat_Tutorials,68,304,1490,Attack 1 and Attack 2,การโจมตี 1 และการโจมตี 2
+183,Combat_Tutorials,69,308,1512,Attack 1 and Attack 2,การโจมตี 1 และการโจมตี 2
+183,Combat_Tutorials,70,312,1534,Spells and Abilities,คาถาและอบิลิตี้
+183,Combat_Tutorials,71,316,1555,Spells and Abilities,คาถาและอบิลิตี้
+183,Combat_Tutorials,72,320,1576,Tension,พลังเทนชัน
+183,Combat_Tutorials,73,324,1584,Tension,พลังเทนชัน
+183,Combat_Tutorials,74,328,1592,Getting Fired Up/Evading Attacks,การปลุกใจ/การหลบหลีกการโจมตี
+183,Combat_Tutorials,75,332,1625,Getting Fired Up/Evading Attacks,การปลุกใจ/การหลบหลีกการโจมตี
+183,Combat_Tutorials,76,336,1658,Recovery and Blocking,การฟื้นตัวและการป้องกัน
+183,Combat_Tutorials,77,340,1680,Recovery and Blocking,การฟื้นตัวและการป้องกัน
+183,Combat_Tutorials,78,344,1702,Locking On,การล็อกเป้าหมาย
+183,Combat_Tutorials,79,348,1713,Locking On,การล็อกเป้าหมาย
+183,Combat_Tutorials,80,352,1724,Changing Characters,การเปลี่ยนตัวละคร
+183,Combat_Tutorials,81,356,1744,Changing Characters,การเปลี่ยนตัวละคร
+183,Combat_Tutorials,82,360,1764,Monster Minion Controls,การควบคุมสมุนมอนสเตอร์
+183,Combat_Tutorials,83,364,1788,Monster Minion Controls,การควบคุมสมุนมอนสเตอร์
+183,Combat_Tutorials,84,368,1812,Monster Minion Types,ประเภทของสมุนมอนสเตอร์
+183,Combat_Tutorials,85,372,1833,Monster Minion Types,ประเภทของสมุนมอนสเตอร์
+183,Combat_Tutorials,86,376,1854,Gameplay Overview,ภาพรวมระบบการเล่น
+183,Combat_Tutorials,87,380,1872,Gameplay Overview,ภาพรวมระบบการเล่น
+183,Combat_Tutorials,88,384,1890,List of Menus,รายการเมนู
+183,Combat_Tutorials,89,388,1904,List of Menus,รายการเมนู
+183,Combat_Tutorials,90,392,1918,Skills,สกิล
+183,Combat_Tutorials,91,396,1925,Skills,สกิล
+183,Combat_Tutorials,92,400,1932,Equipment,อุปกรณ์สวมใส่
+183,Combat_Tutorials,93,404,1942,Equipment,อุปกรณ์สวมใส่
+183,Combat_Tutorials,94,408,1952,Attributes,ค่าสถานะ
+183,Combat_Tutorials,95,412,1963,Attributes,ค่าสถานะ
+183,Combat_Tutorials,96,416,1974,Zoom and Evac,รูล่าและริเรมิต
+183,Combat_Tutorials,97,420,1988,Zoom and Evac,รูล่าและริเรมิต
+183,Combat_Tutorials,98,424,2002,The Armourer and the Orb Seller,ร้านขายอาวุธและร้านขายลูกแก้วออร์บ
+183,Combat_Tutorials,99,428,2034,The Armourer and the Orb Seller,ร้านขายอาวุธและร้านขายลูกแก้วออร์บ
+183,Combat_Tutorials,100,432,2066,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+183,Combat_Tutorials,101,436,2081,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+183,Combat_Tutorials,102,440,2096,Patty's Place,บาร์ของแพตตี้
+183,Combat_Tutorials,103,444,2110,Patty's Place,บาร์ของแพตตี้
+183,Combat_Tutorials,104,448,2124,The Quester's Rest,จุดพักของนักเดินทาง
+183,Combat_Tutorials,105,452,2143,The Quester's Rest,จุดพักของนักเดินทาง
+183,Combat_Tutorials,106,456,2162,The Abbot of Alltrades,เจ้าอาวาสวิหารเปลี่ยนอาชีพ
+183,Combat_Tutorials,107,460,2185,The Abbot of Alltrades,เจ้าอาวาสวิหารเปลี่ยนอาชีพ
+183,Combat_Tutorials,108,464,2208,Other Facilities 1,สิ่งอำนวยความสะดวกอื่น 1
+183,Combat_Tutorials,109,468,2227,Other Facilities 1,สิ่งอำนวยความสะดวกอื่น 1
+183,Combat_Tutorials,110,472,2246,Other Facilities 2,สิ่งอำนวยความสะดวกอื่น 2
+183,Combat_Tutorials,111,476,2265,Other Facilities 2,สิ่งอำนวยความสะดวกอื่น 2
+183,Combat_Tutorials,112,480,2284,Game Interface,อินเทอร์เฟซหน้าจอเกม
+183,Combat_Tutorials,113,484,2299,Game Interface,อินเทอร์เฟซหน้าจอเกม
+183,Combat_Tutorials,114,488,2314,Player Information,ข้อมูลผู้เล่น
+183,Combat_Tutorials,115,492,2333,Player Information,ข้อมูลผู้เล่น
+183,Combat_Tutorials,116,496,2352,Wild Zones,พื้นที่ทุ่งกว้าง
+183,Combat_Tutorials,117,500,2363,Wild Zones,พื้นที่ทุ่งกว้าง
+183,Combat_Tutorials,118,504,2374,War Zones,พื้นที่สมรภูมิสงคราม
+183,Combat_Tutorials,119,508,2384,War Zones,พื้นที่สมรภูมิสงคราม
+183,Combat_Tutorials,120,512,2394,Battle Basics,พื้นฐานการต่อสู้
+183,Combat_Tutorials,121,516,2408,Battle Basics,พื้นฐานการต่อสู้
+183,Combat_Tutorials,122,520,2422,Nightmaws,ไนท์มอร์
+183,Combat_Tutorials,123,524,2432,Nightmaws,ไนท์มอร์
+183,Combat_Tutorials,124,528,2442,Bosses,บอส
+183,Combat_Tutorials,125,532,2449,Bosses,บอส
+183,Combat_Tutorials,126,536,2456,Status Ailments and Boosts,สถานะผิดปกติและสถานะบัฟ
+183,Combat_Tutorials,127,540,2483,Status Ailments and Boosts,สถานะผิดปกติและสถานะบัฟ
+183,Combat_Tutorials,128,544,2510,Healing and Reviving,การฟื้นฟูพลังและการชุบชีวิต
+183,Combat_Tutorials,129,548,2531,Healing and Reviving,การฟื้นฟูพลังและการชุบชีวิต
+183,Combat_Tutorials,130,552,2552,Spoils,ของรางวัลจากการต่อสู้
+183,Combat_Tutorials,131,556,2559,Spoils,ของรางวัลจากการต่อสู้
+183,Combat_Tutorials,132,560,2566,Finding Other Players,การค้นหาผู้เล่นอื่น
+183,Combat_Tutorials,133,564,2588,Finding Other Players,การค้นหาผู้เล่นอื่น
+183,Combat_Tutorials,134,568,2610,The World Between Dimensions,โลกต่างมิติ
+183,Combat_Tutorials,135,572,2639,The World Between Dimensions,โลกต่างมิติ
+183,Combat_Tutorials,136,576,2668,Multiplayer,โหมดผู้เล่นหลายคน
+183,Combat_Tutorials,137,580,2680,Multiplayer,โหมดผู้เล่นหลายคน
+183,Combat_Tutorials,138,584,2692,Story Co-Op Mode,โหมดร่วมมือเล่นเนื้อเรื่อง
+183,Combat_Tutorials,139,588,2709,Story Co-Op Mode,โหมดร่วมมือเล่นเนื้อเรื่อง
 183,Combat_Tutorials,140,592,2726,,
 183,Combat_Tutorials,141,596,2727,,
 183,Combat_Tutorials,142,600,2728,,

@@ -14111,138 +14111,138 @@
 57,Spells,29,152,247,,
 57,Spells,30,156,248,,
 57,Spells,31,160,249,,
-64,Weapon_Categories,0,36,676,twin swords,
-64,Weapon_Categories,1,40,688,twin swords,
+64,Weapon_Categories,0,36,676,twin swords,ดาบคู่
+64,Weapon_Categories,1,40,688,twin swords,ดาบคู่
 64,Weapon_Categories,2,44,700,,
-64,Weapon_Categories,3,48,701,twin swords,
+64,Weapon_Categories,3,48,701,twin swords,ดาบคู่
 64,Weapon_Categories,4,52,713,the ,
 64,Weapon_Categories,5,56,718,the ,
 64,Weapon_Categories,6,60,723,a pair of ,
 64,Weapon_Categories,7,64,734,some ,
-64,Weapon_Categories,8,68,740,sword,
-64,Weapon_Categories,9,72,746,sword,
+64,Weapon_Categories,8,68,740,sword,ดาบมือเดียว
+64,Weapon_Categories,9,72,746,sword,ดาบมือเดียว
 64,Weapon_Categories,10,76,752,,
-64,Weapon_Categories,11,80,753,swords,
+64,Weapon_Categories,11,80,753,swords,ดาบมือเดียว
 64,Weapon_Categories,12,84,760,the ,
 64,Weapon_Categories,13,88,765,the ,
 64,Weapon_Categories,14,92,770,a ,
 64,Weapon_Categories,15,96,773,some ,
-64,Weapon_Categories,16,100,779,greatsword,
-64,Weapon_Categories,17,104,790,greatsword,
+64,Weapon_Categories,16,100,779,greatsword,ดาบใหญ่
+64,Weapon_Categories,17,104,790,greatsword,ดาบใหญ่
 64,Weapon_Categories,18,108,801,,
-64,Weapon_Categories,19,112,802,greatswords,
+64,Weapon_Categories,19,112,802,greatswords,ดาบใหญ่
 64,Weapon_Categories,20,116,814,the ,
 64,Weapon_Categories,21,120,819,the ,
 64,Weapon_Categories,22,124,824,a ,
 64,Weapon_Categories,23,128,827,some ,
-64,Weapon_Categories,24,132,833,axe,
-64,Weapon_Categories,25,136,837,axe,
+64,Weapon_Categories,24,132,833,axe,ขวาน
+64,Weapon_Categories,25,136,837,axe,ขวาน
 64,Weapon_Categories,26,140,841,,
-64,Weapon_Categories,27,144,842,axes,
+64,Weapon_Categories,27,144,842,axes,ขวาน
 64,Weapon_Categories,28,148,847,the ,
 64,Weapon_Categories,29,152,852,the ,
 64,Weapon_Categories,30,156,857,an ,
 64,Weapon_Categories,31,160,861,some ,
-64,Weapon_Categories,32,164,867,gauntlets,
-64,Weapon_Categories,33,168,877,gauntlets,
+64,Weapon_Categories,32,164,867,gauntlets,สนับมือ
+64,Weapon_Categories,33,168,877,gauntlets,สนับมือ
 64,Weapon_Categories,34,172,887,,
-64,Weapon_Categories,35,176,888,gauntlets,
+64,Weapon_Categories,35,176,888,gauntlets,สนับมือ
 64,Weapon_Categories,36,180,898,the ,
 64,Weapon_Categories,37,184,903,the ,
 64,Weapon_Categories,38,188,908,a pair of ,
 64,Weapon_Categories,39,192,919,some ,
-64,Weapon_Categories,40,196,925,spear,
-64,Weapon_Categories,41,200,931,spear,
+64,Weapon_Categories,40,196,925,spear,หอก
+64,Weapon_Categories,41,200,931,spear,หอก
 64,Weapon_Categories,42,204,937,,
-64,Weapon_Categories,43,208,938,spears,
+64,Weapon_Categories,43,208,938,spears,หอก
 64,Weapon_Categories,44,212,945,the ,
 64,Weapon_Categories,45,216,950,the ,
 64,Weapon_Categories,46,220,955,a ,
 64,Weapon_Categories,47,224,958,some ,
-64,Weapon_Categories,48,228,964,abacus,
-64,Weapon_Categories,49,232,971,abacus,
+64,Weapon_Categories,48,228,964,abacus,ลูกคิด
+64,Weapon_Categories,49,232,971,abacus,ลูกคิด
 64,Weapon_Categories,50,236,978,,
-64,Weapon_Categories,51,240,979,abacuses,
+64,Weapon_Categories,51,240,979,abacuses,ลูกคิด
 64,Weapon_Categories,52,244,988,the ,
 64,Weapon_Categories,53,248,993,the ,
 64,Weapon_Categories,54,252,998,an ,
 64,Weapon_Categories,55,256,1002,some ,
-64,Weapon_Categories,56,260,1008,cards,
-64,Weapon_Categories,57,264,1014,cards,
+64,Weapon_Categories,56,260,1008,cards,ไพ่ทาโรต์
+64,Weapon_Categories,57,264,1014,cards,ไพ่ทาโรต์
 64,Weapon_Categories,58,268,1020,,
-64,Weapon_Categories,59,272,1021,cards,
+64,Weapon_Categories,59,272,1021,cards,ไพ่ทาโรต์
 64,Weapon_Categories,60,276,1027,the ,
 64,Weapon_Categories,61,280,1032,the ,
 64,Weapon_Categories,62,284,1037,a deck of ,
 64,Weapon_Categories,63,288,1048,some ,
-64,Weapon_Categories,64,292,1054,fans,
-64,Weapon_Categories,65,296,1059,fans,
+64,Weapon_Categories,64,292,1054,fans,พัด
+64,Weapon_Categories,65,296,1059,fans,พัด
 64,Weapon_Categories,66,300,1064,,
-64,Weapon_Categories,67,304,1065,fans,
+64,Weapon_Categories,67,304,1065,fans,พัด
 64,Weapon_Categories,68,308,1070,the ,
 64,Weapon_Categories,69,312,1075,the ,
 64,Weapon_Categories,70,316,1080,a pair of ,
 64,Weapon_Categories,71,320,1091,some ,
-64,Weapon_Categories,72,324,1097,boomerang,
-64,Weapon_Categories,73,328,1107,boomerang,
+64,Weapon_Categories,72,324,1097,boomerang,บูมเมอแรง
+64,Weapon_Categories,73,328,1107,boomerang,บูมเมอแรง
 64,Weapon_Categories,74,332,1117,,
-64,Weapon_Categories,75,336,1118,boomerangs,
+64,Weapon_Categories,75,336,1118,boomerangs,บูมเมอแรง
 64,Weapon_Categories,76,340,1129,the ,
 64,Weapon_Categories,77,344,1134,the ,
 64,Weapon_Categories,78,348,1139,a ,
 64,Weapon_Categories,79,352,1142,some ,
-64,Weapon_Categories,80,356,1148,claws,
-64,Weapon_Categories,81,360,1154,claws,
+64,Weapon_Categories,80,356,1148,claws,กรงเล็บ
+64,Weapon_Categories,81,360,1154,claws,กรงเล็บ
 64,Weapon_Categories,82,364,1160,,
-64,Weapon_Categories,83,368,1161,claws,
+64,Weapon_Categories,83,368,1161,claws,กรงเล็บ
 64,Weapon_Categories,84,372,1167,the ,
 64,Weapon_Categories,85,376,1172,the ,
 64,Weapon_Categories,86,380,1177,a set of ,
 64,Weapon_Categories,87,384,1187,some ,
-64,Weapon_Categories,88,388,1193,bow,
-64,Weapon_Categories,89,392,1197,bow,
+64,Weapon_Categories,88,388,1193,bow,ธนู
+64,Weapon_Categories,89,392,1197,bow,ธนู
 64,Weapon_Categories,90,396,1201,,
-64,Weapon_Categories,91,400,1202,bows,
+64,Weapon_Categories,91,400,1202,bows,ธนู
 64,Weapon_Categories,92,404,1207,the ,
 64,Weapon_Categories,93,408,1212,the ,
 64,Weapon_Categories,94,412,1217,a ,
 64,Weapon_Categories,95,416,1220,some ,
-64,Weapon_Categories,96,420,1226,whip,
-64,Weapon_Categories,97,424,1231,whip,
+64,Weapon_Categories,96,420,1226,whip,แส้
+64,Weapon_Categories,97,424,1231,whip,แส้
 64,Weapon_Categories,98,428,1236,,
-64,Weapon_Categories,99,432,1237,whips,
+64,Weapon_Categories,99,432,1237,whips,แส้
 64,Weapon_Categories,100,436,1243,the ,
 64,Weapon_Categories,101,440,1248,the ,
 64,Weapon_Categories,102,444,1253,a ,
 64,Weapon_Categories,103,448,1256,some ,
-64,Weapon_Categories,104,452,1262,wand,
-64,Weapon_Categories,105,456,1267,wand,
+64,Weapon_Categories,104,452,1262,wand,คทาเวท
+64,Weapon_Categories,105,456,1267,wand,คทาเวท
 64,Weapon_Categories,106,460,1272,,
-64,Weapon_Categories,107,464,1273,wands,
+64,Weapon_Categories,107,464,1273,wands,คทาเวท
 64,Weapon_Categories,108,468,1279,the ,
 64,Weapon_Categories,109,472,1284,the ,
 64,Weapon_Categories,110,476,1289,a ,
 64,Weapon_Categories,111,480,1292,some ,
-64,Weapon_Categories,112,484,1298,heavy wand,
-64,Weapon_Categories,113,488,1309,heavy wand,
+64,Weapon_Categories,112,484,1298,heavy wand,คทาหนัก
+64,Weapon_Categories,113,488,1309,heavy wand,คทาหนัก
 64,Weapon_Categories,114,492,1320,,
-64,Weapon_Categories,115,496,1321,heavy wands,
+64,Weapon_Categories,115,496,1321,heavy wands,คทาหนัก
 64,Weapon_Categories,116,500,1333,the ,
 64,Weapon_Categories,117,504,1338,the ,
 64,Weapon_Categories,118,508,1343,a ,
 64,Weapon_Categories,119,512,1346,some ,
-64,Weapon_Categories,120,516,1352,staff,
-64,Weapon_Categories,121,520,1358,staff,
+64,Weapon_Categories,120,516,1352,staff,ไม้เท้า
+64,Weapon_Categories,121,520,1358,staff,ไม้เท้า
 64,Weapon_Categories,122,524,1364,,
-64,Weapon_Categories,123,528,1365,staves,
+64,Weapon_Categories,123,528,1365,staves,ไม้เท้า
 64,Weapon_Categories,124,532,1372,the ,
 64,Weapon_Categories,125,536,1377,the ,
 64,Weapon_Categories,126,540,1382,a ,
 64,Weapon_Categories,127,544,1385,some ,
-64,Weapon_Categories,128,548,1391,shield,
-64,Weapon_Categories,129,552,1398,shield,
+64,Weapon_Categories,128,548,1391,shield,โล่
+64,Weapon_Categories,129,552,1398,shield,โล่
 64,Weapon_Categories,130,556,1405,,
-64,Weapon_Categories,131,560,1406,shields,
+64,Weapon_Categories,131,560,1406,shields,โล่
 64,Weapon_Categories,132,564,1414,the ,
 64,Weapon_Categories,133,568,1419,the ,
 64,Weapon_Categories,134,572,1424,a ,
@@ -31631,464 +31631,464 @@
 155,Menu_Categories,77,344,569,,
 155,Menu_Categories,78,348,570,,
 155,Menu_Categories,79,352,571,,
-162,System_Help,0,36,3236,Changing Characters,
-162,System_Help,1,40,3256,Changing Characters,
+162,System_Help,0,36,3236,Changing Characters,การเปลี่ยนตัวละคร
+162,System_Help,1,40,3256,Changing Characters,การเปลี่ยนตัวละคร
 162,System_Help,2,44,3276,,
 162,System_Help,3,48,3277,,
 162,System_Help,4,52,3278,,
 162,System_Help,5,56,3279,,
 162,System_Help,6,60,3280,,
 162,System_Help,7,64,3281,,
-162,System_Help,8,68,3282,Tension,
-162,System_Help,9,72,3290,Tension,
+162,System_Help,8,68,3282,Tension,พลังเทนชัน
+162,System_Help,9,72,3290,Tension,พลังเทนชัน
 162,System_Help,10,76,3298,,
 162,System_Help,11,80,3299,,
 162,System_Help,12,84,3300,,
 162,System_Help,13,88,3301,,
 162,System_Help,14,92,3302,,
 162,System_Help,15,96,3303,,
-162,System_Help,16,100,3304,High Tension,
-162,System_Help,17,104,3317,High Tension,
+162,System_Help,16,100,3304,High Tension,ไฮเทนชัน
+162,System_Help,17,104,3317,High Tension,ไฮเทนชัน
 162,System_Help,18,108,3330,,
 162,System_Help,19,112,3331,,
 162,System_Help,20,116,3332,,
 162,System_Help,21,120,3333,,
 162,System_Help,22,124,3334,,
 162,System_Help,23,128,3335,,
-162,System_Help,24,132,3336,Evac,
-162,System_Help,25,136,3341,Evac,
+162,System_Help,24,132,3336,Evac,ริเรมิต
+162,System_Help,25,136,3341,Evac,ริเรมิต
 162,System_Help,26,140,3346,,
 162,System_Help,27,144,3347,,
 162,System_Help,28,148,3348,,
 162,System_Help,29,152,3349,,
 162,System_Help,30,156,3350,,
 162,System_Help,31,160,3351,,
-162,System_Help,32,164,3352,Yggdrasil Leaves,
-162,System_Help,33,168,3369,Yggdrasil Leaves,
+162,System_Help,32,164,3352,Yggdrasil Leaves,ใบไม้อิกดราซิล
+162,System_Help,33,168,3369,Yggdrasil Leaves,ใบไม้อิกดราซิล
 162,System_Help,34,172,3386,,
 162,System_Help,35,176,3387,,
 162,System_Help,36,180,3388,,
 162,System_Help,37,184,3389,,
 162,System_Help,38,188,3390,,
 162,System_Help,39,192,3391,,
-162,System_Help,40,196,3392,Falling in Battle,
-162,System_Help,41,200,3410,Falling in Battle,
+162,System_Help,40,196,3392,Falling in Battle,การล้มลงในการต่อสู้
+162,System_Help,41,200,3410,Falling in Battle,การล้มลงในการต่อสู้
 162,System_Help,42,204,3428,,
 162,System_Help,43,208,3429,,
 162,System_Help,44,212,3430,,
 162,System_Help,45,216,3431,,
 162,System_Help,46,220,3432,,
 162,System_Help,47,224,3433,,
-162,System_Help,48,228,3434,Wild Zones,
-162,System_Help,49,232,3445,Wild Zones,
+162,System_Help,48,228,3434,Wild Zones,พื้นที่ทุ่งกว้าง
+162,System_Help,49,232,3445,Wild Zones,พื้นที่ทุ่งกว้าง
 162,System_Help,50,236,3456,,
 162,System_Help,51,240,3457,,
 162,System_Help,52,244,3458,,
 162,System_Help,53,248,3459,,
 162,System_Help,54,252,3460,,
 162,System_Help,55,256,3461,,
-162,System_Help,56,260,3462,Zoomstones,
-162,System_Help,57,264,3473,Zoomstones,
+162,System_Help,56,260,3462,Zoomstones,ศิลารูล่า
+162,System_Help,57,264,3473,Zoomstones,ศิลารูล่า
 162,System_Help,58,268,3484,,
 162,System_Help,59,272,3485,,
 162,System_Help,60,276,3486,,
 162,System_Help,61,280,3487,,
 162,System_Help,62,284,3488,,
 162,System_Help,63,288,3489,,
-162,System_Help,64,292,3490,Continue/Abandon Battle,
-162,System_Help,65,296,3514,Continue/Abandon Battle,
+162,System_Help,64,292,3490,Continue/Abandon Battle,สู้ต่อ/ยอมแพ้การต่อสู้
+162,System_Help,65,296,3514,Continue/Abandon Battle,สู้ต่อ/ยอมแพ้การต่อสู้
 162,System_Help,66,300,3538,,
 162,System_Help,67,304,3539,,
 162,System_Help,68,308,3540,,
 162,System_Help,69,312,3541,,
 162,System_Help,70,316,3542,,
 162,System_Help,71,320,3543,,
-162,System_Help,72,324,3544,Out in the Wild,
-162,System_Help,73,328,3560,Out in the Wild,
+162,System_Help,72,324,3544,Out in the Wild,การออกสู่ทุ่งกว้าง
+162,System_Help,73,328,3560,Out in the Wild,การออกสู่ทุ่งกว้าง
 162,System_Help,74,332,3576,,
 162,System_Help,75,336,3577,,
 162,System_Help,76,340,3578,,
 162,System_Help,77,344,3579,,
 162,System_Help,78,348,3580,,
 162,System_Help,79,352,3581,,
-162,System_Help,80,356,3582,Out in the Wild 2,
-162,System_Help,81,360,3600,Out in the Wild 2,
+162,System_Help,80,356,3582,Out in the Wild 2,การออกสู่ทุ่งกว้าง 2
+162,System_Help,81,360,3600,Out in the Wild 2,การออกสู่ทุ่งกว้าง 2
 162,System_Help,82,364,3618,,
 162,System_Help,83,368,3619,,
 162,System_Help,84,372,3620,,
 162,System_Help,85,376,3621,,
 162,System_Help,86,380,3622,,
 162,System_Help,87,384,3623,,
-162,System_Help,88,388,3624,Marked Monsters,
-162,System_Help,89,392,3640,Marked Monsters,
+162,System_Help,88,388,3624,Marked Monsters,มอนสเตอร์เป้าหมาย
+162,System_Help,89,392,3640,Marked Monsters,มอนสเตอร์เป้าหมาย
 162,System_Help,90,396,3656,,
 162,System_Help,91,400,3657,,
 162,System_Help,92,404,3658,,
 162,System_Help,93,408,3659,,
 162,System_Help,94,412,3660,,
 162,System_Help,95,416,3661,,
-162,System_Help,96,420,3662,Monster Medals,
-162,System_Help,97,424,3677,Monster Medals,
+162,System_Help,96,420,3662,Monster Medals,เหรียญมอนสเตอร์
+162,System_Help,97,424,3677,Monster Medals,เหรียญมอนสเตอร์
 162,System_Help,98,428,3692,,
 162,System_Help,99,432,3693,,
 162,System_Help,100,436,3694,,
 162,System_Help,101,440,3695,,
 162,System_Help,102,444,3696,,
 162,System_Help,103,448,3697,,
-162,System_Help,104,452,3698,Saviours,
-162,System_Help,105,456,3707,Saviours,
+162,System_Help,104,452,3698,Saviours,สายช่วยเหลือ
+162,System_Help,105,456,3707,Saviours,สายช่วยเหลือ
 162,System_Help,106,460,3716,,
 162,System_Help,107,464,3717,,
 162,System_Help,108,468,3718,,
 162,System_Help,109,472,3719,,
 162,System_Help,110,476,3720,,
 162,System_Help,111,480,3721,,
-162,System_Help,112,484,3722,Sentries,
-162,System_Help,113,488,3731,Sentries,
+162,System_Help,112,484,3722,Sentries,สายเฝ้าระวัง
+162,System_Help,113,488,3731,Sentries,สายเฝ้าระวัง
 162,System_Help,114,492,3740,,
 162,System_Help,115,496,3741,,
 162,System_Help,116,500,3742,,
 162,System_Help,117,504,3743,,
 162,System_Help,118,508,3744,,
 162,System_Help,119,512,3745,,
-162,System_Help,120,516,3746,Substitutes,
-162,System_Help,121,520,3758,Substitutes,
+162,System_Help,120,516,3746,Substitutes,สายแปลงร่าง
+162,System_Help,121,520,3758,Substitutes,สายแปลงร่าง
 162,System_Help,122,524,3770,,
 162,System_Help,123,528,3771,,
 162,System_Help,124,532,3772,,
 162,System_Help,125,536,3773,,
 162,System_Help,126,540,3774,,
 162,System_Help,127,544,3775,,
-162,System_Help,128,548,3776,Zoom,
-162,System_Help,129,552,3781,Zoom,
+162,System_Help,128,548,3776,Zoom,รูล่า
+162,System_Help,129,552,3781,Zoom,รูล่า
 162,System_Help,130,556,3786,,
 162,System_Help,131,560,3787,,
 162,System_Help,132,564,3788,,
 162,System_Help,133,568,3789,,
 162,System_Help,134,572,3790,,
 162,System_Help,135,576,3791,,
-162,System_Help,136,580,3792,Healstones,
-162,System_Help,137,584,3803,Healstones,
+162,System_Help,136,580,3792,Healstones,ศิลาฮอยมี่
+162,System_Help,137,584,3803,Healstones,ศิลาฮอยมี่
 162,System_Help,138,588,3814,,
 162,System_Help,139,592,3815,,
 162,System_Help,140,596,3816,,
 162,System_Help,141,600,3817,,
 162,System_Help,142,604,3818,,
 162,System_Help,143,608,3819,,
-162,System_Help,144,612,3820,Wild Zone Wipe-Outs,
-162,System_Help,145,616,3840,Wild Zone Wipe-Outs,
+162,System_Help,144,612,3820,Wild Zone Wipe-Outs,การพ่ายแพ้ในทุ่งกว้าง
+162,System_Help,145,616,3840,Wild Zone Wipe-Outs,การพ่ายแพ้ในทุ่งกว้าง
 162,System_Help,146,620,3860,,
 162,System_Help,147,624,3861,,
 162,System_Help,148,628,3862,,
 162,System_Help,149,632,3863,,
 162,System_Help,150,636,3864,,
 162,System_Help,151,640,3865,,
-162,System_Help,152,644,3866,Proficiency,
-162,System_Help,153,648,3878,Proficiency,
+162,System_Help,152,644,3866,Proficiency,ความชำนาญอาวุธ
+162,System_Help,153,648,3878,Proficiency,ความชำนาญอาวุธ
 162,System_Help,154,652,3890,,
 162,System_Help,155,656,3891,,
 162,System_Help,156,660,3892,,
 162,System_Help,157,664,3893,,
 162,System_Help,158,668,3894,,
 162,System_Help,159,672,3895,,
-162,System_Help,160,676,3896,Party Powers,
-162,System_Help,161,680,3909,Party Powers,
+162,System_Help,160,676,3896,Party Powers,พลังปาร์ตี้
+162,System_Help,161,680,3909,Party Powers,พลังปาร์ตี้
 162,System_Help,162,684,3922,,
 162,System_Help,163,688,3923,,
 162,System_Help,164,692,3924,,
 162,System_Help,165,696,3925,,
 162,System_Help,166,700,3926,,
 162,System_Help,167,704,3927,,
-162,System_Help,168,708,3928,Tag Tricks,
-162,System_Help,169,712,3939,Tag Tricks,
+162,System_Help,168,708,3928,Tag Tricks,แท็กทริก
+162,System_Help,169,712,3939,Tag Tricks,แท็กทริก
 162,System_Help,170,716,3950,,
 162,System_Help,171,720,3951,,
 162,System_Help,172,724,3952,,
 162,System_Help,173,728,3953,,
 162,System_Help,174,732,3954,,
 162,System_Help,175,736,3955,,
-162,System_Help,176,740,3956,Drawing/Sheathing Weapons,
-162,System_Help,177,744,3982,Drawing/Sheathing Weapons,
+162,System_Help,176,740,3956,Drawing/Sheathing Weapons,การชักดาบ/เก็บอาวุธ
+162,System_Help,177,744,3982,Drawing/Sheathing Weapons,การชักดาบ/เก็บอาวุธ
 162,System_Help,178,748,4008,,
 162,System_Help,179,752,4009,,
 162,System_Help,180,756,4010,,
 162,System_Help,181,760,4011,,
 162,System_Help,182,764,4012,,
 162,System_Help,183,768,4013,,
-162,System_Help,184,772,4014,Teleportals,
-162,System_Help,185,776,4026,Teleportals,
+162,System_Help,184,772,4014,Teleportals,ประตูมิติ
+162,System_Help,185,776,4026,Teleportals,ประตูมิติ
 162,System_Help,186,780,4038,,
 162,System_Help,187,784,4039,,
 162,System_Help,188,788,4040,,
 162,System_Help,189,792,4041,,
 162,System_Help,190,796,4042,,
 162,System_Help,191,800,4043,,
-162,System_Help,192,804,4044,<F4><S2>,
-162,System_Help,193,808,4051,<F4><S2>,
+162,System_Help,192,804,4044,<F4><S2>,<F4><S2>
+162,System_Help,193,808,4051,<F4><S2>,<F4><S2>
 162,System_Help,194,812,4058,,
 162,System_Help,195,816,4059,,
 162,System_Help,196,820,4060,,
 162,System_Help,197,824,4061,,
 162,System_Help,198,828,4062,,
 162,System_Help,199,832,4063,,
-162,System_Help,200,836,4064,<F4><S3>,
-162,System_Help,201,840,4071,<F4><S3>,
+162,System_Help,200,836,4064,<F4><S3>,<F4><S3>
+162,System_Help,201,840,4071,<F4><S3>,<F4><S3>
 162,System_Help,202,844,4078,,
 162,System_Help,203,848,4079,,
 162,System_Help,204,852,4080,,
 162,System_Help,205,856,4081,,
 162,System_Help,206,860,4082,,
 162,System_Help,207,864,4083,,
-162,System_Help,208,868,4084,Cesar,
-162,System_Help,209,872,4090,Cesar,
+162,System_Help,208,868,4084,Cesar,ซีซาร์
+162,System_Help,209,872,4090,Cesar,ซีซาร์
 162,System_Help,210,876,4096,,
 162,System_Help,211,880,4097,,
 162,System_Help,212,884,4098,,
 162,System_Help,213,888,4099,,
 162,System_Help,214,892,4100,,
 162,System_Help,215,896,4101,,
-162,System_Help,216,900,4102,Desdemona,
-162,System_Help,217,904,4112,Desdemona,
+162,System_Help,216,900,4102,Desdemona,เดสเดโมน่า
+162,System_Help,217,904,4112,Desdemona,เดสเดโมน่า
 162,System_Help,218,908,4122,,
 162,System_Help,219,912,4123,,
 162,System_Help,220,916,4124,,
 162,System_Help,221,920,4125,,
 162,System_Help,222,924,4126,,
 162,System_Help,223,928,4127,,
-162,System_Help,224,932,4128,Alena,
-162,System_Help,225,936,4134,Alena,
+162,System_Help,224,932,4128,Alena,อาลีน่า
+162,System_Help,225,936,4134,Alena,อาลีน่า
 162,System_Help,226,940,4140,,
 162,System_Help,227,944,4141,,
 162,System_Help,228,948,4142,,
 162,System_Help,229,952,4143,,
 162,System_Help,230,956,4144,,
 162,System_Help,231,960,4145,,
-162,System_Help,232,964,4146,Kiryl,
-162,System_Help,233,968,4152,Kiryl,
+162,System_Help,232,964,4146,Kiryl,คริฟต์
+162,System_Help,233,968,4152,Kiryl,คริฟต์
 162,System_Help,234,972,4158,,
 162,System_Help,235,976,4159,,
 162,System_Help,236,980,4160,,
 162,System_Help,237,984,4161,,
 162,System_Help,238,988,4162,,
 162,System_Help,239,992,4163,,
-162,System_Help,240,996,4164,Torneko,
-162,System_Help,241,1000,4172,Torneko,
+162,System_Help,240,996,4164,Torneko,ทอร์เนโก้
+162,System_Help,241,1000,4172,Torneko,ทอร์เนโก้
 162,System_Help,242,1004,4180,,
 162,System_Help,243,1008,4181,,
 162,System_Help,244,1012,4182,,
 162,System_Help,245,1016,4183,,
 162,System_Help,246,1020,4184,,
 162,System_Help,247,1024,4185,,
-162,System_Help,248,1028,4186,Meena,
-162,System_Help,249,1032,4192,Meena,
+162,System_Help,248,1028,4186,Meena,มีเนีย
+162,System_Help,249,1032,4192,Meena,มีเนีย
 162,System_Help,250,1036,4198,,
 162,System_Help,251,1040,4199,,
 162,System_Help,252,1044,4200,,
 162,System_Help,253,1048,4201,,
 162,System_Help,254,1052,4202,,
 162,System_Help,255,1056,4203,,
-162,System_Help,256,1060,4204,Maya,
-162,System_Help,257,1064,4209,Maya,
+162,System_Help,256,1060,4204,Maya,มาเนีย
+162,System_Help,257,1064,4209,Maya,มาเนีย
 162,System_Help,258,1068,4214,,
 162,System_Help,259,1072,4215,,
 162,System_Help,260,1076,4216,,
 162,System_Help,261,1080,4217,,
 162,System_Help,262,1084,4218,,
 162,System_Help,263,1088,4219,,
-162,System_Help,264,1092,4220,Carver,
-162,System_Help,265,1096,4227,Carver,
+162,System_Help,264,1092,4220,Carver,ฮัสซัน
+162,System_Help,265,1096,4227,Carver,ฮัสซัน
 162,System_Help,266,1100,4234,,
 162,System_Help,267,1104,4235,,
 162,System_Help,268,1108,4236,,
 162,System_Help,269,1112,4237,,
 162,System_Help,270,1116,4238,,
 162,System_Help,271,1120,4239,,
-162,System_Help,272,1124,4240,Terry,
-162,System_Help,273,1128,4246,Terry,
+162,System_Help,272,1124,4240,Terry,เทอร์รี่
+162,System_Help,273,1128,4246,Terry,เทอร์รี่
 162,System_Help,274,1132,4252,,
 162,System_Help,275,1136,4253,,
 162,System_Help,276,1140,4254,,
 162,System_Help,277,1144,4255,,
 162,System_Help,278,1148,4256,,
 162,System_Help,279,1152,4257,,
-162,System_Help,280,1156,4258,Maribel,
-162,System_Help,281,1160,4266,Maribel,
+162,System_Help,280,1156,4258,Maribel,มาริเบล
+162,System_Help,281,1160,4266,Maribel,มาริเบล
 162,System_Help,282,1164,4274,,
 162,System_Help,283,1168,4275,,
 162,System_Help,284,1172,4276,,
 162,System_Help,285,1176,4277,,
 162,System_Help,286,1180,4278,,
 162,System_Help,287,1184,4279,,
-162,System_Help,288,1188,4280,Ruff,
-162,System_Help,289,1192,4285,Ruff,
+162,System_Help,288,1188,4280,Ruff,กาโบ
+162,System_Help,289,1192,4285,Ruff,กาโบ
 162,System_Help,290,1196,4290,,
 162,System_Help,291,1200,4291,,
 162,System_Help,292,1204,4292,,
 162,System_Help,293,1208,4293,,
 162,System_Help,294,1212,4294,,
 162,System_Help,295,1216,4295,,
-162,System_Help,296,1220,4296,Angelo,
-162,System_Help,297,1224,4303,Angelo,
+162,System_Help,296,1220,4296,Angelo,คูเคิล
+162,System_Help,297,1224,4303,Angelo,คูเคิล
 162,System_Help,298,1228,4310,,
 162,System_Help,299,1232,4311,,
 162,System_Help,300,1236,4312,,
 162,System_Help,301,1240,4313,,
 162,System_Help,302,1244,4314,,
 162,System_Help,303,1248,4315,,
-162,System_Help,304,1252,4316,Jessica,
-162,System_Help,305,1256,4324,Jessica,
+162,System_Help,304,1252,4316,Jessica,เจสสิก้า
+162,System_Help,305,1256,4324,Jessica,เจสสิก้า
 162,System_Help,306,1260,4332,,
 162,System_Help,307,1264,4333,,
 162,System_Help,308,1268,4334,,
 162,System_Help,309,1272,4335,,
 162,System_Help,310,1276,4336,,
 162,System_Help,311,1280,4337,,
-162,System_Help,312,1284,4338,Monster Medal Types,
-162,System_Help,313,1288,4358,Monster Medal Types,
+162,System_Help,312,1284,4338,Monster Medal Types,ประเภทของเหรียญมอนสเตอร์
+162,System_Help,313,1288,4358,Monster Medal Types,ประเภทของเหรียญมอนสเตอร์
 162,System_Help,314,1292,4378,,
 162,System_Help,315,1296,4379,,
 162,System_Help,316,1300,4380,,
 162,System_Help,317,1304,4381,,
 162,System_Help,318,1308,4382,,
 162,System_Help,319,1312,4383,,
-162,System_Help,320,1316,4384,Patty's Place,
-162,System_Help,321,1320,4398,Patty's Place,
+162,System_Help,320,1316,4384,Patty's Place,บาร์ของแพตตี้
+162,System_Help,321,1320,4398,Patty's Place,บาร์ของแพตตี้
 162,System_Help,322,1324,4412,,
 162,System_Help,323,1328,4413,,
 162,System_Help,324,1332,4414,,
 162,System_Help,325,1336,4415,,
 162,System_Help,326,1340,4416,,
 162,System_Help,327,1344,4417,,
-162,System_Help,328,1348,4418,Breakneck Bonuses,
-162,System_Help,329,1352,4436,Breakneck Bonuses,
+162,System_Help,328,1348,4418,Breakneck Bonuses,โบนัสเผด็จศึกฉับไว
+162,System_Help,329,1352,4436,Breakneck Bonuses,โบนัสเผด็จศึกฉับไว
 162,System_Help,330,1356,4454,,
 162,System_Help,331,1360,4455,,
 162,System_Help,332,1364,4456,,
 162,System_Help,333,1368,4457,,
 162,System_Help,334,1372,4458,,
 162,System_Help,335,1376,4459,,
-162,System_Help,336,1380,4460,Battle Selection,
-162,System_Help,337,1384,4477,Battle Selection,
+162,System_Help,336,1380,4460,Battle Selection,การเลือกการต่อสู้
+162,System_Help,337,1384,4477,Battle Selection,การเลือกการต่อสู้
 162,System_Help,338,1388,4494,,
 162,System_Help,339,1392,4495,,
 162,System_Help,340,1396,4496,,
 162,System_Help,341,1400,4497,,
 162,System_Help,342,1404,4498,,
 162,System_Help,343,1408,4499,,
-162,System_Help,344,1412,4500,Set Phrases,
-162,System_Help,345,1416,4512,Set Phrases,
+162,System_Help,344,1412,4500,Set Phrases,ข้อความสำเร็จรูป
+162,System_Help,345,1416,4512,Set Phrases,ข้อความสำเร็จรูป
 162,System_Help,346,1420,4524,,
 162,System_Help,347,1424,4525,,
 162,System_Help,348,1428,4526,,
 162,System_Help,349,1432,4527,,
 162,System_Help,350,1436,4528,,
 162,System_Help,351,1440,4529,,
-162,System_Help,352,1444,4530,Flying Start Mode,
-162,System_Help,353,1448,4548,Flying Start Mode,
+162,System_Help,352,1444,4530,Flying Start Mode,โหมดเริ่มต้นแบบก้าวกระโดด
+162,System_Help,353,1448,4548,Flying Start Mode,โหมดเริ่มต้นแบบก้าวกระโดด
 162,System_Help,354,1452,4566,,
 162,System_Help,355,1456,4567,,
 162,System_Help,356,1460,4568,,
 162,System_Help,357,1464,4569,,
 162,System_Help,358,1468,4570,,
 162,System_Help,359,1472,4571,,
-162,System_Help,360,1476,4572,Vocations,
-162,System_Help,361,1480,4582,Vocations,
+162,System_Help,360,1476,4572,Vocations,สายอาชีพ
+162,System_Help,361,1480,4582,Vocations,สายอาชีพ
 162,System_Help,362,1484,4592,,
 162,System_Help,363,1488,4593,,
 162,System_Help,364,1492,4594,,
 162,System_Help,365,1496,4595,,
 162,System_Help,366,1500,4596,,
 162,System_Help,367,1504,4597,,
-162,System_Help,368,1508,4598,Camera Settings,
-162,System_Help,369,1512,4614,Camera Settings,
+162,System_Help,368,1508,4598,Camera Settings,การตั้งค่ามุมกล้อง
+162,System_Help,369,1512,4614,Camera Settings,การตั้งค่ามุมกล้อง
 162,System_Help,370,1516,4630,,
 162,System_Help,371,1520,4631,,
 162,System_Help,372,1524,4632,,
 162,System_Help,373,1528,4633,,
 162,System_Help,374,1532,4634,,
 162,System_Help,375,1536,4635,,
-162,System_Help,376,1540,4636,Weak Spots,
-162,System_Help,377,1544,4647,Weak Spots,
+162,System_Help,376,1540,4636,Weak Spots,จุดอ่อน
+162,System_Help,377,1544,4647,Weak Spots,จุดอ่อน
 162,System_Help,378,1548,4658,,
 162,System_Help,379,1552,4659,,
 162,System_Help,380,1556,4660,,
 162,System_Help,381,1560,4661,,
 162,System_Help,382,1564,4662,,
 162,System_Help,383,1568,4663,,
-162,System_Help,384,1572,4664,Changing Party Powers,
-162,System_Help,385,1576,4686,Changing Party Powers,
+162,System_Help,384,1572,4664,Changing Party Powers,การเปลี่ยนพลังปาร์ตี้
+162,System_Help,385,1576,4686,Changing Party Powers,การเปลี่ยนพลังปาร์ตี้
 162,System_Help,386,1580,4708,,
 162,System_Help,387,1584,4709,,
 162,System_Help,388,1588,4710,,
 162,System_Help,389,1592,4711,,
 162,System_Help,390,1596,4712,,
 162,System_Help,391,1600,4713,,
-162,System_Help,392,1604,4714,Kazapple,
-162,System_Help,393,1608,4723,Kazapple,
+162,System_Help,392,1604,4714,Kazapple,มินาดีน
+162,System_Help,393,1608,4723,Kazapple,มินาดีน
 162,System_Help,394,1612,4732,,
 162,System_Help,395,1616,4733,,
 162,System_Help,396,1620,4734,,
 162,System_Help,397,1624,4735,,
 162,System_Help,398,1628,4736,,
 162,System_Help,399,1632,4737,,
-162,System_Help,400,1636,4738,The Mini-Map,
-162,System_Help,401,1640,4751,The Mini-Map,
+162,System_Help,400,1636,4738,The Mini-Map,แผนที่ย่อ
+162,System_Help,401,1640,4751,The Mini-Map,แผนที่ย่อ
 162,System_Help,402,1644,4764,,
 162,System_Help,403,1648,4765,,
 162,System_Help,404,1652,4766,,
 162,System_Help,405,1656,4767,,
 162,System_Help,406,1660,4768,,
 162,System_Help,407,1664,4769,,
-162,System_Help,408,1668,4770,Chatting with Other Players,
-162,System_Help,409,1672,4798,Chatting with Other Players,
+162,System_Help,408,1668,4770,Chatting with Other Players,การพูดคุยกับผู้เล่นอื่น
+162,System_Help,409,1672,4798,Chatting with Other Players,การพูดคุยกับผู้เล่นอื่น
 162,System_Help,410,1676,4826,,
 162,System_Help,411,1680,4827,,
 162,System_Help,412,1684,4828,,
 162,System_Help,413,1688,4829,,
 162,System_Help,414,1692,4830,,
 162,System_Help,415,1696,4831,,
-162,System_Help,416,1700,4832,Bonus Balls,
-162,System_Help,417,1704,4844,Bonus Balls,
+162,System_Help,416,1700,4832,Bonus Balls,ลูกบอลโบนัส
+162,System_Help,417,1704,4844,Bonus Balls,ลูกบอลโบนัส
 162,System_Help,418,1708,4856,,
 162,System_Help,419,1712,4857,,
 162,System_Help,420,1716,4858,,
 162,System_Help,421,1720,4859,,
 162,System_Help,422,1724,4860,,
 162,System_Help,423,1728,4861,,
-162,System_Help,424,1732,4862,Kazapple (Multiplayer),
-162,System_Help,425,1736,4885,Kazapple (Multiplayer),
+162,System_Help,424,1732,4862,Kazapple (Multiplayer),มินาดีน (ผู้เล่นหลายคน)
+162,System_Help,425,1736,4885,Kazapple (Multiplayer),มินาดีน (ผู้เล่นหลายคน)
 162,System_Help,426,1740,4908,,
 162,System_Help,427,1744,4909,,
 162,System_Help,428,1748,4910,,
 162,System_Help,429,1752,4911,,
 162,System_Help,430,1756,4912,,
 162,System_Help,431,1760,4913,,
-162,System_Help,432,1764,4914,Multiplayer Mode Attributes,
-162,System_Help,433,1768,4942,Multiplayer Mode Attributes,
+162,System_Help,432,1764,4914,Multiplayer Mode Attributes,ค่าสถานะในโหมดผู้เล่นหลายคน
+162,System_Help,433,1768,4942,Multiplayer Mode Attributes,ค่าสถานะในโหมดผู้เล่นหลายคน
 162,System_Help,434,1772,4970,,
 162,System_Help,435,1776,4971,,
 162,System_Help,436,1780,4972,,
 162,System_Help,437,1784,4973,,
 162,System_Help,438,1788,4974,,
 162,System_Help,439,1792,4975,,
-162,System_Help,440,1796,4976,Multiplayer Mode Rules,
-162,System_Help,441,1800,4999,Multiplayer Mode Rules,
+162,System_Help,440,1796,4976,Multiplayer Mode Rules,กฎของโหมดผู้เล่นหลายคน
+162,System_Help,441,1800,4999,Multiplayer Mode Rules,กฎของโหมดผู้เล่นหลายคน
 162,System_Help,442,1804,5022,,
 162,System_Help,443,1808,5023,,
 162,System_Help,444,1812,5024,,
 162,System_Help,445,1816,5025,,
 162,System_Help,446,1820,5026,,
 162,System_Help,447,1824,5027,,
-162,System_Help,448,1828,5028,Multiplayer Mode Rankings,
-162,System_Help,449,1832,5054,Multiplayer Mode Rankings,
+162,System_Help,448,1828,5028,Multiplayer Mode Rankings,อันดับในโหมดผู้เล่นหลายคน
+162,System_Help,449,1832,5054,Multiplayer Mode Rankings,อันดับในโหมดผู้เล่นหลายคน
 162,System_Help,450,1836,5080,,
 162,System_Help,451,1840,5081,,
 162,System_Help,452,1844,5082,,
 162,System_Help,453,1848,5083,,
 162,System_Help,454,1852,5084,,
 162,System_Help,455,1856,5085,,
-162,System_Help,456,1860,5086,Multiplayer Mode Areas,
-162,System_Help,457,1864,5109,Multiplayer Mode Areas,
+162,System_Help,456,1860,5086,Multiplayer Mode Areas,พื้นที่ในโหมดผู้เล่นหลายคน
+162,System_Help,457,1864,5109,Multiplayer Mode Areas,พื้นที่ในโหมดผู้เล่นหลายคน
 162,System_Help,458,1868,5132,,
 162,System_Help,459,1872,5133,,
 162,System_Help,460,1876,5134,,
@@ -33015,146 +33015,146 @@
 176,Battle_Perks,237,984,1761,,
 176,Battle_Perks,238,988,1762,,
 176,Battle_Perks,239,992,1763,,
-183,Combat_Tutorials,0,32,832,Using Twin Swords,
-183,Combat_Tutorials,1,36,850,Using Twin Swords,
-183,Combat_Tutorials,2,40,868,Using a Sword,
-183,Combat_Tutorials,3,44,882,Using a Sword,
-183,Combat_Tutorials,4,48,896,Using an Axe,
-183,Combat_Tutorials,5,52,909,Using an Axe,
-183,Combat_Tutorials,6,56,922,Using a Whip,
-183,Combat_Tutorials,7,60,935,Using a Whip,
-183,Combat_Tutorials,8,64,948,Using a Wand,
-183,Combat_Tutorials,9,68,961,Using a Wand,
-183,Combat_Tutorials,10,72,974,Using a Spear,
-183,Combat_Tutorials,11,76,988,Using a Spear,
-183,Combat_Tutorials,12,80,1002,Using a Bow,
-183,Combat_Tutorials,13,84,1014,Using a Bow,
-183,Combat_Tutorials,14,88,1026,Using a Staff,
-183,Combat_Tutorials,15,92,1040,Using a Staff,
-183,Combat_Tutorials,16,96,1054,Using a Heavy Wand,
-183,Combat_Tutorials,17,100,1073,Using a Heavy Wand,
-183,Combat_Tutorials,18,104,1092,Using Claws,
-183,Combat_Tutorials,19,108,1104,Using Claws,
-183,Combat_Tutorials,20,112,1116,Desdemona,
-183,Combat_Tutorials,21,116,1126,Desdemona,
-183,Combat_Tutorials,22,120,1136,Cesar,
-183,Combat_Tutorials,23,124,1142,Cesar,
-183,Combat_Tutorials,24,128,1148,Alena,
-183,Combat_Tutorials,25,132,1154,Alena,
-183,Combat_Tutorials,26,136,1160,Kiryl,
-183,Combat_Tutorials,27,140,1166,Kiryl,
-183,Combat_Tutorials,28,144,1172,Torneko,
-183,Combat_Tutorials,29,148,1180,Torneko,
-183,Combat_Tutorials,30,152,1188,Meena,
-183,Combat_Tutorials,31,156,1194,Meena,
-183,Combat_Tutorials,32,160,1200,Maya,
-183,Combat_Tutorials,33,164,1205,Maya,
-183,Combat_Tutorials,34,168,1210,Carver,
-183,Combat_Tutorials,35,172,1217,Carver,
-183,Combat_Tutorials,36,176,1224,Terry,
-183,Combat_Tutorials,37,180,1230,Terry,
-183,Combat_Tutorials,38,184,1236,Maribel,
-183,Combat_Tutorials,39,188,1244,Maribel,
-183,Combat_Tutorials,40,192,1252,Ruff,
-183,Combat_Tutorials,41,196,1257,Ruff,
-183,Combat_Tutorials,42,200,1262,Angelo,
-183,Combat_Tutorials,43,204,1269,Angelo,
-183,Combat_Tutorials,44,208,1276,Jessica,
-183,Combat_Tutorials,45,212,1284,Jessica,
-183,Combat_Tutorials,46,216,1292,Luceus,
-183,Combat_Tutorials,47,220,1299,Luceus,
-183,Combat_Tutorials,48,224,1306,Aurora,
-183,Combat_Tutorials,49,228,1313,Aurora,
-183,Combat_Tutorials,50,232,1320,Doric,
-183,Combat_Tutorials,51,236,1326,Doric,
-183,Combat_Tutorials,52,240,1332,Isla,
-183,Combat_Tutorials,53,244,1337,Isla,
-183,Combat_Tutorials,54,248,1342,Yangus,
-183,Combat_Tutorials,55,252,1349,Yangus,
-183,Combat_Tutorials,56,256,1356,Bianca,
-183,Combat_Tutorials,57,260,1363,Bianca,
-183,Combat_Tutorials,58,264,1370,Nera,
-183,Combat_Tutorials,59,268,1375,Nera,
-183,Combat_Tutorials,60,272,1380,Psaro,
-183,Combat_Tutorials,61,276,1386,Psaro,
-183,Combat_Tutorials,62,280,1392,Basic Controls,
-183,Combat_Tutorials,63,284,1407,Basic Controls,
-183,Combat_Tutorials,64,288,1422,Basic Controls 2,
-183,Combat_Tutorials,65,292,1439,Basic Controls 2,
-183,Combat_Tutorials,66,296,1456,Basic Controls 3,
-183,Combat_Tutorials,67,300,1473,Basic Controls 3,
-183,Combat_Tutorials,68,304,1490,Attack 1 and Attack 2,
-183,Combat_Tutorials,69,308,1512,Attack 1 and Attack 2,
-183,Combat_Tutorials,70,312,1534,Spells and Abilities,
-183,Combat_Tutorials,71,316,1555,Spells and Abilities,
-183,Combat_Tutorials,72,320,1576,Tension,
-183,Combat_Tutorials,73,324,1584,Tension,
-183,Combat_Tutorials,74,328,1592,Getting Fired Up/Evading Attacks,
-183,Combat_Tutorials,75,332,1625,Getting Fired Up/Evading Attacks,
-183,Combat_Tutorials,76,336,1658,Recovery and Blocking,
-183,Combat_Tutorials,77,340,1680,Recovery and Blocking,
-183,Combat_Tutorials,78,344,1702,Locking On,
-183,Combat_Tutorials,79,348,1713,Locking On,
-183,Combat_Tutorials,80,352,1724,Changing Characters,
-183,Combat_Tutorials,81,356,1744,Changing Characters,
-183,Combat_Tutorials,82,360,1764,Monster Minion Controls,
-183,Combat_Tutorials,83,364,1788,Monster Minion Controls,
-183,Combat_Tutorials,84,368,1812,Monster Minion Types,
-183,Combat_Tutorials,85,372,1833,Monster Minion Types,
-183,Combat_Tutorials,86,376,1854,Gameplay Overview,
-183,Combat_Tutorials,87,380,1872,Gameplay Overview,
-183,Combat_Tutorials,88,384,1890,List of Menus,
-183,Combat_Tutorials,89,388,1904,List of Menus,
-183,Combat_Tutorials,90,392,1918,Skills,
-183,Combat_Tutorials,91,396,1925,Skills,
-183,Combat_Tutorials,92,400,1932,Equipment,
-183,Combat_Tutorials,93,404,1942,Equipment,
-183,Combat_Tutorials,94,408,1952,Attributes,
-183,Combat_Tutorials,95,412,1963,Attributes,
-183,Combat_Tutorials,96,416,1974,Zoom and Evac,
-183,Combat_Tutorials,97,420,1988,Zoom and Evac,
-183,Combat_Tutorials,98,424,2002,The Armourer and the Orb Seller,
-183,Combat_Tutorials,99,428,2034,The Armourer and the Orb Seller,
-183,Combat_Tutorials,100,432,2066,Auntie Alchemy,
-183,Combat_Tutorials,101,436,2081,Auntie Alchemy,
-183,Combat_Tutorials,102,440,2096,Patty's Place,
-183,Combat_Tutorials,103,444,2110,Patty's Place,
-183,Combat_Tutorials,104,448,2124,The Quester's Rest,
-183,Combat_Tutorials,105,452,2143,The Quester's Rest,
-183,Combat_Tutorials,106,456,2162,The Abbot of Alltrades,
-183,Combat_Tutorials,107,460,2185,The Abbot of Alltrades,
-183,Combat_Tutorials,108,464,2208,Other Facilities 1,
-183,Combat_Tutorials,109,468,2227,Other Facilities 1,
-183,Combat_Tutorials,110,472,2246,Other Facilities 2,
-183,Combat_Tutorials,111,476,2265,Other Facilities 2,
-183,Combat_Tutorials,112,480,2284,Game Interface,
-183,Combat_Tutorials,113,484,2299,Game Interface,
-183,Combat_Tutorials,114,488,2314,Player Information,
-183,Combat_Tutorials,115,492,2333,Player Information,
-183,Combat_Tutorials,116,496,2352,Wild Zones,
-183,Combat_Tutorials,117,500,2363,Wild Zones,
-183,Combat_Tutorials,118,504,2374,War Zones,
-183,Combat_Tutorials,119,508,2384,War Zones,
-183,Combat_Tutorials,120,512,2394,Battle Basics,
-183,Combat_Tutorials,121,516,2408,Battle Basics,
-183,Combat_Tutorials,122,520,2422,Nightmaws,
-183,Combat_Tutorials,123,524,2432,Nightmaws,
-183,Combat_Tutorials,124,528,2442,Bosses,
-183,Combat_Tutorials,125,532,2449,Bosses,
-183,Combat_Tutorials,126,536,2456,Status Ailments and Boosts,
-183,Combat_Tutorials,127,540,2483,Status Ailments and Boosts,
-183,Combat_Tutorials,128,544,2510,Healing and Reviving,
-183,Combat_Tutorials,129,548,2531,Healing and Reviving,
-183,Combat_Tutorials,130,552,2552,Spoils,
-183,Combat_Tutorials,131,556,2559,Spoils,
-183,Combat_Tutorials,132,560,2566,Finding Other Players,
-183,Combat_Tutorials,133,564,2588,Finding Other Players,
-183,Combat_Tutorials,134,568,2610,The World Between Dimensions,
-183,Combat_Tutorials,135,572,2639,The World Between Dimensions,
-183,Combat_Tutorials,136,576,2668,Multiplayer,
-183,Combat_Tutorials,137,580,2680,Multiplayer,
-183,Combat_Tutorials,138,584,2692,Story Co-Op Mode,
-183,Combat_Tutorials,139,588,2709,Story Co-Op Mode,
+183,Combat_Tutorials,0,32,832,Using Twin Swords,การใช้ดาบคู่
+183,Combat_Tutorials,1,36,850,Using Twin Swords,การใช้ดาบคู่
+183,Combat_Tutorials,2,40,868,Using a Sword,การใช้ดาบมือเดียว
+183,Combat_Tutorials,3,44,882,Using a Sword,การใช้ดาบมือเดียว
+183,Combat_Tutorials,4,48,896,Using an Axe,การใช้ขวาน
+183,Combat_Tutorials,5,52,909,Using an Axe,การใช้ขวาน
+183,Combat_Tutorials,6,56,922,Using a Whip,การใช้แส้
+183,Combat_Tutorials,7,60,935,Using a Whip,การใช้แส้
+183,Combat_Tutorials,8,64,948,Using a Wand,การใช้คทาเวท
+183,Combat_Tutorials,9,68,961,Using a Wand,การใช้คทาเวท
+183,Combat_Tutorials,10,72,974,Using a Spear,การใช้หอก
+183,Combat_Tutorials,11,76,988,Using a Spear,การใช้หอก
+183,Combat_Tutorials,12,80,1002,Using a Bow,การใช้ธนู
+183,Combat_Tutorials,13,84,1014,Using a Bow,การใช้ธนู
+183,Combat_Tutorials,14,88,1026,Using a Staff,การใช้ไม้เท้า
+183,Combat_Tutorials,15,92,1040,Using a Staff,การใช้ไม้เท้า
+183,Combat_Tutorials,16,96,1054,Using a Heavy Wand,การใช้คทาหนัก
+183,Combat_Tutorials,17,100,1073,Using a Heavy Wand,การใช้คทาหนัก
+183,Combat_Tutorials,18,104,1092,Using Claws,การใช้กรงเล็บ
+183,Combat_Tutorials,19,108,1104,Using Claws,การใช้กรงเล็บ
+183,Combat_Tutorials,20,112,1116,Desdemona,เดสเดโมน่า
+183,Combat_Tutorials,21,116,1126,Desdemona,เดสเดโมน่า
+183,Combat_Tutorials,22,120,1136,Cesar,ซีซาร์
+183,Combat_Tutorials,23,124,1142,Cesar,ซีซาร์
+183,Combat_Tutorials,24,128,1148,Alena,อาลีน่า
+183,Combat_Tutorials,25,132,1154,Alena,อาลีน่า
+183,Combat_Tutorials,26,136,1160,Kiryl,คริฟต์
+183,Combat_Tutorials,27,140,1166,Kiryl,คริฟต์
+183,Combat_Tutorials,28,144,1172,Torneko,ทอร์เนโก้
+183,Combat_Tutorials,29,148,1180,Torneko,ทอร์เนโก้
+183,Combat_Tutorials,30,152,1188,Meena,มีเนีย
+183,Combat_Tutorials,31,156,1194,Meena,มีเนีย
+183,Combat_Tutorials,32,160,1200,Maya,มาเนีย
+183,Combat_Tutorials,33,164,1205,Maya,มาเนีย
+183,Combat_Tutorials,34,168,1210,Carver,ฮัสซัน
+183,Combat_Tutorials,35,172,1217,Carver,ฮัสซัน
+183,Combat_Tutorials,36,176,1224,Terry,เทอร์รี่
+183,Combat_Tutorials,37,180,1230,Terry,เทอร์รี่
+183,Combat_Tutorials,38,184,1236,Maribel,มาริเบล
+183,Combat_Tutorials,39,188,1244,Maribel,มาริเบล
+183,Combat_Tutorials,40,192,1252,Ruff,กาโบ
+183,Combat_Tutorials,41,196,1257,Ruff,กาโบ
+183,Combat_Tutorials,42,200,1262,Angelo,คูเคิล
+183,Combat_Tutorials,43,204,1269,Angelo,คูเคิล
+183,Combat_Tutorials,44,208,1276,Jessica,เจสสิก้า
+183,Combat_Tutorials,45,212,1284,Jessica,เจสสิก้า
+183,Combat_Tutorials,46,216,1292,Luceus,แอคท์
+183,Combat_Tutorials,47,220,1299,Luceus,แอคท์
+183,Combat_Tutorials,48,224,1306,Aurora,เมียร์
+183,Combat_Tutorials,49,228,1313,Aurora,เมียร์
+183,Combat_Tutorials,50,232,1320,Doric,ดิลค์
+183,Combat_Tutorials,51,236,1326,Doric,ดิลค์
+183,Combat_Tutorials,52,240,1332,Isla,จูเลียตต้า
+183,Combat_Tutorials,53,244,1337,Isla,จูเลียตต้า
+183,Combat_Tutorials,54,248,1342,Yangus,ยังกัส
+183,Combat_Tutorials,55,252,1349,Yangus,ยังกัส
+183,Combat_Tutorials,56,256,1356,Bianca,เบียงก้า
+183,Combat_Tutorials,57,260,1363,Bianca,เบียงก้า
+183,Combat_Tutorials,58,264,1370,Nera,ฟลอร่า
+183,Combat_Tutorials,59,268,1375,Nera,ฟลอร่า
+183,Combat_Tutorials,60,272,1380,Psaro,พิซาโร่
+183,Combat_Tutorials,61,276,1386,Psaro,พิซาโร่
+183,Combat_Tutorials,62,280,1392,Basic Controls,การควบคุมพื้นฐาน
+183,Combat_Tutorials,63,284,1407,Basic Controls,การควบคุมพื้นฐาน
+183,Combat_Tutorials,64,288,1422,Basic Controls 2,การควบคุมพื้นฐาน 2
+183,Combat_Tutorials,65,292,1439,Basic Controls 2,การควบคุมพื้นฐาน 2
+183,Combat_Tutorials,66,296,1456,Basic Controls 3,การควบคุมพื้นฐาน 3
+183,Combat_Tutorials,67,300,1473,Basic Controls 3,การควบคุมพื้นฐาน 3
+183,Combat_Tutorials,68,304,1490,Attack 1 and Attack 2,การโจมตี 1 และการโจมตี 2
+183,Combat_Tutorials,69,308,1512,Attack 1 and Attack 2,การโจมตี 1 และการโจมตี 2
+183,Combat_Tutorials,70,312,1534,Spells and Abilities,คาถาและอบิลิตี้
+183,Combat_Tutorials,71,316,1555,Spells and Abilities,คาถาและอบิลิตี้
+183,Combat_Tutorials,72,320,1576,Tension,พลังเทนชัน
+183,Combat_Tutorials,73,324,1584,Tension,พลังเทนชัน
+183,Combat_Tutorials,74,328,1592,Getting Fired Up/Evading Attacks,การปลุกใจ/การหลบหลีกการโจมตี
+183,Combat_Tutorials,75,332,1625,Getting Fired Up/Evading Attacks,การปลุกใจ/การหลบหลีกการโจมตี
+183,Combat_Tutorials,76,336,1658,Recovery and Blocking,การฟื้นตัวและการป้องกัน
+183,Combat_Tutorials,77,340,1680,Recovery and Blocking,การฟื้นตัวและการป้องกัน
+183,Combat_Tutorials,78,344,1702,Locking On,การล็อกเป้าหมาย
+183,Combat_Tutorials,79,348,1713,Locking On,การล็อกเป้าหมาย
+183,Combat_Tutorials,80,352,1724,Changing Characters,การเปลี่ยนตัวละคร
+183,Combat_Tutorials,81,356,1744,Changing Characters,การเปลี่ยนตัวละคร
+183,Combat_Tutorials,82,360,1764,Monster Minion Controls,การควบคุมสมุนมอนสเตอร์
+183,Combat_Tutorials,83,364,1788,Monster Minion Controls,การควบคุมสมุนมอนสเตอร์
+183,Combat_Tutorials,84,368,1812,Monster Minion Types,ประเภทของสมุนมอนสเตอร์
+183,Combat_Tutorials,85,372,1833,Monster Minion Types,ประเภทของสมุนมอนสเตอร์
+183,Combat_Tutorials,86,376,1854,Gameplay Overview,ภาพรวมระบบการเล่น
+183,Combat_Tutorials,87,380,1872,Gameplay Overview,ภาพรวมระบบการเล่น
+183,Combat_Tutorials,88,384,1890,List of Menus,รายการเมนู
+183,Combat_Tutorials,89,388,1904,List of Menus,รายการเมนู
+183,Combat_Tutorials,90,392,1918,Skills,สกิล
+183,Combat_Tutorials,91,396,1925,Skills,สกิล
+183,Combat_Tutorials,92,400,1932,Equipment,อุปกรณ์สวมใส่
+183,Combat_Tutorials,93,404,1942,Equipment,อุปกรณ์สวมใส่
+183,Combat_Tutorials,94,408,1952,Attributes,ค่าสถานะ
+183,Combat_Tutorials,95,412,1963,Attributes,ค่าสถานะ
+183,Combat_Tutorials,96,416,1974,Zoom and Evac,รูล่าและริเรมิต
+183,Combat_Tutorials,97,420,1988,Zoom and Evac,รูล่าและริเรมิต
+183,Combat_Tutorials,98,424,2002,The Armourer and the Orb Seller,ร้านขายอาวุธและร้านขายลูกแก้วออร์บ
+183,Combat_Tutorials,99,428,2034,The Armourer and the Orb Seller,ร้านขายอาวุธและร้านขายลูกแก้วออร์บ
+183,Combat_Tutorials,100,432,2066,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+183,Combat_Tutorials,101,436,2081,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+183,Combat_Tutorials,102,440,2096,Patty's Place,บาร์ของแพตตี้
+183,Combat_Tutorials,103,444,2110,Patty's Place,บาร์ของแพตตี้
+183,Combat_Tutorials,104,448,2124,The Quester's Rest,จุดพักของนักเดินทาง
+183,Combat_Tutorials,105,452,2143,The Quester's Rest,จุดพักของนักเดินทาง
+183,Combat_Tutorials,106,456,2162,The Abbot of Alltrades,เจ้าอาวาสวิหารเปลี่ยนอาชีพ
+183,Combat_Tutorials,107,460,2185,The Abbot of Alltrades,เจ้าอาวาสวิหารเปลี่ยนอาชีพ
+183,Combat_Tutorials,108,464,2208,Other Facilities 1,สิ่งอำนวยความสะดวกอื่น 1
+183,Combat_Tutorials,109,468,2227,Other Facilities 1,สิ่งอำนวยความสะดวกอื่น 1
+183,Combat_Tutorials,110,472,2246,Other Facilities 2,สิ่งอำนวยความสะดวกอื่น 2
+183,Combat_Tutorials,111,476,2265,Other Facilities 2,สิ่งอำนวยความสะดวกอื่น 2
+183,Combat_Tutorials,112,480,2284,Game Interface,อินเทอร์เฟซหน้าจอเกม
+183,Combat_Tutorials,113,484,2299,Game Interface,อินเทอร์เฟซหน้าจอเกม
+183,Combat_Tutorials,114,488,2314,Player Information,ข้อมูลผู้เล่น
+183,Combat_Tutorials,115,492,2333,Player Information,ข้อมูลผู้เล่น
+183,Combat_Tutorials,116,496,2352,Wild Zones,พื้นที่ทุ่งกว้าง
+183,Combat_Tutorials,117,500,2363,Wild Zones,พื้นที่ทุ่งกว้าง
+183,Combat_Tutorials,118,504,2374,War Zones,พื้นที่สมรภูมิสงคราม
+183,Combat_Tutorials,119,508,2384,War Zones,พื้นที่สมรภูมิสงคราม
+183,Combat_Tutorials,120,512,2394,Battle Basics,พื้นฐานการต่อสู้
+183,Combat_Tutorials,121,516,2408,Battle Basics,พื้นฐานการต่อสู้
+183,Combat_Tutorials,122,520,2422,Nightmaws,ไนท์มอร์
+183,Combat_Tutorials,123,524,2432,Nightmaws,ไนท์มอร์
+183,Combat_Tutorials,124,528,2442,Bosses,บอส
+183,Combat_Tutorials,125,532,2449,Bosses,บอส
+183,Combat_Tutorials,126,536,2456,Status Ailments and Boosts,สถานะผิดปกติและสถานะบัฟ
+183,Combat_Tutorials,127,540,2483,Status Ailments and Boosts,สถานะผิดปกติและสถานะบัฟ
+183,Combat_Tutorials,128,544,2510,Healing and Reviving,การฟื้นฟูพลังและการชุบชีวิต
+183,Combat_Tutorials,129,548,2531,Healing and Reviving,การฟื้นฟูพลังและการชุบชีวิต
+183,Combat_Tutorials,130,552,2552,Spoils,ของรางวัลจากการต่อสู้
+183,Combat_Tutorials,131,556,2559,Spoils,ของรางวัลจากการต่อสู้
+183,Combat_Tutorials,132,560,2566,Finding Other Players,การค้นหาผู้เล่นอื่น
+183,Combat_Tutorials,133,564,2588,Finding Other Players,การค้นหาผู้เล่นอื่น
+183,Combat_Tutorials,134,568,2610,The World Between Dimensions,โลกต่างมิติ
+183,Combat_Tutorials,135,572,2639,The World Between Dimensions,โลกต่างมิติ
+183,Combat_Tutorials,136,576,2668,Multiplayer,โหมดผู้เล่นหลายคน
+183,Combat_Tutorials,137,580,2680,Multiplayer,โหมดผู้เล่นหลายคน
+183,Combat_Tutorials,138,584,2692,Story Co-Op Mode,โหมดร่วมมือเล่นเนื้อเรื่อง
+183,Combat_Tutorials,139,588,2709,Story Co-Op Mode,โหมดร่วมมือเล่นเนื้อเรื่อง
 183,Combat_Tutorials,140,592,2726,,
 183,Combat_Tutorials,141,596,2727,,
 183,Combat_Tutorials,142,600,2728,,
@@ -44490,158 +44490,158 @@
 267,Monster_Lore_Bestiary,597,2420,39943,,
 267,Monster_Lore_Bestiary,598,2424,39944,,
 267,Monster_Lore_Bestiary,599,2428,39945,,
-274,Feature_Unlocks,0,32,832,Now you can switch characters in the heat of battle with <PD><FG>,
-274,Feature_Unlocks,1,36,896,UNUSED,
-274,Feature_Unlocks,2,40,903,Press <P0> when your tension gauge is full to go into high-tension mode for a limited time<FG>,
-274,Feature_Unlocks,3,44,996,UNUSED,
-274,Feature_Unlocks,4,48,1003,"As long as you're in high-tension mode, you'll be totally immune to damage<MV>and that's just for starters<FG>",
-274,Feature_Unlocks,5,52,1112,"Your attack power will also increase, and any status ailments will be cured instantly<FG>",
-274,Feature_Unlocks,6,56,1201,"And as if that wasn't enough, you'll also be able to use spells and abilities without spending a single point of MP<FG>",
-274,Feature_Unlocks,7,60,1320,"When you're done, press <P0> to unleash a coup de grâce and leave high-tension mode in style<FG>",
-274,Feature_Unlocks,8,64,1416,UNUSED,
-274,Feature_Unlocks,9,68,1423,"If you ever want to exit an encounter instantly, cast Evac to make good your escape.",
-274,Feature_Unlocks,10,72,1508,"To access it, just open the menu. And don't worry<MV>you won't lose any items, gold or experience by beating an early retreat.",
-274,Feature_Unlocks,11,76,1634,"Allies who've fallen unconscious can be revived with an Yggdrasil leaf. To use one, approach a fallen friend and press <P1>.",
-274,Feature_Unlocks,12,80,1758,"Yggdrasil leaves are consumed upon use, but your stock will be replenished whenever you leave Accordia or enter a battle.",
-274,Feature_Unlocks,13,84,1880,"If you're beaten in battle, you can choose to start the fight over again from the beginning.",
-274,Feature_Unlocks,14,88,1973,"If you choose not to start over, you'll be taken back to a priestess.",
-274,Feature_Unlocks,15,92,2043,"In either case, you'll be allowed to keep any experience or gold coins you've earned.",
-274,Feature_Unlocks,16,96,2129,"When travelling to the War Zones where specific battles happen, you'll often go through open areas, otherwise known as Wild Zones.",
-274,Feature_Unlocks,17,100,2260,"When moving around in Wild Zones, things will change depending on whether or not you're currently in battle.",
-274,Feature_Unlocks,18,104,2369,"When monsters are nearby, you'll draw your weapons ready to fight, and when they're further off, you'll put your weapons away.",
-274,Feature_Unlocks,19,108,2496,"When you're in battle, only your MP will recharge, but out of battle, both HP and MP will be replenished.",
-274,Feature_Unlocks,20,112,2602,You'll sometimes find floating jewels called Zoomstones out in the field.,
-274,Feature_Unlocks,21,116,2676,"Press <PL> to attune yourself to a Zoomstone, and you'll be able to travel there instantly from anywhere by casting Zoom.",
-274,Feature_Unlocks,22,120,2797,"When you're fighting a battle that carries on immediately from another one, you can choose to pop back for a pit stop in Accordia first.",
-274,Feature_Unlocks,23,124,2934,"You can take this opportunity to change your party line-up, equipment and skills, or to go shopping for any supplies you might need.",
-274,Feature_Unlocks,24,128,3067,"Once you've finished up in the capital, just cast Zoom to zip back to where battle awaits<FG>",
-274,Feature_Unlocks,25,132,3160,"When you're wandering around out in the wild, you'll occasionally come across people being attacked by monsters.",
-274,Feature_Unlocks,26,136,3273,"Perform your knightly duties by plucking these innocents from peril, and you'll earn extra experience<FG>",
-274,Feature_Unlocks,27,140,3378,"Every so often when you're out in the wild, you'll come across particularly powerful monsters.",
-274,Feature_Unlocks,28,144,3473,"Some of them won't let you get away without a fight, so make sure all your party members are prepared for the unexpected<FG>",
-274,Feature_Unlocks,29,148,3597,"Keep an eye out on the battlefield for beasties with their names above their heads. These are marked monsters, wanted by the authorities<FG>",
-274,Feature_Unlocks,30,152,3737,"They're tougher than the average enemy, but they'll also earn you lots of experience and exciting items<FG>",
-274,Feature_Unlocks,31,156,3844,Your monster medal holder means you can catch and carry the coins that defeated enemies sometimes drop.,
-274,Feature_Unlocks,32,160,3948,Monster medals allow you to call on a monster's particular powers whenever you like.,
-274,Feature_Unlocks,33,164,4033,"To unleash one, use <P5> to select it, then press <P9> to let it loose<FG>",
-274,Feature_Unlocks,34,168,4105,Saviour-type monster medals summon minions to support you using their trademark moves.,
-274,Feature_Unlocks,35,172,4192,"But they'll disappear as soon as they're done, so be sure to save them for just the right moment.",
-274,Feature_Unlocks,36,176,4290,Sentry-type medals summon minions to fight on your behalf until their health runs out.,
-274,Feature_Unlocks,37,180,4377,"They'll attack enemies in the immediate vicinity, and can also respond to specific situations, such as the need to protect people.",
-274,Feature_Unlocks,38,184,4508,Substitute-type medals let you walk on the wild side by temporarily taking the form of a monster<FG>,
-274,Feature_Unlocks,39,188,4608,"You'll be able to use some amazing moves, but you won't be able to change character, so be sure to save them for when the time is right<FG>",
-274,Feature_Unlocks,40,192,4747,The Zoom spell can instantly transport you to any of the Zoomstones to which you've previously attuned yourself.,
-274,Feature_Unlocks,41,196,4860,"To cast it, simply select it from the menu<MV>but bear in mind that you can't use it mid-battle, or when spells and abilities are unavailable.",
-274,Feature_Unlocks,42,200,5002,Healstones can give you an instant mid-battle health boost. Just hold down <PP> and press <P9> to use one.,
-274,Feature_Unlocks,43,204,5107,UNUSED,
-274,Feature_Unlocks,44,208,5114,"They'll be consumed upon use, but your stock will be replenished whenever you leave Accordia or enter a battle.",
-274,Feature_Unlocks,45,212,5226,"If you end up being beaten while out in a Wild Zone, you'll be transported back to a priestess with all the experience and gold you've earned.",
-274,Feature_Unlocks,46,216,5369,A person's proficiency rating tells you how good they are with a given weapon. You can increase it by inflicting damage on enemies.,
-274,Feature_Unlocks,47,220,5501,You can check your party members' proficiency with the various weapon types by looking under ‘Attributes’ in the menu.,
-274,Feature_Unlocks,48,224,5624,"And when you've earned enough, go and see the Martial Master in Accordia<MV>he might just have a thing or two to teach you<FG>",
-274,Feature_Unlocks,49,228,5749,Party Powers are special skills that give you and your allies a boost. You can learn one for every five proficiency levels with a weapon.,
-274,Feature_Unlocks,50,232,5887,"There are different powers for each of the different weapon types, and they're shared with the whole party once learned.",
-274,Feature_Unlocks,51,236,6008,"To pick which Party Powers to use, you'll need to select ‘Skills’ from the menu.",
-274,Feature_Unlocks,52,240,6093,Tag Tricks are special attacks you can carry out by pressing <PD> to change characters while holding <PP>.,
-274,Feature_Unlocks,53,244,6198,UNUSED,
-274,Feature_Unlocks,54,248,6205,"These terrific techniques can have some amazing effects, but they can also cost a lot of MP, so use them with care<FG>",
-274,Feature_Unlocks,55,252,6323,Characters will draw or sheathe their weapons depending on the situation.,
-274,Feature_Unlocks,56,256,6397,"Your weapons will be drawn if you perform any attacking actions, or if monsters appear nearby.",
-274,Feature_Unlocks,57,260,6492,"If you stop attacking for a short while, or if monsters are no longer close, your weapons will be sheathed.",
-274,Feature_Unlocks,58,264,6600,"You can run by pressing <PQ>, but only when your weapons are sheathed.",
-274,Feature_Unlocks,59,268,6670,UNUSED,
-274,Feature_Unlocks,60,272,6677,"There are other actions, such as changing equipment, that can only be performed with your weapons put away.",
-274,Feature_Unlocks,61,276,6785,Teleportals are a magical means of transport that can zip you from one place to another in an instant. Press <PL> when near one to use it.,
-274,Feature_Unlocks,62,280,6923,"<F4><S2> starts the adventure with a set of twin swords<MV>swift, versatile weapons known for their slicing, dicing combos.",
-274,Feature_Unlocks,63,284,7044,"With twin swords equipped, you can use the Cold Fission skill to swallow up whole swathes of foes in a wintry whirlwind<FG>",
-274,Feature_Unlocks,64,288,7167,"<F4><S3> starts the adventure with a sword and shield, orthodox adventuring arms suitable for any situation.",
-274,Feature_Unlocks,65,292,7274,"With a sword equipped, you can use the Inferno Slash skill to swallow up whole swathes of foes in a searing cyclone<FG>",
-274,Feature_Unlocks,66,296,7393,"Cesar wields a greatsword, and battles with both strength and sorcery. His <P2> Fissure Slice skill can damage even distant enemies.",
-274,Feature_Unlocks,67,300,7525,"His Glacier Strike ability lobs great lumps of ice at foes, and temporarily imbues his blade with an icy enchantment for extra damage<FG>",
-274,Feature_Unlocks,68,304,7662,"To learn more about spells and abilities for each character, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,69,308,7783,Desdemona uses her enormous axe to hack and slash her way through the fray. She'll keep swinging for as long as you hold <P2>.,
-274,Feature_Unlocks,70,312,7909,"Her Scrap Mettle skill devastates the defence and agility of her enemies, making her a useful ally when fighting powerful foes<FG>",
-274,Feature_Unlocks,71,316,8039,Stringing stinging attacks together is Tsarevna Alena's stock-in-trade. Hold <P2> to make her Knuckle Sandwiches hit even harder<FG>,
-274,Feature_Unlocks,72,320,8170,Her mega-fast Multifists attack deals massive damage with a blistering barrage of combo-boosting blows<FG>,
-274,Feature_Unlocks,73,324,8276,"Kiryl is a skilful and surprisingly strong spear-swinger with continuous, far-reaching strikes and other impressive abilities to boot.",
-274,Feature_Unlocks,74,328,8411,This dependable defender can use Kabuff to boost his buddies' defence<MV>an absolute Goddess-send in boss battles<FG>,
-274,Feature_Unlocks,75,332,8527,"To learn more about Alena and Kiryl's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,76,336,8647,"Torneko packs both a punch and a paunch, in the form of an almighty abacus and the belly-busting <P2> Charge ability<FG>",
-274,Feature_Unlocks,77,340,8766,"Being a merchant, he's got plenty of items at his disposal, not to mention the formidable forward-thrusting Flail of Destruction skill.",
-274,Feature_Unlocks,78,344,8902,"To learn more about each character's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,79,348,9021,"Meena is a tarot tactician who marks her targets with a carefully aimed card strike, then follows up with a flurry of other attacks.",
-274,Feature_Unlocks,80,352,9154,The Tower is a formidable skill that summons an almighty bolt of lightning to strike her mark<MV>and any nearby enemies as well<FG>,
-274,Feature_Unlocks,81,356,9284,"To learn more about Meena's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,82,360,9394,A soaring starlet whose aptitude for aerial attacks allows her to hover when she racks up 100 hits or more.,
-274,Feature_Unlocks,83,364,9502,"Her ability to unleash spells and skills from above and below lets her dance deftly across the battlefield, dealing damage as she goes.",
-274,Feature_Unlocks,84,368,9638,"To learn more about Maya's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,85,372,9747,Carver is a burly brawler who beats down baddies with his fists and feet. Hold down <P3> and <P2> to ramp up the power of his attacks<FG>,
-274,Feature_Unlocks,86,376,9882,"His Knuckle Sandwich skill lets him muster his strength, then unleash a devastating punch that can damage even distant enemies<FG>",
-274,Feature_Unlocks,87,380,10012,"Terry is a skilled swordsman with a super-fast, far-reaching swing, who's equally comfortable in both attack and defence.",
-274,Feature_Unlocks,88,384,10134,"His Lightning Strike skill frazzles foes with its shocking strength, and fries mechanical meanies' circuits to bring them to a standstill<FG>",
-274,Feature_Unlocks,89,388,10275,"To learn more about Terry and Carver's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,90,392,10396,"Maribel's boomerang is a wicked weapon on its own, but trigger Twomerang when she catches it, and you'll cause double the trouble<FG>",
-274,Feature_Unlocks,91,396,10529,Her Crosscutter Throw skill lets her nip niftily backwards while attacking at the same time<MV>great for when you need a little space.,
-274,Feature_Unlocks,92,400,10663,"Ruff's a wild child with sharp claws that can make mincemeat of enemies, and a feral friend in the form of a ferocious wolf<FG>",
-274,Feature_Unlocks,93,404,10790,His Ruff Rider attack has his canine cohort fly at foes and unleash a furious combo that can rip whole crowds of enemies to shreds. ,
-274,Feature_Unlocks,94,408,10923,"To learn more about Ruff and Maribel's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,95,412,11044,Angelo is a hawk-eyed archer who can pierce his prey with pin-point precision. Holding <P3> charges up his arrows for stronger strikes.,
-274,Feature_Unlocks,96,416,11179,"With Shining Shot, he can let fly a flurry of light-infused arrows over an area<MV>perfect for punishing groups of aggressors.",
-274,Feature_Unlocks,97,420,11305,Jessica's a whip-cracking warrior woman who can sweep whole swathes of foes off their feet with her all-encompassing attacks.,
-274,Feature_Unlocks,98,424,11431,The swirling storms she whips up with Whipcrackle lay into enemies with lashing lightning bolts<MV>aim at groups for best results<FG>,
-274,Feature_Unlocks,99,428,11563,"To learn more about Jessica and Angelo's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",
-274,Feature_Unlocks,100,432,11686,"Monster medals come in three different varieties<FI> Saviour, Sentry and Substitute.",
-274,Feature_Unlocks,101,436,11770,"Each type has its particular pros and cons<MV>give them all a go, and find out what works best for you<FG>",
-274,Feature_Unlocks,102,440,11875,Talk to Patty to have her switch allies in and out of your party. You'll find her at the inn in Accordia.,
-274,Feature_Unlocks,103,444,11981,Breakneck Bonuses are experience boosts earned by beating bigger baddies in double quick time.,
-274,Feature_Unlocks,104,448,12076,"The second your party draw their weapons, get slicing and dicing as quickly as you can and bag that bonus<FG>",
-274,Feature_Unlocks,105,452,12185,Certain battles will need to be selected from the list you see when you visit the location. Sometimes more than one will be available.,
-274,Feature_Unlocks,106,456,12320,"During these battles, you won't be able to put your weapons away, so be sure to be good and ready before you go diving in<FG>",
-274,Feature_Unlocks,107,460,12445,Use this screen to choose chat phrases to use while you're in multiplayer mode. You can set phrases for the inn and for battle separately.,
-274,Feature_Unlocks,108,464,12584,"When choosing phrases, you'll set up pages of five phrases each. There are four pages for use in the inn, and three for use in battle.",
-274,Feature_Unlocks,109,468,12719,Now you can play using Flying Start mode<FG> Venture forth anew using an adventure log containing your completed game data.,
-274,Feature_Unlocks,110,472,12842,"You'll be able to start the story again, but with all the experience, equipment and money you earned the first time around<FG>",
-274,Feature_Unlocks,111,476,12968,"And as an added bonus, each party member and every vocation will start with 50 free skill points<FG>",
-274,Feature_Unlocks,112,480,13068,"If you want to change <F4><I0>00 or <F4><I0>10's vocation, you'll need to visit the Abbot of Alltrades.",
-274,Feature_Unlocks,113,484,13168,"New vocations will open up new weapons to try, new skills to master, and a whole range of new playing styles<FG>",
-274,Feature_Unlocks,114,488,13280,But bear in mind that you'll need to start each new vocation from Level 1<MV>prepare to spend some time in training<FG>,
-274,Feature_Unlocks,115,492,13398,Use the right stick to control the camera. You can also push <PG> to lock the camera on to certain enemies.,
-274,Feature_Unlocks,116,496,13505,UNUSED,
-274,Feature_Unlocks,117,500,13512,"If you'd like to customise your camera settings, open up the menu and select ‘Misc.’, ‘Settings’, and then ‘Camera Settings’.",
-274,Feature_Unlocks,118,504,13650,Some monsters have particular parts that are more vulnerable to attack than others.,
-274,Feature_Unlocks,119,508,13734,"Work out your enemies' weak spots, and wallop them where it hurts<FG>",
-274,Feature_Unlocks,120,512,13803,"You can allocate as many Party Powers as you like, as long as you don't exceed your current capacity.",
-274,Feature_Unlocks,121,516,13905,"Kazapple is a super-charged spell that has to be cast by all four of your party at once<MV>a kind of magical coup de grâce, if you will.",
-274,Feature_Unlocks,122,520,14042,"To use it, you'll need to have the ‘Knack of Kazapple’ Party Power activated.",
-274,Feature_Unlocks,123,524,14124,"Enact the Knack, and you can activate Kazapple like you would a Tag Trick.",
-274,Feature_Unlocks,124,528,14199,"Just press <PD> while holding down <PP> to offload everyone's tension in one go, and unleash the ultimate enchantment<FG>",
-274,Feature_Unlocks,125,532,14318,UNUSED,
-274,Feature_Unlocks,126,536,14325,Press <PI> to toggle the map in the top-right of the screen between a view of your surroundings and one of the entire area.,
-274,Feature_Unlocks,127,540,14448,UNUSED,
-274,Feature_Unlocks,128,544,14455,Objectives will be indicated on the map with flag icons.,
-274,Feature_Unlocks,129,548,14512,"In multiplayer modes, you can communicate with other players using a selection of preset phrases.",
-274,Feature_Unlocks,130,552,14610,Hold <PD> to bring up a list at the bottom of the screen.,
-274,Feature_Unlocks,131,556,14667,UNUSED,
-274,Feature_Unlocks,132,560,14674,"When the list is open, move the cursor with <P5> to choose the phrase you want to use, then press <P9> to send it.",
-274,Feature_Unlocks,133,564,14787,Give it a whirl<MV>multiplayer's much more fun when everyone's interacting<FG>,
-274,Feature_Unlocks,134,568,14864,Bonus balls are amazing objects that earn you double experience for a limited time only<FG> Open the menu and go to ‘Inventory’ to use one<FG>,
-274,Feature_Unlocks,135,572,15009,Press <PD> while holding <PP> to ready yourself to cast Kazapple.,
-274,Feature_Unlocks,136,576,15073,NOT USED,
-274,Feature_Unlocks,137,580,15082,The rest of the party can then join in by doing the same.,
-274,Feature_Unlocks,138,584,15140,NOT USED,
-274,Feature_Unlocks,139,588,15149,"When everyone's ready, the caster can use that magic button combination again to offload all your tension at once and let rip<FG>",
-274,Feature_Unlocks,140,592,15278,NOT USED,
-274,Feature_Unlocks,141,596,15287,"You can choose whichever character, vocation and weapon type you wish. You can also set spells and abilities in advance.",
-274,Feature_Unlocks,142,600,15408,"To keep things fair, levels, equipment, skills and Party Powers won't count here, and your attributes will be set to predetermined values.",
-274,Feature_Unlocks,143,604,15547,"In Monster Medal Melee mode, you'll compete with other players to earn the most points in a duel with a dungeon master.",
-274,Feature_Unlocks,144,608,15667,"Damaging the dungeon master directly will boost your score a bit, but using monster medals is the way to win big<FG>",
-274,Feature_Unlocks,145,612,15783,"All three types of monster medal are available, so give them all a go and see what works best<FG>",
-274,Feature_Unlocks,146,616,15880,And don't worry about being clobbered unconscious<MV>you'll be brought straight back to life to keep on clocking up the points<FG>,
-274,Feature_Unlocks,147,620,16009,Your overall performance in monster medal melees will be reflected in the form of a ranking.,
-274,Feature_Unlocks,148,624,16102,"The better you do in a battle, the bigger the haul of rank-improving points. And using the Traveller's Tome will earn you even more<FG>",
-274,Feature_Unlocks,149,628,16237,"Usually, you'll be competing with combatants of a similar rank, but if you go via the inn, you can find opponents of all abilities.",
-274,Feature_Unlocks,150,632,16369,Now you can play with people from all over the world<FG>,
-274,Feature_Unlocks,151,636,16425,"But if you only want to play with people from nearby, you can change the ‘Multiplayer Region’ option under ‘Online Settings’.",
+274,Feature_Unlocks,0,32,832,Now you can switch characters in the heat of battle with <PD><FG>,ตอนนี้คุณสามารถสลับตัวละครในระหว่างการต่อสู้อันดุเดือดได้ด้วยปุ่ม <PD><FG>
+274,Feature_Unlocks,1,36,896,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,2,40,903,Press <P0> when your tension gauge is full to go into high-tension mode for a limited time<FG>,กดปุ่ม <P0> เมื่อเกจเทนชันเต็มเพื่อเข้าสู่โหมดไฮเทนชันชั่วระยะเวลาหนึ่ง<FG>
+274,Feature_Unlocks,3,44,996,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,4,48,1003,"As long as you're in high-tension mode, you'll be totally immune to damage<MV>and that's just for starters<FG>",ตราบใดที่อยู่ในโหมดไฮเทนชัน คุณจะไร้เทียมทานต่อความเสียหายทั้งหมด<MV>และนั่นเป็นเพียงแค่จุดเริ่มต้นเท่านั้น<FG>
+274,Feature_Unlocks,5,52,1112,"Your attack power will also increase, and any status ailments will be cured instantly<FG>",พลังโจมตีของคุณจะเพิ่มขึ้นด้วย และสถานะผิดปกติทั้งหมดจะได้รับการรักษาทันที<FG>
+274,Feature_Unlocks,6,56,1201,"And as if that wasn't enough, you'll also be able to use spells and abilities without spending a single point of MP<FG>",และยิ่งไปกว่านั้น คุณยังสามารถใช้คาถาและอบิลิตี้ได้โดยไม่เสีย MP เลยแม้แต่หน่วยเดียว<FG>
+274,Feature_Unlocks,7,60,1320,"When you're done, press <P0> to unleash a coup de grâce and leave high-tension mode in style<FG>",เมื่อต้องการเผด็จศึก ให้กดปุ่ม <P0> เพื่อปลดปล่อยท่าไม้ตายสูงสุดและจบโหมดไฮเทนชันอย่างสง่างาม<FG>
+274,Feature_Unlocks,8,64,1416,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,9,68,1423,"If you ever want to exit an encounter instantly, cast Evac to make good your escape.",หากคุณต้องการออกจากการปะทะในทันที จงร่ายคาถาริเรมิตเพื่อหลบหนีอย่างปลอดภัย
+274,Feature_Unlocks,10,72,1508,"To access it, just open the menu. And don't worry<MV>you won't lose any items, gold or experience by beating an early retreat.",หากต้องการใช้งาน เพียงแค่เปิดเมนูขึ้นมา และไม่ต้องกังวล<MV>คุณจะไม่สูญเสียไอเทม เงิน หรือ EXP ใด ๆ จากการล่าถอยก่อนเวลา
+274,Feature_Unlocks,11,76,1634,"Allies who've fallen unconscious can be revived with an Yggdrasil leaf. To use one, approach a fallen friend and press <P1>.",เพื่อนร่วมทีมที่หมดสติสามารถชุบชีวิตได้ด้วยใบไม้อิกดราซิล หากต้องการใช้ ให้เดินเข้าไปใกล้เพื่อนที่ล้มลงแล้วกดปุ่ม <P1>
+274,Feature_Unlocks,12,80,1758,"Yggdrasil leaves are consumed upon use, but your stock will be replenished whenever you leave Accordia or enter a battle.",ใบไม้อิกดราซิลจะถูกใช้หมดไป แต่จะได้รับการเติมจนเต็มทุกครั้งที่คุณออกจากออร์คาเนียหรือเริ่มการต่อสู้
+274,Feature_Unlocks,13,84,1880,"If you're beaten in battle, you can choose to start the fight over again from the beginning.",หากคุณพ่ายแพ้ในการต่อสู้ คุณสามารถเลือกที่จะเริ่มการต่อสู้นั้นใหม่อีกครั้งตั้งแต่ต้นได้
+274,Feature_Unlocks,14,88,1973,"If you choose not to start over, you'll be taken back to a priestess.",หากเลือกที่จะไม่เริ่มใหม่ คุณจะถูกส่งตัวกลับไปพบนักบวชหญิง
+274,Feature_Unlocks,15,92,2043,"In either case, you'll be allowed to keep any experience or gold coins you've earned.",ไม่ว่าจะเลือกทางใด คุณยังคงเก็บ EXP หรือเหรียญทองที่ได้รับไว้ได้ทั้งหมด
+274,Feature_Unlocks,16,96,2129,"When travelling to the War Zones where specific battles happen, you'll often go through open areas, otherwise known as Wild Zones.",เมื่อเดินทางไปยังพื้นที่สมรภูมิสงครามซึ่งมีการต่อสู้เฉพาะเกิดขึ้น บ่อยครั้งที่คุณต้องเดินทางผ่านพื้นที่โล่งกว้าง ซึ่งเรียกว่าพื้นที่ทุ่งกว้าง
+274,Feature_Unlocks,17,100,2260,"When moving around in Wild Zones, things will change depending on whether or not you're currently in battle.",เมื่อเคลื่อนที่ไปมาในพื้นที่ทุ่งกว้าง สิ่งต่าง ๆ จะเปลี่ยนไปขึ้นอยู่กับว่าคุณกำลังอยู่ในการต่อสู้หรือไม่
+274,Feature_Unlocks,18,104,2369,"When monsters are nearby, you'll draw your weapons ready to fight, and when they're further off, you'll put your weapons away.",เมื่อมีมอนสเตอร์อยู่ใกล้ ๆ คุณจะชักอาวุธออกมาเตรียมพร้อมสู้ และเมื่อพวกมันอยู่ห่างออกไป คุณจะเก็บอาวุธเข้าฝัก
+274,Feature_Unlocks,19,108,2496,"When you're in battle, only your MP will recharge, but out of battle, both HP and MP will be replenished.",เมื่ออยู่ในการต่อสู้ เฉพาะ MP ของคุณเท่านั้นที่จะฟื้นฟู แต่เมื่ออยู่นอกการต่อสู้ ทั้ง HP และ MP จะได้รับการฟื้นฟูจนเต็ม
+274,Feature_Unlocks,20,112,2602,You'll sometimes find floating jewels called Zoomstones out in the field.,บางครั้งคุณจะพบอัญมณีลอยได้ที่เรียกว่าศิลารูล่าอยู่ตามทุ่งกว้าง
+274,Feature_Unlocks,21,116,2676,"Press <PL> to attune yourself to a Zoomstone, and you'll be able to travel there instantly from anywhere by casting Zoom.",กดปุ่ม <PL> เพื่อเชื่อมต่อจิตกับศิลารูล่า แล้วคุณจะสามารถเดินทางมาที่นี่ได้ทันทีจากทุกหนแห่งด้วยการร่ายคาถารูล่า
+274,Feature_Unlocks,22,120,2797,"When you're fighting a battle that carries on immediately from another one, you can choose to pop back for a pit stop in Accordia first.",เมื่อต้องสู้ศึกที่ต่อเนื่องกันทันที คุณสามารถเลือกที่จะแวะกลับไปพักผ่อนเตรียมตัวที่ออร์คาเนียก่อนได้
+274,Feature_Unlocks,23,124,2934,"You can take this opportunity to change your party line-up, equipment and skills, or to go shopping for any supplies you might need.",คุณสามารถใช้โอกาสนี้ในการปรับเปลี่ยนสมาชิกปาร์ตี้ อุปกรณ์ และสกิล หรือไปซื้อเสบียงของใช้ที่จำเป็นได้
+274,Feature_Unlocks,24,128,3067,"Once you've finished up in the capital, just cast Zoom to zip back to where battle awaits<FG>",เมื่อจัดการธุระในเมืองหลวงเสร็จแล้ว เพียงร่ายคาถารูล่าเพื่อบินกลับไปยังสมรภูมิที่รอคอยอยู่ได้ทันที<FG>
+274,Feature_Unlocks,25,132,3160,"When you're wandering around out in the wild, you'll occasionally come across people being attacked by monsters.",เมื่อเดินทางสำรวจไปตามทุ่งกว้าง บางครั้งคุณจะได้พบกับผู้คนที่กำลังถูกมอนสเตอร์โจมตี
+274,Feature_Unlocks,26,136,3273,"Perform your knightly duties by plucking these innocents from peril, and you'll earn extra experience<FG>",จงทำหน้าที่ของอัศวินด้วยการช่วยเหลือผู้บริสุทธิ์เหล่านี้ให้พ้นจากอันตราย แล้วคุณจะได้รับ EXP พิเศษ<FG>
+274,Feature_Unlocks,27,140,3378,"Every so often when you're out in the wild, you'll come across particularly powerful monsters.",เป็นครั้งคราวที่คุณเดินทางในทุ่งกว้าง คุณจะได้พบกับมอนสเตอร์ที่ทรงพลังเป็นพิเศษ
+274,Feature_Unlocks,28,144,3473,"Some of them won't let you get away without a fight, so make sure all your party members are prepared for the unexpected<FG>",บางตัวจะไม่ยอมปล่อยให้คุณหนีไปโดยไม่สู้ ดังนั้นจงตรวจสอบให้แน่ใจว่าสมาชิกทุกคนในปาร์ตี้เตรียมพร้อมรับมือกับเหตุไม่คาดคิดเสมอ<FG>
+274,Feature_Unlocks,29,148,3597,"Keep an eye out on the battlefield for beasties with their names above their heads. These are marked monsters, wanted by the authorities<FG>",คอยสังเกตในสนามรบให้ดีสำหรับสัตว์ร้ายที่มีชื่อปรากฏอยู่เหนือหัว พวกมันคือมอนสเตอร์เป้าหมายที่ทางการต้องการตัว<FG>
+274,Feature_Unlocks,30,152,3737,"They're tougher than the average enemy, but they'll also earn you lots of experience and exciting items<FG>",พวกมันอึดและแข็งแกร่งกว่าศัตรูทั่วไป แต่ก็มอบ EXP มหาศาลและไอเทมชั้นยอดให้แก่คุณเช่นกัน<FG>
+274,Feature_Unlocks,31,156,3844,Your monster medal holder means you can catch and carry the coins that defeated enemies sometimes drop.,ที่ใส่เหรียญมอนสเตอร์ช่วยให้คุณสามารถเก็บและพกพาเหรียญที่ศัตรูดรอปเมื่อพ่ายแพ้ได้
+274,Feature_Unlocks,32,160,3948,Monster medals allow you to call on a monster's particular powers whenever you like.,เหรียญมอนสเตอร์ช่วยให้คุณสามารถเรียกใช้พลังเฉพาะตัวของมอนสเตอร์เมื่อใดก็ได้ที่ต้องการ
+274,Feature_Unlocks,33,164,4033,"To unleash one, use <P5> to select it, then press <P9> to let it loose<FG>",หากต้องการใช้งาน ให้ใช้ <P5> เพื่อเลือกเหรียญ แล้วกดปุ่ม <P9> เพื่อปลดปล่อยออกมา<FG>
+274,Feature_Unlocks,34,168,4105,Saviour-type monster medals summon minions to support you using their trademark moves.,เหรียญมอนสเตอร์สายช่วยเหลือจะอัญเชิญสมุนออกมาสนับสนุนคุณด้วยท่าไม้ตายประจำตัว
+274,Feature_Unlocks,35,172,4192,"But they'll disappear as soon as they're done, so be sure to save them for just the right moment.",แต่พวกมันจะหายไปทันทีเมื่อใช้ท่าเสร็จสิ้น ดังนั้นจงเก็บไว้ใช้ในจังหวะที่เหมาะสม
+274,Feature_Unlocks,36,176,4290,Sentry-type medals summon minions to fight on your behalf until their health runs out.,เหรียญมอนสเตอร์สายเฝ้าระวังจะอัญเชิญสมุนออกมาต่อสู้เคียงข้างคุณจนกว่าพลังชีวิตของพวกมันจะหมดลง
+274,Feature_Unlocks,37,180,4377,"They'll attack enemies in the immediate vicinity, and can also respond to specific situations, such as the need to protect people.",พวกมันจะเข้าโจมตีศัตรูในบริเวณใกล้เคียง และยังตอบสนองต่อสถานการณ์เฉพาะ เช่น การคุ้มกันเป้าหมายได้อีกด้วย
+274,Feature_Unlocks,38,184,4508,Substitute-type medals let you walk on the wild side by temporarily taking the form of a monster<FG>,เหรียญมอนสเตอร์สายแปลงร่างจะช่วยให้คุณแปลงร่างเป็นมอนสเตอร์ได้ชั่วคราว<FG>
+274,Feature_Unlocks,39,188,4608,"You'll be able to use some amazing moves, but you won't be able to change character, so be sure to save them for when the time is right<FG>",คุณจะสามารถใช้ท่าโจมตีอันทรงพลังได้ แต่จะไม่สามารถสลับตัวละครได้ ดังนั้นจงเก็บไว้ใช้ในเวลาที่เหมาะสม<FG>
+274,Feature_Unlocks,40,192,4747,The Zoom spell can instantly transport you to any of the Zoomstones to which you've previously attuned yourself.,คาถารูล่าสามารถเคลื่อนย้ายคุณไปยังศิลารูล่าใด ๆ ที่คุณเคยเชื่อมต่อจิตไว้แล้วได้ในพริบตา
+274,Feature_Unlocks,41,196,4860,"To cast it, simply select it from the menu<MV>but bear in mind that you can't use it mid-battle, or when spells and abilities are unavailable.",หากต้องการร่าย เพียงเลือกจากเมนู<MV>แต่โปรดจำไว้ว่าไม่สามารถใช้งานระหว่างการต่อสู้ หรือเมื่อไม่สามารถใช้คาถาและอบิลิตี้ได้
+274,Feature_Unlocks,42,200,5002,Healstones can give you an instant mid-battle health boost. Just hold down <PP> and press <P9> to use one.,ศิลาฮอยมี่ช่วยฟื้นฟูพลังชีวิตระหว่างการต่อสู้ได้ทันที เพียงกด <PP> ค้างไว้แล้วกดปุ่ม <P9> เพื่อใช้งาน
+274,Feature_Unlocks,43,204,5107,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,44,208,5114,"They'll be consumed upon use, but your stock will be replenished whenever you leave Accordia or enter a battle.",พวกมันจะถูกใช้ไปตามจำนวน แต่จะได้รับการเติมจนเต็มทุกครั้งที่คุณออกจากออร์คาเนียหรือเริ่มการต่อสู้
+274,Feature_Unlocks,45,212,5226,"If you end up being beaten while out in a Wild Zone, you'll be transported back to a priestess with all the experience and gold you've earned.",หากคุณพ่ายแพ้ขณะอยู่ในพื้นที่ทุ่งกว้าง คุณจะถูกส่งตัวกลับไปพบนักบวชหญิงพร้อมกับ EXP และเงินทั้งหมดที่ได้รับ
+274,Feature_Unlocks,46,216,5369,A person's proficiency rating tells you how good they are with a given weapon. You can increase it by inflicting damage on enemies.,ระดับความชำนาญจะบ่งบอกถึงความเชี่ยวชาญในการใช้อาวุธชนิดนั้น ๆ คุณสามารถเพิ่มระดับได้โดยการสร้างความเสียหายแก่ศัตรู
+274,Feature_Unlocks,47,220,5501,You can check your party members' proficiency with the various weapon types by looking under ‘Attributes’ in the menu.,คุณสามารถตรวจสอบระดับความชำนาญอาวุธแต่ละชนิดของสมาชิกปาร์ตี้ได้ในหัวข้อ ‘ค่าสถานะ’ ในเมนู
+274,Feature_Unlocks,48,224,5624,"And when you've earned enough, go and see the Martial Master in Accordia<MV>he might just have a thing or two to teach you<FG>",และเมื่อคุณสะสมความชำนาญได้มากพอ จงไปพบปรมาจารย์การต่อสู้ในออร์คาเนีย<MV>เขาอาจมีวิชาเด็ด ๆ มาสั่งสอนคุณ<FG>
+274,Feature_Unlocks,49,228,5749,Party Powers are special skills that give you and your allies a boost. You can learn one for every five proficiency levels with a weapon.,พลังปาร์ตี้คือสกิลพิเศษที่ช่วยเสริมพลังให้แก่คุณและเพื่อนร่วมทีม คุณจะเรียนรู้ได้ 1 ท่าสำหรับความชำนาญอาวุธทุก ๆ 5 ระดับ
+274,Feature_Unlocks,50,232,5887,"There are different powers for each of the different weapon types, and they're shared with the whole party once learned.",อาวุธแต่ละประเภทจะมีพลังปาร์ตี้ที่แตกต่างกัน และเมื่อเรียนรู้แล้วจะแชร์ให้สมาชิกทุกคนในปาร์ตี้ใช้งานร่วมกันได้
+274,Feature_Unlocks,51,236,6008,"To pick which Party Powers to use, you'll need to select ‘Skills’ from the menu.",หากต้องการเลือกใช้พลังปาร์ตี้ ให้เลือกที่หัวข้อ ‘สกิล’ ในเมนู
+274,Feature_Unlocks,52,240,6093,Tag Tricks are special attacks you can carry out by pressing <PD> to change characters while holding <PP>.,แท็กทริกคือการโจมตีพิเศษที่คุณสามารถทำได้โดยการกดปุ่ม <PD> เพื่อสลับตัวละครในขณะที่กด <PP> ค้างไว้
+274,Feature_Unlocks,53,244,6198,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,54,248,6205,"These terrific techniques can have some amazing effects, but they can also cost a lot of MP, so use them with care<FG>",เทคนิคอันยอดเยี่ยมเหล่านี้มีผลลัพธ์ที่น่าทึ่ง แต่ก็ต้องแลกด้วยการใช้ MP จำนวนมาก ดังนั้นจงใช้อย่างระมัดระวัง<FG>
+274,Feature_Unlocks,55,252,6323,Characters will draw or sheathe their weapons depending on the situation.,ตัวละครจะชักหรือเก็บอาวุธเข้าฝักโดยอัตโนมัติตามสถานการณ์
+274,Feature_Unlocks,56,256,6397,"Your weapons will be drawn if you perform any attacking actions, or if monsters appear nearby.",อาวุธของคุณจะถูกชักออกมาหากคุณทำการโจมตีใด ๆ หรือมีมอนสเตอร์ปรากฏตัวขึ้นในบริเวณใกล้เคียง
+274,Feature_Unlocks,57,260,6492,"If you stop attacking for a short while, or if monsters are no longer close, your weapons will be sheathed.",หากคุณหยุดโจมตีสักครู่ หรือไม่มีมอนสเตอร์อยู่ใกล้ ๆ อาวุธจะถูกเก็บเข้าฝัก
+274,Feature_Unlocks,58,264,6600,"You can run by pressing <PQ>, but only when your weapons are sheathed.",คุณสามารถวิ่งได้โดยการกดปุ่ม <PQ> แต่จะทำได้เฉพาะเมื่อเก็บอาวุธเข้าฝักแล้วเท่านั้น
+274,Feature_Unlocks,59,268,6670,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,60,272,6677,"There are other actions, such as changing equipment, that can only be performed with your weapons put away.",ยังมีการกระทำอื่น ๆ เช่น การเปลี่ยนอุปกรณ์สวมใส่ ที่สามารถทำได้เฉพาะเมื่อเก็บอาวุธเข้าฝักแล้วเท่านั้น
+274,Feature_Unlocks,61,276,6785,Teleportals are a magical means of transport that can zip you from one place to another in an instant. Press <PL> when near one to use it.,ประตูมิติคือระบบขนส่งเวทมนตร์ที่สามารถพาคุณข้ามจากที่หนึ่งไปยังอีกที่หนึ่งได้ในพริบตา กดปุ่ม <PL> เมื่ออยู่ใกล้ ๆ เพื่อใช้งาน
+274,Feature_Unlocks,62,280,6923,"<F4><S2> starts the adventure with a set of twin swords<MV>swift, versatile weapons known for their slicing, dicing combos.",<F4><S2> เริ่มต้นการผจญภัยด้วยดาบคู่<MV>อาวุธอันรวดเร็วและพลิกแพลงได้หลากหลาย ซึ่งขึ้นชื่อเรื่องคอมโบการฟันเฉือนอันต่อเนื่อง
+274,Feature_Unlocks,63,284,7044,"With twin swords equipped, you can use the Cold Fission skill to swallow up whole swathes of foes in a wintry whirlwind<FG>",เมื่อติดตั้งดาบคู่ คุณจะสามารถใช้สกิลโคลด์ฟิชชันเพื่อกลืนกินฝูงศัตรูด้วยพายุหมุนเยือกแข็งได้<FG>
+274,Feature_Unlocks,64,288,7167,"<F4><S3> starts the adventure with a sword and shield, orthodox adventuring arms suitable for any situation.",<F4><S3> เริ่มต้นการผจญภัยด้วยดาบและโล่ อาวุธมาตรฐานของนักผจญภัยที่เหมาะกับทุกสถานการณ์
+274,Feature_Unlocks,65,292,7274,"With a sword equipped, you can use the Inferno Slash skill to swallow up whole swathes of foes in a searing cyclone<FG>",เมื่อติดตั้งดาบ คุณจะสามารถใช้สกิลอินเฟอร์โนสแลชเพื่อเผาผลาญฝูงศัตรูด้วยพายุเพลิงลุกโชนได้<FG>
+274,Feature_Unlocks,66,296,7393,"Cesar wields a greatsword, and battles with both strength and sorcery. His <P2> Fissure Slice skill can damage even distant enemies.",ซีซาร์ใช้ดาบใหญ่ และต่อสู้ด้วยทั้งพละกำลังและเวทมนตร์ สกิลฟิชเชอร์สไลซ์ปุ่ม <P2> ของเขาสามารถสร้างความเสียหายแก่ศัตรูที่อยู่ห่างไกลได้
+274,Feature_Unlocks,67,300,7525,"His Glacier Strike ability lobs great lumps of ice at foes, and temporarily imbues his blade with an icy enchantment for extra damage<FG>",อบิลิตี้กลาเซียร์สไตรค์ของเขาจะขว้างก้อนน้ำแข็งขนาดยักษ์ใส่ศัตรู และเคลือบใบดาบด้วยมนต์น้ำแข็งชั่วคราวเพื่อเพิ่มพลังทำลายล้าง<FG>
+274,Feature_Unlocks,68,304,7662,"To learn more about spells and abilities for each character, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของแต่ละตัวละคร ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,69,308,7783,Desdemona uses her enormous axe to hack and slash her way through the fray. She'll keep swinging for as long as you hold <P2>.,เดสเดโมน่าใช้ขวานมหึมาของเธอฟาดฟันและผ่าศัตรูกลางวงล้อม เธอจะเหวี่ยงขวานต่อไปเรื่อย ๆ ตราบใดที่คุณกด <P2> ค้างไว้
+274,Feature_Unlocks,70,312,7909,"Her Scrap Mettle skill devastates the defence and agility of her enemies, making her a useful ally when fighting powerful foes<FG>",สกิลสแครปเมตเทิลของเธอจะทำลายการป้องกันและความคล่องแคล่วของศัตรูอย่างย่อยยับ ทำให้เธอเป็นพันธมิตรที่มีค่ายิ่งเมื่อต้องสู้กับศัตรูที่แข็งแกร่ง<FG>
+274,Feature_Unlocks,71,316,8039,Stringing stinging attacks together is Tsarevna Alena's stock-in-trade. Hold <P2> to make her Knuckle Sandwiches hit even harder<FG>,การโจมตีต่อเนื่องอันเจ็บแสบคือจุดเด่นของเจ้าหญิงอาลีน่า กด <P2> ค้างไว้เพื่อทำให้หมัดนักเลงน็อคเคิลแซนด์วิชของเธอโจมตีได้หนักหน่วงยิ่งขึ้น<FG>
+274,Feature_Unlocks,72,320,8170,Her mega-fast Multifists attack deals massive damage with a blistering barrage of combo-boosting blows<FG>,การโจมตีมัลติฟิสต์ความเร็วสูงของเธอสร้างความเสียหายมหาศาลด้วยการระดมหมัดรัวกระหน่ำเพื่อเร่งคอมโบ<FG>
+274,Feature_Unlocks,73,324,8276,"Kiryl is a skilful and surprisingly strong spear-swinger with continuous, far-reaching strikes and other impressive abilities to boot.",คริฟต์เป็นผู้ใช้หอกที่เชี่ยวชาญและทรงพลังอย่างน่าประหลาดใจ ด้วยการโจมตีต่อเนื่องระยะไกลและอบิลิตี้อันน่าทึ่งอื่น ๆ อีกมากมาย
+274,Feature_Unlocks,74,328,8411,This dependable defender can use Kabuff to boost his buddies' defence<MV>an absolute Goddess-send in boss battles<FG>,ผู้พิทักษ์ที่พึ่งพาได้ผู้นี้สามารถใช้คาถาสคูลต์เพื่อเพิ่มพลังป้องกันของพวกพ้อง<MV>ซึ่งเป็นพรอันประเสริฐยิ่งในศึกสู้บอส<FG>
+274,Feature_Unlocks,75,332,8527,"To learn more about Alena and Kiryl's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของอาลีน่าและคริฟต์ ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,76,336,8647,"Torneko packs both a punch and a paunch, in the form of an almighty abacus and the belly-busting <P2> Charge ability<FG>",ทอร์เนโก้มีทั้งหมัดเด็ดและพุงกลมโต ในรูปแบบของลูกคิดทรงพลังและอบิลิตี้พุ่งชนด้วยพุงปุ่ม <P2><FG>
+274,Feature_Unlocks,77,340,8766,"Being a merchant, he's got plenty of items at his disposal, not to mention the formidable forward-thrusting Flail of Destruction skill.",ในฐานะพ่อค้า เขามีไอเทมมากมายให้เลือกใช้ และยังมีสกิลกระบองทำลายล้างที่ฟาดฟันไปข้างหน้าอย่างน่าสะพรึงกลัวอีกด้วย
+274,Feature_Unlocks,78,344,8902,"To learn more about each character's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของแต่ละตัวละคร ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,79,348,9021,"Meena is a tarot tactician who marks her targets with a carefully aimed card strike, then follows up with a flurry of other attacks.",มีเนียคือนักยุทธวิธีไพ่ทาโรต์ที่ทำเครื่องหมายบนเป้าหมายด้วยการปาไพ่อย่างแม่นยำ จากนั้นจึงโจมตีตามน้ำอย่างต่อเนื่อง
+274,Feature_Unlocks,80,352,9154,The Tower is a formidable skill that summons an almighty bolt of lightning to strike her mark<MV>and any nearby enemies as well<FG>,เดอะทาวเวอร์คือสกิลอันน่าสะพรึงกลัวที่เรียกสายฟ้าฟาดมหึมาลงมาถล่มเป้าหมายที่ทำเครื่องหมายไว้<MV>รวมถึงศัตรูทั้งหมดที่อยู่ใกล้เคียง<FG>
+274,Feature_Unlocks,81,356,9284,"To learn more about Meena's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของมีเนีย ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,82,360,9394,A soaring starlet whose aptitude for aerial attacks allows her to hover when she racks up 100 hits or more.,ดาวเด่นผู้ทะยานฟ้าซึ่งมีความสามารถในการโจมตีกลางอากาศ ช่วยให้เธอลอยตัวอยู่ได้เมื่อทำคอมโบได้ตั้งแต่ 100 ฮิตขึ้นไป
+274,Feature_Unlocks,83,364,9502,"Her ability to unleash spells and skills from above and below lets her dance deftly across the battlefield, dealing damage as she goes.",ความสามารถในการปลดปล่อยคาถาและสกิลจากทั้งเบื้องบนและเบื้องล่างช่วยให้เธอเริงระบำไปทั่วยุทธภูมิอย่างคล่องแคล่วพร้อมสร้างความเสียหายไปด้วย
+274,Feature_Unlocks,84,368,9638,"To learn more about Maya's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของมาเนีย ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,85,372,9747,Carver is a burly brawler who beats down baddies with his fists and feet. Hold down <P3> and <P2> to ramp up the power of his attacks<FG>,ฮัสซันคือนักสู้ร่างกำยำที่ทุบตีเหล่าร้ายด้วยกำปั้นและลูกเตะ กดปุ่ม <P3> และ <P2> ค้างไว้เพื่อเพิ่มพลังการโจมตีของเขาให้รุนแรงยิ่งขึ้น<FG>
+274,Feature_Unlocks,86,376,9882,"His Knuckle Sandwich skill lets him muster his strength, then unleash a devastating punch that can damage even distant enemies<FG>",สกิลน็อคเคิลแซนด์วิชของเขาช่วยให้เขารวมพลัง แล้วปลดปล่อยหมัดทำลายล้างที่สามารถสร้างความเสียหายแก่ศัตรูที่อยู่ห่างไกลได้<FG>
+274,Feature_Unlocks,87,380,10012,"Terry is a skilled swordsman with a super-fast, far-reaching swing, who's equally comfortable in both attack and defence.",เทอร์รี่คือนักดาบผู้เชี่ยวชาญที่มีการเหวี่ยงดาบอันรวดเร็วและกว้างไกล ซึ่งโดดเด่นทั้งในด้านการรุกและการรับ
+274,Feature_Unlocks,88,384,10134,"His Lightning Strike skill frazzles foes with its shocking strength, and fries mechanical meanies' circuits to bring them to a standstill<FG>",สกิลสายฟ้าฟาดไลท์นิงสไตรค์ของเขาจะช็อตศัตรูด้วยพลังสายฟ้าอันรุนแรง และทำลายวงจรของศัตรูจักรกลจนหยุดนิ่งอยู่กับที่<FG>
+274,Feature_Unlocks,89,388,10275,"To learn more about Terry and Carver's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของเทอร์รี่และฮัสซัน ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,90,392,10396,"Maribel's boomerang is a wicked weapon on its own, but trigger Twomerang when she catches it, and you'll cause double the trouble<FG>",บูมเมอแรงของมาริเบลเป็นอาวุธอันร้ายกาจในตัวเองอยู่แล้ว แต่หากกดใช้ทูเมอแรงในจังหวะที่เธอรับมันไว้ได้ จะสร้างความเสียหายเป็น 2 เท่าทันที<FG>
+274,Feature_Unlocks,91,396,10529,Her Crosscutter Throw skill lets her nip niftily backwards while attacking at the same time<MV>great for when you need a little space.,สกิลครอสคัตเตอร์โทรว์ของเธอช่วยให้เธอกระโดดถอยหลังอย่างคล่องแคล่วพร้อมกับโจมตีไปด้วย<MV>ยอดเยี่ยมมากเมื่อต้องการเว้นระยะห่าง
+274,Feature_Unlocks,92,400,10663,"Ruff's a wild child with sharp claws that can make mincemeat of enemies, and a feral friend in the form of a ferocious wolf<FG>",กาโบเป็นเด็กป่าที่มีกรงเล็บแหลมคมพร้อมฉีกศัตรูเป็นชิ้น ๆ และมีสหายสัตว์ป่าในร่างหมาป่าสุดดุร้าย<FG>
+274,Feature_Unlocks,93,404,10790,His Ruff Rider attack has his canine cohort fly at foes and unleash a furious combo that can rip whole crowds of enemies to shreds. ,การโจมตีรัฟฟ์ไรเดอร์ของเขาจะให้คู่หูสุนัขพุ่งเข้าใส่ศัตรูและปลดปล่อยคอมโบอันบ้าคลั่งที่ฉีกฝูงศัตรูเป็นชิ้น ๆ ได้
+274,Feature_Unlocks,94,408,10923,"To learn more about Ruff and Maribel's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของกาโบและมาริเบล ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,95,412,11044,Angelo is a hawk-eyed archer who can pierce his prey with pin-point precision. Holding <P3> charges up his arrows for stronger strikes.,คูเคิลคือนักธนูตาเหยี่ยวที่สามารถยิงเจาะทะลวงเหยื่อได้อย่างแม่นยำ การกด <P3> ค้างไว้จะชาร์จพลังลูกธนูเพื่อการยิงที่ทรงพลังยิ่งขึ้น
+274,Feature_Unlocks,96,416,11179,"With Shining Shot, he can let fly a flurry of light-infused arrows over an area<MV>perfect for punishing groups of aggressors.",ด้วยสกิลไชนิงช็อต เขาสามารถระดมยิงห่าฝนธนูแสงกระจายทั่วพื้นที่<MV>เหมาะอย่างยิ่งสำหรับการจัดการกับฝูงศัตรู
+274,Feature_Unlocks,97,420,11305,Jessica's a whip-cracking warrior woman who can sweep whole swathes of foes off their feet with her all-encompassing attacks.,เจสสิก้าคือนักรบหญิงผู้ใช้แส้ที่สามารถกวาดล้างฝูงศัตรูให้ล้มระเนระนาดด้วยการโจมตีเป็นวงกว้างรอบตัวเธอ
+274,Feature_Unlocks,98,424,11431,The swirling storms she whips up with Whipcrackle lay into enemies with lashing lightning bolts<MV>aim at groups for best results<FG>,พายุหมุนที่เธอสร้างขึ้นด้วยวิปแคร็กเกิลจะฟาดกระหน่ำศัตรูด้วยสายฟ้าฟาด<MV>เล็งใส่กลุ่มศัตรูเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด<FG>
+274,Feature_Unlocks,99,428,11563,"To learn more about Jessica and Angelo's spells and abilities, open up the ‘Misc.’ menu and take a look at the manual.",หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคาถาและอบิลิตี้ของเจสสิก้าและคูเคิล ให้เปิดเมนู ‘อื่น ๆ’ แล้วดูที่คู่มือ
+274,Feature_Unlocks,100,432,11686,"Monster medals come in three different varieties<FI> Saviour, Sentry and Substitute.","เหรียญมอนสเตอร์มี 3 ประเภทที่แตกต่างกัน<FI> สายช่วยเหลือ, สายเฝ้าระวัง และสายแปลงร่าง"
+274,Feature_Unlocks,101,436,11770,"Each type has its particular pros and cons<MV>give them all a go, and find out what works best for you<FG>",แต่ละประเภทมีจุดเด่นและจุดด้อยเฉพาะตัว<MV>ลองใช้ให้ครบทุกประเภท แล้วค้นหาว่าแบบไหนเหมาะกับคุณที่สุด<FG>
+274,Feature_Unlocks,102,440,11875,Talk to Patty to have her switch allies in and out of your party. You'll find her at the inn in Accordia.,คุยกับแพตตี้เพื่อสลับเปลี่ยนสมาชิกในปาร์ตี้ของคุณ คุณสามารถพบเธอได้ที่บาร์ในออร์คาเนีย
+274,Feature_Unlocks,103,444,11981,Breakneck Bonuses are experience boosts earned by beating bigger baddies in double quick time.,โบนัสเผด็จศึกฉับไวคือการเพิ่ม EXP พิเศษที่ได้รับจากการกำจัดศัตรูตัวใหญ่ด้วยความเร็วเป็น 2 เท่า
+274,Feature_Unlocks,104,448,12076,"The second your party draw their weapons, get slicing and dicing as quickly as you can and bag that bonus<FG>",ทันทีที่ปาร์ตี้ของคุณชักอาวุธ จงรีบเข้าฟาดฟันอย่างรวดเร็วที่สุดเท่าที่จะทำได้เพื่อคว้าโบนัสนั้นมา<FG>
+274,Feature_Unlocks,105,452,12185,Certain battles will need to be selected from the list you see when you visit the location. Sometimes more than one will be available.,การต่อสู้บางแห่งจำเป็นต้องเลือกจากรายการที่คุณเห็นเมื่อไปเยือนสถานที่นั้น บางครั้งอาจมีให้เลือกมากกว่า 1 ศึก
+274,Feature_Unlocks,106,456,12320,"During these battles, you won't be able to put your weapons away, so be sure to be good and ready before you go diving in<FG>",ระหว่างการต่อสู้เหล่านี้ คุณจะไม่สามารถเก็บอาวุธเข้าฝักได้ ดังนั้นจงเตรียมตัวให้พร้อมสรรพก่อนที่จะกระโจนเข้าไป<FG>
+274,Feature_Unlocks,107,460,12445,Use this screen to choose chat phrases to use while you're in multiplayer mode. You can set phrases for the inn and for battle separately.,ใช้หน้าจอนี้เพื่อเลือกข้อความแชตสำหรับใช้ในโหมดผู้เล่นหลายคน คุณสามารถตั้งค่าข้อความสำหรับในบาร์และในการต่อสู้แยกกันได้
+274,Feature_Unlocks,108,464,12584,"When choosing phrases, you'll set up pages of five phrases each. There are four pages for use in the inn, and three for use in battle.",เมื่อเลือกข้อความ คุณจะจัดเป็นหน้าละ 5 ข้อความ มี 4 หน้าสำหรับใช้ในบาร์ และ 3 หน้าสำหรับใช้ในการต่อสู้
+274,Feature_Unlocks,109,468,12719,Now you can play using Flying Start mode<FG> Venture forth anew using an adventure log containing your completed game data.,ตอนนี้คุณสามารถเล่นด้วยโหมดเริ่มต้นแบบก้าวกระโดดได้แล้ว<FG> ออกผจญภัยใหม่อีกครั้งโดยใช้บันทึกการเดินทางที่มีข้อมูลการจบเกมของคุณ
+274,Feature_Unlocks,110,472,12842,"You'll be able to start the story again, but with all the experience, equipment and money you earned the first time around<FG>","คุณจะสามารถเริ่มเนื้อเรื่องใหม่อีกครั้ง แต่ยังคงมี EXP, อุปกรณ์สวมใส่ และเงินทั้งหมดที่คุณได้รับจากการเล่นรอบแรกครบถ้วน<FG>"
+274,Feature_Unlocks,111,476,12968,"And as an added bonus, each party member and every vocation will start with 50 free skill points<FG>",และเป็นโบนัสพิเศษ สมาชิกปาร์ตี้ทุกคนและทุกสายอาชีพจะเริ่มต้นด้วยแต้มสกิลฟรี 50 แต้ม<FG>
+274,Feature_Unlocks,112,480,13068,"If you want to change <F4><I0>00 or <F4><I0>10's vocation, you'll need to visit the Abbot of Alltrades.",หากคุณต้องการเปลี่ยนสายอาชีพของ <F4><I0>00 หรือ <F4><I0>10 คุณจะต้องไปพบเจ้าอาวาสวิหารเปลี่ยนอาชีพ
+274,Feature_Unlocks,113,484,13168,"New vocations will open up new weapons to try, new skills to master, and a whole range of new playing styles<FG>",สายอาชีพใหม่จะเปิดโอกาสให้ได้ทดลองใช้อาวุธใหม่ ฝึกฝนสกิลใหม่ และสัมผัสรูปแบบการเล่นใหม่ ๆ มากมาย<FG>
+274,Feature_Unlocks,114,488,13280,But bear in mind that you'll need to start each new vocation from Level 1<MV>prepare to spend some time in training<FG>,แต่โปรดจำไว้ว่าคุณจะต้องเริ่มแต่ละสายอาชีพใหม่จากเลเวล 1<MV>เตรียมตัวใช้เวลาในการฝึกฝนสักระยะหนึ่ง<FG>
+274,Feature_Unlocks,115,492,13398,Use the right stick to control the camera. You can also push <PG> to lock the camera on to certain enemies.,ใช้อนาล็อกขวาเพื่อควบคุมมุมกล้อง คุณยังสามารถกด <PG> เพื่อล็อกมุมกล้องไปยังศัตรูบางตัวได้ด้วย
+274,Feature_Unlocks,116,496,13505,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,117,500,13512,"If you'd like to customise your camera settings, open up the menu and select ‘Misc.’, ‘Settings’, and then ‘Camera Settings’.","หากคุณต้องการปรับแต่งการตั้งค่ามุมกล้อง ให้เปิดเมนูแล้วเลือก ‘อื่น ๆ’, ‘การตั้งค่า’ และ ‘การตั้งค่ามุมกล้อง’"
+274,Feature_Unlocks,118,504,13650,Some monsters have particular parts that are more vulnerable to attack than others.,มอนสเตอร์บางตัวมีชิ้นส่วนบางจุดที่เปราะบางต่อการโจมตีมากกว่าจุดอื่น
+274,Feature_Unlocks,119,508,13734,"Work out your enemies' weak spots, and wallop them where it hurts<FG>",ค้นหาจุดอ่อนของศัตรูให้พบ แล้วกระหน่ำโจมตีตรงจุดที่พวกมันเจ็บปวดที่สุด<FG>
+274,Feature_Unlocks,120,512,13803,"You can allocate as many Party Powers as you like, as long as you don't exceed your current capacity.",คุณสามารถติดตั้งพลังปาร์ตี้ได้มากเท่าที่ต้องการ ตราบใดที่ไม่เกินความจุพลังที่คุณมีในปัจจุบัน
+274,Feature_Unlocks,121,516,13905,"Kazapple is a super-charged spell that has to be cast by all four of your party at once<MV>a kind of magical coup de grâce, if you will.",มินาดีนคือสุดยอดคาถามหาประลัยที่ต้องร่ายโดยสมาชิกทั้ง 4 คนในปาร์ตี้พร้อมกัน<MV>เปรียบเสมือนท่าไม้ตายสูงสุดทางเวทมนตร์
+274,Feature_Unlocks,122,520,14042,"To use it, you'll need to have the ‘Knack of Kazapple’ Party Power activated.",หากต้องการใช้งาน คุณจะต้องเปิดใช้งานพลังปาร์ตี้ ‘ศาสตร์แห่งมินาดิน’ เสียก่อน
+274,Feature_Unlocks,123,524,14124,"Enact the Knack, and you can activate Kazapple like you would a Tag Trick.",เมื่อติดตั้งศาสตร์นี้แล้ว คุณจะสามารถเปิดใช้งานมินาดีนได้เหมือนกับการใช้แท็กทริก
+274,Feature_Unlocks,124,528,14199,"Just press <PD> while holding down <PP> to offload everyone's tension in one go, and unleash the ultimate enchantment<FG>",เพียงกดปุ่ม <PD> ในขณะที่กด <PP> ค้างไว้ เพื่อปลดปล่อยพลังเทนชันของทุกคนออกมาในคราวเดียว แล้วระเบิดสุดยอดมนตราออกมา<FG>
+274,Feature_Unlocks,125,532,14318,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,126,536,14325,Press <PI> to toggle the map in the top-right of the screen between a view of your surroundings and one of the entire area.,กดปุ่ม <PI> เพื่อสลับแผนที่ที่มุมขวาบนของหน้าจอระหว่างมุมมองบริเวณรอบตัวกับมุมมองพื้นที่ทั้งหมด
+274,Feature_Unlocks,127,540,14448,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,128,544,14455,Objectives will be indicated on the map with flag icons.,เป้าหมายภารกิจจะแสดงบนแผนที่ด้วยไอคอนรูปธง
+274,Feature_Unlocks,129,548,14512,"In multiplayer modes, you can communicate with other players using a selection of preset phrases.",ในโหมดผู้เล่นหลายคน คุณสามารถสื่อสารกับผู้เล่นอื่นได้โดยใช้ชุดข้อความสำเร็จรูปที่มีให้เลือก
+274,Feature_Unlocks,130,552,14610,Hold <PD> to bring up a list at the bottom of the screen.,กด <PD> ค้างไว้เพื่อเปิดรายการข้อความที่ด้านล่างของหน้าจอ
+274,Feature_Unlocks,131,556,14667,UNUSED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,132,560,14674,"When the list is open, move the cursor with <P5> to choose the phrase you want to use, then press <P9> to send it.",เมื่อรายการเปิดขึ้น ให้เลื่อนเคอร์เซอร์ด้วย <P5> เพื่อเลือกข้อความที่ต้องการใช้ จากนั้นกดปุ่ม <P9> เพื่อส่ง
+274,Feature_Unlocks,133,564,14787,Give it a whirl<MV>multiplayer's much more fun when everyone's interacting<FG>,ลองใช้งานดูสักครั้ง<MV>โหมดผู้เล่นหลายคนจะสนุกขึ้นมากเมื่อทุกคนมีปฏิสัมพันธ์ต่อกัน<FG>
+274,Feature_Unlocks,134,568,14864,Bonus balls are amazing objects that earn you double experience for a limited time only<FG> Open the menu and go to ‘Inventory’ to use one<FG>,ลูกบอลโบนัสเป็นวัตถุวิเศษที่มอบ EXP ให้คุณเป็น 2 เท่าในระยะเวลาจำกัดเท่านั้น<FG> เปิดเมนูแล้วไปที่ ‘กระเป๋าไอเทม’ เพื่อใช้งาน<FG>
+274,Feature_Unlocks,135,572,15009,Press <PD> while holding <PP> to ready yourself to cast Kazapple.,กดปุ่ม <PD> ในขณะที่กด <PP> ค้างไว้เพื่อเตรียมพร้อมสำหรับการร่ายมินาดีน
+274,Feature_Unlocks,136,576,15073,NOT USED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,137,580,15082,The rest of the party can then join in by doing the same.,สมาชิกคนอื่น ๆ ในปาร์ตี้สามารถเข้าร่วมได้โดยการกดแบบเดียวกัน
+274,Feature_Unlocks,138,584,15140,NOT USED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,139,588,15149,"When everyone's ready, the caster can use that magic button combination again to offload all your tension at once and let rip<FG>",เมื่อทุกคนพร้อมแล้ว ผู้ร่ายสามารถใช้ปุ่มผสมเวทมนตร์นั้นอีกครั้งเพื่อปลดปล่อยพลังเทนชันทั้งหมดออกมาในคราวเดียวแล้วระเบิดพลัง<FG>
+274,Feature_Unlocks,140,592,15278,NOT USED,ไม่ได้ใช้งาน
+274,Feature_Unlocks,141,596,15287,"You can choose whichever character, vocation and weapon type you wish. You can also set spells and abilities in advance.",คุณสามารถเลือกตัวละคร สายอาชีพ และประเภทอาวุธใดก็ได้ตามต้องการ และยังตั้งค่าคาถากับอบิลิตี้ไว้ล่วงหน้าได้ด้วย
+274,Feature_Unlocks,142,600,15408,"To keep things fair, levels, equipment, skills and Party Powers won't count here, and your attributes will be set to predetermined values.",เพื่อความยุติธรรม เลเวล อุปกรณ์ สกิล และพลังปาร์ตี้จะไม่ถูกนำมาคิดในที่นี้ และค่าสถานะของคุณจะถูกกำหนดไว้เป็นค่ามาตรฐาน
+274,Feature_Unlocks,143,604,15547,"In Monster Medal Melee mode, you'll compete with other players to earn the most points in a duel with a dungeon master.",ในโหมดศึกตะลุมบอนเหรียญมอนสเตอร์ คุณจะแข่งขันกับผู้เล่นอื่นเพื่อชิงคะแนนสูงสุดในการดวลกับผู้คุมดันเจียน
+274,Feature_Unlocks,144,608,15667,"Damaging the dungeon master directly will boost your score a bit, but using monster medals is the way to win big<FG>",การสร้างความเสียหายแก่ผู้คุมดันเจียนโดยตรงจะเพิ่มคะแนนได้เล็กน้อย แต่การใช้เหรียญมอนสเตอร์คือหนทางสู่ชัยชนะอันยิ่งใหญ่<FG>
+274,Feature_Unlocks,145,612,15783,"All three types of monster medal are available, so give them all a go and see what works best<FG>",เหรียญมอนสเตอร์ทั้ง 3 ประเภทมีให้ใช้งานครบถ้วน ดังนั้นจงลองใช้ให้หมดแล้วดูว่าแบบไหนได้ผลดีที่สุด<FG>
+274,Feature_Unlocks,146,616,15880,And don't worry about being clobbered unconscious<MV>you'll be brought straight back to life to keep on clocking up the points<FG>,และไม่ต้องกังวลว่าจะถูกฟาดจนหมดสติ<MV>คุณจะได้รับการชุบชีวิตขึ้นมาทันทีเพื่อเดินหน้าสะสมคะแนนต่อไป<FG>
+274,Feature_Unlocks,147,620,16009,Your overall performance in monster medal melees will be reflected in the form of a ranking.,ผลงานโดยรวมของคุณในศึกตะลุมบอนเหรียญมอนสเตอร์จะแสดงออกมาในรูปแบบของการจัดอันดับ
+274,Feature_Unlocks,148,624,16102,"The better you do in a battle, the bigger the haul of rank-improving points. And using the Traveller's Tome will earn you even more<FG>",ยิ่งคุณทำผลงานได้ดีในการต่อสู้มากเท่าใด ก็จะยิ่งได้รับแต้มเลื่อนอันดับมากขึ้นเท่านั้น และการใช้บันทึกนักเดินทางจะช่วยให้ได้รับแต้มมากยิ่งขึ้นไปอีก<FG>
+274,Feature_Unlocks,149,628,16237,"Usually, you'll be competing with combatants of a similar rank, but if you go via the inn, you can find opponents of all abilities.",โดยปกติแล้ว คุณจะได้แข่งขันกับผู้ประลองที่มีอันดับใกล้เคียงกัน แต่หากเข้าผ่านบาร์ คุณจะสามารถพบคู่ต่อสู้ที่มีฝีมือทุกระดับได้
+274,Feature_Unlocks,150,632,16369,Now you can play with people from all over the world<FG>,ตอนนี้คุณสามารถเล่นกับผู้คนจากทั่วทุกมุมโลกได้แล้ว<FG>
+274,Feature_Unlocks,151,636,16425,"But if you only want to play with people from nearby, you can change the ‘Multiplayer Region’ option under ‘Online Settings’.",แต่หากคุณต้องการเล่นเฉพาะกับผู้คนที่อยู่ใกล้เคียง คุณสามารถเปลี่ยนตัวเลือก ‘ภูมิภาคผู้เล่นหลายคน’ ใน ‘การตั้งค่าออนไลน์’ ได้
 274,Feature_Unlocks,152,640,16559,,
 274,Feature_Unlocks,153,644,16560,,
 274,Feature_Unlocks,154,648,16561,,
@@ -46110,152 +46110,152 @@
 295,Monster_Nicknames,1117,4504,10984,,
 295,Monster_Nicknames,1118,4508,10985,,
 295,Monster_Nicknames,1119,4512,10986,,
-302,Monster_Transformations,0,32,592,"Assume the shape of a lovely little slime and blow foes away with a short, sharp Slime Spank.",
-302,Monster_Transformations,1,36,686,Assume the shape of a hot-blooded she-slime and send foes flying with burning body blows.,
-302,Monster_Transformations,2,40,776,Casts Share Magic to restore allies' MP.,
-302,Monster_Transformations,3,44,817,Casts Kasap to drain foes' defence.,
-302,Monster_Transformations,4,48,853,Sends nearby foes to sleep with Kasnooze.,
-302,Monster_Transformations,5,52,895,Lets rip with an eye-watering critical hit from its massive mallet.,
-302,Monster_Transformations,6,56,963,Unleashes a crushing critical hit that sends out an explosive shockwave.,
-302,Monster_Transformations,7,60,1036,Annihilates enemies with a cataclysmic critical hit from its humongous hammer.,
-302,Monster_Transformations,8,64,1115,Assume the shape of a magical magus and attack enemies with an array of arcane incantations.,
-302,Monster_Transformations,9,68,1208,Assume the shape of a shadowy shaman and fell foes with superior spells.,
-302,Monster_Transformations,10,72,1281,Assume the shape of a spell-slinging sorcerer and destroy your enemies with the dark arts.,
-302,Monster_Transformations,11,76,1372,Assume the guise of a great big golem and pummel your opponents with bricklike blows.,
-302,Monster_Transformations,12,80,1458,Assume the shape of a glittering gold golem and milk monsters for money with a cash-collecting Golden Glare.,
-302,Monster_Transformations,13,84,1567,Assume the shape of a stout stone golem and suck in suckers with spinning cyclone attacks.,
-302,Monster_Transformations,14,88,1658,Envelops each party member in a swirling substance that protects them from poison.,
-302,Monster_Transformations,15,92,1741,Raises allies' tension in a heart-melting manner.,
-302,Monster_Transformations,16,96,1791,Sings a stirring Power Ballad that increases allies' attack power.,
-302,Monster_Transformations,17,100,1858,Performs a Gritty Ditty to augment allies' attack power.,
-302,Monster_Transformations,18,104,1915,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,19,108,1999,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,20,112,2083,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,21,116,2167,Assume the shape of a chivalrous knight and ride your slimy steed into the fray<FG>,
-302,Monster_Transformations,22,120,2250,Assume the shape of a majestic metal slime knight and ride your mercurial mount into the fray<FG>,
-302,Monster_Transformations,23,124,2347,"Casts an incantation that makes the summoner small, and seriously hard to hit.",
-302,Monster_Transformations,24,128,2426,"Casts an incantation that increases the summoner's size, adding some oomph to their attacks.",
-302,Monster_Transformations,25,132,2519,Casts Reheal to restore allies' HP.,
-302,Monster_Transformations,26,136,2555,"Unleashes an electric explosion, paralysing any enemies in the area.",
-302,Monster_Transformations,27,140,2624,Casts Remidheal to restore allies' HP.,
-302,Monster_Transformations,28,144,2663,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,
-302,Monster_Transformations,29,148,2760,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,
-302,Monster_Transformations,30,152,2857,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,31,156,2948,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,32,160,3039,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,33,164,3130,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,34,168,3221,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,35,172,3289,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,36,176,3357,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,37,180,3425,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,38,184,3493,Sends unsuspecting foes to meet their maker with Whack.,
-302,Monster_Transformations,39,188,3549,Sends unsuspecting foes to meet their maker with Thwack.,
-302,Monster_Transformations,40,192,3606,Sends unsuspecting foes to meet their maker with Kathwack.,
-302,Monster_Transformations,41,196,3665,Assume the shape of a colossal killing machine and go on a robotic rampage<FG>,
-302,Monster_Transformations,42,200,3743,Assume the shape of a humongous hunter mech and stir up some mechanised mayhem<FG>,
-302,Monster_Transformations,43,204,3825,Assume the shape of a high-tech Type G0 and show your foes what ‘cutting edge’ really means<FG>,
-302,Monster_Transformations,44,208,3924,"Assume the shape of a chimaera and fly high in the sky, raining fire on your foes below.",
-302,Monster_Transformations,45,212,4013,"Assume the shape of a hocus chimaera and fly high in the sky, freezing foes below with icy attacks.",
-302,Monster_Transformations,46,216,4113,"Assume the shape of a cosmic chimaera and fly high in the sky, setting the field aflame with your burning breath.",
-302,Monster_Transformations,47,220,4227,Falls from the sky to pummel enemies with a powerful pound to the ground.,
-302,Monster_Transformations,48,224,4301,"Rolls forward at a quick lick, casting Kamikazee when it collides with an enemy.",
-302,Monster_Transformations,49,228,4382,Casts Kerplunk to revive fallen allies.,
-302,Monster_Transformations,50,232,4422,"Pounds the ground with its colossal club, sending foes flying.",
-302,Monster_Transformations,51,236,4485,"Curls up into a ball and rolls forward, flattening foes beneath its brobdingnagian body.",
-302,Monster_Transformations,52,240,4574,"Swings its club from side to side, unleashing an explosive onslaught.",
-302,Monster_Transformations,53,244,4644,"Pounds the ground with its colossal club, inflicting a crippling critical hit.",
-302,Monster_Transformations,54,248,4723,"Makes itself massive, then smacks foes in front of it with its prodigious palm.",
-302,Monster_Transformations,55,252,4803,"Waves to an unseen ally, who soon drops in to say ‘hello’.",
-302,Monster_Transformations,56,256,4866,Assume the guise of a great sabrecat and race around the battlefield causing carnage<FG>,
-302,Monster_Transformations,57,260,4954,Assume the appearance of a silver sabrecat and race around the battlefield putting your enemies on ice<FG>,
-302,Monster_Transformations,58,264,5060,Assume the shape of a hatchet-wielding hacksaurus and smash your enemies into submission.,
-302,Monster_Transformations,59,268,5150,Assume the shape of a terrifying tyrantosaurus and fell your foes with a fire-imbued axe.,
-302,Monster_Transformations,60,272,5240,Assume the appearance of a savage axesaurus and unleash the ultimate in axe attacks.,
-302,Monster_Transformations,61,276,5325,Uses its wibbly-wobbly body to full effect as it fights alongside you.,
-302,Monster_Transformations,62,280,5396,Heals its allies' injuries with medicinal magic as it fights alongside you.,
-302,Monster_Transformations,63,284,5472,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,64,288,5546,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,65,292,5620,Unleashes an array of icy attacks as it fights alongside you. ,
-302,Monster_Transformations,66,296,5683,Unleashes an array of explosive spells as it fights alongside you.,
-302,Monster_Transformations,67,300,5750,This master of the dark arts unleashes forbidden forces to fell your foes.,
-302,Monster_Transformations,68,304,5825,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,69,308,5907,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,70,312,5989,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,71,316,6071,"Assume the appearance of a snarling silvapithecus, and deal foes a bitter blow with your frost-infused claws.",
-302,Monster_Transformations,72,320,6181,"Assume the appearance of a pernicious pazuzu, and eliminate enemies instantly with cursed incantations.",
-302,Monster_Transformations,73,324,6285,"Assume the appearance of a bloodthirsty batmandrill, and blow foes sky-high with a carefully timed Kamikazee.",
-302,Monster_Transformations,74,328,6395,Blasts enemies with blistering laser beams as it fights alongside you.,
-302,Monster_Transformations,75,332,6466,Blasts enemies with blistering laser beams as it fights alongside you.,
-302,Monster_Transformations,76,336,6537,Assume the appearance of an aggressive archdemon and assault enemies with explosive attacks. ,
-302,Monster_Transformations,77,340,6631,Assume the appearance of a baleful belial and assail enemies with explosive attacks.,
-302,Monster_Transformations,78,344,6716,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,79,348,6804,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,80,352,6892,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,81,356,6980,Assume the appearance of a puckish platypunk and punish your enemies with quick kicks and tail attacks.,
-302,Monster_Transformations,82,360,7084,Assume the appearance of a stone-spewing splatypunk and spit grit at your enemies.,
-302,Monster_Transformations,83,364,7167,Assume the appearance of a Crack-billed platypunk and blast baddies away with water bombs.,
-302,Monster_Transformations,84,368,7258,Does a handstand on your head and showers you with a foul-smelling fluid that makes enemies stay well away.,
-302,Monster_Transformations,85,372,7366,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,
-302,Monster_Transformations,86,376,7462,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,
-302,Monster_Transformations,87,380,7558,Fires on your foes with razor-sharp arrows as it fights alongside you.,
-302,Monster_Transformations,88,384,7629,Infects your enemies with poison arrows as it fights alongside you.,
-302,Monster_Transformations,89,388,7697,Sets enemies snoring with sleep-inducing arrows as it fights alongside you.,
-302,Monster_Transformations,90,392,7773,Fires super-powered salvos at faraway foes as it fights alongside you.,
-302,Monster_Transformations,91,396,7844,Fills itself with fiery energy before exploding like an overinflated balloon.,
-302,Monster_Transformations,92,400,7922,Fills itself with icy energy before exploding like an overinflated balloon.,
-302,Monster_Transformations,93,404,7998,"Summons a sphere of unearthly energy, sacrificing itself in the ensuing explosion.",
-302,Monster_Transformations,94,408,8081,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,95,412,8158,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,96,416,8235,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,97,420,8312,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,
-302,Monster_Transformations,98,424,8392,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,
-302,Monster_Transformations,99,428,8472,Performs a Hustle Dance to restore allies' health while it fights alongside you.,
-302,Monster_Transformations,100,432,8553,Assume the appearance of a cloudy-browed cumaulus and drift around dealing lightning damage to foes below.,
-302,Monster_Transformations,101,436,8660,"Assume the appearance of a hot-blooded hell niño, and fly through the sky firing flames at foes below.",
-302,Monster_Transformations,102,440,8764,"Assume the appearance of a fierce freezing fog, and fly through the sky refrigerating enemies below.",
-302,Monster_Transformations,103,444,8865,Creates a scorching vortex that draws your foes toward a fiery fate.,
-302,Monster_Transformations,104,448,8934,Creates a wintry whirlpool that draws your foes toward a frosty fate.,
-302,Monster_Transformations,105,452,9004,Floats furtively behind the summoner's back and flails away at foes with fell force.,
-302,Monster_Transformations,106,456,9089,Floats furtively behind the summoner's back and batters foes with bone-chilling enchantments.,
-302,Monster_Transformations,107,460,9183,Floats furtively behind the summoner's back and assails enemies with eldritch incantations. ,
-302,Monster_Transformations,108,464,9276,"Assume the shape of a powerful powie yowie, and freeze foes with snowy skills.",
-302,Monster_Transformations,109,468,9355,"Assume the shape of a desert-dwelling sweaty yeti, and burn baddies with incendiary abilities.",
-302,Monster_Transformations,110,472,9450,"Assume the shape of a supersized sasquash, and assault enemies with icy abilities.",
-302,Monster_Transformations,111,476,9533,Performs a Sultry Dance to lower foes' defences while it fights alongside you.,
-302,Monster_Transformations,112,480,9612,Performs a diabolical Death Dance to dispatch enemies instantly as it fights alongside you.,
-302,Monster_Transformations,113,484,9704,Performs a Tap Dance to drain enemies' MP as it fights alongside you.,
-302,Monster_Transformations,114,488,9774,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,115,492,9844,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,116,496,9914,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,117,500,9984,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,118,504,10059,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,119,508,10134,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,120,512,10209,"Assume the appearance of a bone baron, and ride around the battlefield lancing enemies left and right.",
-302,Monster_Transformations,121,516,10312,"Assume the appearance of a ghastly grim rider, and gallop around the battlefield felling foes with black magic.",
-302,Monster_Transformations,122,520,10424,"Assume the appearance of a nefarious night rider, and ride around the battlefield spiking foes with spears.",
-302,Monster_Transformations,123,524,10532,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,124,528,10606,Attacks enemies with its burning breath and an array of wind-based abilities.,
-302,Monster_Transformations,125,532,10684,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,126,536,10759,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,127,540,10834,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,128,544,10909,"Assume the shape of a noble knight errant, and attack enemies with an enormous axe.",
-302,Monster_Transformations,129,548,10993,"Assume the shape of a nasty knight aberrant, and attack enemies with an enormous axe.",
-302,Monster_Transformations,130,552,11079,"Assume the shape of a nefarious knight abhorrent, and attack enemies with an enormous axe.",
-302,Monster_Transformations,131,556,11170,"Assume the shape of a low djinks, and send foes flying with storming spells.",
-302,Monster_Transformations,132,560,11247,"Assume the shape of a cloud surfer, and send foes flying with storming spells.",
-302,Monster_Transformations,133,564,11326,"Assume the shape of a high djinks, and send foes flying with storming spells.",
-302,Monster_Transformations,134,568,11404,Assume the appearance of a lethal loss leader and pulverise enemies with unparalleled power. ,
-302,Monster_Transformations,135,572,11498,Unleashes an ear-splitting roar that deals a great deal of damage.,
-302,Monster_Transformations,136,576,11565,"Flies into the fray, flailing left and right with its keen claws.",
+302,Monster_Transformations,0,32,592,"Assume the shape of a lovely little slime and blow foes away with a short, sharp Slime Spank.",แปลงร่างเป็นสไลม์ตัวน้อยผู้น่ารัก แล้วซัดศัตรูให้กระเด็นด้วยการตบสั่งสอนอันฉับไว
+302,Monster_Transformations,1,36,686,Assume the shape of a hot-blooded she-slime and send foes flying with burning body blows.,แปลงร่างเป็นชีสไลม์เลือดร้อน แล้วซัดศัตรูให้ลอยละลิ่วด้วยการกระแทกตัวอันเร่าร้อน
+302,Monster_Transformations,2,40,776,Casts Share Magic to restore allies' MP.,ร่ายคาถาแชร์เมจิกเพื่อฟื้นฟู MP ให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,3,44,817,Casts Kasap to drain foes' defence.,ร่ายคาถารูคานันเพื่อลดพลังป้องกันของศัตรู
+302,Monster_Transformations,4,48,853,Sends nearby foes to sleep with Kasnooze.,ร่ายคาถาราริโฮม่าทำให้ศัตรูในบริเวณใกล้เคียงหลับใหล
+302,Monster_Transformations,5,52,895,Lets rip with an eye-watering critical hit from its massive mallet.,ระเบิดการโจมตีติดคริติคอลอันหนักหน่วงจนน้ำตาเล็ดด้วยค้อนยักษ์
+302,Monster_Transformations,6,56,963,Unleashes a crushing critical hit that sends out an explosive shockwave.,ปลดปล่อยการโจมตีติดคริติคอลบดขยี้ที่ส่งคลื่นกระแทกระเบิดออกไปรอบทิศ
+302,Monster_Transformations,7,60,1036,Annihilates enemies with a cataclysmic critical hit from its humongous hammer.,กวาดล้างศัตรูให้สิ้นซากด้วยการโจมตีติดคริติคอลถล่มพิภพจากค้อนมหึมา
+302,Monster_Transformations,8,64,1115,Assume the shape of a magical magus and attack enemies with an array of arcane incantations.,แปลงร่างเป็นเมกัสจอมเวท แล้วโจมตีศัตรูด้วยชุดมนตราลี้ลับมากมาย
+302,Monster_Transformations,9,68,1208,Assume the shape of a shadowy shaman and fell foes with superior spells.,แปลงร่างเป็นชาแมนแห่งเงามืด แล้วโค่นล้มศัตรูด้วยเวทมนตร์ชั้นสูง
+302,Monster_Transformations,10,72,1281,Assume the shape of a spell-slinging sorcerer and destroy your enemies with the dark arts.,แปลงร่างเป็นซอร์เซอเรอร์จอมเวท แล้วทำลายล้างศัตรูด้วยศาสตร์มืด
+302,Monster_Transformations,11,76,1372,Assume the guise of a great big golem and pummel your opponents with bricklike blows.,แปลงร่างเป็นโกเลมร่างยักษ์ใหญ่ แล้วกระหน่ำทุบคู่ต่อสู้ด้วยหมัดอิฐหินสุดแกร่ง
+302,Monster_Transformations,12,80,1458,Assume the shape of a glittering gold golem and milk monsters for money with a cash-collecting Golden Glare.,แปลงร่างเป็นโกลด์โกเลมสีทองประกาย แล้วรีดเงินจากมอนสเตอร์ด้วยสายตาทองคำสยบเพื่อโกยทรัพย์
+302,Monster_Transformations,13,84,1567,Assume the shape of a stout stone golem and suck in suckers with spinning cyclone attacks.,แปลงร่างเป็นสโตนโกเลมหินสุดแกร่ง แล้วดูดศัตรูเข้ามาด้วยการโจมตีหมุนวนไซโคลน
+302,Monster_Transformations,14,88,1658,Envelops each party member in a swirling substance that protects them from poison.,ห่อหุ้มสมาชิกทุกคนในปาร์ตี้ด้วยสารหมุนวนที่ช่วยปกป้องจากพิษ
+302,Monster_Transformations,15,92,1741,Raises allies' tension in a heart-melting manner.,เพิ่มพลังเทนชันให้แก่เพื่อนร่วมทีมอย่างน่ารักอบอุ่นหัวใจ
+302,Monster_Transformations,16,96,1791,Sings a stirring Power Ballad that increases allies' attack power.,ขับขานบทเพลงพาวเวอร์บัลลาดอันเร้าใจเพื่อเพิ่มพลังโจมตีให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,17,100,1858,Performs a Gritty Ditty to augment allies' attack power.,บรรเลงบทเพลงกริตตี้ดิตตี้เพื่อเสริมพลังโจมตีให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,18,104,1915,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,19,108,1999,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,20,112,2083,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,21,116,2167,Assume the shape of a chivalrous knight and ride your slimy steed into the fray<FG>,แปลงร่างเป็นอัศวินผู้เปี่ยมเกียรติ แล้วควบพาหนะสไลม์ตะลุยเข้าสู่การต่อสู้<FG>
+302,Monster_Transformations,22,120,2250,Assume the shape of a majestic metal slime knight and ride your mercurial mount into the fray<FG>,แปลงร่างเป็นเมทัลสไลม์ไนท์ผู้งดงาม แล้วควบพาหนะโลหะว่องไวตะลุยเข้าสู่การต่อสู้<FG>
+302,Monster_Transformations,23,124,2347,"Casts an incantation that makes the summoner small, and seriously hard to hit.",ร่ายมนตราทำให้ผู้อัญเชิญตัวหดเล็กลง และหลบหลีกการโจมตีได้ง่ายขึ้นมาก
+302,Monster_Transformations,24,128,2426,"Casts an incantation that increases the summoner's size, adding some oomph to their attacks.",ร่ายมนตราขยายร่างผู้อัญเชิญให้ใหญ่โต เพิ่มพลังทำลายล้างให้แก่การโจมตี
+302,Monster_Transformations,25,132,2519,Casts Reheal to restore allies' HP.,ร่ายคาถารีฮีลเพื่อฟื้นฟู HP ให้แก่เพื่อนร่วมทีมอย่างต่อเนื่อง
+302,Monster_Transformations,26,136,2555,"Unleashes an electric explosion, paralysing any enemies in the area.",ปลดปล่อยระเบิดไฟฟ้า ทำให้ศัตรูทั้งหมดในบริเวณเป็นอัมพาต
+302,Monster_Transformations,27,140,2624,Casts Remidheal to restore allies' HP.,ร่ายคาถารีมิดฮีลเพื่อฟื้นฟู HP ให้แก่เพื่อนร่วมทีมอย่างต่อเนื่อง
+302,Monster_Transformations,28,144,2663,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,เต้นระบำเชคดาวน์ชิมมี่ทำให้ศัตรูที่ถูกล้มดรอปเงินรางวัลมากกว่าปกติ
+302,Monster_Transformations,29,148,2760,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,เต้นระบำเชคดาวน์ชิมมี่ทำให้ศัตรูที่ถูกล้มดรอปเงินรางวัลมากกว่าปกติ
+302,Monster_Transformations,30,152,2857,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,31,156,2948,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,32,160,3039,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,33,164,3130,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,34,168,3221,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,35,172,3289,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,36,176,3357,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,37,180,3425,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,38,184,3493,Sends unsuspecting foes to meet their maker with Whack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคิ
+302,Monster_Transformations,39,188,3549,Sends unsuspecting foes to meet their maker with Thwack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคาริม่า
+302,Monster_Transformations,40,192,3606,Sends unsuspecting foes to meet their maker with Kathwack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคิออน
+302,Monster_Transformations,41,196,3665,Assume the shape of a colossal killing machine and go on a robotic rampage<FG>,แปลงร่างเป็นคิลเลอร์แมชชีนขนาดยักษ์ แล้วออกอาละวาดแบบจักรกลทำลายล้าง<FG>
+302,Monster_Transformations,42,200,3743,Assume the shape of a humongous hunter mech and stir up some mechanised mayhem<FG>,แปลงร่างเป็นฮันเตอร์เมคสุดมหึมา แล้วก่อความโกลาหลด้วยพลังจักรกล<FG>
+302,Monster_Transformations,43,204,3825,Assume the shape of a high-tech Type G0 and show your foes what ‘cutting edge’ really means<FG>,แปลงร่างเป็นไทป์ G0 สุดไฮเทค แล้วแสดงให้ศัตรูเห็นว่า ‘คมเฉียบระดับแนวหน้า’ คืออะไร<FG>
+302,Monster_Transformations,44,208,3924,"Assume the shape of a chimaera and fly high in the sky, raining fire on your foes below.",แปลงร่างเป็นคิเมร่าแล้วบินทะยานสู่ฟากฟ้า สาดห่าฝนเพลิงใส่ศัตรูเบื้องล่าง
+302,Monster_Transformations,45,212,4013,"Assume the shape of a hocus chimaera and fly high in the sky, freezing foes below with icy attacks.",แปลงร่างเป็นโฮคัสคิเมร่าแล้วบินทะยานสู่ฟากฟ้า แช่แข็งศัตรูเบื้องล่างด้วยการโจมตีน้ำแข็ง
+302,Monster_Transformations,46,216,4113,"Assume the shape of a cosmic chimaera and fly high in the sky, setting the field aflame with your burning breath.",แปลงร่างเป็นคอสมิกคิเมร่าแล้วบินทะยานสู่ฟากฟ้า แผดเผาสนามรบให้ลุกเป็นไฟด้วยลมหายใจเพลิง
+302,Monster_Transformations,47,220,4227,Falls from the sky to pummel enemies with a powerful pound to the ground.,ทิ้งตัวลงมาจากท้องฟ้าเพื่อกระหน่ำทุบศัตรูด้วยการกระแทกพื้นพสุธาอันทรงพลัง
+302,Monster_Transformations,48,224,4301,"Rolls forward at a quick lick, casting Kamikazee when it collides with an enemy.",กลิ้งไปข้างหน้าด้วยความเร็วสูง และร่ายคาถาเมกันเต้ระเบิดตัวเองเมื่อชนเข้ากับศัตรู
+302,Monster_Transformations,49,228,4382,Casts Kerplunk to revive fallen allies.,ร่ายคาถาเมกันตาสลักชีพเพื่อชุบชีวิตเพื่อนร่วมทีมที่ล้มลงทั้งหมด
+302,Monster_Transformations,50,232,4422,"Pounds the ground with its colossal club, sending foes flying.",ทุบพื้นพสุธาด้วยกระบองมหึมา ซัดศัตรูให้ลอยกระเด็น
+302,Monster_Transformations,51,236,4485,"Curls up into a ball and rolls forward, flattening foes beneath its brobdingnagian body.",ม้วนตัวเป็นก้อนกลมแล้วกลิ้งไปข้างหน้า บดขยี้ศัตรูให้แบนใต้ร่างยักษ์มหึมา
+302,Monster_Transformations,52,240,4574,"Swings its club from side to side, unleashing an explosive onslaught.",เหวี่ยงกระบองไปมาซ้ายขวา ปลดปล่อยการโจมตีระเบิดอันดุเดือด
+302,Monster_Transformations,53,244,4644,"Pounds the ground with its colossal club, inflicting a crippling critical hit.",ทุบพื้นพสุธาด้วยกระบองมหึมา สร้างความเสียหายติดคริติคอลอันรุนแรงจนขยับไม่ได้
+302,Monster_Transformations,54,248,4723,"Makes itself massive, then smacks foes in front of it with its prodigious palm.",ขยายร่างให้มหึมา แล้วตบศัตรูเบื้องหน้าด้วยฝ่ามือขนาดยักษ์
+302,Monster_Transformations,55,252,4803,"Waves to an unseen ally, who soon drops in to say ‘hello’.",โบกมือเรียกสหายที่มองไม่เห็น ซึ่งจะกระโจนลงมาทักทายในไม่ช้า
+302,Monster_Transformations,56,256,4866,Assume the guise of a great sabrecat and race around the battlefield causing carnage<FG>,แปลงร่างเป็นเกรทเซเบอร์แคทแล้ววิ่งตะลุยไปทั่วยุทธภูมิ สร้างความพินาศย่อยยับ<FG>
+302,Monster_Transformations,57,260,4954,Assume the appearance of a silver sabrecat and race around the battlefield putting your enemies on ice<FG>,แปลงร่างเป็นซิลเวอร์เซเบอร์แคทแล้ววิ่งตะลุยไปทั่วยุทธภูมิ แช่แข็งศัตรูของคุณให้อยู่หมัด<FG>
+302,Monster_Transformations,58,264,5060,Assume the shape of a hatchet-wielding hacksaurus and smash your enemies into submission.,แปลงร่างเป็นแฮ็กซอรัสผู้ถือขวาน แล้วทุบศัตรูให้ยอมจำนน
+302,Monster_Transformations,59,268,5150,Assume the shape of a terrifying tyrantosaurus and fell your foes with a fire-imbued axe.,แปลงร่างเป็นไทแรนโตซอรัสสุดสะพรึง แล้วโค่นศัตรูด้วยขวานเคลือบเพลิง
+302,Monster_Transformations,60,272,5240,Assume the appearance of a savage axesaurus and unleash the ultimate in axe attacks.,แปลงร่างเป็นแอกซ์ซอรัสสุดดุร้าย แล้วปลดปล่อยสุดยอดการโจมตีด้วยขวาน
+302,Monster_Transformations,61,276,5325,Uses its wibbly-wobbly body to full effect as it fights alongside you.,ใช้ร่างกายดึ๋งดั๋งยืดหยุ่นให้เป็นประโยชน์อย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,62,280,5396,Heals its allies' injuries with medicinal magic as it fights alongside you.,รักษาบาดแผลของเพื่อนร่วมทีมด้วยเวทมนตร์รักษาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,63,284,5472,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,64,288,5546,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,65,292,5620,Unleashes an array of icy attacks as it fights alongside you. ,ปลดปล่อยการโจมตีน้ำแข็งหลากหลายรูปแบบในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,66,296,5683,Unleashes an array of explosive spells as it fights alongside you.,ปลดปล่อยเวทมนตร์ระเบิดหลากหลายบทในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,67,300,5750,This master of the dark arts unleashes forbidden forces to fell your foes.,ปรมาจารย์แห่งศาสตร์มืดผู้นี้ปลดปล่อยพลังต้องห้ามเพื่อโค่นล้มศัตรูของคุณ
+302,Monster_Transformations,68,304,5825,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,69,308,5907,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,70,312,5989,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,71,316,6071,"Assume the appearance of a snarling silvapithecus, and deal foes a bitter blow with your frost-infused claws.",แปลงร่างเป็นซิลวาพิเธคัสแยกเขี้ยว แล้วซัดการโจมตีอันเจ็บปวดใส่ศัตรูด้วยกรงเล็บอาบน้ำแข็ง
+302,Monster_Transformations,72,320,6181,"Assume the appearance of a pernicious pazuzu, and eliminate enemies instantly with cursed incantations.",แปลงร่างเป็นพาซูซูผู้ชั่วร้าย แล้วกำจัดศัตรูในทันทีด้วยมนต์สาปแช่ง
+302,Monster_Transformations,73,324,6285,"Assume the appearance of a bloodthirsty batmandrill, and blow foes sky-high with a carefully timed Kamikazee.",แปลงร่างเป็นแบทแมนดริลกระหายเลือด แล้วระเบิดศัตรูให้ลอยสู่ฟากฟ้าด้วยคาถาเมกันเต้ในจังหวะเหมาะเจาะ
+302,Monster_Transformations,74,328,6395,Blasts enemies with blistering laser beams as it fights alongside you.,ยิงถล่มศัตรูด้วยลำแสงเลเซอร์แผดเผาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,75,332,6466,Blasts enemies with blistering laser beams as it fights alongside you.,ยิงถล่มศัตรูด้วยลำแสงเลเซอร์แผดเผาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,76,336,6537,Assume the appearance of an aggressive archdemon and assault enemies with explosive attacks. ,แปลงร่างเป็นอาร์คเดมอนผู้ดุดัน แล้วบุกจู่โจมศัตรูด้วยการโจมตีระเบิดทำลายล้าง
+302,Monster_Transformations,77,340,6631,Assume the appearance of a baleful belial and assail enemies with explosive attacks.,แปลงร่างเป็นเบเลียลผู้น่าสะพรึงกลัว แล้วกระหน่ำโจมตีศัตรูด้วยการโจมตีระเบิดทำลายล้าง
+302,Monster_Transformations,78,344,6716,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,79,348,6804,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,80,352,6892,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,81,356,6980,Assume the appearance of a puckish platypunk and punish your enemies with quick kicks and tail attacks.,แปลงร่างเป็นพลาตีพังก์ตัวแสบ แล้วลงโทษศัตรูด้วยลูกเตะอันรวดเร็วและการฟาดหาง
+302,Monster_Transformations,82,360,7084,Assume the appearance of a stone-spewing splatypunk and spit grit at your enemies.,แปลงร่างเป็นสพลาตีพังก์พ่นหิน แล้วพ่นกรวดทรายใส่ศัตรู
+302,Monster_Transformations,83,364,7167,Assume the appearance of a Crack-billed platypunk and blast baddies away with water bombs.,แปลงร่างเป็นพลาตีพังก์ปากแคร็ก แล้วซัดเหล่าร้ายให้กระเด็นด้วยระเบิดน้ำ
+302,Monster_Transformations,84,368,7258,Does a handstand on your head and showers you with a foul-smelling fluid that makes enemies stay well away.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นของเหลวกลิ่นเหม็นหึ่ง ช่วยให้ศัตรูไม่กล้าเข้าใกล้
+302,Monster_Transformations,85,372,7366,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นละอองรสเผ็ดร้อน ช่วยสนับสนุนคุณในหลากหลายด้าน
+302,Monster_Transformations,86,376,7462,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นละอองรสเผ็ดร้อน ช่วยสนับสนุนคุณในหลากหลายด้าน
+302,Monster_Transformations,87,380,7558,Fires on your foes with razor-sharp arrows as it fights alongside you.,กระหน่ำยิงศัตรูด้วยลูกธนูคมกริบดุจใบมีดในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,88,384,7629,Infects your enemies with poison arrows as it fights alongside you.,ทำให้ศัตรูติดพิษด้วยลูกธนูอาบยาพิษในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,89,388,7697,Sets enemies snoring with sleep-inducing arrows as it fights alongside you.,ทำให้ศัตรูนอนหลับกรนด้วยลูกธนูยานอนหลับในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,90,392,7773,Fires super-powered salvos at faraway foes as it fights alongside you.,ยิงระดมห่ากระสุนพลังทำลายล้างสูงใส่ศัตรูระยะไกลในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,91,396,7844,Fills itself with fiery energy before exploding like an overinflated balloon.,สะสมพลังงานเพลิงจนเต็มร่างก่อนจะระเบิดตัวเองเหมือนลูกโป่งที่พองเกินพิกัด
+302,Monster_Transformations,92,400,7922,Fills itself with icy energy before exploding like an overinflated balloon.,สะสมพลังงานเยือกแข็งจนเต็มร่างก่อนจะระเบิดตัวเองเหมือนลูกโป่งที่พองเกินพิกัด
+302,Monster_Transformations,93,404,7998,"Summons a sphere of unearthly energy, sacrificing itself in the ensuing explosion.",เรียกทรงกลมพลังงานเหนือธรรมชาติออกมา แล้วสละชีพในการระเบิดครั้งใหญ่ที่ตามมา
+302,Monster_Transformations,94,408,8081,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,95,412,8158,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,96,416,8235,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,97,420,8312,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,98,424,8392,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,99,428,8472,Performs a Hustle Dance to restore allies' health while it fights alongside you.,เต้นระบำฮัสเซิลแดนซ์เพื่อฟื้นฟูพลังชีวิตให้แก่เพื่อนร่วมทีมในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,100,432,8553,Assume the appearance of a cloudy-browed cumaulus and drift around dealing lightning damage to foes below.,แปลงร่างเป็นคิวมิวลัสก้อนเมฆ แล้วลอยวนสร้างความเสียหายสายฟ้าแก่ศัตรูเบื้องล่าง
+302,Monster_Transformations,101,436,8660,"Assume the appearance of a hot-blooded hell niño, and fly through the sky firing flames at foes below.",แปลงร่างเป็นเฮลนีโญเลือดร้อน แล้วบินทะยานบนฟ้าพ่นเพลิงใส่ศัตรูเบื้องล่าง
+302,Monster_Transformations,102,440,8764,"Assume the appearance of a fierce freezing fog, and fly through the sky refrigerating enemies below.",แปลงร่างเป็นหมอกเยือกแข็งสุดดุร้าย แล้วบินบนฟ้าแช่เย็นยะเยือกศัตรูเบื้องล่าง
+302,Monster_Transformations,103,444,8865,Creates a scorching vortex that draws your foes toward a fiery fate.,สร้างวังวนเพลิงแผดเผาที่ดูดศัตรูเข้าไปสู่ชะตากรรมอันลุกเป็นไฟ
+302,Monster_Transformations,104,448,8934,Creates a wintry whirlpool that draws your foes toward a frosty fate.,สร้างวังวนเหมันต์ที่ดูดศัตรูเข้าไปสู่ชะตากรรมอันหนาวเหน็บ
+302,Monster_Transformations,105,452,9004,Floats furtively behind the summoner's back and flails away at foes with fell force.,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วฟาดฟันศัตรูด้วยพลังอันดุดัน
+302,Monster_Transformations,106,456,9089,Floats furtively behind the summoner's back and batters foes with bone-chilling enchantments.,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วกระหน่ำโจมตีศัตรูด้วยมนตราหนาวเหน็บจับขั้วกระดูก
+302,Monster_Transformations,107,460,9183,Floats furtively behind the summoner's back and assails enemies with eldritch incantations. ,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วจู่โจมศัตรูด้วยมนตราโบราณลี้ลับ
+302,Monster_Transformations,108,464,9276,"Assume the shape of a powerful powie yowie, and freeze foes with snowy skills.",แปลงร่างเป็นพาววี่เยาวี่ผู้ทรงพลัง แล้วแช่แข็งศัตรูด้วยสกิลหิมะ
+302,Monster_Transformations,109,468,9355,"Assume the shape of a desert-dwelling sweaty yeti, and burn baddies with incendiary abilities.",แปลงร่างเป็นเยติทะเลทรายผู้เหงื่อโชก แล้วเผาผลาญเหล่าร้ายด้วยอบิลิตี้เพลิง
+302,Monster_Transformations,110,472,9450,"Assume the shape of a supersized sasquash, and assault enemies with icy abilities.",แปลงร่างเป็นแซสควอชร่างยักษ์ใหญ่ แล้วบุกจู่โจมศัตรูด้วยอบิลิตี้น้ำแข็ง
+302,Monster_Transformations,111,476,9533,Performs a Sultry Dance to lower foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,112,480,9612,Performs a diabolical Death Dance to dispatch enemies instantly as it fights alongside you.,เต้นระบำมรณะแห่งความตายเพื่อสังหารศัตรูในทันทีในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,113,484,9704,Performs a Tap Dance to drain enemies' MP as it fights alongside you.,เต้นแท็ปแดนซ์เพื่อสูบ MP ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,114,488,9774,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,115,492,9844,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,116,496,9914,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,117,500,9984,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,118,504,10059,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,119,508,10134,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,120,512,10209,"Assume the appearance of a bone baron, and ride around the battlefield lancing enemies left and right.",แปลงร่างเป็นโบนบารอน แล้วควบม้าไปทั่วยุทธภูมิแทงหอกใส่ศัตรูซ้ายขวา
+302,Monster_Transformations,121,516,10312,"Assume the appearance of a ghastly grim rider, and gallop around the battlefield felling foes with black magic.",แปลงร่างเป็นกริมไรเดอร์ผู้น่าสะพรึงกลัว แล้วควบม้าไปทั่วยุทธภูมิโค่นศัตรูด้วยมนต์ดำ
+302,Monster_Transformations,122,520,10424,"Assume the appearance of a nefarious night rider, and ride around the battlefield spiking foes with spears.",แปลงร่างเป็นไนท์ไรเดอร์จอมโฉด แล้วควบม้าไปทั่วยุทธภูมิเสียบแทงศัตรูด้วยหอก
+302,Monster_Transformations,123,524,10532,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,124,528,10606,Attacks enemies with its burning breath and an array of wind-based abilities.,โจมตีศัตรูด้วยลมหายใจเพลิงและอบิลิตี้ธาตุลมอันหลากหลาย
+302,Monster_Transformations,125,532,10684,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,126,536,10759,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,127,540,10834,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,128,544,10909,"Assume the shape of a noble knight errant, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์เออร์แรนต์อัศวินพเนจร แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,129,548,10993,"Assume the shape of a nasty knight aberrant, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์แอบเบอร์แรนต์อัศวินชั่วร้าย แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,130,552,11079,"Assume the shape of a nefarious knight abhorrent, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์แอบฮอร์เรนต์อัศวินโฉดชั่ว แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,131,556,11170,"Assume the shape of a low djinks, and send foes flying with storming spells.",แปลงร่างเป็นโลวจิงก์ส แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,132,560,11247,"Assume the shape of a cloud surfer, and send foes flying with storming spells.",แปลงร่างเป็นคลาวด์เซิร์ฟเฟอร์ แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,133,564,11326,"Assume the shape of a high djinks, and send foes flying with storming spells.",แปลงร่างเป็นไฮจิงก์ส แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,134,568,11404,Assume the appearance of a lethal loss leader and pulverise enemies with unparalleled power. ,แปลงร่างเป็นลอสลีดเดอร์สุดอันตราย แล้วบดขยี้ศัตรูด้วยพลังทำลายล้างไร้เทียมทาน
+302,Monster_Transformations,135,572,11498,Unleashes an ear-splitting roar that deals a great deal of damage.,แผดเสียงคำรามกึกก้องจนแสบแก้วหู สร้างความเสียหายอย่างมหาศาล
+302,Monster_Transformations,136,576,11565,"Flies into the fray, flailing left and right with its keen claws.",บินโฉบเข้าสู่การต่อสู้ กวัดแกว่งกรงเล็บแหลมคมฟาดฟันซ้ายขวา
 302,Monster_Transformations,137,580,11631,,
-302,Monster_Transformations,138,584,11632,Blasts baddies with laser beams and crossbow bolts as it fights alongside you.,
+302,Monster_Transformations,138,584,11632,Blasts baddies with laser beams and crossbow bolts as it fights alongside you.,ยิงถล่มเหล่าร้ายด้วยลำแสงเลเซอร์และลูกศรหน้าไม้ในขณะต่อสู้เคียงข้างคุณ
 302,Monster_Transformations,139,588,11711,,
-309,Transformation_Attacks,0,32,1712,Body Slam,
-309,Transformation_Attacks,1,36,1722,Zap,
-309,Transformation_Attacks,2,40,1726,Slime Spank,
-309,Transformation_Attacks,3,44,1738,Body Slam,
-309,Transformation_Attacks,4,48,1748,Frizz,
-309,Transformation_Attacks,5,52,1754,Spark Spank,
+309,Transformation_Attacks,0,32,1712,Body Slam,ทิ้งตัวกระแทก
+309,Transformation_Attacks,1,36,1722,Zap,เดอิน
+309,Transformation_Attacks,2,40,1726,Slime Spank,สไลม์ตบสั่งสอน
+309,Transformation_Attacks,3,44,1738,Body Slam,ทิ้งตัวกระแทก
+309,Transformation_Attacks,4,48,1748,Frizz,เมร่า
+309,Transformation_Attacks,5,52,1754,Spark Spank,ตบประกายไฟ
 309,Transformation_Attacks,6,56,1766,,
 309,Transformation_Attacks,7,60,1767,,
 309,Transformation_Attacks,8,64,1768,,
@@ -46274,24 +46274,24 @@
 309,Transformation_Attacks,21,116,1781,,
 309,Transformation_Attacks,22,120,1782,,
 309,Transformation_Attacks,23,124,1783,,
-309,Transformation_Attacks,24,128,1784,Sizz,
-309,Transformation_Attacks,25,132,1789,Scram 'n' Zam,
-309,Transformation_Attacks,26,136,1803,Bang,
-309,Transformation_Attacks,27,140,1808,Kerfrizz,
-309,Transformation_Attacks,28,144,1817,Scram 'n' Zam,
-309,Transformation_Attacks,29,148,1831,Boom,
-309,Transformation_Attacks,30,152,1836,Kerzam,
-309,Transformation_Attacks,31,156,1843,Scram 'n' Zam,
-309,Transformation_Attacks,32,160,1857,Kazam,
-309,Transformation_Attacks,33,164,1863,Cratermaker,
-309,Transformation_Attacks,34,168,1875,Barging Charge,
-309,Transformation_Attacks,35,172,1890,Sucker Punch,
-309,Transformation_Attacks,36,176,1903,Bashback,
-309,Transformation_Attacks,37,180,1912,Barging Charge,
-309,Transformation_Attacks,38,184,1927,Golden Glare,
-309,Transformation_Attacks,39,188,1940,Ground Pound,
-309,Transformation_Attacks,40,192,1953,Barging Charge,
-309,Transformation_Attacks,41,196,1968,Cyclone Spin,
+309,Transformation_Attacks,24,128,1784,Sizz,กิร่า
+309,Transformation_Attacks,25,132,1789,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,26,136,1803,Bang,อิโอ
+309,Transformation_Attacks,27,140,1808,Kerfrizz,เมราโซม่า
+309,Transformation_Attacks,28,144,1817,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,29,148,1831,Boom,อิโอร่า
+309,Transformation_Attacks,30,152,1836,Kerzam,ดอลมอนเต้
+309,Transformation_Attacks,31,156,1843,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,32,160,1857,Kazam,ดอลคูม่า
+309,Transformation_Attacks,33,164,1863,Cratermaker,ทุบพสุธาแยก
+309,Transformation_Attacks,34,168,1875,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,35,172,1890,Sucker Punch,หมัดลอบชก
+309,Transformation_Attacks,36,176,1903,Bashback,ฟาดสะท้อนกลับ
+309,Transformation_Attacks,37,180,1912,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,38,184,1927,Golden Glare,สายตาทองคำสยบ
+309,Transformation_Attacks,39,188,1940,Ground Pound,กระแทกพื้นพสุธา
+309,Transformation_Attacks,40,192,1953,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,41,196,1968,Cyclone Spin,หมุนวนไซโคลน
 309,Transformation_Attacks,42,200,1981,,
 309,Transformation_Attacks,43,204,1982,,
 309,Transformation_Attacks,44,208,1983,,
@@ -46313,12 +46313,12 @@
 309,Transformation_Attacks,60,272,1999,,
 309,Transformation_Attacks,61,276,2000,,
 309,Transformation_Attacks,62,280,2001,,
-309,Transformation_Attacks,63,284,2002,Sword Swing,
-309,Transformation_Attacks,64,288,2014,Falcon Slash,
-309,Transformation_Attacks,65,292,2027,Bang,
-309,Transformation_Attacks,66,296,2032,Sword Swing,
-309,Transformation_Attacks,67,300,2044,Über Falcon Slash,
-309,Transformation_Attacks,68,304,2063,Miracle Slash,
+309,Transformation_Attacks,63,284,2002,Sword Swing,เหวี่ยงดาบ
+309,Transformation_Attacks,64,288,2014,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,65,292,2027,Bang,อิโอ
+309,Transformation_Attacks,66,296,2032,Sword Swing,เหวี่ยงดาบ
+309,Transformation_Attacks,67,300,2044,Über Falcon Slash,ซูเปอร์ฟอลคอนสแลช
+309,Transformation_Attacks,68,304,2063,Miracle Slash,มิราเคิลสแลช
 309,Transformation_Attacks,69,308,2077,,
 309,Transformation_Attacks,70,312,2078,,
 309,Transformation_Attacks,71,316,2079,,
@@ -46373,24 +46373,24 @@
 309,Transformation_Attacks,120,512,2128,,
 309,Transformation_Attacks,121,516,2129,,
 309,Transformation_Attacks,122,520,2130,,
-309,Transformation_Attacks,123,524,2131,Gyroblade,
-309,Transformation_Attacks,124,528,2141,Quantum Leap,
-309,Transformation_Attacks,125,532,2154,Robobeam,
-309,Transformation_Attacks,126,536,2163,Gyroblade,
-309,Transformation_Attacks,127,540,2173,Quantum Leap,
-309,Transformation_Attacks,128,544,2186,Bow Barrage,
-309,Transformation_Attacks,129,548,2198,Kacrackle Slash,
-309,Transformation_Attacks,130,552,2214,Quantum Leap,
-309,Transformation_Attacks,131,556,2227,Helter Belter,
-309,Transformation_Attacks,132,560,2241,Fireball,
-309,Transformation_Attacks,133,564,2250,Flame Breath,
-309,Transformation_Attacks,134,568,2263,Barrel Roll,
-309,Transformation_Attacks,135,572,2275,Snowball,
-309,Transformation_Attacks,136,576,2284,Flash Freeze,
-309,Transformation_Attacks,137,580,2297,Barrel Roll,
-309,Transformation_Attacks,138,584,2309,Bolide Blast,
-309,Transformation_Attacks,139,588,2322,Scorch,
-309,Transformation_Attacks,140,592,2329,Barrel Roll,
+309,Transformation_Attacks,123,524,2131,Gyroblade,ใบมีดไจโรสว่าน
+309,Transformation_Attacks,124,528,2141,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,125,532,2154,Robobeam,ลำแสงหุ่นยนต์
+309,Transformation_Attacks,126,536,2163,Gyroblade,ใบมีดไจโรสว่าน
+309,Transformation_Attacks,127,540,2173,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,128,544,2186,Bow Barrage,ห่าฝนเกาทัณฑ์
+309,Transformation_Attacks,129,548,2198,Kacrackle Slash,ดาบน้ำแข็งมหาประลัย
+309,Transformation_Attacks,130,552,2214,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,131,556,2227,Helter Belter,หมัดเหวี่ยงอลหม่าน
+309,Transformation_Attacks,132,560,2241,Fireball,ลูกไฟเพลิง
+309,Transformation_Attacks,133,564,2250,Flame Breath,ลมหายใจเพลิง
+309,Transformation_Attacks,134,568,2263,Barrel Roll,หมุนตัวกลิ้งสว่าน
+309,Transformation_Attacks,135,572,2275,Snowball,ลูกบอลหิมะ
+309,Transformation_Attacks,136,576,2284,Flash Freeze,แช่แข็งฉับพลัน
+309,Transformation_Attacks,137,580,2297,Barrel Roll,หมุนตัวกลิ้งสว่าน
+309,Transformation_Attacks,138,584,2309,Bolide Blast,ระเบิดอุกกาบาต
+309,Transformation_Attacks,139,588,2322,Scorch,เพลิงโลกันตร์แผดเผา
+309,Transformation_Attacks,140,592,2329,Barrel Roll,หมุนตัวกลิ้งสว่าน
 309,Transformation_Attacks,141,596,2341,,
 309,Transformation_Attacks,142,600,2342,,
 309,Transformation_Attacks,143,604,2343,,
@@ -46418,21 +46418,21 @@
 309,Transformation_Attacks,165,692,2365,,
 309,Transformation_Attacks,166,696,2366,,
 309,Transformation_Attacks,167,700,2367,,
-309,Transformation_Attacks,168,704,2368,Sabre Wheel,
-309,Transformation_Attacks,169,708,2380,Sabre Reel,
-309,Transformation_Attacks,170,712,2391,Raw Roar,
-309,Transformation_Attacks,171,716,2400,Sabre Wheel,
-309,Transformation_Attacks,172,720,2412,Sabre Reel,
-309,Transformation_Attacks,173,724,2423,Ice Scream,
-309,Transformation_Attacks,174,728,2434,Falcon Slash,
-309,Transformation_Attacks,175,732,2447,Spinning Slice,
-309,Transformation_Attacks,176,736,2462,Flame Breath,
-309,Transformation_Attacks,177,740,2475,Flame Slash,
-309,Transformation_Attacks,178,744,2487,Searing Slice,
-309,Transformation_Attacks,179,748,2501,Sizzling Smash,
-309,Transformation_Attacks,180,752,2516,Falcon Slash,
-309,Transformation_Attacks,181,756,2529,Über Spinning Slice,
-309,Transformation_Attacks,182,760,2550,Hatchet Man,
+309,Transformation_Attacks,168,704,2368,Sabre Wheel,กงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,169,708,2380,Sabre Reel,หมุนกงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,170,712,2391,Raw Roar,เสียงคำรามป่าเถื่อน
+309,Transformation_Attacks,171,716,2400,Sabre Wheel,กงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,172,720,2412,Sabre Reel,หมุนกงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,173,724,2423,Ice Scream,เสียงกรีดร้องเยือกแข็ง
+309,Transformation_Attacks,174,728,2434,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,175,732,2447,Spinning Slice,หมุนตัวฟัน
+309,Transformation_Attacks,176,736,2462,Flame Breath,ลมหายใจเพลิง
+309,Transformation_Attacks,177,740,2475,Flame Slash,ดาบเพลิงพิฆาต
+309,Transformation_Attacks,178,744,2487,Searing Slice,ดาบเฉือนเพลิงลุกโชน
+309,Transformation_Attacks,179,748,2501,Sizzling Smash,ทุบระเบิดเพลิง
+309,Transformation_Attacks,180,752,2516,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,181,756,2529,Über Spinning Slice,ซูเปอร์หมุนตัวฟัน
+309,Transformation_Attacks,182,760,2550,Hatchet Man,ขวานผ่าปีศาจ
 309,Transformation_Attacks,183,764,2562,,
 309,Transformation_Attacks,184,768,2563,,
 309,Transformation_Attacks,185,772,2564,,
@@ -46463,27 +46463,27 @@
 309,Transformation_Attacks,210,872,2589,,
 309,Transformation_Attacks,211,876,2590,,
 309,Transformation_Attacks,212,880,2591,,
-309,Transformation_Attacks,213,884,2592,Let Rip,
-309,Transformation_Attacks,214,888,2600,Crackle,
-309,Transformation_Attacks,215,892,2608,Savage Slash,
-309,Transformation_Attacks,216,896,2621,Let Rip,
-309,Transformation_Attacks,217,900,2629,Sweet Breath,
-309,Transformation_Attacks,218,904,2642,Thwack,
-309,Transformation_Attacks,219,908,2649,Let Rip,
-309,Transformation_Attacks,220,912,2657,Frostfoot,
-309,Transformation_Attacks,221,916,2667,Kamikazee,
+309,Transformation_Attacks,213,884,2592,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,214,888,2600,Crackle,เฮียดาโก้
+309,Transformation_Attacks,215,892,2608,Savage Slash,ฟันเฉือนอย่างบ้าคลั่ง
+309,Transformation_Attacks,216,896,2621,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,217,900,2629,Sweet Breath,ลมหายใจหลับใหล
+309,Transformation_Attacks,218,904,2642,Thwack,ซาคิ
+309,Transformation_Attacks,219,908,2649,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,220,912,2657,Frostfoot,ย่างก้าวเยือกแข็ง
+309,Transformation_Attacks,221,916,2667,Kamikazee,เมกันเต้
 309,Transformation_Attacks,222,920,2677,,
 309,Transformation_Attacks,223,924,2678,,
 309,Transformation_Attacks,224,928,2679,,
 309,Transformation_Attacks,225,932,2680,,
 309,Transformation_Attacks,226,936,2681,,
 309,Transformation_Attacks,227,940,2682,,
-309,Transformation_Attacks,228,944,2683,Dark Dart,
-309,Transformation_Attacks,229,948,2693,Kaboom,
-309,Transformation_Attacks,230,952,2700,Blistering Breath,
-309,Transformation_Attacks,231,956,2718,Dark Dart,
-309,Transformation_Attacks,232,960,2728,Kaboom,
-309,Transformation_Attacks,233,964,2735,Abyssal Breath,
+309,Transformation_Attacks,228,944,2683,Dark Dart,ศรทมิฬ
+309,Transformation_Attacks,229,948,2693,Kaboom,อิโอนาซึน
+309,Transformation_Attacks,230,952,2700,Blistering Breath,ลมหายใจเพลิงแผดเผา
+309,Transformation_Attacks,231,956,2718,Dark Dart,ศรทมิฬ
+309,Transformation_Attacks,232,960,2728,Kaboom,อิโอนาซึน
+309,Transformation_Attacks,233,964,2735,Abyssal Breath,ลมหายใจอเวจี
 309,Transformation_Attacks,234,968,2750,,
 309,Transformation_Attacks,235,972,2751,,
 309,Transformation_Attacks,236,976,2752,,
@@ -46493,15 +46493,15 @@
 309,Transformation_Attacks,240,992,2756,,
 309,Transformation_Attacks,241,996,2757,,
 309,Transformation_Attacks,242,1000,2758,,
-309,Transformation_Attacks,243,1004,2759,Flying Kick,
-309,Transformation_Attacks,244,1008,2771,Tailspin,
-309,Transformation_Attacks,245,1012,2780,Platycopter,
-309,Transformation_Attacks,246,1016,2792,Multifeet,
-309,Transformation_Attacks,247,1020,2802,Stone's Throat,
-309,Transformation_Attacks,248,1024,2817,Tumboggan,
-309,Transformation_Attacks,249,1028,2827,Multifeet,
-309,Transformation_Attacks,250,1032,2837,Geyser,
-309,Transformation_Attacks,251,1036,2844,Tumboggan,
+309,Transformation_Attacks,243,1004,2759,Flying Kick,กระโดดถีบกลางเวหา
+309,Transformation_Attacks,244,1008,2771,Tailspin,หมุนควงหาง
+309,Transformation_Attacks,245,1012,2780,Platycopter,ปากเป็ดใบพัดบิน
+309,Transformation_Attacks,246,1016,2792,Multifeet,รัวลูกเตะพายุหมุน
+309,Transformation_Attacks,247,1020,2802,Stone's Throat,พ่นหินกลืนกิน
+309,Transformation_Attacks,248,1024,2817,Tumboggan,ไถลตัวพุ่งชน
+309,Transformation_Attacks,249,1028,2827,Multifeet,รัวลูกเตะพายุหมุน
+309,Transformation_Attacks,250,1032,2837,Geyser,น้ำพุร้อนพวยพุ่ง
+309,Transformation_Attacks,251,1036,2844,Tumboggan,ไถลตัวพุ่งชน
 309,Transformation_Attacks,252,1040,2854,,
 309,Transformation_Attacks,253,1044,2855,,
 309,Transformation_Attacks,254,1048,2856,,
@@ -46550,15 +46550,15 @@
 309,Transformation_Attacks,297,1220,2899,,
 309,Transformation_Attacks,298,1224,2900,,
 309,Transformation_Attacks,299,1228,2901,,
-309,Transformation_Attacks,300,1232,2902,Plasma Dome,
-309,Transformation_Attacks,301,1236,2914,Thunder Rush,
-309,Transformation_Attacks,302,1240,2927,Thunderbolt,
-309,Transformation_Attacks,303,1244,2939,Blistering Twister,
-309,Transformation_Attacks,304,1248,2958,Fire Flight,
-309,Transformation_Attacks,305,1252,2970,Blazing Breath,
-309,Transformation_Attacks,306,1256,2985,Frost Flare,
-309,Transformation_Attacks,307,1260,2997,Diamond Dash,
-309,Transformation_Attacks,308,1264,3010,Freezing Blizzard,
+309,Transformation_Attacks,300,1232,2902,Plasma Dome,โดมพลาสมา
+309,Transformation_Attacks,301,1236,2914,Thunder Rush,พุ่งทะยานสายฟ้า
+309,Transformation_Attacks,302,1240,2927,Thunderbolt,อัสนีบาตฟาด
+309,Transformation_Attacks,303,1244,2939,Blistering Twister,พายุหมุนเพลิงแผดเผา
+309,Transformation_Attacks,304,1248,2958,Fire Flight,บินถลาเพลิง
+309,Transformation_Attacks,305,1252,2970,Blazing Breath,ลมหายใจเพลิงพิโรธ
+309,Transformation_Attacks,306,1256,2985,Frost Flare,เปลวเพลิงเหมันต์
+309,Transformation_Attacks,307,1260,2997,Diamond Dash,พุ่งทะยานเพชร
+309,Transformation_Attacks,308,1264,3010,Freezing Blizzard,พายุหิมะเยือกแข็ง
 309,Transformation_Attacks,309,1268,3028,,
 309,Transformation_Attacks,310,1272,3029,,
 309,Transformation_Attacks,311,1276,3030,,
@@ -46574,15 +46574,15 @@
 309,Transformation_Attacks,321,1316,3040,,
 309,Transformation_Attacks,322,1320,3041,,
 309,Transformation_Attacks,323,1324,3042,,
-309,Transformation_Attacks,324,1328,3043,Sleet Shot,
-309,Transformation_Attacks,325,1332,3054,Diamond Dervish,
-309,Transformation_Attacks,326,1336,3070,Frosty Flop,
-309,Transformation_Attacks,327,1340,3082,Fireball Throw,
-309,Transformation_Attacks,328,1344,3097,Tumblebleed,
-309,Transformation_Attacks,329,1348,3109,Inferno,
-309,Transformation_Attacks,330,1352,3117,Snow Boulder,
-309,Transformation_Attacks,331,1356,3130,Boreal Bore,
-309,Transformation_Attacks,332,1360,3142,Crystal Crash,
+309,Transformation_Attacks,324,1328,3043,Sleet Shot,ยิงลูกเห็บเยือกแข็ง
+309,Transformation_Attacks,325,1332,3054,Diamond Dervish,ระบำสว่านเพชร
+309,Transformation_Attacks,326,1336,3070,Frosty Flop,ทับบดขยี้เยือกแข็ง
+309,Transformation_Attacks,327,1340,3082,Fireball Throw,ขว้างลูกไฟเพลิง
+309,Transformation_Attacks,328,1344,3097,Tumblebleed,กลิ้งทิ่มแทง
+309,Transformation_Attacks,329,1348,3109,Inferno,ไฟนรกโลกันตร์
+309,Transformation_Attacks,330,1352,3117,Snow Boulder,หินหิมะยักษ์
+309,Transformation_Attacks,331,1356,3130,Boreal Bore,สว่านเหมันต์
+309,Transformation_Attacks,332,1360,3142,Crystal Crash,ผลึกคริสตัลถล่ม
 309,Transformation_Attacks,333,1364,3156,,
 309,Transformation_Attacks,334,1368,3157,,
 309,Transformation_Attacks,335,1372,3158,,
@@ -46610,15 +46610,15 @@
 309,Transformation_Attacks,357,1460,3180,,
 309,Transformation_Attacks,358,1464,3181,,
 309,Transformation_Attacks,359,1468,3182,,
-309,Transformation_Attacks,360,1472,3183,Sunburst,
-309,Transformation_Attacks,361,1476,3192,Lance-a-Lot,
-309,Transformation_Attacks,362,1480,3204,Multithrust,
-309,Transformation_Attacks,363,1484,3216,Shadow Shot,
-309,Transformation_Attacks,364,1488,3228,Lance-a-Lot,
-309,Transformation_Attacks,365,1492,3240,Death Breath,
-309,Transformation_Attacks,366,1496,3253,Bitter Beam,
-309,Transformation_Attacks,367,1500,3265,Lance-a-Lot,
-309,Transformation_Attacks,368,1504,3277,Pressure Pointer,
+309,Transformation_Attacks,360,1472,3183,Sunburst,ระเบิดสุริยัน
+309,Transformation_Attacks,361,1476,3192,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,362,1480,3204,Multithrust,รัวแทงหอก
+309,Transformation_Attacks,363,1484,3216,Shadow Shot,ยิงศรเงาพราย
+309,Transformation_Attacks,364,1488,3228,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,365,1492,3240,Death Breath,ลมหายใจมรณะ
+309,Transformation_Attacks,366,1496,3253,Bitter Beam,ลำแสงขมขื่น
+309,Transformation_Attacks,367,1500,3265,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,368,1504,3277,Pressure Pointer,จุดชีพจรพิฆาต
 309,Transformation_Attacks,369,1508,3294,,
 309,Transformation_Attacks,370,1512,3295,,
 309,Transformation_Attacks,371,1516,3296,,
@@ -46634,36 +46634,36 @@
 309,Transformation_Attacks,381,1556,3306,,
 309,Transformation_Attacks,382,1560,3307,,
 309,Transformation_Attacks,383,1564,3308,,
-309,Transformation_Attacks,384,1568,3309,Parallax,
-309,Transformation_Attacks,385,1572,3318,Bash Dash,
-309,Transformation_Attacks,386,1576,3328,Helm Splitter,
-309,Transformation_Attacks,387,1580,3342,Hack Attack,
-309,Transformation_Attacks,388,1584,3354,Bash Dash,
-309,Transformation_Attacks,389,1588,3364,Crass Cross,
-309,Transformation_Attacks,390,1592,3376,Hot Runnings,
-309,Transformation_Attacks,391,1596,3389,Bash Dash,
-309,Transformation_Attacks,392,1600,3399,Gigantaxe,
-309,Transformation_Attacks,393,1604,3409,Squall Balls,
-309,Transformation_Attacks,394,1608,3422,Wind Shear,
-309,Transformation_Attacks,395,1612,3433,Gale Raiser,
-309,Transformation_Attacks,396,1616,3445,Wind Sickles,
-309,Transformation_Attacks,397,1620,3458,Wind Shear,
-309,Transformation_Attacks,398,1624,3469,Kerwoosh,
-309,Transformation_Attacks,399,1628,3478,Squall Balls,
-309,Transformation_Attacks,400,1632,3491,Wind Shear,
-309,Transformation_Attacks,401,1636,3502,Thin Air,
-309,Transformation_Attacks,402,1640,3511,Falcon Slash,
-309,Transformation_Attacks,403,1644,3524,Circle of Hell,
-309,Transformation_Attacks,404,1648,3539,Kazapple,
+309,Transformation_Attacks,384,1568,3309,Parallax,ฟันประกบสองทิศ
+309,Transformation_Attacks,385,1572,3318,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,386,1576,3328,Helm Splitter,ผ่าหมวกเกราะ
+309,Transformation_Attacks,387,1580,3342,Hack Attack,กระหน่ำจามขวาน
+309,Transformation_Attacks,388,1584,3354,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,389,1588,3364,Crass Cross,ฟันกากบาททมิฬ
+309,Transformation_Attacks,390,1592,3376,Hot Runnings,วิ่งตะลุยไฟ
+309,Transformation_Attacks,391,1596,3389,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,392,1600,3399,Gigantaxe,ขวานยักษ์ผ่าพิภพ
+309,Transformation_Attacks,393,1604,3409,Squall Balls,ลูกบอลพายุหมุน
+309,Transformation_Attacks,394,1608,3422,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,395,1612,3433,Gale Raiser,เรียกลมพายุ
+309,Transformation_Attacks,396,1616,3445,Wind Sickles,เคียวสายลม
+309,Transformation_Attacks,397,1620,3458,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,398,1624,3469,Kerwoosh,บากิมูโช
+309,Transformation_Attacks,399,1628,3478,Squall Balls,ลูกบอลพายุหมุน
+309,Transformation_Attacks,400,1632,3491,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,401,1636,3502,Thin Air,คลื่นสุญญากาศ
+309,Transformation_Attacks,402,1640,3511,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,403,1644,3524,Circle of Hell,วงแหวนโลกันตร์
+309,Transformation_Attacks,404,1648,3539,Kazapple,มินาดีน
 309,Transformation_Attacks,405,1652,3548,,
 309,Transformation_Attacks,406,1656,3549,,
 309,Transformation_Attacks,407,1660,3550,,
 309,Transformation_Attacks,408,1664,3551,,
 309,Transformation_Attacks,409,1668,3552,,
 309,Transformation_Attacks,410,1672,3553,,
-309,Transformation_Attacks,411,1676,3554,Club,
-309,Transformation_Attacks,412,1680,3559,War Cry,
-309,Transformation_Attacks,413,1684,3567,Kick,
+309,Transformation_Attacks,411,1676,3554,Club,ฟาดกระบอง
+309,Transformation_Attacks,412,1680,3559,War Cry,เสียงคำรามศึก
+309,Transformation_Attacks,413,1684,3567,Kick,เตะ
 309,Transformation_Attacks,414,1688,3572,,
 309,Transformation_Attacks,415,1692,3573,,
 309,Transformation_Attacks,416,1696,3574,,
@@ -46771,94 +46771,94 @@
 316,PC_Config_Tool,98,424,1390,,
 316,PC_Config_Tool,99,428,1391,,
 323,Keyboard_Gamepad_Controls,0,32,1052,,
-323,Keyboard_Gamepad_Controls,1,36,1053,Esc,
-323,Keyboard_Gamepad_Controls,2,40,1057,1,
-323,Keyboard_Gamepad_Controls,3,44,1059,2,
-323,Keyboard_Gamepad_Controls,4,48,1061,3,
-323,Keyboard_Gamepad_Controls,5,52,1063,4,
-323,Keyboard_Gamepad_Controls,6,56,1065,5,
-323,Keyboard_Gamepad_Controls,7,60,1067,6,
-323,Keyboard_Gamepad_Controls,8,64,1069,7,
-323,Keyboard_Gamepad_Controls,9,68,1071,8,
-323,Keyboard_Gamepad_Controls,10,72,1073,9,
-323,Keyboard_Gamepad_Controls,11,76,1075,0,
-323,Keyboard_Gamepad_Controls,12,80,1077,-,
-323,Keyboard_Gamepad_Controls,13,84,1079,=,
-323,Keyboard_Gamepad_Controls,14,88,1081,Backspace,
-323,Keyboard_Gamepad_Controls,15,92,1091,Tab,
-323,Keyboard_Gamepad_Controls,16,96,1095,Q,
-323,Keyboard_Gamepad_Controls,17,100,1097,W,
-323,Keyboard_Gamepad_Controls,18,104,1099,E,
-323,Keyboard_Gamepad_Controls,19,108,1101,R,
-323,Keyboard_Gamepad_Controls,20,112,1103,T,
-323,Keyboard_Gamepad_Controls,21,116,1105,Y,
-323,Keyboard_Gamepad_Controls,22,120,1107,U,
-323,Keyboard_Gamepad_Controls,23,124,1109,I,
-323,Keyboard_Gamepad_Controls,24,128,1111,O,
-323,Keyboard_Gamepad_Controls,25,132,1113,P,
-323,Keyboard_Gamepad_Controls,26,136,1115,[,
-323,Keyboard_Gamepad_Controls,27,140,1117,],
-323,Keyboard_Gamepad_Controls,28,144,1119,Enter,
-323,Keyboard_Gamepad_Controls,29,148,1125,Left Ctrl,
-323,Keyboard_Gamepad_Controls,30,152,1135,A,
-323,Keyboard_Gamepad_Controls,31,156,1137,S,
-323,Keyboard_Gamepad_Controls,32,160,1139,D,
-323,Keyboard_Gamepad_Controls,33,164,1141,F,
-323,Keyboard_Gamepad_Controls,34,168,1143,G,
-323,Keyboard_Gamepad_Controls,35,172,1145,H,
-323,Keyboard_Gamepad_Controls,36,176,1147,J,
-323,Keyboard_Gamepad_Controls,37,180,1149,K,
-323,Keyboard_Gamepad_Controls,38,184,1151,L,
-323,Keyboard_Gamepad_Controls,39,188,1153,<FJ>,
-323,Keyboard_Gamepad_Controls,40,192,1157,',
-323,Keyboard_Gamepad_Controls,41,196,1159,`,
-323,Keyboard_Gamepad_Controls,42,200,1161,Left Shift,
-323,Keyboard_Gamepad_Controls,43,204,1172,# (UK) / Backslash (US),
-323,Keyboard_Gamepad_Controls,44,208,1196,Z,
-323,Keyboard_Gamepad_Controls,45,212,1198,X,
-323,Keyboard_Gamepad_Controls,46,216,1200,C,
-323,Keyboard_Gamepad_Controls,47,220,1202,V,
-323,Keyboard_Gamepad_Controls,48,224,1204,B,
-323,Keyboard_Gamepad_Controls,49,228,1206,N,
-323,Keyboard_Gamepad_Controls,50,232,1208,M,
-323,Keyboard_Gamepad_Controls,51,236,1210,",",
-323,Keyboard_Gamepad_Controls,52,240,1212,.,
-323,Keyboard_Gamepad_Controls,53,244,1214,Slash,
-323,Keyboard_Gamepad_Controls,54,248,1220,Right Shift,
-323,Keyboard_Gamepad_Controls,55,252,1232,Numpad *,
-323,Keyboard_Gamepad_Controls,56,256,1241,Left Alt,
-323,Keyboard_Gamepad_Controls,57,260,1250,Space,
-323,Keyboard_Gamepad_Controls,58,264,1256,Caps Lock,
-323,Keyboard_Gamepad_Controls,59,268,1266,F1,
-323,Keyboard_Gamepad_Controls,60,272,1269,F2,
-323,Keyboard_Gamepad_Controls,61,276,1272,F3,
-323,Keyboard_Gamepad_Controls,62,280,1275,F4,
-323,Keyboard_Gamepad_Controls,63,284,1278,F5,
-323,Keyboard_Gamepad_Controls,64,288,1281,F6,
-323,Keyboard_Gamepad_Controls,65,292,1284,F7,
-323,Keyboard_Gamepad_Controls,66,296,1287,F8,
-323,Keyboard_Gamepad_Controls,67,300,1290,F9,
-323,Keyboard_Gamepad_Controls,68,304,1293,F10,
-323,Keyboard_Gamepad_Controls,69,308,1297,Num Lock,
-323,Keyboard_Gamepad_Controls,70,312,1306,Scroll Lock,
-323,Keyboard_Gamepad_Controls,71,316,1318,Numpad 7,
-323,Keyboard_Gamepad_Controls,72,320,1327,Numpad 8,
-323,Keyboard_Gamepad_Controls,73,324,1336,Numpad 9,
-323,Keyboard_Gamepad_Controls,74,328,1345,Numpad -,
-323,Keyboard_Gamepad_Controls,75,332,1354,Numpad 4,
-323,Keyboard_Gamepad_Controls,76,336,1363,Numpad 5,
-323,Keyboard_Gamepad_Controls,77,340,1372,Numpad 6,
-323,Keyboard_Gamepad_Controls,78,344,1381,Numpad +,
-323,Keyboard_Gamepad_Controls,79,348,1390,Numpad 1,
-323,Keyboard_Gamepad_Controls,80,352,1399,Numpad 2,
-323,Keyboard_Gamepad_Controls,81,356,1408,Numpad 3,
-323,Keyboard_Gamepad_Controls,82,360,1417,Numpad 0,
-323,Keyboard_Gamepad_Controls,83,364,1426,Numpad .,
+323,Keyboard_Gamepad_Controls,1,36,1053,Esc,Esc
+323,Keyboard_Gamepad_Controls,2,40,1057,1,1
+323,Keyboard_Gamepad_Controls,3,44,1059,2,2
+323,Keyboard_Gamepad_Controls,4,48,1061,3,3
+323,Keyboard_Gamepad_Controls,5,52,1063,4,4
+323,Keyboard_Gamepad_Controls,6,56,1065,5,5
+323,Keyboard_Gamepad_Controls,7,60,1067,6,6
+323,Keyboard_Gamepad_Controls,8,64,1069,7,7
+323,Keyboard_Gamepad_Controls,9,68,1071,8,8
+323,Keyboard_Gamepad_Controls,10,72,1073,9,9
+323,Keyboard_Gamepad_Controls,11,76,1075,0,0
+323,Keyboard_Gamepad_Controls,12,80,1077,-,-
+323,Keyboard_Gamepad_Controls,13,84,1079,=,=
+323,Keyboard_Gamepad_Controls,14,88,1081,Backspace,Backspace
+323,Keyboard_Gamepad_Controls,15,92,1091,Tab,Tab
+323,Keyboard_Gamepad_Controls,16,96,1095,Q,Q
+323,Keyboard_Gamepad_Controls,17,100,1097,W,W
+323,Keyboard_Gamepad_Controls,18,104,1099,E,E
+323,Keyboard_Gamepad_Controls,19,108,1101,R,R
+323,Keyboard_Gamepad_Controls,20,112,1103,T,T
+323,Keyboard_Gamepad_Controls,21,116,1105,Y,Y
+323,Keyboard_Gamepad_Controls,22,120,1107,U,U
+323,Keyboard_Gamepad_Controls,23,124,1109,I,I
+323,Keyboard_Gamepad_Controls,24,128,1111,O,O
+323,Keyboard_Gamepad_Controls,25,132,1113,P,P
+323,Keyboard_Gamepad_Controls,26,136,1115,[,[
+323,Keyboard_Gamepad_Controls,27,140,1117,],]
+323,Keyboard_Gamepad_Controls,28,144,1119,Enter,Enter
+323,Keyboard_Gamepad_Controls,29,148,1125,Left Ctrl,Ctrl ซ้าย
+323,Keyboard_Gamepad_Controls,30,152,1135,A,A
+323,Keyboard_Gamepad_Controls,31,156,1137,S,S
+323,Keyboard_Gamepad_Controls,32,160,1139,D,D
+323,Keyboard_Gamepad_Controls,33,164,1141,F,F
+323,Keyboard_Gamepad_Controls,34,168,1143,G,G
+323,Keyboard_Gamepad_Controls,35,172,1145,H,H
+323,Keyboard_Gamepad_Controls,36,176,1147,J,J
+323,Keyboard_Gamepad_Controls,37,180,1149,K,K
+323,Keyboard_Gamepad_Controls,38,184,1151,L,L
+323,Keyboard_Gamepad_Controls,39,188,1153,<FJ>,<FJ>
+323,Keyboard_Gamepad_Controls,40,192,1157,','
+323,Keyboard_Gamepad_Controls,41,196,1159,`,`
+323,Keyboard_Gamepad_Controls,42,200,1161,Left Shift,Shift ซ้าย
+323,Keyboard_Gamepad_Controls,43,204,1172,# (UK) / Backslash (US),# / แบ็กสแลช
+323,Keyboard_Gamepad_Controls,44,208,1196,Z,Z
+323,Keyboard_Gamepad_Controls,45,212,1198,X,X
+323,Keyboard_Gamepad_Controls,46,216,1200,C,C
+323,Keyboard_Gamepad_Controls,47,220,1202,V,V
+323,Keyboard_Gamepad_Controls,48,224,1204,B,B
+323,Keyboard_Gamepad_Controls,49,228,1206,N,N
+323,Keyboard_Gamepad_Controls,50,232,1208,M,M
+323,Keyboard_Gamepad_Controls,51,236,1210,",",","
+323,Keyboard_Gamepad_Controls,52,240,1212,.,.
+323,Keyboard_Gamepad_Controls,53,244,1214,Slash,สแลช
+323,Keyboard_Gamepad_Controls,54,248,1220,Right Shift,Shift ขวา
+323,Keyboard_Gamepad_Controls,55,252,1232,Numpad *,Numpad *
+323,Keyboard_Gamepad_Controls,56,256,1241,Left Alt,Alt ซ้าย
+323,Keyboard_Gamepad_Controls,57,260,1250,Space,Space
+323,Keyboard_Gamepad_Controls,58,264,1256,Caps Lock,Caps Lock
+323,Keyboard_Gamepad_Controls,59,268,1266,F1,F1
+323,Keyboard_Gamepad_Controls,60,272,1269,F2,F2
+323,Keyboard_Gamepad_Controls,61,276,1272,F3,F3
+323,Keyboard_Gamepad_Controls,62,280,1275,F4,F4
+323,Keyboard_Gamepad_Controls,63,284,1278,F5,F5
+323,Keyboard_Gamepad_Controls,64,288,1281,F6,F6
+323,Keyboard_Gamepad_Controls,65,292,1284,F7,F7
+323,Keyboard_Gamepad_Controls,66,296,1287,F8,F8
+323,Keyboard_Gamepad_Controls,67,300,1290,F9,F9
+323,Keyboard_Gamepad_Controls,68,304,1293,F10,F10
+323,Keyboard_Gamepad_Controls,69,308,1297,Num Lock,Num Lock
+323,Keyboard_Gamepad_Controls,70,312,1306,Scroll Lock,Scroll Lock
+323,Keyboard_Gamepad_Controls,71,316,1318,Numpad 7,Numpad 7
+323,Keyboard_Gamepad_Controls,72,320,1327,Numpad 8,Numpad 8
+323,Keyboard_Gamepad_Controls,73,324,1336,Numpad 9,Numpad 9
+323,Keyboard_Gamepad_Controls,74,328,1345,Numpad -,Numpad -
+323,Keyboard_Gamepad_Controls,75,332,1354,Numpad 4,Numpad 4
+323,Keyboard_Gamepad_Controls,76,336,1363,Numpad 5,Numpad 5
+323,Keyboard_Gamepad_Controls,77,340,1372,Numpad 6,Numpad 6
+323,Keyboard_Gamepad_Controls,78,344,1381,Numpad +,Numpad +
+323,Keyboard_Gamepad_Controls,79,348,1390,Numpad 1,Numpad 1
+323,Keyboard_Gamepad_Controls,80,352,1399,Numpad 2,Numpad 2
+323,Keyboard_Gamepad_Controls,81,356,1408,Numpad 3,Numpad 3
+323,Keyboard_Gamepad_Controls,82,360,1417,Numpad 0,Numpad 0
+323,Keyboard_Gamepad_Controls,83,364,1426,Numpad .,Numpad .
 323,Keyboard_Gamepad_Controls,84,368,1435,,
 323,Keyboard_Gamepad_Controls,85,372,1436,,
-323,Keyboard_Gamepad_Controls,86,376,1437,Backslash (UK),
-323,Keyboard_Gamepad_Controls,87,380,1452,F11,
-323,Keyboard_Gamepad_Controls,88,384,1456,F12,
+323,Keyboard_Gamepad_Controls,86,376,1437,Backslash (UK),แบ็กสแลช
+323,Keyboard_Gamepad_Controls,87,380,1452,F11,F11
+323,Keyboard_Gamepad_Controls,88,384,1456,F12,F12
 323,Keyboard_Gamepad_Controls,89,388,1460,,
 323,Keyboard_Gamepad_Controls,90,392,1461,,
 323,Keyboard_Gamepad_Controls,91,396,1462,,
@@ -46870,9 +46870,9 @@
 323,Keyboard_Gamepad_Controls,97,420,1468,,
 323,Keyboard_Gamepad_Controls,98,424,1469,,
 323,Keyboard_Gamepad_Controls,99,428,1470,,
-323,Keyboard_Gamepad_Controls,100,432,1471,F13,
-323,Keyboard_Gamepad_Controls,101,436,1475,F14,
-323,Keyboard_Gamepad_Controls,102,440,1479,F15,
+323,Keyboard_Gamepad_Controls,100,432,1471,F13,F13
+323,Keyboard_Gamepad_Controls,101,436,1475,F14,F14
+323,Keyboard_Gamepad_Controls,102,440,1479,F15,F15
 323,Keyboard_Gamepad_Controls,103,444,1483,,
 323,Keyboard_Gamepad_Controls,104,448,1484,,
 323,Keyboard_Gamepad_Controls,105,452,1485,,
@@ -46882,20 +46882,20 @@
 323,Keyboard_Gamepad_Controls,109,468,1489,,
 323,Keyboard_Gamepad_Controls,110,472,1490,,
 323,Keyboard_Gamepad_Controls,111,476,1491,,
-323,Keyboard_Gamepad_Controls,112,480,1492,Kana,
+323,Keyboard_Gamepad_Controls,112,480,1492,Kana,Kana
 323,Keyboard_Gamepad_Controls,113,484,1497,,
 323,Keyboard_Gamepad_Controls,114,488,1498,,
-323,Keyboard_Gamepad_Controls,115,492,1499,ABNT_C1,
+323,Keyboard_Gamepad_Controls,115,492,1499,ABNT_C1,ABNT_C1
 323,Keyboard_Gamepad_Controls,116,496,1507,,
 323,Keyboard_Gamepad_Controls,117,500,1508,,
 323,Keyboard_Gamepad_Controls,118,504,1509,,
 323,Keyboard_Gamepad_Controls,119,508,1510,,
 323,Keyboard_Gamepad_Controls,120,512,1511,,
-323,Keyboard_Gamepad_Controls,121,516,1512,Convert,
+323,Keyboard_Gamepad_Controls,121,516,1512,Convert,Convert
 323,Keyboard_Gamepad_Controls,122,520,1520,,
-323,Keyboard_Gamepad_Controls,123,524,1521,Non-Convert,
+323,Keyboard_Gamepad_Controls,123,524,1521,Non-Convert,Non-Convert
 323,Keyboard_Gamepad_Controls,124,528,1533,,
-323,Keyboard_Gamepad_Controls,125,532,1534,\,
+323,Keyboard_Gamepad_Controls,125,532,1534,\,\
 323,Keyboard_Gamepad_Controls,126,536,1536,,
 323,Keyboard_Gamepad_Controls,127,540,1537,,
 323,Keyboard_Gamepad_Controls,128,544,1538,,
@@ -46914,9 +46914,9 @@
 323,Keyboard_Gamepad_Controls,141,596,1551,,
 323,Keyboard_Gamepad_Controls,142,600,1552,,
 323,Keyboard_Gamepad_Controls,143,604,1553,,
-323,Keyboard_Gamepad_Controls,144,608,1554,^,
-323,Keyboard_Gamepad_Controls,145,612,1556,@,
-323,Keyboard_Gamepad_Controls,146,616,1558,<FI>,
+323,Keyboard_Gamepad_Controls,144,608,1554,^,^
+323,Keyboard_Gamepad_Controls,145,612,1556,@,@
+323,Keyboard_Gamepad_Controls,146,616,1558,<FI>,<FI>
 323,Keyboard_Gamepad_Controls,147,620,1562,,
 323,Keyboard_Gamepad_Controls,148,624,1563,,
 323,Keyboard_Gamepad_Controls,149,628,1564,,
@@ -46926,8 +46926,8 @@
 323,Keyboard_Gamepad_Controls,153,644,1568,,
 323,Keyboard_Gamepad_Controls,154,648,1569,,
 323,Keyboard_Gamepad_Controls,155,652,1570,,
-323,Keyboard_Gamepad_Controls,156,656,1571,Numpad Enter,
-323,Keyboard_Gamepad_Controls,157,660,1584,Right Ctrl,
+323,Keyboard_Gamepad_Controls,156,656,1571,Numpad Enter,Numpad Enter
+323,Keyboard_Gamepad_Controls,157,660,1584,Right Ctrl,Ctrl ขวา
 323,Keyboard_Gamepad_Controls,158,664,1595,,
 323,Keyboard_Gamepad_Controls,159,668,1596,,
 323,Keyboard_Gamepad_Controls,160,672,1597,,
@@ -46951,10 +46951,10 @@
 323,Keyboard_Gamepad_Controls,178,744,1615,,
 323,Keyboard_Gamepad_Controls,179,748,1616,,
 323,Keyboard_Gamepad_Controls,180,752,1617,,
-323,Keyboard_Gamepad_Controls,181,756,1618,Numpad /,
+323,Keyboard_Gamepad_Controls,181,756,1618,Numpad /,Numpad /
 323,Keyboard_Gamepad_Controls,182,760,1627,,
-323,Keyboard_Gamepad_Controls,183,764,1628,Print Screen,
-323,Keyboard_Gamepad_Controls,184,768,1641,Right Alt,
+323,Keyboard_Gamepad_Controls,183,764,1628,Print Screen,Print Screen
+323,Keyboard_Gamepad_Controls,184,768,1641,Right Alt,Alt ขวา
 323,Keyboard_Gamepad_Controls,185,772,1651,,
 323,Keyboard_Gamepad_Controls,186,776,1652,,
 323,Keyboard_Gamepad_Controls,187,780,1653,,
@@ -46967,21 +46967,21 @@
 323,Keyboard_Gamepad_Controls,194,808,1660,,
 323,Keyboard_Gamepad_Controls,195,812,1661,,
 323,Keyboard_Gamepad_Controls,196,816,1662,,
-323,Keyboard_Gamepad_Controls,197,820,1663,Pause/Break,
+323,Keyboard_Gamepad_Controls,197,820,1663,Pause/Break,Pause/Break
 323,Keyboard_Gamepad_Controls,198,824,1675,,
-323,Keyboard_Gamepad_Controls,199,828,1676,Home,
-323,Keyboard_Gamepad_Controls,200,832,1681,Up Arrow,
-323,Keyboard_Gamepad_Controls,201,836,1690,Page Up,
+323,Keyboard_Gamepad_Controls,199,828,1676,Home,Home
+323,Keyboard_Gamepad_Controls,200,832,1681,Up Arrow,ลูกศรขึ้น
+323,Keyboard_Gamepad_Controls,201,836,1690,Page Up,Page Up
 323,Keyboard_Gamepad_Controls,202,840,1698,,
-323,Keyboard_Gamepad_Controls,203,844,1699,Left Arrow,
+323,Keyboard_Gamepad_Controls,203,844,1699,Left Arrow,ลูกศรซ้าย
 323,Keyboard_Gamepad_Controls,204,848,1710,,
-323,Keyboard_Gamepad_Controls,205,852,1711,Right Arrow,
+323,Keyboard_Gamepad_Controls,205,852,1711,Right Arrow,ลูกศรขวา
 323,Keyboard_Gamepad_Controls,206,856,1723,,
-323,Keyboard_Gamepad_Controls,207,860,1724,End,
-323,Keyboard_Gamepad_Controls,208,864,1728,Down Arrow,
-323,Keyboard_Gamepad_Controls,209,868,1739,Page Down,
-323,Keyboard_Gamepad_Controls,210,872,1749,Insert,
-323,Keyboard_Gamepad_Controls,211,876,1756,Delete,
+323,Keyboard_Gamepad_Controls,207,860,1724,End,End
+323,Keyboard_Gamepad_Controls,208,864,1728,Down Arrow,ลูกศรลง
+323,Keyboard_Gamepad_Controls,209,868,1739,Page Down,Page Down
+323,Keyboard_Gamepad_Controls,210,872,1749,Insert,Insert
+323,Keyboard_Gamepad_Controls,211,876,1756,Delete,Delete
 323,Keyboard_Gamepad_Controls,212,880,1763,,
 323,Keyboard_Gamepad_Controls,213,884,1764,,
 323,Keyboard_Gamepad_Controls,214,888,1765,,
@@ -46989,9 +46989,9 @@
 323,Keyboard_Gamepad_Controls,216,896,1767,,
 323,Keyboard_Gamepad_Controls,217,900,1768,,
 323,Keyboard_Gamepad_Controls,218,904,1769,,
-323,Keyboard_Gamepad_Controls,219,908,1770,Left Win,
-323,Keyboard_Gamepad_Controls,220,912,1779,Right Win,
-323,Keyboard_Gamepad_Controls,221,916,1789,Menu Key,
+323,Keyboard_Gamepad_Controls,219,908,1770,Left Win,Win ซ้าย
+323,Keyboard_Gamepad_Controls,220,912,1779,Right Win,Win ขวา
+323,Keyboard_Gamepad_Controls,221,916,1789,Menu Key,ปุ่มเมนู
 323,Keyboard_Gamepad_Controls,222,920,1798,,
 323,Keyboard_Gamepad_Controls,223,924,1799,,
 323,Keyboard_Gamepad_Controls,224,928,1800,,

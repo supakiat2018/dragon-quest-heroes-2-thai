@@ -1,462 +1,462 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-162,System_Help,0,36,3236,Changing Characters,
-162,System_Help,1,40,3256,Changing Characters,
+162,System_Help,0,36,3236,Changing Characters,การเปลี่ยนตัวละคร
+162,System_Help,1,40,3256,Changing Characters,การเปลี่ยนตัวละคร
 162,System_Help,2,44,3276,,
 162,System_Help,3,48,3277,,
 162,System_Help,4,52,3278,,
 162,System_Help,5,56,3279,,
 162,System_Help,6,60,3280,,
 162,System_Help,7,64,3281,,
-162,System_Help,8,68,3282,Tension,
-162,System_Help,9,72,3290,Tension,
+162,System_Help,8,68,3282,Tension,พลังเทนชัน
+162,System_Help,9,72,3290,Tension,พลังเทนชัน
 162,System_Help,10,76,3298,,
 162,System_Help,11,80,3299,,
 162,System_Help,12,84,3300,,
 162,System_Help,13,88,3301,,
 162,System_Help,14,92,3302,,
 162,System_Help,15,96,3303,,
-162,System_Help,16,100,3304,High Tension,
-162,System_Help,17,104,3317,High Tension,
+162,System_Help,16,100,3304,High Tension,ไฮเทนชัน
+162,System_Help,17,104,3317,High Tension,ไฮเทนชัน
 162,System_Help,18,108,3330,,
 162,System_Help,19,112,3331,,
 162,System_Help,20,116,3332,,
 162,System_Help,21,120,3333,,
 162,System_Help,22,124,3334,,
 162,System_Help,23,128,3335,,
-162,System_Help,24,132,3336,Evac,
-162,System_Help,25,136,3341,Evac,
+162,System_Help,24,132,3336,Evac,ริเรมิต
+162,System_Help,25,136,3341,Evac,ริเรมิต
 162,System_Help,26,140,3346,,
 162,System_Help,27,144,3347,,
 162,System_Help,28,148,3348,,
 162,System_Help,29,152,3349,,
 162,System_Help,30,156,3350,,
 162,System_Help,31,160,3351,,
-162,System_Help,32,164,3352,Yggdrasil Leaves,
-162,System_Help,33,168,3369,Yggdrasil Leaves,
+162,System_Help,32,164,3352,Yggdrasil Leaves,ใบไม้อิกดราซิล
+162,System_Help,33,168,3369,Yggdrasil Leaves,ใบไม้อิกดราซิล
 162,System_Help,34,172,3386,,
 162,System_Help,35,176,3387,,
 162,System_Help,36,180,3388,,
 162,System_Help,37,184,3389,,
 162,System_Help,38,188,3390,,
 162,System_Help,39,192,3391,,
-162,System_Help,40,196,3392,Falling in Battle,
-162,System_Help,41,200,3410,Falling in Battle,
+162,System_Help,40,196,3392,Falling in Battle,การล้มลงในการต่อสู้
+162,System_Help,41,200,3410,Falling in Battle,การล้มลงในการต่อสู้
 162,System_Help,42,204,3428,,
 162,System_Help,43,208,3429,,
 162,System_Help,44,212,3430,,
 162,System_Help,45,216,3431,,
 162,System_Help,46,220,3432,,
 162,System_Help,47,224,3433,,
-162,System_Help,48,228,3434,Wild Zones,
-162,System_Help,49,232,3445,Wild Zones,
+162,System_Help,48,228,3434,Wild Zones,พื้นที่ทุ่งกว้าง
+162,System_Help,49,232,3445,Wild Zones,พื้นที่ทุ่งกว้าง
 162,System_Help,50,236,3456,,
 162,System_Help,51,240,3457,,
 162,System_Help,52,244,3458,,
 162,System_Help,53,248,3459,,
 162,System_Help,54,252,3460,,
 162,System_Help,55,256,3461,,
-162,System_Help,56,260,3462,Zoomstones,
-162,System_Help,57,264,3473,Zoomstones,
+162,System_Help,56,260,3462,Zoomstones,ศิลารูล่า
+162,System_Help,57,264,3473,Zoomstones,ศิลารูล่า
 162,System_Help,58,268,3484,,
 162,System_Help,59,272,3485,,
 162,System_Help,60,276,3486,,
 162,System_Help,61,280,3487,,
 162,System_Help,62,284,3488,,
 162,System_Help,63,288,3489,,
-162,System_Help,64,292,3490,Continue/Abandon Battle,
-162,System_Help,65,296,3514,Continue/Abandon Battle,
+162,System_Help,64,292,3490,Continue/Abandon Battle,สู้ต่อ/ยอมแพ้การต่อสู้
+162,System_Help,65,296,3514,Continue/Abandon Battle,สู้ต่อ/ยอมแพ้การต่อสู้
 162,System_Help,66,300,3538,,
 162,System_Help,67,304,3539,,
 162,System_Help,68,308,3540,,
 162,System_Help,69,312,3541,,
 162,System_Help,70,316,3542,,
 162,System_Help,71,320,3543,,
-162,System_Help,72,324,3544,Out in the Wild,
-162,System_Help,73,328,3560,Out in the Wild,
+162,System_Help,72,324,3544,Out in the Wild,การออกสู่ทุ่งกว้าง
+162,System_Help,73,328,3560,Out in the Wild,การออกสู่ทุ่งกว้าง
 162,System_Help,74,332,3576,,
 162,System_Help,75,336,3577,,
 162,System_Help,76,340,3578,,
 162,System_Help,77,344,3579,,
 162,System_Help,78,348,3580,,
 162,System_Help,79,352,3581,,
-162,System_Help,80,356,3582,Out in the Wild 2,
-162,System_Help,81,360,3600,Out in the Wild 2,
+162,System_Help,80,356,3582,Out in the Wild 2,การออกสู่ทุ่งกว้าง 2
+162,System_Help,81,360,3600,Out in the Wild 2,การออกสู่ทุ่งกว้าง 2
 162,System_Help,82,364,3618,,
 162,System_Help,83,368,3619,,
 162,System_Help,84,372,3620,,
 162,System_Help,85,376,3621,,
 162,System_Help,86,380,3622,,
 162,System_Help,87,384,3623,,
-162,System_Help,88,388,3624,Marked Monsters,
-162,System_Help,89,392,3640,Marked Monsters,
+162,System_Help,88,388,3624,Marked Monsters,มอนสเตอร์เป้าหมาย
+162,System_Help,89,392,3640,Marked Monsters,มอนสเตอร์เป้าหมาย
 162,System_Help,90,396,3656,,
 162,System_Help,91,400,3657,,
 162,System_Help,92,404,3658,,
 162,System_Help,93,408,3659,,
 162,System_Help,94,412,3660,,
 162,System_Help,95,416,3661,,
-162,System_Help,96,420,3662,Monster Medals,
-162,System_Help,97,424,3677,Monster Medals,
+162,System_Help,96,420,3662,Monster Medals,เหรียญมอนสเตอร์
+162,System_Help,97,424,3677,Monster Medals,เหรียญมอนสเตอร์
 162,System_Help,98,428,3692,,
 162,System_Help,99,432,3693,,
 162,System_Help,100,436,3694,,
 162,System_Help,101,440,3695,,
 162,System_Help,102,444,3696,,
 162,System_Help,103,448,3697,,
-162,System_Help,104,452,3698,Saviours,
-162,System_Help,105,456,3707,Saviours,
+162,System_Help,104,452,3698,Saviours,สายช่วยเหลือ
+162,System_Help,105,456,3707,Saviours,สายช่วยเหลือ
 162,System_Help,106,460,3716,,
 162,System_Help,107,464,3717,,
 162,System_Help,108,468,3718,,
 162,System_Help,109,472,3719,,
 162,System_Help,110,476,3720,,
 162,System_Help,111,480,3721,,
-162,System_Help,112,484,3722,Sentries,
-162,System_Help,113,488,3731,Sentries,
+162,System_Help,112,484,3722,Sentries,สายเฝ้าระวัง
+162,System_Help,113,488,3731,Sentries,สายเฝ้าระวัง
 162,System_Help,114,492,3740,,
 162,System_Help,115,496,3741,,
 162,System_Help,116,500,3742,,
 162,System_Help,117,504,3743,,
 162,System_Help,118,508,3744,,
 162,System_Help,119,512,3745,,
-162,System_Help,120,516,3746,Substitutes,
-162,System_Help,121,520,3758,Substitutes,
+162,System_Help,120,516,3746,Substitutes,สายแปลงร่าง
+162,System_Help,121,520,3758,Substitutes,สายแปลงร่าง
 162,System_Help,122,524,3770,,
 162,System_Help,123,528,3771,,
 162,System_Help,124,532,3772,,
 162,System_Help,125,536,3773,,
 162,System_Help,126,540,3774,,
 162,System_Help,127,544,3775,,
-162,System_Help,128,548,3776,Zoom,
-162,System_Help,129,552,3781,Zoom,
+162,System_Help,128,548,3776,Zoom,รูล่า
+162,System_Help,129,552,3781,Zoom,รูล่า
 162,System_Help,130,556,3786,,
 162,System_Help,131,560,3787,,
 162,System_Help,132,564,3788,,
 162,System_Help,133,568,3789,,
 162,System_Help,134,572,3790,,
 162,System_Help,135,576,3791,,
-162,System_Help,136,580,3792,Healstones,
-162,System_Help,137,584,3803,Healstones,
+162,System_Help,136,580,3792,Healstones,ศิลาฮอยมี่
+162,System_Help,137,584,3803,Healstones,ศิลาฮอยมี่
 162,System_Help,138,588,3814,,
 162,System_Help,139,592,3815,,
 162,System_Help,140,596,3816,,
 162,System_Help,141,600,3817,,
 162,System_Help,142,604,3818,,
 162,System_Help,143,608,3819,,
-162,System_Help,144,612,3820,Wild Zone Wipe-Outs,
-162,System_Help,145,616,3840,Wild Zone Wipe-Outs,
+162,System_Help,144,612,3820,Wild Zone Wipe-Outs,การพ่ายแพ้ในทุ่งกว้าง
+162,System_Help,145,616,3840,Wild Zone Wipe-Outs,การพ่ายแพ้ในทุ่งกว้าง
 162,System_Help,146,620,3860,,
 162,System_Help,147,624,3861,,
 162,System_Help,148,628,3862,,
 162,System_Help,149,632,3863,,
 162,System_Help,150,636,3864,,
 162,System_Help,151,640,3865,,
-162,System_Help,152,644,3866,Proficiency,
-162,System_Help,153,648,3878,Proficiency,
+162,System_Help,152,644,3866,Proficiency,ความชำนาญอาวุธ
+162,System_Help,153,648,3878,Proficiency,ความชำนาญอาวุธ
 162,System_Help,154,652,3890,,
 162,System_Help,155,656,3891,,
 162,System_Help,156,660,3892,,
 162,System_Help,157,664,3893,,
 162,System_Help,158,668,3894,,
 162,System_Help,159,672,3895,,
-162,System_Help,160,676,3896,Party Powers,
-162,System_Help,161,680,3909,Party Powers,
+162,System_Help,160,676,3896,Party Powers,พลังปาร์ตี้
+162,System_Help,161,680,3909,Party Powers,พลังปาร์ตี้
 162,System_Help,162,684,3922,,
 162,System_Help,163,688,3923,,
 162,System_Help,164,692,3924,,
 162,System_Help,165,696,3925,,
 162,System_Help,166,700,3926,,
 162,System_Help,167,704,3927,,
-162,System_Help,168,708,3928,Tag Tricks,
-162,System_Help,169,712,3939,Tag Tricks,
+162,System_Help,168,708,3928,Tag Tricks,แท็กทริก
+162,System_Help,169,712,3939,Tag Tricks,แท็กทริก
 162,System_Help,170,716,3950,,
 162,System_Help,171,720,3951,,
 162,System_Help,172,724,3952,,
 162,System_Help,173,728,3953,,
 162,System_Help,174,732,3954,,
 162,System_Help,175,736,3955,,
-162,System_Help,176,740,3956,Drawing/Sheathing Weapons,
-162,System_Help,177,744,3982,Drawing/Sheathing Weapons,
+162,System_Help,176,740,3956,Drawing/Sheathing Weapons,การชักดาบ/เก็บอาวุธ
+162,System_Help,177,744,3982,Drawing/Sheathing Weapons,การชักดาบ/เก็บอาวุธ
 162,System_Help,178,748,4008,,
 162,System_Help,179,752,4009,,
 162,System_Help,180,756,4010,,
 162,System_Help,181,760,4011,,
 162,System_Help,182,764,4012,,
 162,System_Help,183,768,4013,,
-162,System_Help,184,772,4014,Teleportals,
-162,System_Help,185,776,4026,Teleportals,
+162,System_Help,184,772,4014,Teleportals,ประตูมิติ
+162,System_Help,185,776,4026,Teleportals,ประตูมิติ
 162,System_Help,186,780,4038,,
 162,System_Help,187,784,4039,,
 162,System_Help,188,788,4040,,
 162,System_Help,189,792,4041,,
 162,System_Help,190,796,4042,,
 162,System_Help,191,800,4043,,
-162,System_Help,192,804,4044,<F4><S2>,
-162,System_Help,193,808,4051,<F4><S2>,
+162,System_Help,192,804,4044,<F4><S2>,<F4><S2>
+162,System_Help,193,808,4051,<F4><S2>,<F4><S2>
 162,System_Help,194,812,4058,,
 162,System_Help,195,816,4059,,
 162,System_Help,196,820,4060,,
 162,System_Help,197,824,4061,,
 162,System_Help,198,828,4062,,
 162,System_Help,199,832,4063,,
-162,System_Help,200,836,4064,<F4><S3>,
-162,System_Help,201,840,4071,<F4><S3>,
+162,System_Help,200,836,4064,<F4><S3>,<F4><S3>
+162,System_Help,201,840,4071,<F4><S3>,<F4><S3>
 162,System_Help,202,844,4078,,
 162,System_Help,203,848,4079,,
 162,System_Help,204,852,4080,,
 162,System_Help,205,856,4081,,
 162,System_Help,206,860,4082,,
 162,System_Help,207,864,4083,,
-162,System_Help,208,868,4084,Cesar,
-162,System_Help,209,872,4090,Cesar,
+162,System_Help,208,868,4084,Cesar,ซีซาร์
+162,System_Help,209,872,4090,Cesar,ซีซาร์
 162,System_Help,210,876,4096,,
 162,System_Help,211,880,4097,,
 162,System_Help,212,884,4098,,
 162,System_Help,213,888,4099,,
 162,System_Help,214,892,4100,,
 162,System_Help,215,896,4101,,
-162,System_Help,216,900,4102,Desdemona,
-162,System_Help,217,904,4112,Desdemona,
+162,System_Help,216,900,4102,Desdemona,เดสเดโมน่า
+162,System_Help,217,904,4112,Desdemona,เดสเดโมน่า
 162,System_Help,218,908,4122,,
 162,System_Help,219,912,4123,,
 162,System_Help,220,916,4124,,
 162,System_Help,221,920,4125,,
 162,System_Help,222,924,4126,,
 162,System_Help,223,928,4127,,
-162,System_Help,224,932,4128,Alena,
-162,System_Help,225,936,4134,Alena,
+162,System_Help,224,932,4128,Alena,อาลีน่า
+162,System_Help,225,936,4134,Alena,อาลีน่า
 162,System_Help,226,940,4140,,
 162,System_Help,227,944,4141,,
 162,System_Help,228,948,4142,,
 162,System_Help,229,952,4143,,
 162,System_Help,230,956,4144,,
 162,System_Help,231,960,4145,,
-162,System_Help,232,964,4146,Kiryl,
-162,System_Help,233,968,4152,Kiryl,
+162,System_Help,232,964,4146,Kiryl,คริฟต์
+162,System_Help,233,968,4152,Kiryl,คริฟต์
 162,System_Help,234,972,4158,,
 162,System_Help,235,976,4159,,
 162,System_Help,236,980,4160,,
 162,System_Help,237,984,4161,,
 162,System_Help,238,988,4162,,
 162,System_Help,239,992,4163,,
-162,System_Help,240,996,4164,Torneko,
-162,System_Help,241,1000,4172,Torneko,
+162,System_Help,240,996,4164,Torneko,ทอร์เนโก้
+162,System_Help,241,1000,4172,Torneko,ทอร์เนโก้
 162,System_Help,242,1004,4180,,
 162,System_Help,243,1008,4181,,
 162,System_Help,244,1012,4182,,
 162,System_Help,245,1016,4183,,
 162,System_Help,246,1020,4184,,
 162,System_Help,247,1024,4185,,
-162,System_Help,248,1028,4186,Meena,
-162,System_Help,249,1032,4192,Meena,
+162,System_Help,248,1028,4186,Meena,มีเนีย
+162,System_Help,249,1032,4192,Meena,มีเนีย
 162,System_Help,250,1036,4198,,
 162,System_Help,251,1040,4199,,
 162,System_Help,252,1044,4200,,
 162,System_Help,253,1048,4201,,
 162,System_Help,254,1052,4202,,
 162,System_Help,255,1056,4203,,
-162,System_Help,256,1060,4204,Maya,
-162,System_Help,257,1064,4209,Maya,
+162,System_Help,256,1060,4204,Maya,มาเนีย
+162,System_Help,257,1064,4209,Maya,มาเนีย
 162,System_Help,258,1068,4214,,
 162,System_Help,259,1072,4215,,
 162,System_Help,260,1076,4216,,
 162,System_Help,261,1080,4217,,
 162,System_Help,262,1084,4218,,
 162,System_Help,263,1088,4219,,
-162,System_Help,264,1092,4220,Carver,
-162,System_Help,265,1096,4227,Carver,
+162,System_Help,264,1092,4220,Carver,ฮัสซัน
+162,System_Help,265,1096,4227,Carver,ฮัสซัน
 162,System_Help,266,1100,4234,,
 162,System_Help,267,1104,4235,,
 162,System_Help,268,1108,4236,,
 162,System_Help,269,1112,4237,,
 162,System_Help,270,1116,4238,,
 162,System_Help,271,1120,4239,,
-162,System_Help,272,1124,4240,Terry,
-162,System_Help,273,1128,4246,Terry,
+162,System_Help,272,1124,4240,Terry,เทอร์รี่
+162,System_Help,273,1128,4246,Terry,เทอร์รี่
 162,System_Help,274,1132,4252,,
 162,System_Help,275,1136,4253,,
 162,System_Help,276,1140,4254,,
 162,System_Help,277,1144,4255,,
 162,System_Help,278,1148,4256,,
 162,System_Help,279,1152,4257,,
-162,System_Help,280,1156,4258,Maribel,
-162,System_Help,281,1160,4266,Maribel,
+162,System_Help,280,1156,4258,Maribel,มาริเบล
+162,System_Help,281,1160,4266,Maribel,มาริเบล
 162,System_Help,282,1164,4274,,
 162,System_Help,283,1168,4275,,
 162,System_Help,284,1172,4276,,
 162,System_Help,285,1176,4277,,
 162,System_Help,286,1180,4278,,
 162,System_Help,287,1184,4279,,
-162,System_Help,288,1188,4280,Ruff,
-162,System_Help,289,1192,4285,Ruff,
+162,System_Help,288,1188,4280,Ruff,กาโบ
+162,System_Help,289,1192,4285,Ruff,กาโบ
 162,System_Help,290,1196,4290,,
 162,System_Help,291,1200,4291,,
 162,System_Help,292,1204,4292,,
 162,System_Help,293,1208,4293,,
 162,System_Help,294,1212,4294,,
 162,System_Help,295,1216,4295,,
-162,System_Help,296,1220,4296,Angelo,
-162,System_Help,297,1224,4303,Angelo,
+162,System_Help,296,1220,4296,Angelo,คูเคิล
+162,System_Help,297,1224,4303,Angelo,คูเคิล
 162,System_Help,298,1228,4310,,
 162,System_Help,299,1232,4311,,
 162,System_Help,300,1236,4312,,
 162,System_Help,301,1240,4313,,
 162,System_Help,302,1244,4314,,
 162,System_Help,303,1248,4315,,
-162,System_Help,304,1252,4316,Jessica,
-162,System_Help,305,1256,4324,Jessica,
+162,System_Help,304,1252,4316,Jessica,เจสสิก้า
+162,System_Help,305,1256,4324,Jessica,เจสสิก้า
 162,System_Help,306,1260,4332,,
 162,System_Help,307,1264,4333,,
 162,System_Help,308,1268,4334,,
 162,System_Help,309,1272,4335,,
 162,System_Help,310,1276,4336,,
 162,System_Help,311,1280,4337,,
-162,System_Help,312,1284,4338,Monster Medal Types,
-162,System_Help,313,1288,4358,Monster Medal Types,
+162,System_Help,312,1284,4338,Monster Medal Types,ประเภทของเหรียญมอนสเตอร์
+162,System_Help,313,1288,4358,Monster Medal Types,ประเภทของเหรียญมอนสเตอร์
 162,System_Help,314,1292,4378,,
 162,System_Help,315,1296,4379,,
 162,System_Help,316,1300,4380,,
 162,System_Help,317,1304,4381,,
 162,System_Help,318,1308,4382,,
 162,System_Help,319,1312,4383,,
-162,System_Help,320,1316,4384,Patty's Place,
-162,System_Help,321,1320,4398,Patty's Place,
+162,System_Help,320,1316,4384,Patty's Place,บาร์ของแพตตี้
+162,System_Help,321,1320,4398,Patty's Place,บาร์ของแพตตี้
 162,System_Help,322,1324,4412,,
 162,System_Help,323,1328,4413,,
 162,System_Help,324,1332,4414,,
 162,System_Help,325,1336,4415,,
 162,System_Help,326,1340,4416,,
 162,System_Help,327,1344,4417,,
-162,System_Help,328,1348,4418,Breakneck Bonuses,
-162,System_Help,329,1352,4436,Breakneck Bonuses,
+162,System_Help,328,1348,4418,Breakneck Bonuses,โบนัสเผด็จศึกฉับไว
+162,System_Help,329,1352,4436,Breakneck Bonuses,โบนัสเผด็จศึกฉับไว
 162,System_Help,330,1356,4454,,
 162,System_Help,331,1360,4455,,
 162,System_Help,332,1364,4456,,
 162,System_Help,333,1368,4457,,
 162,System_Help,334,1372,4458,,
 162,System_Help,335,1376,4459,,
-162,System_Help,336,1380,4460,Battle Selection,
-162,System_Help,337,1384,4477,Battle Selection,
+162,System_Help,336,1380,4460,Battle Selection,การเลือกการต่อสู้
+162,System_Help,337,1384,4477,Battle Selection,การเลือกการต่อสู้
 162,System_Help,338,1388,4494,,
 162,System_Help,339,1392,4495,,
 162,System_Help,340,1396,4496,,
 162,System_Help,341,1400,4497,,
 162,System_Help,342,1404,4498,,
 162,System_Help,343,1408,4499,,
-162,System_Help,344,1412,4500,Set Phrases,
-162,System_Help,345,1416,4512,Set Phrases,
+162,System_Help,344,1412,4500,Set Phrases,ข้อความสำเร็จรูป
+162,System_Help,345,1416,4512,Set Phrases,ข้อความสำเร็จรูป
 162,System_Help,346,1420,4524,,
 162,System_Help,347,1424,4525,,
 162,System_Help,348,1428,4526,,
 162,System_Help,349,1432,4527,,
 162,System_Help,350,1436,4528,,
 162,System_Help,351,1440,4529,,
-162,System_Help,352,1444,4530,Flying Start Mode,
-162,System_Help,353,1448,4548,Flying Start Mode,
+162,System_Help,352,1444,4530,Flying Start Mode,โหมดเริ่มต้นแบบก้าวกระโดด
+162,System_Help,353,1448,4548,Flying Start Mode,โหมดเริ่มต้นแบบก้าวกระโดด
 162,System_Help,354,1452,4566,,
 162,System_Help,355,1456,4567,,
 162,System_Help,356,1460,4568,,
 162,System_Help,357,1464,4569,,
 162,System_Help,358,1468,4570,,
 162,System_Help,359,1472,4571,,
-162,System_Help,360,1476,4572,Vocations,
-162,System_Help,361,1480,4582,Vocations,
+162,System_Help,360,1476,4572,Vocations,สายอาชีพ
+162,System_Help,361,1480,4582,Vocations,สายอาชีพ
 162,System_Help,362,1484,4592,,
 162,System_Help,363,1488,4593,,
 162,System_Help,364,1492,4594,,
 162,System_Help,365,1496,4595,,
 162,System_Help,366,1500,4596,,
 162,System_Help,367,1504,4597,,
-162,System_Help,368,1508,4598,Camera Settings,
-162,System_Help,369,1512,4614,Camera Settings,
+162,System_Help,368,1508,4598,Camera Settings,การตั้งค่ามุมกล้อง
+162,System_Help,369,1512,4614,Camera Settings,การตั้งค่ามุมกล้อง
 162,System_Help,370,1516,4630,,
 162,System_Help,371,1520,4631,,
 162,System_Help,372,1524,4632,,
 162,System_Help,373,1528,4633,,
 162,System_Help,374,1532,4634,,
 162,System_Help,375,1536,4635,,
-162,System_Help,376,1540,4636,Weak Spots,
-162,System_Help,377,1544,4647,Weak Spots,
+162,System_Help,376,1540,4636,Weak Spots,จุดอ่อน
+162,System_Help,377,1544,4647,Weak Spots,จุดอ่อน
 162,System_Help,378,1548,4658,,
 162,System_Help,379,1552,4659,,
 162,System_Help,380,1556,4660,,
 162,System_Help,381,1560,4661,,
 162,System_Help,382,1564,4662,,
 162,System_Help,383,1568,4663,,
-162,System_Help,384,1572,4664,Changing Party Powers,
-162,System_Help,385,1576,4686,Changing Party Powers,
+162,System_Help,384,1572,4664,Changing Party Powers,การเปลี่ยนพลังปาร์ตี้
+162,System_Help,385,1576,4686,Changing Party Powers,การเปลี่ยนพลังปาร์ตี้
 162,System_Help,386,1580,4708,,
 162,System_Help,387,1584,4709,,
 162,System_Help,388,1588,4710,,
 162,System_Help,389,1592,4711,,
 162,System_Help,390,1596,4712,,
 162,System_Help,391,1600,4713,,
-162,System_Help,392,1604,4714,Kazapple,
-162,System_Help,393,1608,4723,Kazapple,
+162,System_Help,392,1604,4714,Kazapple,มินาดีน
+162,System_Help,393,1608,4723,Kazapple,มินาดีน
 162,System_Help,394,1612,4732,,
 162,System_Help,395,1616,4733,,
 162,System_Help,396,1620,4734,,
 162,System_Help,397,1624,4735,,
 162,System_Help,398,1628,4736,,
 162,System_Help,399,1632,4737,,
-162,System_Help,400,1636,4738,The Mini-Map,
-162,System_Help,401,1640,4751,The Mini-Map,
+162,System_Help,400,1636,4738,The Mini-Map,แผนที่ย่อ
+162,System_Help,401,1640,4751,The Mini-Map,แผนที่ย่อ
 162,System_Help,402,1644,4764,,
 162,System_Help,403,1648,4765,,
 162,System_Help,404,1652,4766,,
 162,System_Help,405,1656,4767,,
 162,System_Help,406,1660,4768,,
 162,System_Help,407,1664,4769,,
-162,System_Help,408,1668,4770,Chatting with Other Players,
-162,System_Help,409,1672,4798,Chatting with Other Players,
+162,System_Help,408,1668,4770,Chatting with Other Players,การพูดคุยกับผู้เล่นอื่น
+162,System_Help,409,1672,4798,Chatting with Other Players,การพูดคุยกับผู้เล่นอื่น
 162,System_Help,410,1676,4826,,
 162,System_Help,411,1680,4827,,
 162,System_Help,412,1684,4828,,
 162,System_Help,413,1688,4829,,
 162,System_Help,414,1692,4830,,
 162,System_Help,415,1696,4831,,
-162,System_Help,416,1700,4832,Bonus Balls,
-162,System_Help,417,1704,4844,Bonus Balls,
+162,System_Help,416,1700,4832,Bonus Balls,ลูกบอลโบนัส
+162,System_Help,417,1704,4844,Bonus Balls,ลูกบอลโบนัส
 162,System_Help,418,1708,4856,,
 162,System_Help,419,1712,4857,,
 162,System_Help,420,1716,4858,,
 162,System_Help,421,1720,4859,,
 162,System_Help,422,1724,4860,,
 162,System_Help,423,1728,4861,,
-162,System_Help,424,1732,4862,Kazapple (Multiplayer),
-162,System_Help,425,1736,4885,Kazapple (Multiplayer),
+162,System_Help,424,1732,4862,Kazapple (Multiplayer),มินาดีน (ผู้เล่นหลายคน)
+162,System_Help,425,1736,4885,Kazapple (Multiplayer),มินาดีน (ผู้เล่นหลายคน)
 162,System_Help,426,1740,4908,,
 162,System_Help,427,1744,4909,,
 162,System_Help,428,1748,4910,,
 162,System_Help,429,1752,4911,,
 162,System_Help,430,1756,4912,,
 162,System_Help,431,1760,4913,,
-162,System_Help,432,1764,4914,Multiplayer Mode Attributes,
-162,System_Help,433,1768,4942,Multiplayer Mode Attributes,
+162,System_Help,432,1764,4914,Multiplayer Mode Attributes,ค่าสถานะในโหมดผู้เล่นหลายคน
+162,System_Help,433,1768,4942,Multiplayer Mode Attributes,ค่าสถานะในโหมดผู้เล่นหลายคน
 162,System_Help,434,1772,4970,,
 162,System_Help,435,1776,4971,,
 162,System_Help,436,1780,4972,,
 162,System_Help,437,1784,4973,,
 162,System_Help,438,1788,4974,,
 162,System_Help,439,1792,4975,,
-162,System_Help,440,1796,4976,Multiplayer Mode Rules,
-162,System_Help,441,1800,4999,Multiplayer Mode Rules,
+162,System_Help,440,1796,4976,Multiplayer Mode Rules,กฎของโหมดผู้เล่นหลายคน
+162,System_Help,441,1800,4999,Multiplayer Mode Rules,กฎของโหมดผู้เล่นหลายคน
 162,System_Help,442,1804,5022,,
 162,System_Help,443,1808,5023,,
 162,System_Help,444,1812,5024,,
 162,System_Help,445,1816,5025,,
 162,System_Help,446,1820,5026,,
 162,System_Help,447,1824,5027,,
-162,System_Help,448,1828,5028,Multiplayer Mode Rankings,
-162,System_Help,449,1832,5054,Multiplayer Mode Rankings,
+162,System_Help,448,1828,5028,Multiplayer Mode Rankings,อันดับในโหมดผู้เล่นหลายคน
+162,System_Help,449,1832,5054,Multiplayer Mode Rankings,อันดับในโหมดผู้เล่นหลายคน
 162,System_Help,450,1836,5080,,
 162,System_Help,451,1840,5081,,
 162,System_Help,452,1844,5082,,
 162,System_Help,453,1848,5083,,
 162,System_Help,454,1852,5084,,
 162,System_Help,455,1856,5085,,
-162,System_Help,456,1860,5086,Multiplayer Mode Areas,
-162,System_Help,457,1864,5109,Multiplayer Mode Areas,
+162,System_Help,456,1860,5086,Multiplayer Mode Areas,พื้นที่ในโหมดผู้เล่นหลายคน
+162,System_Help,457,1864,5109,Multiplayer Mode Areas,พื้นที่ในโหมดผู้เล่นหลายคน
 162,System_Help,458,1868,5132,,
 162,System_Help,459,1872,5133,,
 162,System_Help,460,1876,5134,,

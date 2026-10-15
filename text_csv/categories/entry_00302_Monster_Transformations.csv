@@ -1,141 +1,141 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-302,Monster_Transformations,0,32,592,"Assume the shape of a lovely little slime and blow foes away with a short, sharp Slime Spank.",
-302,Monster_Transformations,1,36,686,Assume the shape of a hot-blooded she-slime and send foes flying with burning body blows.,
-302,Monster_Transformations,2,40,776,Casts Share Magic to restore allies' MP.,
-302,Monster_Transformations,3,44,817,Casts Kasap to drain foes' defence.,
-302,Monster_Transformations,4,48,853,Sends nearby foes to sleep with Kasnooze.,
-302,Monster_Transformations,5,52,895,Lets rip with an eye-watering critical hit from its massive mallet.,
-302,Monster_Transformations,6,56,963,Unleashes a crushing critical hit that sends out an explosive shockwave.,
-302,Monster_Transformations,7,60,1036,Annihilates enemies with a cataclysmic critical hit from its humongous hammer.,
-302,Monster_Transformations,8,64,1115,Assume the shape of a magical magus and attack enemies with an array of arcane incantations.,
-302,Monster_Transformations,9,68,1208,Assume the shape of a shadowy shaman and fell foes with superior spells.,
-302,Monster_Transformations,10,72,1281,Assume the shape of a spell-slinging sorcerer and destroy your enemies with the dark arts.,
-302,Monster_Transformations,11,76,1372,Assume the guise of a great big golem and pummel your opponents with bricklike blows.,
-302,Monster_Transformations,12,80,1458,Assume the shape of a glittering gold golem and milk monsters for money with a cash-collecting Golden Glare.,
-302,Monster_Transformations,13,84,1567,Assume the shape of a stout stone golem and suck in suckers with spinning cyclone attacks.,
-302,Monster_Transformations,14,88,1658,Envelops each party member in a swirling substance that protects them from poison.,
-302,Monster_Transformations,15,92,1741,Raises allies' tension in a heart-melting manner.,
-302,Monster_Transformations,16,96,1791,Sings a stirring Power Ballad that increases allies' attack power.,
-302,Monster_Transformations,17,100,1858,Performs a Gritty Ditty to augment allies' attack power.,
-302,Monster_Transformations,18,104,1915,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,19,108,1999,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,20,112,2083,Bursts from the earth and fights beside you till its old bones can't take any more.,
-302,Monster_Transformations,21,116,2167,Assume the shape of a chivalrous knight and ride your slimy steed into the fray<FG>,
-302,Monster_Transformations,22,120,2250,Assume the shape of a majestic metal slime knight and ride your mercurial mount into the fray<FG>,
-302,Monster_Transformations,23,124,2347,"Casts an incantation that makes the summoner small, and seriously hard to hit.",
-302,Monster_Transformations,24,128,2426,"Casts an incantation that increases the summoner's size, adding some oomph to their attacks.",
-302,Monster_Transformations,25,132,2519,Casts Reheal to restore allies' HP.,
-302,Monster_Transformations,26,136,2555,"Unleashes an electric explosion, paralysing any enemies in the area.",
-302,Monster_Transformations,27,140,2624,Casts Remidheal to restore allies' HP.,
-302,Monster_Transformations,28,144,2663,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,
-302,Monster_Transformations,29,148,2760,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,
-302,Monster_Transformations,30,152,2857,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,31,156,2948,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,32,160,3039,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,33,164,3130,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",
-302,Monster_Transformations,34,168,3221,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,35,172,3289,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,36,176,3357,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,37,180,3425,Animated armour that engages enemies until its energy is exhausted.,
-302,Monster_Transformations,38,184,3493,Sends unsuspecting foes to meet their maker with Whack.,
-302,Monster_Transformations,39,188,3549,Sends unsuspecting foes to meet their maker with Thwack.,
-302,Monster_Transformations,40,192,3606,Sends unsuspecting foes to meet their maker with Kathwack.,
-302,Monster_Transformations,41,196,3665,Assume the shape of a colossal killing machine and go on a robotic rampage<FG>,
-302,Monster_Transformations,42,200,3743,Assume the shape of a humongous hunter mech and stir up some mechanised mayhem<FG>,
-302,Monster_Transformations,43,204,3825,Assume the shape of a high-tech Type G0 and show your foes what ‘cutting edge’ really means<FG>,
-302,Monster_Transformations,44,208,3924,"Assume the shape of a chimaera and fly high in the sky, raining fire on your foes below.",
-302,Monster_Transformations,45,212,4013,"Assume the shape of a hocus chimaera and fly high in the sky, freezing foes below with icy attacks.",
-302,Monster_Transformations,46,216,4113,"Assume the shape of a cosmic chimaera and fly high in the sky, setting the field aflame with your burning breath.",
-302,Monster_Transformations,47,220,4227,Falls from the sky to pummel enemies with a powerful pound to the ground.,
-302,Monster_Transformations,48,224,4301,"Rolls forward at a quick lick, casting Kamikazee when it collides with an enemy.",
-302,Monster_Transformations,49,228,4382,Casts Kerplunk to revive fallen allies.,
-302,Monster_Transformations,50,232,4422,"Pounds the ground with its colossal club, sending foes flying.",
-302,Monster_Transformations,51,236,4485,"Curls up into a ball and rolls forward, flattening foes beneath its brobdingnagian body.",
-302,Monster_Transformations,52,240,4574,"Swings its club from side to side, unleashing an explosive onslaught.",
-302,Monster_Transformations,53,244,4644,"Pounds the ground with its colossal club, inflicting a crippling critical hit.",
-302,Monster_Transformations,54,248,4723,"Makes itself massive, then smacks foes in front of it with its prodigious palm.",
-302,Monster_Transformations,55,252,4803,"Waves to an unseen ally, who soon drops in to say ‘hello’.",
-302,Monster_Transformations,56,256,4866,Assume the guise of a great sabrecat and race around the battlefield causing carnage<FG>,
-302,Monster_Transformations,57,260,4954,Assume the appearance of a silver sabrecat and race around the battlefield putting your enemies on ice<FG>,
-302,Monster_Transformations,58,264,5060,Assume the shape of a hatchet-wielding hacksaurus and smash your enemies into submission.,
-302,Monster_Transformations,59,268,5150,Assume the shape of a terrifying tyrantosaurus and fell your foes with a fire-imbued axe.,
-302,Monster_Transformations,60,272,5240,Assume the appearance of a savage axesaurus and unleash the ultimate in axe attacks.,
-302,Monster_Transformations,61,276,5325,Uses its wibbly-wobbly body to full effect as it fights alongside you.,
-302,Monster_Transformations,62,280,5396,Heals its allies' injuries with medicinal magic as it fights alongside you.,
-302,Monster_Transformations,63,284,5472,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,64,288,5546,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,65,292,5620,Unleashes an array of icy attacks as it fights alongside you. ,
-302,Monster_Transformations,66,296,5683,Unleashes an array of explosive spells as it fights alongside you.,
-302,Monster_Transformations,67,300,5750,This master of the dark arts unleashes forbidden forces to fell your foes.,
-302,Monster_Transformations,68,304,5825,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,69,308,5907,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,70,312,5989,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",
-302,Monster_Transformations,71,316,6071,"Assume the appearance of a snarling silvapithecus, and deal foes a bitter blow with your frost-infused claws.",
-302,Monster_Transformations,72,320,6181,"Assume the appearance of a pernicious pazuzu, and eliminate enemies instantly with cursed incantations.",
-302,Monster_Transformations,73,324,6285,"Assume the appearance of a bloodthirsty batmandrill, and blow foes sky-high with a carefully timed Kamikazee.",
-302,Monster_Transformations,74,328,6395,Blasts enemies with blistering laser beams as it fights alongside you.,
-302,Monster_Transformations,75,332,6466,Blasts enemies with blistering laser beams as it fights alongside you.,
-302,Monster_Transformations,76,336,6537,Assume the appearance of an aggressive archdemon and assault enemies with explosive attacks. ,
-302,Monster_Transformations,77,340,6631,Assume the appearance of a baleful belial and assail enemies with explosive attacks.,
-302,Monster_Transformations,78,344,6716,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,79,348,6804,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,80,352,6892,Rises from the grave and fights with all its might until its foes lay it low once more.,
-302,Monster_Transformations,81,356,6980,Assume the appearance of a puckish platypunk and punish your enemies with quick kicks and tail attacks.,
-302,Monster_Transformations,82,360,7084,Assume the appearance of a stone-spewing splatypunk and spit grit at your enemies.,
-302,Monster_Transformations,83,364,7167,Assume the appearance of a Crack-billed platypunk and blast baddies away with water bombs.,
-302,Monster_Transformations,84,368,7258,Does a handstand on your head and showers you with a foul-smelling fluid that makes enemies stay well away.,
-302,Monster_Transformations,85,372,7366,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,
-302,Monster_Transformations,86,376,7462,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,
-302,Monster_Transformations,87,380,7558,Fires on your foes with razor-sharp arrows as it fights alongside you.,
-302,Monster_Transformations,88,384,7629,Infects your enemies with poison arrows as it fights alongside you.,
-302,Monster_Transformations,89,388,7697,Sets enemies snoring with sleep-inducing arrows as it fights alongside you.,
-302,Monster_Transformations,90,392,7773,Fires super-powered salvos at faraway foes as it fights alongside you.,
-302,Monster_Transformations,91,396,7844,Fills itself with fiery energy before exploding like an overinflated balloon.,
-302,Monster_Transformations,92,400,7922,Fills itself with icy energy before exploding like an overinflated balloon.,
-302,Monster_Transformations,93,404,7998,"Summons a sphere of unearthly energy, sacrificing itself in the ensuing explosion.",
-302,Monster_Transformations,94,408,8081,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,95,412,8158,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,96,416,8235,Uses its supernatural powers to make the summoner's MP recover more quickly.,
-302,Monster_Transformations,97,420,8312,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,
-302,Monster_Transformations,98,424,8392,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,
-302,Monster_Transformations,99,428,8472,Performs a Hustle Dance to restore allies' health while it fights alongside you.,
-302,Monster_Transformations,100,432,8553,Assume the appearance of a cloudy-browed cumaulus and drift around dealing lightning damage to foes below.,
-302,Monster_Transformations,101,436,8660,"Assume the appearance of a hot-blooded hell niño, and fly through the sky firing flames at foes below.",
-302,Monster_Transformations,102,440,8764,"Assume the appearance of a fierce freezing fog, and fly through the sky refrigerating enemies below.",
-302,Monster_Transformations,103,444,8865,Creates a scorching vortex that draws your foes toward a fiery fate.,
-302,Monster_Transformations,104,448,8934,Creates a wintry whirlpool that draws your foes toward a frosty fate.,
-302,Monster_Transformations,105,452,9004,Floats furtively behind the summoner's back and flails away at foes with fell force.,
-302,Monster_Transformations,106,456,9089,Floats furtively behind the summoner's back and batters foes with bone-chilling enchantments.,
-302,Monster_Transformations,107,460,9183,Floats furtively behind the summoner's back and assails enemies with eldritch incantations. ,
-302,Monster_Transformations,108,464,9276,"Assume the shape of a powerful powie yowie, and freeze foes with snowy skills.",
-302,Monster_Transformations,109,468,9355,"Assume the shape of a desert-dwelling sweaty yeti, and burn baddies with incendiary abilities.",
-302,Monster_Transformations,110,472,9450,"Assume the shape of a supersized sasquash, and assault enemies with icy abilities.",
-302,Monster_Transformations,111,476,9533,Performs a Sultry Dance to lower foes' defences while it fights alongside you.,
-302,Monster_Transformations,112,480,9612,Performs a diabolical Death Dance to dispatch enemies instantly as it fights alongside you.,
-302,Monster_Transformations,113,484,9704,Performs a Tap Dance to drain enemies' MP as it fights alongside you.,
-302,Monster_Transformations,114,488,9774,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,115,492,9844,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,116,496,9914,Puts his impressive pecs into full effect as he fights alongside you.,
-302,Monster_Transformations,117,500,9984,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,118,504,10059,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,119,508,10134,Assails enemies with its magic-imbued blade until it can assail no longer.,
-302,Monster_Transformations,120,512,10209,"Assume the appearance of a bone baron, and ride around the battlefield lancing enemies left and right.",
-302,Monster_Transformations,121,516,10312,"Assume the appearance of a ghastly grim rider, and gallop around the battlefield felling foes with black magic.",
-302,Monster_Transformations,122,520,10424,"Assume the appearance of a nefarious night rider, and ride around the battlefield spiking foes with spears.",
-302,Monster_Transformations,123,524,10532,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,
-302,Monster_Transformations,124,528,10606,Attacks enemies with its burning breath and an array of wind-based abilities.,
-302,Monster_Transformations,125,532,10684,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,126,536,10759,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,127,540,10834,Unleashes an array of arcane arts to fell foes as it fights alongside you.,
-302,Monster_Transformations,128,544,10909,"Assume the shape of a noble knight errant, and attack enemies with an enormous axe.",
-302,Monster_Transformations,129,548,10993,"Assume the shape of a nasty knight aberrant, and attack enemies with an enormous axe.",
-302,Monster_Transformations,130,552,11079,"Assume the shape of a nefarious knight abhorrent, and attack enemies with an enormous axe.",
-302,Monster_Transformations,131,556,11170,"Assume the shape of a low djinks, and send foes flying with storming spells.",
-302,Monster_Transformations,132,560,11247,"Assume the shape of a cloud surfer, and send foes flying with storming spells.",
-302,Monster_Transformations,133,564,11326,"Assume the shape of a high djinks, and send foes flying with storming spells.",
-302,Monster_Transformations,134,568,11404,Assume the appearance of a lethal loss leader and pulverise enemies with unparalleled power. ,
-302,Monster_Transformations,135,572,11498,Unleashes an ear-splitting roar that deals a great deal of damage.,
-302,Monster_Transformations,136,576,11565,"Flies into the fray, flailing left and right with its keen claws.",
+302,Monster_Transformations,0,32,592,"Assume the shape of a lovely little slime and blow foes away with a short, sharp Slime Spank.",แปลงร่างเป็นสไลม์ตัวน้อยผู้น่ารัก แล้วซัดศัตรูให้กระเด็นด้วยการตบสั่งสอนอันฉับไว
+302,Monster_Transformations,1,36,686,Assume the shape of a hot-blooded she-slime and send foes flying with burning body blows.,แปลงร่างเป็นชีสไลม์เลือดร้อน แล้วซัดศัตรูให้ลอยละลิ่วด้วยการกระแทกตัวอันเร่าร้อน
+302,Monster_Transformations,2,40,776,Casts Share Magic to restore allies' MP.,ร่ายคาถาแชร์เมจิกเพื่อฟื้นฟู MP ให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,3,44,817,Casts Kasap to drain foes' defence.,ร่ายคาถารูคานันเพื่อลดพลังป้องกันของศัตรู
+302,Monster_Transformations,4,48,853,Sends nearby foes to sleep with Kasnooze.,ร่ายคาถาราริโฮม่าทำให้ศัตรูในบริเวณใกล้เคียงหลับใหล
+302,Monster_Transformations,5,52,895,Lets rip with an eye-watering critical hit from its massive mallet.,ระเบิดการโจมตีติดคริติคอลอันหนักหน่วงจนน้ำตาเล็ดด้วยค้อนยักษ์
+302,Monster_Transformations,6,56,963,Unleashes a crushing critical hit that sends out an explosive shockwave.,ปลดปล่อยการโจมตีติดคริติคอลบดขยี้ที่ส่งคลื่นกระแทกระเบิดออกไปรอบทิศ
+302,Monster_Transformations,7,60,1036,Annihilates enemies with a cataclysmic critical hit from its humongous hammer.,กวาดล้างศัตรูให้สิ้นซากด้วยการโจมตีติดคริติคอลถล่มพิภพจากค้อนมหึมา
+302,Monster_Transformations,8,64,1115,Assume the shape of a magical magus and attack enemies with an array of arcane incantations.,แปลงร่างเป็นเมกัสจอมเวท แล้วโจมตีศัตรูด้วยชุดมนตราลี้ลับมากมาย
+302,Monster_Transformations,9,68,1208,Assume the shape of a shadowy shaman and fell foes with superior spells.,แปลงร่างเป็นชาแมนแห่งเงามืด แล้วโค่นล้มศัตรูด้วยเวทมนตร์ชั้นสูง
+302,Monster_Transformations,10,72,1281,Assume the shape of a spell-slinging sorcerer and destroy your enemies with the dark arts.,แปลงร่างเป็นซอร์เซอเรอร์จอมเวท แล้วทำลายล้างศัตรูด้วยศาสตร์มืด
+302,Monster_Transformations,11,76,1372,Assume the guise of a great big golem and pummel your opponents with bricklike blows.,แปลงร่างเป็นโกเลมร่างยักษ์ใหญ่ แล้วกระหน่ำทุบคู่ต่อสู้ด้วยหมัดอิฐหินสุดแกร่ง
+302,Monster_Transformations,12,80,1458,Assume the shape of a glittering gold golem and milk monsters for money with a cash-collecting Golden Glare.,แปลงร่างเป็นโกลด์โกเลมสีทองประกาย แล้วรีดเงินจากมอนสเตอร์ด้วยสายตาทองคำสยบเพื่อโกยทรัพย์
+302,Monster_Transformations,13,84,1567,Assume the shape of a stout stone golem and suck in suckers with spinning cyclone attacks.,แปลงร่างเป็นสโตนโกเลมหินสุดแกร่ง แล้วดูดศัตรูเข้ามาด้วยการโจมตีหมุนวนไซโคลน
+302,Monster_Transformations,14,88,1658,Envelops each party member in a swirling substance that protects them from poison.,ห่อหุ้มสมาชิกทุกคนในปาร์ตี้ด้วยสารหมุนวนที่ช่วยปกป้องจากพิษ
+302,Monster_Transformations,15,92,1741,Raises allies' tension in a heart-melting manner.,เพิ่มพลังเทนชันให้แก่เพื่อนร่วมทีมอย่างน่ารักอบอุ่นหัวใจ
+302,Monster_Transformations,16,96,1791,Sings a stirring Power Ballad that increases allies' attack power.,ขับขานบทเพลงพาวเวอร์บัลลาดอันเร้าใจเพื่อเพิ่มพลังโจมตีให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,17,100,1858,Performs a Gritty Ditty to augment allies' attack power.,บรรเลงบทเพลงกริตตี้ดิตตี้เพื่อเสริมพลังโจมตีให้แก่เพื่อนร่วมทีม
+302,Monster_Transformations,18,104,1915,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,19,108,1999,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,20,112,2083,Bursts from the earth and fights beside you till its old bones can't take any more.,ผุดขึ้นมาจากผืนดินและต่อสู้เคียงข้างคุณจนกว่าโครงกระดูกแก่เฒ่าจะทนไม่ไหว
+302,Monster_Transformations,21,116,2167,Assume the shape of a chivalrous knight and ride your slimy steed into the fray<FG>,แปลงร่างเป็นอัศวินผู้เปี่ยมเกียรติ แล้วควบพาหนะสไลม์ตะลุยเข้าสู่การต่อสู้<FG>
+302,Monster_Transformations,22,120,2250,Assume the shape of a majestic metal slime knight and ride your mercurial mount into the fray<FG>,แปลงร่างเป็นเมทัลสไลม์ไนท์ผู้งดงาม แล้วควบพาหนะโลหะว่องไวตะลุยเข้าสู่การต่อสู้<FG>
+302,Monster_Transformations,23,124,2347,"Casts an incantation that makes the summoner small, and seriously hard to hit.",ร่ายมนตราทำให้ผู้อัญเชิญตัวหดเล็กลง และหลบหลีกการโจมตีได้ง่ายขึ้นมาก
+302,Monster_Transformations,24,128,2426,"Casts an incantation that increases the summoner's size, adding some oomph to their attacks.",ร่ายมนตราขยายร่างผู้อัญเชิญให้ใหญ่โต เพิ่มพลังทำลายล้างให้แก่การโจมตี
+302,Monster_Transformations,25,132,2519,Casts Reheal to restore allies' HP.,ร่ายคาถารีฮีลเพื่อฟื้นฟู HP ให้แก่เพื่อนร่วมทีมอย่างต่อเนื่อง
+302,Monster_Transformations,26,136,2555,"Unleashes an electric explosion, paralysing any enemies in the area.",ปลดปล่อยระเบิดไฟฟ้า ทำให้ศัตรูทั้งหมดในบริเวณเป็นอัมพาต
+302,Monster_Transformations,27,140,2624,Casts Remidheal to restore allies' HP.,ร่ายคาถารีมิดฮีลเพื่อฟื้นฟู HP ให้แก่เพื่อนร่วมทีมอย่างต่อเนื่อง
+302,Monster_Transformations,28,144,2663,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,เต้นระบำเชคดาวน์ชิมมี่ทำให้ศัตรูที่ถูกล้มดรอปเงินรางวัลมากกว่าปกติ
+302,Monster_Transformations,29,148,2760,Performs a Shakedown Shimmy that makes downed enemies drop more money than they otherwise would.,เต้นระบำเชคดาวน์ชิมมี่ทำให้ศัตรูที่ถูกล้มดรอปเงินรางวัลมากกว่าปกติ
+302,Monster_Transformations,30,152,2857,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,31,156,2948,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,32,160,3039,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,33,164,3130,"Absorbs assailants' blows with its burly body, and fights like its death depended on it<FG>",ใช้ร่างกายอันกำยำดูดซับการโจมตีของศัตรู และต่อสู้ถวายชีวิตอย่างสุดกำลัง<FG>
+302,Monster_Transformations,34,168,3221,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,35,172,3289,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,36,176,3357,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,37,180,3425,Animated armour that engages enemies until its energy is exhausted.,ชุดเกราะมีชีวิตที่เข้าปะทะกับศัตรูจนกว่าพลังงานจะหมดสิ้น
+302,Monster_Transformations,38,184,3493,Sends unsuspecting foes to meet their maker with Whack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคิ
+302,Monster_Transformations,39,188,3549,Sends unsuspecting foes to meet their maker with Thwack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคาริม่า
+302,Monster_Transformations,40,192,3606,Sends unsuspecting foes to meet their maker with Kathwack.,ส่งศัตรูที่ไม่ทันระวังตัวไปสู่ยมโลกด้วยคาถาซาคิออน
+302,Monster_Transformations,41,196,3665,Assume the shape of a colossal killing machine and go on a robotic rampage<FG>,แปลงร่างเป็นคิลเลอร์แมชชีนขนาดยักษ์ แล้วออกอาละวาดแบบจักรกลทำลายล้าง<FG>
+302,Monster_Transformations,42,200,3743,Assume the shape of a humongous hunter mech and stir up some mechanised mayhem<FG>,แปลงร่างเป็นฮันเตอร์เมคสุดมหึมา แล้วก่อความโกลาหลด้วยพลังจักรกล<FG>
+302,Monster_Transformations,43,204,3825,Assume the shape of a high-tech Type G0 and show your foes what ‘cutting edge’ really means<FG>,แปลงร่างเป็นไทป์ G0 สุดไฮเทค แล้วแสดงให้ศัตรูเห็นว่า ‘คมเฉียบระดับแนวหน้า’ คืออะไร<FG>
+302,Monster_Transformations,44,208,3924,"Assume the shape of a chimaera and fly high in the sky, raining fire on your foes below.",แปลงร่างเป็นคิเมร่าแล้วบินทะยานสู่ฟากฟ้า สาดห่าฝนเพลิงใส่ศัตรูเบื้องล่าง
+302,Monster_Transformations,45,212,4013,"Assume the shape of a hocus chimaera and fly high in the sky, freezing foes below with icy attacks.",แปลงร่างเป็นโฮคัสคิเมร่าแล้วบินทะยานสู่ฟากฟ้า แช่แข็งศัตรูเบื้องล่างด้วยการโจมตีน้ำแข็ง
+302,Monster_Transformations,46,216,4113,"Assume the shape of a cosmic chimaera and fly high in the sky, setting the field aflame with your burning breath.",แปลงร่างเป็นคอสมิกคิเมร่าแล้วบินทะยานสู่ฟากฟ้า แผดเผาสนามรบให้ลุกเป็นไฟด้วยลมหายใจเพลิง
+302,Monster_Transformations,47,220,4227,Falls from the sky to pummel enemies with a powerful pound to the ground.,ทิ้งตัวลงมาจากท้องฟ้าเพื่อกระหน่ำทุบศัตรูด้วยการกระแทกพื้นพสุธาอันทรงพลัง
+302,Monster_Transformations,48,224,4301,"Rolls forward at a quick lick, casting Kamikazee when it collides with an enemy.",กลิ้งไปข้างหน้าด้วยความเร็วสูง และร่ายคาถาเมกันเต้ระเบิดตัวเองเมื่อชนเข้ากับศัตรู
+302,Monster_Transformations,49,228,4382,Casts Kerplunk to revive fallen allies.,ร่ายคาถาเมกันตาสลักชีพเพื่อชุบชีวิตเพื่อนร่วมทีมที่ล้มลงทั้งหมด
+302,Monster_Transformations,50,232,4422,"Pounds the ground with its colossal club, sending foes flying.",ทุบพื้นพสุธาด้วยกระบองมหึมา ซัดศัตรูให้ลอยกระเด็น
+302,Monster_Transformations,51,236,4485,"Curls up into a ball and rolls forward, flattening foes beneath its brobdingnagian body.",ม้วนตัวเป็นก้อนกลมแล้วกลิ้งไปข้างหน้า บดขยี้ศัตรูให้แบนใต้ร่างยักษ์มหึมา
+302,Monster_Transformations,52,240,4574,"Swings its club from side to side, unleashing an explosive onslaught.",เหวี่ยงกระบองไปมาซ้ายขวา ปลดปล่อยการโจมตีระเบิดอันดุเดือด
+302,Monster_Transformations,53,244,4644,"Pounds the ground with its colossal club, inflicting a crippling critical hit.",ทุบพื้นพสุธาด้วยกระบองมหึมา สร้างความเสียหายติดคริติคอลอันรุนแรงจนขยับไม่ได้
+302,Monster_Transformations,54,248,4723,"Makes itself massive, then smacks foes in front of it with its prodigious palm.",ขยายร่างให้มหึมา แล้วตบศัตรูเบื้องหน้าด้วยฝ่ามือขนาดยักษ์
+302,Monster_Transformations,55,252,4803,"Waves to an unseen ally, who soon drops in to say ‘hello’.",โบกมือเรียกสหายที่มองไม่เห็น ซึ่งจะกระโจนลงมาทักทายในไม่ช้า
+302,Monster_Transformations,56,256,4866,Assume the guise of a great sabrecat and race around the battlefield causing carnage<FG>,แปลงร่างเป็นเกรทเซเบอร์แคทแล้ววิ่งตะลุยไปทั่วยุทธภูมิ สร้างความพินาศย่อยยับ<FG>
+302,Monster_Transformations,57,260,4954,Assume the appearance of a silver sabrecat and race around the battlefield putting your enemies on ice<FG>,แปลงร่างเป็นซิลเวอร์เซเบอร์แคทแล้ววิ่งตะลุยไปทั่วยุทธภูมิ แช่แข็งศัตรูของคุณให้อยู่หมัด<FG>
+302,Monster_Transformations,58,264,5060,Assume the shape of a hatchet-wielding hacksaurus and smash your enemies into submission.,แปลงร่างเป็นแฮ็กซอรัสผู้ถือขวาน แล้วทุบศัตรูให้ยอมจำนน
+302,Monster_Transformations,59,268,5150,Assume the shape of a terrifying tyrantosaurus and fell your foes with a fire-imbued axe.,แปลงร่างเป็นไทแรนโตซอรัสสุดสะพรึง แล้วโค่นศัตรูด้วยขวานเคลือบเพลิง
+302,Monster_Transformations,60,272,5240,Assume the appearance of a savage axesaurus and unleash the ultimate in axe attacks.,แปลงร่างเป็นแอกซ์ซอรัสสุดดุร้าย แล้วปลดปล่อยสุดยอดการโจมตีด้วยขวาน
+302,Monster_Transformations,61,276,5325,Uses its wibbly-wobbly body to full effect as it fights alongside you.,ใช้ร่างกายดึ๋งดั๋งยืดหยุ่นให้เป็นประโยชน์อย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,62,280,5396,Heals its allies' injuries with medicinal magic as it fights alongside you.,รักษาบาดแผลของเพื่อนร่วมทีมด้วยเวทมนตร์รักษาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,63,284,5472,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,64,288,5546,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,65,292,5620,Unleashes an array of icy attacks as it fights alongside you. ,ปลดปล่อยการโจมตีน้ำแข็งหลากหลายรูปแบบในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,66,296,5683,Unleashes an array of explosive spells as it fights alongside you.,ปลดปล่อยเวทมนตร์ระเบิดหลากหลายบทในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,67,300,5750,This master of the dark arts unleashes forbidden forces to fell your foes.,ปรมาจารย์แห่งศาสตร์มืดผู้นี้ปลดปล่อยพลังต้องห้ามเพื่อโค่นล้มศัตรูของคุณ
+302,Monster_Transformations,68,304,5825,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,69,308,5907,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,70,312,5989,"Wields its weapons with superior skill, unleashing an array of elemental attacks.",ใช้อาวุธด้วยทักษะอันเหนือชั้น ปลดปล่อยการโจมตีธาตุหลากหลายรูปแบบ
+302,Monster_Transformations,71,316,6071,"Assume the appearance of a snarling silvapithecus, and deal foes a bitter blow with your frost-infused claws.",แปลงร่างเป็นซิลวาพิเธคัสแยกเขี้ยว แล้วซัดการโจมตีอันเจ็บปวดใส่ศัตรูด้วยกรงเล็บอาบน้ำแข็ง
+302,Monster_Transformations,72,320,6181,"Assume the appearance of a pernicious pazuzu, and eliminate enemies instantly with cursed incantations.",แปลงร่างเป็นพาซูซูผู้ชั่วร้าย แล้วกำจัดศัตรูในทันทีด้วยมนต์สาปแช่ง
+302,Monster_Transformations,73,324,6285,"Assume the appearance of a bloodthirsty batmandrill, and blow foes sky-high with a carefully timed Kamikazee.",แปลงร่างเป็นแบทแมนดริลกระหายเลือด แล้วระเบิดศัตรูให้ลอยสู่ฟากฟ้าด้วยคาถาเมกันเต้ในจังหวะเหมาะเจาะ
+302,Monster_Transformations,74,328,6395,Blasts enemies with blistering laser beams as it fights alongside you.,ยิงถล่มศัตรูด้วยลำแสงเลเซอร์แผดเผาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,75,332,6466,Blasts enemies with blistering laser beams as it fights alongside you.,ยิงถล่มศัตรูด้วยลำแสงเลเซอร์แผดเผาในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,76,336,6537,Assume the appearance of an aggressive archdemon and assault enemies with explosive attacks. ,แปลงร่างเป็นอาร์คเดมอนผู้ดุดัน แล้วบุกจู่โจมศัตรูด้วยการโจมตีระเบิดทำลายล้าง
+302,Monster_Transformations,77,340,6631,Assume the appearance of a baleful belial and assail enemies with explosive attacks.,แปลงร่างเป็นเบเลียลผู้น่าสะพรึงกลัว แล้วกระหน่ำโจมตีศัตรูด้วยการโจมตีระเบิดทำลายล้าง
+302,Monster_Transformations,78,344,6716,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,79,348,6804,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,80,352,6892,Rises from the grave and fights with all its might until its foes lay it low once more.,ฟื้นขึ้นมาจากหลุมศพและต่อสู้อย่างสุดกำลังจนกว่าศัตรูจะกำราบมันลงอีกครั้ง
+302,Monster_Transformations,81,356,6980,Assume the appearance of a puckish platypunk and punish your enemies with quick kicks and tail attacks.,แปลงร่างเป็นพลาตีพังก์ตัวแสบ แล้วลงโทษศัตรูด้วยลูกเตะอันรวดเร็วและการฟาดหาง
+302,Monster_Transformations,82,360,7084,Assume the appearance of a stone-spewing splatypunk and spit grit at your enemies.,แปลงร่างเป็นสพลาตีพังก์พ่นหิน แล้วพ่นกรวดทรายใส่ศัตรู
+302,Monster_Transformations,83,364,7167,Assume the appearance of a Crack-billed platypunk and blast baddies away with water bombs.,แปลงร่างเป็นพลาตีพังก์ปากแคร็ก แล้วซัดเหล่าร้ายให้กระเด็นด้วยระเบิดน้ำ
+302,Monster_Transformations,84,368,7258,Does a handstand on your head and showers you with a foul-smelling fluid that makes enemies stay well away.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นของเหลวกลิ่นเหม็นหึ่ง ช่วยให้ศัตรูไม่กล้าเข้าใกล้
+302,Monster_Transformations,85,372,7366,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นละอองรสเผ็ดร้อน ช่วยสนับสนุนคุณในหลากหลายด้าน
+302,Monster_Transformations,86,376,7462,Does a handstand on your head and showers you with a spicy spray that aids you in various ways.,ตีลังกาหกสูงบนหัวของคุณแล้วพ่นละอองรสเผ็ดร้อน ช่วยสนับสนุนคุณในหลากหลายด้าน
+302,Monster_Transformations,87,380,7558,Fires on your foes with razor-sharp arrows as it fights alongside you.,กระหน่ำยิงศัตรูด้วยลูกธนูคมกริบดุจใบมีดในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,88,384,7629,Infects your enemies with poison arrows as it fights alongside you.,ทำให้ศัตรูติดพิษด้วยลูกธนูอาบยาพิษในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,89,388,7697,Sets enemies snoring with sleep-inducing arrows as it fights alongside you.,ทำให้ศัตรูนอนหลับกรนด้วยลูกธนูยานอนหลับในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,90,392,7773,Fires super-powered salvos at faraway foes as it fights alongside you.,ยิงระดมห่ากระสุนพลังทำลายล้างสูงใส่ศัตรูระยะไกลในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,91,396,7844,Fills itself with fiery energy before exploding like an overinflated balloon.,สะสมพลังงานเพลิงจนเต็มร่างก่อนจะระเบิดตัวเองเหมือนลูกโป่งที่พองเกินพิกัด
+302,Monster_Transformations,92,400,7922,Fills itself with icy energy before exploding like an overinflated balloon.,สะสมพลังงานเยือกแข็งจนเต็มร่างก่อนจะระเบิดตัวเองเหมือนลูกโป่งที่พองเกินพิกัด
+302,Monster_Transformations,93,404,7998,"Summons a sphere of unearthly energy, sacrificing itself in the ensuing explosion.",เรียกทรงกลมพลังงานเหนือธรรมชาติออกมา แล้วสละชีพในการระเบิดครั้งใหญ่ที่ตามมา
+302,Monster_Transformations,94,408,8081,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,95,412,8158,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,96,416,8235,Uses its supernatural powers to make the summoner's MP recover more quickly.,ใช้พลังเหนือธรรมชาติช่วยให้ MP ของผู้อัญเชิญฟื้นฟูได้เร็วยิ่งขึ้น
+302,Monster_Transformations,97,420,8312,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,98,424,8392,Performs a Sultry Dance to dampen foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,99,428,8472,Performs a Hustle Dance to restore allies' health while it fights alongside you.,เต้นระบำฮัสเซิลแดนซ์เพื่อฟื้นฟูพลังชีวิตให้แก่เพื่อนร่วมทีมในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,100,432,8553,Assume the appearance of a cloudy-browed cumaulus and drift around dealing lightning damage to foes below.,แปลงร่างเป็นคิวมิวลัสก้อนเมฆ แล้วลอยวนสร้างความเสียหายสายฟ้าแก่ศัตรูเบื้องล่าง
+302,Monster_Transformations,101,436,8660,"Assume the appearance of a hot-blooded hell niño, and fly through the sky firing flames at foes below.",แปลงร่างเป็นเฮลนีโญเลือดร้อน แล้วบินทะยานบนฟ้าพ่นเพลิงใส่ศัตรูเบื้องล่าง
+302,Monster_Transformations,102,440,8764,"Assume the appearance of a fierce freezing fog, and fly through the sky refrigerating enemies below.",แปลงร่างเป็นหมอกเยือกแข็งสุดดุร้าย แล้วบินบนฟ้าแช่เย็นยะเยือกศัตรูเบื้องล่าง
+302,Monster_Transformations,103,444,8865,Creates a scorching vortex that draws your foes toward a fiery fate.,สร้างวังวนเพลิงแผดเผาที่ดูดศัตรูเข้าไปสู่ชะตากรรมอันลุกเป็นไฟ
+302,Monster_Transformations,104,448,8934,Creates a wintry whirlpool that draws your foes toward a frosty fate.,สร้างวังวนเหมันต์ที่ดูดศัตรูเข้าไปสู่ชะตากรรมอันหนาวเหน็บ
+302,Monster_Transformations,105,452,9004,Floats furtively behind the summoner's back and flails away at foes with fell force.,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วฟาดฟันศัตรูด้วยพลังอันดุดัน
+302,Monster_Transformations,106,456,9089,Floats furtively behind the summoner's back and batters foes with bone-chilling enchantments.,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วกระหน่ำโจมตีศัตรูด้วยมนตราหนาวเหน็บจับขั้วกระดูก
+302,Monster_Transformations,107,460,9183,Floats furtively behind the summoner's back and assails enemies with eldritch incantations. ,ลอยตัวอย่างลับล่ออยู่ด้านหลังผู้อัญเชิญ แล้วจู่โจมศัตรูด้วยมนตราโบราณลี้ลับ
+302,Monster_Transformations,108,464,9276,"Assume the shape of a powerful powie yowie, and freeze foes with snowy skills.",แปลงร่างเป็นพาววี่เยาวี่ผู้ทรงพลัง แล้วแช่แข็งศัตรูด้วยสกิลหิมะ
+302,Monster_Transformations,109,468,9355,"Assume the shape of a desert-dwelling sweaty yeti, and burn baddies with incendiary abilities.",แปลงร่างเป็นเยติทะเลทรายผู้เหงื่อโชก แล้วเผาผลาญเหล่าร้ายด้วยอบิลิตี้เพลิง
+302,Monster_Transformations,110,472,9450,"Assume the shape of a supersized sasquash, and assault enemies with icy abilities.",แปลงร่างเป็นแซสควอชร่างยักษ์ใหญ่ แล้วบุกจู่โจมศัตรูด้วยอบิลิตี้น้ำแข็ง
+302,Monster_Transformations,111,476,9533,Performs a Sultry Dance to lower foes' defences while it fights alongside you.,เต้นระบำยั่วยวนเพื่อลดพลังป้องกันของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,112,480,9612,Performs a diabolical Death Dance to dispatch enemies instantly as it fights alongside you.,เต้นระบำมรณะแห่งความตายเพื่อสังหารศัตรูในทันทีในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,113,484,9704,Performs a Tap Dance to drain enemies' MP as it fights alongside you.,เต้นแท็ปแดนซ์เพื่อสูบ MP ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,114,488,9774,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,115,492,9844,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,116,496,9914,Puts his impressive pecs into full effect as he fights alongside you.,เบ่งกล้ามอกอันน่าทึ่งเพื่อแผ่พลังออกมาอย่างเต็มที่ในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,117,500,9984,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,118,504,10059,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,119,508,10134,Assails enemies with its magic-imbued blade until it can assail no longer.,กระหน่ำโจมตีศัตรูด้วยดาบอาบเวทมนตร์จนกว่าเรี่ยวแรงจะหมดสิ้น
+302,Monster_Transformations,120,512,10209,"Assume the appearance of a bone baron, and ride around the battlefield lancing enemies left and right.",แปลงร่างเป็นโบนบารอน แล้วควบม้าไปทั่วยุทธภูมิแทงหอกใส่ศัตรูซ้ายขวา
+302,Monster_Transformations,121,516,10312,"Assume the appearance of a ghastly grim rider, and gallop around the battlefield felling foes with black magic.",แปลงร่างเป็นกริมไรเดอร์ผู้น่าสะพรึงกลัว แล้วควบม้าไปทั่วยุทธภูมิโค่นศัตรูด้วยมนต์ดำ
+302,Monster_Transformations,122,520,10424,"Assume the appearance of a nefarious night rider, and ride around the battlefield spiking foes with spears.",แปลงร่างเป็นไนท์ไรเดอร์จอมโฉด แล้วควบม้าไปทั่วยุทธภูมิเสียบแทงศัตรูด้วยหอก
+302,Monster_Transformations,123,524,10532,Casts Fizzle to frustrate spell-slinging foes as it fights alongside you.,ร่ายคาถามาโฮโทนเพื่อผนึกเวทมนตร์ของศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,124,528,10606,Attacks enemies with its burning breath and an array of wind-based abilities.,โจมตีศัตรูด้วยลมหายใจเพลิงและอบิลิตี้ธาตุลมอันหลากหลาย
+302,Monster_Transformations,125,532,10684,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,126,536,10759,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,127,540,10834,Unleashes an array of arcane arts to fell foes as it fights alongside you.,ปลดปล่อยศาสตร์เวทลี้ลับหลากหลายแขนงเพื่อโค่นศัตรูในขณะต่อสู้เคียงข้างคุณ
+302,Monster_Transformations,128,544,10909,"Assume the shape of a noble knight errant, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์เออร์แรนต์อัศวินพเนจร แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,129,548,10993,"Assume the shape of a nasty knight aberrant, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์แอบเบอร์แรนต์อัศวินชั่วร้าย แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,130,552,11079,"Assume the shape of a nefarious knight abhorrent, and attack enemies with an enormous axe.",แปลงร่างเป็นไนท์แอบฮอร์เรนต์อัศวินโฉดชั่ว แล้วโจมตีศัตรูด้วยขวานมหึมา
+302,Monster_Transformations,131,556,11170,"Assume the shape of a low djinks, and send foes flying with storming spells.",แปลงร่างเป็นโลวจิงก์ส แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,132,560,11247,"Assume the shape of a cloud surfer, and send foes flying with storming spells.",แปลงร่างเป็นคลาวด์เซิร์ฟเฟอร์ แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,133,564,11326,"Assume the shape of a high djinks, and send foes flying with storming spells.",แปลงร่างเป็นไฮจิงก์ส แล้วซัดศัตรูให้กระเด็นด้วยเวทมนตร์พายุโหมกระหน่ำ
+302,Monster_Transformations,134,568,11404,Assume the appearance of a lethal loss leader and pulverise enemies with unparalleled power. ,แปลงร่างเป็นลอสลีดเดอร์สุดอันตราย แล้วบดขยี้ศัตรูด้วยพลังทำลายล้างไร้เทียมทาน
+302,Monster_Transformations,135,572,11498,Unleashes an ear-splitting roar that deals a great deal of damage.,แผดเสียงคำรามกึกก้องจนแสบแก้วหู สร้างความเสียหายอย่างมหาศาล
+302,Monster_Transformations,136,576,11565,"Flies into the fray, flailing left and right with its keen claws.",บินโฉบเข้าสู่การต่อสู้ กวัดแกว่งกรงเล็บแหลมคมฟาดฟันซ้ายขวา
 302,Monster_Transformations,137,580,11631,,
-302,Monster_Transformations,138,584,11632,Blasts baddies with laser beams and crossbow bolts as it fights alongside you.,
+302,Monster_Transformations,138,584,11632,Blasts baddies with laser beams and crossbow bolts as it fights alongside you.,ยิงถล่มเหล่าร้ายด้วยลำแสงเลเซอร์และลูกศรหน้าไม้ในขณะต่อสู้เคียงข้างคุณ
 302,Monster_Transformations,139,588,11711,,

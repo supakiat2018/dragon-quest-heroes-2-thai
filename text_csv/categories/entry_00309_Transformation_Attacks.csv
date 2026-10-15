@@ -1,10 +1,10 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-309,Transformation_Attacks,0,32,1712,Body Slam,
-309,Transformation_Attacks,1,36,1722,Zap,
-309,Transformation_Attacks,2,40,1726,Slime Spank,
-309,Transformation_Attacks,3,44,1738,Body Slam,
-309,Transformation_Attacks,4,48,1748,Frizz,
-309,Transformation_Attacks,5,52,1754,Spark Spank,
+309,Transformation_Attacks,0,32,1712,Body Slam,ทิ้งตัวกระแทก
+309,Transformation_Attacks,1,36,1722,Zap,เดอิน
+309,Transformation_Attacks,2,40,1726,Slime Spank,สไลม์ตบสั่งสอน
+309,Transformation_Attacks,3,44,1738,Body Slam,ทิ้งตัวกระแทก
+309,Transformation_Attacks,4,48,1748,Frizz,เมร่า
+309,Transformation_Attacks,5,52,1754,Spark Spank,ตบประกายไฟ
 309,Transformation_Attacks,6,56,1766,,
 309,Transformation_Attacks,7,60,1767,,
 309,Transformation_Attacks,8,64,1768,,
@@ -23,24 +23,24 @@
 309,Transformation_Attacks,21,116,1781,,
 309,Transformation_Attacks,22,120,1782,,
 309,Transformation_Attacks,23,124,1783,,
-309,Transformation_Attacks,24,128,1784,Sizz,
-309,Transformation_Attacks,25,132,1789,Scram 'n' Zam,
-309,Transformation_Attacks,26,136,1803,Bang,
-309,Transformation_Attacks,27,140,1808,Kerfrizz,
-309,Transformation_Attacks,28,144,1817,Scram 'n' Zam,
-309,Transformation_Attacks,29,148,1831,Boom,
-309,Transformation_Attacks,30,152,1836,Kerzam,
-309,Transformation_Attacks,31,156,1843,Scram 'n' Zam,
-309,Transformation_Attacks,32,160,1857,Kazam,
-309,Transformation_Attacks,33,164,1863,Cratermaker,
-309,Transformation_Attacks,34,168,1875,Barging Charge,
-309,Transformation_Attacks,35,172,1890,Sucker Punch,
-309,Transformation_Attacks,36,176,1903,Bashback,
-309,Transformation_Attacks,37,180,1912,Barging Charge,
-309,Transformation_Attacks,38,184,1927,Golden Glare,
-309,Transformation_Attacks,39,188,1940,Ground Pound,
-309,Transformation_Attacks,40,192,1953,Barging Charge,
-309,Transformation_Attacks,41,196,1968,Cyclone Spin,
+309,Transformation_Attacks,24,128,1784,Sizz,กิร่า
+309,Transformation_Attacks,25,132,1789,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,26,136,1803,Bang,อิโอ
+309,Transformation_Attacks,27,140,1808,Kerfrizz,เมราโซม่า
+309,Transformation_Attacks,28,144,1817,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,29,148,1831,Boom,อิโอร่า
+309,Transformation_Attacks,30,152,1836,Kerzam,ดอลมอนเต้
+309,Transformation_Attacks,31,156,1843,Scram 'n' Zam,ดอลม่าสับหลีก
+309,Transformation_Attacks,32,160,1857,Kazam,ดอลคูม่า
+309,Transformation_Attacks,33,164,1863,Cratermaker,ทุบพสุธาแยก
+309,Transformation_Attacks,34,168,1875,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,35,172,1890,Sucker Punch,หมัดลอบชก
+309,Transformation_Attacks,36,176,1903,Bashback,ฟาดสะท้อนกลับ
+309,Transformation_Attacks,37,180,1912,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,38,184,1927,Golden Glare,สายตาทองคำสยบ
+309,Transformation_Attacks,39,188,1940,Ground Pound,กระแทกพื้นพสุธา
+309,Transformation_Attacks,40,192,1953,Barging Charge,พุ่งกระแทกชน
+309,Transformation_Attacks,41,196,1968,Cyclone Spin,หมุนวนไซโคลน
 309,Transformation_Attacks,42,200,1981,,
 309,Transformation_Attacks,43,204,1982,,
 309,Transformation_Attacks,44,208,1983,,
@@ -62,12 +62,12 @@
 309,Transformation_Attacks,60,272,1999,,
 309,Transformation_Attacks,61,276,2000,,
 309,Transformation_Attacks,62,280,2001,,
-309,Transformation_Attacks,63,284,2002,Sword Swing,
-309,Transformation_Attacks,64,288,2014,Falcon Slash,
-309,Transformation_Attacks,65,292,2027,Bang,
-309,Transformation_Attacks,66,296,2032,Sword Swing,
-309,Transformation_Attacks,67,300,2044,Über Falcon Slash,
-309,Transformation_Attacks,68,304,2063,Miracle Slash,
+309,Transformation_Attacks,63,284,2002,Sword Swing,เหวี่ยงดาบ
+309,Transformation_Attacks,64,288,2014,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,65,292,2027,Bang,อิโอ
+309,Transformation_Attacks,66,296,2032,Sword Swing,เหวี่ยงดาบ
+309,Transformation_Attacks,67,300,2044,Über Falcon Slash,ซูเปอร์ฟอลคอนสแลช
+309,Transformation_Attacks,68,304,2063,Miracle Slash,มิราเคิลสแลช
 309,Transformation_Attacks,69,308,2077,,
 309,Transformation_Attacks,70,312,2078,,
 309,Transformation_Attacks,71,316,2079,,
@@ -122,24 +122,24 @@
 309,Transformation_Attacks,120,512,2128,,
 309,Transformation_Attacks,121,516,2129,,
 309,Transformation_Attacks,122,520,2130,,
-309,Transformation_Attacks,123,524,2131,Gyroblade,
-309,Transformation_Attacks,124,528,2141,Quantum Leap,
-309,Transformation_Attacks,125,532,2154,Robobeam,
-309,Transformation_Attacks,126,536,2163,Gyroblade,
-309,Transformation_Attacks,127,540,2173,Quantum Leap,
-309,Transformation_Attacks,128,544,2186,Bow Barrage,
-309,Transformation_Attacks,129,548,2198,Kacrackle Slash,
-309,Transformation_Attacks,130,552,2214,Quantum Leap,
-309,Transformation_Attacks,131,556,2227,Helter Belter,
-309,Transformation_Attacks,132,560,2241,Fireball,
-309,Transformation_Attacks,133,564,2250,Flame Breath,
-309,Transformation_Attacks,134,568,2263,Barrel Roll,
-309,Transformation_Attacks,135,572,2275,Snowball,
-309,Transformation_Attacks,136,576,2284,Flash Freeze,
-309,Transformation_Attacks,137,580,2297,Barrel Roll,
-309,Transformation_Attacks,138,584,2309,Bolide Blast,
-309,Transformation_Attacks,139,588,2322,Scorch,
-309,Transformation_Attacks,140,592,2329,Barrel Roll,
+309,Transformation_Attacks,123,524,2131,Gyroblade,ใบมีดไจโรสว่าน
+309,Transformation_Attacks,124,528,2141,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,125,532,2154,Robobeam,ลำแสงหุ่นยนต์
+309,Transformation_Attacks,126,536,2163,Gyroblade,ใบมีดไจโรสว่าน
+309,Transformation_Attacks,127,540,2173,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,128,544,2186,Bow Barrage,ห่าฝนเกาทัณฑ์
+309,Transformation_Attacks,129,548,2198,Kacrackle Slash,ดาบน้ำแข็งมหาประลัย
+309,Transformation_Attacks,130,552,2214,Quantum Leap,ก้าวกระโดดข้ามมิติ
+309,Transformation_Attacks,131,556,2227,Helter Belter,หมัดเหวี่ยงอลหม่าน
+309,Transformation_Attacks,132,560,2241,Fireball,ลูกไฟเพลิง
+309,Transformation_Attacks,133,564,2250,Flame Breath,ลมหายใจเพลิง
+309,Transformation_Attacks,134,568,2263,Barrel Roll,หมุนตัวกลิ้งสว่าน
+309,Transformation_Attacks,135,572,2275,Snowball,ลูกบอลหิมะ
+309,Transformation_Attacks,136,576,2284,Flash Freeze,แช่แข็งฉับพลัน
+309,Transformation_Attacks,137,580,2297,Barrel Roll,หมุนตัวกลิ้งสว่าน
+309,Transformation_Attacks,138,584,2309,Bolide Blast,ระเบิดอุกกาบาต
+309,Transformation_Attacks,139,588,2322,Scorch,เพลิงโลกันตร์แผดเผา
+309,Transformation_Attacks,140,592,2329,Barrel Roll,หมุนตัวกลิ้งสว่าน
 309,Transformation_Attacks,141,596,2341,,
 309,Transformation_Attacks,142,600,2342,,
 309,Transformation_Attacks,143,604,2343,,
@@ -167,21 +167,21 @@
 309,Transformation_Attacks,165,692,2365,,
 309,Transformation_Attacks,166,696,2366,,
 309,Transformation_Attacks,167,700,2367,,
-309,Transformation_Attacks,168,704,2368,Sabre Wheel,
-309,Transformation_Attacks,169,708,2380,Sabre Reel,
-309,Transformation_Attacks,170,712,2391,Raw Roar,
-309,Transformation_Attacks,171,716,2400,Sabre Wheel,
-309,Transformation_Attacks,172,720,2412,Sabre Reel,
-309,Transformation_Attacks,173,724,2423,Ice Scream,
-309,Transformation_Attacks,174,728,2434,Falcon Slash,
-309,Transformation_Attacks,175,732,2447,Spinning Slice,
-309,Transformation_Attacks,176,736,2462,Flame Breath,
-309,Transformation_Attacks,177,740,2475,Flame Slash,
-309,Transformation_Attacks,178,744,2487,Searing Slice,
-309,Transformation_Attacks,179,748,2501,Sizzling Smash,
-309,Transformation_Attacks,180,752,2516,Falcon Slash,
-309,Transformation_Attacks,181,756,2529,Über Spinning Slice,
-309,Transformation_Attacks,182,760,2550,Hatchet Man,
+309,Transformation_Attacks,168,704,2368,Sabre Wheel,กงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,169,708,2380,Sabre Reel,หมุนกงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,170,712,2391,Raw Roar,เสียงคำรามป่าเถื่อน
+309,Transformation_Attacks,171,716,2400,Sabre Wheel,กงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,172,720,2412,Sabre Reel,หมุนกงล้อเสือเขี้ยวดาบ
+309,Transformation_Attacks,173,724,2423,Ice Scream,เสียงกรีดร้องเยือกแข็ง
+309,Transformation_Attacks,174,728,2434,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,175,732,2447,Spinning Slice,หมุนตัวฟัน
+309,Transformation_Attacks,176,736,2462,Flame Breath,ลมหายใจเพลิง
+309,Transformation_Attacks,177,740,2475,Flame Slash,ดาบเพลิงพิฆาต
+309,Transformation_Attacks,178,744,2487,Searing Slice,ดาบเฉือนเพลิงลุกโชน
+309,Transformation_Attacks,179,748,2501,Sizzling Smash,ทุบระเบิดเพลิง
+309,Transformation_Attacks,180,752,2516,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,181,756,2529,Über Spinning Slice,ซูเปอร์หมุนตัวฟัน
+309,Transformation_Attacks,182,760,2550,Hatchet Man,ขวานผ่าปีศาจ
 309,Transformation_Attacks,183,764,2562,,
 309,Transformation_Attacks,184,768,2563,,
 309,Transformation_Attacks,185,772,2564,,
@@ -212,27 +212,27 @@
 309,Transformation_Attacks,210,872,2589,,
 309,Transformation_Attacks,211,876,2590,,
 309,Transformation_Attacks,212,880,2591,,
-309,Transformation_Attacks,213,884,2592,Let Rip,
-309,Transformation_Attacks,214,888,2600,Crackle,
-309,Transformation_Attacks,215,892,2608,Savage Slash,
-309,Transformation_Attacks,216,896,2621,Let Rip,
-309,Transformation_Attacks,217,900,2629,Sweet Breath,
-309,Transformation_Attacks,218,904,2642,Thwack,
-309,Transformation_Attacks,219,908,2649,Let Rip,
-309,Transformation_Attacks,220,912,2657,Frostfoot,
-309,Transformation_Attacks,221,916,2667,Kamikazee,
+309,Transformation_Attacks,213,884,2592,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,214,888,2600,Crackle,เฮียดาโก้
+309,Transformation_Attacks,215,892,2608,Savage Slash,ฟันเฉือนอย่างบ้าคลั่ง
+309,Transformation_Attacks,216,896,2621,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,217,900,2629,Sweet Breath,ลมหายใจหลับใหล
+309,Transformation_Attacks,218,904,2642,Thwack,ซาคิ
+309,Transformation_Attacks,219,908,2649,Let Rip,ฟาดเต็มแรง
+309,Transformation_Attacks,220,912,2657,Frostfoot,ย่างก้าวเยือกแข็ง
+309,Transformation_Attacks,221,916,2667,Kamikazee,เมกันเต้
 309,Transformation_Attacks,222,920,2677,,
 309,Transformation_Attacks,223,924,2678,,
 309,Transformation_Attacks,224,928,2679,,
 309,Transformation_Attacks,225,932,2680,,
 309,Transformation_Attacks,226,936,2681,,
 309,Transformation_Attacks,227,940,2682,,
-309,Transformation_Attacks,228,944,2683,Dark Dart,
-309,Transformation_Attacks,229,948,2693,Kaboom,
-309,Transformation_Attacks,230,952,2700,Blistering Breath,
-309,Transformation_Attacks,231,956,2718,Dark Dart,
-309,Transformation_Attacks,232,960,2728,Kaboom,
-309,Transformation_Attacks,233,964,2735,Abyssal Breath,
+309,Transformation_Attacks,228,944,2683,Dark Dart,ศรทมิฬ
+309,Transformation_Attacks,229,948,2693,Kaboom,อิโอนาซึน
+309,Transformation_Attacks,230,952,2700,Blistering Breath,ลมหายใจเพลิงแผดเผา
+309,Transformation_Attacks,231,956,2718,Dark Dart,ศรทมิฬ
+309,Transformation_Attacks,232,960,2728,Kaboom,อิโอนาซึน
+309,Transformation_Attacks,233,964,2735,Abyssal Breath,ลมหายใจอเวจี
 309,Transformation_Attacks,234,968,2750,,
 309,Transformation_Attacks,235,972,2751,,
 309,Transformation_Attacks,236,976,2752,,
@@ -242,15 +242,15 @@
 309,Transformation_Attacks,240,992,2756,,
 309,Transformation_Attacks,241,996,2757,,
 309,Transformation_Attacks,242,1000,2758,,
-309,Transformation_Attacks,243,1004,2759,Flying Kick,
-309,Transformation_Attacks,244,1008,2771,Tailspin,
-309,Transformation_Attacks,245,1012,2780,Platycopter,
-309,Transformation_Attacks,246,1016,2792,Multifeet,
-309,Transformation_Attacks,247,1020,2802,Stone's Throat,
-309,Transformation_Attacks,248,1024,2817,Tumboggan,
-309,Transformation_Attacks,249,1028,2827,Multifeet,
-309,Transformation_Attacks,250,1032,2837,Geyser,
-309,Transformation_Attacks,251,1036,2844,Tumboggan,
+309,Transformation_Attacks,243,1004,2759,Flying Kick,กระโดดถีบกลางเวหา
+309,Transformation_Attacks,244,1008,2771,Tailspin,หมุนควงหาง
+309,Transformation_Attacks,245,1012,2780,Platycopter,ปากเป็ดใบพัดบิน
+309,Transformation_Attacks,246,1016,2792,Multifeet,รัวลูกเตะพายุหมุน
+309,Transformation_Attacks,247,1020,2802,Stone's Throat,พ่นหินกลืนกิน
+309,Transformation_Attacks,248,1024,2817,Tumboggan,ไถลตัวพุ่งชน
+309,Transformation_Attacks,249,1028,2827,Multifeet,รัวลูกเตะพายุหมุน
+309,Transformation_Attacks,250,1032,2837,Geyser,น้ำพุร้อนพวยพุ่ง
+309,Transformation_Attacks,251,1036,2844,Tumboggan,ไถลตัวพุ่งชน
 309,Transformation_Attacks,252,1040,2854,,
 309,Transformation_Attacks,253,1044,2855,,
 309,Transformation_Attacks,254,1048,2856,,
@@ -299,15 +299,15 @@
 309,Transformation_Attacks,297,1220,2899,,
 309,Transformation_Attacks,298,1224,2900,,
 309,Transformation_Attacks,299,1228,2901,,
-309,Transformation_Attacks,300,1232,2902,Plasma Dome,
-309,Transformation_Attacks,301,1236,2914,Thunder Rush,
-309,Transformation_Attacks,302,1240,2927,Thunderbolt,
-309,Transformation_Attacks,303,1244,2939,Blistering Twister,
-309,Transformation_Attacks,304,1248,2958,Fire Flight,
-309,Transformation_Attacks,305,1252,2970,Blazing Breath,
-309,Transformation_Attacks,306,1256,2985,Frost Flare,
-309,Transformation_Attacks,307,1260,2997,Diamond Dash,
-309,Transformation_Attacks,308,1264,3010,Freezing Blizzard,
+309,Transformation_Attacks,300,1232,2902,Plasma Dome,โดมพลาสมา
+309,Transformation_Attacks,301,1236,2914,Thunder Rush,พุ่งทะยานสายฟ้า
+309,Transformation_Attacks,302,1240,2927,Thunderbolt,อัสนีบาตฟาด
+309,Transformation_Attacks,303,1244,2939,Blistering Twister,พายุหมุนเพลิงแผดเผา
+309,Transformation_Attacks,304,1248,2958,Fire Flight,บินถลาเพลิง
+309,Transformation_Attacks,305,1252,2970,Blazing Breath,ลมหายใจเพลิงพิโรธ
+309,Transformation_Attacks,306,1256,2985,Frost Flare,เปลวเพลิงเหมันต์
+309,Transformation_Attacks,307,1260,2997,Diamond Dash,พุ่งทะยานเพชร
+309,Transformation_Attacks,308,1264,3010,Freezing Blizzard,พายุหิมะเยือกแข็ง
 309,Transformation_Attacks,309,1268,3028,,
 309,Transformation_Attacks,310,1272,3029,,
 309,Transformation_Attacks,311,1276,3030,,
@@ -323,15 +323,15 @@
 309,Transformation_Attacks,321,1316,3040,,
 309,Transformation_Attacks,322,1320,3041,,
 309,Transformation_Attacks,323,1324,3042,,
-309,Transformation_Attacks,324,1328,3043,Sleet Shot,
-309,Transformation_Attacks,325,1332,3054,Diamond Dervish,
-309,Transformation_Attacks,326,1336,3070,Frosty Flop,
-309,Transformation_Attacks,327,1340,3082,Fireball Throw,
-309,Transformation_Attacks,328,1344,3097,Tumblebleed,
-309,Transformation_Attacks,329,1348,3109,Inferno,
-309,Transformation_Attacks,330,1352,3117,Snow Boulder,
-309,Transformation_Attacks,331,1356,3130,Boreal Bore,
-309,Transformation_Attacks,332,1360,3142,Crystal Crash,
+309,Transformation_Attacks,324,1328,3043,Sleet Shot,ยิงลูกเห็บเยือกแข็ง
+309,Transformation_Attacks,325,1332,3054,Diamond Dervish,ระบำสว่านเพชร
+309,Transformation_Attacks,326,1336,3070,Frosty Flop,ทับบดขยี้เยือกแข็ง
+309,Transformation_Attacks,327,1340,3082,Fireball Throw,ขว้างลูกไฟเพลิง
+309,Transformation_Attacks,328,1344,3097,Tumblebleed,กลิ้งทิ่มแทง
+309,Transformation_Attacks,329,1348,3109,Inferno,ไฟนรกโลกันตร์
+309,Transformation_Attacks,330,1352,3117,Snow Boulder,หินหิมะยักษ์
+309,Transformation_Attacks,331,1356,3130,Boreal Bore,สว่านเหมันต์
+309,Transformation_Attacks,332,1360,3142,Crystal Crash,ผลึกคริสตัลถล่ม
 309,Transformation_Attacks,333,1364,3156,,
 309,Transformation_Attacks,334,1368,3157,,
 309,Transformation_Attacks,335,1372,3158,,
@@ -359,15 +359,15 @@
 309,Transformation_Attacks,357,1460,3180,,
 309,Transformation_Attacks,358,1464,3181,,
 309,Transformation_Attacks,359,1468,3182,,
-309,Transformation_Attacks,360,1472,3183,Sunburst,
-309,Transformation_Attacks,361,1476,3192,Lance-a-Lot,
-309,Transformation_Attacks,362,1480,3204,Multithrust,
-309,Transformation_Attacks,363,1484,3216,Shadow Shot,
-309,Transformation_Attacks,364,1488,3228,Lance-a-Lot,
-309,Transformation_Attacks,365,1492,3240,Death Breath,
-309,Transformation_Attacks,366,1496,3253,Bitter Beam,
-309,Transformation_Attacks,367,1500,3265,Lance-a-Lot,
-309,Transformation_Attacks,368,1504,3277,Pressure Pointer,
+309,Transformation_Attacks,360,1472,3183,Sunburst,ระเบิดสุริยัน
+309,Transformation_Attacks,361,1476,3192,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,362,1480,3204,Multithrust,รัวแทงหอก
+309,Transformation_Attacks,363,1484,3216,Shadow Shot,ยิงศรเงาพราย
+309,Transformation_Attacks,364,1488,3228,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,365,1492,3240,Death Breath,ลมหายใจมรณะ
+309,Transformation_Attacks,366,1496,3253,Bitter Beam,ลำแสงขมขื่น
+309,Transformation_Attacks,367,1500,3265,Lance-a-Lot,รัวแทงหอกอัศวิน
+309,Transformation_Attacks,368,1504,3277,Pressure Pointer,จุดชีพจรพิฆาต
 309,Transformation_Attacks,369,1508,3294,,
 309,Transformation_Attacks,370,1512,3295,,
 309,Transformation_Attacks,371,1516,3296,,
@@ -383,36 +383,36 @@
 309,Transformation_Attacks,381,1556,3306,,
 309,Transformation_Attacks,382,1560,3307,,
 309,Transformation_Attacks,383,1564,3308,,
-309,Transformation_Attacks,384,1568,3309,Parallax,
-309,Transformation_Attacks,385,1572,3318,Bash Dash,
-309,Transformation_Attacks,386,1576,3328,Helm Splitter,
-309,Transformation_Attacks,387,1580,3342,Hack Attack,
-309,Transformation_Attacks,388,1584,3354,Bash Dash,
-309,Transformation_Attacks,389,1588,3364,Crass Cross,
-309,Transformation_Attacks,390,1592,3376,Hot Runnings,
-309,Transformation_Attacks,391,1596,3389,Bash Dash,
-309,Transformation_Attacks,392,1600,3399,Gigantaxe,
-309,Transformation_Attacks,393,1604,3409,Squall Balls,
-309,Transformation_Attacks,394,1608,3422,Wind Shear,
-309,Transformation_Attacks,395,1612,3433,Gale Raiser,
-309,Transformation_Attacks,396,1616,3445,Wind Sickles,
-309,Transformation_Attacks,397,1620,3458,Wind Shear,
-309,Transformation_Attacks,398,1624,3469,Kerwoosh,
-309,Transformation_Attacks,399,1628,3478,Squall Balls,
-309,Transformation_Attacks,400,1632,3491,Wind Shear,
-309,Transformation_Attacks,401,1636,3502,Thin Air,
-309,Transformation_Attacks,402,1640,3511,Falcon Slash,
-309,Transformation_Attacks,403,1644,3524,Circle of Hell,
-309,Transformation_Attacks,404,1648,3539,Kazapple,
+309,Transformation_Attacks,384,1568,3309,Parallax,ฟันประกบสองทิศ
+309,Transformation_Attacks,385,1572,3318,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,386,1576,3328,Helm Splitter,ผ่าหมวกเกราะ
+309,Transformation_Attacks,387,1580,3342,Hack Attack,กระหน่ำจามขวาน
+309,Transformation_Attacks,388,1584,3354,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,389,1588,3364,Crass Cross,ฟันกากบาททมิฬ
+309,Transformation_Attacks,390,1592,3376,Hot Runnings,วิ่งตะลุยไฟ
+309,Transformation_Attacks,391,1596,3389,Bash Dash,พุ่งชนกระแทก
+309,Transformation_Attacks,392,1600,3399,Gigantaxe,ขวานยักษ์ผ่าพิภพ
+309,Transformation_Attacks,393,1604,3409,Squall Balls,ลูกบอลพายุหมุน
+309,Transformation_Attacks,394,1608,3422,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,395,1612,3433,Gale Raiser,เรียกลมพายุ
+309,Transformation_Attacks,396,1616,3445,Wind Sickles,เคียวสายลม
+309,Transformation_Attacks,397,1620,3458,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,398,1624,3469,Kerwoosh,บากิมูโช
+309,Transformation_Attacks,399,1628,3478,Squall Balls,ลูกบอลพายุหมุน
+309,Transformation_Attacks,400,1632,3491,Wind Shear,คมมีดสายลม
+309,Transformation_Attacks,401,1636,3502,Thin Air,คลื่นสุญญากาศ
+309,Transformation_Attacks,402,1640,3511,Falcon Slash,ฟอลคอนสแลช
+309,Transformation_Attacks,403,1644,3524,Circle of Hell,วงแหวนโลกันตร์
+309,Transformation_Attacks,404,1648,3539,Kazapple,มินาดีน
 309,Transformation_Attacks,405,1652,3548,,
 309,Transformation_Attacks,406,1656,3549,,
 309,Transformation_Attacks,407,1660,3550,,
 309,Transformation_Attacks,408,1664,3551,,
 309,Transformation_Attacks,409,1668,3552,,
 309,Transformation_Attacks,410,1672,3553,,
-309,Transformation_Attacks,411,1676,3554,Club,
-309,Transformation_Attacks,412,1680,3559,War Cry,
-309,Transformation_Attacks,413,1684,3567,Kick,
+309,Transformation_Attacks,411,1676,3554,Club,ฟาดกระบอง
+309,Transformation_Attacks,412,1680,3559,War Cry,เสียงคำรามศึก
+309,Transformation_Attacks,413,1684,3567,Kick,เตะ
 309,Transformation_Attacks,414,1688,3572,,
 309,Transformation_Attacks,415,1692,3573,,
 309,Transformation_Attacks,416,1696,3574,,
