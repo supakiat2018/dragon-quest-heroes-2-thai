@@ -1,222 +1,222 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-43,Kingdoms_Regions,0,36,1636,Harba,
-43,Kingdoms_Regions,1,40,1642,Harba,
+43,Kingdoms_Regions,0,36,1636,Harba,ฮาร์บา
+43,Kingdoms_Regions,1,40,1642,Harba,ฮาร์บา
 43,Kingdoms_Regions,2,44,1648,,
 43,Kingdoms_Regions,3,48,1649,,
 43,Kingdoms_Regions,4,52,1650,,
 43,Kingdoms_Regions,5,56,1651,,
 43,Kingdoms_Regions,6,60,1652,,
 43,Kingdoms_Regions,7,64,1653,,
-43,Kingdoms_Regions,8,68,1654,Accordia,
-43,Kingdoms_Regions,9,72,1663,Accordia,
+43,Kingdoms_Regions,8,68,1654,Accordia,ออร์คาเนีย
+43,Kingdoms_Regions,9,72,1663,Accordia,ออร์คาเนีย
 43,Kingdoms_Regions,10,76,1672,,
 43,Kingdoms_Regions,11,80,1673,,
 43,Kingdoms_Regions,12,84,1674,,
 43,Kingdoms_Regions,13,88,1675,,
 43,Kingdoms_Regions,14,92,1676,,
 43,Kingdoms_Regions,15,96,1677,,
-43,Kingdoms_Regions,16,100,1678,Dunisia,
-43,Kingdoms_Regions,17,104,1686,Dunisia,
+43,Kingdoms_Regions,16,100,1678,Dunisia,แจวาล
+43,Kingdoms_Regions,17,104,1686,Dunisia,แจวาล
 43,Kingdoms_Regions,18,108,1694,,
 43,Kingdoms_Regions,19,112,1695,,
 43,Kingdoms_Regions,20,116,1696,,
 43,Kingdoms_Regions,21,120,1697,,
 43,Kingdoms_Regions,22,124,1698,,
 43,Kingdoms_Regions,23,128,1699,,
-43,Kingdoms_Regions,24,132,1700,Outer Dunisia,
-43,Kingdoms_Regions,25,136,1714,Outer Dunisia,
+43,Kingdoms_Regions,24,132,1700,Outer Dunisia,ชานเมืองแจวาล
+43,Kingdoms_Regions,25,136,1714,Outer Dunisia,ชานเมืองแจวาล
 43,Kingdoms_Regions,26,140,1728,,
 43,Kingdoms_Regions,27,144,1729,,
 43,Kingdoms_Regions,28,148,1730,,
 43,Kingdoms_Regions,29,152,1731,,
 43,Kingdoms_Regions,30,156,1732,,
 43,Kingdoms_Regions,31,160,1733,,
-43,Kingdoms_Regions,32,164,1734,The Wildwood,
-43,Kingdoms_Regions,33,168,1747,The Wildwood,
+43,Kingdoms_Regions,32,164,1734,The Wildwood,ป่าดงพงไพร
+43,Kingdoms_Regions,33,168,1747,The Wildwood,ป่าดงพงไพร
 43,Kingdoms_Regions,34,172,1760,,
 43,Kingdoms_Regions,35,176,1761,,
 43,Kingdoms_Regions,36,180,1762,,
 43,Kingdoms_Regions,37,184,1763,,
 43,Kingdoms_Regions,38,188,1764,,
 43,Kingdoms_Regions,39,192,1765,,
-43,Kingdoms_Regions,40,196,1766,Ingenia,
-43,Kingdoms_Regions,41,200,1774,Ingenia,
+43,Kingdoms_Regions,40,196,1766,Ingenia,อินจีเนีย
+43,Kingdoms_Regions,41,200,1774,Ingenia,อินจีเนีย
 43,Kingdoms_Regions,42,204,1782,,
 43,Kingdoms_Regions,43,208,1783,,
 43,Kingdoms_Regions,44,212,1784,,
 43,Kingdoms_Regions,45,216,1785,,
 43,Kingdoms_Regions,46,220,1786,,
 43,Kingdoms_Regions,47,224,1787,,
-43,Kingdoms_Regions,48,228,1788,The Great Divide,
-43,Kingdoms_Regions,49,232,1805,The Great Divide,
+43,Kingdoms_Regions,48,228,1788,The Great Divide,หุบผาพรมแดน
+43,Kingdoms_Regions,49,232,1805,The Great Divide,หุบผาพรมแดน
 43,Kingdoms_Regions,50,236,1822,,
 43,Kingdoms_Regions,51,240,1823,,
 43,Kingdoms_Regions,52,244,1824,,
 43,Kingdoms_Regions,53,248,1825,,
 43,Kingdoms_Regions,54,252,1826,,
 43,Kingdoms_Regions,55,256,1827,,
-43,Kingdoms_Regions,56,260,1828,Mt Neverest,
-43,Kingdoms_Regions,57,264,1840,Mt Neverest,
+43,Kingdoms_Regions,56,260,1828,Mt Neverest,ยอดเขาเนเวอร์เรสต์
+43,Kingdoms_Regions,57,264,1840,Mt Neverest,ยอดเขาเนเวอร์เรสต์
 43,Kingdoms_Regions,58,268,1852,,
 43,Kingdoms_Regions,59,272,1853,,
 43,Kingdoms_Regions,60,276,1854,,
 43,Kingdoms_Regions,61,280,1855,,
 43,Kingdoms_Regions,62,284,1856,,
 43,Kingdoms_Regions,63,288,1857,,
-43,Kingdoms_Regions,64,292,1858,Greena Pastures,
-43,Kingdoms_Regions,65,296,1874,Greena Pastures,
+43,Kingdoms_Regions,64,292,1858,Greena Pastures,ทุ่งหญ้ากรีน่า
+43,Kingdoms_Regions,65,296,1874,Greena Pastures,ทุ่งหญ้ากรีน่า
 43,Kingdoms_Regions,66,300,1890,,
 43,Kingdoms_Regions,67,304,1891,,
 43,Kingdoms_Regions,68,308,1892,,
 43,Kingdoms_Regions,69,312,1893,,
 43,Kingdoms_Regions,70,316,1894,,
 43,Kingdoms_Regions,71,320,1895,,
-43,Kingdoms_Regions,72,324,1896,The Grand Dunes,
-43,Kingdoms_Regions,73,328,1912,The Grand Dunes,
+43,Kingdoms_Regions,72,324,1896,The Grand Dunes,ทะเลทรายแกรนด์ดูนส์
+43,Kingdoms_Regions,73,328,1912,The Grand Dunes,ทะเลทรายแกรนด์ดูนส์
 43,Kingdoms_Regions,74,332,1928,,
 43,Kingdoms_Regions,75,336,1929,,
 43,Kingdoms_Regions,76,340,1930,,
 43,Kingdoms_Regions,77,344,1931,,
 43,Kingdoms_Regions,78,348,1932,,
 43,Kingdoms_Regions,79,352,1933,,
-43,Kingdoms_Regions,80,356,1934,The Lumberlands,
-43,Kingdoms_Regions,81,360,1950,The Lumberlands,
+43,Kingdoms_Regions,80,356,1934,The Lumberlands,พงไพรลัมเบอร์แลนด์
+43,Kingdoms_Regions,81,360,1950,The Lumberlands,พงไพรลัมเบอร์แลนด์
 43,Kingdoms_Regions,82,364,1966,,
 43,Kingdoms_Regions,83,368,1967,,
 43,Kingdoms_Regions,84,372,1968,,
 43,Kingdoms_Regions,85,376,1969,,
 43,Kingdoms_Regions,86,380,1970,,
 43,Kingdoms_Regions,87,384,1971,,
-43,Kingdoms_Regions,88,388,1972,Redrock Ravine,
-43,Kingdoms_Regions,89,392,1987,Redrock Ravine,
+43,Kingdoms_Regions,88,388,1972,Redrock Ravine,หุบผาหินแดงเรดร็อค
+43,Kingdoms_Regions,89,392,1987,Redrock Ravine,หุบผาหินแดงเรดร็อค
 43,Kingdoms_Regions,90,396,2002,,
 43,Kingdoms_Regions,91,400,2003,,
 43,Kingdoms_Regions,92,404,2004,,
 43,Kingdoms_Regions,93,408,2005,,
 43,Kingdoms_Regions,94,412,2006,,
 43,Kingdoms_Regions,95,416,2007,,
-43,Kingdoms_Regions,96,420,2008,The Frosty Foothills,
-43,Kingdoms_Regions,97,424,2029,The Frosty Foothills,
+43,Kingdoms_Regions,96,420,2008,The Frosty Foothills,เนินเขาเยือกแข็งฟรอสตี้
+43,Kingdoms_Regions,97,424,2029,The Frosty Foothills,เนินเขาเยือกแข็งฟรอสตี้
 43,Kingdoms_Regions,98,428,2050,,
 43,Kingdoms_Regions,99,432,2051,,
 43,Kingdoms_Regions,100,436,2052,,
 43,Kingdoms_Regions,101,440,2053,,
 43,Kingdoms_Regions,102,444,2054,,
 43,Kingdoms_Regions,103,448,2055,,
-43,Kingdoms_Regions,104,452,2056,No Man's Land,
-43,Kingdoms_Regions,105,456,2070,No Man's Land,
+43,Kingdoms_Regions,104,452,2056,No Man's Land,แดนรกร้างไร้เจ้าของ
+43,Kingdoms_Regions,105,456,2070,No Man's Land,แดนรกร้างไร้เจ้าของ
 43,Kingdoms_Regions,106,460,2084,,
 43,Kingdoms_Regions,107,464,2085,,
 43,Kingdoms_Regions,108,468,2086,,
 43,Kingdoms_Regions,109,472,2087,,
 43,Kingdoms_Regions,110,476,2088,,
 43,Kingdoms_Regions,111,480,2089,,
-43,Kingdoms_Regions,112,484,2090,Blacka Pastures,
-43,Kingdoms_Regions,113,488,2106,Blacka Pastures,
+43,Kingdoms_Regions,112,484,2090,Blacka Pastures,ทุ่งทมิฬแบล็คก้า
+43,Kingdoms_Regions,113,488,2106,Blacka Pastures,ทุ่งทมิฬแบล็คก้า
 43,Kingdoms_Regions,114,492,2122,,
 43,Kingdoms_Regions,115,496,2123,,
 43,Kingdoms_Regions,116,500,2124,,
 43,Kingdoms_Regions,117,504,2125,,
 43,Kingdoms_Regions,118,508,2126,,
 43,Kingdoms_Regions,119,512,2127,,
-43,Kingdoms_Regions,120,516,2128,The Damned Dunes,
-43,Kingdoms_Regions,121,520,2145,The Damned Dunes,
+43,Kingdoms_Regions,120,516,2128,The Damned Dunes,ทะเลทรายต้องสาป
+43,Kingdoms_Regions,121,520,2145,The Damned Dunes,ทะเลทรายต้องสาป
 43,Kingdoms_Regions,122,524,2162,,
 43,Kingdoms_Regions,123,528,2163,,
 43,Kingdoms_Regions,124,532,2164,,
 43,Kingdoms_Regions,125,536,2165,,
 43,Kingdoms_Regions,126,540,2166,,
 43,Kingdoms_Regions,127,544,2167,,
-43,Kingdoms_Regions,128,548,2168,The Darkwood,
-43,Kingdoms_Regions,129,552,2181,The Darkwood,
+43,Kingdoms_Regions,128,548,2168,The Darkwood,ป่าดงทมิฬ
+43,Kingdoms_Regions,129,552,2181,The Darkwood,ป่าดงทมิฬ
 43,Kingdoms_Regions,130,556,2194,,
 43,Kingdoms_Regions,131,560,2195,,
 43,Kingdoms_Regions,132,564,2196,,
 43,Kingdoms_Regions,133,568,2197,,
 43,Kingdoms_Regions,134,572,2198,,
 43,Kingdoms_Regions,135,576,2199,,
-43,Kingdoms_Regions,136,580,2200,Blackrock Ravine,
-43,Kingdoms_Regions,137,584,2217,Blackrock Ravine,
+43,Kingdoms_Regions,136,580,2200,Blackrock Ravine,หุบผาหินดำแบล็คร็อค
+43,Kingdoms_Regions,137,584,2217,Blackrock Ravine,หุบผาหินดำแบล็คร็อค
 43,Kingdoms_Regions,138,588,2234,,
 43,Kingdoms_Regions,139,592,2235,,
 43,Kingdoms_Regions,140,596,2236,,
 43,Kingdoms_Regions,141,600,2237,,
 43,Kingdoms_Regions,142,604,2238,,
 43,Kingdoms_Regions,143,608,2239,,
-43,Kingdoms_Regions,144,612,2240,The Fetid Foothills,
-43,Kingdoms_Regions,145,616,2260,The Fetid Foothills,
+43,Kingdoms_Regions,144,612,2240,The Fetid Foothills,เนินเขากลิ่นเน่าเฟรติด
+43,Kingdoms_Regions,145,616,2260,The Fetid Foothills,เนินเขากลิ่นเน่าเฟรติด
 43,Kingdoms_Regions,146,620,2280,,
 43,Kingdoms_Regions,147,624,2281,,
 43,Kingdoms_Regions,148,628,2282,,
 43,Kingdoms_Regions,149,632,2283,,
 43,Kingdoms_Regions,150,636,2284,,
 43,Kingdoms_Regions,151,640,2285,,
-43,Kingdoms_Regions,152,644,2286,Dead Man's Land,
-43,Kingdoms_Regions,153,648,2302,Dead Man's Land,
+43,Kingdoms_Regions,152,644,2286,Dead Man's Land,แดนมรณะ
+43,Kingdoms_Regions,153,648,2302,Dead Man's Land,แดนมรณะ
 43,Kingdoms_Regions,154,652,2318,,
 43,Kingdoms_Regions,155,656,2319,,
 43,Kingdoms_Regions,156,660,2320,,
 43,Kingdoms_Regions,157,664,2321,,
 43,Kingdoms_Regions,158,668,2322,,
 43,Kingdoms_Regions,159,672,2323,,
-43,Kingdoms_Regions,160,676,2324,The Pinnacle of Peace,
-43,Kingdoms_Regions,161,680,2346,The Pinnacle of Peace,
+43,Kingdoms_Regions,160,676,2324,The Pinnacle of Peace,ยอดเขาสันติภาพ
+43,Kingdoms_Regions,161,680,2346,The Pinnacle of Peace,ยอดเขาสันติภาพ
 43,Kingdoms_Regions,162,684,2368,,
 43,Kingdoms_Regions,163,688,2369,,
 43,Kingdoms_Regions,164,692,2370,,
 43,Kingdoms_Regions,165,696,2371,,
 43,Kingdoms_Regions,166,700,2372,,
 43,Kingdoms_Regions,167,704,2373,,
-43,Kingdoms_Regions,168,708,2374,Ad Hoc Encampment,
-43,Kingdoms_Regions,169,712,2392,Ad Hoc Encampment,
+43,Kingdoms_Regions,168,708,2374,Ad Hoc Encampment,ค่ายพักชั่วคราว
+43,Kingdoms_Regions,169,712,2392,Ad Hoc Encampment,ค่ายพักชั่วคราว
 43,Kingdoms_Regions,170,716,2410,,
 43,Kingdoms_Regions,171,720,2411,,
 43,Kingdoms_Regions,172,724,2412,,
 43,Kingdoms_Regions,173,728,2413,,
 43,Kingdoms_Regions,174,732,2414,,
 43,Kingdoms_Regions,175,736,2415,,
-43,Kingdoms_Regions,176,740,2416,The Beastlands,
-43,Kingdoms_Regions,177,744,2431,The Beastlands,
+43,Kingdoms_Regions,176,740,2416,The Beastlands,แดนสัตว์อสูร
+43,Kingdoms_Regions,177,744,2431,The Beastlands,แดนสัตว์อสูร
 43,Kingdoms_Regions,178,748,2446,,
 43,Kingdoms_Regions,179,752,2447,,
 43,Kingdoms_Regions,180,756,2448,,
 43,Kingdoms_Regions,181,760,2449,,
 43,Kingdoms_Regions,182,764,2450,,
 43,Kingdoms_Regions,183,768,2451,,
-43,Kingdoms_Regions,184,772,2452,Klor,
-43,Kingdoms_Regions,185,776,2457,Klor,
+43,Kingdoms_Regions,184,772,2452,Klor,คลอร์
+43,Kingdoms_Regions,185,776,2457,Klor,คลอร์
 43,Kingdoms_Regions,186,780,2462,,
 43,Kingdoms_Regions,187,784,2463,,
 43,Kingdoms_Regions,188,788,2464,,
 43,Kingdoms_Regions,189,792,2465,,
 43,Kingdoms_Regions,190,796,2466,,
 43,Kingdoms_Regions,191,800,2467,,
-43,Kingdoms_Regions,192,804,2468,Kadava,
-43,Kingdoms_Regions,193,808,2475,Kadava,
+43,Kingdoms_Regions,192,804,2468,Kadava,คาดาวา
+43,Kingdoms_Regions,193,808,2475,Kadava,คาดาวา
 43,Kingdoms_Regions,194,812,2482,,
 43,Kingdoms_Regions,195,816,2483,,
 43,Kingdoms_Regions,196,820,2484,,
 43,Kingdoms_Regions,197,824,2485,,
 43,Kingdoms_Regions,198,828,2486,,
 43,Kingdoms_Regions,199,832,2487,,
-43,Kingdoms_Regions,200,836,2488,Al-Khazam,
-43,Kingdoms_Regions,201,840,2498,Al-Khazam,
+43,Kingdoms_Regions,200,836,2488,Al-Khazam,อัล-คาซัม
+43,Kingdoms_Regions,201,840,2498,Al-Khazam,อัล-คาซัม
 43,Kingdoms_Regions,202,844,2508,,
 43,Kingdoms_Regions,203,848,2509,,
 43,Kingdoms_Regions,204,852,2510,,
 43,Kingdoms_Regions,205,856,2511,,
 43,Kingdoms_Regions,206,860,2512,,
 43,Kingdoms_Regions,207,864,2513,,
-43,Kingdoms_Regions,208,868,2514,The Black Manse,
-43,Kingdoms_Regions,209,872,2530,The Black Manse,
+43,Kingdoms_Regions,208,868,2514,The Black Manse,คฤหาสน์ทมิฬ
+43,Kingdoms_Regions,209,872,2530,The Black Manse,คฤหาสน์ทมิฬ
 43,Kingdoms_Regions,210,876,2546,,
 43,Kingdoms_Regions,211,880,2547,,
 43,Kingdoms_Regions,212,884,2548,,
 43,Kingdoms_Regions,213,888,2549,,
 43,Kingdoms_Regions,214,892,2550,,
 43,Kingdoms_Regions,215,896,2551,,
-43,Kingdoms_Regions,216,900,2552,Gragwort's Grotto,
-43,Kingdoms_Regions,217,904,2570,Gragwort's Grotto,
+43,Kingdoms_Regions,216,900,2552,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
+43,Kingdoms_Regions,217,904,2570,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
 43,Kingdoms_Regions,218,908,2588,,
 43,Kingdoms_Regions,219,912,2589,,
 43,Kingdoms_Regions,220,916,2590,,
@@ -239,16 +239,16 @@
 43,Kingdoms_Regions,237,984,2607,,
 43,Kingdoms_Regions,238,988,2608,,
 43,Kingdoms_Regions,239,992,2609,,
-43,Kingdoms_Regions,240,996,2610,Unused,
-43,Kingdoms_Regions,241,1000,2617,Unused,
+43,Kingdoms_Regions,240,996,2610,Unused,ไม่ได้ใช้งาน
+43,Kingdoms_Regions,241,1000,2617,Unused,ไม่ได้ใช้งาน
 43,Kingdoms_Regions,242,1004,2624,,
 43,Kingdoms_Regions,243,1008,2625,,
 43,Kingdoms_Regions,244,1012,2626,,
 43,Kingdoms_Regions,245,1016,2627,,
 43,Kingdoms_Regions,246,1020,2628,,
 43,Kingdoms_Regions,247,1024,2629,,
-43,Kingdoms_Regions,248,1028,2630,Accordia,
-43,Kingdoms_Regions,249,1032,2639,Accordia,
+43,Kingdoms_Regions,248,1028,2630,Accordia,ออร์คาเนีย
+43,Kingdoms_Regions,249,1032,2639,Accordia,ออร์คาเนีย
 43,Kingdoms_Regions,250,1036,2648,,
 43,Kingdoms_Regions,251,1040,2649,,
 43,Kingdoms_Regions,252,1044,2650,,

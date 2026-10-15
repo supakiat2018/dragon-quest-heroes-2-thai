@@ -1,184 +1,184 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-1,Characters_Main,0,36,1636,Lazarel,
-1,Characters_Main,1,40,1644,Lazarel,
+1,Characters_Main,0,36,1636,Lazarel,ราเซล
+1,Characters_Main,1,40,1644,Lazarel,ราเซล
 1,Characters_Main,2,44,1652,,
-1,Characters_Main,3,48,1653,Lazarel,
+1,Characters_Main,3,48,1653,Lazarel,ราเซล
 1,Characters_Main,4,52,1661,,
 1,Characters_Main,5,56,1662,,
 1,Characters_Main,6,60,1663,,
 1,Characters_Main,7,64,1664,,
-1,Characters_Main,8,68,1665,Teresa,
-1,Characters_Main,9,72,1672,Teresa,
+1,Characters_Main,8,68,1665,Teresa,เทเรเซีย
+1,Characters_Main,9,72,1672,Teresa,เทเรเซีย
 1,Characters_Main,10,76,1679,,
-1,Characters_Main,11,80,1680,Teresa,
+1,Characters_Main,11,80,1680,Teresa,เทเรเซีย
 1,Characters_Main,12,84,1687,,
 1,Characters_Main,13,88,1688,,
 1,Characters_Main,14,92,1689,,
 1,Characters_Main,15,96,1690,,
-1,Characters_Main,16,100,1691,Cesar,
-1,Characters_Main,17,104,1697,Cesar,
+1,Characters_Main,16,100,1691,Cesar,ซีซาร์
+1,Characters_Main,17,104,1697,Cesar,ซีซาร์
 1,Characters_Main,18,108,1703,,
-1,Characters_Main,19,112,1704,Cesar,
+1,Characters_Main,19,112,1704,Cesar,ซีซาร์
 1,Characters_Main,20,116,1710,,
 1,Characters_Main,21,120,1711,,
 1,Characters_Main,22,124,1712,,
 1,Characters_Main,23,128,1713,,
-1,Characters_Main,24,132,1714,Desdemona,
-1,Characters_Main,25,136,1724,Desdemona,
+1,Characters_Main,24,132,1714,Desdemona,เดสเดโมน่า
+1,Characters_Main,25,136,1724,Desdemona,เดสเดโมน่า
 1,Characters_Main,26,140,1734,,
-1,Characters_Main,27,144,1735,Desdemona,
+1,Characters_Main,27,144,1735,Desdemona,เดสเดโมน่า
 1,Characters_Main,28,148,1745,,
 1,Characters_Main,29,152,1746,,
 1,Characters_Main,30,156,1747,,
 1,Characters_Main,31,160,1748,,
-1,Characters_Main,32,164,1749,Alena,
-1,Characters_Main,33,168,1755,Alena,
+1,Characters_Main,32,164,1749,Alena,อาลีน่า
+1,Characters_Main,33,168,1755,Alena,อาลีน่า
 1,Characters_Main,34,172,1761,,
-1,Characters_Main,35,176,1762,Alena,
+1,Characters_Main,35,176,1762,Alena,อาลีน่า
 1,Characters_Main,36,180,1768,,
 1,Characters_Main,37,184,1769,,
 1,Characters_Main,38,188,1770,,
 1,Characters_Main,39,192,1771,,
-1,Characters_Main,40,196,1772,Kiryl,
-1,Characters_Main,41,200,1778,Kiryl,
+1,Characters_Main,40,196,1772,Kiryl,คริฟต์
+1,Characters_Main,41,200,1778,Kiryl,คริฟต์
 1,Characters_Main,42,204,1784,,
-1,Characters_Main,43,208,1785,Kiryl,
+1,Characters_Main,43,208,1785,Kiryl,คริฟต์
 1,Characters_Main,44,212,1791,,
 1,Characters_Main,45,216,1792,,
 1,Characters_Main,46,220,1793,,
 1,Characters_Main,47,224,1794,,
-1,Characters_Main,48,228,1795,Torneko,
-1,Characters_Main,49,232,1803,Torneko,
+1,Characters_Main,48,228,1795,Torneko,ทอร์เนโก้
+1,Characters_Main,49,232,1803,Torneko,ทอร์เนโก้
 1,Characters_Main,50,236,1811,,
-1,Characters_Main,51,240,1812,Torneko,
+1,Characters_Main,51,240,1812,Torneko,ทอร์เนโก้
 1,Characters_Main,52,244,1820,,
 1,Characters_Main,53,248,1821,,
 1,Characters_Main,54,252,1822,,
 1,Characters_Main,55,256,1823,,
-1,Characters_Main,56,260,1824,Meena,
-1,Characters_Main,57,264,1830,Meena,
+1,Characters_Main,56,260,1824,Meena,มีเนีย
+1,Characters_Main,57,264,1830,Meena,มีเนีย
 1,Characters_Main,58,268,1836,,
-1,Characters_Main,59,272,1837,Meena,
+1,Characters_Main,59,272,1837,Meena,มีเนีย
 1,Characters_Main,60,276,1843,,
 1,Characters_Main,61,280,1844,,
 1,Characters_Main,62,284,1845,,
 1,Characters_Main,63,288,1846,,
-1,Characters_Main,64,292,1847,Maya,
-1,Characters_Main,65,296,1852,Maya,
+1,Characters_Main,64,292,1847,Maya,มาเนีย
+1,Characters_Main,65,296,1852,Maya,มาเนีย
 1,Characters_Main,66,300,1857,,
-1,Characters_Main,67,304,1858,Maya,
+1,Characters_Main,67,304,1858,Maya,มาเนีย
 1,Characters_Main,68,308,1863,,
 1,Characters_Main,69,312,1864,,
 1,Characters_Main,70,316,1865,,
 1,Characters_Main,71,320,1866,,
-1,Characters_Main,72,324,1867,Carver,
-1,Characters_Main,73,328,1874,Carver,
+1,Characters_Main,72,324,1867,Carver,ฮัสซัน
+1,Characters_Main,73,328,1874,Carver,ฮัสซัน
 1,Characters_Main,74,332,1881,,
-1,Characters_Main,75,336,1882,Carver,
+1,Characters_Main,75,336,1882,Carver,ฮัสซัน
 1,Characters_Main,76,340,1889,,
 1,Characters_Main,77,344,1890,,
 1,Characters_Main,78,348,1891,,
 1,Characters_Main,79,352,1892,,
-1,Characters_Main,80,356,1893,Terry,
-1,Characters_Main,81,360,1899,Terry,
+1,Characters_Main,80,356,1893,Terry,เทอร์รี่
+1,Characters_Main,81,360,1899,Terry,เทอร์รี่
 1,Characters_Main,82,364,1905,,
-1,Characters_Main,83,368,1906,Terry,
+1,Characters_Main,83,368,1906,Terry,เทอร์รี่
 1,Characters_Main,84,372,1912,,
 1,Characters_Main,85,376,1913,,
 1,Characters_Main,86,380,1914,,
 1,Characters_Main,87,384,1915,,
-1,Characters_Main,88,388,1916,Maribel,
-1,Characters_Main,89,392,1924,Maribel,
+1,Characters_Main,88,388,1916,Maribel,มาริเบล
+1,Characters_Main,89,392,1924,Maribel,มาริเบล
 1,Characters_Main,90,396,1932,,
-1,Characters_Main,91,400,1933,Maribel,
+1,Characters_Main,91,400,1933,Maribel,มาริเบล
 1,Characters_Main,92,404,1941,,
 1,Characters_Main,93,408,1942,,
 1,Characters_Main,94,412,1943,,
 1,Characters_Main,95,416,1944,,
-1,Characters_Main,96,420,1945,Ruff,
-1,Characters_Main,97,424,1950,Ruff,
+1,Characters_Main,96,420,1945,Ruff,กาโบ
+1,Characters_Main,97,424,1950,Ruff,กาโบ
 1,Characters_Main,98,428,1955,,
-1,Characters_Main,99,432,1956,Ruff,
+1,Characters_Main,99,432,1956,Ruff,กาโบ
 1,Characters_Main,100,436,1961,,
 1,Characters_Main,101,440,1962,,
 1,Characters_Main,102,444,1963,,
 1,Characters_Main,103,448,1964,,
-1,Characters_Main,104,452,1965,Angelo,
-1,Characters_Main,105,456,1972,Angelo,
+1,Characters_Main,104,452,1965,Angelo,คูเคิล
+1,Characters_Main,105,456,1972,Angelo,คูเคิล
 1,Characters_Main,106,460,1979,,
-1,Characters_Main,107,464,1980,Angelo,
+1,Characters_Main,107,464,1980,Angelo,คูเคิล
 1,Characters_Main,108,468,1987,,
 1,Characters_Main,109,472,1988,,
 1,Characters_Main,110,476,1989,,
 1,Characters_Main,111,480,1990,,
-1,Characters_Main,112,484,1991,Jessica,
-1,Characters_Main,113,488,1999,Jessica,
+1,Characters_Main,112,484,1991,Jessica,เจสสิก้า
+1,Characters_Main,113,488,1999,Jessica,เจสสิก้า
 1,Characters_Main,114,492,2007,,
-1,Characters_Main,115,496,2008,Jessica,
+1,Characters_Main,115,496,2008,Jessica,เจสสิก้า
 1,Characters_Main,116,500,2016,,
 1,Characters_Main,117,504,2017,,
 1,Characters_Main,118,508,2018,,
 1,Characters_Main,119,512,2019,,
-1,Characters_Main,120,516,2020,Luceus,
-1,Characters_Main,121,520,2027,Luceus,
+1,Characters_Main,120,516,2020,Luceus,แอคท์
+1,Characters_Main,121,520,2027,Luceus,แอคท์
 1,Characters_Main,122,524,2034,,
-1,Characters_Main,123,528,2035,Luceus,
+1,Characters_Main,123,528,2035,Luceus,แอคท์
 1,Characters_Main,124,532,2042,,
 1,Characters_Main,125,536,2043,,
 1,Characters_Main,126,540,2044,,
 1,Characters_Main,127,544,2045,,
-1,Characters_Main,128,548,2046,Aurora,
-1,Characters_Main,129,552,2053,Aurora,
+1,Characters_Main,128,548,2046,Aurora,เมียร์
+1,Characters_Main,129,552,2053,Aurora,เมียร์
 1,Characters_Main,130,556,2060,,
-1,Characters_Main,131,560,2061,Aurora,
+1,Characters_Main,131,560,2061,Aurora,เมียร์
 1,Characters_Main,132,564,2068,,
 1,Characters_Main,133,568,2069,,
 1,Characters_Main,134,572,2070,,
 1,Characters_Main,135,576,2071,,
-1,Characters_Main,136,580,2072,Doric,
-1,Characters_Main,137,584,2078,Doric,
+1,Characters_Main,136,580,2072,Doric,ดิลค์
+1,Characters_Main,137,584,2078,Doric,ดิลค์
 1,Characters_Main,138,588,2084,,
-1,Characters_Main,139,592,2085,Doric,
+1,Characters_Main,139,592,2085,Doric,ดิลค์
 1,Characters_Main,140,596,2091,,
 1,Characters_Main,141,600,2092,,
 1,Characters_Main,142,604,2093,,
 1,Characters_Main,143,608,2094,,
-1,Characters_Main,144,612,2095,Isla,
-1,Characters_Main,145,616,2100,Isla,
+1,Characters_Main,144,612,2095,Isla,จูเลียตต้า
+1,Characters_Main,145,616,2100,Isla,จูเลียตต้า
 1,Characters_Main,146,620,2105,,
-1,Characters_Main,147,624,2106,Isla,
+1,Characters_Main,147,624,2106,Isla,จูเลียตต้า
 1,Characters_Main,148,628,2111,,
 1,Characters_Main,149,632,2112,,
 1,Characters_Main,150,636,2113,,
 1,Characters_Main,151,640,2114,,
-1,Characters_Main,152,644,2115,Psaro,
-1,Characters_Main,153,648,2121,Psaro,
+1,Characters_Main,152,644,2115,Psaro,พิซาโร่
+1,Characters_Main,153,648,2121,Psaro,พิซาโร่
 1,Characters_Main,154,652,2127,,
-1,Characters_Main,155,656,2128,Psaro,
+1,Characters_Main,155,656,2128,Psaro,พิซาโร่
 1,Characters_Main,156,660,2134,,
 1,Characters_Main,157,664,2135,,
 1,Characters_Main,158,668,2136,,
 1,Characters_Main,159,672,2137,,
-1,Characters_Main,160,676,2138,Bianca,
-1,Characters_Main,161,680,2145,Bianca,
+1,Characters_Main,160,676,2138,Bianca,เบียงก้า
+1,Characters_Main,161,680,2145,Bianca,เบียงก้า
 1,Characters_Main,162,684,2152,,
-1,Characters_Main,163,688,2153,Bianca,
+1,Characters_Main,163,688,2153,Bianca,เบียงก้า
 1,Characters_Main,164,692,2160,,
 1,Characters_Main,165,696,2161,,
 1,Characters_Main,166,700,2162,,
 1,Characters_Main,167,704,2163,,
-1,Characters_Main,168,708,2164,Nera,
-1,Characters_Main,169,712,2169,Nera,
+1,Characters_Main,168,708,2164,Nera,ฟลอร่า
+1,Characters_Main,169,712,2169,Nera,ฟลอร่า
 1,Characters_Main,170,716,2174,,
-1,Characters_Main,171,720,2175,Nera,
+1,Characters_Main,171,720,2175,Nera,ฟลอร่า
 1,Characters_Main,172,724,2180,,
 1,Characters_Main,173,728,2181,,
 1,Characters_Main,174,732,2182,,
 1,Characters_Main,175,736,2183,,
-1,Characters_Main,176,740,2184,Yangus,
-1,Characters_Main,177,744,2191,Yangus,
+1,Characters_Main,176,740,2184,Yangus,ยังกัส
+1,Characters_Main,177,744,2191,Yangus,ยังกัส
 1,Characters_Main,178,748,2198,,
-1,Characters_Main,179,752,2199,Yangus,
+1,Characters_Main,179,752,2199,Yangus,ยังกัส
 1,Characters_Main,180,756,2206,,
 1,Characters_Main,181,760,2207,,
 1,Characters_Main,182,764,2208,,
@@ -6959,57 +6959,57 @@
 22,Heroes_Party,2397,9624,15301,,
 22,Heroes_Party,2398,9628,15302,,
 22,Heroes_Party,2399,9632,15303,,
-29,Vocations_Classes,0,36,1316,Warrior,
-29,Vocations_Classes,1,40,1324,WAR,
-29,Vocations_Classes,2,44,1328,GUE,
+29,Vocations_Classes,0,36,1316,Warrior,นักรบ
+29,Vocations_Classes,1,40,1324,WAR,รบ
+29,Vocations_Classes,2,44,1328,GUE,รบ
 29,Vocations_Classes,3,48,1332,,
 29,Vocations_Classes,4,52,1333,,
 29,Vocations_Classes,5,56,1334,,
 29,Vocations_Classes,6,60,1335,,
 29,Vocations_Classes,7,64,1336,,
-29,Vocations_Classes,8,68,1337,Martial Artist,
-29,Vocations_Classes,9,72,1352,MAR,
-29,Vocations_Classes,10,76,1356,LOT,
+29,Vocations_Classes,8,68,1337,Martial Artist,นักสู้
+29,Vocations_Classes,9,72,1352,MAR,สู้
+29,Vocations_Classes,10,76,1356,LOT,สู้
 29,Vocations_Classes,11,80,1360,,
 29,Vocations_Classes,12,84,1361,,
 29,Vocations_Classes,13,88,1362,,
 29,Vocations_Classes,14,92,1363,,
 29,Vocations_Classes,15,96,1364,,
-29,Vocations_Classes,16,100,1365,Mage,
-29,Vocations_Classes,17,104,1370,MAG,
-29,Vocations_Classes,18,108,1374,MAG,
+29,Vocations_Classes,16,100,1365,Mage,จอมเวท
+29,Vocations_Classes,17,104,1370,MAG,เวท
+29,Vocations_Classes,18,108,1374,MAG,เวท
 29,Vocations_Classes,19,112,1378,,
 29,Vocations_Classes,20,116,1379,,
 29,Vocations_Classes,21,120,1380,,
 29,Vocations_Classes,22,124,1381,,
 29,Vocations_Classes,23,128,1382,,
-29,Vocations_Classes,24,132,1383,Priest,
-29,Vocations_Classes,25,136,1390,PRI,
-29,Vocations_Classes,26,140,1394,SAC,
+29,Vocations_Classes,24,132,1383,Priest,นักบวช
+29,Vocations_Classes,25,136,1390,PRI,บวช
+29,Vocations_Classes,26,140,1394,SAC,บวช
 29,Vocations_Classes,27,144,1398,,
 29,Vocations_Classes,28,148,1399,,
 29,Vocations_Classes,29,152,1400,,
 29,Vocations_Classes,30,156,1401,,
 29,Vocations_Classes,31,160,1402,,
-29,Vocations_Classes,32,164,1403,Thief,
-29,Vocations_Classes,33,168,1409,THI,
-29,Vocations_Classes,34,172,1413,LAD,
+29,Vocations_Classes,32,164,1403,Thief,จอมโจร
+29,Vocations_Classes,33,168,1409,THI,โจร
+29,Vocations_Classes,34,172,1413,LAD,โจร
 29,Vocations_Classes,35,176,1417,,
 29,Vocations_Classes,36,180,1418,,
 29,Vocations_Classes,37,184,1419,,
 29,Vocations_Classes,38,188,1420,,
 29,Vocations_Classes,39,192,1421,,
-29,Vocations_Classes,40,196,1422,Gladiator,
-29,Vocations_Classes,41,200,1432,GLA,
-29,Vocations_Classes,42,204,1436,GLA,
+29,Vocations_Classes,40,196,1422,Gladiator,กลาดิเอเตอร์
+29,Vocations_Classes,41,200,1432,GLA,กลาด
+29,Vocations_Classes,42,204,1436,GLA,กลาด
 29,Vocations_Classes,43,208,1440,,
 29,Vocations_Classes,44,212,1441,,
 29,Vocations_Classes,45,216,1442,,
 29,Vocations_Classes,46,220,1443,,
 29,Vocations_Classes,47,224,1444,,
-29,Vocations_Classes,48,228,1445,Sage,
-29,Vocations_Classes,49,232,1450,SAG,
-29,Vocations_Classes,50,236,1454,SAG,
+29,Vocations_Classes,48,228,1445,Sage,ปราชญ์
+29,Vocations_Classes,49,232,1450,SAG,ปราชญ์
+29,Vocations_Classes,50,236,1454,SAG,ปราชญ์
 29,Vocations_Classes,51,240,1458,,
 29,Vocations_Classes,52,244,1459,,
 29,Vocations_Classes,53,248,1460,,
@@ -7183,57 +7183,57 @@
 29,Vocations_Classes,221,920,1628,,
 29,Vocations_Classes,222,924,1629,,
 29,Vocations_Classes,223,928,1630,,
-29,Vocations_Classes,224,932,1631,Warrior,
-29,Vocations_Classes,225,936,1639,WAR,
-29,Vocations_Classes,226,940,1643,GUE,
+29,Vocations_Classes,224,932,1631,Warrior,นักรบ
+29,Vocations_Classes,225,936,1639,WAR,รบ
+29,Vocations_Classes,226,940,1643,GUE,รบ
 29,Vocations_Classes,227,944,1647,,
 29,Vocations_Classes,228,948,1648,,
 29,Vocations_Classes,229,952,1649,,
 29,Vocations_Classes,230,956,1650,,
 29,Vocations_Classes,231,960,1651,,
-29,Vocations_Classes,232,964,1652,Martial Artist,
-29,Vocations_Classes,233,968,1667,MAR,
-29,Vocations_Classes,234,972,1671,LOT,
+29,Vocations_Classes,232,964,1652,Martial Artist,นักสู้
+29,Vocations_Classes,233,968,1667,MAR,สู้
+29,Vocations_Classes,234,972,1671,LOT,สู้
 29,Vocations_Classes,235,976,1675,,
 29,Vocations_Classes,236,980,1676,,
 29,Vocations_Classes,237,984,1677,,
 29,Vocations_Classes,238,988,1678,,
 29,Vocations_Classes,239,992,1679,,
-29,Vocations_Classes,240,996,1680,Mage,
-29,Vocations_Classes,241,1000,1685,MAG,
-29,Vocations_Classes,242,1004,1689,MAG,
+29,Vocations_Classes,240,996,1680,Mage,จอมเวท
+29,Vocations_Classes,241,1000,1685,MAG,เวท
+29,Vocations_Classes,242,1004,1689,MAG,เวท
 29,Vocations_Classes,243,1008,1693,,
 29,Vocations_Classes,244,1012,1694,,
 29,Vocations_Classes,245,1016,1695,,
 29,Vocations_Classes,246,1020,1696,,
 29,Vocations_Classes,247,1024,1697,,
-29,Vocations_Classes,248,1028,1698,Priestess,
-29,Vocations_Classes,249,1032,1708,PRI,
-29,Vocations_Classes,250,1036,1712,SAC,
+29,Vocations_Classes,248,1028,1698,Priestess,นักบวช
+29,Vocations_Classes,249,1032,1708,PRI,บวช
+29,Vocations_Classes,250,1036,1712,SAC,บวช
 29,Vocations_Classes,251,1040,1716,,
 29,Vocations_Classes,252,1044,1717,,
 29,Vocations_Classes,253,1048,1718,,
 29,Vocations_Classes,254,1052,1719,,
 29,Vocations_Classes,255,1056,1720,,
-29,Vocations_Classes,256,1060,1721,Thief,
-29,Vocations_Classes,257,1064,1727,THI,
-29,Vocations_Classes,258,1068,1731,LAD,
+29,Vocations_Classes,256,1060,1721,Thief,จอมโจร
+29,Vocations_Classes,257,1064,1727,THI,โจร
+29,Vocations_Classes,258,1068,1731,LAD,โจร
 29,Vocations_Classes,259,1072,1735,,
 29,Vocations_Classes,260,1076,1736,,
 29,Vocations_Classes,261,1080,1737,,
 29,Vocations_Classes,262,1084,1738,,
 29,Vocations_Classes,263,1088,1739,,
-29,Vocations_Classes,264,1092,1740,Gladiator,
-29,Vocations_Classes,265,1096,1750,GLA,
-29,Vocations_Classes,266,1100,1754,GLA,
+29,Vocations_Classes,264,1092,1740,Gladiator,กลาดิเอเตอร์
+29,Vocations_Classes,265,1096,1750,GLA,กลาด
+29,Vocations_Classes,266,1100,1754,GLA,กลาด
 29,Vocations_Classes,267,1104,1758,,
 29,Vocations_Classes,268,1108,1759,,
 29,Vocations_Classes,269,1112,1760,,
 29,Vocations_Classes,270,1116,1761,,
 29,Vocations_Classes,271,1120,1762,,
-29,Vocations_Classes,272,1124,1763,Sage,
-29,Vocations_Classes,273,1128,1768,SAG,
-29,Vocations_Classes,274,1132,1772,SAG,
+29,Vocations_Classes,272,1124,1763,Sage,ปราชญ์
+29,Vocations_Classes,273,1128,1768,SAG,ปราชญ์
+29,Vocations_Classes,274,1132,1772,SAG,ปราชญ์
 29,Vocations_Classes,275,1136,1776,,
 29,Vocations_Classes,276,1140,1777,,
 29,Vocations_Classes,277,1144,1778,,
@@ -12079,224 +12079,224 @@
 36,Story_Quests,4797,19224,37542,,
 36,Story_Quests,4798,19228,37543,,
 36,Story_Quests,4799,19232,37544,,
-43,Kingdoms_Regions,0,36,1636,Harba,
-43,Kingdoms_Regions,1,40,1642,Harba,
+43,Kingdoms_Regions,0,36,1636,Harba,ฮาร์บา
+43,Kingdoms_Regions,1,40,1642,Harba,ฮาร์บา
 43,Kingdoms_Regions,2,44,1648,,
 43,Kingdoms_Regions,3,48,1649,,
 43,Kingdoms_Regions,4,52,1650,,
 43,Kingdoms_Regions,5,56,1651,,
 43,Kingdoms_Regions,6,60,1652,,
 43,Kingdoms_Regions,7,64,1653,,
-43,Kingdoms_Regions,8,68,1654,Accordia,
-43,Kingdoms_Regions,9,72,1663,Accordia,
+43,Kingdoms_Regions,8,68,1654,Accordia,ออร์คาเนีย
+43,Kingdoms_Regions,9,72,1663,Accordia,ออร์คาเนีย
 43,Kingdoms_Regions,10,76,1672,,
 43,Kingdoms_Regions,11,80,1673,,
 43,Kingdoms_Regions,12,84,1674,,
 43,Kingdoms_Regions,13,88,1675,,
 43,Kingdoms_Regions,14,92,1676,,
 43,Kingdoms_Regions,15,96,1677,,
-43,Kingdoms_Regions,16,100,1678,Dunisia,
-43,Kingdoms_Regions,17,104,1686,Dunisia,
+43,Kingdoms_Regions,16,100,1678,Dunisia,แจวาล
+43,Kingdoms_Regions,17,104,1686,Dunisia,แจวาล
 43,Kingdoms_Regions,18,108,1694,,
 43,Kingdoms_Regions,19,112,1695,,
 43,Kingdoms_Regions,20,116,1696,,
 43,Kingdoms_Regions,21,120,1697,,
 43,Kingdoms_Regions,22,124,1698,,
 43,Kingdoms_Regions,23,128,1699,,
-43,Kingdoms_Regions,24,132,1700,Outer Dunisia,
-43,Kingdoms_Regions,25,136,1714,Outer Dunisia,
+43,Kingdoms_Regions,24,132,1700,Outer Dunisia,ชานเมืองแจวาล
+43,Kingdoms_Regions,25,136,1714,Outer Dunisia,ชานเมืองแจวาล
 43,Kingdoms_Regions,26,140,1728,,
 43,Kingdoms_Regions,27,144,1729,,
 43,Kingdoms_Regions,28,148,1730,,
 43,Kingdoms_Regions,29,152,1731,,
 43,Kingdoms_Regions,30,156,1732,,
 43,Kingdoms_Regions,31,160,1733,,
-43,Kingdoms_Regions,32,164,1734,The Wildwood,
-43,Kingdoms_Regions,33,168,1747,The Wildwood,
+43,Kingdoms_Regions,32,164,1734,The Wildwood,ป่าดงพงไพร
+43,Kingdoms_Regions,33,168,1747,The Wildwood,ป่าดงพงไพร
 43,Kingdoms_Regions,34,172,1760,,
 43,Kingdoms_Regions,35,176,1761,,
 43,Kingdoms_Regions,36,180,1762,,
 43,Kingdoms_Regions,37,184,1763,,
 43,Kingdoms_Regions,38,188,1764,,
 43,Kingdoms_Regions,39,192,1765,,
-43,Kingdoms_Regions,40,196,1766,Ingenia,
-43,Kingdoms_Regions,41,200,1774,Ingenia,
+43,Kingdoms_Regions,40,196,1766,Ingenia,อินจีเนีย
+43,Kingdoms_Regions,41,200,1774,Ingenia,อินจีเนีย
 43,Kingdoms_Regions,42,204,1782,,
 43,Kingdoms_Regions,43,208,1783,,
 43,Kingdoms_Regions,44,212,1784,,
 43,Kingdoms_Regions,45,216,1785,,
 43,Kingdoms_Regions,46,220,1786,,
 43,Kingdoms_Regions,47,224,1787,,
-43,Kingdoms_Regions,48,228,1788,The Great Divide,
-43,Kingdoms_Regions,49,232,1805,The Great Divide,
+43,Kingdoms_Regions,48,228,1788,The Great Divide,หุบผาพรมแดน
+43,Kingdoms_Regions,49,232,1805,The Great Divide,หุบผาพรมแดน
 43,Kingdoms_Regions,50,236,1822,,
 43,Kingdoms_Regions,51,240,1823,,
 43,Kingdoms_Regions,52,244,1824,,
 43,Kingdoms_Regions,53,248,1825,,
 43,Kingdoms_Regions,54,252,1826,,
 43,Kingdoms_Regions,55,256,1827,,
-43,Kingdoms_Regions,56,260,1828,Mt Neverest,
-43,Kingdoms_Regions,57,264,1840,Mt Neverest,
+43,Kingdoms_Regions,56,260,1828,Mt Neverest,ยอดเขาเนเวอร์เรสต์
+43,Kingdoms_Regions,57,264,1840,Mt Neverest,ยอดเขาเนเวอร์เรสต์
 43,Kingdoms_Regions,58,268,1852,,
 43,Kingdoms_Regions,59,272,1853,,
 43,Kingdoms_Regions,60,276,1854,,
 43,Kingdoms_Regions,61,280,1855,,
 43,Kingdoms_Regions,62,284,1856,,
 43,Kingdoms_Regions,63,288,1857,,
-43,Kingdoms_Regions,64,292,1858,Greena Pastures,
-43,Kingdoms_Regions,65,296,1874,Greena Pastures,
+43,Kingdoms_Regions,64,292,1858,Greena Pastures,ทุ่งหญ้ากรีน่า
+43,Kingdoms_Regions,65,296,1874,Greena Pastures,ทุ่งหญ้ากรีน่า
 43,Kingdoms_Regions,66,300,1890,,
 43,Kingdoms_Regions,67,304,1891,,
 43,Kingdoms_Regions,68,308,1892,,
 43,Kingdoms_Regions,69,312,1893,,
 43,Kingdoms_Regions,70,316,1894,,
 43,Kingdoms_Regions,71,320,1895,,
-43,Kingdoms_Regions,72,324,1896,The Grand Dunes,
-43,Kingdoms_Regions,73,328,1912,The Grand Dunes,
+43,Kingdoms_Regions,72,324,1896,The Grand Dunes,ทะเลทรายแกรนด์ดูนส์
+43,Kingdoms_Regions,73,328,1912,The Grand Dunes,ทะเลทรายแกรนด์ดูนส์
 43,Kingdoms_Regions,74,332,1928,,
 43,Kingdoms_Regions,75,336,1929,,
 43,Kingdoms_Regions,76,340,1930,,
 43,Kingdoms_Regions,77,344,1931,,
 43,Kingdoms_Regions,78,348,1932,,
 43,Kingdoms_Regions,79,352,1933,,
-43,Kingdoms_Regions,80,356,1934,The Lumberlands,
-43,Kingdoms_Regions,81,360,1950,The Lumberlands,
+43,Kingdoms_Regions,80,356,1934,The Lumberlands,พงไพรลัมเบอร์แลนด์
+43,Kingdoms_Regions,81,360,1950,The Lumberlands,พงไพรลัมเบอร์แลนด์
 43,Kingdoms_Regions,82,364,1966,,
 43,Kingdoms_Regions,83,368,1967,,
 43,Kingdoms_Regions,84,372,1968,,
 43,Kingdoms_Regions,85,376,1969,,
 43,Kingdoms_Regions,86,380,1970,,
 43,Kingdoms_Regions,87,384,1971,,
-43,Kingdoms_Regions,88,388,1972,Redrock Ravine,
-43,Kingdoms_Regions,89,392,1987,Redrock Ravine,
+43,Kingdoms_Regions,88,388,1972,Redrock Ravine,หุบผาหินแดงเรดร็อค
+43,Kingdoms_Regions,89,392,1987,Redrock Ravine,หุบผาหินแดงเรดร็อค
 43,Kingdoms_Regions,90,396,2002,,
 43,Kingdoms_Regions,91,400,2003,,
 43,Kingdoms_Regions,92,404,2004,,
 43,Kingdoms_Regions,93,408,2005,,
 43,Kingdoms_Regions,94,412,2006,,
 43,Kingdoms_Regions,95,416,2007,,
-43,Kingdoms_Regions,96,420,2008,The Frosty Foothills,
-43,Kingdoms_Regions,97,424,2029,The Frosty Foothills,
+43,Kingdoms_Regions,96,420,2008,The Frosty Foothills,เนินเขาเยือกแข็งฟรอสตี้
+43,Kingdoms_Regions,97,424,2029,The Frosty Foothills,เนินเขาเยือกแข็งฟรอสตี้
 43,Kingdoms_Regions,98,428,2050,,
 43,Kingdoms_Regions,99,432,2051,,
 43,Kingdoms_Regions,100,436,2052,,
 43,Kingdoms_Regions,101,440,2053,,
 43,Kingdoms_Regions,102,444,2054,,
 43,Kingdoms_Regions,103,448,2055,,
-43,Kingdoms_Regions,104,452,2056,No Man's Land,
-43,Kingdoms_Regions,105,456,2070,No Man's Land,
+43,Kingdoms_Regions,104,452,2056,No Man's Land,แดนรกร้างไร้เจ้าของ
+43,Kingdoms_Regions,105,456,2070,No Man's Land,แดนรกร้างไร้เจ้าของ
 43,Kingdoms_Regions,106,460,2084,,
 43,Kingdoms_Regions,107,464,2085,,
 43,Kingdoms_Regions,108,468,2086,,
 43,Kingdoms_Regions,109,472,2087,,
 43,Kingdoms_Regions,110,476,2088,,
 43,Kingdoms_Regions,111,480,2089,,
-43,Kingdoms_Regions,112,484,2090,Blacka Pastures,
-43,Kingdoms_Regions,113,488,2106,Blacka Pastures,
+43,Kingdoms_Regions,112,484,2090,Blacka Pastures,ทุ่งทมิฬแบล็คก้า
+43,Kingdoms_Regions,113,488,2106,Blacka Pastures,ทุ่งทมิฬแบล็คก้า
 43,Kingdoms_Regions,114,492,2122,,
 43,Kingdoms_Regions,115,496,2123,,
 43,Kingdoms_Regions,116,500,2124,,
 43,Kingdoms_Regions,117,504,2125,,
 43,Kingdoms_Regions,118,508,2126,,
 43,Kingdoms_Regions,119,512,2127,,
-43,Kingdoms_Regions,120,516,2128,The Damned Dunes,
-43,Kingdoms_Regions,121,520,2145,The Damned Dunes,
+43,Kingdoms_Regions,120,516,2128,The Damned Dunes,ทะเลทรายต้องสาป
+43,Kingdoms_Regions,121,520,2145,The Damned Dunes,ทะเลทรายต้องสาป
 43,Kingdoms_Regions,122,524,2162,,
 43,Kingdoms_Regions,123,528,2163,,
 43,Kingdoms_Regions,124,532,2164,,
 43,Kingdoms_Regions,125,536,2165,,
 43,Kingdoms_Regions,126,540,2166,,
 43,Kingdoms_Regions,127,544,2167,,
-43,Kingdoms_Regions,128,548,2168,The Darkwood,
-43,Kingdoms_Regions,129,552,2181,The Darkwood,
+43,Kingdoms_Regions,128,548,2168,The Darkwood,ป่าดงทมิฬ
+43,Kingdoms_Regions,129,552,2181,The Darkwood,ป่าดงทมิฬ
 43,Kingdoms_Regions,130,556,2194,,
 43,Kingdoms_Regions,131,560,2195,,
 43,Kingdoms_Regions,132,564,2196,,
 43,Kingdoms_Regions,133,568,2197,,
 43,Kingdoms_Regions,134,572,2198,,
 43,Kingdoms_Regions,135,576,2199,,
-43,Kingdoms_Regions,136,580,2200,Blackrock Ravine,
-43,Kingdoms_Regions,137,584,2217,Blackrock Ravine,
+43,Kingdoms_Regions,136,580,2200,Blackrock Ravine,หุบผาหินดำแบล็คร็อค
+43,Kingdoms_Regions,137,584,2217,Blackrock Ravine,หุบผาหินดำแบล็คร็อค
 43,Kingdoms_Regions,138,588,2234,,
 43,Kingdoms_Regions,139,592,2235,,
 43,Kingdoms_Regions,140,596,2236,,
 43,Kingdoms_Regions,141,600,2237,,
 43,Kingdoms_Regions,142,604,2238,,
 43,Kingdoms_Regions,143,608,2239,,
-43,Kingdoms_Regions,144,612,2240,The Fetid Foothills,
-43,Kingdoms_Regions,145,616,2260,The Fetid Foothills,
+43,Kingdoms_Regions,144,612,2240,The Fetid Foothills,เนินเขากลิ่นเน่าเฟรติด
+43,Kingdoms_Regions,145,616,2260,The Fetid Foothills,เนินเขากลิ่นเน่าเฟรติด
 43,Kingdoms_Regions,146,620,2280,,
 43,Kingdoms_Regions,147,624,2281,,
 43,Kingdoms_Regions,148,628,2282,,
 43,Kingdoms_Regions,149,632,2283,,
 43,Kingdoms_Regions,150,636,2284,,
 43,Kingdoms_Regions,151,640,2285,,
-43,Kingdoms_Regions,152,644,2286,Dead Man's Land,
-43,Kingdoms_Regions,153,648,2302,Dead Man's Land,
+43,Kingdoms_Regions,152,644,2286,Dead Man's Land,แดนมรณะ
+43,Kingdoms_Regions,153,648,2302,Dead Man's Land,แดนมรณะ
 43,Kingdoms_Regions,154,652,2318,,
 43,Kingdoms_Regions,155,656,2319,,
 43,Kingdoms_Regions,156,660,2320,,
 43,Kingdoms_Regions,157,664,2321,,
 43,Kingdoms_Regions,158,668,2322,,
 43,Kingdoms_Regions,159,672,2323,,
-43,Kingdoms_Regions,160,676,2324,The Pinnacle of Peace,
-43,Kingdoms_Regions,161,680,2346,The Pinnacle of Peace,
+43,Kingdoms_Regions,160,676,2324,The Pinnacle of Peace,ยอดเขาสันติภาพ
+43,Kingdoms_Regions,161,680,2346,The Pinnacle of Peace,ยอดเขาสันติภาพ
 43,Kingdoms_Regions,162,684,2368,,
 43,Kingdoms_Regions,163,688,2369,,
 43,Kingdoms_Regions,164,692,2370,,
 43,Kingdoms_Regions,165,696,2371,,
 43,Kingdoms_Regions,166,700,2372,,
 43,Kingdoms_Regions,167,704,2373,,
-43,Kingdoms_Regions,168,708,2374,Ad Hoc Encampment,
-43,Kingdoms_Regions,169,712,2392,Ad Hoc Encampment,
+43,Kingdoms_Regions,168,708,2374,Ad Hoc Encampment,ค่ายพักชั่วคราว
+43,Kingdoms_Regions,169,712,2392,Ad Hoc Encampment,ค่ายพักชั่วคราว
 43,Kingdoms_Regions,170,716,2410,,
 43,Kingdoms_Regions,171,720,2411,,
 43,Kingdoms_Regions,172,724,2412,,
 43,Kingdoms_Regions,173,728,2413,,
 43,Kingdoms_Regions,174,732,2414,,
 43,Kingdoms_Regions,175,736,2415,,
-43,Kingdoms_Regions,176,740,2416,The Beastlands,
-43,Kingdoms_Regions,177,744,2431,The Beastlands,
+43,Kingdoms_Regions,176,740,2416,The Beastlands,แดนสัตว์อสูร
+43,Kingdoms_Regions,177,744,2431,The Beastlands,แดนสัตว์อสูร
 43,Kingdoms_Regions,178,748,2446,,
 43,Kingdoms_Regions,179,752,2447,,
 43,Kingdoms_Regions,180,756,2448,,
 43,Kingdoms_Regions,181,760,2449,,
 43,Kingdoms_Regions,182,764,2450,,
 43,Kingdoms_Regions,183,768,2451,,
-43,Kingdoms_Regions,184,772,2452,Klor,
-43,Kingdoms_Regions,185,776,2457,Klor,
+43,Kingdoms_Regions,184,772,2452,Klor,คลอร์
+43,Kingdoms_Regions,185,776,2457,Klor,คลอร์
 43,Kingdoms_Regions,186,780,2462,,
 43,Kingdoms_Regions,187,784,2463,,
 43,Kingdoms_Regions,188,788,2464,,
 43,Kingdoms_Regions,189,792,2465,,
 43,Kingdoms_Regions,190,796,2466,,
 43,Kingdoms_Regions,191,800,2467,,
-43,Kingdoms_Regions,192,804,2468,Kadava,
-43,Kingdoms_Regions,193,808,2475,Kadava,
+43,Kingdoms_Regions,192,804,2468,Kadava,คาดาวา
+43,Kingdoms_Regions,193,808,2475,Kadava,คาดาวา
 43,Kingdoms_Regions,194,812,2482,,
 43,Kingdoms_Regions,195,816,2483,,
 43,Kingdoms_Regions,196,820,2484,,
 43,Kingdoms_Regions,197,824,2485,,
 43,Kingdoms_Regions,198,828,2486,,
 43,Kingdoms_Regions,199,832,2487,,
-43,Kingdoms_Regions,200,836,2488,Al-Khazam,
-43,Kingdoms_Regions,201,840,2498,Al-Khazam,
+43,Kingdoms_Regions,200,836,2488,Al-Khazam,อัล-คาซัม
+43,Kingdoms_Regions,201,840,2498,Al-Khazam,อัล-คาซัม
 43,Kingdoms_Regions,202,844,2508,,
 43,Kingdoms_Regions,203,848,2509,,
 43,Kingdoms_Regions,204,852,2510,,
 43,Kingdoms_Regions,205,856,2511,,
 43,Kingdoms_Regions,206,860,2512,,
 43,Kingdoms_Regions,207,864,2513,,
-43,Kingdoms_Regions,208,868,2514,The Black Manse,
-43,Kingdoms_Regions,209,872,2530,The Black Manse,
+43,Kingdoms_Regions,208,868,2514,The Black Manse,คฤหาสน์ทมิฬ
+43,Kingdoms_Regions,209,872,2530,The Black Manse,คฤหาสน์ทมิฬ
 43,Kingdoms_Regions,210,876,2546,,
 43,Kingdoms_Regions,211,880,2547,,
 43,Kingdoms_Regions,212,884,2548,,
 43,Kingdoms_Regions,213,888,2549,,
 43,Kingdoms_Regions,214,892,2550,,
 43,Kingdoms_Regions,215,896,2551,,
-43,Kingdoms_Regions,216,900,2552,Gragwort's Grotto,
-43,Kingdoms_Regions,217,904,2570,Gragwort's Grotto,
+43,Kingdoms_Regions,216,900,2552,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
+43,Kingdoms_Regions,217,904,2570,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
 43,Kingdoms_Regions,218,908,2588,,
 43,Kingdoms_Regions,219,912,2589,,
 43,Kingdoms_Regions,220,916,2590,,
@@ -12319,16 +12319,16 @@
 43,Kingdoms_Regions,237,984,2607,,
 43,Kingdoms_Regions,238,988,2608,,
 43,Kingdoms_Regions,239,992,2609,,
-43,Kingdoms_Regions,240,996,2610,Unused,
-43,Kingdoms_Regions,241,1000,2617,Unused,
+43,Kingdoms_Regions,240,996,2610,Unused,ไม่ได้ใช้งาน
+43,Kingdoms_Regions,241,1000,2617,Unused,ไม่ได้ใช้งาน
 43,Kingdoms_Regions,242,1004,2624,,
 43,Kingdoms_Regions,243,1008,2625,,
 43,Kingdoms_Regions,244,1012,2626,,
 43,Kingdoms_Regions,245,1016,2627,,
 43,Kingdoms_Regions,246,1020,2628,,
 43,Kingdoms_Regions,247,1024,2629,,
-43,Kingdoms_Regions,248,1028,2630,Accordia,
-43,Kingdoms_Regions,249,1032,2639,Accordia,
+43,Kingdoms_Regions,248,1028,2630,Accordia,ออร์คาเนีย
+43,Kingdoms_Regions,249,1032,2639,Accordia,ออร์คาเนีย
 43,Kingdoms_Regions,250,1036,2648,,
 43,Kingdoms_Regions,251,1040,2649,,
 43,Kingdoms_Regions,252,1044,2650,,
@@ -14079,32 +14079,32 @@
 50,Areas_Wilderness,1597,6424,10975,,
 50,Areas_Wilderness,1598,6428,10976,,
 50,Areas_Wilderness,1599,6432,10977,,
-57,Spells,0,36,164,Heal,
-57,Spells,1,40,169,Heal,
+57,Spells,0,36,164,Heal,โฮอิมี่
+57,Spells,1,40,169,Heal,โฮอิมี่
 57,Spells,2,44,174,,
 57,Spells,3,48,175,,
 57,Spells,4,52,176,,
 57,Spells,5,56,177,,
 57,Spells,6,60,178,,
 57,Spells,7,64,179,,
-57,Spells,8,68,180,Midheal,
-57,Spells,9,72,188,Midheal,
+57,Spells,8,68,180,Midheal,เบโฮอิมี่
+57,Spells,9,72,188,Midheal,เบโฮอิมี่
 57,Spells,10,76,196,,
 57,Spells,11,80,197,,
 57,Spells,12,84,198,,
 57,Spells,13,88,199,,
 57,Spells,14,92,200,,
 57,Spells,15,96,201,,
-57,Spells,16,100,202,Moreheal,
-57,Spells,17,104,211,Moreheal,
+57,Spells,16,100,202,Moreheal,เบโฮอิม
+57,Spells,17,104,211,Moreheal,เบโฮอิม
 57,Spells,18,108,220,,
 57,Spells,19,112,221,,
 57,Spells,20,116,222,,
 57,Spells,21,120,223,,
 57,Spells,22,124,224,,
 57,Spells,23,128,225,,
-57,Spells,24,132,226,Fullheal,
-57,Spells,25,136,235,Fullheal,
+57,Spells,24,132,226,Fullheal,เบโฮม่า
+57,Spells,25,136,235,Fullheal,เบโฮม่า
 57,Spells,26,140,244,,
 57,Spells,27,144,245,,
 57,Spells,28,148,246,,
