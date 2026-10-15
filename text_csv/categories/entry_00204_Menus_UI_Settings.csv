@@ -649,123 +649,123 @@
 204,Menus_UI_Settings,647,2620,58880,You can't possibly discard that<FG> It's currently equipped<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันกำลังถูกสวมใส่อยู่<FG>
 204,Menus_UI_Settings,648,2624,58942,You can't possibly discard that<FG> It's far too important<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันเป็นของสำคัญเกินกว่าจะทิ้งได้<FG>
 204,Menus_UI_Settings,649,2628,59003,Which button do you want to assign a spell or ability to<FH>,ต้องการกำหนดคาถาหรือท่าไม้ตายให้กับปุ่มใด<FH>
-204,Menus_UI_Settings,650,2632,59063,Which spell or ability do you want to assign to this button<FH>,ต้องการเรียนรู้สกิลนี้หรือไม่<FH>
-204,Menus_UI_Settings,651,2636,59126,%s assigned to <P3>.,
-204,Menus_UI_Settings,652,2640,59146,%s assigned to <P2>.,
-204,Menus_UI_Settings,653,2644,59166,%s assigned to <P0>.,
-204,Menus_UI_Settings,654,2648,59186,%s assigned to <P1>.,
-204,Menus_UI_Settings,655,2652,59206,Removed the spell or ability assigned to <P3>.,
-204,Menus_UI_Settings,656,2656,59252,Removed the spell or ability assigned to <P2>.,
-204,Menus_UI_Settings,657,2660,59298,Removed the spell or ability assigned to <P0>.,
-204,Menus_UI_Settings,658,2664,59344,Removed the spell or ability assigned to <P1>.,
-204,Menus_UI_Settings,659,2668,59390,Choose the word or phrase you want to change.,
-204,Menus_UI_Settings,660,2672,59436,Choose a word or phrase to use.,
-204,Menus_UI_Settings,661,2676,59468,Who do you want to remove from the party<FH>,
-204,Menus_UI_Settings,662,2680,59512,<I0>M1 will be removed from the party. Are you sure<FH>,
-204,Menus_UI_Settings,663,2684,59566,<I0>M1 is no longer in the party.,
-204,Menus_UI_Settings,664,2688,59599,You were removed from the party.,
-204,Menus_UI_Settings,665,2692,59632,Do you want to abandon the battle<FH> Your status will be changed to offline.,
-204,Menus_UI_Settings,666,2696,59709,Closing the Traveller's Tome will cancel any active calls or answers to arms. Are you sure<FH>,
-204,Menus_UI_Settings,667,2700,59803,You closed the Traveller's Tome.,
-204,Menus_UI_Settings,668,2704,59836,<F4><I0>G1 learned<FG>,
-204,Menus_UI_Settings,669,2708,59856,Cannot learn.,
-204,Menus_UI_Settings,670,2712,59870,Learn this skill<FH>,
-204,Menus_UI_Settings,671,2716,59890,The party is assembled. Set off on your interdimensional adventure<FH>,
-204,Menus_UI_Settings,672,2720,59960,Please wait until all party members have responded.,
-204,Menus_UI_Settings,673,2724,60012,The party is assembled. Time to set off on your interdimensional adventure<FG>,
-204,Menus_UI_Settings,674,2728,60090,"If you don't go, you won't be able to use your Traveller's Tome for a short period of time. Are you sure you want to decline<FH>",
-204,Menus_UI_Settings,675,2732,60218,You declined the interdimensional adventure.,
-204,Menus_UI_Settings,676,2736,60263,Your interdimensional adventure has been delayed due to a cancellation. Please continue playing until a full party has been assembled.,
-204,Menus_UI_Settings,677,2740,60398,A connection error has occurred. Party recruitment will be cancelled.,
-204,Menus_UI_Settings,678,2744,60468,Network connection lost. Leaving battle...,
-204,Menus_UI_Settings,679,2748,60511,This will open the Traveller's Tome and initiate a call to arms.,
-204,Menus_UI_Settings,680,2752,60576,Which mode would you like to play in<FH>,
-204,Menus_UI_Settings,681,2756,60616,Choose a dungeon map to travel to.,
-204,Menus_UI_Settings,682,2760,60651,Choose a character to control.,
-204,Menus_UI_Settings,683,2764,60682,Choose a vocation.,
-204,Menus_UI_Settings,684,2768,60701,Searching for party members. You'll be notified when a party has been assembled. Please continue playing in the meantime.,
-204,Menus_UI_Settings,685,2772,60823,You've received a bonus ball as a daily reward for going on interdimensional adventures<FG>,
-204,Menus_UI_Settings,686,2776,60914,You've also received a multiplayer bonus<FG>,
-204,Menus_UI_Settings,687,2780,60958,Start this battle<FH>,
-204,Menus_UI_Settings,688,2784,60979,Carry on to the next destination<FH>,
-204,Menus_UI_Settings,689,2788,61015,You need to have <F4><I0>41 in your party to begin this battle<FG>,
-204,Menus_UI_Settings,690,2792,61079,You need to have <F4><I0>41 and <F4><I0>42 in your party to begin this battle<FG>,
-204,Menus_UI_Settings,691,2796,61156,You need to be <E8>61an<E9>61a<EA>61 %s to begin this battle<FG>,
-204,Menus_UI_Settings,692,2800,61217,This battle must be fought by <F4><I0>00 alone<FG>,
-204,Menus_UI_Settings,693,2804,61265,"Oh, it's you, is it<FH> I suppose you'll be wanting to take a trial, will you<FH> Out with it, then. Which one do you want to do<FH>",
-204,Menus_UI_Settings,694,2808,61395,"Alright, off you pop, then<FG>",
-204,Menus_UI_Settings,695,2812,61425,"Changed your mind, eh<FH> Clear off, then<FG>",
-204,Menus_UI_Settings,696,2816,61469,"You want to do this one, do you<FH>",
-204,Menus_UI_Settings,697,2820,61504,Installing data...\nPlease wait until installation has completed.,
-204,Menus_UI_Settings,698,2824,61569,A mysterious force repels you<FG>,
-204,Menus_UI_Settings,699,2828,61602,I've no trials for you at the moment. Clear off for a bit and come back later.,
-204,Menus_UI_Settings,700,2832,61681,Connect to PlayStation<MT> Network and upload or download your adventure log.,
-204,Menus_UI_Settings,701,2836,61758,This is the adventure log that was uploaded to PlayStation<MT> Network.,
-204,Menus_UI_Settings,702,2840,61829,Unable to upload. This save data belongs to another player.,
-204,Menus_UI_Settings,703,2844,61889,Unable to download. This save data belongs to another player.,
-204,Menus_UI_Settings,704,2848,61951,Which adventure log do you want to upload to PlayStation<MT> Network<FH>,
-204,Menus_UI_Settings,705,2852,62022,Are you sure you want to upload this adventure log to PlayStation<MT> Network<FH>,
-204,Menus_UI_Settings,706,2856,62102,Are you sure you want to overwrite the adventure log on  PlayStation<MT> Network with this one<FH>,
-204,Menus_UI_Settings,707,2860,62199,Uploading adventure log to PlayStation<MT> Network...,
-204,Menus_UI_Settings,708,2864,62252,Upload complete.,
-204,Menus_UI_Settings,709,2868,62269,Downloading adventure log from PlayStation<MT> Network...,
-204,Menus_UI_Settings,710,2872,62326,Failed to upload adventure log. Please wait a while and try again.,
-204,Menus_UI_Settings,711,2876,62393,Failed to download adventure log. Please wait a while and try again.,
-204,Menus_UI_Settings,712,2880,62462,The data you are downloading is corrupted. Cancelling download. Please upload an uncorrupted adventure log.,
-204,Menus_UI_Settings,713,2884,62570,Could not find any data uploaded to PlayStation<MT> Network.,
-204,Menus_UI_Settings,714,2888,62630,There is a restriction on how many times you can access data uploaded to PlayStation<MT> Network over a short period of time.,
-204,Menus_UI_Settings,715,2892,62755,Please wait a while and try again.,
-204,Menus_UI_Settings,716,2896,62790,Into which slot would you like to download the adventure log from PlayStation<MT> Network<FH>,
-204,Menus_UI_Settings,717,2900,62882,Are you sure you want to download the adventure log from PlayStation<MT> Network to this slot<FH>,
-204,Menus_UI_Settings,718,2904,62978,Are you sure you want to overwrite this adventure log with the one from PlayStation<MT> Network<FH>,
-204,Menus_UI_Settings,719,2908,63076,Download complete.,
-204,Menus_UI_Settings,720,2912,63095,But you've already claimed this reward<FG>,
-204,Menus_UI_Settings,721,2916,63137,"Unable to download the adventure log, as the application is out of date. Please update to the latest version.",
-204,Menus_UI_Settings,722,2920,63247,Skip event scene<FH>,
-204,Menus_UI_Settings,723,2924,63267,You picked up <I8>50 medal<FG>,
-204,Menus_UI_Settings,724,2928,63296,Who would you like to help with the story<FH>,
-204,Menus_UI_Settings,725,2932,63341,Use a Victory's Secret to make this battle a bit easier and attempt it again<FH>\n(Remaining Victory's Secrets<FI> <GR>1),
-204,Menus_UI_Settings,726,2936,63459,Would you like to make this battle even easier and attempt it again<FH>\n(This won't use up any more Victory's Secrets.),
-204,Menus_UI_Settings,727,2940,63578,Do you want to start this battle again without making it any easier<FH>,
-204,Menus_UI_Settings,728,2944,63649,"Oh, you want to check the recruitment criteria<FH> Remember, if you're the one looking for people, you can change the criteria as well.",
+204,Menus_UI_Settings,650,2632,59063,Which spell or ability do you want to assign to this button<FH>,ต้องการกำหนดคาถาหรือท่าไม้ตายใดให้กับปุ่มนี้<FH>
+204,Menus_UI_Settings,651,2636,59126,%s assigned to <P3>.,กำหนด %s ให้กับปุ่ม <P3> แล้ว
+204,Menus_UI_Settings,652,2640,59146,%s assigned to <P2>.,กำหนด %s ให้กับปุ่ม <P2> แล้ว
+204,Menus_UI_Settings,653,2644,59166,%s assigned to <P0>.,กำหนด %s ให้กับปุ่ม <P0> แล้ว
+204,Menus_UI_Settings,654,2648,59186,%s assigned to <P1>.,กำหนด %s ให้กับปุ่ม <P1> แล้ว
+204,Menus_UI_Settings,655,2652,59206,Removed the spell or ability assigned to <P3>.,ลบคาถาหรือท่าไม้ตายที่กำหนดไว้ที่ปุ่ม <P3> แล้ว
+204,Menus_UI_Settings,656,2656,59252,Removed the spell or ability assigned to <P2>.,ลบคาถาหรือท่าไม้ตายที่กำหนดไว้ที่ปุ่ม <P2> แล้ว
+204,Menus_UI_Settings,657,2660,59298,Removed the spell or ability assigned to <P0>.,ลบคาถาหรือท่าไม้ตายที่กำหนดไว้ที่ปุ่ม <P0> แล้ว
+204,Menus_UI_Settings,658,2664,59344,Removed the spell or ability assigned to <P1>.,ลบคาถาหรือท่าไม้ตายที่กำหนดไว้ที่ปุ่ม <P1> แล้ว
+204,Menus_UI_Settings,659,2668,59390,Choose the word or phrase you want to change.,เลือกคำหรือข้อความที่คุณต้องการเปลี่ยน
+204,Menus_UI_Settings,660,2672,59436,Choose a word or phrase to use.,เลือกคำหรือข้อความที่จะนำมาใช้
+204,Menus_UI_Settings,661,2676,59468,Who do you want to remove from the party<FH>,ต้องการถอดใครออกจากปาร์ตี้<FH>
+204,Menus_UI_Settings,662,2680,59512,<I0>M1 will be removed from the party. Are you sure<FH>,<I0>M1 จะถูกถอดออกจากปาร์ตี้ แน่ใจหรือไม่<FH>
+204,Menus_UI_Settings,663,2684,59566,<I0>M1 is no longer in the party.,<I0>M1 ไม่ได้อยู่ในปาร์ตี้แล้ว
+204,Menus_UI_Settings,664,2688,59599,You were removed from the party.,คุณถูกถอดออกจากปาร์ตี้แล้ว
+204,Menus_UI_Settings,665,2692,59632,Do you want to abandon the battle<FH> Your status will be changed to offline.,ต้องการละทิ้งการต่อสู้หรือไม่<FH> สถานะของคุณจะถูกเปลี่ยนเป็นออฟไลน์
+204,Menus_UI_Settings,666,2696,59709,Closing the Traveller's Tome will cancel any active calls or answers to arms. Are you sure<FH>,การปิดบันทึกนักเดินทางจะยกเลิกการระดมพลหรือการตอบรับการระดมพลที่กำลังดำเนินอยู่ แน่ใจหรือไม่<FH>
+204,Menus_UI_Settings,667,2700,59803,You closed the Traveller's Tome.,คุณปิดบันทึกนักเดินทางแล้ว
+204,Menus_UI_Settings,668,2704,59836,<F4><I0>G1 learned<FG>,<F4><I0>G1 ได้เรียนรู้แล้ว<FG>
+204,Menus_UI_Settings,669,2708,59856,Cannot learn.,ไม่สามารถเรียนรู้ได้
+204,Menus_UI_Settings,670,2712,59870,Learn this skill<FH>,ต้องการเรียนรู้สกิลนี้หรือไม่<FH>
+204,Menus_UI_Settings,671,2716,59890,The party is assembled. Set off on your interdimensional adventure<FH>,สมาชิกรวมพลครบแล้ว ออกเดินทางสู่การผจญภัยข้ามมิติเลยหรือไม่<FH>
+204,Menus_UI_Settings,672,2720,59960,Please wait until all party members have responded.,โปรดรอจนกว่าสมาชิกปาร์ตี้ทุกคนจะตอบกลับ
+204,Menus_UI_Settings,673,2724,60012,The party is assembled. Time to set off on your interdimensional adventure<FG>,สมาชิกรวมพลครบแล้ว ถึงเวลาออกเดินทางสู่การผจญภัยข้ามมิติแล้ว<FG>
+204,Menus_UI_Settings,674,2728,60090,"If you don't go, you won't be able to use your Traveller's Tome for a short period of time. Are you sure you want to decline<FH>",หากคุณไม่ไป คุณจะไม่สามารถใช้บันทึกนักเดินทางได้ชั่วระยะเวลาหนึ่ง แน่ใจหรือไม่ว่าต้องการปฏิเสธ<FH>
+204,Menus_UI_Settings,675,2732,60218,You declined the interdimensional adventure.,คุณปฏิเสธการผจญภัยข้ามมิติแล้ว
+204,Menus_UI_Settings,676,2736,60263,Your interdimensional adventure has been delayed due to a cancellation. Please continue playing until a full party has been assembled.,การผจญภัยข้ามมิติของคุณล่าช้าเนื่องจากมีการยกเลิก โปรดเล่นต่อจนกว่าจะรวมสมาชิกครบปาร์ตี้
+204,Menus_UI_Settings,677,2740,60398,A connection error has occurred. Party recruitment will be cancelled.,เกิดข้อผิดพลาดในการเชื่อมต่อ การรับสมัครสมาชิกปาร์ตี้จะถูกยกเลิก
+204,Menus_UI_Settings,678,2744,60468,Network connection lost. Leaving battle...,การเชื่อมต่อเครือข่ายขาดหาย กำลังออกจากการต่อสู้...
+204,Menus_UI_Settings,679,2748,60511,This will open the Traveller's Tome and initiate a call to arms.,สิ่งนี้จะเปิดบันทึกนักเดินทางและเริ่มการระดมพล
+204,Menus_UI_Settings,680,2752,60576,Which mode would you like to play in<FH>,ต้องการเล่นในโหมดใด<FH>
+204,Menus_UI_Settings,681,2756,60616,Choose a dungeon map to travel to.,เลือกแผนที่ดันเจี้ยนที่จะเดินทางไป
+204,Menus_UI_Settings,682,2760,60651,Choose a character to control.,เลือกตัวละครที่จะใช้ควบคุม
+204,Menus_UI_Settings,683,2764,60682,Choose a vocation.,เลือกอาชีพ
+204,Menus_UI_Settings,684,2768,60701,Searching for party members. You'll be notified when a party has been assembled. Please continue playing in the meantime.,กำลังค้นหาสมาชิกปาร์ตี้ คุณจะได้รับการแจ้งเตือนเมื่อรวมปาร์ตี้ครบแล้ว ระหว่างนี้โปรดเล่นต่อไปตามปกติ
+204,Menus_UI_Settings,685,2772,60823,You've received a bonus ball as a daily reward for going on interdimensional adventures<FG>,คุณได้รับโบนัสบอลเป็นรางวัลประจำวันสำหรับการออกผจญภัยข้ามมิติ<FG>
+204,Menus_UI_Settings,686,2776,60914,You've also received a multiplayer bonus<FG>,คุณได้รับโบนัสจากการเล่นหลายคน (Multiplayer) เพิ่มเติมด้วย<FG>
+204,Menus_UI_Settings,687,2780,60958,Start this battle<FH>,ต้องการเริ่มการต่อสู้นี้หรือไม่<FH>
+204,Menus_UI_Settings,688,2784,60979,Carry on to the next destination<FH>,ต้องการเดินทางต่อไปยังจุดหมายถัดไปหรือไม่<FH>
+204,Menus_UI_Settings,689,2788,61015,You need to have <F4><I0>41 in your party to begin this battle<FG>,คุณจำเป็นต้องมี <F4><I0>41 อยู่ในปาร์ตี้เพื่อเริ่มการต่อสู้นี้<FG>
+204,Menus_UI_Settings,690,2792,61079,You need to have <F4><I0>41 and <F4><I0>42 in your party to begin this battle<FG>,คุณจำเป็นต้องมี <F4><I0>41 และ <F4><I0>42 อยู่ในปาร์ตี้เพื่อเริ่มการต่อสู้นี้<FG>
+204,Menus_UI_Settings,691,2796,61156,You need to be <E8>61an<E9>61a<EA>61 %s to begin this battle<FG>,คุณจำเป็นต้องเป็นอาชีพ %s เพื่อเริ่มการต่อสู้นี้<FG>
+204,Menus_UI_Settings,692,2800,61217,This battle must be fought by <F4><I0>00 alone<FG>,การต่อสู้นี้ <F4><I0>00 จะต้องต่อสู้เพียงลำพังเท่านั้น<FG>
+204,Menus_UI_Settings,693,2804,61265,"Oh, it's you, is it<FH> I suppose you'll be wanting to take a trial, will you<FH> Out with it, then. Which one do you want to do<FH>",โอ๊ะ เจ้าเองเรอะ<FH> ข้าเดาว่าคงอยากจะมารับการทดสอบอีกล่ะสิ ใช่ไหมล่ะ<FH> ว่ามาเลยสิ อยากทำอันไหนล่ะ<FH>
+204,Menus_UI_Settings,694,2808,61395,"Alright, off you pop, then<FG>",ได้เลย ไปได้แล้วสิ<FG>
+204,Menus_UI_Settings,695,2812,61425,"Changed your mind, eh<FH> Clear off, then<FG>",เปลี่ยนใจแล้วเรอะ หืม<FH> งั้นก็ไสหัวไปได้แล้ว<FG>
+204,Menus_UI_Settings,696,2816,61469,"You want to do this one, do you<FH>",อยากทำอันนี้งั้นเรอะ หืม<FH>
+204,Menus_UI_Settings,697,2820,61504,Installing data...\nPlease wait until installation has completed.,กำลังติดตั้งข้อมูล...\nโปรดรอจนกว่าการติดตั้งจะเสร็จสมบูรณ์
+204,Menus_UI_Settings,698,2824,61569,A mysterious force repels you<FG>,มีพลังลึกลับผลักดันเจ้าออกไป<FG>
+204,Menus_UI_Settings,699,2828,61602,I've no trials for you at the moment. Clear off for a bit and come back later.,ตอนนี้ข้าไม่มีบททดสอบให้เจ้าหรอกนะ ไปให้พ้นสักพักแล้วค่อยกลับมาใหม่
+204,Menus_UI_Settings,700,2832,61681,Connect to PlayStation<MT> Network and upload or download your adventure log.,เชื่อมต่อกับเน็ตเวิร์กเพื่ออัปโหลดหรือดาวน์โหลดบันทึกการเดินทางของคุณ
+204,Menus_UI_Settings,701,2836,61758,This is the adventure log that was uploaded to PlayStation<MT> Network.,นี่คือบันทึกการเดินทางที่ถูกอัปโหลดขึ้นสู่ระบบเครือข่าย
+204,Menus_UI_Settings,702,2840,61829,Unable to upload. This save data belongs to another player.,ไม่สามารถอัปโหลดได้ ข้อมูลเซฟนี้เป็นของผู้เล่นคนอื่น
+204,Menus_UI_Settings,703,2844,61889,Unable to download. This save data belongs to another player.,ไม่สามารถดาวน์โหลดได้ ข้อมูลเซฟนี้เป็นของผู้เล่นคนอื่น
+204,Menus_UI_Settings,704,2848,61951,Which adventure log do you want to upload to PlayStation<MT> Network<FH>,ต้องการอัปโหลดบันทึกการเดินทางใดขึ้นสู่ระบบเครือข่าย<FH>
+204,Menus_UI_Settings,705,2852,62022,Are you sure you want to upload this adventure log to PlayStation<MT> Network<FH>,แน่ใจหรือไม่ว่าต้องการอัปโหลดบันทึกการเดินทางนี้ขึ้นสู่ระบบเครือข่าย<FH>
+204,Menus_UI_Settings,706,2856,62102,Are you sure you want to overwrite the adventure log on  PlayStation<MT> Network with this one<FH>,แน่ใจหรือไม่ว่าต้องการเขียนทับบันทึกการเดินทางบนระบบเครือข่ายด้วยไฟล์นี้<FH>
+204,Menus_UI_Settings,707,2860,62199,Uploading adventure log to PlayStation<MT> Network...,กำลังอัปโหลดบันทึกการเดินทางขึ้นสู่ระบบเครือข่าย...
+204,Menus_UI_Settings,708,2864,62252,Upload complete.,อัปโหลดเสร็จสมบูรณ์
+204,Menus_UI_Settings,709,2868,62269,Downloading adventure log from PlayStation<MT> Network...,กำลังดาวน์โหลดบันทึกการเดินทางจากระบบเครือข่าย...
+204,Menus_UI_Settings,710,2872,62326,Failed to upload adventure log. Please wait a while and try again.,อัปโหลดบันทึกการเดินทางล้มเหลว โปรดรอสักครู่แล้วลองใหม่อีกครั้ง
+204,Menus_UI_Settings,711,2876,62393,Failed to download adventure log. Please wait a while and try again.,ดาวน์โหลดบันทึกการเดินทางล้มเหลว โปรดรอสักครู่แล้วลองใหม่อีกครั้ง
+204,Menus_UI_Settings,712,2880,62462,The data you are downloading is corrupted. Cancelling download. Please upload an uncorrupted adventure log.,ข้อมูลที่คุณกำลังดาวน์โหลดเสียหาย ยกเลิกการดาวน์โหลด โปรดอัปโหลดบันทึกการเดินทางที่ไม่เสียหายขึ้นไปใหม่
+204,Menus_UI_Settings,713,2884,62570,Could not find any data uploaded to PlayStation<MT> Network.,ไม่พบข้อมูลใด ๆ ที่อัปโหลดไว้บนระบบเครือข่าย
+204,Menus_UI_Settings,714,2888,62630,There is a restriction on how many times you can access data uploaded to PlayStation<MT> Network over a short period of time.,มีการจำกัดจำนวนครั้งในการเข้าถึงข้อมูลบนระบบเครือข่ายในช่วงเวลาสั้น ๆ
+204,Menus_UI_Settings,715,2892,62755,Please wait a while and try again.,โปรดรอสักครู่แล้วลองใหม่อีกครั้ง
+204,Menus_UI_Settings,716,2896,62790,Into which slot would you like to download the adventure log from PlayStation<MT> Network<FH>,ต้องการดาวน์โหลดบันทึกการเดินทางจากระบบเครือข่ายลงในช่องใด<FH>
+204,Menus_UI_Settings,717,2900,62882,Are you sure you want to download the adventure log from PlayStation<MT> Network to this slot<FH>,แน่ใจหรือไม่ว่าต้องการดาวน์โหลดบันทึกการเดินทางจากระบบเครือข่ายลงในช่องนี้<FH>
+204,Menus_UI_Settings,718,2904,62978,Are you sure you want to overwrite this adventure log with the one from PlayStation<MT> Network<FH>,แน่ใจหรือไม่ว่าต้องการเขียนทับบันทึกการเดินทางนี้ด้วยข้อมูลจากระบบเครือข่าย<FH>
+204,Menus_UI_Settings,719,2908,63076,Download complete.,ดาวน์โหลดเสร็จสมบูรณ์
+204,Menus_UI_Settings,720,2912,63095,But you've already claimed this reward<FG>,แต่คุณได้รับรางวัลนี้ไปแล้วนะ<FG>
+204,Menus_UI_Settings,721,2916,63137,"Unable to download the adventure log, as the application is out of date. Please update to the latest version.",ไม่สามารถดาวน์โหลดบันทึกการเดินทางได้ เนื่องจากเวอร์ชันของเกมล้าสมัย โปรดอัปเดตเป็นเวอร์ชันล่าสุด
+204,Menus_UI_Settings,722,2920,63247,Skip event scene<FH>,ข้ามฉากคัตซีนหรือไม่<FH>
+204,Menus_UI_Settings,723,2924,63267,You picked up <I8>50 medal<FG>,คุณเก็บเหรียญ <I8>50 ได้แล้ว<FG>
+204,Menus_UI_Settings,724,2928,63296,Who would you like to help with the story<FH>,ต้องการช่วยใครดำเนินเนื้อเรื่องดีคะ<FH>
+204,Menus_UI_Settings,725,2932,63341,Use a Victory's Secret to make this battle a bit easier and attempt it again<FH>\n(Remaining Victory's Secrets<FI> <GR>1),ต้องการใช้คัมภีร์ลับสู่ชัยชนะ (Victory's Secret) เพื่อให้การต่อสู้ง่ายขึ้นและลองสู้อีกครั้งหรือไม่<FH>\n(คัมภีร์ที่เหลืออยู่<FI> <GR>1)
+204,Menus_UI_Settings,726,2936,63459,Would you like to make this battle even easier and attempt it again<FH>\n(This won't use up any more Victory's Secrets.),ต้องการทำให้การต่อสู้นี้ง่ายขึ้นไปอีกและลองสู้อีกครั้งหรือไม่<FH>\n(จะไม่เสียคัมภีร์ลับสู่ชัยชนะเพิ่ม)
+204,Menus_UI_Settings,727,2940,63578,Do you want to start this battle again without making it any easier<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งโดยไม่ปรับให้ง่ายขึ้นหรือไม่<FH>
+204,Menus_UI_Settings,728,2944,63649,"Oh, you want to check the recruitment criteria<FH> Remember, if you're the one looking for people, you can change the criteria as well.",อ๋อ ต้องการตรวจสอบเงื่อนไขการรับสมัครใช่ไหมคะ<FH> จำไว้นะคะว่าหากคุณเป็นคนค้นหาผู้เล่น คุณสามารถเปลี่ยนเงื่อนไขได้เช่นกันค่ะ
 204,Menus_UI_Settings,729,2948,63784,UNUSED,
-204,Menus_UI_Settings,730,2952,63791,"Alright, I've made the changes you asked for. Just let me know if you'd like to change anything else<FG>",
-204,Menus_UI_Settings,731,2956,63895,I'm ever so sorry<MV>I wasn't able to make the changes you wanted. Would you mind trying again in a little while<FH>,
-204,Menus_UI_Settings,732,2960,64010,Setting a secret number lets you make sure only other people who know that number can join you.,
-204,Menus_UI_Settings,733,2964,64106,"If you don't set a secret number, any player will be able to answer any calls to arms you send out.",
-204,Menus_UI_Settings,734,2968,64206,Sending out a call to arms with the secret number <GR>1...,
-204,Menus_UI_Settings,735,2972,64264,Sending out a call to arms with no secret number...,
-204,Menus_UI_Settings,736,2976,64316,Please enter a secret number.\n<P0><FI> Send out a call to arms without setting a secret number,
-204,Menus_UI_Settings,737,2980,64409,"Don't forget to choose your character, vocation and spells and abilities before setting off for a dimensional dungeon<FG>",
-204,Menus_UI_Settings,738,2984,64530,Competitive multiplayer games played via the Quester's Rest won't earn you any points. You need to go via the Traveller's Tome for that.,
-204,Menus_UI_Settings,739,2988,64667,"Alright, duckie, tell me which accessory you'd like to sell.",
-204,Menus_UI_Settings,740,2992,64728,And what do you want to get rid of<FH>,
-204,Menus_UI_Settings,741,2996,64766,"<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01<FH> I'll take <E5>R1<EH>E1them<EI>01it<EJ>01<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Sound alright, love<FH>",
-204,Menus_UI_Settings,742,3000,64932,"Thanks, duckie<FG> Always a pleasure.",
-204,Menus_UI_Settings,743,3004,64969,"Are you sure, love<FH> That'll mean selling accessories people are using...",
-204,Menus_UI_Settings,744,3008,65044,"Are you sure, duckie<FH> That'll mean selling accessories you're using for other vocations...",
-204,Menus_UI_Settings,745,3012,65137,"Ever so sorry, duckie, but I don't trade in those.",
-204,Menus_UI_Settings,746,3016,65188,Hang on<MV>you haven't chosen anything yet<FG>,
-204,Menus_UI_Settings,747,3020,65233,"Are you sure, duckie<FH> That'll mean grinding down accessories people are using...",
-204,Menus_UI_Settings,748,3024,65316,"Grinding <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 down will get you <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02. Does that sound good to you, duckie<FH>",
-204,Menus_UI_Settings,749,3028,65445,"Are you sure, duckie<FH> That'll mean grinding down accessories you're using for other vocations...",
+204,Menus_UI_Settings,730,2952,63791,"Alright, I've made the changes you asked for. Just let me know if you'd like to change anything else<FG>",เรียบร้อยค่ะ ฉันทำการเปลี่ยนแปลงตามที่คุณขอให้แล้ว หากต้องการเปลี่ยนสิ่งใดอีกบอกได้เสมอนะคะ<FG>
+204,Menus_UI_Settings,731,2956,63895,I'm ever so sorry<MV>I wasn't able to make the changes you wanted. Would you mind trying again in a little while<FH>,ต้องขออภัยจริง ๆ ค่ะ<MV>ไม่สามารถทำการเปลี่ยนแปลงตามที่คุณต้องการได้ ช่วยลองใหม่อีกครั้งในอีกสักครู่ได้ไหมคะ<FH>
+204,Menus_UI_Settings,732,2960,64010,Setting a secret number lets you make sure only other people who know that number can join you.,การตั้งหมายเลขลับจะช่วยให้มั่นใจได้ว่ามีเพียงคนที่รู้หมายเลขนี้เท่านั้นที่จะเข้าร่วมกับคุณได้ค่ะ
+204,Menus_UI_Settings,733,2964,64106,"If you don't set a secret number, any player will be able to answer any calls to arms you send out.",หากคุณไม่ได้ตั้งหมายเลขลับ ผู้เล่นทุกคนจะสามารถตอบรับการระดมพลที่คุณส่งออกไปได้ค่ะ
+204,Menus_UI_Settings,734,2968,64206,Sending out a call to arms with the secret number <GR>1...,กำลังส่งสัญญาณระดมพลด้วยหมายเลขลับ <GR>1...
+204,Menus_UI_Settings,735,2972,64264,Sending out a call to arms with no secret number...,กำลังส่งสัญญาณระดมพลโดยไม่ใช้หมายเลขลับ...
+204,Menus_UI_Settings,736,2976,64316,Please enter a secret number.\n<P0><FI> Send out a call to arms without setting a secret number,โปรดป้อนหมายเลขลับ\n<P0><FI> ส่งสัญญาณระดมพลโดยไม่ตั้งหมายเลขลับ
+204,Menus_UI_Settings,737,2980,64409,"Don't forget to choose your character, vocation and spells and abilities before setting off for a dimensional dungeon<FG>","อย่าลืมเลือกตัวละคร, อาชีพ และคาถารวมถึงท่าไม้ตายก่อนออกเดินทางสู่ดันเจี้ยนมิตินะคะ<FG>"
+204,Menus_UI_Settings,738,2984,64530,Competitive multiplayer games played via the Quester's Rest won't earn you any points. You need to go via the Traveller's Tome for that.,การเล่นในโหมดแข่งขันผ่านเควสเตอร์ส เรสต์จะไม่ได้รับคะแนนสะสมนะคะ คุณต้องเข้าผ่านบันทึกนักเดินทางสำหรับโหมดนั้นค่ะ
+204,Menus_UI_Settings,739,2988,64667,"Alright, duckie, tell me which accessory you'd like to sell.",เอาล่ะคนดี บอกยายสิจ๊ะว่าอยากขายเครื่องประดับชิ้นไหน
+204,Menus_UI_Settings,740,2992,64728,And what do you want to get rid of<FH>,แล้วอยากจะกำจัดชิ้นไหนออกไปล่ะจ๊ะ<FH>
+204,Menus_UI_Settings,741,2996,64766,"<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01<FH> I'll take <E5>R1<EH>E1them<EI>01it<EJ>01<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Sound alright, love<FH>",<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01 งั้นเหรอจ๊ะ<FH> ยายรับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ฟังดูเข้าทีไหมจ๊ะพ่อคุณ<FH>
+204,Menus_UI_Settings,742,3000,64932,"Thanks, duckie<FG> Always a pleasure.",ขอบใจนะจ๊ะคนดี<FG> ยินดีเสมอจ้ะ
+204,Menus_UI_Settings,743,3004,64969,"Are you sure, love<FH> That'll mean selling accessories people are using...",แน่ใจเหรอจ๊ะพ่อคุณ<FH> นั่นหมายถึงการขายเครื่องประดับที่คนอื่นกำลังสวมอยู่เลยนะ...
+204,Menus_UI_Settings,744,3008,65044,"Are you sure, duckie<FH> That'll mean selling accessories you're using for other vocations...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการขายเครื่องประดับที่เธอใช้กับอาชีพอื่นอยู่นะ...
+204,Menus_UI_Settings,745,3012,65137,"Ever so sorry, duckie, but I don't trade in those.",ขอโทษจริง ๆ นะจ๊ะคนดี แต่ยายไม่รับแลกเปลี่ยนของพวกนั้นจ้ะ
+204,Menus_UI_Settings,746,3016,65188,Hang on<MV>you haven't chosen anything yet<FG>,เดี๋ยวก่อนสิจ๊ะ<MV>เธอยังไม่ได้เลือกอะไรเลยนะ<FG>
+204,Menus_UI_Settings,747,3020,65233,"Are you sure, duckie<FH> That'll mean grinding down accessories people are using...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่คนอื่นกำลังสวมอยู่นะ...
+204,Menus_UI_Settings,748,3024,65316,"Grinding <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 down will get you <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02. Does that sound good to you, duckie<FH>",การบดสลาย <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 จะได้ <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02 ฟังดูดีไหมจ๊ะคนดี<FH>
+204,Menus_UI_Settings,749,3028,65445,"Are you sure, duckie<FH> That'll mean grinding down accessories you're using for other vocations...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่เธอใช้กับอาชีพอื่นอยู่นะ...
 204,Menus_UI_Settings,750,3032,65544,UNUSED,
 204,Menus_UI_Settings,751,3036,65551,UNUSED,
-204,Menus_UI_Settings,752,3040,65558,Attempt this battle again with your current party<FH>,
-204,Menus_UI_Settings,753,3044,65611,Please wait until all party members have responded.,
-204,Menus_UI_Settings,754,3048,65663,Everyone's ready. Setting off again...,
-204,Menus_UI_Settings,755,3052,65702,You declined the interdimensional adventure.,
-204,Menus_UI_Settings,756,3056,65747,"Someone has dropped out, so unfortunately you won't be able to try this one again.",
+204,Menus_UI_Settings,752,3040,65558,Attempt this battle again with your current party<FH>,ต้องการลองสู้ในการศึกนี้ใหม่อีกครั้งพร้อมกับปาร์ตี้ปัจจุบันหรือไม่<FH>
+204,Menus_UI_Settings,753,3044,65611,Please wait until all party members have responded.,โปรดรอจนกว่าสมาชิกปาร์ตี้ทุกคนจะตอบกลับ
+204,Menus_UI_Settings,754,3048,65663,Everyone's ready. Setting off again...,ทุกคนพร้อมแล้ว กำลังออกเดินทางอีกครั้ง...
+204,Menus_UI_Settings,755,3052,65702,You declined the interdimensional adventure.,คุณปฏิเสธการผจญภัยข้ามมิติแล้ว
+204,Menus_UI_Settings,756,3056,65747,"Someone has dropped out, so unfortunately you won't be able to try this one again.",มีสมาชิกคนหนึ่งถอนตัวออกไป น่าเสียดายที่คุณจะไม่สามารถลองสู้อีกครั้งได้ค่ะ
 204,Menus_UI_Settings,757,3060,65830,UNUSED,
-204,Menus_UI_Settings,758,3064,65837,You cannot access competitive mode alone.,
-204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",
-204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",
-204,Menus_UI_Settings,761,3076,66069,"Ever so sorry, but I can't let you use that map until you've reached at least Level %d...",
-204,Menus_UI_Settings,762,3080,66159,"When you reach Rank 10, you'll be able to play competitive multiplayer at your real level<FG>",
-204,Menus_UI_Settings,763,3084,66252,You can play at your real level in competitive multiplayer after reaching Rank 10.,
-204,Menus_UI_Settings,764,3088,66335,Start spreadin' da news<FG> <F4><I1>E1 available now<FG> See your friendly neighbourhood platypunk for details<FG>,
-204,Menus_UI_Settings,765,3092,66445,Guaranteed different effects every time<FG> Unlimited stocks available<FG> Try one today<FG>,
-204,Menus_UI_Settings,766,3096,66535,You received a daily bonus of <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,
+204,Menus_UI_Settings,758,3064,65837,You cannot access competitive mode alone.,คุณไม่สามารถเข้าสู่โหมดแข่งขันเพียงลำพังได้
+204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่น หรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
+204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่น หรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
+204,Menus_UI_Settings,761,3076,66069,"Ever so sorry, but I can't let you use that map until you've reached at least Level %d...",ต้องขออภัยจริง ๆ นะคะ แต่ฉันให้คุณใช้แผนที่นั้นไม่ได้จนกว่าคุณจะมีเลเวลอย่างน้อยเลเวล %d ค่ะ...
+204,Menus_UI_Settings,762,3080,66159,"When you reach Rank 10, you'll be able to play competitive multiplayer at your real level<FG>",เมื่อคุณไปถึงแรงก์ 10 คุณจะสามารถเล่นโหมดแข่งขันด้วยเลเวลจริงของคุณได้ค่ะ<FG>
+204,Menus_UI_Settings,763,3084,66252,You can play at your real level in competitive multiplayer after reaching Rank 10.,คุณสามารถเล่นด้วยเลเวลจริงในโหมดแข่งขันได้หลังจากไปถึงแรงก์ 10 แล้ว
+204,Menus_UI_Settings,764,3088,66335,Start spreadin' da news<FG> <F4><I1>E1 available now<FG> See your friendly neighbourhood platypunk for details<FG>,เริ่มกระจายข่าวได้เลย<FG> <F4><I1>E1 พร้อมให้บริการแล้ว<FG> ดูรายละเอียดเพิ่มเติมได้ที่แพลตตีพังก์แถวบ้านคุณ<FG>
+204,Menus_UI_Settings,765,3092,66445,Guaranteed different effects every time<FG> Unlimited stocks available<FG> Try one today<FG>,รับประกันผลลัพธ์ที่แตกต่างกันทุกครั้ง<FG> มีของไม่อั้น<FG> ลองสักครั้งวันนี้เลย<FG>
+204,Menus_UI_Settings,766,3096,66535,You received a daily bonus of <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,คุณได้รับโบนัสประจำวันเป็นมินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
 204,Menus_UI_Settings,767,3100,66610,,
 204,Menus_UI_Settings,768,3104,66611,,
 204,Menus_UI_Settings,769,3108,66612,,
