@@ -8,7 +8,7 @@
 239,Mission_Objectives,6,56,1165,Defeat the monster in the desert oasis and recover the client list<FG>,ปราบมอนสเตอร์ที่โอเอซิสในทะเลทรายและชิงสมุดรายชื่อลูกค้ากลับคืนมา<FG>
 239,Mission_Objectives,7,60,1235,Give the client list to the travelling trader and obtain the writ of passage<FG>,ส่งมอบสมุดรายชื่อลูกค้าให้พ่อค้าเร่และรับใบเบิกทางมา<FG>
 239,Mission_Objectives,8,64,1315,Head back to Dunisia<FG>,เดินทางกลับสู่แจวาล<FG>
-239,Mission_Objectives,9,68,1339,Annihilate the knight aberrant<FG>,กำจัดอัศวินนอกรีต (Knight Aberrant)<FG>
+239,Mission_Objectives,9,68,1339,Annihilate the knight aberrant<FG>,กำจัดอัศวินนอกรีต<FG>
 239,Mission_Objectives,10,72,1373,Spar with your cousin and brush up on the basics of battle<FG>,ประลองฝีมือกับลูกพี่ลูกน้องเพื่อทบทวนพื้นฐานการต่อสู้<FG>
 239,Mission_Objectives,11,76,1435,Protect the people of Harba<FG>,ปกป้องประชาชนแห่งฮาร์บา<FG>
 239,Mission_Objectives,12,80,1466,Onward to Accordia<FG>,มุ่งหน้าสู่ออร์คาเนีย<FG>
@@ -33,7 +33,7 @@
 239,Mission_Objectives,31,156,2298,Head across the Lumberlands and onward to Ingenia<FG>,เดินทางข้ามพงไพรลัมเบอร์แลนด์เพื่อมุ่งหน้าสู่อินจีเนีย<FG>
 239,Mission_Objectives,32,160,2351,Head into the Lumberlands through the eastern gate and onward to Ingenia<FG>,เข้าสู่พงไพรลัมเบอร์แลนด์ผ่านประตูด้านตะวันออกและมุ่งหน้าสู่อินจีเนีย<FG>
 239,Mission_Objectives,33,164,2427,Head toward the graveyard and find a way into the Wildwood<FG>,มุ่งหน้าไปยังสุสานและหาทางเข้าสู่ป่าดงพงไพร<FG>
-239,Mission_Objectives,34,168,2489,Find the float-o-copier in Harba<FG>,ตามหาภูตจำแลง (Float-o-copier) ในฮาร์บา<FG>
+239,Mission_Objectives,34,168,2489,Find the float-o-copier in Harba<FG>,ตามหาภูตจำแลงในฮาร์บา<FG>
 239,Mission_Objectives,35,172,2525,Head back to the entrance of the Wildwood and talk to the bridgekeepers<FG>,กลับไปที่ทางเข้าป่าดงพงไพรและคุยกับผู้เฝ้าสะพาน<FG>
 239,Mission_Objectives,36,176,2600,Head through the Wildwood and find a way into Ingenia<FG>,เดินทางผ่านป่าดงพงไพรและหาทางเข้าไปยังอินจีเนีย<FG>
 239,Mission_Objectives,37,180,2657,Keep the soldiers safe from harm<FG>,ปกป้องเหล่าทหารให้ปลอดภัย<FG>
@@ -55,9 +55,9 @@
 239,Mission_Objectives,53,244,3427,Speak with Desdemona when you're ready to get the party started<FG>,คุยกับเดสเดโมน่าเมื่อพร้อมที่จะเริ่มงานเลี้ยง<FG>
 239,Mission_Objectives,54,248,3494,Speak with your friends<FG>,คุยกับเพื่อน ๆ ของคุณ<FG>
 239,Mission_Objectives,55,252,3521,Speak with your friends and allies<FG>,คุยกับเพื่อน ๆ และเหล่าพันธมิตรของคุณ<FG>
-239,Mission_Objectives,56,256,3559,Search for the Heart of Brightness<FG>,ค้นหาหัวใจแห่งความสว่างไสว (Heart of Brightness)<FG>
+239,Mission_Objectives,56,256,3559,Search for the Heart of Brightness<FG>,ค้นหาหัวใจแห่งความสว่างไสว<FG>
 239,Mission_Objectives,57,260,3597,Get to the Grand Dunes and search for the Heart of Brightness<FG>,ไปยังทะเลทรายแกรนด์ดูนส์และค้นหาหัวใจแห่งความสว่างไสว<FG>
-239,Mission_Objectives,58,264,3662,Find a way inside the Tomb of the Sun<FG>,หาทางเข้าไปในสุสานแห่งสุริยัน (Tomb of the Sun)<FG>
+239,Mission_Objectives,58,264,3662,Find a way inside the Tomb of the Sun<FG>,หาทางเข้าไปในสุสานแห่งสุริยัน<FG>
 239,Mission_Objectives,59,268,3703,Take back Accordia<FG>,กอบกู้ออร์คาเนียกลับคืนมา<FG>
 239,Mission_Objectives,60,272,3725,Head back to the ad hoc encampment and get ready to take back Accordia<FG>,กลับไปยังค่ายพักชั่วคราวและเตรียมพร้อมกอบกู้ออร์คาเนีย<FG>
 239,Mission_Objectives,61,276,3799,Rendezvous with the soldiers and help them to take back Accordia<FG>,รวมพลกับเหล่าทหารและช่วยพวกเขากอบกู้ออร์คาเนียกลับคืนมา<FG>
@@ -68,8 +68,8 @@
 239,Mission_Objectives,66,296,4070,Head back to the Pinnacle of Peace<FG>,มุ่งหน้ากลับสู่ยอดเขาสันติภาพ<FG>
 239,Mission_Objectives,67,300,4108,Hurry back to the Pinnacle of Peace and break down the barrier<FG>,รีบกลับไปยังยอดเขาสันติภาพและทำลายม่านบาเรียลงให้ได้<FG>
 239,Mission_Objectives,68,304,4174,Defeat the Dunisian forces attacking Harba<FG>,ปราบกองทัพแจวาลที่กำลังเข้าโจมตีฮาร์บา<FG>
-239,Mission_Objectives,69,308,4220,Find Fractos<FG>,ตามหาแฟรคทอส (Fractos)<FG>
-239,Mission_Objectives,70,312,4236,Speak with everyone and work out a way to get up to the Black Manse<FG>,พูดคุยกับทุกคนและหาหนทางขึ้นไปยังคฤหาสน์ทมิฬ (The Black Manse)<FG>
+239,Mission_Objectives,69,308,4220,Find Fractos<FG>,ตามหาแฟรคทอส<FG>
+239,Mission_Objectives,70,312,4236,Speak with everyone and work out a way to get up to the Black Manse<FG>,พูดคุยกับทุกคนและหาหนทางขึ้นไปยังคฤหาสน์ทมิฬ<FG>
 239,Mission_Objectives,71,316,4307,Head to Ingenia to see what the Queen has to tell you<FG>,มุ่งหน้าสู่อินจีเนียเพื่อดูว่าองค์ราชินีมีสิ่งใดจะบอกคุณ<FG>
 239,Mission_Objectives,72,320,4364,Find the secret entrance to the other world in the Tomb of the Sun<FG>,ค้นหาทางเข้าลับสู่อีกโลกหนึ่งในสุสานแห่งสุริยัน<FG>
 239,Mission_Objectives,73,324,4434,Find the teleportal that will transport you to the Black Manse<FG>,ค้นหาประตูเทเลพอร์ทัลที่จะนำพาคุณไปยังคฤหาสน์ทมิฬ<FG>
@@ -105,7 +105,7 @@
 239,Mission_Objectives,103,444,5655,Clobber the King of Al-Khazam<FG>,ทุบตีราชาแห่งอัล-คาซัมให้หมอบราบคาบ<FG>
 239,Mission_Objectives,104,448,5688,Escape from Accordia<FG>,หลบหนีออกจากออร์คาเนีย<FG>
 239,Mission_Objectives,105,452,5712,Mangle the monsters and reclaim Accordia<FG>,บดขยี้พวกมอนสเตอร์และทวงคืนออร์คาเนียกลับมา<FG>
-239,Mission_Objectives,106,456,5756,Lay into the missing lynx<FG>,จัดการมิสซิ่งลิงซ์ (Missing Lynx)<FG>
+239,Mission_Objectives,106,456,5756,Lay into the missing lynx<FG>,จัดการมิสซิ่งลิงซ์<FG>
 239,Mission_Objectives,107,460,5785,Take down the tombinators<FG>,โค่นล้มทอมบิเนเตอร์ลงให้ได้<FG>
 239,Mission_Objectives,108,464,5814,Locate the lever in the guard tower and open the gates to the Pinnacle of Peace<FG>,ค้นหาคันโยกในหอคอยทหารยามและเปิดประตูสู่ยอดเขาสันติภาพ<FG>
 239,Mission_Objectives,109,468,5897,Fight the float-o-copiers<FG>,ต่อสู้กับพวกภูตจำแลง<FG>
@@ -113,9 +113,9 @@
 239,Mission_Objectives,111,476,5971,Assault the enemy while keeping the Queen of Ingenia safe from harm<FG>,โจมตีศัตรูพร้อมกับปกป้ององค์ราชินีแห่งอินจีเนียให้ปลอดภัย<FG>
 239,Mission_Objectives,112,480,6042,Keep Healix safe from harm<FG>,ปกป้องโฮมิรอนให้ปลอดภัยจากภยันตราย<FG>
 239,Mission_Objectives,113,484,6072,Conquer the Kings of Accordia<FG>,พิชิตเหล่าราชาแห่งออร์คาเนีย<FG>
-239,Mission_Objectives,114,488,6105,"Fight now, ask questions later<FG>",สู้ตอนนี้ แล้วค่อยถามทีหลัง<FG>
+239,Mission_Objectives,114,488,6105,"Fight now, ask questions later<FG>",สู้ตอนนี้แล้วค่อยถามทีหลัง<FG>
 239,Mission_Objectives,115,492,6139,Press onward into the bowels of the Black Manse<FG>,รุกคืบต่อไปสู่ส่วนลึกของคฤหาสน์ทมิฬ<FG>
-239,Mission_Objectives,116,496,6190,Investigate the four great gates<FG>,ตรวจสอบประตูยักษ์ทั้งสี่บาน<FG>
+239,Mission_Objectives,116,496,6190,Investigate the four great gates<FG>,ตรวจสอบประตูยักษ์ทั้ง 4 บาน<FG>
 239,Mission_Objectives,117,500,6226,Lay into Lionidas<FG>,จัดการไลโอไนดัส<FG>
 239,Mission_Objectives,118,504,6247,Maul the master moosifer<FG>,ขย้ำมาสเตอร์มูซิเฟอร์<FG>
 239,Mission_Objectives,119,508,6275,Defeat Dhuran<FG>,ปราบดูรัน<FG>
@@ -139,7 +139,7 @@
 239,Mission_Objectives,137,580,7018,Fight back the Klorish army while protecting the Queen of Ingenia<FG>,ต่อสู้ขับไล่กองทัพคลอร์พร้อมกับปกป้ององค์ราชินีแห่งอินจีเนีย<FG>
 239,Mission_Objectives,138,584,7087,Keep the monsters occupied while the other monarchs escape from Accordia<FG>,ถ่วงเวลามอนสเตอร์ไว้ในระหว่างที่กษัตริย์องค์อื่นหลบหนีออกจากออร์คาเนีย<FG>
 239,Mission_Objectives,139,588,7163,Quick<FG> To the northern quarter<FG>,เร็วเข้า<FG> มุ่งหน้าสู่ย่านทางเหนือ<FG>
-239,Mission_Objectives,140,592,7199,Head to the Beastlands<FG>,มุ่งหน้าสู่แดนสัตว์อสูร (The Beastlands)<FG>
+239,Mission_Objectives,140,592,7199,Head to the Beastlands<FG>,มุ่งหน้าสู่แดนสัตว์อสูร<FG>
 239,Mission_Objectives,141,596,7225,Head to the Pinnacle of Peace for an audience with the High King<FG>,มุ่งหน้าสู่ยอดเขาสันติภาพเพื่อเข้าเฝ้าราชาธิบดี<FG>
 239,Mission_Objectives,142,600,7293,Free yourselves from the dungeon<FG>,ปลดปล่อยพวกตัวเองออกจากคุกใต้ดิน<FG>
 239,Mission_Objectives,143,604,7329,Track down the King of Al-Khazam<FG>,แกะรอยตามหาราชาแห่งอัล-คาซัม<FG>

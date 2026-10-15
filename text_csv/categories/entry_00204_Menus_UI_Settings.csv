@@ -5,7 +5,7 @@
 204,Menus_UI_Settings,3,44,7872,Please choose a hero.,โปรดเลือกผู้กล้า
 204,Menus_UI_Settings,4,48,7894,"Next, enter a name for the hero's cousin, who will join you on your adventure.",ต่อไป โปรดตั้งชื่อให้ลูกพี่ลูกน้องของผู้กล้า ที่จะร่วมเดินทางไปกับคุณ
 204,Menus_UI_Settings,5,52,7973,The name you have entered contains text that cannot be used. Please use a different name.,ชื่อที่คุณป้อนมีตัวอักษรที่ไม่สามารถใช้งานได้ โปรดใช้ชื่ออื่น
-204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,คุณพร้อมที่จะสร้างบันทึกการเดินทางสำหรับผู้กล้าทั้งสองคนแล้วหรือไม่<FH>
+204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,คุณพร้อมที่จะสร้างบันทึกการเดินทางสำหรับผู้กล้าทั้ง2 คนแล้วหรือไม่<FH>
 204,Menus_UI_Settings,7,60,8140,"Last of all, choose your control method and camera settings. Both of these can be changed during the game at any time.",สุดท้ายนี้ โปรดเลือกรูปแบบการควบคุมและการตั้งค่ามุมกล้อง ซึ่งสามารถเปลี่ยนได้ตลอดเวลาในระหว่างการเล่นเกม
 204,Menus_UI_Settings,8,64,8259,Enabling online features can provide you with all kinds of exciting online content. Would you like to enable online features now<FH>,การเปิดใช้งานฟีเจอร์ออนไลน์จะช่วยให้คุณเพลิดเพลินกับเนื้อหาออนไลน์ที่น่าตื่นเต้นมากมาย ต้องการเปิดใช้งานฟีเจอร์ออนไลน์ตอนนี้หรือไม่<FH>
 204,Menus_UI_Settings,9,68,8391,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,เกมนี้มีระบบบันทึกอัตโนมัติ ห้ามปิดเครื่องในขณะที่กำลังบันทึกข้อมูล ระบบบันทึกอัตโนมัติจะใช้ช่องบันทึก 1 ช่อง
@@ -14,7 +14,7 @@
 204,Menus_UI_Settings,12,80,8570,Please select an adventure log.,โปรดเลือกบันทึกการเดินทาง
 204,Menus_UI_Settings,13,84,8602,"This will start the story anew with data including character levels, experience, gold coins and equipment carried over.","สิ่งนี้จะเริ่มเรื่องราวใหม่ทั้งหมด โดยโอนย้ายข้อมูลเลเวลตัวละคร, ค่าประสบการณ์, เหรียญทอง และอุปกรณ์สวมใส่ไปด้วย"
 204,Menus_UI_Settings,14,88,8722,"As an added bonus, each party member will also receive <GR>1 <E5>R1skill point<E6>01skill points<E7>01.",และโบนัสพิเศษ สมาชิกปาร์ตี้แต่ละคนจะได้รับแต้มสกิล <GR>1 แต้ม
-204,Menus_UI_Settings,15,92,8822,Delete this adventure log and create a Flying Start adventure log in its place<FH>,ต้องการลบบันทึกการเดินทางนี้และสร้างบันทึกแบบก้าวกระโดด (Flying Start) ทับหรือไม่<FH>
+204,Menus_UI_Settings,15,92,8822,Delete this adventure log and create a Flying Start adventure log in its place<FH>,ต้องการลบบันทึกการเดินทางนี้และสร้างบันทึกแบบก้าวกระโดด ทับหรือไม่<FH>
 204,Menus_UI_Settings,16,96,8904,Which adventure log do you want to delete<FH>,ต้องการลบบันทึกการเดินทางใด<FH>
 204,Menus_UI_Settings,17,100,8949,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d<FH>,แน่ใจหรือไม่ว่าต้องการลบ\n<GR>1<FI> <F4><I0>41 (<I0>61) Lv. %#2d<FH>
 204,Menus_UI_Settings,18,104,9018,Are you sure you want to delete\n<GR>1<FI> <F4><I0>41 Lv. %#2d<FH>,แน่ใจหรือไม่ว่าต้องการลบ\n<GR>1<FI> <F4><I0>41 Lv. %#2d<FH>
@@ -27,7 +27,7 @@
 204,Menus_UI_Settings,25,132,9427,You have no pending bonuses.,คุณไม่มีโบนัสที่รอรับ
 204,Menus_UI_Settings,26,136,9456,Failed to retrieve bonuses.,ไม่สามารถรับโบนัสได้
 204,Menus_UI_Settings,27,140,9484,"Welcome, child, to this sanctuary of the Goddess. It is our duty and our pleasure to provide succour to all those of Her flock.",ยินดีต้อนรับ บุตรแห่งเทพธิดา สู่สถานศักดิ์สิทธิ์แห่งนี้ หน้าที่และความปีติของเราคือการมอบความช่วยเหลือแก่เหล่าผู้อยู่ใต้ร่มเงาของพระองค์
-204,Menus_UI_Settings,28,144,9612,"Here, you may confess your deeds before Our Holy Mother, that they may be recorded in an adventure log for posterity.",ณ ที่แห่งนี้ เจ้าสามารถสารภาพการกระทำของเจ้าต่อหน้าพระมารดาผู้ศักดิ์สิทธิ์ เพื่อให้ได้รับการบันทึกลงในบันทึกการเดินทางสืบไป
+204,Menus_UI_Settings,28,144,9612,"Here, you may confess your deeds before Our Holy Mother, that they may be recorded in an adventure log for posterity.",ณ ที่แห่งนี้ เจ้าสามารถสารภาพการกระทำของเจ้าต่อหน้าพระมารดาผู้ศักดิ์สิทธิ์เพื่อให้ได้รับการบันทึกลงในบันทึกการเดินทางสืบไป
 204,Menus_UI_Settings,29,148,9730,"As this is your first visit, allow me to offer you this token of the Goddess's abiding love for Her children.",เนื่องจากนี่เป็นการมาเยือนครั้งแรกของเจ้า ขอมอบสิ่งนี้เป็นสัญลักษณ์แห่งความรักอันเปี่ยมล้นของเทพธิดาที่มีต่อบุตรของพระองค์
 204,Menus_UI_Settings,30,152,9840,<F4><I0>00 receives a healstone<FG>,<F4><I0>00 ได้รับหินฮีลสโตน<FG>
 204,Menus_UI_Settings,31,156,9873,"With this sacred stone, you may mend all manner of wounds. May it aid you on your journey, and remind you always of Her grace.",ด้วยหินศักดิ์สิทธิ์นี้ เจ้าจะสามารถรักษาบาดแผลได้ทุกรูปแบบ ขอให้สิ่งนี้ช่วยเจ้าในการเดินทาง และคอยเตือนใจถึงพระเมตตาของพระองค์เสมอ
@@ -72,7 +72,7 @@
 204,Menus_UI_Settings,70,312,12795,"Welcome to Patty's Place<FG> Well now, ain't this an honour<MV>a real live celebrity<FG> You make yourself comfy now, y'hear<FH>",ยินดีต้อนรับสู่บาร์ของแพตตี้จ้ะ<FG> แหม ช่างเป็นเกียรติจริง ๆ<MV>คนดังตัวจริงเสียงจริงมาเองเลย<FG> ทำตัวตามสบายได้เลยนะจ๊ะ<FH>
 204,Menus_UI_Settings,71,316,12920,"Sorry, sweetie, we're not open yet. Swing by later when I've finished getting things ready, y'hear<FH>",ขอโทษทีจ้ะคนดี ร้านยังไม่เปิดเลยจ้ะ ไว้แวะมาใหม่ตอนที่ฉันเตรียมของเสร็จแล้วนะจ๊ะ<FH>
 204,Menus_UI_Settings,72,320,13022,"Folks you leave behind will still earn experience, but not nearly so much as everybody else. Bear that in mind, okay, hun<FH>",คนที่เธอทิ้งไว้ที่นี่ก็ยังได้ค่าประสบการณ์นะจ๊ะ แต่จะได้ไม่มากเท่ากับคนที่ออกไปลุย จำตรงนี้ไว้ให้ดีนะจ๊ะคนดี<FH>
-204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",เลือกคนที่เธออยากพาไปด้วยได้เลยจ้ะ รวมทั้งจัดลำดับด้วยนะ และจำไว้ว่า<MV>ไม่จำเป็นต้องจัดทีมเต็มสี่คนเสมอไปหรอกนะจ๊ะ
+204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",เลือกคนที่เธออยากพาไปด้วยได้เลยจ้ะ รวมทั้งจัดลำดับด้วยนะ และจำไว้ว่า<MV>ไม่จำเป็นต้องจัดทีมเต็ม4 คนเสมอไปหรอกนะจ๊ะ
 204,Menus_UI_Settings,74,328,13274,"Thanks for dropping by, sweetie<FG> You come on back whenever you need some new faces on the team, y'hear<FH>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> แวะกลับมาได้เสมอเมื่อไหร่ก็ตามที่เธอต้องการเปลี่ยนหน้าสมาชิกในทีมนะจ๊ะ<FH>
 204,Menus_UI_Settings,75,332,13382,"Thanks for dropping by, sweetie<FG> Famous adventurers such as yourself are always welcome here<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> นักผจญภัยชื่อดังอย่างเธอ ยินดีต้อนรับเสมอจ้ะ<FG>
 204,Menus_UI_Settings,76,336,13480,"Thanks for dropping by, sweetie<FG> I can't tell you how good these celebrity visits are for business<FG> Tee hee<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> บอกไม่ถูกเลยว่าการที่คนดังแวะมาแบบนี้ มันช่วยให้ร้านขายดีแค่ไหน<FG> คิก ๆ<FG>
@@ -89,7 +89,7 @@
 204,Menus_UI_Settings,87,380,14471,"Scram, kiddo. Place ain't open yet, see<FH>",ไปไกล ๆ เลยเจ้าหนู ร้านยังไม่เปิด ไม่เห็นเรอะ<FH>
 204,Menus_UI_Settings,88,384,14514,"Say, kiddo<MV>you, uh...got any o' the good stuff<FH> Y'know...the old, uh...mini medals<FH>",นี่ เจ้าหนู<MV>เอ่อ...มีของดีติดตัวบ้างมั้ยล่ะ<FH> ก็นั่นไง...ของเก่า ๆ...มินิเมดัลน่ะ<FH>
 204,Menus_UI_Settings,89,388,14604,"Ahhh, c'mon<FG> Don't be a schmo<FG> You know what I mean<FG> Dem shiny, fancy little doodads ya find hidden in all kindsa dumb places.",อ้า โธ่เอ๊ย<FG> อย่ามาทำไขสือไปหน่อยเลย<FG> แกรู้ว่าฉันหมายถึงอะไร<FG> ไอ้เหรียญประกายแวววาวกระจิริดที่แอบซ่อนอยู่ตามซอกตามมุมพิลึก ๆ พวกนั้นไงล่ะ
-204,Menus_UI_Settings,90,392,14737,"Listen, I'll make it simple for ya<MV>you bring me da mini medals, and I'll make it worth your while, see<FH>",ฟังนะ ฉันจะพูดง่าย ๆ ให้แกเข้าใจ<MV>แกเอามินิเมดัลมาให้ฉัน แล้วฉันจะให้ของตอบแทนที่คุ้มค่าอย่างงาม เข้าใจมั้ยล่ะ<FH>
+204,Menus_UI_Settings,90,392,14737,"Listen, I'll make it simple for ya<MV>you bring me da mini medals, and I'll make it worth your while, see<FH>",ฟังนะ ฉันจะพูดง่าย ๆ ให้แกเข้าใจ<MV>แกเอามินิเมดัลมาให้ฉันแล้วฉันจะให้ของตอบแทนที่คุ้มค่าอย่างงาม เข้าใจมั้ยล่ะ<FH>
 204,Menus_UI_Settings,91,396,14845,"I got some real nice stuff just waitin' for a...business-minded individual wid a go-gettin' attitude, if ya catch my drift.",ฉันมีของดีชั้นยอดรออยู่สำหรับคน...ที่มีหัวการค้าและใจกล้าบ้าบิ่น ถ้าแกเก็ทที่ฉันพูดนะ
 204,Menus_UI_Settings,92,400,14969,"Why not take a look-see at the list o' what I got<MV>you ain't gonna be disappointed, I promise ya. Alright, let's get downta business<FG>",ลองมาดูรายการของที่ฉันมีหน่อยเป็นไง<MV>รับรองแกไม่ผิดหวังแน่ ฉันสัญญา เอาล่ะ มาเริ่มคุยธุรกิจกันดีกว่า<FG>
 204,Menus_UI_Settings,93,404,15106,"Welcome to Maxi Malone's, kiddo<FG> So<MV>you got any mini medals or what<FH>",ยินดีต้อนรับสู่ร้านของแม็กซี่ มาโลน เจ้าหนู<FG> ว่าไงล่ะ<MV>แกมีมินิเมดัลมามั่งมั้ยเนี่ย<FH>
@@ -99,13 +99,13 @@
 204,Menus_UI_Settings,97,420,15506,"Make up yer mind already, will ya, kid<FH>",ตัดสินใจได้ยังล่ะหืม เจ้าหนู<FH>
 204,Menus_UI_Settings,98,424,15548,See anythin' else here ya like<FH>,มีชิ้นไหนที่แกชอบอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,99,428,15582,"Hey, whatcha tryin' ta pull here<FH> You ain't got da mini medals fer dat<FG>",เฮ้ย แกจะเล่นตุกติกเรอะ<FH> มินิเมดัลแกไม่พอแลกของชิ้นนั้นโว้ย<FG>
-204,Menus_UI_Settings,100,432,15658,"<I8>M1<FH> Okay, dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01. You got the stuff<FH>",<I8>M1 งั้นเรอะ<FH> ได้เลย ต้องใช้มินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01
+204,Menus_UI_Settings,100,432,15658,"<I8>M1<FH> Okay, dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01. You got the stuff<FH>",<I8>M1 งั้นเรอะ<FH> ได้เลย ต้องใช้มินิเมดัล <E5>P11 เหรียญ<E6>01%d เหรียญ<E7>01
 204,Menus_UI_Settings,101,436,15745,"<F4><I8>M1<FH> Ya came to the right place, kid<MV>da only place, even<FG>",แน่ใจนะว่าอยากจะยอมจ่ายมันน่ะ<FH>
 204,Menus_UI_Settings,102,440,15814,"Alright, <E5>P1one mini medal<E6>01%d mini medals<E7>01, and dat's my final offer. Deal<FH>",นั่นมันมินิเมดัลตั้งเยอะเลยนะเจ้าหนู แน่ใจนะว่าอยากจะจ่ายจริง ๆ น่ะ<FH>
 204,Menus_UI_Settings,103,444,15902,"Hey goofball, how am I supposed ta give you anythin' when yer bag's full<FH> Come back when ya lose some of da junk, ya walnut.",เอาเถอะ งั้นไม่แลก มีของชิ้นอื่นที่แกถูกใจอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,104,448,16029,"Alright, <I6>M1 is yours. Nice doin' business witcha.",เรียบร้อย <I6>M1 เป็นของแกแล้ว ดีใจที่ได้ทำธุรกิจด้วยกันนะเว้ย
 204,Menus_UI_Settings,105,452,16082,<F4><I0>00 receives <I8>M1<FG>,<F4><I0>00 ได้รับ <I8>M1<FG>
-204,Menus_UI_Settings,106,456,16109,"You ain't no schmuck, kiddo. Dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01 you've brought me now. Here, consider dis a token of my appreciation.",แกนี่ไม่ธรรมดาจริง ๆ ว่ะเจ้าหนู นี่แกเอามินิเมดัลมาให้ฉันครบ <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01 แล้วนะเนี่ย เอ้า ถือซะว่านี่เป็นของกำนัลเล็ก ๆ น้อย ๆ แทนคำขอบคุณจากฉันก็แล้วกัน
+204,Menus_UI_Settings,106,456,16109,"You ain't no schmuck, kiddo. Dat's <E5>P1one mini medal<E6>01%d mini medals<E7>01 you've brought me now. Here, consider dis a token of my appreciation.",แกนี่ไม่ธรรมดาจริง ๆ ว่ะเจ้าหนู นี่แกเอามินิเมดัลมาให้ฉันครบ <E5>P11 เหรียญ<E6>01%d เหรียญ<E7>01 แล้วนะเนี่ย เอ้า ถือซะว่านี่เป็นของกำนัลเล็ก ๆ น้อย ๆ แทนคำขอบคุณจากฉันก็แล้วกัน
 204,Menus_UI_Settings,107,460,16258,"Dat's all I got<FG> You cleaned me out, kiddo<FG> Thanks for gettin' me all dem mini medals. You're a real stand-up <E0>00guy<E3>00gal<E4>00<FG>",ของฉันหมดเกลี้ยงแล้วโว้ย<FG> แกกวาดซะเกลี้ยงร้านเลยเจ้าหนู<FG> ขอบใจมากนะที่เอามินิเมดัลทั้งหมดนั่นมาให้ฉัน แกนี่เป็นคนเจ๋งจริง ๆ ว่ะ<FG>
 204,Menus_UI_Settings,108,464,16397,"You ever find yourself wid mini medals to spare, you come see me, capisce<FH>",ถ้าแกมีมินิเมดัลเหลือเมื่อไหร่ ก็แวะมาหาฉันได้ตลอด เข้าใจมั้ยล่ะ<FH>
 204,Menus_UI_Settings,109,468,16474,"Lemme tell ya, it's a real honour doin' business wid a celebrity like yourself. Anybody gives you any trouble, you come see me, capisce<FH>",บอกตรง ๆ เลยนะ เป็นเกียรติจริง ๆ ที่ได้ทำธุรกิจกับคนดังอย่างแกเนี่ย ถ้าใครมีปัญหาหรือมารังแกแก มาบอกฉันได้เลย เข้าใจมั้ยล่ะ<FH>
@@ -128,7 +128,7 @@
 204,Menus_UI_Settings,126,536,18051,"Wot, changed yer mind already<FH> You after anythin' else<FH>",อ้าว เปลี่ยนใจซะแล้วเรอะ<FH> อยากได้อะไรอื่นอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,127,540,18111,"Oi<FG> Think I'm thick, do you<FH> You ain't got the gold for that<FG>",เฮ้ย<FG> นึกว่าฉันโง่เรอะ<FH> เหรียญทองแกไม่พอนะเว้ย<FG>
 204,Menus_UI_Settings,128,544,18179,"Hur hur hur<FG> Looks like yer weedy little equipment bag is full. Sort it out an' come back, alright<FH>",ฮึ ๆๆ<FG> ดูเหมือนกระเป๋าเก็บของกระจิริดของแกจะเต็มเอี๊ยดแล้ว ไปเคลียร์ของแล้วค่อยกลับมานะ ตกลงมั้ย<FH>
-204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,แกรับ <EH>A1ชิ้นเหล่านี้<EI>01ชิ้นนี้<EJ>01 <I0>A1 ไปได้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,แกรับ <EH>A1ชิ้นเหล่านี้<EI>01ชิ้นนี้<EJ>01 <I0>A1 ไปได้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,130,552,18391,"Cheers<FG> You equippin' the goods now, or wot<FH>",ขอบใจ<FG> จะสวมใส่ของตอนนี้เลยมั้ยล่ะ<FH>
 204,Menus_UI_Settings,131,556,18440,"Cheers<FG> I'll shove the goods in yer bag, shall I<FH>",ขอบใจ<FG> งั้นฉันยัดของใส่กระเป๋าให้เลยนะ<FH>
 204,Menus_UI_Settings,132,560,18494,"Alright, I'll shove the goods in yer equipment bag.",ได้เลย งั้นฉันเก็บของใส่กระเป๋าเก็บอุปกรณ์ให้นะ
@@ -144,12 +144,12 @@
 204,Menus_UI_Settings,142,600,19010,"I ain't buyin' that, an' you know it.",ฉันไม่รับซื้อของชิ้นนั้นหรอก แกก็รู้ดีนี่
 204,Menus_UI_Settings,143,604,19048,"You know these ain't easy to come by, don'tcha<FH> You sure you wanna sell<FH>",แกรู้นะว่าของพวกนี้มันไม่ได้หากันง่าย ๆ น่ะ แน่ใจนะว่าอยากจะขายจริง ๆ<FH>
 204,Menus_UI_Settings,144,608,19125,Looks like yer usin' that for one of yer other vocations. You sure you wanna sell it<FH>,ดูเหมือนแกจะใช้ของชิ้นนั้นกับอาชีพอื่นอยู่นะ แน่ใจนะว่าอยากจะขายมันน่ะ<FH>
-204,Menus_UI_Settings,145,612,19213,"<F4><I8>M1, eh<FH> I'll take <EH>M1those<EI>01that<EJ>01 off yer 'ands for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันรับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ก็แล้วกัน ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,145,612,19213,"<F4><I8>M1, eh<FH> I'll take <EH>M1those<EI>01that<EJ>01 off yer 'ands for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันรับซื้อไว้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ก็แล้วกัน ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,146,616,19333,"Done<FG> 'And over the goods, then<FG>",ตกลง<FG> ส่งของมาเลยสิพวก<FG>
-204,Menus_UI_Settings,147,620,19370,"<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01, eh<FH> I'll give you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 งั้นเรอะ<FH> ฉันให้แก <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,147,620,19370,"<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01, eh<FH> I'll give you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 งั้นเรอะ<FH> ฉันให้แก <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,148,624,19476,"Right, wot am I lookin' at<FH>",เอาล่ะ จะให้ฉันดูชิ้นไหนล่ะ<FH>
 204,Menus_UI_Settings,149,628,19506,You got anythin' else for me to cast me eye over<FH>,มีชิ้นอื่นให้ฉันช่วยดูอีกมั้ยล่ะ<FH>
-204,Menus_UI_Settings,150,632,19558,"Hmm, let's see... That'll cost ya...<E5>O1one gold coin<E6>01%d gold coins<E7>01, I reckon. Deal<FH>",หืม ไหนดูซิ... ค่าตรวจชิ้นนี้น่าจะ... <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,150,632,19558,"Hmm, let's see... That'll cost ya...<E5>O1one gold coin<E6>01%d gold coins<E7>01, I reckon. Deal<FH>",หืม ไหนดูซิ... ค่าตรวจชิ้นนี้น่าจะ... <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,151,636,19655,You takin' the mick<FH> You ain't got enough cash<FG>,มากวนโอ๊ยฉันเรอะ<FH> เหรียญทองแกไม่พอนี่หว่า<FG>
 204,Menus_UI_Settings,152,640,19707,"'Ang on, you ain't got nothin' for me to appraise<FG>",เดี๋ยวก่อนสิ แกไม่มีอะไรให้ฉันประเมินเลยนะเว้ย<FG>
 204,Menus_UI_Settings,153,644,19760,"'Ang on, you ain't got nothin' for me to take apart<FG>",เดี๋ยวก่อนสิ แกไม่มีอะไรให้ฉันแยกชิ้นส่วนเลยนะเว้ย<FG>
@@ -159,14 +159,14 @@
 204,Menus_UI_Settings,157,660,19930,"Right, what do you want takin' apart<FH>",เอาล่ะ อยากแยกชิ้นส่วนชิ้นไหนล่ะ<FH>
 204,Menus_UI_Settings,158,664,19970,Got anythin' else to take apart<FH>,มีชิ้นอื่นให้แยกอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,159,668,20005,"This ain't a charity, you know<FG> Pay full whack, or I ain't takin' it apart<FG>",นี่ไม่ใช่โรงทานนะเว้ย<FG> จ่ายมาให้ครบ ไม่งั้นฉันไม่แยกชิ้นส่วนให้หรอกนะ<FG>
-204,Menus_UI_Settings,160,672,20085,Reckon I can get <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 out o' <EH>A1these<EI>01this<EJ>01 for ya. It'll cost you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>,ฉันคิดว่าแยก <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 ออกมาจากของชิ้นนี้ให้แกได้นะ ค่าบริการ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,160,672,20085,Reckon I can get <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 out o' <EH>A1these<EI>01this<EJ>01 for ya. It'll cost you <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>,ฉันคิดว่าแยก <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 ออกมาจากของชิ้นนี้ให้แกได้นะ ค่าบริการ <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,161,676,20239,"Alright, 'ere's yer bits an' bobs<FG>",เอาล่ะ นี่เศษชิ้นส่วนของแก<FG>
-204,Menus_UI_Settings,162,680,20276,"If you've got the right shards, I can use <E5>R1one of 'em<E6>01<GR>1 of 'em<E7>01 to make you a weapon if you want.",ถ้าแกมีเศษอาวุธที่ถูกต้อง ฉันสามารถใช้มัน <E5>R1หนึ่งชิ้น<E6>01<GR>1 ชิ้น<E7>01 เพื่อสร้างอาวุธให้แกได้นะถ้าต้องการ
+204,Menus_UI_Settings,162,680,20276,"If you've got the right shards, I can use <E5>R1one of 'em<E6>01<GR>1 of 'em<E7>01 to make you a weapon if you want.",ถ้าแกมีเศษอาวุธที่ถูกต้อง ฉันสามารถใช้มัน <E5>R11 ชิ้น<E6>01<GR>1 ชิ้น<E7>01 เพื่อสร้างอาวุธให้แกได้นะถ้าต้องการ
 204,Menus_UI_Settings,163,684,20389,'Ang on<FG> I'll need more shards than that to put a weapon together<FG>,เดี๋ยวก่อนสิ<FG> ฉันต้องใช้เศษอาวุธมากกว่านั้นถึงจะประกอบเป็นอาวุธได้นะเว้ย<FG>
-204,Menus_UI_Settings,164,688,20460,"Got any more shards for me<FH> Gimme <E5>R1one<E6>01<GR>1<E7>01, an' I'll make you somethin' lovely<FG>",มีเศษอาวุธมาเพิ่มอีกมั้ยล่ะ<FH> เอามาให้ฉันสัก <E5>R1หนึ่งชิ้น<E6>01<GR>1 ชิ้น<E7>01 แล้วฉันจะสร้างของสุดยอดให้แกดู<FG>
-204,Menus_UI_Settings,165,692,20558,"<F4><I8>M1, eh<FH> I can do you that for...ooh, <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันทำให้แกได้ในราคา... อูย <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,164,688,20460,"Got any more shards for me<FH> Gimme <E5>R1one<E6>01<GR>1<E7>01, an' I'll make you somethin' lovely<FG>",มีเศษอาวุธมาเพิ่มอีกมั้ยล่ะ<FH> เอามาให้ฉันสัก <E5>R11 ชิ้น<E6>01<GR>1 ชิ้น<E7>01 แล้วฉันจะสร้างของสุดยอดให้แกดู<FG>
+204,Menus_UI_Settings,165,692,20558,"<F4><I8>M1, eh<FH> I can do you that for...ooh, <E5>O1one gold coin<E6>01%d gold coins<E7>01. Deal<FH>",<F4><I8>M1 งั้นเรอะ<FH> ฉันทำให้แกได้ในราคา... อูย <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,166,696,20654,"'Ang abaht, you ain't got enough gold coins<FG>",เดี๋ยวก่อนสิ แกมีเหรียญทองไม่พอนี่หว่า<FG>
-204,Menus_UI_Settings,167,700,20701,"Alright, let's get busy<FG> Let's see... This bit goes 'ere, this bit goes there, and... Bish, bash, bosh, Bob's yer uncle<FG>",เอาล่ะ ลุยกันเลย<FG> ไหนดูซิ... ชิ้นนี้ใส่ตรงนี้ ชิ้นนี้ใส่ตรงนั้น แล้วก็... ชึก ชัก โชะ เรียบร้อยโรงเรียนจีน<FG>
+204,Menus_UI_Settings,167,700,20701,"Alright, let's get busy<FG> Let's see... This bit goes 'ere, this bit goes there, and... Bish, bash, bosh, Bob's yer uncle<FG>",เอาล่ะ ลุยกันเลย<FG> ไหนดูซิ... ชิ้นนี้ใส่ตรงนี้ ชิ้นนี้ใส่ตรงนั้นแล้วก็... ชึก ชัก โชะ เรียบร้อยโรงเรียนจีน<FG>
 204,Menus_UI_Settings,168,704,20826,'Ere we are<MV><I8>A1 of yer very own<FG>,เรียบร้อย<MV><I8>A1 เฉพาะตัวของแกเองเลยนะเนี่ย<FG>
 204,Menus_UI_Settings,169,708,20865,Be lucky<FG> Hur hur<FG>,โชคดีนะเพื่อน<FG> ฮึ ๆๆ<FG>
 204,Menus_UI_Settings,170,712,20888,I'm expectin' big things from you<FG> Be lucky<FG>,ฉันหวังผลงานเจ๋ง ๆ จากแกอยู่นะเว้ย<FG> โชคดีนะเพื่อน<FG>
@@ -174,7 +174,7 @@
 204,Menus_UI_Settings,172,720,21048,"Fancy the 'ero of the realm comin' to me 'umble little stall, eh<FH> Be lucky<FG>",ไม่นึกไม่ฝันเลยว่าท่านผู้กล้าแห่งอาณาจักรจะแวะมาที่แผงลอยซอมซ่อของฉันนะเนี่ย<FH> ขอให้โชคดีนะเพื่อน<FG>
 204,Menus_UI_Settings,173,724,21128,"My apologies, young traveller. I'm not quite ready to open up shop yet, but do come back later.",ต้องขออภัยด้วยนะ ท่านนักเดินทางรุ่นเยาว์ ข้ายังเตรียมเปิดร้านไม่เสร็จดีเลย ไว้ค่อยกลับมาใหม่ทีหลังนะ
 204,Menus_UI_Settings,174,728,21224,Hello there<FG> I'm your friendly local orb seller<FG> Orbs are fantastic artefacts that amplify the defensive capabilities of the user.,สวัสดีขอรับ<FG> ข้าคือพ่อค้าขายลูกแก้วประจำเมืองขอรับ<FG> ลูกแก้วคือโบราณวัตถุสุดวิเศษที่ช่วยเสริมพลังป้องกันให้แก่ผู้สวมใส่
-204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",บางชิ้นยังมีคุณสมบัติพิเศษเสริมด้วยนะขอรับ ทว่าแต่ละคนจะสวมใส่ได้เพียงครั้งละหนึ่งชิ้นเท่านั้น จึงต้องเลือกสรรอย่างรอบคอบขอรับ
+204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",บางชิ้นยังมีคุณสมบัติพิเศษเสริมด้วยนะขอรับ ทว่าแต่ละคนจะสวมใส่ได้เพียงครั้งละ1 ชิ้นเท่านั้น จึงต้องเลือกสรรอย่างรอบคอบขอรับ
 204,Menus_UI_Settings,176,736,21494,"But before you can choose, you'll have to buy<FG> Shall we get down to business<FH> Ahem...",แต่ก่อนจะเลือกได้ ก็ต้องซื้อก่อนขอรับ<FG> เรามาเริ่มคุยธุรกิจกันเลยดีไหมขอรับ<FH> อะแฮ่ม...
 204,Menus_UI_Settings,177,740,21584,"Welcome, friend<FG> Can I interest you in a protective orb or two<FH>",ยินดีต้อนรับ สหายเอ๋ย<FG> สนใจรับลูกแก้วคุ้มครองสักชิ้นสองชิ้นไหมขอรับ<FH>
 204,Menus_UI_Settings,178,744,21652,Is there anything else you'd like<FH>,มีสิ่งอื่นใดที่ต้องการอีกไหมขอรับ<FH>
@@ -187,7 +187,7 @@
 204,Menus_UI_Settings,185,772,22131,Ahem<FG> It seems you are somewhat...short on gold coins...,อะแฮ่ม<FG> ดูเหมือนท่านจะ... มีเหรียญทองไม่พอขอรับ...
 204,Menus_UI_Settings,186,776,22190,"Why, thank you very much<FG> Will you be equipping your purchase right away<FH>",ขอบพระคุณเป็นอย่างยิ่งขอรับ<FG> ประสงค์จะสวมใส่ของที่ซื้อทันทีเลยหรือไม่ขอรับ<FH>
 204,Menus_UI_Settings,187,780,22268,Oh dear<MV>it seems your bag is full to bursting. Why not make a little room and come back<FH>,โอ้แย่แล้ว<MV>ดูเหมือนกระเป๋าของท่านจะแน่นเอี๊ยดเลยนะขอรับ ลองไปเคลียร์ที่ว่างสักนิดแล้วค่อยกลับมาดีไหมขอรับ<FH>
-204,Menus_UI_Settings,188,784,22361,"<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01, eh<FH> That will be <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01 สินะขอรับ<FH> ราคาทั้งหมดคือ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้สมเหตุสมผลดีไหมขอรับ<FH>
+204,Menus_UI_Settings,188,784,22361,"<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01, eh<FH> That will be <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",<E5>R1<F4><I8>C1<E6>01<GR>1 <I1>C1<E7>01 สินะขอรับ<FH> ราคาทั้งหมดคือ <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้สมเหตุสมผลดีไหมขอรับ<FH>
 204,Menus_UI_Settings,189,788,22488,And who will be equipping your purchase<FH>,แล้วจะให้ใครเป็นผู้สวมใส่ของที่ซื้อไปดีขอรับ<FH>
 204,Menus_UI_Settings,190,792,22531,<F4><I6>C1 was equipped.,สวมใส่ <F4><I6>C1 เรียบร้อยแล้ว
 204,Menus_UI_Settings,191,796,22554,"Very well. I'll pop the goods in your bag, then.",เข้าใจแล้วขอรับ เช่นนั้นข้าจะเก็บของใส่กระเป๋าให้ท่านนะขอรับ
@@ -196,19 +196,19 @@
 204,Menus_UI_Settings,194,808,22687,Will you be selling anything else<FH>,มีสิ่งอื่นใดจะขายอีกหรือไม่ขอรับ<FH>
 204,Menus_UI_Settings,195,812,22724,"I'm ever so sorry, but it seems you don't have anything to sell...",ต้องขอประทานอภัยจริง ๆ ขอรับ แต่ดูเหมือนท่านจะไม่มีสิ่งใดให้ขายเลย...
 204,Menus_UI_Settings,196,816,22791,"Ah, as you wish. Is there anything else you'd like to sell<FH>",อ่า ตามที่ท่านประสงค์ขอรับ มีสิ่งอื่นใดจะขายอีกไหมขอรับ<FH>
-204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,อะแฮ่ม... ดูเหมือนว่ามีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะขอรับ แน่ใจจริง ๆ หรือขอรับว่าประสงค์จะขาย<FH>
-204,Menus_UI_Settings,198,824,22980,"You realise this will mean selling orbs you're currently using, don't you<FH> Well then, which do you wish to sell<FH>",ท่านทราบใช่ไหมขอรับว่าการทำเช่นนี้หมายถึงการขายลูกแก้วที่กำลังใช้งานอยู่ในขณะนี้ แล้วประสงค์จะขายชิ้นใดหรือขอรับ<FH>
+204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,อะแฮ่ม... ดูเหมือนว่ามีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะขอรับ แน่ใจจริง ๆหรือขอรับว่าประสงค์จะขาย<FH>
+204,Menus_UI_Settings,198,824,22980,"You realise this will mean selling orbs you're currently using, don't you<FH> Well then, which do you wish to sell<FH>",ท่านทราบใช่ไหมขอรับว่าการทำเช่นนี้หมายถึงการขายลูกแก้วที่กำลังใช้งานอยู่ในขณะนี้แล้วประสงค์จะขายชิ้นใดหรือขอรับ<FH>
 204,Menus_UI_Settings,199,828,23097,"Goodness<FG> Are you sure, <E0>00young man<E3>00young lady<E4>00<FH> Items of this kind don't grow on trees, you know.",คุณพระช่วย<FG> แน่ใจแล้วหรือขอรับ <E0>00พ่อหนุ่ม<E3>00แม่หนู<E4>00<FH> ของพรรค์นี้ไม่ได้หากันได้ง่าย ๆ ตามต้นไม้นะขอรับ
 204,Menus_UI_Settings,200,832,23211,"Hmm... My apologies, but I feel it would be better if you were to keep that particular curiosity.",หืม... ต้องขออภัยด้วยขอรับ แต่ข้ารู้สึกว่าท่านน่าจะเก็บของแปลกชิ้นนั้นไว้กับตัวดีกว่านะขอรับ
 204,Menus_UI_Settings,201,836,23309,Are you not using this orb for a different vocation<FH> Are you sure you wish to sell it<FH>,ท่านไม่ได้ใช้ลูกแก้วนี้กับอาชีพอื่นอยู่หรือขอรับ<FH> แน่ใจแล้วหรือขอรับว่าประสงค์จะขาย<FH>
-204,Menus_UI_Settings,202,840,23400,<F4><I8>M1<FH> I'll buy <EH>M1those<EI>01that<EJ>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<F4><I8>M1 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
-204,Menus_UI_Settings,203,844,23531,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01<FH> I'll buy <E5>R1it<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
+204,Menus_UI_Settings,202,840,23400,<F4><I8>M1<FH> I'll buy <EH>M1those<EI>01that<EJ>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<F4><I8>M1 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
+204,Menus_UI_Settings,203,844,23531,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01<FH> I'll buy <E5>R1it<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<E5>R1<F4><I8>M1<E6>01<GR>1 <I1>M1<E7>01 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
 204,Menus_UI_Settings,204,848,23684,Very good<FG> Here you are.,ดีเยี่ยมเลยขอรับ<FG> นี่ของท่านขอรับ
 204,Menus_UI_Settings,205,852,23711,Do come again<FG>,ไว้แวะมาใหม่นะขอรับ<FG>
 204,Menus_UI_Settings,206,856,23728,Customers of your good reputation are always welcome here<FG>,ลูกค้าผู้มีชื่อเสียงอันดีงามเช่นท่าน ยินดีต้อนรับเสมอขอรับ<FG>
 204,Menus_UI_Settings,207,860,23789,It is always a pleasure and a privilege to serve such a widely admired <E0>00young gentleman<E3>00young lady<E4>00<FG>,เป็นเกียรติและความยินดีอย่างยิ่งเสมอที่ได้รับใช้ <E0>00สุภาพบุรุษรุ่นเยาว์<E3>00สุภาพสตรีรุ่นเยาว์<E4>00 ผู้เป็นที่ชื่นชมเช่นท่าน<FG>
 204,Menus_UI_Settings,208,864,23904,That renowned heroes should frequent my humble shop is an inestimable honour<FG> Until next time<FG>,การที่ผู้กล้าชื่อเสียงขจรไกลแวะเวียนมายังร้านซอมซ่อของข้า ถือเป็นเกียรติอันหาที่สุดมิได้<FG> ไว้พบกันใหม่นะขอรับ<FG>
-204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",เอ๊ะ<MV><FG> ท่านมองเห็นความลับเล็ก ๆ ของข้าได้อย่างไรกันขอรับเนี่ย<FG><FH> ตาแหลมคมจริง ๆ <E0>00นายน้อย<E3>00คุณหนู<E4>00<FG> ข้ามอบให้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้ฟังดูเข้าทีไหมขอรับ<FH>
+204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",เอ๊ะ<MV><FG> ท่านมองเห็นความลับเล็ก ๆ ของข้าได้อย่างไรกันขอรับเนี่ย<FG><FH> ตาแหลมคมจริง ๆ <E0>00นายน้อย<E3>00คุณหนู<E4>00<FG> ข้ามอบให้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้ฟังดูเข้าทีไหมขอรับ<FH>
 204,Menus_UI_Settings,210,872,24187,"Good<FG> Ah, but I cannot simply hand it over... Very well. I will arrange for you to receive it through a...certain quest at the quest counter...",ดีเลยขอรับ<FG> อ๊ะ แต่ข้าคงส่งมอบให้ตรง ๆ ไม่ได้... เอาเถอะ ข้าจะจัดการให้ท่านได้รับมันผ่าน...เควสต์บางอย่างที่เคาน์เตอร์เควสต์ก็แล้วกัน...
 204,Menus_UI_Settings,211,876,24333,"Welcome to the accolades counter, where your activities on the battlefield are rewarded with prizes aplenty<FG>",ยินดีต้อนรับสู่เคาน์เตอร์เกียรติยศ ที่ซึ่งผลงานในสนามรบของท่านจะได้รับรางวัลตอบแทนมากมาย<FG>
 204,Menus_UI_Settings,212,880,24444,"Welcome back<FG> This is the accolades counter, where your martial prowess is rewarded with accolades and mini medals<FG>",ยินดีต้อนรับกลับมา<FG> นี่คือเคาน์เตอร์เกียรติยศ ที่ซึ่งฝีมือการต่อสู้ของท่านจะได้รับรางวัลเป็นเกียรติยศและมินิเมดัล<FG>
@@ -217,8 +217,8 @@
 204,Menus_UI_Settings,215,892,24756,Welcome<FG> What an honour it is to have the hero of the realm drop by<FG> I can't wait to hear what incredible feats you'll accomplish next<FG>,ยินดีต้อนรับ<FG> เป็นเกียรติอย่างยิ่งที่ท่านผู้กล้าแห่งอาณาจักรแวะมาเยือน<FG> ข้าแทบรอไม่ไหวที่จะได้ยินเรื่องความสำเร็จอันน่าทึ่งครั้งต่อไปของท่านแล้ว<FG>
 204,Menus_UI_Settings,216,896,24898,Which accolade would you like to check<FH>,ต้องการตรวจสอบเกียรติยศใดหรือ<FH>
 204,Menus_UI_Settings,217,900,24940,"Why, I think you're in line for an accolade<FG>",แหม ข้าคิดว่าท่านมีเกียรติยศที่รอรับรางวัลอยู่นะ<FG>
-204,Menus_UI_Settings,218,904,24987,"Congratulations<FG> You've been awarded the ‘<I0>K1’ accolade, and a bonus of <E5>P0one mini medal<E6>01%d mini medals<E7>01<FG>",ขอแสดงความยินดีด้วย<FG> ท่านได้รับเกียรติยศ ‘<I0>K1’ พร้อมโบนัสมินิเมดัล <E5>P0หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
-204,Menus_UI_Settings,219,908,25114,<F4><I0>00 receives <E5>O1one mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>O1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,218,904,24987,"Congratulations<FG> You've been awarded the ‘<I0>K1’ accolade, and a bonus of <E5>P0one mini medal<E6>01%d mini medals<E7>01<FG>",ขอแสดงความยินดีด้วย<FG> ท่านได้รับเกียรติยศ ‘<I0>K1’ พร้อมโบนัสมินิเมดัล <E5>P01 เหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,219,908,25114,<F4><I0>00 receives <E5>O1one mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>O11 เหรียญ<E6>01%d เหรียญ<E7>01<FG>
 204,Menus_UI_Settings,220,912,25179,Congratulations<FG> What a momentous feat<MV>you've claimed every accolade there is<FG>,ขอแสดงความยินดีด้วย<FG> ช่างเป็นความสำเร็จอันยิ่งใหญ่จริง ๆ<MV>ท่านพิชิตเกียรติยศที่มีทั้งหมดได้ครบถ้วนแล้ว<FG>
 204,Menus_UI_Settings,221,916,25264,I've prepared a little something for you to commemorate this amazing occasion<MV>you've more than earned it<FG>,ข้าได้เตรียมของขวัญพิเศษเพื่อเป็นที่ระลึกสำหรับโอกาสอันน่าอัศจรรย์นี้ไว้ให้ท่าน<MV>ท่านคู่ควรกับมันอย่างยิ่งแล้ว<FG>
 204,Menus_UI_Settings,222,920,25374,<F4><I0>00 receives a gospel ring<FG>,<F4><I0>00 ได้รับแหวนกอสเปลริง<FG>
@@ -230,12 +230,12 @@
 204,Menus_UI_Settings,228,944,25806,"Hello, duckie<FG> I'm afraid the old cauldron still needs a bit of time to warm up. Come back later, alright<FH>",สวัสดีจ้ะคนดี<FG> ยายว่าหม้อต้มโบราณใบนี้ยังต้องใช้เวลาอุ่นอีกสักหน่อยน่ะ ไว้แวะมาใหม่ทีหลังนะจ๊ะ<FH>
 204,Menus_UI_Settings,229,948,25917,"Ooh, duckie<FG> You can't carry any more accessories, I'm afraid<FG> You'll have to make some room and come back<FG>",โอ๊ะ คนดี<FG> ยายว่าเธอพกเครื่องประดับเพิ่มไม่ได้แล้วนะจ๊ะ<FG> ต้องไปเคลียร์ที่ว่างแล้วค่อยกลับมาใหม่นะ<FG>
 204,Menus_UI_Settings,230,952,26031,"Hello there, duckie, and welcome to my little alchemy hut<FG> This is where you can soup up your accessories using all sorts of ingredients<FG>",สวัสดีจ้ะคนดี ยินดีต้อนรับสู่กระท่อมเล่นแร่แปรธาตุหลังน้อยของยายนะจ๊ะ<FG> ที่นี่คือที่ที่เธอสามารถอัปเกรดเครื่องประดับได้โดยใช้วัตถุดิบนานาชนิด<FG>
-204,Menus_UI_Settings,231,956,26173,"You'll find ingredients all over the place<MV>in treasure chests, on monsters you've defeated... Bring them here and see what you can make<FG>",เธอจะพบวัตถุดิบได้ทั่วทุกหนทุกแห่ง<MV>ทั้งในหีบสมบัติ หรือจากสัตว์ประหลาดที่ปราบได้... เอาพวกมันมาที่นี่แล้วมาดูสิว่าเธอจะสร้างอะไรได้บ้าง<FG>
+204,Menus_UI_Settings,231,956,26173,"You'll find ingredients all over the place<MV>in treasure chests, on monsters you've defeated... Bring them here and see what you can make<FG>",เธอจะพบวัตถุดิบได้ทั่วทุกหนทุกแห่ง<MV>ทั้งในหีบสมบัติหรือจากสัตว์ประหลาดที่ปราบได้... เอาพวกมันมาที่นี่แล้วมาดูสิว่าเธอจะสร้างอะไรได้บ้าง<FG>
 204,Menus_UI_Settings,232,960,26314,"Oh, I know<MV>seeing as this is your first visit, why don't I get you started<FG> Here<FG>",โอ้ ยายนึกออกแล้ว<MV>ไหน ๆ ก็มาเยือนเป็นครั้งแรก เดี๋ยวจะช่วยให้เริ่มต้นง่าย ๆ ดีกว่านะจ๊ะ<FG> เอ้านี่<FG>
 204,Menus_UI_Settings,233,964,26402,<F4><I0>00 receives a pair of slime earrings<FG>,<F4><I0>00 ได้รับต่างหูสไลม์เอียร์ริง<FG>
 204,Menus_UI_Settings,234,968,26448,<F4><I0>00 receives a slimedrop<FG>,<F4><I0>00 ได้รับสไลม์ดรอป<FG>
 204,Menus_UI_Settings,235,972,26481,<F4><I0>00 receives two sprigs of cottontop<FG>,<F4><I0>00 ได้รับหญ้าคอตตอนท็อป 2 กิ่ง<FG>
-204,Menus_UI_Settings,236,976,26526,"Pop that little lot in the cauldron together, and you'll soon see what alchemy's all about<FG>",หย่อนของพวกนั้นลงหม้อต้มพร้อมกัน แล้วเดี๋ยวเธอก็จะเข้าใจเองว่าการเล่นแร่แปรธาตุคืออะไร<FG>
+204,Menus_UI_Settings,236,976,26526,"Pop that little lot in the cauldron together, and you'll soon see what alchemy's all about<FG>",หย่อนของพวกนั้นลงหม้อต้มพร้อมกันแล้วเดี๋ยวเธอก็จะเข้าใจเองว่าการเล่นแร่แปรธาตุคืออะไร<FG>
 204,Menus_UI_Settings,237,980,26620,"Now, let's get down to business, shall we<FH> Ahem...",เอาล่ะ เรามาเริ่มกันเลยดีกว่าไหมจ๊ะ<FH> อะแฮ่ม...
 204,Menus_UI_Settings,238,984,26673,"How can I help you, duckie<FH> Fancy a spot of alchemy today<FH>",มีอะไรให้ยายช่วยจ๊ะคนดี<FH> วันนี้สนใจเล่นแร่แปรธาตุสักหน่อยไหม<FH>
 204,Menus_UI_Settings,239,988,26736,"Oh, hello, love<FG> I hear you've been working very hard to make a name for yourself<FG> Fancy a spot of nice, relaxing alchemy<FH>",โอ้ สวัสดีจ้ะพ่อคุณ<FG> ได้ยินมาว่าพยายามสร้างชื่อเสียงอย่างหนักเลยนี่จ๊ะ<FG> สนใจมาเล่นแร่แปรธาตุผ่อนคลายสบาย ๆ สักหน่อยไหม<FH>
@@ -262,12 +262,12 @@
 204,Menus_UI_Settings,260,1072,28660,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it...,แหม... ดูเหมือนเธอจะได้เครื่องประดับที่ต้องใช้ผงพิเศษของยาย ถ้าอยากจะเสริมพลังมันล่ะนะ...
 204,Menus_UI_Settings,261,1076,28779,"What special powder's that, you ask<FH> Oh, I make it by grinding down accessories. It's for extra-advanced alchemy only<FG>",ผงพิเศษอะไรเหรอจ๊ะที่เธอถาม<FH> อ๋อ ยายทำมันจากการบดสลายเครื่องประดับน่ะ มันมีไว้สำหรับการเล่นแร่แปรธาตุขั้นสูงพิเศษเท่านั้นนะจ๊ะ<FG>
 204,Menus_UI_Settings,262,1080,28902,"If you've any accessories you don't need, why not try getting me to grind them down for you<FH> Waste not, want not, and all that<FG>",ถ้าเธอมีเครื่องประดับที่ไม่ใช้แล้ว ทำไมไม่ลองเอามันมาให้ยายช่วยบดสลายให้ล่ะจ๊ะ<FH> ของไม่ทิ้งขว้างก็มีประโยชน์ทั้งนั้นแหละนะ<FG>
-204,Menus_UI_Settings,263,1084,29034,"Oh, and just so you know, the more enhancements an accessory has, the more powder I'll be able to get out of it.",อ้อ แล้วก็จำไว้นะ ยิ่งเครื่องประดับชิ้นนั้นผ่านการเสริมพลังมามากเท่าไหร่ ยายก็ยิ่งบดออกมาเป็นผงได้เยอะขึ้นเท่านั้นนะจ๊ะ
+204,Menus_UI_Settings,263,1084,29034,"Oh, and just so you know, the more enhancements an accessory has, the more powder I'll be able to get out of it.",อ้อแล้วก็จำไว้นะ ยิ่งเครื่องประดับชิ้นนั้นผ่านการเสริมพลังมามากเท่าไหร่ ยายก็ยิ่งบดออกมาเป็นผงได้เยอะขึ้นเท่านั้นนะจ๊ะ
 204,Menus_UI_Settings,264,1088,29147,"And don't you worry about my old arms getting tired<MV>it's all part of the service, duckie<FG>",แล้วก็ไม่ต้องห่วงว่าแขนคนแก่ของยายจะล้าหรอกนะ<MV>มันเป็นส่วนหนึ่งของการบริการอยู่แล้วจ้ะคนดี<FG>
 204,Menus_UI_Settings,265,1092,29241,"What would you like me to grind down for you, love<FH>",อยากให้ยายบดสลายชิ้นไหนให้จ๊ะพ่อคุณ<FH>
 204,Menus_UI_Settings,266,1096,29295,"Hang on, someone's got that accessory equipped<FG> Are you sure you want me to grind it down<FH>",เดี๋ยวก่อนสิ มีคนกำลังสวมเครื่องประดับชิ้นนั้นอยู่นะจ๊ะ<FG> แน่ใจนะว่าอยากให้ยายบดมันน่ะ<FH>
 204,Menus_UI_Settings,267,1100,29390,"Grinding <EH>E1those<EI>01that<EJ>01 down will get you <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01. Does that sound good to you, duckie<FH>",การบดสลายชิ้นนั้นจะได้ <E5>R1<I8>F1<E6>01<GR>1 <I1>F1<E7>01 ฟังดูดีไหมจ๊ะคนดี<FH>
-204,Menus_UI_Settings,268,1104,29513,"Looks like you're a little short on gold, duckie. You need <E5>O1one gold coin<E6>01%d gold coins<E7>01.",ดูเหมือนเหรียญทองจะไม่พอนะจ๊ะคนดี เธอต้องใช้ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 จ้ะ
+204,Menus_UI_Settings,268,1104,29513,"Looks like you're a little short on gold, duckie. You need <E5>O1one gold coin<E6>01%d gold coins<E7>01.",ดูเหมือนเหรียญทองจะไม่พอนะจ๊ะคนดี เธอต้องใช้ <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 จ้ะ
 204,Menus_UI_Settings,269,1108,29615,Aren't you using this for another vocation<FH> Are you sure you want to grind it down<FH>,เธอไม่ได้ใช้ชิ้นนี้กับอีกอาชีพหนึ่งอยู่เหรอจ๊ะ<FH> แน่ใจนะว่าอยากจะบดมันน่ะ<FH>
 204,Menus_UI_Settings,270,1112,29703,There we are<FG> All lovely and powdery for you<FG>,เรียบร้อยแล้วจ้ะ<FG> บดเป็นผงละเอียดสวยงามให้แล้วนะจ๊ะ<FG>
 204,Menus_UI_Settings,271,1116,29753,Is there anything else I can help with<FH>,มีอะไรอื่นให้ยายช่วยอีกไหมจ๊ะ<FH>
@@ -277,20 +277,20 @@
 204,Menus_UI_Settings,275,1132,30104,"If I've helped you even a little way on the path to hero-hood, that's enough for me, duckie<FG> See you again soon<FG>",ถ้ายายได้ช่วยเธอสักนิดบนเส้นทางสู่การเป็นผู้กล้า แค่นี้ก็เพียงพอสำหรับยายแล้วจ้ะคนดี<FG> ไว้พบกันใหม่นะจ๊ะ<FG>
 204,Menus_UI_Settings,276,1136,30221,"Hello, and welcome to the Quester's Rest, where intrepid adventurers from all over the world gather and go forth<FG>",สวัสดีค่ะ และยินดีต้อนรับสู่เควสเตอร์ส เรสต์ สถานที่ที่เหล่านักผจญภัยผู้กล้าหาญจากทั่วทุกมุมโลกมารวมตัวและออกเดินทางไปด้วยกันค่ะ<FG>
 204,Menus_UI_Settings,277,1140,30337,"I'm still getting things ready, but we'll be open for business soon<FG>",ตอนนี้ฉันกำลังเตรียมความพร้อมอยู่ค่ะ แต่เราจะเปิดให้บริการในเร็ว ๆ นี้นะคะ<FG>
-204,Menus_UI_Settings,278,1144,30408,"In multiplayer mode, your online ID and name will become visible to other people you are playing with.",ในโหมดผู้เล่นหลายคน (Multiplayer) ไอดีและชื่อออนไลน์ของคุณจะแสดงให้ผู้เล่นอื่นที่คุณร่วมเล่นด้วยมองเห็น
-204,Menus_UI_Settings,279,1148,30511,"Also, if other players choose to share or stream their gameplay, your online ID and name may become visible via those sharing/streaming services.",นอกจากนี้ หากผู้เล่นคนอื่นเลือกที่จะแชร์หรือถ่ายทอดสด (Stream) การเล่นเกม ไอดีและชื่อออนไลน์ของคุณอาจปรากฏผ่านบริการแชร์หรือสตรีมมิ่งเหล่านั้นได้
+204,Menus_UI_Settings,278,1144,30408,"In multiplayer mode, your online ID and name will become visible to other people you are playing with.",ในโหมดผู้เล่นหลายคน ไอดีและชื่อออนไลน์ของคุณจะแสดงให้ผู้เล่นอื่นที่คุณร่วมเล่นด้วยมองเห็น
+204,Menus_UI_Settings,279,1148,30511,"Also, if other players choose to share or stream their gameplay, your online ID and name may become visible via those sharing/streaming services.",นอกจากนี้ หากผู้เล่นคนอื่นเลือกที่จะแชร์หรือถ่ายทอดสด การเล่นเกม ไอดีและชื่อออนไลน์ของคุณอาจปรากฏผ่านบริการแชร์หรือสตรีมมิ่งเหล่านั้นได้
 204,Menus_UI_Settings,280,1152,30657,Do you agree to share your online ID and name with other players and/or the public while in multiplayer mode<FH>,คุณยินยอมที่จะแชร์ไอดีและชื่อออนไลน์ของคุณกับผู้เล่นคนอื่น และ/หรือต่อสาธารณะในขณะอยู่ในโหมดผู้เล่นหลายคนหรือไม่<FH>
 204,Menus_UI_Settings,281,1156,30769,"Thank you<FG> You're now free to cooperate with other players in dimensional dungeons, which can be visited from the Quester's Rest.",ขอบคุณค่ะ<FG> ตอนนี้คุณสามารถร่วมมือกับผู้เล่นคนอื่นในดันเจี้ยนมิติ ซึ่งสามารถเดินทางไปได้จากเควสเตอร์ส เรสต์แห่งนี้ค่ะ
-204,Menus_UI_Settings,282,1160,30901,"You can also ask other players to help with story battles, and offer to help others with story battles you've already completed.",คุณยังสามารถขอความช่วยเหลือจากผู้เล่นคนอื่นในการต่อสู้ตามเนื้อเรื่อง หรือเสนอตัวไปช่วยเหลือคนอื่นในการต่อสู้ที่คุณเคยเคลียร์มาแล้วได้ด้วยค่ะ
+204,Menus_UI_Settings,282,1160,30901,"You can also ask other players to help with story battles, and offer to help others with story battles you've already completed.",คุณยังสามารถขอความช่วยเหลือจากผู้เล่นคนอื่นในการต่อสู้ตามเนื้อเรื่องหรือเสนอตัวไปช่วยเหลือคนอื่นในการต่อสู้ที่คุณเคยเคลียร์มาแล้วได้ด้วยค่ะ
 204,Menus_UI_Settings,283,1164,31030,"To ask for help with a story battle, simply select the relevant option before the battle begins.",หากต้องการขอความช่วยเหลือในการต่อสู้ตามเนื้อเรื่อง เพียงเลือกตัวเลือกที่เกี่ยวข้องก่อนเริ่มการต่อสู้ค่ะ
 204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,พวกเรารอคอยที่จะได้พบคุณอีกครั้งเมื่อเปิดให้บริการอย่างเป็นทางการนะคะ<FG>
 204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",ขออภัยด้วยนะคะ เรายังจัดเตรียมสถานที่อยู่ค่ะ แต่จะเปิดให้บริการเร็ว ๆ นี้ ไว้แวะมาใหม่เมื่อเราพร้อมให้บริการนะคะ<FG>
 204,Menus_UI_Settings,286,1176,31316,UNUSED,
-204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึงสามคนค่ะ
+204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึง3 คนค่ะ
 204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,การเข้าสู่ดันเจี้ยนมิติจะเริ่มจากห้องที่เรียกว่า 'ล็อบบี้' คุณสามารถเข้าร่วมห้องเหล่านี้ได้สามวิธีค่ะ
-204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล (Call to Arms)' ค่ะ
-204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล (Answer the Call)' ค่ะ
-204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",และวิธีสุดท้าย หากคุณต้องการเริ่มลุยให้เร็วที่สุด ก็เพียงเลือก 'ให้เอรินน์จัดการ (Leave it to Erinn)' แล้วฉันจะช่วยจัดเตรียมทุกอย่างให้คุณเองค่ะ<FG>
+204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล' ค่ะ
+204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล' ค่ะ
+204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",และวิธีสุดท้าย หากคุณต้องการเริ่มลุยให้เร็วที่สุด ก็เพียงเลือก 'ให้เอรินน์จัดการ'แล้วฉันจะช่วยจัดเตรียมทุกอย่างให้คุณเองค่ะ<FG>
 204,Menus_UI_Settings,292,1200,31924,UNUSED,
 204,Menus_UI_Settings,293,1204,31931,"Okay, that's all the paperwork done<FG> Sit tight while I take you to the world between dimensions<FG>",เอาล่ะ เอกสารทุกอย่างเรียบร้อยแล้วค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะพาคุณไปยังโลกระหว่างมิติค่ะ<FG>
 204,Menus_UI_Settings,294,1208,32032,Select the part of the story you'd like to help with.,เลือกส่วนของเนื้อเรื่องที่คุณต้องการไปช่วยเหลือค่ะ
@@ -324,7 +324,7 @@
 204,Menus_UI_Settings,322,1320,33908,"Go ahead and pick a map, please.",โปรดเลือกแผนที่ได้เลยค่ะ
 204,Menus_UI_Settings,323,1324,33941,Choose a few words or phrases to describe your lobby.,เลือกคำหรือข้อความเพื่ออธิบายล็อบบี้ของคุณค่ะ
 204,Menus_UI_Settings,324,1328,33995,"Thanks<FG> Sit tight a moment, and I'll have everything ready in a jiffy.",ขอบคุณค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะเตรียมทุกอย่างให้เสร็จในพริบตาเดียวค่ะ
-204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",<F4><I0>M1 นะคะ<FH> ได้แน่นอนค่ะ เพียงกรอกรายละเอียดอื่น ๆ ที่คุณต้องการ แล้วฉันจะเริ่มดำเนินการให้ทันทีค่ะ
+204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",<F4><I0>M1 นะคะ<FH> ได้แน่นอนค่ะ เพียงกรอกรายละเอียดอื่น ๆ ที่คุณต้องการแล้วฉันจะเริ่มดำเนินการให้ทันทีค่ะ
 204,Menus_UI_Settings,326,1336,34175,"Alright, that's everything<FG> Let's see if I can find a match for you, shall we<FH>",เอาล่ะ ครบทุกอย่างแล้วค่ะ<FG> มาดูกันนะคะว่าฉันจะค้นหาห้องที่เข้ากับคุณได้ไหม<FH>
 204,Menus_UI_Settings,327,1340,34258,UNUSED,
 204,Menus_UI_Settings,328,1344,34265,We've sent a request for you to join that lobby. Please wait a moment...,เราได้ส่งคำขอเข้าร่วมล็อบบี้นั้นไปแล้วค่ะ โปรดรอสักครู่...
@@ -347,18 +347,18 @@
 204,Menus_UI_Settings,345,1412,35620,"Oh, you've changed your mind<FH> Alright, no problem.",อ้าว เปลี่ยนใจแล้วเหรอคะ<FH> ไม่เป็นไรเลยค่ะ ไม่มีปัญหา
 204,Menus_UI_Settings,346,1416,35673,"I'm sorry, but I'm afraid you can't use that name. Would you mind going with something else<FH>",ขออภัยด้วยนะคะ แต่ดูเหมือนคุณจะใช้ชื่อนั้นไม่ได้ ช่วยเปลี่ยนเป็นชื่ออื่นได้ไหมคะ<FH>
 204,Menus_UI_Settings,347,1420,35768,Setting a secret number lets you make sure only other people who know that number can join you.,การตั้งหมายเลขลับจะช่วยให้มั่นใจได้ว่ามีเพียงคนที่รู้หมายเลขนี้เท่านั้นที่จะเข้าร่วมกับคุณได้ค่ะ
-204,Menus_UI_Settings,348,1424,35864,"If you want to set up a game with friends, agree on a number beforehand, and you can go adventuring together in private.",หากคุณต้องการเล่นกับเพื่อน ให้ตกลงหมายเลขกันไว้ล่วงหน้า แล้วคุณจะสามารถออกผจญภัยด้วยกันแบบส่วนตัวได้ค่ะ
+204,Menus_UI_Settings,348,1424,35864,"If you want to set up a game with friends, agree on a number beforehand, and you can go adventuring together in private.",หากคุณต้องการเล่นกับเพื่อน ให้ตกลงหมายเลขกันไว้ล่วงหน้าแล้วคุณจะสามารถออกผจญภัยด้วยกันแบบส่วนตัวได้ค่ะ
 204,Menus_UI_Settings,349,1428,35985,"Likewise, you'll sometimes come across a lobby where the owner has set a secret number of their own.",ในทางกลับกัน บางครั้งคุณอาจเจอล็อบบี้ที่เจ้าของห้องตั้งหมายเลขลับของตนเองไว้เช่นกันค่ะ
 204,Menus_UI_Settings,350,1432,36086,"You won't be able to join them if you don't know it, so if you're planning to work together, be sure to find out the number first.",คุณจะไม่สามารถเข้าร่วมได้หากไม่ทราบหมายเลข ดังนั้นหากวางแผนจะเล่นด้วยกัน อย่าลืมถามหมายเลขลับมาก่อนนะคะ
 204,Menus_UI_Settings,351,1436,36217,Right<FG> Time to choose which room you'd like to enter<FG>,เอาล่ะค่ะ<FG> ถึงเวลาเลือกว่าต้องการเข้าห้องใดแล้วค่ะ<FG>
-204,Menus_UI_Settings,352,1440,36275,"Okay, I'll take care of this. Just leave it to me and the powers of my Traveller's Tome, and I'll see who I can find for you<FG>",ได้เลยค่ะ เดี๋ยวฉันจัดการให้เอง ปล่อยให้เป็นหน้าที่ของฉันและพลังแห่งบันทึกนักเดินทาง แล้วฉันจะดูให้ว่ามีใครที่คุณร่วมทางด้วยได้บ้างนะคะ<FG>
+204,Menus_UI_Settings,352,1440,36275,"Okay, I'll take care of this. Just leave it to me and the powers of my Traveller's Tome, and I'll see who I can find for you<FG>",ได้เลยค่ะ เดี๋ยวฉันจัดการให้เอง ปล่อยให้เป็นหน้าที่ของฉันและพลังแห่งบันทึกนักเดินทางแล้วฉันจะดูให้ว่ามีใครที่คุณร่วมทางด้วยได้บ้างนะคะ<FG>
 204,Menus_UI_Settings,353,1444,36403,"Right, that's everything set up. I'll let you know when it's all ready, so feel free to carry on adventuring in the meantime<FG>",เอาล่ะ ทุกอย่างพร้อมแล้วค่ะ เมื่อพร้อมทั้งหมดฉันจะแจ้งให้ทราบ ระหว่างนี้ผจญภัยตามสบายได้เลยนะคะ<FG>
 204,Menus_UI_Settings,354,1448,36531,"Oh, you've changed your mind<FH> Alright, no problem.",อ้าว เปลี่ยนใจแล้วเหรอคะ<FH> ได้เลยค่ะ ไม่มีปัญหา
 204,Menus_UI_Settings,355,1452,36584,Which map do you want to change to<FH>,ต้องการเปลี่ยนเป็นแผนที่ใดคะ<FH>
 204,Menus_UI_Settings,356,1456,36622,"I'll change your destination to <I0>M1, then.\nIs that right<FH>",งั้นฉันจะเปลี่ยนจุดหมายปลายทางเป็น <I0>M1 นะคะ\nถูกต้องหรือไม่คะ<FH>
 204,Menus_UI_Settings,357,1460,36684,"Okay, I've changed your destination to <I0>M1. Have a nice trip<FG>",เรียบร้อยค่ะ ฉันเปลี่ยนจุดหมายเป็น <I0>M1 ให้แล้ว ขอให้เดินทางให้สนุกนะคะ<FG>
 204,Menus_UI_Settings,358,1464,36750,"...Sorry, I wasn't able to change your destination for some reason. Would you mind trying again in a little while<FH>",...ขออภัยด้วยนะคะ ไม่สามารถเปลี่ยนจุดหมายปลายทางได้ด้วยเหตุผลบางประการ ช่วยลองใหม่อีกครั้งในอีกสักครู่ได้ไหมคะ<FH>
-204,Menus_UI_Settings,359,1468,36867,"I'm ever so sorry, but only the host can change the destination of this lobby.",ต้องขออภัยจริง ๆ นะคะ แต่มีเพียงหัวหน้าห้อง (Host) เท่านั้นที่สามารถเปลี่ยนจุดหมายปลายทางของล็อบบี้นี้ได้ค่ะ
+204,Menus_UI_Settings,359,1468,36867,"I'm ever so sorry, but only the host can change the destination of this lobby.",ต้องขออภัยจริง ๆ นะคะ แต่มีเพียงหัวหน้าห้อง เท่านั้นที่สามารถเปลี่ยนจุดหมายปลายทางของล็อบบี้นี้ได้ค่ะ
 204,Menus_UI_Settings,360,1472,36946,"I'm ever so sorry, but the destination of this lobby can't be changed.",ต้องขออภัยจริง ๆ นะคะ แต่จุดหมายปลายทางของล็อบบี้นี้ไม่สามารถเปลี่ยนแปลงได้ค่ะ
 204,Menus_UI_Settings,361,1476,37017,"You'd like to change where this lobby leads to<FH> Alright, but if you remember, you specified a destination on your recruitment sheet too.",ต้องการเปลี่ยนจุดหมายของล็อบบี้นี้งั้นเหรอคะ<FH> ได้ค่ะ แต่ถ้ายังจำได้ คุณระบุจุดหมายไว้ในใบประกาศรับสมัครด้วยนะคะ
 204,Menus_UI_Settings,362,1480,37156,"If you don't mind, I'll take the liberty of updating it there as well.",หากไม่ขัดข้อง ฉันขออนุญาตอัปเดตข้อมูลตรงจุดนั้นให้ด้วยเลยนะคะ
@@ -368,7 +368,7 @@
 204,Menus_UI_Settings,366,1496,37397,Welcome back<FG>,ยินดีต้อนรับกลับมาค่ะ<FG>
 204,Menus_UI_Settings,367,1500,37413,Welcome back<FG> Did you have a nice time in the dimensional dungeons<FH>,ยินดีต้อนรับกลับมาค่ะ<FG> สนุกกับการผจญภัยในดันเจี้ยนมิติไหมคะ<FH>
 204,Menus_UI_Settings,368,1504,37485,Welcome back<FG> Did you have fun in the dimensional dungeons<FH>,ยินดีต้อนรับกลับมาค่ะ<FG> ได้รับความสนุกสนานในดันเจี้ยนมิติไหมคะ<FH>
-204,Menus_UI_Settings,369,1508,37549,"If you'd like to go back to the same dungeon, just walk back through the door behind you. If you'd like to go somewhere else, let me know<FG>",หากต้องการกลับไปดันเจี้ยนเดิม เพียงเดินกลับเข้าประตูบานข้างหลังได้เลยค่ะ หรือหากต้องการไปที่อื่น โปรดบอกฉันนะคะ<FG>
+204,Menus_UI_Settings,369,1508,37549,"If you'd like to go back to the same dungeon, just walk back through the door behind you. If you'd like to go somewhere else, let me know<FG>",หากต้องการกลับไปดันเจี้ยนเดิม เพียงเดินกลับเข้าประตูบานข้างหลังได้เลยค่ะหรือหากต้องการไปที่อื่น โปรดบอกฉันนะคะ<FG>
 204,Menus_UI_Settings,370,1512,37690,Welcome back<FG> I hope you were able to help that adventurer in need.,ยินดีต้อนรับกลับมาค่ะ<FG> หวังว่าคุณจะช่วยเหลือเพื่อนนักผจญภัยคนนั้นได้สำเร็จนะคะ
 204,Menus_UI_Settings,371,1516,37760,It's possible to set a secret number for this lobby if you like. Do you want to<FH>,คุณสามารถตั้งหมายเลขลับสำหรับล็อบบี้นี้ได้นะคะ ต้องการตั้งค่าหรือไม่คะ<FH>
 204,Menus_UI_Settings,372,1520,37843,You can use the number to make sure that only your friends can join you. But you'll have to remember to let them know what it is<FG>,คุณสามารถใช้หมายเลขนี้เพื่อให้มั่นใจว่ามีเพียงเพื่อนของคุณเท่านั้นที่จะเข้าร่วมได้ แต่อย่าลืมบอกหมายเลขให้เพื่อนทราบด้วยนะคะ<FG>
@@ -385,9 +385,9 @@
 204,Menus_UI_Settings,383,1564,38573,"Unfortunately, it wasn't possible to access the server.",ขออภัยด้วยค่ะ ไม่สามารถเข้าถึงเซิร์ฟเวอร์ได้
 204,Menus_UI_Settings,384,1568,38629,Who would you like to use<FH>,ต้องการใช้ตัวละครใดคะ<FH>
 204,Menus_UI_Settings,385,1572,38658,Which vocation would you like to set for <F4><I0>41<FH>,ต้องการกำหนดอาชีพใดให้กับ <F4><I0>41 คะ<FH>
-204,Menus_UI_Settings,386,1576,38711,Looks like you've got the hang of how things work around here<FG> Why don't I give you a little something to make it easier in future<FH>,ดูเหมือนคุณจะเริ่มคุ้นเคยกับระบบที่นี่แล้วนะคะ<FG> ฉันขอมอบของเล็ก ๆ น้อย ๆ เพื่อให้สะดวกขึ้นในอนาคตดีกว่าไหมคะ<FH>
-204,Menus_UI_Settings,387,1580,38847,"Here, it's called a Traveller's Tome. I hope you'll make good use of it<FG>",นี่ค่ะ สิ่งนี้เรียกว่า บันทึกนักเดินทาง (Traveller's Tome) หวังว่าคุณจะใช้ประโยชน์จากมันได้เป็นอย่างดีนะคะ<FG>
-204,Menus_UI_Settings,388,1584,38922,<F4><I0>00 receives a Traveller's Tome<FG>,<F4><I0>00 ได้รับบันทึกนักเดินทาง (Traveller's Tome)<FG>
+204,Menus_UI_Settings,386,1576,38711,Looks like you've got the hang of how things work around here<FG> Why don't I give you a little something to make it easier in future<FH>,ดูเหมือนคุณจะเริ่มคุ้นเคยกับระบบที่นี่แล้วนะคะ<FG> ฉันขอมอบของเล็ก ๆ น้อย ๆเพื่อให้สะดวกขึ้นในอนาคตดีกว่าไหมคะ<FH>
+204,Menus_UI_Settings,387,1580,38847,"Here, it's called a Traveller's Tome. I hope you'll make good use of it<FG>",นี่ค่ะ สิ่งนี้เรียกว่า บันทึกนักเดินทาง หวังว่าคุณจะใช้ประโยชน์จากมันได้เป็นอย่างดีนะคะ<FG>
+204,Menus_UI_Settings,388,1584,38922,<F4><I0>00 receives a Traveller's Tome<FG>,<F4><I0>00 ได้รับบันทึกนักเดินทาง<FG>
 204,Menus_UI_Settings,389,1588,38962,"Here at the Quester's Rest, we send adventurers off to dungeons in other dimensions using magical maps.",ที่เควสเตอร์ส เรสต์แห่งนี้ เราส่งเหล่านักผจญภัยไปยังดันเจี้ยนในมิติอื่นโดยใช้แผนที่เวทมนตร์ค่ะ
 204,Menus_UI_Settings,390,1592,39066,"To commemorate your first visit, here's a free map of your very own<FG> The dungeon this one leads to is great for beginners<FG>",เพื่อเป็นที่ระลึกในการมาเยือนครั้งแรก นี่คือแผนที่ฟรีของคุณเองค่ะ<FG> ดันเจี้ยนที่แผนที่นี้นำไปนั้นเหมาะสำหรับผู้เริ่มต้นอย่างยิ่งเลยค่ะ<FG>
 204,Menus_UI_Settings,391,1596,39193,<F4><I0>00 receives the <I0>M1 map<FG>,<F4><I0>00 ได้รับแผนที่ <I0>M1<FG>
@@ -400,18 +400,18 @@
 204,Menus_UI_Settings,398,1624,39649,"I'm terribly sorry, but there aren't any bonus balls waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีโบนัสบอลรอคุณอยู่เลยค่ะ
 204,Menus_UI_Settings,399,1628,39719,"I'm terribly sorry, but there aren't any quicksilver keys waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีกุญแจควิกซิลเวอร์คีย์รอคุณอยู่เลยค่ะ
 204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1โบนัสบอล 1 ลูก<E6>01โบนัสบอล <GR>1 ลูก<E7>01 นะคะ
-204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",ต้องการรับหนึ่งลูกหรือไม่<FH>\n(จะเหลือโบนัสบอล <E5>R1หนึ่งลูก<E6>01ทั้งหมด <GR>1 ลูก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",ต้องการรับ1 ลูกหรือไม่<FH>\n(จะเหลือโบนัสบอล <E5>R11 ลูก<E6>01ทั้งหมด <GR>1 ลูก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
 204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1กุญแจควิกซิลเวอร์คีย์ 1 ดอก<E6>01กุญแจควิกซิลเวอร์คีย์ <GR>1 ดอก<E7>01 สำหรับคุณนะคะ
-204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",ต้องการรับหนึ่งดอกหรือไม่<FH>\n(จะเหลือกุญแจควิกซิลเวอร์คีย์ <E5>R1หนึ่งดอก<E6>01ทั้งหมด <GR>1 ดอก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",ต้องการรับ1 ดอกหรือไม่<FH>\n(จะเหลือกุญแจควิกซิลเวอร์คีย์ <E5>R11 ดอก<E6>01ทั้งหมด <GR>1 ดอก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
 204,Menus_UI_Settings,404,1648,40270,Here you go<FG>,นี่ค่ะ<FG>
 204,Menus_UI_Settings,405,1652,40285,<F4><I0>00 receives a bonus ball<FG>,<F4><I0>00 ได้รับโบนัสบอล<FG>
 204,Menus_UI_Settings,406,1656,40319,<F4><I0>00 receives a quicksilver key<FG>,<F4><I0>00 ได้รับกุญแจควิกซิลเวอร์คีย์<FG>
 204,Menus_UI_Settings,407,1660,40358,Visiting this dungeon will reduce your stock of quicksilver keys from <GR>1 to <GR>2. Are you sure<FH>,การเข้าสู่ดันเจี้ยนนี้จะลดจำนวนกุญแจควิกซิลเวอร์คีย์ของคุณจาก <GR>1 เหลือ <GR>2 ดอก แน่ใจหรือไม่คะ<FH>
 204,Menus_UI_Settings,408,1664,40458,"Hmm... I'm ever so sorry, but I wasn't able to check your items for you...",หืม... ขออภัยด้วยนะคะ แต่ฉันไม่สามารถตรวจสอบไอเทมของคุณได้ในขณะนี้...
 204,Menus_UI_Settings,409,1668,40533,"Hmm... I'm ever so sorry, but there was a problem getting your item for you...",หืม... ขออภัยด้วยนะคะ เกิดปัญหาในการรับไอเทมของคุณค่ะ...
-204,Menus_UI_Settings,410,1672,40612,It looks like you've got the Online Features option turned off in the Settings menu. Would you mind turning it on and coming back again<FH>,ดูเหมือนว่าคุณจะปิดตัวเลือก ฟีเจอร์ออนไลน์ ในเมนูตั้งค่าอยู่นะคะ ช่วยเปิดใช้งานแล้วแวะมาใหม่อีกครั้งได้ไหมคะ<FH>
+204,Menus_UI_Settings,410,1672,40612,It looks like you've got the Online Features option turned off in the Settings menu. Would you mind turning it on and coming back again<FH>,ดูเหมือนว่าคุณจะปิดตัวเลือก ฟีเจอร์ออนไลน์ในเมนูตั้งค่าอยู่นะคะ ช่วยเปิดใช้งานแล้วแวะมาใหม่อีกครั้งได้ไหมคะ<FH>
 204,Menus_UI_Settings,411,1676,40751,The Online Features option is turned off in the Settings menu. Please turn it on and try again.,ตัวเลือก ฟีเจอร์ออนไลน์ ถูกปิดอยู่ในเมนูตั้งค่า โปรดเปิดใช้งานแล้วลองใหม่อีกครั้งค่ะ
-204,Menus_UI_Settings,412,1680,40847,Help <I0>M1 with the ‘<I0>M2’ battle<FH>,ต้องการช่วย <I0>M1 ในการต่อสู้ ‘<I0>M2’ หรือไม่คะ<FH>
+204,Menus_UI_Settings,412,1680,40847,Help <I0>M1 with the ‘<I0>M2’ battle<FH>,ต้องการช่วย <I0>M1 ในการต่อสู้ ‘<I0>M2’หรือไม่คะ<FH>
 204,Menus_UI_Settings,413,1684,40889,Do you want to withdraw your offer of help<FH>,ต้องการถอนข้อเสนอช่วยเหลือหรือไม่คะ<FH>
 204,Menus_UI_Settings,414,1688,40935,Are you sure you want to withdraw<FH>,แน่ใจหรือไม่คะว่าต้องการถอนตัว<FH>
 204,Menus_UI_Settings,415,1692,40972,Listening for answers to your call to arms...\nPlease wait.,กำลังรอการตอบรับการระดมพลของคุณ...\nโปรดรอสักครู่
@@ -445,7 +445,7 @@
 204,Menus_UI_Settings,443,1804,42994,"Let us pray to the arbiter of occupations, and ask that you be permitted to redistribute the skill points you have earned thus far.",เรามาร่วมสวดภาวนาต่อองค์ผู้ตัดสินแห่งสายอาชีพ และขออนุญาตจัดสรรแต้มสกิลที่เจ้าได้รับมาทั้งหมดเสียใหม่เถิด
 204,Menus_UI_Settings,444,1808,43126,Who among you wishes to reallocate their skill points<FH>,ผู้ใดในหมู่พวกเจ้าที่ประสงค์จะจัดสรรแต้มสกิลของตนใหม่หรือ<FH>
 204,Menus_UI_Settings,445,1812,43183,Does anyone else wish to reallocate their skill points<FH>,มีผู้ใดอื่นประสงค์จะจัดสรรแต้มสกิลของตนใหม่อีกหรือไม่<FH>
-204,Menus_UI_Settings,446,1816,43241,"<F4><I0>41, hm<FH> Very well. I must ask for a small donation of <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that seem acceptable<FH>",<F4><I0>41 สินะ หืม<FH> ได้เลย ข้าจำเป็นต้องขอรับเงินบริจาคเล็กน้อยจำนวน <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ยินยอมตามนี้หรือไม่<FH>
+204,Menus_UI_Settings,446,1816,43241,"<F4><I0>41, hm<FH> Very well. I must ask for a small donation of <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that seem acceptable<FH>",<F4><I0>41 สินะ หืม<FH> ได้เลย ข้าจำเป็นต้องขอรับเงินบริจาคเล็กน้อยจำนวน <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ยินยอมตามนี้หรือไม่<FH>
 204,Menus_UI_Settings,447,1820,43375,O mighty arbiter of occupations<FG> Permit your servant <F4><I0>41 to redistribute the gifts you have so generously given<FG>,ข้าแต่องค์ผู้ตัดสินแห่งสายอาชีพผู้ยิ่งใหญ่<FG> โปรดอนุญาตให้ผู้รับใช้ <F4><I0>41 ได้จัดสรรพรที่พระองค์มอบให้อย่างโอบอ้อมอารีนี้ใหม่อีกคราด้วยเถิด<FG>
 204,Menus_UI_Settings,448,1824,43497,It is done. May <F4><I0>41's reassignment of the gifts received from on high propel <E0>41him<E3>41her<E4>41 to newer and greater heights<FG>,สัมฤทธิ์ผลแล้ว ขอให้การจัดสรรพรที่ได้รับจากเบื้องบนใหม่นี้ ช่วยผลักดันให้ <F4><I0>41 ก้าวไปสู่จุดสูงสุดครั้งใหม่ที่ยิ่งใหญ่กว่าเดิมด้วยเถิด<FG>
 204,Menus_UI_Settings,449,1828,43633,"Hm<FH> But <F4><I0>41 has no skill points to reassign, my child<FG>",หืม<FH> แต่ <F4><I0>41 ไม่มีแต้มสกิลให้จัดสรรใหม่เลยนะ บุตรเอ๋ย<FG>
@@ -454,13 +454,13 @@
 204,Menus_UI_Settings,452,1840,43837,Very well. I wish you good fortune. May the arbiter of occupations watch over you<FG>,ดีแล้ว ข้าขออวยพรให้เจ้าโชคดี ขอให้องค์ผู้ตัดสินแห่งสายอาชีพคุ้มครองเจ้า<FG>
 204,Menus_UI_Settings,453,1844,43922,It is truly a pleasure to offer guidance to one so accomplished. May the arbiter of occupations watch over you<FG>,เป็นความยินดีอย่างแท้จริงที่ได้ให้คำชี้แนะแก่ผู้ที่ประสบความสำเร็จเช่นนี้ ขอให้องค์ผู้ตัดสินแห่งสายอาชีพคุ้มครองเจ้า<FG>
 204,Menus_UI_Settings,454,1848,44036,"Hello<FG> I'm afraid I haven't finished setting up just yet<MV>come by later, maybe<FH>",สวัสดีครับ<FG> พอดีผมยังเตรียมร้านไม่เสร็จเลยครับ<MV>ไว้ค่อยแวะมาใหม่ทีหลังนะครับ<FH>
-204,Menus_UI_Settings,455,1852,44121,"Hello<FG> This is the Swap Shop, where you can trade items with the townspeople<FG>",สวัสดีครับ<FG> ที่นี่คือร้านแลกเปลี่ยน (Swap Shop) ที่ที่คุณสามารถแลกเปลี่ยนไอเทมกับชาวเมืองได้ครับ<FG>
+204,Menus_UI_Settings,455,1852,44121,"Hello<FG> This is the Swap Shop, where you can trade items with the townspeople<FG>",สวัสดีครับ<FG> ที่นี่คือร้านแลกเปลี่ยน ที่ที่คุณสามารถแลกเปลี่ยนไอเทมกับชาวเมืองได้ครับ<FG>
 204,Menus_UI_Settings,456,1856,44203,"Well, if it isn't the infamous <F4><I0>00<FG> Have you come to see the latest offers<FH>",แหม นี่มันท่าน <F4><I0>00 ผู้เลื่องชื่อนี่นา<FG> แวะมาดูข้อเสนอแลกเปลี่ยนล่าสุดใช่ไหมครับ<FH>
 204,Menus_UI_Settings,457,1860,44288,"Hello, <F4><I0>00<FG> We've been bombarded with requests to trade with you<FG> You're quite the celebrity<FG>",สวัสดีครับ คุณ <F4><I0>00<FG> มีคนส่งคำขอแลกเปลี่ยนของกับคุณเข้ามาเพียบเลยครับ<FG> คุณนี่ดังจริง ๆ เลยนะเนี่ย<FG>
 204,Menus_UI_Settings,458,1864,44393,"Welcome, <F4><I0>00<FG> I can't keep the townspeople away, you know<FG> They're all itching to trade with a hero like you<FG>",ยินดีต้อนรับครับ คุณ <F4><I0>00<FG> ชาวเมืองตื่นเต้นกันใหญ่เลยครับ<FG> ทุกคนต่างอยากแลกของกับผู้กล้าอย่างคุณทั้งนั้นเลยครับ<FG>
 204,Menus_UI_Settings,459,1868,44514,Do you like trading items<FH> Then you'll love the Swap Shop<FG> It's where people come to barter for the best deals going<FG>,คุณชอบแลกเปลี่ยนไอเทมไหมครับ<FH> ถ้าชอบล่ะก็ คุณจะต้องหลงรักร้าน Swap Shop แน่นอนครับ<FG> ที่นี่คือที่ที่ผู้คนมาร่วมแลกเปลี่ยนดีลที่ดีที่สุดกันครับ<FG>
-204,Menus_UI_Settings,460,1872,44638,"The items on offer change all the time, so be sure to pop by regularly and see if someone's got what you want<FG>",ไอเทมที่เปิดรับแลกจะเปลี่ยนไปตลอดเวลา ดังนั้นอย่าลืมแวะมาบ่อย ๆ เพื่อดูว่ามีใครเสนอของที่คุณต้องการไหมนะครับ<FG>
-204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",และถ้ามีของที่คุณอยากได้ แต่ยังไม่มีไอเทมที่ต้องใช้แลก ก็อย่าเพิ่งหมดหวังนะครับ<MV>คุณสามารถบันทึกข้อเสนอไว้ได้หนึ่งข้อเสนอเพื่อมาแลกทีหลังได้ครับ<FG>
+204,Menus_UI_Settings,460,1872,44638,"The items on offer change all the time, so be sure to pop by regularly and see if someone's got what you want<FG>",ไอเทมที่เปิดรับแลกจะเปลี่ยนไปตลอดเวลา ดังนั้นอย่าลืมแวะมาบ่อย ๆเพื่อดูว่ามีใครเสนอของที่คุณต้องการไหมนะครับ<FG>
+204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",และถ้ามีของที่คุณอยากได้ แต่ยังไม่มีไอเทมที่ต้องใช้แลก ก็อย่าเพิ่งหมดหวังนะครับ<MV>คุณสามารถบันทึกข้อเสนอไว้ได้1 ข้อเสนอเพื่อมาแลกทีหลังได้ครับ<FG>
 204,Menus_UI_Settings,462,1880,44887,Do any of our other offers take your fancy<FH>,มีข้อเสนออื่น ๆ ของเราที่ถูกใจคุณอีกไหมครับ<FH>
 204,Menus_UI_Settings,463,1884,44933,Come back soon<FG>,ไว้แวะมาใหม่นะครับ<FG>
 204,Menus_UI_Settings,464,1888,44951,Customers of your calibre are always welcome<FG> Come back soon<FG>,ลูกค้าระดับคุณ ยินดีต้อนรับเสมอครับ<FG> ไว้แวะมาใหม่นะครับ<FG>
@@ -485,9 +485,9 @@
 204,Menus_UI_Settings,483,1964,46594,"Well met, noble <F4><I0>00<FG> Let us peruse your current monster suppression record, O knight of renown.",ยินดีที่ได้พบ ท่าน <F4><I0>00 ผู้สูงส่ง<FG> เรามาตรวจสอบบันทึกการปราบสัตว์ประหลาดของเจ้ากันเถิด อัศวินผู้เลื่องชื่อ
 204,Menus_UI_Settings,484,1968,46697,"Hail <F4><I0>00<FG> Let us peruse your current monster suppression record, storied hero of the realm<FG>",ขอคารวะท่าน <F4><I0>00<FG> เรามาตรวจสอบบันทึกการปราบสัตว์ประหลาดของเจ้ากันเถิด ท่านผู้กล้าในตำนานแห่งอาณาจักร<FG>
 204,Menus_UI_Settings,485,1972,46798,Oh-ho<FG> It seems you have met a monster suppression quota<FG> Allow me to present you with your reward<FG>,โอ้โฮ<FG> ดูเหมือนเจ้าจะบรรลุเป้าหมายการปราบปรามสัตว์ประหลาดแล้วนะ<FG> ขอมอบรางวัลตอบแทนให้แก่เจ้า<FG>
-204,Menus_UI_Settings,486,1976,46904,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
+204,Menus_UI_Settings,486,1976,46904,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
 204,Menus_UI_Settings,487,1980,46967,Magnificent<FG> You have met all suppression quotas for a given monster type<FG> Allow me to present you with your reward<FG>,สุดยอดมาก<FG> เจ้าบรรลุเป้าหมายการกำจัดสัตว์ประหลาดชนิดนี้ได้ครบถ้วนแล้ว<FG> ขอมอบรางวัลตอบแทนให้แก่เจ้า<FG>
-204,Menus_UI_Settings,488,1984,47090,<F4><I0>00 receives <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,488,1984,47090,<F4><I0>00 receives <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>P11 เหรียญ<E6>01%d เหรียญ<E7>01<FG>
 204,Menus_UI_Settings,489,1988,47153,The rogue monsters must be suppressed<FG> The realm is relying on you<FG>,สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> อาณาจักรหวังพึ่งพาเจ้าอยู่นะ<FG>
 204,Menus_UI_Settings,490,1992,47225,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, brave warrior<FG>",สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> เจ้าต้องต่อสู้ในการศึกอันทรงเกียรติต่อไปนะ นักรบผู้กล้าหาญ<FG>
 204,Menus_UI_Settings,491,1996,47326,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, O knight of renown<FG>",สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> เจ้าต้องต่อสู้ในการศึกอันทรงเกียรติต่อไปนะ อัศวินผู้เลื่องชื่อ<FG>
@@ -510,7 +510,7 @@
 204,Menus_UI_Settings,508,2064,48989,Are you sure you want to accept this quest<FH>,แน่ใจหรือไม่คะว่าต้องการรับเควสต์นี้<FH>
 204,Menus_UI_Settings,509,2068,49035,It seems this particular quest has to be completed within a <C9>time limit<R.> Are you sure you want to accept it<FH>,ดูเหมือนว่าเควสต์นี้จะต้องทำให้เสร็จภายใน <C9>เวลาที่กำหนด<R.> นะคะ แน่ใจหรือไม่คะว่าต้องการรับเควสต์นี้<FH>
 204,Menus_UI_Settings,510,2072,49150,"You can only accept one time-limited quest at a time, I'm afraid. Good luck with the current one<FG>",คุณสามารถรับเควสต์ที่มีการจำกัดเวลาได้เพียงครั้งละหนึ่งเควสต์เท่านั้นค่ะ ขอให้โชคดีกับเควสต์ปัจจุบันนะคะ<FG>
-204,Menus_UI_Settings,511,2076,49250,<F4><I0>00 accepted the ‘<I0>L1’ quest<FG>,<F4><I0>00 ตอบรับเควสต์ ‘<I0>L1’ แล้ว<FG>
+204,Menus_UI_Settings,511,2076,49250,<F4><I0>00 accepted the ‘<I0>L1’ quest<FG>,<F4><I0>00 ตอบรับเควสต์ ‘<I0>L1’แล้ว<FG>
 204,Menus_UI_Settings,512,2080,49293,"Sorry, I'm afraid you can only accept up to eight quests at a time. You'll need to report a completed quest or cancel one first.",ขออภัยด้วยนะคะ คุณสามารถรับเควสต์ได้สูงสุดเพียงแปดเควสต์ในเวลาเดียวกันค่ะ คุณต้องส่งรายงานเควสต์ที่เสร็จแล้วหรือยกเลิกเควสต์เก่าก่อนนะคะ
 204,Menus_UI_Settings,513,2084,49422,<F4><I0>00 reports successful completion of the ‘%s’ quest<FG>,<F4><I0>00 ส่งรายงานผลสำเร็จของเควสต์ ‘%s’ เรียบร้อยแล้ว<FG>
 204,Menus_UI_Settings,514,2088,49486,And here's your reward<FG> Enjoy<FG>,และนี่คือรางวัลตอบแทนของคุณค่ะ<FG> ยินดีด้วยนะคะ<FG>
@@ -545,7 +545,7 @@
 204,Menus_UI_Settings,543,2204,51247,Goodness me<FG> I don't have any more quests to give you<FG> Is there anything else I can help you with<FH>,แหม คุณพระช่วย<FG> ฉันไม่มีเควสต์อื่นเหลือจะให้คุณทำแล้วค่ะ<FG> มีสิ่งใดอื่นให้ฉันช่วยเหลืออีกไหมคะ<FH>
 204,Menus_UI_Settings,544,2208,51352,Do you have any other completed quests to report<FH>,มีรายงานเควสต์ที่สำเร็จแล้วอื่น ๆ อีกไหมคะ<FH>
 204,Menus_UI_Settings,545,2212,51404,Do you have any more completed quests to report<FH>,มีรายงานเควสต์ที่สำเร็จแล้วอื่น ๆ อีกไหมคะ<FH>
-204,Menus_UI_Settings,546,2216,51455,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
+204,Menus_UI_Settings,546,2216,51455,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
 204,Menus_UI_Settings,547,2220,51518,<F4><I0>00 receives %d <E5>P1mini medal<E6>01mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล %d เหรียญ<FG>
 204,Menus_UI_Settings,548,2224,51579,"Congratulations<FG> Thanks to your untiring efforts, every single one of our clients' requests has been fulfilled<FG>",ขอแสดงความยินดีด้วยค่ะ<FG> ด้วยความพยายามอย่างไม่ย่อท้อของคุณ คำขอร้องจากผู้ว่าจ้างทุกคนได้รับการตอบสนองจนครบถ้วนแล้วค่ะ<FG>
 204,Menus_UI_Settings,549,2228,51695,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",ฉันรู้สึกใจหายนิดหน่อยที่หน้าที่ของฉันตรงนี้จบลงแล้ว แต่ว่า... โอ้ ฉันพูดอะไรออกไปเนี่ย<FH> พวกเราทุกคนซาบซึ้งในความช่วยเหลือของคุณมากนะคะ ไว้แวะมาทักทายกันใหม่นะ<FG>
@@ -558,22 +558,22 @@
 204,Menus_UI_Settings,556,2256,52374,It's such an honour to have the hero of the realm drop by<FG> Feel free to come and visit any time<FG>,เป็นเกียรติอย่างยิ่งที่ท่านผู้กล้าแห่งอาณาจักรแวะมาเยือน<FG> แวะมาหาได้ตลอดเวลาเลยนะคะ<FG>
 204,Menus_UI_Settings,557,2260,52475,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",ฉันรู้สึกใจหายนิดหน่อยที่หน้าที่ของฉันตรงนี้จบลงแล้ว แต่ว่า... โอ้ ฉันพูดอะไรออกไปเนี่ย<FH> พวกเราทุกคนซาบซึ้งในความช่วยเหลือของคุณมากนะคะ ไว้แวะมาทักทายกันใหม่นะ<FG>
 204,Menus_UI_Settings,558,2264,52613,"This aura<FG> Truly it is the aura of a warrior<FG> I am the Martial Master, and I have waited for one such as you<FG> You shall be my disciple<FG>",ออร่านี้มัน<FG> นี่คือออร่าของนักรบที่แท้จริง<FG> ข้าคือปรมาจารย์แห่งยุทธภพ และข้าเฝ้ารอคนเช่นเจ้ามาเนิ่นนานแล้ว<FG> เจ้าจะต้องมาเป็นศิษย์ของข้า<FG>
-204,Menus_UI_Settings,559,2268,52757,"If you are to walk the path of prowess, you must grow proficient in the ways of weaponry. Do so, and I will have much to teach you.",หากเจ้าคิดจะก้าวเดินบนเส้นทางแห่งยอดฝีมือ เจ้าจะต้องฝึกฝนความชำนาญในวิถีแห่งอาวุธให้เชี่ยวชาญ จงทำเช่นนั้น แล้วข้าจะมีสิ่งต่าง ๆ สั่งสอนเจ้ามากมาย
+204,Menus_UI_Settings,559,2268,52757,"If you are to walk the path of prowess, you must grow proficient in the ways of weaponry. Do so, and I will have much to teach you.",หากเจ้าคิดจะก้าวเดินบนเส้นทางแห่งยอดฝีมือ เจ้าจะต้องฝึกฝนความชำนาญในวิถีแห่งอาวุธให้เชี่ยวชาญ จงทำเช่นนั้นแล้วข้าจะมีสิ่งต่าง ๆ สั่งสอนเจ้ามากมาย
 204,Menus_UI_Settings,560,2272,52889,But have no fear<MV>you need not master all the weapons at once. Begin by training in those you favour.,แต่อย่าได้กังวลไป<MV>เจ้าไม่จำเป็นต้องเชี่ยวชาญอาวุธทุกชนิดพร้อมกันหรอก เริ่มต้นฝึกฝนจากอาวุธที่เจ้าโปรดปรานก่อนเถิด
 204,Menus_UI_Settings,561,2276,52992,"Ah, so you have found friends who also aspire to the lofty peak of martial mastery<FG> I will be happy to welcome them, too, as disciples<FG>",อา เจ้าพบสหายที่ปรารถนาจะก้าวขึ้นสู่จุดสูงสุดแห่งยุทธภพด้วยแล้วสินะ<FG> ข้ายินดียิ่งที่จะต้อนรับพวกเขามาเป็นศิษย์ด้วยเช่นกัน<FG>
-204,Menus_UI_Settings,562,2280,53132,"Bring them to me, and I shall assess the progress of their training.",พาพวกเขามาหาข้าสิ แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของพวกเขาให้
+204,Menus_UI_Settings,562,2280,53132,"Bring them to me, and I shall assess the progress of their training.",พาพวกเขามาหาข้าสิแล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของพวกเขาให้
 204,Menus_UI_Settings,563,2284,53201,And never forget<MV>allies who are not in your party will not gain in proficiency.,และอย่าได้ลืมเป็นอันขาด<MV>สหายที่ไม่ได้อยู่ในปาร์ตี้ของเจ้า จะไม่ได้รับความชำนาญในอาวุธนะ
-204,Menus_UI_Settings,564,2288,53283,"Welcome, honoured disciple<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> จงก้าวเข้ามา แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
-204,Menus_UI_Settings,565,2292,53390,"Welcome, honoured disciple<FG> I hear many great things about you of late. Now, present yourself to me, and I will evaluate your progress<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> ช่วงนี้ข้าได้ยินเรื่องราวอันยอดเยี่ยมเกี่ยวกับเจ้ามามากมายทีเดียว ก้าวเข้ามาสิ แล้วข้าจะประเมินความก้าวหน้าของเจ้าให้<FG>
-204,Menus_UI_Settings,566,2296,53530,"It brings a tear to my eye to see my disciple come so far<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",น้ำตาข้าแทบจะไหลเมื่อเห็นศิษย์รักก้าวหน้ามาได้ไกลถึงเพียงนี้<FG> ก้าวเข้ามาสิ แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
+204,Menus_UI_Settings,564,2288,53283,"Welcome, honoured disciple<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> จงก้าวเข้ามาแล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
+204,Menus_UI_Settings,565,2292,53390,"Welcome, honoured disciple<FG> I hear many great things about you of late. Now, present yourself to me, and I will evaluate your progress<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> ช่วงนี้ข้าได้ยินเรื่องราวอันยอดเยี่ยมเกี่ยวกับเจ้ามามากมายทีเดียว ก้าวเข้ามาสิแล้วข้าจะประเมินความก้าวหน้าของเจ้าให้<FG>
+204,Menus_UI_Settings,566,2296,53530,"It brings a tear to my eye to see my disciple come so far<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",น้ำตาข้าแทบจะไหลเมื่อเห็นศิษย์รักก้าวหน้ามาได้ไกลถึงเพียงนี้<FG> ก้าวเข้ามาสิแล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
 204,Menus_UI_Settings,567,2300,53668,"Oh-ho<FG> Your training progresses apace, I see<FG> Now, close your eyes, breathe deeply, and contemplate the mysteries of the martial arts<FG>",โอ้โฮ<FG> การฝึกฝนของเจ้ารุดหน้าไปอย่างรวดเร็วเลยนี่<FG> เอาล่ะ จงหลับตา หายใจเข้าลึก ๆ และเพ่งสมาธิสู่ความลี้ลับแห่งศิลปะการต่อสู้เถิด<FG>
 204,Menus_UI_Settings,568,2304,53809,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
 204,Menus_UI_Settings,569,2308,53832,<F4><I0>41 learned <I0>M1<FG>,<F4><I0>41 ได้เรียนรู้ <I0>M1<FG>
-204,Menus_UI_Settings,570,2312,53858,...Hm<FG><FH> Hmmm<FG><FH> Your aura<MV>how it has grown<FG> Fine progress indeed<FG> It is time for me to relate to you the secret art of...party powers<FG>,...หืม<FG><FH> ฮืมมม<FG><FH> ออร่าของเจ้า<MV>มันเติบโตขึ้นถึงเพียงนี้เชียวหรือ<FG> ก้าวหน้าอย่างงดงามจริง ๆ<FG> ถึงเวลาแล้วที่ข้าจะถ่ายทอดวิชาลับแห่ง... พลังปาร์ตี้ (Party Powers) ให้แก่เจ้า<FG>
+204,Menus_UI_Settings,570,2312,53858,...Hm<FG><FH> Hmmm<FG><FH> Your aura<MV>how it has grown<FG> Fine progress indeed<FG> It is time for me to relate to you the secret art of...party powers<FG>,...หืม<FG><FH> ฮืมมม<FG><FH> ออร่าของเจ้า<MV>มันเติบโตขึ้นถึงเพียงนี้เชียวหรือ<FG> ก้าวหน้าอย่างงดงามจริง ๆ<FG> ถึงเวลาแล้วที่ข้าจะถ่ายทอดวิชาลับแห่ง... พลังปาร์ตี้ ให้แก่เจ้า<FG>
 204,Menus_UI_Settings,571,2316,54008,"These powers allow for unique possibilities, and great care must be exercised to wield them appropriately. Now, open your mind<FG>",พลังเหล่านี้จะเปิดประตูสู่ความเป็นไปได้อันไร้ขีดจำกัด และต้องใช้ความระมัดระวังอย่างยิ่งยวดในการควบคุม เอาล่ะ จงเปิดจิตใจของเจ้าออกเถิด<FG>
 204,Menus_UI_Settings,572,2320,54138,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
-204,Menus_UI_Settings,573,2324,54161,The party learn the ‘<I0>M1’ party power<FG>,ปาร์ตี้ได้เรียนรู้พลังปาร์ตี้ ‘<I0>M1’ แล้ว<FG>
-204,Menus_UI_Settings,574,2328,54208,"Hm<FG><FH> You<MV> You bear a bondstone<FG> Say no more, honoured disciple<FG> Give it to me<FG> Now, breathe deeply, and open your mind...",หืม<FG><FH> เจ้า... เจ้ามีหินบอนด์สโตน (Bondstone) ติดตัวมาด้วยงั้นหรือ<FG> ไม่ต้องพูดอะไรแล้ว ศิษย์รัก<FG> ส่งมันมาให้ข้า<FG> เอาล่ะ หายใจลึก ๆ แล้วเปิดจิตใจของเจ้าออก...
+204,Menus_UI_Settings,573,2324,54161,The party learn the ‘<I0>M1’ party power<FG>,ปาร์ตี้ได้เรียนรู้พลังปาร์ตี้ ‘<I0>M1’แล้ว<FG>
+204,Menus_UI_Settings,574,2328,54208,"Hm<FG><FH> You<MV> You bear a bondstone<FG> Say no more, honoured disciple<FG> Give it to me<FG> Now, breathe deeply, and open your mind...",หืม<FG><FH> เจ้า... เจ้ามีหินบอนด์สโตน ติดตัวมาด้วยงั้นหรือ<FG> ไม่ต้องพูดอะไรแล้ว ศิษย์รัก<FG> ส่งมันมาให้ข้า<FG> เอาล่ะ หายใจลึก ๆแล้วเปิดจิตใจของเจ้าออก...
 204,Menus_UI_Settings,575,2332,54342,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
 204,Menus_UI_Settings,576,2336,54365,Your party power capacity increased by <GR>1<FG>,ความจุพลังปาร์ตี้ของคุณเพิ่มขึ้นอีก <GR>1 ช่อง<FG>
 204,Menus_UI_Settings,577,2340,54412,"Hmm... None among you are currently ready to learn the deeper mysteries of the martial arts. Train, and grow yet more proficient<FG>",หืม... ยังไม่มีใครในหมู่พวกเจ้าที่พร้อมจะเรียนรู้ความลี้ลับขั้นลึกซึ้งแห่งศิลปะการต่อสู้ในตอนนี้ จงฝึกฝนและเพิ่มความชำนาญให้มากกว่านี้เถิด<FG>
@@ -610,9 +610,9 @@
 204,Menus_UI_Settings,608,2464,56825,This will take you straight to the next battle. Are you sure<FH>,สิ่งนี้จะพาคุณตรงไปสู่การต่อสู้ถัดไปทันที แน่ใจหรือไม่<FH>
 204,Menus_UI_Settings,609,2468,56889,Do you want to put this battle on hold and return to Accordia<FH>,ต้องการพักการต่อสู้นี้ไว้ชั่วคราวและกลับสู่ออร์คาเนียหรือไม่<FH>
 204,Menus_UI_Settings,610,2472,56954,Do you want to put this battle on hold and return to the ad hoc encampment<FH>,ต้องการพักการต่อสู้นี้ไว้ชั่วคราวและกลับสู่ค่ายพักชั่วคราวหรือไม่<FH>
-204,Menus_UI_Settings,611,2476,57032,Do you want to return to the Wild Zone you were in<FH>,ต้องการกลับสู่เขตแดนรกร้าง (Wild Zone) ที่คุณเคยอยู่หรือไม่<FH>
+204,Menus_UI_Settings,611,2476,57032,Do you want to return to the Wild Zone you were in<FH>,ต้องการกลับสู่เขตแดนรกร้าง ที่คุณเคยอยู่หรือไม่<FH>
 204,Menus_UI_Settings,612,2480,57086,Do you want to return to Gragwort's Grotto<FH>,ต้องการกลับสู่ถ้ำของแกรกเวิร์ตหรือไม่<FH>
-204,Menus_UI_Settings,613,2484,57132,Do you want to cast Evac and return to your own world<FH>,ต้องการร่ายคาถาริเรมิต (Evac) เพื่อกลับสู่โลกของคุณหรือไม่<FH>
+204,Menus_UI_Settings,613,2484,57132,Do you want to cast Evac and return to your own world<FH>,ต้องการร่ายคาถาริเรมิตเพื่อกลับสู่โลกของคุณหรือไม่<FH>
 204,Menus_UI_Settings,614,2488,57189,Do you want to start this battle again from the beginning<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งตั้งแต่ต้นหรือไม่<FH>
 204,Menus_UI_Settings,615,2492,57250,<F4><I0>M1 has died<FG>,<F4><I0>M1 เสียชีวิตแล้ว<FG>
 204,Menus_UI_Settings,616,2496,57271,The party have been wiped out<FG>,ปาร์ตี้พ่ายแพ้ราบคาบแล้ว<FG>
@@ -623,18 +623,18 @@
 204,Menus_UI_Settings,621,2516,57468,You have failed a quest<FG> Go back to the quest counter to try again.,คุณทำเควสต์ล้มเหลว<FG> กลับไปที่เคาน์เตอร์เควสต์เพื่อลองใหม่อีกครั้ง
 204,Menus_UI_Settings,622,2520,57538,This establishment is closed.,สถานที่แห่งนี้ปิดทำการ
 204,Menus_UI_Settings,623,2524,57568,You are now attuned to the following Zoomstone<FI>\n‘<I0>M1’<FG>,ตอนนี้คุณจูนจิตเชื่อมต่อกับศิลารูล่าต่อไปนี้แล้ว<FI>\n‘<I0>M1’<FG>
-204,Menus_UI_Settings,624,2528,57633,Cast Zoom<FH>,ต้องการร่ายคาถารูล่า (Zoom) หรือไม่<FH>
+204,Menus_UI_Settings,624,2528,57633,Cast Zoom<FH>,ต้องการร่ายคาถารูล่าหรือไม่<FH>
 204,Menus_UI_Settings,625,2532,57646,Zoom to <I0>M1<FH>,ต้องการรูล่าไปยัง <I0>M1 หรือไม่<FH>
-204,Menus_UI_Settings,626,2536,57663,Begin the ‘<I0>M1’ battle<FH>,ต้องการเริ่มการต่อสู้ ‘<I0>M1’ หรือไม่<FH>
-204,Menus_UI_Settings,627,2540,57695,<F4><I0>41 casts Zoom<FG>,<F4><I0>41 ร่ายคาถารูล่า (Zoom)<FG>
+204,Menus_UI_Settings,626,2536,57663,Begin the ‘<I0>M1’ battle<FH>,ต้องการเริ่มการต่อสู้ ‘<I0>M1’หรือไม่<FH>
+204,Menus_UI_Settings,627,2540,57695,<F4><I0>41 casts Zoom<FG>,<F4><I0>41 ร่ายคาถารูล่า<FG>
 204,Menus_UI_Settings,628,2544,57718,Begin the next battle<FH>,ต้องการเริ่มการต่อสู้ถัดไปหรือไม่<FH>
 204,Menus_UI_Settings,629,2548,57743,But you'd only bump your head on the ceiling<FG>,แต่หัวของคุณจะโขกเพดานเอานะ<FG>
 204,Menus_UI_Settings,630,2552,57791,It's empty.,มันว่างเปล่า
 204,Menus_UI_Settings,631,2556,57803,Make a record of your adventure so far<FH>,ต้องการบันทึกการเดินทางที่ผ่านมาหรือไม่<FH>
 204,Menus_UI_Settings,632,2560,57845,"You can't change equipment right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",ไม่สามารถเปลี่ยนอุปกรณ์ในตอนนี้ได้<FG> คุณต้องอยู่นอกการต่อสู้ เก็บอาวุธเข้าฝัก และสมาชิกปาร์ตี้ทุกคนยังมีชีวิตอยู่ จึงจะเปลี่ยนได้
-204,Menus_UI_Settings,633,2564,57973,You can't cast Evac right now<FG> It will become available when you're able to use spells and abilities again.,ไม่สามารถร่ายคาถาริเรมิต (Evac) ในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
+204,Menus_UI_Settings,633,2564,57973,You can't cast Evac right now<FG> It will become available when you're able to use spells and abilities again.,ไม่สามารถร่ายคาถาริเรมิตในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
 204,Menus_UI_Settings,634,2568,58083,"You can't change skills right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",ไม่สามารถเปลี่ยนสกิลในตอนนี้ได้<FG> คุณต้องอยู่นอกการต่อสู้ เก็บอาวุธเข้าฝัก และสมาชิกปาร์ตี้ทุกคนยังมีชีวิตอยู่ จึงจะเปลี่ยนได้
-204,Menus_UI_Settings,635,2572,58208,You can't cast Zoom right now<FG> It will become available when you are out of battle and able to use spells and abilities again.,ไม่สามารถร่ายคาถารูล่า (Zoom) ในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณอยู่นอกการต่อสู้และสามารถใช้คาถาและความสามารถได้
+204,Menus_UI_Settings,635,2572,58208,You can't cast Zoom right now<FG> It will become available when you are out of battle and able to use spells and abilities again.,ไม่สามารถร่ายคาถารูล่าในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณอยู่นอกการต่อสู้และสามารถใช้คาถาและความสามารถได้
 204,Menus_UI_Settings,636,2576,58337,Select the character whose skill points you wish to allocate.,เลือกตัวละครที่คุณต้องการจัดสรรแต้มสกิล
 204,Menus_UI_Settings,637,2580,58399,Select a skill to learn.,เลือกสกิลที่ต้องการเรียนรู้
 204,Menus_UI_Settings,638,2584,58424,Skill already learned.,เรียนรู้สกิลนี้ไปแล้ว
@@ -644,7 +644,7 @@
 204,Menus_UI_Settings,642,2600,58613,<F4><I6>C1 was cursed<FG>,<F4><I6>C1 ถูกคำสาป<FG>
 204,Menus_UI_Settings,643,2604,58636,Use a bonus ball<FH>,ต้องการใช้โบนัสบอลหรือไม่<FH>
 204,Menus_UI_Settings,644,2608,58656,You can't use bonus balls right now<FG> They will become available when you're able to use spells and abilities again.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
-204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> คุณสามารถใช้งานได้ครั้งละหนึ่งลูกเท่านั้น
+204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> คุณสามารถใช้งานได้ครั้งละ1 ลูกเท่านั้น
 204,Menus_UI_Settings,646,2616,58845,Discard this piece of equipment<FH>,ต้องการทิ้งอุปกรณ์สวมใส่ชิ้นนี้หรือไม่<FH>
 204,Menus_UI_Settings,647,2620,58880,You can't possibly discard that<FG> It's currently equipped<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันกำลังถูกสวมใส่อยู่<FG>
 204,Menus_UI_Settings,648,2624,58942,You can't possibly discard that<FG> It's far too important<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันเป็นของสำคัญเกินกว่าจะทิ้งได้<FG>
@@ -685,12 +685,12 @@
 204,Menus_UI_Settings,683,2764,60682,Choose a vocation.,เลือกอาชีพ
 204,Menus_UI_Settings,684,2768,60701,Searching for party members. You'll be notified when a party has been assembled. Please continue playing in the meantime.,กำลังค้นหาสมาชิกปาร์ตี้ คุณจะได้รับการแจ้งเตือนเมื่อรวมปาร์ตี้ครบแล้ว ระหว่างนี้โปรดเล่นต่อไปตามปกติ
 204,Menus_UI_Settings,685,2772,60823,You've received a bonus ball as a daily reward for going on interdimensional adventures<FG>,คุณได้รับโบนัสบอลเป็นรางวัลประจำวันสำหรับการออกผจญภัยข้ามมิติ<FG>
-204,Menus_UI_Settings,686,2776,60914,You've also received a multiplayer bonus<FG>,คุณได้รับโบนัสจากการเล่นหลายคน (Multiplayer) เพิ่มเติมด้วย<FG>
+204,Menus_UI_Settings,686,2776,60914,You've also received a multiplayer bonus<FG>,คุณได้รับโบนัสจากการเล่นหลายคน เพิ่มเติมด้วย<FG>
 204,Menus_UI_Settings,687,2780,60958,Start this battle<FH>,ต้องการเริ่มการต่อสู้นี้หรือไม่<FH>
 204,Menus_UI_Settings,688,2784,60979,Carry on to the next destination<FH>,ต้องการเดินทางต่อไปยังจุดหมายถัดไปหรือไม่<FH>
 204,Menus_UI_Settings,689,2788,61015,You need to have <F4><I0>41 in your party to begin this battle<FG>,คุณจำเป็นต้องมี <F4><I0>41 อยู่ในปาร์ตี้เพื่อเริ่มการต่อสู้นี้<FG>
 204,Menus_UI_Settings,690,2792,61079,You need to have <F4><I0>41 and <F4><I0>42 in your party to begin this battle<FG>,คุณจำเป็นต้องมี <F4><I0>41 และ <F4><I0>42 อยู่ในปาร์ตี้เพื่อเริ่มการต่อสู้นี้<FG>
-204,Menus_UI_Settings,691,2796,61156,You need to be <E8>61an<E9>61a<EA>61 %s to begin this battle<FG>,คุณจำเป็นต้องเป็นอาชีพ %s เพื่อเริ่มการต่อสู้นี้<FG>
+204,Menus_UI_Settings,691,2796,61156,You need to be <E8>61an<E9>61a<EA>61 %s to begin this battle<FG>,คุณจำเป็นต้องเป็นอาชีพ %sเพื่อเริ่มการต่อสู้นี้<FG>
 204,Menus_UI_Settings,692,2800,61217,This battle must be fought by <F4><I0>00 alone<FG>,การต่อสู้นี้ <F4><I0>00 จะต้องต่อสู้เพียงลำพังเท่านั้น<FG>
 204,Menus_UI_Settings,693,2804,61265,"Oh, it's you, is it<FH> I suppose you'll be wanting to take a trial, will you<FH> Out with it, then. Which one do you want to do<FH>",โอ๊ะ เจ้าเองเรอะ<FH> ข้าเดาว่าคงอยากจะมารับการทดสอบอีกล่ะสิ ใช่ไหมล่ะ<FH> ว่ามาเลยสิ อยากทำอันไหนล่ะ<FH>
 204,Menus_UI_Settings,694,2808,61395,"Alright, off you pop, then<FG>",ได้เลย ไปได้แล้วสิ<FG>
@@ -724,7 +724,7 @@
 204,Menus_UI_Settings,722,2920,63247,Skip event scene<FH>,ข้ามฉากคัตซีนหรือไม่<FH>
 204,Menus_UI_Settings,723,2924,63267,You picked up <I8>50 medal<FG>,คุณเก็บเหรียญ <I8>50 ได้แล้ว<FG>
 204,Menus_UI_Settings,724,2928,63296,Who would you like to help with the story<FH>,ต้องการช่วยใครดำเนินเนื้อเรื่องดีคะ<FH>
-204,Menus_UI_Settings,725,2932,63341,Use a Victory's Secret to make this battle a bit easier and attempt it again<FH>\n(Remaining Victory's Secrets<FI> <GR>1),ต้องการใช้คัมภีร์ลับสู่ชัยชนะ (Victory's Secret) เพื่อให้การต่อสู้ง่ายขึ้นและลองสู้อีกครั้งหรือไม่<FH>\n(คัมภีร์ที่เหลืออยู่<FI> <GR>1)
+204,Menus_UI_Settings,725,2932,63341,Use a Victory's Secret to make this battle a bit easier and attempt it again<FH>\n(Remaining Victory's Secrets<FI> <GR>1),ต้องการใช้คัมภีร์ลับสู่ชัยชนะเพื่อให้การต่อสู้ง่ายขึ้นและลองสู้อีกครั้งหรือไม่<FH>\n(คัมภีร์ที่เหลืออยู่<FI> <GR>1)
 204,Menus_UI_Settings,726,2936,63459,Would you like to make this battle even easier and attempt it again<FH>\n(This won't use up any more Victory's Secrets.),ต้องการทำให้การต่อสู้นี้ง่ายขึ้นไปอีกและลองสู้อีกครั้งหรือไม่<FH>\n(จะไม่เสียคัมภีร์ลับสู่ชัยชนะเพิ่ม)
 204,Menus_UI_Settings,727,2940,63578,Do you want to start this battle again without making it any easier<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งโดยไม่ปรับให้ง่ายขึ้นหรือไม่<FH>
 204,Menus_UI_Settings,728,2944,63649,"Oh, you want to check the recruitment criteria<FH> Remember, if you're the one looking for people, you can change the criteria as well.",อ๋อ ต้องการตรวจสอบเงื่อนไขการรับสมัครใช่ไหมคะ<FH> จำไว้นะคะว่าหากคุณเป็นคนค้นหาผู้เล่น คุณสามารถเปลี่ยนเงื่อนไขได้เช่นกันค่ะ
@@ -740,7 +740,7 @@
 204,Menus_UI_Settings,738,2984,64530,Competitive multiplayer games played via the Quester's Rest won't earn you any points. You need to go via the Traveller's Tome for that.,การเล่นในโหมดแข่งขันผ่านเควสเตอร์ส เรสต์จะไม่ได้รับคะแนนสะสมนะคะ คุณต้องเข้าผ่านบันทึกนักเดินทางสำหรับโหมดนั้นค่ะ
 204,Menus_UI_Settings,739,2988,64667,"Alright, duckie, tell me which accessory you'd like to sell.",เอาล่ะคนดี บอกยายสิจ๊ะว่าอยากขายเครื่องประดับชิ้นไหน
 204,Menus_UI_Settings,740,2992,64728,And what do you want to get rid of<FH>,แล้วอยากจะกำจัดชิ้นไหนออกไปล่ะจ๊ะ<FH>
-204,Menus_UI_Settings,741,2996,64766,"<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01<FH> I'll take <E5>R1<EH>E1them<EI>01it<EJ>01<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Sound alright, love<FH>",<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01 งั้นเหรอจ๊ะ<FH> ยายรับซื้อไว้ในราคา <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ฟังดูเข้าทีไหมจ๊ะพ่อคุณ<FH>
+204,Menus_UI_Settings,741,2996,64766,"<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01<FH> I'll take <E5>R1<EH>E1them<EI>01it<EJ>01<E6>01them<E7>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Sound alright, love<FH>",<E5>R1<F4><I8>E1<E6>01<GR>1 <I1>E1<E7>01 งั้นเหรอจ๊ะ<FH> ยายรับซื้อไว้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ฟังดูเข้าทีไหมจ๊ะพ่อคุณ<FH>
 204,Menus_UI_Settings,742,3000,64932,"Thanks, duckie<FG> Always a pleasure.",ขอบใจนะจ๊ะคนดี<FG> ยินดีเสมอจ้ะ
 204,Menus_UI_Settings,743,3004,64969,"Are you sure, love<FH> That'll mean selling accessories people are using...",แน่ใจเหรอจ๊ะพ่อคุณ<FH> นั่นหมายถึงการขายเครื่องประดับที่คนอื่นกำลังสวมอยู่เลยนะ...
 204,Menus_UI_Settings,744,3008,65044,"Are you sure, duckie<FH> That'll mean selling accessories you're using for other vocations...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการขายเครื่องประดับที่เธอใช้กับอาชีพอื่นอยู่นะ...
@@ -758,14 +758,14 @@
 204,Menus_UI_Settings,756,3056,65747,"Someone has dropped out, so unfortunately you won't be able to try this one again.",มีสมาชิกคนหนึ่งถอนตัวออกไป น่าเสียดายที่คุณจะไม่สามารถลองสู้อีกครั้งได้ค่ะ
 204,Menus_UI_Settings,757,3060,65830,UNUSED,
 204,Menus_UI_Settings,758,3064,65837,You cannot access competitive mode alone.,คุณไม่สามารถเข้าสู่โหมดแข่งขันเพียงลำพังได้
-204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่น หรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
-204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่น หรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
+204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
+204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
 204,Menus_UI_Settings,761,3076,66069,"Ever so sorry, but I can't let you use that map until you've reached at least Level %d...",ต้องขออภัยจริง ๆ นะคะ แต่ฉันให้คุณใช้แผนที่นั้นไม่ได้จนกว่าคุณจะมีเลเวลอย่างน้อยเลเวล %d ค่ะ...
 204,Menus_UI_Settings,762,3080,66159,"When you reach Rank 10, you'll be able to play competitive multiplayer at your real level<FG>",เมื่อคุณไปถึงแรงก์ 10 คุณจะสามารถเล่นโหมดแข่งขันด้วยเลเวลจริงของคุณได้ค่ะ<FG>
 204,Menus_UI_Settings,763,3084,66252,You can play at your real level in competitive multiplayer after reaching Rank 10.,คุณสามารถเล่นด้วยเลเวลจริงในโหมดแข่งขันได้หลังจากไปถึงแรงก์ 10 แล้ว
 204,Menus_UI_Settings,764,3088,66335,Start spreadin' da news<FG> <F4><I1>E1 available now<FG> See your friendly neighbourhood platypunk for details<FG>,เริ่มกระจายข่าวได้เลย<FG> <F4><I1>E1 พร้อมให้บริการแล้ว<FG> ดูรายละเอียดเพิ่มเติมได้ที่แพลตตีพังก์แถวบ้านคุณ<FG>
 204,Menus_UI_Settings,765,3092,66445,Guaranteed different effects every time<FG> Unlimited stocks available<FG> Try one today<FG>,รับประกันผลลัพธ์ที่แตกต่างกันทุกครั้ง<FG> มีของไม่อั้น<FG> ลองสักครั้งวันนี้เลย<FG>
-204,Menus_UI_Settings,766,3096,66535,You received a daily bonus of <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,คุณได้รับโบนัสประจำวันเป็นมินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,766,3096,66535,You received a daily bonus of <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,คุณได้รับโบนัสประจำวันเป็นมินิเมดัล <E5>P11 เหรียญ<E6>01%d เหรียญ<E7>01<FG>
 204,Menus_UI_Settings,767,3100,66610,,
 204,Menus_UI_Settings,768,3104,66611,,
 204,Menus_UI_Settings,769,3108,66612,,
@@ -875,9 +875,9 @@
 204,Menus_UI_Settings,873,3524,67425,Off,ปิด
 204,Menus_UI_Settings,874,3528,67429,R1,R1
 204,Menus_UI_Settings,875,3532,67432,R2,R2
-204,Menus_UI_Settings,876,3536,67435,Saviour,สายช่วยเหลือ (Saviour)
-204,Menus_UI_Settings,877,3540,67443,Sentry,สายเฝ้าระวัง (Sentry)
-204,Menus_UI_Settings,878,3544,67450,Substitute,สายแปลงร่าง (Substitute)
+204,Menus_UI_Settings,876,3536,67435,Saviour,สายช่วยเหลือ
+204,Menus_UI_Settings,877,3540,67443,Sentry,สายเฝ้าระวัง
+204,Menus_UI_Settings,878,3544,67450,Substitute,สายแปลงร่าง
 204,Menus_UI_Settings,879,3548,67461,Type,ประเภท
 204,Menus_UI_Settings,880,3552,67466,Gold Coins,เหรียญทอง
 204,Menus_UI_Settings,881,3556,67477,%,%
@@ -896,7 +896,7 @@
 204,Menus_UI_Settings,894,3608,67570,Orbs,ลูกแก้ว
 204,Menus_UI_Settings,895,3612,67575,Accessories,เครื่องประดับ
 204,Menus_UI_Settings,896,3616,67587,Ingredients,วัตถุดิบ
-204,Menus_UI_Settings,897,3620,67599,Tag Trick,แท็กทริก (Tag Trick)
+204,Menus_UI_Settings,897,3620,67599,Tag Trick,แท็กทริก
 204,Menus_UI_Settings,898,3624,67609,Bonus Balls,โบนัสบอล
 204,Menus_UI_Settings,899,3628,67621,Online Name,ชื่อออนไลน์
 204,Menus_UI_Settings,900,3632,67633,Cancel,ยกเลิก
@@ -908,10 +908,10 @@
 204,Menus_UI_Settings,906,3656,67697,Waiting...,กำลังรอ...
 204,Menus_UI_Settings,907,3660,67708,Invitation Declined,ปฏิเสธคำเชิญแล้ว
 204,Menus_UI_Settings,908,3664,67728,Searching...,กำลังค้นหา...
-204,Menus_UI_Settings,909,3668,67741,Ad Hoc Mode,โหมดเฉพาะกิจ (Ad Hoc)
-204,Menus_UI_Settings,910,3672,67753,Infrastructure Mode,โหมดโครงสร้างพื้นฐาน (Infrastructure)
+204,Menus_UI_Settings,909,3668,67741,Ad Hoc Mode,โหมดเฉพาะกิจ
+204,Menus_UI_Settings,910,3672,67753,Infrastructure Mode,โหมดโครงสร้างพื้นฐาน
 204,Menus_UI_Settings,911,3676,67773,★,★
-204,Menus_UI_Settings,912,3680,67777,Kazapple,มินาดีน (Kazapple)
+204,Menus_UI_Settings,912,3680,67777,Kazapple,มินาดีน
 204,Menus_UI_Settings,913,3684,67786,Random,สุ่ม
 204,Menus_UI_Settings,914,3688,67793,Delete,ลบ
 204,Menus_UI_Settings,915,3692,67800,Required Level,เลเวลที่ต้องการ
@@ -928,7 +928,7 @@
 204,Menus_UI_Settings,926,3736,67947,Searching using secret number <GR>1...,กำลังค้นหาด้วยหมายเลขลับ <GR>1...
 204,Menus_UI_Settings,927,3740,67985,<P2> Search (Secret Number),<P2> ค้นหา (หมายเลขลับ)
 204,Menus_UI_Settings,928,3744,68012,Rank <GR>1,แรงก์ <GR>1
-204,Menus_UI_Settings,929,3748,68022,Hocus Pocus,พัลปุนเต้ (Hocus Pocus)
+204,Menus_UI_Settings,929,3748,68022,Hocus Pocus,พัลปุนเต้
 204,Menus_UI_Settings,930,3752,68034,Cooperative,ร่วมมือกัน
 204,Menus_UI_Settings,931,3756,68046,Competitive,แข่งขันกัน
 204,Menus_UI_Settings,932,3760,68058,Rank,แรงก์
@@ -1059,7 +1059,7 @@
 204,Menus_UI_Settings,1057,4260,69835,Client,ผู้ว่าจ้าง
 204,Menus_UI_Settings,1058,4264,69842,Take on Quests,รับเควสต์
 204,Menus_UI_Settings,1059,4268,69857,Time Limit,เวลาที่กำหนด
-204,Menus_UI_Settings,1060,4272,69868,WANTED<FG>,หมายจับ (WANTED)<FG>
+204,Menus_UI_Settings,1060,4272,69868,WANTED<FG>,หมายจับ<FG>
 204,Menus_UI_Settings,1061,4276,69878,Skills,สกิล
 204,Menus_UI_Settings,1062,4280,69885,Equipment,อุปกรณ์สวมใส่
 204,Menus_UI_Settings,1063,4284,69895,Inventory,ช่องเก็บของ
@@ -1068,9 +1068,9 @@
 204,Menus_UI_Settings,1066,4296,69928,Battle Records,บันทึกการต่อสู้
 204,Menus_UI_Settings,1067,4300,69943,Misc.,อื่น ๆ
 204,Menus_UI_Settings,1068,4304,69949,Traveller's Tome,บันทึกนักเดินทาง
-204,Menus_UI_Settings,1069,4308,69966,Zoom,รูล่า (Zoom)
-204,Menus_UI_Settings,1070,4312,69971,Evac,ริเรมิต (Evac)
-204,Menus_UI_Settings,1071,4316,69976,Watcher's Wings,ปีกนกเค้าแมว (Watcher's Wings)
+204,Menus_UI_Settings,1069,4308,69966,Zoom,รูล่า
+204,Menus_UI_Settings,1070,4312,69971,Evac,ริเรมิต
+204,Menus_UI_Settings,1071,4316,69976,Watcher's Wings,ปีกนกเค้าแมว
 204,Menus_UI_Settings,1072,4320,69992,Allocate Skill Points,จัดสรรแต้มสกิล
 204,Menus_UI_Settings,1073,4324,70014,Set Spells and Abilities,ติดตั้งคาถาและท่าไม้ตาย
 204,Menus_UI_Settings,1074,4328,70039,Set Party Powers,ติดตั้งพลังปาร์ตี้
@@ -1131,7 +1131,7 @@
 204,Menus_UI_Settings,1129,4548,70818,Battle,การต่อสู้
 204,Menus_UI_Settings,1130,4552,70825,Page,หน้า
 204,Menus_UI_Settings,1131,4556,70830,Control Method,รูปแบบการควบคุม
-204,Menus_UI_Settings,1132,4560,70845,Manual,ควบคุมเอง (Manual)
+204,Menus_UI_Settings,1132,4560,70845,Manual,ควบคุมเอง
 204,Menus_UI_Settings,1133,4564,70852,System Settings,ตั้งค่าระบบ
 204,Menus_UI_Settings,1134,4568,70868,Camera Settings,ตั้งค่ามุมกล้อง
 204,Menus_UI_Settings,1135,4572,70884,Volume Settings,ตั้งค่าระดับเสียง
@@ -1187,7 +1187,7 @@
 204,Menus_UI_Settings,1185,4772,72472,Jingles,เสียงกริ๊งสัญญาณ
 204,Menus_UI_Settings,1186,4776,72480,Sound Effects,เสียงเอฟเฟกต์
 204,Menus_UI_Settings,1187,4780,72494,Voices,เสียงพากย์
-204,Menus_UI_Settings,1188,4784,72501,Adjust the volume of the background music.,ปรับระดับเสียงเพลงประกอบ (BGM)
+204,Menus_UI_Settings,1188,4784,72501,Adjust the volume of the background music.,ปรับระดับเสียงเพลงประกอบ
 204,Menus_UI_Settings,1189,4788,72544,Adjust the volume of in-game jingles.,ปรับระดับเสียงกริ๊งสัญญาณและดนตรีสั้นในเกม
 204,Menus_UI_Settings,1190,4792,72582,Adjust the volume of the sound effects.,ปรับระดับเสียงเอฟเฟกต์การต่อสู้และสิ่งแวดล้อม
 204,Menus_UI_Settings,1191,4796,72622,Adjust the volume of character voices and movie sound effects.,ปรับระดับเสียงพากย์ตัวละครและฉากคัตซีน
@@ -1258,9 +1258,9 @@
 204,Menus_UI_Settings,1256,5056,74308,Anywhere,ทุกที่
 204,Menus_UI_Settings,1257,5060,74317,Good Only,สัญญาณดีเท่านั้น
 204,Menus_UI_Settings,1258,5064,74327,Any,ใดก็ได้
-204,Menus_UI_Settings,1259,5068,74331,Four,สี่คน
-204,Menus_UI_Settings,1260,5072,74336,Three,สามคน
-204,Menus_UI_Settings,1261,5076,74342,Two,สองคน
+204,Menus_UI_Settings,1259,5068,74331,Four,4 คน
+204,Menus_UI_Settings,1260,5072,74336,Three,3 คน
+204,Menus_UI_Settings,1261,5076,74342,Two,2 คน
 204,Menus_UI_Settings,1262,5080,74346,Anyone,ทุกคน
 204,Menus_UI_Settings,1263,5084,74353,Host Only,หัวหน้าห้องเท่านั้น
 204,Menus_UI_Settings,1264,5088,74363,None,ไม่มี
@@ -1296,14 +1296,14 @@
 204,Menus_UI_Settings,1294,5208,75131,Third Part,องก์ที่สาม
 204,Menus_UI_Settings,1295,5212,75142,Volunteer to help with any battle you've completed.,อาสาไปช่วยในการต่อสู้ใดก็ได้ที่คุณเคยเคลียร์มาแล้ว
 204,Menus_UI_Settings,1296,5216,75194,Volunteer to help with battles from ‘<I0>M1<FI> <I0>M2’ to ‘<I0>M3<FI> <I0>M4’.,อาสาไปช่วยในการต่อสู้ตั้งแต่ ‘<I0>M1<FI> <I0>M2’ ถึง ‘<I0>M3<FI> <I0>M4’
-204,Menus_UI_Settings,1297,5220,75276,Looking for <E5>R1one more person<E6>01<GR>1 more people<E7>01 to help.,กำลังมองหาผู้ช่วยเหลืออีก <E5>R1หนึ่งคน<E6>01<GR>1 คน<E7>01
+204,Menus_UI_Settings,1297,5220,75276,Looking for <E5>R1one more person<E6>01<GR>1 more people<E7>01 to help.,กำลังมองหาผู้ช่วยเหลืออีก <E5>R11 คน<E6>01<GR>1 คน<E7>01
 204,Menus_UI_Settings,1298,5224,75344,Venture Forth with this Party,ออกเดินทางรบพร้อมปาร์ตี้นี้
 204,Menus_UI_Settings,1299,5228,75374,Withdraw Your Offer of Help,ถอนข้อเสนอช่วยเหลือของคุณ
-204,Menus_UI_Settings,1300,5232,75402,You can play with <E5>R1one more person<E6>01<GR>1 more people<E7>01.,คุณสามารถเล่นกับผู้อื่นได้อีก <E5>R1หนึ่งคน<E6>01<GR>1 คน<E7>01
+204,Menus_UI_Settings,1300,5232,75402,You can play with <E5>R1one more person<E6>01<GR>1 more people<E7>01.,คุณสามารถเล่นกับผู้อื่นได้อีก <E5>R11 คน<E6>01<GR>1 คน<E7>01
 204,Menus_UI_Settings,1301,5236,75468,Call for Help,ขอความช่วยเหลือ
 204,Menus_UI_Settings,1302,5240,75482,All interdimensional adventurers assembled.\nPlease respond within <GR>1 <E5>R1second<E6>01seconds<E7>01.,รวบรวมนักผจญภัยข้ามมิติครบแล้ว\nโปรดตอบกลับภายใน <GR>1 <E5>R1วินาที<E6>01วินาที<E7>01
 204,Menus_UI_Settings,1303,5244,75583,You've received a request from <I0>M1 to help with ‘<I0>M2’<FG>,คุณได้รับคำขอจาก <I0>M1 ให้ไปช่วยในศึก ‘<I0>M2’<FG>
-204,Menus_UI_Settings,1304,5248,75648,"You've answered a call to arms<FG> While helping, you will earn double experience points, gold coins and proficiency.","คุณได้ตอบรับการระดมพลแล้ว<FG> ในขณะช่วยเหลือ คุณจะได้รับค่าประสบการณ์, เหรียญทอง และความชำนาญเป็นสองเท่า"
+204,Menus_UI_Settings,1304,5248,75648,"You've answered a call to arms<FG> While helping, you will earn double experience points, gold coins and proficiency.","คุณได้ตอบรับการระดมพลแล้ว<FG> ในขณะช่วยเหลือ คุณจะได้รับค่าประสบการณ์, เหรียญทอง และความชำนาญเป็น 2 เท่า"
 204,Menus_UI_Settings,1305,5252,75765,The battle has ended. Thanks for helping out<FG>,การต่อสู้สิ้นสุดลงแล้ว ขอบคุณมากที่มาช่วยเหลือนะ<FG>
 204,Menus_UI_Settings,1306,5256,75813,"The battle has ended, and your party has been disbanded.",การต่อสู้สิ้นสุดลงแล้ว และปาร์ตี้ของคุณถูกยุบแล้ว
 204,Menus_UI_Settings,1307,5260,75870,<I0>M1 is reading about how to play. Please wait...,<I0>M1 กำลังอ่านวิธีเล่น โปรดรอสักครู่...
@@ -1350,7 +1350,7 @@
 204,Menus_UI_Settings,1348,5424,76619,Adventure Log on PlayStation<MT> Network,บันทึกการเดินทางบนเครือข่าย PlayStation<MT> Network
 204,Menus_UI_Settings,1349,5428,76659,You cannot use the comment feature due to a restriction on chat functions placed on your Sony Entertainment Network account.,คุณไม่สามารถใช้ฟีเจอร์แสดงความคิดเห็นได้ เนื่องจากมีการจำกัดฟังก์ชันแช็ตบนบัญชีของคุณ
 204,Menus_UI_Settings,1350,5432,76784,Some text may not display correctly due to a restriction on chat functions placed on your Sony Entertainment Network account.,ข้อความบางส่วนอาจแสดงผลไม่ถูกต้องเนื่องจากมีการจำกัดฟังก์ชันแช็ตบนบัญชีของคุณ
-204,Menus_UI_Settings,1351,5436,76910,You cannot use online services because of the parental lock settings applied to your Sony Entertainment Network account.,คุณไม่สามารถใช้บริการออนไลน์ได้เนื่องจากการตั้งค่าควบคุมโดยผู้ปกครอง (Parental Lock)
+204,Menus_UI_Settings,1351,5436,76910,You cannot use online services because of the parental lock settings applied to your Sony Entertainment Network account.,คุณไม่สามารถใช้บริการออนไลน์ได้เนื่องจากการตั้งค่าควบคุมโดยผู้ปกครอง
 204,Menus_UI_Settings,1352,5440,77031,Online features are no longer available because you have signed out from PlayStation<MT> Network.,ฟีเจอร์ออนไลน์ไม่สามารถใช้งานได้อีกต่อไปเนื่องจากคุณได้ลงชื่อออกจากเครือข่ายแล้ว
 204,Menus_UI_Settings,1353,5444,77128,You received the <I0>D1 costume from DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>,คุณได้รับชุดคอสตูม <I0>D1 จาก DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>
 204,Menus_UI_Settings,1354,5448,77232,You received the <I0>A1 weapon from DRAGON QUEST BUILDERS<FG>,คุณได้รับอาวุธ <I0>A1 จาก DRAGON QUEST BUILDERS<FG>
@@ -1375,7 +1375,7 @@
 204,Menus_UI_Settings,1373,5524,78054,Hustle<FG>,สู้เข้าไว้<FG>
 204,Menus_UI_Settings,1374,5528,78064,Autosave Adventure Log,บันทึกการเดินทางอัตโนมัติ
 204,Menus_UI_Settings,1375,5532,78087,(With <F4><I0>M1 Equipped),(เมื่อสวมใส่ <F4><I0>M1)
-204,Menus_UI_Settings,1376,5536,78112,Yggdrasil Leaf,ใบไม้อิกดราซิล (Yggdrasil Leaf)
+204,Menus_UI_Settings,1376,5536,78112,Yggdrasil Leaf,ใบไม้อิกดราซิล
 204,Menus_UI_Settings,1377,5540,78127,Acquired <I8>M1<FG>,ได้รับ <I8>M1<FG>
 204,Menus_UI_Settings,1378,5544,78145,Share Adventure Log,แชร์บันทึกการเดินทาง
 204,Menus_UI_Settings,1379,5548,78165,Comment 1,ความคิดเห็น 1
@@ -1427,7 +1427,7 @@
 204,Menus_UI_Settings,1425,5732,79076,Whole World,ทั่วโลก
 204,Menus_UI_Settings,1426,5736,79088,Same Region,ภูมิภาคเดียวกัน
 204,Menus_UI_Settings,1427,5740,79100,Choose the range of regions you'd like to allow multiplayer connections from.,เลือกระยะของภูมิภาคที่คุณต้องการอนุญาตให้เชื่อมต่อมัลติเพลเยอร์
-204,Menus_UI_Settings,1428,5744,79178,Your destination has been changed to %s.,จุดหมายปลายทางของคุณถูกเปลี่ยนเป็น %s แล้ว
+204,Menus_UI_Settings,1428,5744,79178,Your destination has been changed to %s.,จุดหมายปลายทางของคุณถูกเปลี่ยนเป็น %sแล้ว
 204,Menus_UI_Settings,1429,5748,79219,You've received a call for help from %s<FG>,คุณได้รับสัญญาณขอความช่วยเหลือจาก %s<FG>
 204,Menus_UI_Settings,1430,5752,79262,,
 204,Menus_UI_Settings,1431,5756,79263,,
@@ -1523,7 +1523,7 @@
 204,Menus_UI_Settings,1521,6116,79646,<P3> %s,<P3> %s
 204,Menus_UI_Settings,1522,6120,79653,<P2> %s,<P2> %s
 204,Menus_UI_Settings,1523,6124,79660,<P0> %s,<P0> %s
-204,Menus_UI_Settings,1524,6128,79667,<PD> Tag Tricks,<PD> แท็กทริก (Tag Tricks)
+204,Menus_UI_Settings,1524,6128,79667,<PD> Tag Tricks,<PD> แท็กทริก
 204,Menus_UI_Settings,1525,6132,79682,<P9> %s,<P9> %s
 204,Menus_UI_Settings,1526,6136,79689,<PM> Close,<PM> ปิด
 204,Menus_UI_Settings,1527,6140,79699,<GR>1%,<GR>1%
@@ -1694,30 +1694,30 @@
 204,Menus_UI_Settings,1692,6800,83699,Graphics Settings,ตั้งค่ากราฟิก
 204,Menus_UI_Settings,1693,6804,83717,Keyboard Settings,ตั้งค่าคีย์บอร์ด
 204,Menus_UI_Settings,1694,6808,83735,Exit Game,ออกจากเกม
-204,Menus_UI_Settings,1695,6812,83745,Full Screen Display,แสดงผลแบบเต็มจอ (Full Screen)
+204,Menus_UI_Settings,1695,6812,83745,Full Screen Display,แสดงผลแบบเต็มจอ
 204,Menus_UI_Settings,1696,6816,83765,Resolution,ความละเอียดหน้าจอ
-204,Menus_UI_Settings,1697,6820,83776,Frame Rate,เฟรมเรต (Frame Rate)
+204,Menus_UI_Settings,1697,6820,83776,Frame Rate,เฟรมเรต
 204,Menus_UI_Settings,1698,6824,83787,Quality Settings,คุณภาพกราฟิก
 204,Menus_UI_Settings,1699,6828,83804,  No. of On-Screen Characters,  จำนวนตัวละครบนหน้าจอ
 204,Menus_UI_Settings,1700,6832,83834,  Draw Distance,  ระยะการเรนเดอร์ภาพ
-204,Menus_UI_Settings,1701,6836,83850,  Textures,  พื้นผิวภาพ (Textures)
-204,Menus_UI_Settings,1702,6840,83861,  Shadows,  คุณภาพเงา (Shadows)
-204,Menus_UI_Settings,1703,6844,83871,  Ambient Occlusion,  มิติแสงเงา (Ambient Occlusion)
-204,Menus_UI_Settings,1704,6848,83891,  Reflections,  การสะท้อนแสง (Reflections)
-204,Menus_UI_Settings,1705,6852,83905,  Light Shafts,  ลำแสงส่องกระทบ (Light Shafts)
-204,Menus_UI_Settings,1706,6856,83920,  Particles,  ละอองอนุภาค (Particles)
-204,Menus_UI_Settings,1707,6860,83932,  Global Illumination,  แสงธรรมชาติรอบทิศทาง (Global Illumination)
+204,Menus_UI_Settings,1701,6836,83850,  Textures,  พื้นผิวภาพ
+204,Menus_UI_Settings,1702,6840,83861,  Shadows,  คุณภาพเงา
+204,Menus_UI_Settings,1703,6844,83871,  Ambient Occlusion,  มิติแสงเงา
+204,Menus_UI_Settings,1704,6848,83891,  Reflections,  การสะท้อนแสง
+204,Menus_UI_Settings,1705,6852,83905,  Light Shafts,  ลำแสงส่องกระทบ
+204,Menus_UI_Settings,1706,6856,83920,  Particles,  ละอองอนุภาค
+204,Menus_UI_Settings,1707,6860,83932,  Global Illumination,  แสงธรรมชาติรอบทิศทาง
 204,Menus_UI_Settings,1708,6864,83954,Choose whether to play in full screen or windowed mode.,เลือกว่าจะแสดงผลแบบเต็มหน้าจอหรือแบบหน้าต่าง
 204,Menus_UI_Settings,1709,6868,84010,Adjust the resolution of the screen or the size of the window.,ปรับความละเอียดของหน้าจอหรือขนาดของหน้าต่างเกม
 204,Menus_UI_Settings,1710,6872,84073,Adjust the number of frames that are shown per second. Higher frame rates make the action look smoother.,ปรับจำนวนเฟรมเรตต่อวินาที ยิ่งเฟรมเรตสูง ภาพจะยิ่งลื่นไหลนุ่มนวลขึ้น
 204,Menus_UI_Settings,1711,6876,84178,Adjust the overall graphics quality settings.,ปรับคุณภาพกราฟิกโดยรวมของเกม
 204,Menus_UI_Settings,1712,6880,84224,Adjust the maximum number of characters that can be displayed on screen at any one time.,ปรับจำนวนตัวละครสูงสุดที่สามารถแสดงบนหน้าจอในเวลาเดียวกัน
 204,Menus_UI_Settings,1713,6884,84313,Adjust the distance at which characters and scenery elements become visible.,ปรับระยะห่างที่ตัวละครและฉากจะเริ่มปรากฏให้มองเห็น
-204,Menus_UI_Settings,1714,6888,84390,Adjust the quality of the textures applied to scenery elements.,ปรับคุณภาพพื้นผิว (Texture) ที่ใช้กับองค์ประกอบในฉาก
+204,Menus_UI_Settings,1714,6888,84390,Adjust the quality of the textures applied to scenery elements.,ปรับคุณภาพพื้นผิว ที่ใช้กับองค์ประกอบในฉาก
 204,Menus_UI_Settings,1715,6892,84454,Adjust the quality of the shadows.,ปรับคุณภาพการแสดงผลของเงา
-204,Menus_UI_Settings,1716,6896,84489,Adjust the quality of the shading produced by ambient light.,ปรับคุณภาพมิติเงาตกกระทบของแสงรอบข้าง (Ambient Light)
+204,Menus_UI_Settings,1716,6896,84489,Adjust the quality of the shading produced by ambient light.,ปรับคุณภาพมิติเงาตกกระทบของแสงรอบข้าง
 204,Menus_UI_Settings,1717,6900,84550,Adjust the quality of the reflections seen in water and other shiny surfaces.,ปรับคุณภาพของการสะท้อนแสงบนผิวน้ำและพื้นผิวแวววาว
-204,Menus_UI_Settings,1718,6904,84628,Choose whether or not to display shafts of light.,เลือกว่าจะเปิดหรือปิดการแสดงลำแสงส่องผ่าน (Light Shafts)
+204,Menus_UI_Settings,1718,6904,84628,Choose whether or not to display shafts of light.,เลือกว่าจะเปิดหรือปิดการแสดงลำแสงส่องผ่าน
 204,Menus_UI_Settings,1719,6908,84678,Adjust the maximum number of particle effects that can be displayed at any one time.,ปรับจำนวนเอฟเฟกต์ละอองอนุภาคสูงสุดที่สามารถแสดงพร้อมกันได้
 204,Menus_UI_Settings,1720,6912,84763,Adjust the quality of reflected light effects.,ปรับคุณภาพของเอฟเฟกต์แสงสะท้อน
 204,Menus_UI_Settings,1721,6916,84810,20,20
@@ -1790,16 +1790,16 @@
 204,Menus_UI_Settings,1788,7184,86114,3840x2160,3840x2160
 204,Menus_UI_Settings,1789,7188,86124,Acquired <I1>M1<FG>,ได้รับ <I1>M1<FG>
 204,Menus_UI_Settings,1790,7192,86142,Change Resolution,เปลี่ยนความละเอียดหน้าจอ
-204,Menus_UI_Settings,1791,7196,86160,Currently displaying in Enhanced Mode.\nChange to Standard Mode<FH>,ปัจจุบันแสดงผลในโหมดเสริมประสิทธิภาพ (Enhanced Mode)\nต้องการเปลี่ยนเป็นโหมดมาตรฐาน (Standard Mode) หรือไม่<FH>
-204,Menus_UI_Settings,1792,7200,86226,Currently displaying in Standard Mode.\nChange to Enhanced Mode<FH>,ปัจจุบันแสดงผลในโหมดมาตรฐาน (Standard Mode)\nต้องการเปลี่ยนเป็นโหมดเสริมประสิทธิภาพ (Enhanced Mode) หรือไม่<FH>
+204,Menus_UI_Settings,1791,7196,86160,Currently displaying in Enhanced Mode.\nChange to Standard Mode<FH>,ปัจจุบันแสดงผลในโหมดเสริมประสิทธิภาพ\nต้องการเปลี่ยนเป็นโหมดมาตรฐานหรือไม่<FH>
+204,Menus_UI_Settings,1792,7200,86226,Currently displaying in Standard Mode.\nChange to Enhanced Mode<FH>,ปัจจุบันแสดงผลในโหมดมาตรฐาน\nต้องการเปลี่ยนเป็นโหมดเสริมประสิทธิภาพหรือไม่<FH>
 204,Menus_UI_Settings,1793,7204,86292,The screen resolution has been changed.,ความละเอียดหน้าจอได้รับการเปลี่ยนแปลงแล้ว
 204,Menus_UI_Settings,1794,7208,86332,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,เกมนี้มีระบบบันทึกอัตโนมัติ ห้ามปิดเครื่องในขณะที่กำลังบันทึกข้อมูล ระบบบันทึกอัตโนมัติจะใช้ช่องบันทึก 1 ช่อง
 204,Menus_UI_Settings,1795,7212,86465,,
 204,Menus_UI_Settings,1796,7216,86466,,
 204,Menus_UI_Settings,1797,7220,86467,,
 204,Menus_UI_Settings,1798,7224,86468,,
-204,Menus_UI_Settings,1799,7228,86469,  Volumetric Fog,  หมอกเชิงปริมาตร (Volumetric Fog)
-204,Menus_UI_Settings,1800,7232,86486,  Point Light Shadows,  เงาจากแสงเฉพาะจุด (Point Light Shadows)
+204,Menus_UI_Settings,1799,7228,86469,  Volumetric Fog,  หมอกเชิงปริมาตร
+204,Menus_UI_Settings,1800,7232,86486,  Point Light Shadows,  เงาจากแสงเฉพาะจุด
 204,Menus_UI_Settings,1801,7236,86508,Adjust the quality of fog.,ปรับคุณภาพการแสดงผลของหมอก
 204,Menus_UI_Settings,1802,7240,86535,Adjust the quality of point light shadows.,ปรับคุณภาพของเงาที่เกิดจากแสงเฉพาะจุด
 204,Menus_UI_Settings,1803,7244,86578,Confirm graphics settings.,ยืนยันการตั้งค่ากราฟิก

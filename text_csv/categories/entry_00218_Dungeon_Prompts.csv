@@ -62,7 +62,7 @@
 218,Dungeon_Prompts,60,272,3238,<F4><I6>51 has called for reinforcements<FG>,<F4><I6>51 ได้เรียกกำลังเสริมออกมาแล้ว<FG>
 218,Dungeon_Prompts,61,276,3280,<F4><I6>51 has beaten a tactical retreat<FG>,<F4><I6>51 ล่าถอยเชิงยุทธวิธีไปแล้ว<FG>
 218,Dungeon_Prompts,62,280,3322,<F4><I6>51 has rejoined the fray<FG>,<F4><I6>51 กลับเข้าร่วมการต่อสู้อีกครั้งแล้ว<FG>
-218,Dungeon_Prompts,63,284,3356,You found a bracing bough<FG>,คุณพบกิ่งไม้ค้ำชู (Bracing Bough) แล้ว<FG>
+218,Dungeon_Prompts,63,284,3356,You found a bracing bough<FG>,คุณพบกิ่งไม้ค้ำชูแล้ว<FG>
 218,Dungeon_Prompts,64,288,3385,The lake has frozen solid<FG>,ทะเลสาบกลายเป็นน้ำแข็งแข็งตัวแล้ว<FG>
 218,Dungeon_Prompts,65,292,3414,Look out<FG> The powie yowies are rolling snowballs at you<FG>,ระวัง<FG> พวกพาววี่เยาวี่กำลังกลิ้งลูกบอลหิมะใส่คุณ<FG>
 218,Dungeon_Prompts,66,296,3475,Clear all the monsters out of the castle<FG>,จงกำจัดมอนสเตอร์ทั้งหมดออกจากปราสาท<FG>
@@ -76,7 +76,7 @@
 218,Dungeon_Prompts,74,328,3730,What luck<FG> <F4><I6>51 dropped the key<FG>,โชคดีจริง ๆ<FG> <F4><I6>51 ดรอปกุญแจออกมาแล้ว<FG>
 218,Dungeon_Prompts,75,332,3771,<F4><I6>51 is defeated<FG>,<F4><I6>51 พ่ายแพ้แล้ว<FG>
 218,Dungeon_Prompts,76,336,3795,But none appear...,แต่ไม่มีอะไรปรากฏขึ้นมา...
-218,Dungeon_Prompts,77,340,3814,Perhaps a party member who can cast Woosh might be able to wipe out that whirlwind...,บางทีสมาชิกปาร์ตี้ที่ร่ายคาถาบาจิ (Woosh) ได้ อาจจะพัดพายุหมุนนั้นให้หายไปได้นะ...
+218,Dungeon_Prompts,77,340,3814,Perhaps a party member who can cast Woosh might be able to wipe out that whirlwind...,บางทีสมาชิกปาร์ตี้ที่ร่ายคาถาบาจิ ได้ อาจจะพัดพายุหมุนนั้นให้หายไปได้นะ...
 218,Dungeon_Prompts,78,344,3900,Congratulations<FG> You completed a quest<FG>,ขอแสดงความยินดีด้วย<FG> คุณทำเควสต์สำเร็จแล้ว<FG>
 218,Dungeon_Prompts,79,348,3944,The teleportal is now active<FG>,ประตูเทเลพอร์ทัลเปิดใช้งานแล้ว<FG>
 218,Dungeon_Prompts,80,352,3976,Head through the teleportal<FG>,จงเดินทางผ่านประตูเทเลพอร์ทัลไป<FG>
@@ -119,7 +119,7 @@
 218,Dungeon_Prompts,117,500,5456,The monsters are aiming their hellcasters at you<FG>,พวกมอนสเตอร์กำลังเล็งปืนใหญ่เฮลล์คาสเตอร์มาที่คุณ<FG>
 218,Dungeon_Prompts,118,504,5508,Follow <I6>41<FG>,จงติดตาม <I6>41 ไป<FG>
 218,Dungeon_Prompts,119,508,5524,You rescued...a cat<FH>,คุณได้ช่วยชีวิต... แมวงั้นเรอะ<FH>
-218,Dungeon_Prompts,120,512,5547,It looks like a couple of hefty hits would knock that barrier down<FG>,ดูเหมือนว่าการโจมตีหนัก ๆ สักสองสามทีน่าจะพังม่านบาเรียนั้นลงได้นะ<FG>
+218,Dungeon_Prompts,120,512,5547,It looks like a couple of hefty hits would knock that barrier down<FG>,ดูเหมือนว่าการโจมตีหนัก ๆ สัก 2-3 ครั้งน่าจะพังม่านบาเรียนั้นลงได้นะ<FG>
 218,Dungeon_Prompts,121,516,5617,Uh-oh<FG> Those chests weren't chests<MV>they were <I1>51<FG>,แย่แล้ว<FG> หีบพวกนั้นไม่ใช่หีบสมบัติ<MV>แต่เป็น <I1>51 (กล่องปีศาจ)<FG>
 218,Dungeon_Prompts,122,520,5675,Just two more bracing boughs to find<FG>,เหลือกิ่งไม้ค้ำชูที่ต้องหาอีกเพียง 2 กิ่ง<FG>
 218,Dungeon_Prompts,123,524,5715,Just one more bracing bough to find<FG>,เหลือกิ่งไม้ค้ำชูที่ต้องหาอีกเพียง 1 กิ่ง<FG>
@@ -129,8 +129,8 @@
 218,Dungeon_Prompts,127,540,5919,The Marquis de Léon is staring intently at Maya and Meena<FG>,มาร์ควิส เดอ เลออน กำลังจ้องเขม็งมาที่มาเนียและมีเนีย<FG>
 218,Dungeon_Prompts,128,544,5981,The Marquis de Léon is staring intently at the terrified toughie<FG>,มาร์ควิส เดอ เลออน กำลังจ้องเขม็งไปที่นักเลงขี้ขลาด<FG>
 218,Dungeon_Prompts,129,548,6050,The terrified toughie has legged it<FG>,นักเลงขี้ขลาดเผ่นแน่บไปแล้ว<FG>
-218,Dungeon_Prompts,130,552,6089,A lightmaw has appeared<FG>,ไลท์มอร์ (Lightmaw) ปรากฏขึ้นแล้ว<FG>
-218,Dungeon_Prompts,131,556,6116,Monsters are starting to pour out of the nightmaws<FG>,พวกมอนสเตอร์เริ่มทะลักออกมาจากไนท์มอร์ (Nightmaw) แล้ว<FG>
+218,Dungeon_Prompts,130,552,6089,A lightmaw has appeared<FG>,ไลท์มอร์ ปรากฏขึ้นแล้ว<FG>
+218,Dungeon_Prompts,131,556,6116,Monsters are starting to pour out of the nightmaws<FG>,พวกมอนสเตอร์เริ่มทะลักออกมาจากไนท์มอร์แล้ว<FG>
 218,Dungeon_Prompts,132,560,6170,<F4><I6>51 has summoned a swarm of monsters<FG>,<F4><I6>51 ได้อัญเชิญฝูงมอนสเตอร์ออกมาแล้ว<FG>
 218,Dungeon_Prompts,133,564,6215,The glade invader has summoned a horde of monsters<FG>,ผู้บุกรุกป่าดงพงไพรได้อัญเชิญกองทัพมอนสเตอร์ออกมาแล้ว<FG>
 218,Dungeon_Prompts,134,568,6269,The love-struck youth has found the key<FG>,ชายหนุ่มผู้ตกหลุมรักพบกุญแจแล้ว<FG>
@@ -150,8 +150,8 @@
 218,Dungeon_Prompts,148,624,6954,Major Domo and Major Arcana are on their way to help Healix<FG>,เมเจอร์โดโมและเมเจอร์อาร์คานากำลังมุ่งหน้าไปช่วยเหลือโฮมิรอน<FG>
 218,Dungeon_Prompts,149,628,7017,<F4><I6>41 is helping Healix to cast the spell<FG>,<F4><I6>41 กำลังช่วยโฮมิรอนร่ายคาถา<FG>
 218,Dungeon_Prompts,150,632,7065,Major Domo and Major Arcana are helping Healix to cast the spell<FG>,เมเจอร์โดโมและเมเจอร์อาร์คานากำลังช่วยโฮมิรอนร่ายคาถา<FG>
-218,Dungeon_Prompts,151,636,7133,<F4><I0>51 unleashes a deadly Disruptive Wave<FG>,<F4><I0>51 ปลดปล่อยคลื่นคลายเวท (Disruptive Wave) ร้ายกาจ<FG>
-218,Dungeon_Prompts,152,640,7180,The monsters are cloaked in the Cover of Darkness<FG>,พวกมอนสเตอร์ถูกห่อหุ้มด้วยม่านแห่งความมืด (Cover of Darkness)<FG>
+218,Dungeon_Prompts,151,636,7133,<F4><I0>51 unleashes a deadly Disruptive Wave<FG>,<F4><I0>51 ปลดปล่อยคลื่นคลายเวท ร้ายกาจ<FG>
+218,Dungeon_Prompts,152,640,7180,The monsters are cloaked in the Cover of Darkness<FG>,พวกมอนสเตอร์ถูกห่อหุ้มด้วยม่านแห่งความมืด<FG>
 218,Dungeon_Prompts,153,644,7233,<F4><I9>51 are blocking the path<FG>,<F4><I9>51 กำลังปิดกั้นเส้นทางอยู่<FG>
 218,Dungeon_Prompts,154,648,7267,The doors are shut tight<FG>,ประตูปิดสนิทแน่นหนา<FG>
 218,Dungeon_Prompts,155,652,7295,Look out<FG> It's raining <I1>51<FG>,ระวังตัวด้วย<FG> <I1>51 ร่วงตกลงมาเป็นห่าฝนแล้ว<FG>
@@ -170,9 +170,9 @@
 218,Dungeon_Prompts,168,704,7788,All special effects affecting the party are swept away<FG>,ผลพิเศษทั้งหมดที่ส่งผลต่อปาร์ตี้ถูกปัดเป่ามลายสิ้น<FG>
 218,Dungeon_Prompts,169,708,7846,Protect <I6>51<FG>,จงคุ้มกัน <I6>51<FG>
 218,Dungeon_Prompts,170,712,7863,Another horde of monsters has appeared<FG>,กองทัพมอนสเตอร์ระลอกใหม่ปรากฏตัวขึ้นแล้ว<FG>
-218,Dungeon_Prompts,171,716,7905,That tree looks like it would fall over if somebody smashed it with a Knuckle Sandwich...,ต้นไม้นั้นดูเหมือนจะโค่นลงมาได้ถ้ามีใครชกมันด้วยท่าหมัดตรงเผด็จศึก (Knuckle Sandwich)...
-218,Dungeon_Prompts,172,720,7995,That barrier looks like it would burn to the ground if somebody fried it with Frizz...,บาเรียนั้นดูเหมือนจะมอดไหม้เป็นจุลได้ถ้ามีใครเผามันด้วยคาถาเมร่า (Frizz)...
-218,Dungeon_Prompts,173,724,8082,It looks like a couple of hefty hits would knock that barrier down...,ดูเหมือนว่าการโจมตีหนัก ๆ สักสองสามทีน่าจะพังม่านบาเรียนั้นลงได้...
+218,Dungeon_Prompts,171,716,7905,That tree looks like it would fall over if somebody smashed it with a Knuckle Sandwich...,ต้นไม้นั้นดูเหมือนจะโค่นลงมาได้ถ้ามีใครชกมันด้วยท่าหมัดตรงเผด็จศึก...
+218,Dungeon_Prompts,172,720,7995,That barrier looks like it would burn to the ground if somebody fried it with Frizz...,บาเรียนั้นดูเหมือนจะมอดไหม้เป็นจุลได้ถ้ามีใครเผามันด้วยคาถาเมร่า...
+218,Dungeon_Prompts,173,724,8082,It looks like a couple of hefty hits would knock that barrier down...,ดูเหมือนว่าการโจมตีหนัก ๆ สัก 2-3 ครั้งน่าจะพังม่านบาเรียนั้นลงได้...
 218,Dungeon_Prompts,174,728,8152,Protect <I6>51 until <E0>51he<E1>51she<E2>51it<E4>51 reaches <E0>51his<E1>51her<E2>51its<E4>51 destination<FG>,จงคุ้มกัน <I6>51 จนกว่าจะไปถึงจุดหมายปลายทาง<FG>
 218,Dungeon_Prompts,175,732,8253,Only a priest with particular powers would be able to banish that barrier...,มีเพียงนักบวชที่มีพลังพิเศษเฉพาะตัวเท่านั้นที่จะสามารถสลายบาเรียนั้นได้...
 218,Dungeon_Prompts,176,736,8330,What luck<FG> <F4><I6>51 dropped a bracing bough<FG>,โชคดีจริง ๆ<FG> <F4><I6>51 ดรอปกิ่งไม้ค้ำชูออกมาแล้ว<FG>
@@ -202,8 +202,8 @@
 218,Dungeon_Prompts,200,832,9429,Follow the love-struck youth<FG>,จงติดตามชายหนุ่มผู้ตกหลุมรักไป<FG>
 218,Dungeon_Prompts,201,836,9461,The love-struck youth is on the move again<FG>,ชายหนุ่มผู้ตกหลุมรักเริ่มเคลื่อนพลอีกครั้งแล้ว<FG>
 218,Dungeon_Prompts,202,840,9507,Unused,
-218,Dungeon_Prompts,203,844,9514,Uh-oh<FG> A nightmaw has appeared<FG>,แย่แล้ว<FG> ไนท์มอร์ (Nightmaw) ปรากฏขึ้นแล้ว<FG>
-218,Dungeon_Prompts,204,848,9550,Dhuran and the jamirus are cloaked in the Cover of Darkness<FG>,ดูรันและจามิรัสถูกห่อหุ้มด้วยม่านแห่งความมืด (Cover of Darkness)<FG>
+218,Dungeon_Prompts,203,844,9514,Uh-oh<FG> A nightmaw has appeared<FG>,แย่แล้ว<FG> ไนท์มอร์ ปรากฏขึ้นแล้ว<FG>
+218,Dungeon_Prompts,204,848,9550,Dhuran and the jamirus are cloaked in the Cover of Darkness<FG>,ดูรันและจามิรัสถูกห่อหุ้มด้วยม่านแห่งความมืด<FG>
 218,Dungeon_Prompts,205,852,9613,Unused,
 218,Dungeon_Prompts,206,856,9620,Unused,
 218,Dungeon_Prompts,207,860,9627,Unused,
@@ -214,7 +214,7 @@
 218,Dungeon_Prompts,212,880,9690,<F4><I6>51 is on <E0>51his<E1>51her<E2>51its<E4>51 last legs<FG>,<F4><I6>51 อยู่ในสภาพร่อแร่ใกล้พ่ายเต็มทีแล้ว<FG>
 218,Dungeon_Prompts,213,884,9748,<F4><I6>51 has teleported to somewhere else<FG>,<F4><I6>51 เทเลพอร์ตหนีไปที่อื่นแล้ว<FG>
 218,Dungeon_Prompts,214,888,9793,Defeat the dungeon master within 15 minutes<FG>,จงปราบดันเจี้ยนมาสเตอร์ให้ได้ภายใน 15 นาที<FG>
-218,Dungeon_Prompts,215,892,9840,<F4><I6>51 orders <E0>51his<E1>51her<E2>51its<E4>51 underlings to redouble their attack<FG>,<F4><I6>51 สั่งการให้สมุนใต้บังคับบัญชาทวีความรุนแรงในการโจมตีเป็นสองเท่า<FG>
+218,Dungeon_Prompts,215,892,9840,<F4><I6>51 orders <E0>51his<E1>51her<E2>51its<E4>51 underlings to redouble their attack<FG>,<F4><I6>51 สั่งการให้สมุนใต้บังคับบัญชาทวีความรุนแรงในการโจมตีเป็น 2 เท่า<FG>
 218,Dungeon_Prompts,216,896,9925,The monsters' strength goes through the roof<FG>,พละกำลังของพวกมอนสเตอร์พุ่งสูงขึ้นอย่างมหาศาล<FG>
 218,Dungeon_Prompts,217,900,9973,,
 218,Dungeon_Prompts,218,904,9974,,
