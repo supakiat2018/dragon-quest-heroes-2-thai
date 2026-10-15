@@ -5,7 +5,7 @@
 204,Menus_UI_Settings,3,44,7872,Please choose a hero.,โปรดเลือกผู้กล้า
 204,Menus_UI_Settings,4,48,7894,"Next, enter a name for the hero's cousin, who will join you on your adventure.",ต่อไป โปรดตั้งชื่อให้ลูกพี่ลูกน้องของผู้กล้า ที่จะร่วมเดินทางไปกับคุณ
 204,Menus_UI_Settings,5,52,7973,The name you have entered contains text that cannot be used. Please use a different name.,ชื่อที่คุณป้อนมีตัวอักษรที่ไม่สามารถใช้งานได้ โปรดใช้ชื่ออื่น
-204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,คุณพร้อมที่จะสร้างบันทึกการเดินทางสำหรับผู้กล้าทั้ง2 คนแล้วหรือไม่<FH>
+204,Menus_UI_Settings,6,56,8063,Are you happy to go ahead and create an adventure log for your two heroes<FH>,คุณพร้อมที่จะสร้างบันทึกการเดินทางสำหรับผู้กล้าทั้ง 2 คนแล้วหรือไม่<FH>
 204,Menus_UI_Settings,7,60,8140,"Last of all, choose your control method and camera settings. Both of these can be changed during the game at any time.",สุดท้ายนี้ โปรดเลือกรูปแบบการควบคุมและการตั้งค่ามุมกล้อง ซึ่งสามารถเปลี่ยนได้ตลอดเวลาในระหว่างการเล่นเกม
 204,Menus_UI_Settings,8,64,8259,Enabling online features can provide you with all kinds of exciting online content. Would you like to enable online features now<FH>,การเปิดใช้งานฟีเจอร์ออนไลน์จะช่วยให้คุณเพลิดเพลินกับเนื้อหาออนไลน์ที่น่าตื่นเต้นมากมาย ต้องการเปิดใช้งานฟีเจอร์ออนไลน์ตอนนี้หรือไม่<FH>
 204,Menus_UI_Settings,9,68,8391,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,เกมนี้มีระบบบันทึกอัตโนมัติ ห้ามปิดเครื่องในขณะที่กำลังบันทึกข้อมูล ระบบบันทึกอัตโนมัติจะใช้ช่องบันทึก 1 ช่อง
@@ -72,7 +72,7 @@
 204,Menus_UI_Settings,70,312,12795,"Welcome to Patty's Place<FG> Well now, ain't this an honour<MV>a real live celebrity<FG> You make yourself comfy now, y'hear<FH>",ยินดีต้อนรับสู่บาร์ของแพตตี้จ้ะ<FG> แหม ช่างเป็นเกียรติจริง ๆ<MV>คนดังตัวจริงเสียงจริงมาเองเลย<FG> ทำตัวตามสบายได้เลยนะจ๊ะ<FH>
 204,Menus_UI_Settings,71,316,12920,"Sorry, sweetie, we're not open yet. Swing by later when I've finished getting things ready, y'hear<FH>",ขอโทษทีจ้ะคนดี ร้านยังไม่เปิดเลยจ้ะ ไว้แวะมาใหม่ตอนที่ฉันเตรียมของเสร็จแล้วนะจ๊ะ<FH>
 204,Menus_UI_Settings,72,320,13022,"Folks you leave behind will still earn experience, but not nearly so much as everybody else. Bear that in mind, okay, hun<FH>",คนที่เธอทิ้งไว้ที่นี่ก็ยังได้ค่าประสบการณ์นะจ๊ะ แต่จะได้ไม่มากเท่ากับคนที่ออกไปลุย จำตรงนี้ไว้ให้ดีนะจ๊ะคนดี<FH>
-204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",เลือกคนที่เธออยากพาไปด้วยได้เลยจ้ะ รวมทั้งจัดลำดับด้วยนะ และจำไว้ว่า<MV>ไม่จำเป็นต้องจัดทีมเต็ม4 คนเสมอไปหรอกนะจ๊ะ
+204,Menus_UI_Settings,73,324,13147,"Go ahead and pick who you want to take with you, and in what order. And remember<MV>you don't always have to field a full team.",เลือกคนที่เธออยากพาไปด้วยได้เลยจ้ะ รวมทั้งจัดลำดับด้วยนะ และจำไว้ว่า<MV>ไม่จำเป็นต้องจัดทีมเต็ม 4 คนเสมอไปหรอกนะจ๊ะ
 204,Menus_UI_Settings,74,328,13274,"Thanks for dropping by, sweetie<FG> You come on back whenever you need some new faces on the team, y'hear<FH>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> แวะกลับมาได้เสมอเมื่อไหร่ก็ตามที่เธอต้องการเปลี่ยนหน้าสมาชิกในทีมนะจ๊ะ<FH>
 204,Menus_UI_Settings,75,332,13382,"Thanks for dropping by, sweetie<FG> Famous adventurers such as yourself are always welcome here<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> นักผจญภัยชื่อดังอย่างเธอ ยินดีต้อนรับเสมอจ้ะ<FG>
 204,Menus_UI_Settings,76,336,13480,"Thanks for dropping by, sweetie<FG> I can't tell you how good these celebrity visits are for business<FG> Tee hee<FG>",ขอบใจที่แวะมานะจ๊ะคนดี<FG> บอกไม่ถูกเลยว่าการที่คนดังแวะมาแบบนี้ มันช่วยให้ร้านขายดีแค่ไหน<FG> คิก ๆ<FG>
@@ -94,7 +94,7 @@
 204,Menus_UI_Settings,92,400,14969,"Why not take a look-see at the list o' what I got<MV>you ain't gonna be disappointed, I promise ya. Alright, let's get downta business<FG>",ลองมาดูรายการของที่ฉันมีหน่อยเป็นไง<MV>รับรองแกไม่ผิดหวังแน่ ฉันสัญญา เอาล่ะ มาเริ่มคุยธุรกิจกันดีกว่า<FG>
 204,Menus_UI_Settings,93,404,15106,"Welcome to Maxi Malone's, kiddo<FG> So<MV>you got any mini medals or what<FH>",ยินดีต้อนรับสู่ร้านของแม็กซี่ มาโลน เจ้าหนู<FG> ว่าไงล่ะ<MV>แกมีมินิเมดัลมามั่งมั้ยเนี่ย<FH>
 204,Menus_UI_Settings,94,408,15181,"Whoa, it's da hero of da realm <E0>00himself<E3>00herself<E4>00<FG> You wanna talk mini medals<FH> I wanna talk mini medals<FG>",โอ้โห ผู้กล้าแห่งอาณาจักรมาเองเลยนี่หว่า<FG> แกอยากคุยเรื่องมินิเมดัลใช่มั้ย<FH> ฉันก็อยากคุยเรื่องมินิเมดัลเหมือนกันโว้ย<FG>
-204,Menus_UI_Settings,95,412,15303,"Hmm... Lemme see here... Right now, you got, uh...<E5>P1just da one<E6>01%d o' dem shiny little beauties<E7>01.",หืม... ไหนขอดูซิ... ตอนนี้แกมีไอ้เหรียญแวววาวพวกนี้อยู่... <E5>P1แค่เหรียญเดียวเอง<E6>01%d เหรียญแน่ะ<E7>01
+204,Menus_UI_Settings,95,412,15303,"Hmm... Lemme see here... Right now, you got, uh...<E5>P1just da one<E6>01%d o' dem shiny little beauties<E7>01.",หืม... ไหนขอดูซิ... ตอนนี้แกมีไอ้เหรียญแวววาวพวกนี้อยู่... <E5>P1 แค่เหรียญเดียวเอง<E6>01%d เหรียญแน่ะ<E7>01
 204,Menus_UI_Settings,96,416,15412,Here's what I got<MV>just don't ask where dis stuff came from if ya know what's good for ya...,นี่คือของที่ฉันมี<MV>แต่อย่าถามนะว่าไปเอามาจากไหน ถ้ายังอยากมีชีวิตอยู่อย่างสงบสุขน่ะนะ...
 204,Menus_UI_Settings,97,420,15506,"Make up yer mind already, will ya, kid<FH>",ตัดสินใจได้ยังล่ะหืม เจ้าหนู<FH>
 204,Menus_UI_Settings,98,424,15548,See anythin' else here ya like<FH>,มีชิ้นไหนที่แกชอบอีกมั้ยล่ะ<FH>
@@ -128,7 +128,7 @@
 204,Menus_UI_Settings,126,536,18051,"Wot, changed yer mind already<FH> You after anythin' else<FH>",อ้าว เปลี่ยนใจซะแล้วเรอะ<FH> อยากได้อะไรอื่นอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,127,540,18111,"Oi<FG> Think I'm thick, do you<FH> You ain't got the gold for that<FG>",เฮ้ย<FG> นึกว่าฉันโง่เรอะ<FH> เหรียญทองแกไม่พอนะเว้ย<FG>
 204,Menus_UI_Settings,128,544,18179,"Hur hur hur<FG> Looks like yer weedy little equipment bag is full. Sort it out an' come back, alright<FH>",ฮึ ๆๆ<FG> ดูเหมือนกระเป๋าเก็บของกระจิริดของแกจะเต็มเอี๊ยดแล้ว ไปเคลียร์ของแล้วค่อยกลับมานะ ตกลงมั้ย<FH>
-204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,แกรับ <EH>A1ชิ้นเหล่านี้<EI>01ชิ้นนี้<EJ>01 <I0>A1 ไปได้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
+204,Menus_UI_Settings,129,548,18283,You can 'ave <EH>A1these<EI>01this<EJ>01 <I0>A1 fer <E5>O1one gold coin<E6>01%d gold coins<E7>01. We got a deal<FH>,แกรับ <EH>A1 ชิ้นเหล่านี้<EI>01 ชิ้นนี้<EJ>01 <I0>A1 ไปได้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงมั้ยล่ะ<FH>
 204,Menus_UI_Settings,130,552,18391,"Cheers<FG> You equippin' the goods now, or wot<FH>",ขอบใจ<FG> จะสวมใส่ของตอนนี้เลยมั้ยล่ะ<FH>
 204,Menus_UI_Settings,131,556,18440,"Cheers<FG> I'll shove the goods in yer bag, shall I<FH>",ขอบใจ<FG> งั้นฉันยัดของใส่กระเป๋าให้เลยนะ<FH>
 204,Menus_UI_Settings,132,560,18494,"Alright, I'll shove the goods in yer equipment bag.",ได้เลย งั้นฉันเก็บของใส่กระเป๋าเก็บอุปกรณ์ให้นะ
@@ -139,7 +139,7 @@
 204,Menus_UI_Settings,137,580,18675,"You realise you'll be sellin' me an orb someone's usin', don'tcha<FH> Go on, then<MV>who's'll it be<FH>",แกรู้ตัวนะว่าจะขายลูกแก้วที่คนอื่นกำลังสวมอยู่ให้ฉันน่ะ<FH> เอาสิ<MV>แล้วจะขายของใครล่ะ<FH>
 204,Menus_UI_Settings,138,584,18776,You 'avin' a laugh<FH> You ain't got nothin' to sell<FG>,ล้อเล่นปะเนี่ย<FH> แกไม่มีอะไรจะขายเลยนะเว้ย<FG>
 204,Menus_UI_Settings,139,588,18831,Suit yerself. Anythin' else to sell<FH>,ตามใจแก มีอะไรจะขายอีกมั้ยล่ะ<FH>
-204,Menus_UI_Settings,140,592,18870,'Ang abaht<FG> Someone's usin' <EH>M1them<EI>01that<EJ>01 <I0>M1<FG> You sure you wanna sell <EH>M1'em<EI>01it<EJ>01<FH>,เดี๋ยวก่อนสิโว้ย<FG> มีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะ<FG> แน่ใจนะว่าอยากจะขาย<FH>
+204,Menus_UI_Settings,140,592,18870,'Ang abaht<FG> Someone's usin' <EH>M1them<EI>01that<EJ>01 <I0>M1<FG> You sure you wanna sell <EH>M1'em<EI>01it<EJ>01<FH>,เดี๋ยวก่อนสิโว้ย<FG> มีคนกำลังใช้งาน <EH>M1 พวกมัน<EI>01 สิ่งนั้น<EJ>01 <I0>M1 อยู่นะ<FG> แน่ใจนะว่าอยากจะขาย<FH>
 204,Menus_UI_Settings,141,596,18981,Got anythin' else to sell<FH>,มีอะไรจะขายอีกมั้ยล่ะ<FH>
 204,Menus_UI_Settings,142,600,19010,"I ain't buyin' that, an' you know it.",ฉันไม่รับซื้อของชิ้นนั้นหรอก แกก็รู้ดีนี่
 204,Menus_UI_Settings,143,604,19048,"You know these ain't easy to come by, don'tcha<FH> You sure you wanna sell<FH>",แกรู้นะว่าของพวกนี้มันไม่ได้หากันง่าย ๆ น่ะ แน่ใจนะว่าอยากจะขายจริง ๆ<FH>
@@ -174,7 +174,7 @@
 204,Menus_UI_Settings,172,720,21048,"Fancy the 'ero of the realm comin' to me 'umble little stall, eh<FH> Be lucky<FG>",ไม่นึกไม่ฝันเลยว่าท่านผู้กล้าแห่งอาณาจักรจะแวะมาที่แผงลอยซอมซ่อของฉันนะเนี่ย<FH> ขอให้โชคดีนะเพื่อน<FG>
 204,Menus_UI_Settings,173,724,21128,"My apologies, young traveller. I'm not quite ready to open up shop yet, but do come back later.",ต้องขออภัยด้วยนะ ท่านนักเดินทางรุ่นเยาว์ ข้ายังเตรียมเปิดร้านไม่เสร็จดีเลย ไว้ค่อยกลับมาใหม่ทีหลังนะ
 204,Menus_UI_Settings,174,728,21224,Hello there<FG> I'm your friendly local orb seller<FG> Orbs are fantastic artefacts that amplify the defensive capabilities of the user.,สวัสดีขอรับ<FG> ข้าคือพ่อค้าขายลูกแก้วประจำเมืองขอรับ<FG> ลูกแก้วคือโบราณวัตถุสุดวิเศษที่ช่วยเสริมพลังป้องกันให้แก่ผู้สวมใส่
-204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",บางชิ้นยังมีคุณสมบัติพิเศษเสริมด้วยนะขอรับ ทว่าแต่ละคนจะสวมใส่ได้เพียงครั้งละ1 ชิ้นเท่านั้น จึงต้องเลือกสรรอย่างรอบคอบขอรับ
+204,Menus_UI_Settings,175,732,21359,"Some even have additional special effects, you know. But each of you can only equip one at a time, so you'll need to choose carefully.",บางชิ้นยังมีคุณสมบัติพิเศษเสริมด้วยนะขอรับ ทว่าแต่ละคนจะสวมใส่ได้เพียงครั้งละ 1 ชิ้นเท่านั้น จึงต้องเลือกสรรอย่างรอบคอบขอรับ
 204,Menus_UI_Settings,176,736,21494,"But before you can choose, you'll have to buy<FG> Shall we get down to business<FH> Ahem...",แต่ก่อนจะเลือกได้ ก็ต้องซื้อก่อนขอรับ<FG> เรามาเริ่มคุยธุรกิจกันเลยดีไหมขอรับ<FH> อะแฮ่ม...
 204,Menus_UI_Settings,177,740,21584,"Welcome, friend<FG> Can I interest you in a protective orb or two<FH>",ยินดีต้อนรับ สหายเอ๋ย<FG> สนใจรับลูกแก้วคุ้มครองสักชิ้นสองชิ้นไหมขอรับ<FH>
 204,Menus_UI_Settings,178,744,21652,Is there anything else you'd like<FH>,มีสิ่งอื่นใดที่ต้องการอีกไหมขอรับ<FH>
@@ -196,9 +196,9 @@
 204,Menus_UI_Settings,194,808,22687,Will you be selling anything else<FH>,มีสิ่งอื่นใดจะขายอีกหรือไม่ขอรับ<FH>
 204,Menus_UI_Settings,195,812,22724,"I'm ever so sorry, but it seems you don't have anything to sell...",ต้องขอประทานอภัยจริง ๆ ขอรับ แต่ดูเหมือนท่านจะไม่มีสิ่งใดให้ขายเลย...
 204,Menus_UI_Settings,196,816,22791,"Ah, as you wish. Is there anything else you'd like to sell<FH>",อ่า ตามที่ท่านประสงค์ขอรับ มีสิ่งอื่นใดจะขายอีกไหมขอรับ<FH>
-204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,อะแฮ่ม... ดูเหมือนว่ามีคนกำลังใช้งาน <EH>M1พวกมัน<EI>01สิ่งนั้น<EJ>01 <I0>M1 อยู่นะขอรับ แน่ใจจริง ๆหรือขอรับว่าประสงค์จะขาย<FH>
+204,Menus_UI_Settings,197,820,22853,Ahem... It seems someone is using <EH>M1those<EI>01that<EJ>01 <I0>M1. Are you quite sure you wish to sell <EH>M1them<EI>01it<EJ>01<FH>,อะแฮ่ม... ดูเหมือนว่ามีคนกำลังใช้งาน <EH>M1 พวกมัน<EI>01 สิ่งนั้น<EJ>01 <I0>M1 อยู่นะขอรับ แน่ใจจริง ๆหรือขอรับว่าประสงค์จะขาย<FH>
 204,Menus_UI_Settings,198,824,22980,"You realise this will mean selling orbs you're currently using, don't you<FH> Well then, which do you wish to sell<FH>",ท่านทราบใช่ไหมขอรับว่าการทำเช่นนี้หมายถึงการขายลูกแก้วที่กำลังใช้งานอยู่ในขณะนี้แล้วประสงค์จะขายชิ้นใดหรือขอรับ<FH>
-204,Menus_UI_Settings,199,828,23097,"Goodness<FG> Are you sure, <E0>00young man<E3>00young lady<E4>00<FH> Items of this kind don't grow on trees, you know.",คุณพระช่วย<FG> แน่ใจแล้วหรือขอรับ <E0>00พ่อหนุ่ม<E3>00แม่หนู<E4>00<FH> ของพรรค์นี้ไม่ได้หากันได้ง่าย ๆ ตามต้นไม้นะขอรับ
+204,Menus_UI_Settings,199,828,23097,"Goodness<FG> Are you sure, <E0>00young man<E3>00young lady<E4>00<FH> Items of this kind don't grow on trees, you know.",คุณพระช่วย<FG> แน่ใจแล้วหรือขอรับ <E0>00 พ่อหนุ่ม<E3>00 แม่หนู<E4>00<FH> ของพรรค์นี้ไม่ได้หากันได้ง่าย ๆ ตามต้นไม้นะขอรับ
 204,Menus_UI_Settings,200,832,23211,"Hmm... My apologies, but I feel it would be better if you were to keep that particular curiosity.",หืม... ต้องขออภัยด้วยขอรับ แต่ข้ารู้สึกว่าท่านน่าจะเก็บของแปลกชิ้นนั้นไว้กับตัวดีกว่านะขอรับ
 204,Menus_UI_Settings,201,836,23309,Are you not using this orb for a different vocation<FH> Are you sure you wish to sell it<FH>,ท่านไม่ได้ใช้ลูกแก้วนี้กับอาชีพอื่นอยู่หรือขอรับ<FH> แน่ใจแล้วหรือขอรับว่าประสงค์จะขาย<FH>
 204,Menus_UI_Settings,202,840,23400,<F4><I8>M1<FH> I'll buy <EH>M1those<EI>01that<EJ>01 off you for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound acceptable<FH>,<F4><I8>M1 หรือขอรับ<FH> ข้ารับซื้อไว้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ตกลงตามนี้ไหมขอรับ<FH>
@@ -206,9 +206,9 @@
 204,Menus_UI_Settings,204,848,23684,Very good<FG> Here you are.,ดีเยี่ยมเลยขอรับ<FG> นี่ของท่านขอรับ
 204,Menus_UI_Settings,205,852,23711,Do come again<FG>,ไว้แวะมาใหม่นะขอรับ<FG>
 204,Menus_UI_Settings,206,856,23728,Customers of your good reputation are always welcome here<FG>,ลูกค้าผู้มีชื่อเสียงอันดีงามเช่นท่าน ยินดีต้อนรับเสมอขอรับ<FG>
-204,Menus_UI_Settings,207,860,23789,It is always a pleasure and a privilege to serve such a widely admired <E0>00young gentleman<E3>00young lady<E4>00<FG>,เป็นเกียรติและความยินดีอย่างยิ่งเสมอที่ได้รับใช้ <E0>00สุภาพบุรุษรุ่นเยาว์<E3>00สุภาพสตรีรุ่นเยาว์<E4>00 ผู้เป็นที่ชื่นชมเช่นท่าน<FG>
+204,Menus_UI_Settings,207,860,23789,It is always a pleasure and a privilege to serve such a widely admired <E0>00young gentleman<E3>00young lady<E4>00<FG>,เป็นเกียรติและความยินดีอย่างยิ่งเสมอที่ได้รับใช้ <E0>00 สุภาพบุรุษรุ่นเยาว์<E3>00 สุภาพสตรีรุ่นเยาว์<E4>00 ผู้เป็นที่ชื่นชมเช่นท่าน<FG>
 204,Menus_UI_Settings,208,864,23904,That renowned heroes should frequent my humble shop is an inestimable honour<FG> Until next time<FG>,การที่ผู้กล้าชื่อเสียงขจรไกลแวะเวียนมายังร้านซอมซ่อของข้า ถือเป็นเกียรติอันหาที่สุดมิได้<FG> ไว้พบกันใหม่นะขอรับ<FG>
-204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",เอ๊ะ<MV><FG> ท่านมองเห็นความลับเล็ก ๆ ของข้าได้อย่างไรกันขอรับเนี่ย<FG><FH> ตาแหลมคมจริง ๆ <E0>00นายน้อย<E3>00คุณหนู<E4>00<FG> ข้ามอบให้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้ฟังดูเข้าทีไหมขอรับ<FH>
+204,Menus_UI_Settings,209,868,24003,"Why<MV><FG> However did you spot my little secret<FG><FH> Good eye, young <E0>00sir<E3>00lady<E4>00<FG> It's yours for <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that sound reasonable<FH>",เอ๊ะ<MV><FG> ท่านมองเห็นความลับเล็ก ๆ ของข้าได้อย่างไรกันขอรับเนี่ย<FG><FH> ตาแหลมคมจริง ๆ <E0>00 นายน้อย<E3>00 คุณหนู<E4>00<FG> ข้ามอบให้ในราคา <E5>O11 เหรียญทอง<E6>01%d เหรียญทอง<E7>01 ราคานี้ฟังดูเข้าทีไหมขอรับ<FH>
 204,Menus_UI_Settings,210,872,24187,"Good<FG> Ah, but I cannot simply hand it over... Very well. I will arrange for you to receive it through a...certain quest at the quest counter...",ดีเลยขอรับ<FG> อ๊ะ แต่ข้าคงส่งมอบให้ตรง ๆ ไม่ได้... เอาเถอะ ข้าจะจัดการให้ท่านได้รับมันผ่าน...เควสต์บางอย่างที่เคาน์เตอร์เควสต์ก็แล้วกัน...
 204,Menus_UI_Settings,211,876,24333,"Welcome to the accolades counter, where your activities on the battlefield are rewarded with prizes aplenty<FG>",ยินดีต้อนรับสู่เคาน์เตอร์เกียรติยศ ที่ซึ่งผลงานในสนามรบของท่านจะได้รับรางวัลตอบแทนมากมาย<FG>
 204,Menus_UI_Settings,212,880,24444,"Welcome back<FG> This is the accolades counter, where your martial prowess is rewarded with accolades and mini medals<FG>",ยินดีต้อนรับกลับมา<FG> นี่คือเคาน์เตอร์เกียรติยศ ที่ซึ่งฝีมือการต่อสู้ของท่านจะได้รับรางวัลเป็นเกียรติยศและมินิเมดัล<FG>
@@ -286,7 +286,7 @@
 204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,พวกเรารอคอยที่จะได้พบคุณอีกครั้งเมื่อเปิดให้บริการอย่างเป็นทางการนะคะ<FG>
 204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",ขออภัยด้วยนะคะ เรายังจัดเตรียมสถานที่อยู่ค่ะ แต่จะเปิดให้บริการเร็ว ๆ นี้ ไว้แวะมาใหม่เมื่อเราพร้อมให้บริการนะคะ<FG>
 204,Menus_UI_Settings,286,1176,31316,UNUSED,
-204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึง3 คนค่ะ
+204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึง 3 คนค่ะ
 204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,การเข้าสู่ดันเจี้ยนมิติจะเริ่มจากห้องที่เรียกว่า 'ล็อบบี้' คุณสามารถเข้าร่วมห้องเหล่านี้ได้สามวิธีค่ะ
 204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล' ค่ะ
 204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล' ค่ะ
@@ -399,10 +399,10 @@
 204,Menus_UI_Settings,397,1620,39617,What would you like to claim<FH>,ต้องการรับรางวัลใดหรือคะ<FH>
 204,Menus_UI_Settings,398,1624,39649,"I'm terribly sorry, but there aren't any bonus balls waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีโบนัสบอลรอคุณอยู่เลยค่ะ
 204,Menus_UI_Settings,399,1628,39719,"I'm terribly sorry, but there aren't any quicksilver keys waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีกุญแจควิกซิลเวอร์คีย์รอคุณอยู่เลยค่ะ
-204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1โบนัสบอล 1 ลูก<E6>01โบนัสบอล <GR>1 ลูก<E7>01 นะคะ
-204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",ต้องการรับ1 ลูกหรือไม่<FH>\n(จะเหลือโบนัสบอล <E5>R11 ลูก<E6>01ทั้งหมด <GR>1 ลูก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
-204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1กุญแจควิกซิลเวอร์คีย์ 1 ดอก<E6>01กุญแจควิกซิลเวอร์คีย์ <GR>1 ดอก<E7>01 สำหรับคุณนะคะ
-204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",ต้องการรับ1 ดอกหรือไม่<FH>\n(จะเหลือกุญแจควิกซิลเวอร์คีย์ <E5>R11 ดอก<E6>01ทั้งหมด <GR>1 ดอก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1 โบนัสบอล 1 ลูก<E6>01 โบนัสบอล <GR>1 ลูก<E7>01 นะคะ
+204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",ต้องการรับ 1 ลูกหรือไม่<FH>\n(จะเหลือโบนัสบอล <E5>R11 ลูก<E6>01 ทั้งหมด <GR>1 ลูก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1 กุญแจควิกซิลเวอร์คีย์ 1 ดอก<E6>01 กุญแจควิกซิลเวอร์คีย์ <GR>1 ดอก<E7>01 สำหรับคุณนะคะ
+204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",ต้องการรับ 1 ดอกหรือไม่<FH>\n(จะเหลือกุญแจควิกซิลเวอร์คีย์ <E5>R11 ดอก<E6>01 ทั้งหมด <GR>1 ดอก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
 204,Menus_UI_Settings,404,1648,40270,Here you go<FG>,นี่ค่ะ<FG>
 204,Menus_UI_Settings,405,1652,40285,<F4><I0>00 receives a bonus ball<FG>,<F4><I0>00 ได้รับโบนัสบอล<FG>
 204,Menus_UI_Settings,406,1656,40319,<F4><I0>00 receives a quicksilver key<FG>,<F4><I0>00 ได้รับกุญแจควิกซิลเวอร์คีย์<FG>
@@ -460,7 +460,7 @@
 204,Menus_UI_Settings,458,1864,44393,"Welcome, <F4><I0>00<FG> I can't keep the townspeople away, you know<FG> They're all itching to trade with a hero like you<FG>",ยินดีต้อนรับครับ คุณ <F4><I0>00<FG> ชาวเมืองตื่นเต้นกันใหญ่เลยครับ<FG> ทุกคนต่างอยากแลกของกับผู้กล้าอย่างคุณทั้งนั้นเลยครับ<FG>
 204,Menus_UI_Settings,459,1868,44514,Do you like trading items<FH> Then you'll love the Swap Shop<FG> It's where people come to barter for the best deals going<FG>,คุณชอบแลกเปลี่ยนไอเทมไหมครับ<FH> ถ้าชอบล่ะก็ คุณจะต้องหลงรักร้าน Swap Shop แน่นอนครับ<FG> ที่นี่คือที่ที่ผู้คนมาร่วมแลกเปลี่ยนดีลที่ดีที่สุดกันครับ<FG>
 204,Menus_UI_Settings,460,1872,44638,"The items on offer change all the time, so be sure to pop by regularly and see if someone's got what you want<FG>",ไอเทมที่เปิดรับแลกจะเปลี่ยนไปตลอดเวลา ดังนั้นอย่าลืมแวะมาบ่อย ๆเพื่อดูว่ามีใครเสนอของที่คุณต้องการไหมนะครับ<FG>
-204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",และถ้ามีของที่คุณอยากได้ แต่ยังไม่มีไอเทมที่ต้องใช้แลก ก็อย่าเพิ่งหมดหวังนะครับ<MV>คุณสามารถบันทึกข้อเสนอไว้ได้1 ข้อเสนอเพื่อมาแลกทีหลังได้ครับ<FG>
+204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",และถ้ามีของที่คุณอยากได้ แต่ยังไม่มีไอเทมที่ต้องใช้แลก ก็อย่าเพิ่งหมดหวังนะครับ<MV>คุณสามารถบันทึกข้อเสนอไว้ได้ 1 ข้อเสนอเพื่อมาแลกทีหลังได้ครับ<FG>
 204,Menus_UI_Settings,462,1880,44887,Do any of our other offers take your fancy<FH>,มีข้อเสนออื่น ๆ ของเราที่ถูกใจคุณอีกไหมครับ<FH>
 204,Menus_UI_Settings,463,1884,44933,Come back soon<FG>,ไว้แวะมาใหม่นะครับ<FG>
 204,Menus_UI_Settings,464,1888,44951,Customers of your calibre are always welcome<FG> Come back soon<FG>,ลูกค้าระดับคุณ ยินดีต้อนรับเสมอครับ<FG> ไว้แวะมาใหม่นะครับ<FG>
@@ -644,7 +644,7 @@
 204,Menus_UI_Settings,642,2600,58613,<F4><I6>C1 was cursed<FG>,<F4><I6>C1 ถูกคำสาป<FG>
 204,Menus_UI_Settings,643,2604,58636,Use a bonus ball<FH>,ต้องการใช้โบนัสบอลหรือไม่<FH>
 204,Menus_UI_Settings,644,2608,58656,You can't use bonus balls right now<FG> They will become available when you're able to use spells and abilities again.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
-204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> คุณสามารถใช้งานได้ครั้งละ1 ลูกเท่านั้น
+204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> คุณสามารถใช้งานได้ครั้งละ 1 ลูกเท่านั้น
 204,Menus_UI_Settings,646,2616,58845,Discard this piece of equipment<FH>,ต้องการทิ้งอุปกรณ์สวมใส่ชิ้นนี้หรือไม่<FH>
 204,Menus_UI_Settings,647,2620,58880,You can't possibly discard that<FG> It's currently equipped<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันกำลังถูกสวมใส่อยู่<FG>
 204,Menus_UI_Settings,648,2624,58942,You can't possibly discard that<FG> It's far too important<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันเป็นของสำคัญเกินกว่าจะทิ้งได้<FG>
@@ -1301,7 +1301,7 @@
 204,Menus_UI_Settings,1299,5228,75374,Withdraw Your Offer of Help,ถอนข้อเสนอช่วยเหลือของคุณ
 204,Menus_UI_Settings,1300,5232,75402,You can play with <E5>R1one more person<E6>01<GR>1 more people<E7>01.,คุณสามารถเล่นกับผู้อื่นได้อีก <E5>R11 คน<E6>01<GR>1 คน<E7>01
 204,Menus_UI_Settings,1301,5236,75468,Call for Help,ขอความช่วยเหลือ
-204,Menus_UI_Settings,1302,5240,75482,All interdimensional adventurers assembled.\nPlease respond within <GR>1 <E5>R1second<E6>01seconds<E7>01.,รวบรวมนักผจญภัยข้ามมิติครบแล้ว\nโปรดตอบกลับภายใน <GR>1 <E5>R1วินาที<E6>01วินาที<E7>01
+204,Menus_UI_Settings,1302,5240,75482,All interdimensional adventurers assembled.\nPlease respond within <GR>1 <E5>R1second<E6>01seconds<E7>01.,รวบรวมนักผจญภัยข้ามมิติครบแล้ว\nโปรดตอบกลับภายใน <GR>1 <E5>R1 วินาที<E6>01 วินาที<E7>01
 204,Menus_UI_Settings,1303,5244,75583,You've received a request from <I0>M1 to help with ‘<I0>M2’<FG>,คุณได้รับคำขอจาก <I0>M1 ให้ไปช่วยในศึก ‘<I0>M2’<FG>
 204,Menus_UI_Settings,1304,5248,75648,"You've answered a call to arms<FG> While helping, you will earn double experience points, gold coins and proficiency.","คุณได้ตอบรับการระดมพลแล้ว<FG> ในขณะช่วยเหลือ คุณจะได้รับค่าประสบการณ์, เหรียญทอง และความชำนาญเป็น 2 เท่า"
 204,Menus_UI_Settings,1305,5252,75765,The battle has ended. Thanks for helping out<FG>,การต่อสู้สิ้นสุดลงแล้ว ขอบคุณมากที่มาช่วยเหลือนะ<FG>

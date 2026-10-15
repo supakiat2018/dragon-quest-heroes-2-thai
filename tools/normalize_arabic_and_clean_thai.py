@@ -47,6 +47,12 @@ def clean_thai_text(text):
     for old, new in number_replacements:
         cleaned = cleaned.replace(old, new)
         
+    # 3. Ensure clean spacing between Thai letters and Arabic digits
+    cleaned = re.sub(r'([\u0E00-\u0E7F])(\d+)', r'\1 \2', cleaned)
+    cleaned = re.sub(r'(\d+)([\u0E00-\u0E7F])', r'\1 \2', cleaned)
+    # Remove any unintended double spaces created
+    cleaned = re.sub(r'(?<=\S)  +', ' ', cleaned)
+        
     return cleaned
 
 def process_file(file_path):
