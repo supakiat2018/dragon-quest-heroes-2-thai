@@ -1,0 +1,492 @@
+[
+  {
+    "idx": 0,
+    "start_row": 0,
+    "title": "Smouldering Boulders",
+    "client": "Leerphobic Lady",
+    "desc": "I've got a date at the oasis in the Grand Dunes coming up, but when I went to check the place out, it was full of horrible, grinning boulders<FG> Can you do something about them<FH>",
+    "hint1": "",
+    "loc": "The Grand Dunes",
+    "hint2": ""
+  },
+  {
+    "idx": 1,
+    "start_row": 6,
+    "title": "Bridging the Gap",
+    "client": "Corner-Cutting Carpenter",
+    "desc": "Guess who just landed a big project to repair the Greena Pastures-Grand Dunes bridge<FH> Materials don't come cheap, though. Could you ‘borrow’ a few things from some monsters<FH>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Slimes and mummy boys drop the items you need<FG>"
+  },
+  {
+    "idx": 2,
+    "start_row": 12,
+    "title": "Patrolling the Pastures",
+    "client": "Knight-Captain",
+    "desc": "All those wishing to serve Accordia are hereby requested to join the fight in Greena Pastures against the horde of monsters running amok there<FG> For the realm<FG>",
+    "hint1": "",
+    "loc": "Greena Pastures",
+    "hint2": ""
+  },
+  {
+    "idx": 3,
+    "start_row": 18,
+    "title": "Well-Healed<FL>1",
+    "client": "Pilgrim Priestess",
+    "desc": "Untapped power lies dormant within your Healstones. I can draw it out using a remedial rock. Seek the king slimes of the Lumberlands, for they are known to carry them.",
+    "hint1": "",
+    "loc": "The Lumberlands",
+    "hint2": "Get yourself a remedial rock<FG>\\nKing slimes sometimes drop them."
+  },
+  {
+    "idx": 4,
+    "start_row": 24,
+    "title": "Sticking It to the Man",
+    "client": "Old Featherbrain",
+    "desc": "I've lost my walking stick<FG> I must have left it behind when I was taking my grandson to see the dragon bones at the Grand Dunes. Could you help an old man in need<FH>",
+    "hint1": "",
+    "loc": "The Grand Dunes",
+    "hint2": "Find the old man's walking stick<FG> The dragon bones are near the entrance to the Grand Dunes."
+  },
+  {
+    "idx": 5,
+    "start_row": 30,
+    "title": "Pedal to the Medal<FL>1",
+    "client": "Travelling Trader",
+    "desc": "I've found a way to improve that monster medal holder I gave you<FG> I'll need a lump of monsterium ore, though. The mud mannequins in the Grand Dunes should have some.",
+    "hint1": "",
+    "loc": "The Grand Dunes",
+    "hint2": "Use monster minions to defeat a mud mannequin<FG>"
+  },
+  {
+    "idx": 6,
+    "start_row": 36,
+    "title": "Eggsercise Caution",
+    "client": "Tired-and-Teasy Toughie",
+    "desc": "Cor, I ain't 'alf been knackered lately. Wot I need to perk me up is a good egg<MV>a crackin' egg<FG> Grab us one, would ya<FH> Go easy, though<MV> they're fragile as anyfink<FG>",
+    "hint1": "",
+    "loc": "The Lumberlands",
+    "hint2": "Search the western Lumberlands<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will break the egg<FG>"
+  },
+  {
+    "idx": 7,
+    "start_row": 42,
+    "title": "Entertaining the Troops",
+    "client": "Knight-Captain",
+    "desc": "Our forces are flagging in the battle against a rampaging horde near Dunisia<FG> A stunning display of arms would both raise our spirits and turn the tide of battle<FG> Please assist<FG>",
+    "hint1": "Defeat 15 or more monsters with a single coup de grâce<FG>",
+    "loc": "The Battle of Dunisia",
+    "hint2": "Head for Outer Dunisia<FG>"
+  },
+  {
+    "idx": 8,
+    "start_row": 48,
+    "title": "Fireballs for Furballs",
+    "client": "Harban Busybody",
+    "desc": "I've been trying to clear up the mess blocking off the forest in Greena Pastures, but these blessed cats keep getting in the way<FG> They're afraid of fire<MV>can you scare them off<FH>",
+    "hint1": "",
+    "loc": "Greena Pastures",
+    "hint2": "Use fire-based spells and abilities to defeat candy cats<FG>"
+  },
+  {
+    "idx": 9,
+    "start_row": 54,
+    "title": "The Way to His Heart<FL>1",
+    "client": "Careworn Wife",
+    "desc": "I want to make my husband his favourite treat, but I'm having trouble gathering all the ingredients. Could you get me a leaf of true lovage from Greena Pastures<FH>",
+    "hint1": "",
+    "loc": "Greena Pastures",
+    "hint2": "Bring back a leaf of true lovage<FG> You can find it in the small forest in the centre of Greena Pastures<FG>"
+  },
+  {
+    "idx": 10,
+    "start_row": 60,
+    "title": "The Way to His Heart<FL>2",
+    "client": "Careworn Wife",
+    "desc": "I'm short a wed herring for the centrepiece of my husband's treat. I hear that they're a Harban delicacy<MV>is there any way you might be able to get me one<FH>",
+    "hint1": "Go to Harba and find a wed herring<FG>",
+    "loc": "Harba",
+    "hint2": "Bring <C9>Torneko<R >along for this one<FG>"
+  },
+  {
+    "idx": 11,
+    "start_row": 66,
+    "title": "Hammer and Tongs<FL>1",
+    "client": "Wandering Weaponsmith",
+    "desc": "Right, if I'm to get cracking on honing my skills, I'll need some better tools. Can you give us a hand<FH> You'll find what I need at the Grand Dunes oasis and in No Man's Land.",
+    "hint1": "",
+    "loc": "None",
+    "hint2": ""
+  },
+  {
+    "idx": 12,
+    "start_row": 72,
+    "title": "Procure the Cure<FL>1",
+    "client": "Priestess-About-Town",
+    "desc": "Alas, I have run short of the materials necessary to create the Healstones with which I aid injured adventurers<FG> Find what I need, and you may have all the Healstones you like<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Small scales are dropped by hacksauruses<FG>"
+  },
+  {
+    "idx": 13,
+    "start_row": 78,
+    "title": "Hammer and Tongs<FL>2",
+    "client": "Wandering Weaponsmith",
+    "desc": "I'll need even better tools if I'm to work finer materials. You can find what I need in Redrock Ravine and the Frosty Foothills. Help me out, and I'll make some real masterpieces<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": ""
+  },
+  {
+    "idx": 14,
+    "start_row": 84,
+    "title": "Breaking the Ice",
+    "client": "Knight-Captain",
+    "desc": "We are working to clear the rockfall between Greena Pastures and the Frosty Foothills, but a monster from the frozen wastes hampers our efforts. Rid the realm of this nuisance<FG>",
+    "hint1": "",
+    "loc": "The Frosty Foothills",
+    "hint2": "The target only appears occasionally<FG>"
+  },
+  {
+    "idx": 15,
+    "start_row": 90,
+    "title": "Pyramid Scream",
+    "client": "Worried Mother",
+    "desc": "My boy went out to play with his friend, and he hasn't come home<FG> I hope he hasn't wandered out of town again... Can you find the little rascal and bring him back<FH>",
+    "hint1": "Find the lost children<FG>",
+    "loc": "None",
+    "hint2": "Bring <C9>Maribel<R >and <C9>Ruff<R >along for this one<FG>"
+  },
+  {
+    "idx": 16,
+    "start_row": 96,
+    "title": "Building Bridges<FL>1",
+    "client": "Toughie with an 'Eart of Gold",
+    "desc": "Me sister's sick, an' I can't go an' see 'er 'cos the bleedin' bridge 'as been smashed to smithereens<FG> Can you get some bits an' bobs an' fix it up for me<FH> I'm beggin' ya<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": ""
+  },
+  {
+    "idx": 17,
+    "start_row": 102,
+    "title": "Building Bridges<FL>2",
+    "client": "Toughie with an 'Eart of Gold",
+    "desc": "We're gonna need some 'eavy-duty wood if we're finally gonna fix that bridge. You lot're an 'andy bunch<MV>why don't ya go into that 'orrible forest an' get us the goods<FH>",
+    "hint1": "Go to the Wildwood and find some long-lasting lumber<FG>",
+    "loc": "The Wildwood",
+    "hint2": "Bring <C9>Carver<R >and <C9>Terry<R >along for this one<FG>"
+  },
+  {
+    "idx": 18,
+    "start_row": 108,
+    "title": "An Honour among Thieves",
+    "client": "Suspicious Sort",
+    "desc": "If you are reading this, you have been deemed worthy of the most secret of trials. Make your way through the dungeons of Ingenia without being seen, and the...key to success...awaits.",
+    "hint1": "Go to Ingenia and complete this deeply dodgy-seeming trial<FG>",
+    "loc": "Ingenia",
+    "hint2": "<F4><I0>00 must take the trial alone, and as a thief<FG>"
+  },
+  {
+    "idx": 19,
+    "start_row": 114,
+    "title": "Well-Healed<FL>2",
+    "client": "Pilgrim Priestess",
+    "desc": "There is as-yet-unexploited potential in your Healstones. Bring me one of the curative crystals carried by the moosifers of No Man's Land, and I shall draw out its hidden power.",
+    "hint1": "",
+    "loc": "No Man's Land",
+    "hint2": "Procure a curative crystal<FG>\\nMoosifers sometimes drop them."
+  },
+  {
+    "idx": 20,
+    "start_row": 120,
+    "title": "Pedal to the Medal<FL>2",
+    "client": "Travelling Trader",
+    "desc": "I've found a way to make your monster medal holder even better<FG> I'll need just one thing<FI> a monsterium nugget. You can only get it by beating skeleton soldiers with your minions.",
+    "hint1": "",
+    "loc": "The Battle of the Great Divide (North)",
+    "hint2": "Go to the Great Divide and defeat skeleton soldiers using monster minions<FG>"
+  },
+  {
+    "idx": 21,
+    "start_row": 126,
+    "title": "Feud for Thought",
+    "client": "Long-Suffering Sibling",
+    "desc": "My brother hasn't come home since he stormed out of the house after we had a fight. He's never been away this long<MV>who knows what he's got himself into<FH> You have to find him<FG>",
+    "hint1": "Find the man's runaway brother<FG>",
+    "loc": "None",
+    "hint2": "Bring <C9>Maya<R >and <C9>Meena<R >along for this one<FG>"
+  },
+  {
+    "idx": 22,
+    "start_row": 132,
+    "title": "Knack of All Trades<FI> Gladiator",
+    "client": "Abbot of Alltrades",
+    "desc": "You have nearly mastered the ways of both the warrior and the martial artist. Complete this challenge unaided, and the path to an even greater vocation will be opened to you.",
+    "hint1": "Defeat lots of monsters<FG>",
+    "loc": "The Battle of the Great Divide (South)",
+    "hint2": "<F4><I0>00 will have to fly solo for this one<FG> Go to the Great Divide as a warrior or martial artist."
+  },
+  {
+    "idx": 23,
+    "start_row": 138,
+    "title": "Knack of All Trades<FI> Sage",
+    "client": "Abbot of Alltrades",
+    "desc": "You have nearly mastered the ways of both the mage and the priest. Complete this challenge unaided, and the path to even deeper mysteries will be opened to you.",
+    "hint1": "Defeat lots of monsters<FG>",
+    "loc": "The Battle of the Wildwood",
+    "hint2": "<F4><I0>00 will have to fly solo for this one<FG> Go to the Wildwood as a mage or priest."
+  },
+  {
+    "idx": 24,
+    "start_row": 144,
+    "title": "The Stuff of Legend",
+    "client": "Gragwort",
+    "desc": "I've a special trial for you<FG> Pass it, and I'll open up a bit of the Frosty Foothills where a legendary bit of kit's been waiting for someone who deserves it. Don't let me down, or else<FG>",
+    "hint1": "Go to the Wildwood and take on Gragwort's trial<FG>",
+    "loc": "The Wildwood",
+    "hint2": "<F4><I0>00 will have to fly solo for this one<FG>"
+  },
+  {
+    "idx": 25,
+    "start_row": 150,
+    "title": "A Labour of Love<FL>1",
+    "client": "Moony Milksop",
+    "desc": "I've got to go to Ingenia and propose to my girlfriend<FG> The only thing standing in my way is...a bunch of terrifying walking corpses in the Lumberlands<FG> Y-You have to help me<FG>",
+    "hint1": "",
+    "loc": "The Lumberlands",
+    "hint2": ""
+  },
+  {
+    "idx": 26,
+    "start_row": 156,
+    "title": "A Labour of Love<FL>2",
+    "client": "Moony Milksop",
+    "desc": "It's time to sneak into Ingenia Castle and see my girlfriend at last<FG> But I can't go alone<MV>the security's tighter than a... Than a... Look, it's very tight and I need your help, okay<FH>",
+    "hint1": "Go to Ingenia and help the young man<FG>",
+    "loc": "Ingenia",
+    "hint2": "Bring <C9>Jessica<R >and <C9>Angelo<R >along for this one<FG>"
+  },
+  {
+    "idx": 27,
+    "start_row": 162,
+    "title": "Procure the Cure<FL>2",
+    "client": "Priestess-About-Town",
+    "desc": "I have run out of the materials required to make the Healstones with which I aid adventurers again<FG> Bring me what I need, and you may have as many as you desire<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Mandrake majors drop the items you need<FG>"
+  },
+  {
+    "idx": 28,
+    "start_row": 168,
+    "title": "There Goes the Bride",
+    "client": "Nervy Nearly-Wed",
+    "desc": "My wife<FG> My bride<FG> Taken from me by bandits the second we finished saying our vows<FG> Please, you have to help me<FG> I'm not strong enough to take them on<MV>save her, please<FG>",
+    "hint1": "Rescue the kidnapped bride<FG>",
+    "loc": "None",
+    "hint2": "Bring <C9>Alena<R >and <C9>Kiryl<R >along for this one<FG>"
+  },
+  {
+    "idx": 29,
+    "start_row": 174,
+    "title": "Hammer and Tongs<FL>3",
+    "client": "Wandering Weaponsmith",
+    "desc": "I thought I'd seen everything, but now you've gone and found another world<MV>and I bet it's chock-full of new materials for me to work with<FG> Care to bring me some samples<FH>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "The materials you need are dropped by wight kings, or found in Blacka Pastures<FG>"
+  },
+  {
+    "idx": 30,
+    "start_row": 180,
+    "title": "Way of the Warrior",
+    "client": "Martial Master",
+    "desc": "Ah, my disciple<FG> How you have excelled in your training<FG> I have prepared a trial to test your limits. Demonstrate your command of all I have taught you, and I will reward you well<FG>",
+    "hint1": "Defeat at least 30 different kinds of monster<FG>",
+    "loc": "None",
+    "hint2": ""
+  },
+  {
+    "idx": 31,
+    "start_row": 186,
+    "title": "Sunderbolts and Lightning",
+    "client": "Gragwort",
+    "desc": "I've a special trial for you and your mates<FG> Pass, and I'll let you into a secret bit of Redrock Ravine where there's a right nice ancient weapon for you.",
+    "hint1": "",
+    "loc": "Blackrock Ravine",
+    "hint2": "Defeat a bullion and an axesaurus using Tag Tricks<FG>"
+  },
+  {
+    "idx": 32,
+    "start_row": 192,
+    "title": "Smart as a Whip",
+    "client": "Gragwort",
+    "desc": "I've cooked up another trial. This one's against the clock, and it's hard as nails to boot<FG> Pass, and I'll let you into a bit of No Man's Land where there's a whip and a half waiting<FG>",
+    "hint1": "Defeat 15 or more monsters with a single coup de grâce<FG>",
+    "loc": "Battle of the Pinnacle (Centre)",
+    "hint2": "Go to Gragwort's Grotto and take on the trial<FG>"
+  },
+  {
+    "idx": 33,
+    "start_row": 198,
+    "title": "Pedal to the Medal<FL>3",
+    "client": "Travelling Trader",
+    "desc": "I hear this other world you've found is teeming with powerful monsters. I bet beasties like that will have what I need to perfect your medal holder<FG> Ready to go to work<FH>",
+    "hint1": "",
+    "loc": "The Fetid Foothills",
+    "hint2": "Use monster minions to defeat a hellion<FG>"
+  },
+  {
+    "idx": 34,
+    "start_row": 204,
+    "title": "Well-Healed<FL>3",
+    "client": "Pilgrim Priestess",
+    "desc": "Yet more miraculous potential resides in the Healstones you carry. Bring me a rejuvenating jewel from the craven creatures of the other world, and I shall unleash it<FG>",
+    "hint1": "",
+    "loc": "Blacka Pastures",
+    "hint2": "Get yourself a rejuvenating jewel<FG>\\nMissing lynxes sometimes drop them."
+  },
+  {
+    "idx": 35,
+    "start_row": 210,
+    "title": "Fire Extinguisher",
+    "client": "Crispy-Coiffured Kid",
+    "desc": "The nerve<FG> Those dancing flames out in the desert attacked me and singed my beautiful locks<FG> Do me a favour, will you<FH> Freeze them solid so they can't ruin anyone else's day<FG>",
+    "hint1": "",
+    "loc": "The Grand Dunes",
+    "hint2": "Defeat the dancing flames with ice-based spells and abilities<FG>"
+  },
+  {
+    "idx": 36,
+    "start_row": 216,
+    "title": "Training Exorcises",
+    "client": "Abbot of Alltrades",
+    "desc": "I have a request for one who walks the path of the priest. Lost souls are wandering the Lumberlands<MV>would you guide them to the afterlife, that they may rest in peace<FH>",
+    "hint1": "",
+    "loc": "The Lumberlands",
+    "hint2": "Rise to the challenge with a priest in your party<FG>"
+  },
+  {
+    "idx": 37,
+    "start_row": 222,
+    "title": "Plume for Improvement",
+    "client": "Feather-Fancying Fashionista",
+    "desc": "My husband's not the nattiest dresser, and I'm just desperate to give him a makeover. A feathered cap would be just the thing to start with. So I'll be needing a flurry feather<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Flurry feathers are sometimes dropped by hawk men<FG>"
+  },
+  {
+    "idx": 38,
+    "start_row": 228,
+    "title": "Heart of Stone",
+    "client": "Daring Dunisian",
+    "desc": "I've heard that there's a real tough customer hanging around the oasis in the Grand Dunes. Looks like a golem, but a bit more...stony, they're saying. Fancy trying to take him on<FH>",
+    "hint1": "",
+    "loc": "The Grand Dunes",
+    "hint2": "The target only appears occasionally<FG>"
+  },
+  {
+    "idx": 39,
+    "start_row": 234,
+    "title": "Work Your Magic",
+    "client": "Mage-Admiring Meathead",
+    "desc": "I always wanted to go to wizard school, but the wand-wavers wouldn't 'ave me. But a bloke can dream, can't 'e<FH> Do us a favour and put on a little magic show, so I can pretend it's me.",
+    "hint1": "",
+    "loc": "Redrock Ravine",
+    "hint2": "Rise to the challenge with a mage in your party<FG>"
+  },
+  {
+    "idx": 40,
+    "start_row": 240,
+    "title": "Where's the Fire<FH>",
+    "client": "Crystal Collector",
+    "desc": "I'm looking for some crystallised fire to add to my collection, and I need a safe pair of hands to bring it back. The lightest tap will shatter it completely<MV>are you up to the job<FH>",
+    "hint1": "",
+    "loc": "No Man's Land",
+    "hint2": "Search near the lava in No Man's Land<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will shatter the crystal<FG>"
+  },
+  {
+    "idx": 41,
+    "start_row": 246,
+    "title": "Hammerhood Hustle",
+    "client": "Intrepid Ingenian",
+    "desc": "I'm not one to brag, but I'll have you know I put down a horde of 25 hammerhoods in a mere five minutes. Think you can top that<FH> Ha<FG> I'd like to see you try<FG>",
+    "hint1": "",
+    "loc": "The Lumberlands",
+    "hint2": ""
+  },
+  {
+    "idx": 42,
+    "start_row": 252,
+    "title": "Feuding Friends",
+    "client": "Slightly Misguided Boy",
+    "desc": "Me and my friend had a fight, and I want to give her something nice and pretty so we can be friends again. Can you get something off a killing machine<FH> That'll impress her<FG>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Killing machines sometimes drop the item you need<FG>"
+  },
+  {
+    "idx": 43,
+    "start_row": 258,
+    "title": "The Splats' Pyjamas",
+    "client": "Granny",
+    "desc": "It's getting cold at night, and my dear little grandchildren can't sleep for shivering. I could knit them some cosy pyjamas with the right wool... Would you have time to help<FH>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Splatypunks sometimes drop the item you need<FG>"
+  },
+  {
+    "idx": 44,
+    "start_row": 264,
+    "title": "A Short, Sharp Shock",
+    "client": "The Weapon-Seller's Missus",
+    "desc": "There's killing machines loitering around my house<FG> Dreadful things, absolutely dreadful<FG> Can you give them a little jolt to let them know they're not wanted<FH>",
+    "hint1": "",
+    "loc": "The Frosty Foothills",
+    "hint2": "Finish them off using lightning-based spells and abilities<FG>"
+  },
+  {
+    "idx": 45,
+    "start_row": 270,
+    "title": "Fur Enough",
+    "client": "Crafty Catherine",
+    "desc": "Um... Hello<FG> I'm Catherine and I want to make a nice new teddy bear<FG> Can you get me some fine fur to make him with<FH> I know you can help<MV>you're a hero, right<FH> Right<FH>",
+    "hint1": "",
+    "loc": "None",
+    "hint2": "Silvapithecuses sometimes drop the item you need<FG>"
+  },
+  {
+    "idx": 46,
+    "start_row": 276,
+    "title": "Get Ready to Rumble",
+    "client": "Fight Fan",
+    "desc": "I love a good punch-up<FG> There's nothing I like more than the sight of sweaty, sinewy so-and-sos beating each other senseless<FG> Put on a show for me<MV>if you've got the guts<FG>",
+    "hint1": "",
+    "loc": "The Battle of Accordia",
+    "hint2": "Go to Gragwort's Grotto and take on the trial with <F4><I0>00 or <F4><I0>10 as a martial artist<FG>"
+  },
+  {
+    "idx": 47,
+    "start_row": 282,
+    "title": "No-Spring Chicken",
+    "client": "Hot Spring Hopeful",
+    "desc": "The hot spring at Redrock Ravine would do wonders for my creaking old bones...if it weren't for the horrible monster that hangs around there<FG> Can you get rid of him for me<FH>",
+    "hint1": "",
+    "loc": "Redrock Ravine",
+    "hint2": "The target only appears occasionally<FG>"
+  },
+  {
+    "idx": 48,
+    "start_row": 288,
+    "title": "Master Electrician",
+    "client": "Martial Master",
+    "desc": "It is time to put your mastery of lightning to the test, my young disciple. If you complete this trial, return to me, and I shall impart to you a martial mystery most profound<FG>",
+    "hint1": "",
+    "loc": "The Frosty Foothills",
+    "hint2": "<F4><I0>00 will have to fly solo for this one<FG> Use <C9>Zap<R->based attacks <C9>only<R >or you're out<FG>"
+  }
+]

@@ -1,298 +1,298 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-260,Side_Quest_Rumours,0,36,2436,Smouldering Boulders,
-260,Side_Quest_Rumours,1,40,2457,Leerphobic Lady,
-260,Side_Quest_Rumours,2,44,2473,"I've got a date at the oasis in the Grand Dunes coming up, but when I went to check the place out, it was full of horrible, grinning boulders<FG> Can you do something about them<FH>",
+260,Side_Quest_Rumours,0,36,2436,Smouldering Boulders,หินผาเพลิงร้อนระอุ
+260,Side_Quest_Rumours,1,40,2457,Leerphobic Lady,สตรีผู้กลัวสายตาจ้องมอง
+260,Side_Quest_Rumours,2,44,2473,"I've got a date at the oasis in the Grand Dunes coming up, but when I went to check the place out, it was full of horrible, grinning boulders<FG> Can you do something about them<FH>",ฉันมีนัดเดตที่โอเอซิสในเนินทรายยักษ์เร็วๆ นี้ แต่พอแวะไปดูลาดเลา กลับเต็มไปด้วยหินผายิ้มแสยะอันน่ากลัวเต็มไปหมด<FG> ช่วยทำอะไรสักอย่างกับพวกมันทีได้ไหม<FH>
 260,Side_Quest_Rumours,3,48,2653,,
-260,Side_Quest_Rumours,4,52,2654,The Grand Dunes,
+260,Side_Quest_Rumours,4,52,2654,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
 260,Side_Quest_Rumours,5,56,2670,,
-260,Side_Quest_Rumours,6,60,2671,Bridging the Gap,
-260,Side_Quest_Rumours,7,64,2688,Corner-Cutting Carpenter,
-260,Side_Quest_Rumours,8,68,2713,"Guess who just landed a big project to repair the Greena Pastures-Grand Dunes bridge<FH> Materials don't come cheap, though. Could you ‘borrow’ a few things from some monsters<FH>",
+260,Side_Quest_Rumours,6,60,2671,Bridging the Gap,เชื่อมสัมพันธ์สองแผ่นดิน
+260,Side_Quest_Rumours,7,64,2688,Corner-Cutting Carpenter,ช่างไม้ลดต้นทุน
+260,Side_Quest_Rumours,8,68,2713,"Guess who just landed a big project to repair the Greena Pastures-Grand Dunes bridge<FH> Materials don't come cheap, though. Could you ‘borrow’ a few things from some monsters<FH>",ทายสิว่าใครเพิ่งได้งานใหญ่ซ่อมสะพานเชื่อมระหว่างทุ่งหญ้ากรีน่ากับเนินทรายยักษ์มาหมาดๆ<FH> แต่วัตถุดิบมันไม่ถูกเลยนี่สิ ช่วยไป ‘ขอยืม’ ของสัก 2-3 อย่างจากพวกมอนสเตอร์ให้หน่อยได้ไหม<FH>
 260,Side_Quest_Rumours,9,72,2895,,
-260,Side_Quest_Rumours,10,76,2896,None,
-260,Side_Quest_Rumours,11,80,2901,Slimes and mummy boys drop the items you need<FG>,
-260,Side_Quest_Rumours,12,84,2950,Patrolling the Pastures,
-260,Side_Quest_Rumours,13,88,2974,Knight-Captain,
-260,Side_Quest_Rumours,14,92,2989,All those wishing to serve Accordia are hereby requested to join the fight in Greena Pastures against the horde of monsters running amok there<FG> For the realm<FG>,
+260,Side_Quest_Rumours,10,76,2896,None,ไม่มี
+260,Side_Quest_Rumours,11,80,2901,Slimes and mummy boys drop the items you need<FG>,สไลม์และมัมมี่บอยจะดรอปไอเทมที่คุณต้องการ<FG>
+260,Side_Quest_Rumours,12,84,2950,Patrolling the Pastures,ตระเวนตรวจตราทุ่งหญ้า
+260,Side_Quest_Rumours,13,88,2974,Knight-Captain,หัวหน้ากองอัศวิน
+260,Side_Quest_Rumours,14,92,2989,All those wishing to serve Accordia are hereby requested to join the fight in Greena Pastures against the horde of monsters running amok there<FG> For the realm<FG>,ขอเชิญชวนผู้ใดก็ตามที่ประสงค์จะรับใช้ออร์คาเนีย เข้าร่วมการต่อสู้ในทุ่งหญ้ากรีน่าเพื่อปราบปรามฝูงมอนสเตอร์ที่กำลังอาละวาดคลุ้มคลั่งอยู่ ณ ที่แห่งนั้น<FG> เพื่ออาณาจักรของเรา<FG>
 260,Side_Quest_Rumours,15,96,3152,,
-260,Side_Quest_Rumours,16,100,3153,Greena Pastures,
+260,Side_Quest_Rumours,16,100,3153,Greena Pastures,ทุ่งหญ้ากรีน่า
 260,Side_Quest_Rumours,17,104,3169,,
-260,Side_Quest_Rumours,18,108,3170,Well-Healed<FL>1,
-260,Side_Quest_Rumours,19,112,3186,Pilgrim Priestess,
-260,Side_Quest_Rumours,20,116,3204,"Untapped power lies dormant within your Healstones. I can draw it out using a remedial rock. Seek the king slimes of the Lumberlands, for they are known to carry them.",
+260,Side_Quest_Rumours,18,108,3170,Well-Healed<FL>1,ศิลาฮอยมี่ทรงอานุภาพ<FL>1
+260,Side_Quest_Rumours,19,112,3186,Pilgrim Priestess,แม่ชีผู้แสวงบุญ
+260,Side_Quest_Rumours,20,116,3204,"Untapped power lies dormant within your Healstones. I can draw it out using a remedial rock. Seek the king slimes of the Lumberlands, for they are known to carry them.",พลังอันเร้นลับยังคงหลับใหลอยู่ภายในศิลาฮอยมี่ของคุณ ข้าสามารถปลุกมันขึ้นมาได้โดยใช้หินฟื้นฟูบาดแผล จงออกตามหาคิงสไลม์แห่งผืนป่าลัมเบอร์แลนด์ เพราะเล่าลือกันว่าพวกมันมักพกพามันติดตัวอยู่
 260,Side_Quest_Rumours,21,120,3372,,
-260,Side_Quest_Rumours,22,124,3373,The Lumberlands,
-260,Side_Quest_Rumours,23,128,3389,Get yourself a remedial rock<FG>\nKing slimes sometimes drop them.,
-260,Side_Quest_Rumours,24,132,3455,Sticking It to the Man,
-260,Side_Quest_Rumours,25,136,3478,Old Featherbrain,
-260,Side_Quest_Rumours,26,140,3495,I've lost my walking stick<FG> I must have left it behind when I was taking my grandson to see the dragon bones at the Grand Dunes. Could you help an old man in need<FH>,
+260,Side_Quest_Rumours,22,124,3373,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
+260,Side_Quest_Rumours,23,128,3389,Get yourself a remedial rock<FG>\nKing slimes sometimes drop them.,จงหาหินฟื้นฟูบาดแผลมาให้ได้<FG>\nคิงสไลม์มักจะดรอปมันเป็นบางครั้ง
+260,Side_Quest_Rumours,24,132,3455,Sticking It to the Man,ตามหาไม้เท้าคู่ใจ
+260,Side_Quest_Rumours,25,136,3478,Old Featherbrain,ชายชราขี้หลงขี้ลืม
+260,Side_Quest_Rumours,26,140,3495,I've lost my walking stick<FG> I must have left it behind when I was taking my grandson to see the dragon bones at the Grand Dunes. Could you help an old man in need<FH>,ข้าทำไม้เท้าเดินหายไปเสียแล้ว<FG> คงเผลอทำตกไว้ตอนพาหลานชายไปดูโครงกระดูกมังกรที่เนินทรายยักษ์แน่ๆ ช่วยชายแก่ตาดำๆ คนนี้หน่อยได้ไหม<FH>
 260,Side_Quest_Rumours,27,144,3663,,
-260,Side_Quest_Rumours,28,148,3664,The Grand Dunes,
-260,Side_Quest_Rumours,29,152,3680,Find the old man's walking stick<FG> The dragon bones are near the entrance to the Grand Dunes.,
-260,Side_Quest_Rumours,30,156,3775,Pedal to the Medal<FL>1,
-260,Side_Quest_Rumours,31,160,3798,Travelling Trader,
-260,Side_Quest_Rumours,32,164,3816,"I've found a way to improve that monster medal holder I gave you<FG> I'll need a lump of monsterium ore, though. The mud mannequins in the Grand Dunes should have some.",
+260,Side_Quest_Rumours,28,148,3664,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
+260,Side_Quest_Rumours,29,152,3680,Find the old man's walking stick<FG> The dragon bones are near the entrance to the Grand Dunes.,ตามหาไม้เท้าของชายชราให้พบ<FG> โครงกระดูกมังกรอยู่ใกล้กับทางเข้าเนินทรายยักษ์
+260,Side_Quest_Rumours,30,156,3775,Pedal to the Medal<FL>1,ยกระดับกล่องเมดัล<FL>1
+260,Side_Quest_Rumours,31,160,3798,Travelling Trader,พ่อค้าพเนจร
+260,Side_Quest_Rumours,32,164,3816,"I've found a way to improve that monster medal holder I gave you<FG> I'll need a lump of monsterium ore, though. The mud mannequins in the Grand Dunes should have some.",ข้าพบวิธีพัฒนาปรับปรุงกล่องใส่เหรียญมอนสเตอร์ที่เคยมอบให้เจ้าแล้วนะ<FG> แต่ข้าต้องการแร่หินมอนสเตอร์เรียมสักก้อน พวกหุ่นดินเหนียวในเนินทรายยักษ์น่าจะมีอยู่นะ
 260,Side_Quest_Rumours,33,168,3984,,
-260,Side_Quest_Rumours,34,172,3985,The Grand Dunes,
-260,Side_Quest_Rumours,35,176,4001,Use monster minions to defeat a mud mannequin<FG>,
-260,Side_Quest_Rumours,36,180,4050,Eggsercise Caution,
-260,Side_Quest_Rumours,37,184,4069,Tired-and-Teasy Toughie,
-260,Side_Quest_Rumours,38,188,4093,"Cor, I ain't 'alf been knackered lately. Wot I need to perk me up is a good egg<MV>a crackin' egg<FG> Grab us one, would ya<FH> Go easy, though<MV> they're fragile as anyfink<FG>",
+260,Side_Quest_Rumours,34,172,3985,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
+260,Side_Quest_Rumours,35,176,4001,Use monster minions to defeat a mud mannequin<FG>,ใช้มอนสเตอร์ลูกน้องกำจัดหุ่นดินเหนียวมัดแมนเนคิน<FG>
+260,Side_Quest_Rumours,36,180,4050,Eggsercise Caution,ภารกิจไข่ระวังแตก
+260,Side_Quest_Rumours,37,184,4069,Tired-and-Teasy Toughie,ชายร่างกำยำผู้อ่อนล้า
+260,Side_Quest_Rumours,38,188,4093,"Cor, I ain't 'alf been knackered lately. Wot I need to perk me up is a good egg<MV>a crackin' egg<FG> Grab us one, would ya<FH> Go easy, though<MV> they're fragile as anyfink<FG>",โอ๊ยย ช่วงนี้ข้าเหนื่อยสายตัวแทบขาดเลย สิ่งที่ข้าต้องการเพื่อเพิ่มพลังคือไข่ดีๆ สักฟอง<MV>ไข่ชั้นยอดสักใบ<FG> ช่วยไปหามาให้ข้าสักฟองได้ไหม<FH> แต่เบามือหน่อยล่ะ<MV>มันเปราะบางสุดๆ เลยนะ<FG>
 260,Side_Quest_Rumours,39,192,4267,,
-260,Side_Quest_Rumours,40,196,4268,The Lumberlands,
-260,Side_Quest_Rumours,41,200,4284,"Search the western Lumberlands<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will break the egg<FG>",
-260,Side_Quest_Rumours,42,204,4397,Entertaining the Troops,
-260,Side_Quest_Rumours,43,208,4421,Knight-Captain,
-260,Side_Quest_Rumours,44,212,4436,Our forces are flagging in the battle against a rampaging horde near Dunisia<FG> A stunning display of arms would both raise our spirits and turn the tide of battle<FG> Please assist<FG>,
-260,Side_Quest_Rumours,45,216,4620,Defeat 15 or more monsters with a single coup de grâce<FG>,
-260,Side_Quest_Rumours,46,220,4679,The Battle of Dunisia,
-260,Side_Quest_Rumours,47,224,4701,Head for Outer Dunisia<FG>,
-260,Side_Quest_Rumours,48,228,4727,Fireballs for Furballs,
-260,Side_Quest_Rumours,49,232,4750,Harban Busybody,
-260,Side_Quest_Rumours,50,236,4766,"I've been trying to clear up the mess blocking off the forest in Greena Pastures, but these blessed cats keep getting in the way<FG> They're afraid of fire<MV>can you scare them off<FH>",
+260,Side_Quest_Rumours,40,196,4268,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
+260,Side_Quest_Rumours,41,200,4284,"Search the western Lumberlands<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will break the egg<FG>",สำรวจผืนป่าลัมเบอร์แลนด์ฝั่งตะวันตก<FG> <C9>การชักอาวุธ วิ่ง กระโดด หรือใช้รูร่า<R >จะทำให้ไข่แตกทันที<FG>
+260,Side_Quest_Rumours,42,204,4397,Entertaining the Troops,ขวัญกำลังใจแห่งกองทัพ
+260,Side_Quest_Rumours,43,208,4421,Knight-Captain,หัวหน้ากองอัศวิน
+260,Side_Quest_Rumours,44,212,4436,Our forces are flagging in the battle against a rampaging horde near Dunisia<FG> A stunning display of arms would both raise our spirits and turn the tide of battle<FG> Please assist<FG>,กำลังพลของเราเริ่มเหนื่อยล้าในการต่อสู้กับฝูงมอนสเตอร์ที่กำลังบุกโจมตีใกล้เมืองดูนิเซีย<FG> การแสดงฝีมือเชิงยุทธ์อันน่าทึ่งจะช่วยปลุกขวัญกำลังใจและพลิกสถานการณ์การรบได้<FG> ได้โปรดช่วยด้วย<FG>
+260,Side_Quest_Rumours,45,216,4620,Defeat 15 or more monsters with a single coup de grâce<FG>,กำจัดมอนสเตอร์ตั้งแต่ 15 ตัวขึ้นไปด้วยท่าไม้ตายเพียง 1 ครั้ง<FG>
+260,Side_Quest_Rumours,46,220,4679,The Battle of Dunisia,ศึกสมรภูมิแห่งดูนิเซีย
+260,Side_Quest_Rumours,47,224,4701,Head for Outer Dunisia<FG>,มุ่งหน้าสู่ชานเมืองดูนิเซีย<FG>
+260,Side_Quest_Rumours,48,228,4727,Fireballs for Furballs,ลูกไฟขับไล่เจ้าเหมียว
+260,Side_Quest_Rumours,49,232,4750,Harban Busybody,คนขี้จุ้นแห่งฮาร์บา
+260,Side_Quest_Rumours,50,236,4766,"I've been trying to clear up the mess blocking off the forest in Greena Pastures, but these blessed cats keep getting in the way<FG> They're afraid of fire<MV>can you scare them off<FH>",ข้าพยายามจะเคลียร์ซากปรักหักพังที่ปิดกั้นทางเข้าป่าในทุ่งหญ้ากรีน่าอยู่แท้ๆ แต่เจ้าพวกแมวพวกนี้ดันมาขวางทางอยู่เรื่อย<FG> พวกมันกลัวไฟ<MV>ช่วยจุดไฟไล่พวกมันไปทีได้ไหม<FH>
 260,Side_Quest_Rumours,51,240,4949,,
-260,Side_Quest_Rumours,52,244,4950,Greena Pastures,
-260,Side_Quest_Rumours,53,248,4966,Use fire-based spells and abilities to defeat candy cats<FG>,
-260,Side_Quest_Rumours,54,252,5026,The Way to His Heart<FL>1,
-260,Side_Quest_Rumours,55,256,5051,Careworn Wife,
-260,Side_Quest_Rumours,56,260,5065,"I want to make my husband his favourite treat, but I'm having trouble gathering all the ingredients. Could you get me a leaf of true lovage from Greena Pastures<FH>",
+260,Side_Quest_Rumours,52,244,4950,Greena Pastures,ทุ่งหญ้ากรีน่า
+260,Side_Quest_Rumours,53,248,4966,Use fire-based spells and abilities to defeat candy cats<FG>,ใช้คาถาหรืออบิลิตี้ธาตุไฟกำจัดแคนดี้แคท<FG>
+260,Side_Quest_Rumours,54,252,5026,The Way to His Heart<FL>1,เคล็ดลับมัดใจสามี<FL>1
+260,Side_Quest_Rumours,55,256,5051,Careworn Wife,ภรรยาผู้วิตกกังวล
+260,Side_Quest_Rumours,56,260,5065,"I want to make my husband his favourite treat, but I'm having trouble gathering all the ingredients. Could you get me a leaf of true lovage from Greena Pastures<FH>",ฉันอยากจะทำอาหารจานโปรดให้สามีทานจังเลยค่ะ แต่กำลังลำบากกับการรวบรวมวัตถุดิบทั้งหมด ช่วยไปเก็บใบเลิฟเวจแท้จากทุ่งหญ้ากรีน่ามาให้ฉันสักใบจะได้ไหมคะ<FH>
 260,Side_Quest_Rumours,57,264,5229,,
-260,Side_Quest_Rumours,58,268,5230,Greena Pastures,
-260,Side_Quest_Rumours,59,272,5246,Bring back a leaf of true lovage<FG> You can find it in the small forest in the centre of Greena Pastures<FG>,
-260,Side_Quest_Rumours,60,276,5354,The Way to His Heart<FL>2,
-260,Side_Quest_Rumours,61,280,5379,Careworn Wife,
-260,Side_Quest_Rumours,62,284,5393,I'm short a wed herring for the centrepiece of my husband's treat. I hear that they're a Harban delicacy<MV>is there any way you might be able to get me one<FH>,
-260,Side_Quest_Rumours,63,288,5552,Go to Harba and find a wed herring<FG>,
-260,Side_Quest_Rumours,64,292,5590,Harba,
-260,Side_Quest_Rumours,65,296,5596,Bring <C9>Torneko<R >along for this one<FG>,
-260,Side_Quest_Rumours,66,300,5637,Hammer and Tongs<FL>1,
-260,Side_Quest_Rumours,67,304,5658,Wandering Weaponsmith,
-260,Side_Quest_Rumours,68,308,5680,"Right, if I'm to get cracking on honing my skills, I'll need some better tools. Can you give us a hand<FH> You'll find what I need at the Grand Dunes oasis and in No Man's Land.",
+260,Side_Quest_Rumours,58,268,5230,Greena Pastures,ทุ่งหญ้ากรีน่า
+260,Side_Quest_Rumours,59,272,5246,Bring back a leaf of true lovage<FG> You can find it in the small forest in the centre of Greena Pastures<FG>,นำใบเลิฟเวจแท้กลับมา 1 ใบ<FG> คุณสามารถหาพบได้ในป่าเล็กๆ ใจกลางทุ่งหญ้ากรีน่า<FG>
+260,Side_Quest_Rumours,60,276,5354,The Way to His Heart<FL>2,เคล็ดลับมัดใจสามี<FL>2
+260,Side_Quest_Rumours,61,280,5379,Careworn Wife,ภรรยาผู้วิตกกังวล
+260,Side_Quest_Rumours,62,284,5393,I'm short a wed herring for the centrepiece of my husband's treat. I hear that they're a Harban delicacy<MV>is there any way you might be able to get me one<FH>,ฉันยังขาดปลามงคลสมรสที่เป็นหัวใจหลักของจานเด็ดให้สามีค่ะ ได้ยินมาว่าเป็นอาหารเลิศรสของฮาร์บา<MV>พอจะมีทางหามาให้ฉันสักตัวได้ไหมคะ<FH>
+260,Side_Quest_Rumours,63,288,5552,Go to Harba and find a wed herring<FG>,ไปที่ฮาร์บาแล้วตามหาปลามงคลสมรส<FG>
+260,Side_Quest_Rumours,64,292,5590,Harba,ฮาร์บา
+260,Side_Quest_Rumours,65,296,5596,Bring <C9>Torneko<R >along for this one<FG>,พาทอร์เนโก้ <C9>ทอร์เนโก้<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,66,300,5637,Hammer and Tongs<FL>1,ค้อนตีเหล็กและคีมจับ<FL>1
+260,Side_Quest_Rumours,67,304,5658,Wandering Weaponsmith,ช่างตีอาวุธพเนจร
+260,Side_Quest_Rumours,68,308,5680,"Right, if I'm to get cracking on honing my skills, I'll need some better tools. Can you give us a hand<FH> You'll find what I need at the Grand Dunes oasis and in No Man's Land.",เอาล่ะ ถ้าข้าจะขัดเกลาฝีมือให้เฉียบคมขึ้น ข้าต้องการเครื่องมือที่ดีกว่านี้ ช่วยข้าหน่อยได้ไหม<FH> เจ้าจะพบของที่ข้าต้องการได้ที่โอเอซิสในเนินทรายยักษ์และในแดนร้างไร้ผู้ครอบครอง
 260,Side_Quest_Rumours,69,312,5857,,
-260,Side_Quest_Rumours,70,316,5858,None,
+260,Side_Quest_Rumours,70,316,5858,None,ไม่มี
 260,Side_Quest_Rumours,71,320,5863,,
-260,Side_Quest_Rumours,72,324,5864,Procure the Cure<FL>1,
-260,Side_Quest_Rumours,73,328,5885,Priestess-About-Town,
-260,Side_Quest_Rumours,74,332,5906,"Alas, I have run short of the materials necessary to create the Healstones with which I aid injured adventurers<FG> Find what I need, and you may have all the Healstones you like<FG>",
+260,Side_Quest_Rumours,72,324,5864,Procure the Cure<FL>1,เสาะหาสูตรยารักษา<FL>1
+260,Side_Quest_Rumours,73,328,5885,Priestess-About-Town,แม่ชีคนดังแห่งเมือง
+260,Side_Quest_Rumours,74,332,5906,"Alas, I have run short of the materials necessary to create the Healstones with which I aid injured adventurers<FG> Find what I need, and you may have all the Healstones you like<FG>",อนิจจา วัตถุดิบที่จำเป็นในการสร้างศิลาฮอยมี่สำหรับช่วยเหลือเหล่านักผจญภัยที่บาดเจ็บของข้าหมดลงเสียแล้ว<FG> หากเจ้าหาของที่ข้าต้องการมาให้ เจ้าจะได้รับศิลาฮอยมี่มากเท่าที่ต้องการเลยล่ะ<FG>
 260,Side_Quest_Rumours,75,336,6087,,
-260,Side_Quest_Rumours,76,340,6088,None,
-260,Side_Quest_Rumours,77,344,6093,Small scales are dropped by hacksauruses<FG>,
-260,Side_Quest_Rumours,78,348,6137,Hammer and Tongs<FL>2,
-260,Side_Quest_Rumours,79,352,6158,Wandering Weaponsmith,
-260,Side_Quest_Rumours,80,356,6180,"I'll need even better tools if I'm to work finer materials. You can find what I need in Redrock Ravine and the Frosty Foothills. Help me out, and I'll make some real masterpieces<FG>",
+260,Side_Quest_Rumours,76,340,6088,None,ไม่มี
+260,Side_Quest_Rumours,77,344,6093,Small scales are dropped by hacksauruses<FG>,เกล็ดชิ้นเล็กดรอปจากแฮ็กซอรัส<FG>
+260,Side_Quest_Rumours,78,348,6137,Hammer and Tongs<FL>2,ค้อนตีเหล็กและคีมจับ<FL>2
+260,Side_Quest_Rumours,79,352,6158,Wandering Weaponsmith,ช่างตีอาวุธพเนจร
+260,Side_Quest_Rumours,80,356,6180,"I'll need even better tools if I'm to work finer materials. You can find what I need in Redrock Ravine and the Frosty Foothills. Help me out, and I'll make some real masterpieces<FG>",ข้าต้องการเครื่องมือที่ดียิ่งขึ้นไปอีกเพื่อใช้ตีวัตถุดิบชั้นยอด เจ้าสามารถหาของที่ข้าต้องการได้ในหุบผาหินแดงและเชิงเขาเยือกแข็ง ช่วยข้าที แล้วข้าจะสร้างผลงานชิ้นเอกให้ดู<FG>
 260,Side_Quest_Rumours,81,360,6362,,
-260,Side_Quest_Rumours,82,364,6363,None,
+260,Side_Quest_Rumours,82,364,6363,None,ไม่มี
 260,Side_Quest_Rumours,83,368,6368,,
-260,Side_Quest_Rumours,84,372,6369,Breaking the Ice,
-260,Side_Quest_Rumours,85,376,6386,Knight-Captain,
-260,Side_Quest_Rumours,86,380,6401,"We are working to clear the rockfall between Greena Pastures and the Frosty Foothills, but a monster from the frozen wastes hampers our efforts. Rid the realm of this nuisance<FG>",
+260,Side_Quest_Rumours,84,372,6369,Breaking the Ice,ทลายแผ่นน้ำแข็ง
+260,Side_Quest_Rumours,85,376,6386,Knight-Captain,หัวหน้ากองอัศวิน
+260,Side_Quest_Rumours,86,380,6401,"We are working to clear the rockfall between Greena Pastures and the Frosty Foothills, but a monster from the frozen wastes hampers our efforts. Rid the realm of this nuisance<FG>",พวกเรากำลังพยายามเคลียร์หินถล่มระหว่างทุ่งหญ้ากรีน่ากับเชิงเขาเยือกแข็งอยู่ แต่มอนสเตอร์จากแดนเยือกแข็งคอยขัดขวางพวกเราอยู่ตลอด จงกำจัดความเดือดร้อนนี้ออกไปจากอาณาจักรที<FG>
 260,Side_Quest_Rumours,87,384,6580,,
-260,Side_Quest_Rumours,88,388,6581,The Frosty Foothills,
-260,Side_Quest_Rumours,89,392,6602,The target only appears occasionally<FG>,
-260,Side_Quest_Rumours,90,396,6642,Pyramid Scream,
-260,Side_Quest_Rumours,91,400,6657,Worried Mother,
-260,Side_Quest_Rumours,92,404,6672,"My boy went out to play with his friend, and he hasn't come home<FG> I hope he hasn't wandered out of town again... Can you find the little rascal and bring him back<FH>",
-260,Side_Quest_Rumours,93,408,6840,Find the lost children<FG>,
-260,Side_Quest_Rumours,94,412,6866,None,
-260,Side_Quest_Rumours,95,416,6871,Bring <C9>Maribel<R >and <C9>Ruff<R >along for this one<FG>,
-260,Side_Quest_Rumours,96,420,6926,Building Bridges<FL>1,
-260,Side_Quest_Rumours,97,424,6947,Toughie with an 'Eart of Gold,
-260,Side_Quest_Rumours,98,428,6977,"Me sister's sick, an' I can't go an' see 'er 'cos the bleedin' bridge 'as been smashed to smithereens<FG> Can you get some bits an' bobs an' fix it up for me<FH> I'm beggin' ya<FG>",
+260,Side_Quest_Rumours,88,388,6581,The Frosty Foothills,เชิงเขาเยือกแข็งฟรอสตี้
+260,Side_Quest_Rumours,89,392,6602,The target only appears occasionally<FG>,เป้าหมายจะปรากฏตัวออกมาเป็นบางครั้งเท่านั้น<FG>
+260,Side_Quest_Rumours,90,396,6642,Pyramid Scream,เสียงกรีดร้องในพีระมิด
+260,Side_Quest_Rumours,91,400,6657,Worried Mother,คุณแม่ผู้วิตกกังวล
+260,Side_Quest_Rumours,92,404,6672,"My boy went out to play with his friend, and he hasn't come home<FG> I hope he hasn't wandered out of town again... Can you find the little rascal and bring him back<FH>",ลูกชายของฉันออกไปเล่นกับเพื่อนแล้วยังไม่กลับบ้านเลยค่ะ<FG> หวังว่าคงไม่ได้เผลอเดินออกนอกเมืองไปอีกนะ... ช่วยตามหาเจ้าตัวแสบแล้วพากลับมาอย่างปลอดภัยทีได้ไหมคะ<FH>
+260,Side_Quest_Rumours,93,408,6840,Find the lost children<FG>,ตามหาเด็กที่หลงทางให้พบ<FG>
+260,Side_Quest_Rumours,94,412,6866,None,ไม่มี
+260,Side_Quest_Rumours,95,416,6871,Bring <C9>Maribel<R >and <C9>Ruff<R >along for this one<FG>,พา <C9>มาริเบล<R >และ <C9>รัฟฟ์<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,96,420,6926,Building Bridges<FL>1,สร้างสะพานเชื่อมสัมพันธ์<FL>1
+260,Side_Quest_Rumours,97,424,6947,Toughie with an 'Eart of Gold,ชายกำยำผู้มีใจเปี่ยมเมตตา
+260,Side_Quest_Rumours,98,428,6977,"Me sister's sick, an' I can't go an' see 'er 'cos the bleedin' bridge 'as been smashed to smithereens<FG> Can you get some bits an' bobs an' fix it up for me<FH> I'm beggin' ya<FG>",น้องสาวข้าไม่สบาย แต่ข้าข้ามไปเยี่ยมไม่ได้เพราะสะพานพังแหลกเป็นชิ้นๆ หมดแล้ว<FG> เจ้าช่วยไปหาเศษไม้เศษชิ้นส่วนมาซ่อมสะพานให้ข้าทีได้ไหม<FH> ขอร้องล่ะนะ<FG>
 260,Side_Quest_Rumours,99,432,7155,,
-260,Side_Quest_Rumours,100,436,7156,None,
+260,Side_Quest_Rumours,100,436,7156,None,ไม่มี
 260,Side_Quest_Rumours,101,440,7161,,
-260,Side_Quest_Rumours,102,444,7162,Building Bridges<FL>2,
-260,Side_Quest_Rumours,103,448,7183,Toughie with an 'Eart of Gold,
-260,Side_Quest_Rumours,104,452,7213,We're gonna need some 'eavy-duty wood if we're finally gonna fix that bridge. You lot're an 'andy bunch<MV>why don't ya go into that 'orrible forest an' get us the goods<FH>,
-260,Side_Quest_Rumours,105,456,7385,Go to the Wildwood and find some long-lasting lumber<FG>,
-260,Side_Quest_Rumours,106,460,7441,The Wildwood,
-260,Side_Quest_Rumours,107,464,7454,Bring <C9>Carver<R >and <C9>Terry<R >along for this one<FG>,
-260,Side_Quest_Rumours,108,468,7509,An Honour among Thieves,
-260,Side_Quest_Rumours,109,472,7533,Suspicious Sort,
-260,Side_Quest_Rumours,110,476,7549,"If you are reading this, you have been deemed worthy of the most secret of trials. Make your way through the dungeons of Ingenia without being seen, and the...key to success...awaits.",
-260,Side_Quest_Rumours,111,480,7733,Go to Ingenia and complete this deeply dodgy-seeming trial<FG>,
-260,Side_Quest_Rumours,112,484,7795,Ingenia,
-260,Side_Quest_Rumours,113,488,7803,"<F4><I0>00 must take the trial alone, and as a thief<FG>",
-260,Side_Quest_Rumours,114,492,7857,Well-Healed<FL>2,
-260,Side_Quest_Rumours,115,496,7873,Pilgrim Priestess,
-260,Side_Quest_Rumours,116,500,7891,"There is as-yet-unexploited potential in your Healstones. Bring me one of the curative crystals carried by the moosifers of No Man's Land, and I shall draw out its hidden power.",
+260,Side_Quest_Rumours,102,444,7162,Building Bridges<FL>2,สร้างสะพานเชื่อมสัมพันธ์<FL>2
+260,Side_Quest_Rumours,103,448,7183,Toughie with an 'Eart of Gold,ชายกำยำผู้มีใจเปี่ยมเมตตา
+260,Side_Quest_Rumours,104,452,7213,We're gonna need some 'eavy-duty wood if we're finally gonna fix that bridge. You lot're an 'andy bunch<MV>why don't ya go into that 'orrible forest an' get us the goods<FH>,เราจำเป็นต้องใช้ไม้เนื้อแข็งทนทานพิเศษถ้าคิดจะซ่อมสะพานนั่นให้เสร็จสมบูรณ์ พวกเจ้าดูมีฝีมือกันดีนี่<MV>ทำไมไม่ลองเข้าไปในป่าน่ากลัวนั่นแล้วเอาไม้ดีๆ มาให้พวกเราหน่อยล่ะ<FH>
+260,Side_Quest_Rumours,105,456,7385,Go to the Wildwood and find some long-lasting lumber<FG>,มุ่งหน้าสู่ป่าดงดิบไวลด์วูดแล้วตามหาท่อนไม้เนื้อแข็งทนทาน<FG>
+260,Side_Quest_Rumours,106,460,7441,The Wildwood,ป่าดงดิบไวลด์วูด
+260,Side_Quest_Rumours,107,464,7454,Bring <C9>Carver<R >and <C9>Terry<R >along for this one<FG>,พา <C9>ฮัสซัน<R >และ <C9>เทอร์รี่<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,108,468,7509,An Honour among Thieves,ศักดิ์ศรีลูกผู้ชายจอมโจร
+260,Side_Quest_Rumours,109,472,7533,Suspicious Sort,บุคคลปริศนาน่าสงสัย
+260,Side_Quest_Rumours,110,476,7549,"If you are reading this, you have been deemed worthy of the most secret of trials. Make your way through the dungeons of Ingenia without being seen, and the...key to success...awaits.",หากเจ้ากำลังอ่านข้อความนี้ แสดงว่าเจ้าคู่ควรแก่บททดสอบลับสุดยอด จงลอบผ่านคุกใต้ดินแห่งอินเกเนียไปโดยไม่ให้ใครเห็น แล้ว...กุญแจสู่ความสำเร็จ...จะรอเจ้าอยู่
+260,Side_Quest_Rumours,111,480,7733,Go to Ingenia and complete this deeply dodgy-seeming trial<FG>,มุ่งหน้าสู่อินเกเนียแล้วทำบททดสอบสุดพิลึกนี้ให้สำเร็จ<FG>
+260,Side_Quest_Rumours,112,484,7795,Ingenia,อินเกเนีย
+260,Side_Quest_Rumours,113,488,7803,"<F4><I0>00 must take the trial alone, and as a thief<FG>",<F4><I0>00 จะต้องเข้ารับการทดสอบเพียงลำพัง ในฐานะจอมโจร<FG>
+260,Side_Quest_Rumours,114,492,7857,Well-Healed<FL>2,ศิลาฮอยมี่ทรงอานุภาพ<FL>2
+260,Side_Quest_Rumours,115,496,7873,Pilgrim Priestess,แม่ชีผู้แสวงบุญ
+260,Side_Quest_Rumours,116,500,7891,"There is as-yet-unexploited potential in your Healstones. Bring me one of the curative crystals carried by the moosifers of No Man's Land, and I shall draw out its hidden power.",ยังมีพลังที่ยังไม่ได้ปลดล็อกซ่อนอยู่ในศิลาฮอยมี่ของเจ้า จงนำผลึกคริสตัลรักษาบาดแผลที่มูซิเฟอร์ในแดนร้างไร้ผู้ครอบครองพกพาอยู่มาให้ข้า แล้วข้าจะปลดปล่อยพลังที่ซ่อนอยู่ของมันให้
 260,Side_Quest_Rumours,117,504,8069,,
-260,Side_Quest_Rumours,118,508,8070,No Man's Land,
-260,Side_Quest_Rumours,119,512,8084,Procure a curative crystal<FG>\nMoosifers sometimes drop them.,
-260,Side_Quest_Rumours,120,516,8146,Pedal to the Medal<FL>2,
-260,Side_Quest_Rumours,121,520,8169,Travelling Trader,
-260,Side_Quest_Rumours,122,524,8187,I've found a way to make your monster medal holder even better<FG> I'll need just one thing<FI> a monsterium nugget. You can only get it by beating skeleton soldiers with your minions.,
+260,Side_Quest_Rumours,118,508,8070,No Man's Land,แดนร้างไร้ผู้ครอบครอง
+260,Side_Quest_Rumours,119,512,8084,Procure a curative crystal<FG>\nMoosifers sometimes drop them.,เสาะหาผลึกคริสตัลรักษาบาดแผล<FG>\nมูซิเฟอร์จะดรอปมันเป็นบางครั้ง
+260,Side_Quest_Rumours,120,516,8146,Pedal to the Medal<FL>2,ยกระดับกล่องเมดัล<FL>2
+260,Side_Quest_Rumours,121,520,8169,Travelling Trader,พ่อค้าพเนจร
+260,Side_Quest_Rumours,122,524,8187,I've found a way to make your monster medal holder even better<FG> I'll need just one thing<FI> a monsterium nugget. You can only get it by beating skeleton soldiers with your minions.,ข้าพบวิธีทำให้กล่องใส่เหรียญมอนสเตอร์ของเจ้ายอดเยี่ยมยิ่งขึ้นไปอีกแล้วนะ<FG> ข้าต้องการแค่สิ่งเดียวเท่านั้น<FI> แร่ก้อนทองมอนสเตอร์เรียม ซึ่งเจ้าจะได้มาก็ต่อเมื่อใช้มอนสเตอร์ลูกน้องกำจัดทหารโครงกระดูกสเกลตันโซลเยอร์เท่านั้น
 260,Side_Quest_Rumours,123,528,8370,,
-260,Side_Quest_Rumours,124,532,8371,The Battle of the Great Divide (North),
-260,Side_Quest_Rumours,125,536,8410,Go to the Great Divide and defeat skeleton soldiers using monster minions<FG>,
-260,Side_Quest_Rumours,126,540,8487,Feud for Thought,
-260,Side_Quest_Rumours,127,544,8504,Long-Suffering Sibling,
-260,Side_Quest_Rumours,128,548,8527,My brother hasn't come home since he stormed out of the house after we had a fight. He's never been away this long<MV>who knows what he's got himself into<FH> You have to find him<FG>,
-260,Side_Quest_Rumours,129,552,8708,Find the man's runaway brother<FG>,
-260,Side_Quest_Rumours,130,556,8742,None,
-260,Side_Quest_Rumours,131,560,8747,Bring <C9>Maya<R >and <C9>Meena<R >along for this one<FG>,
-260,Side_Quest_Rumours,132,564,8800,Knack of All Trades<FI> Gladiator,
-260,Side_Quest_Rumours,133,568,8833,Abbot of Alltrades,
-260,Side_Quest_Rumours,134,572,8852,"You have nearly mastered the ways of both the warrior and the martial artist. Complete this challenge unaided, and the path to an even greater vocation will be opened to you.",
-260,Side_Quest_Rumours,135,576,9027,Defeat lots of monsters<FG>,
-260,Side_Quest_Rumours,136,580,9054,The Battle of the Great Divide (South),
-260,Side_Quest_Rumours,137,584,9093,<F4><I0>00 will have to fly solo for this one<FG> Go to the Great Divide as a warrior or martial artist.,
-260,Side_Quest_Rumours,138,588,9195,Knack of All Trades<FI> Sage,
-260,Side_Quest_Rumours,139,592,9223,Abbot of Alltrades,
-260,Side_Quest_Rumours,140,596,9242,"You have nearly mastered the ways of both the mage and the priest. Complete this challenge unaided, and the path to even deeper mysteries will be opened to you.",
-260,Side_Quest_Rumours,141,600,9403,Defeat lots of monsters<FG>,
-260,Side_Quest_Rumours,142,604,9430,The Battle of the Wildwood,
-260,Side_Quest_Rumours,143,608,9457,<F4><I0>00 will have to fly solo for this one<FG> Go to the Wildwood as a mage or priest.,
-260,Side_Quest_Rumours,144,612,9544,The Stuff of Legend,
-260,Side_Quest_Rumours,145,616,9564,Gragwort,
-260,Side_Quest_Rumours,146,620,9573,"I've a special trial for you<FG> Pass it, and I'll open up a bit of the Frosty Foothills where a legendary bit of kit's been waiting for someone who deserves it. Don't let me down, or else<FG>",
-260,Side_Quest_Rumours,147,624,9764,Go to the Wildwood and take on Gragwort's trial<FG>,
-260,Side_Quest_Rumours,148,628,9815,The Wildwood,
-260,Side_Quest_Rumours,149,632,9828,<F4><I0>00 will have to fly solo for this one<FG>,
-260,Side_Quest_Rumours,150,636,9875,A Labour of Love<FL>1,
-260,Side_Quest_Rumours,151,640,9896,Moony Milksop,
-260,Side_Quest_Rumours,152,644,9910,I've got to go to Ingenia and propose to my girlfriend<FG> The only thing standing in my way is...a bunch of terrifying walking corpses in the Lumberlands<FG> Y-You have to help me<FG>,
+260,Side_Quest_Rumours,124,532,8371,The Battle of the Great Divide (North),ศึกกำแพงแบ่งดินแดน (เหนือ)
+260,Side_Quest_Rumours,125,536,8410,Go to the Great Divide and defeat skeleton soldiers using monster minions<FG>,ไปยังกำแพงแบ่งดินแดนแล้วใช้มอนสเตอร์ลูกน้องกำจัดทหารโครงกระดูก<FG>
+260,Side_Quest_Rumours,126,540,8487,Feud for Thought,บาดหมางชวนคิด
+260,Side_Quest_Rumours,127,544,8504,Long-Suffering Sibling,พี่น้องผู้เหนื่อยหน่ายใจ
+260,Side_Quest_Rumours,128,548,8527,My brother hasn't come home since he stormed out of the house after we had a fight. He's never been away this long<MV>who knows what he's got himself into<FH> You have to find him<FG>,น้องชายข้าไม่ยอมกลับบ้านเลยหลังจากทะเลาะกันแล้วผลุนผลันออกจากบ้านไป เขาไม่เคยหายไปนานขนาดนี้มาก่อนเลย<MV>ไม่รู้ว่าไปเจอเรื่องอันตรายอะไรเข้าหรือเปล่า<FH> เจ้าต้องไปตามหาเขาให้พบนะ<FG>
+260,Side_Quest_Rumours,129,552,8708,Find the man's runaway brother<FG>,ตามหาน้องชายที่หนีออกจากบ้านให้พบ<FG>
+260,Side_Quest_Rumours,130,556,8742,None,ไม่มี
+260,Side_Quest_Rumours,131,560,8747,Bring <C9>Maya<R >and <C9>Meena<R >along for this one<FG>,พา <C9>มายา<R >และ <C9>มีนา<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,132,564,8800,Knack of All Trades<FI> Gladiator,หนทางสู่อาชีพขั้นสูง<FI> กลาดิเอเตอร์
+260,Side_Quest_Rumours,133,568,8833,Abbot of Alltrades,พระสังฆราชแห่งวิหารเปลี่ยนอาชีพ
+260,Side_Quest_Rumours,134,572,8852,"You have nearly mastered the ways of both the warrior and the martial artist. Complete this challenge unaided, and the path to an even greater vocation will be opened to you.",เจ้าได้ฝึกฝนวิถีแห่งนักรบและนักสู้หมัดมวยจนใกล้เชี่ยวชาญแล้ว จงผ่านความท้าทายนี้ด้วยตัวคนเดียวโดยไร้ผู้ช่วยเหลือ แล้วเส้นทางสู่อาชีพที่ยิ่งใหญ่กว่าเดิมจะเปิดออกต้อนรับเจ้า
+260,Side_Quest_Rumours,135,576,9027,Defeat lots of monsters<FG>,กำจัดมอนสเตอร์จำนวนมาก<FG>
+260,Side_Quest_Rumours,136,580,9054,The Battle of the Great Divide (South),ศึกกำแพงแบ่งดินแดน (ใต้)
+260,Side_Quest_Rumours,137,584,9093,<F4><I0>00 will have to fly solo for this one<FG> Go to the Great Divide as a warrior or martial artist.,<F4><I0>00 จะต้องลุยเดี่ยวเพียงลำพังในภารกิจนี้<FG> มุ่งหน้าสู่กำแพงแบ่งดินแดนในฐานะนักรบหรือนักสู้
+260,Side_Quest_Rumours,138,588,9195,Knack of All Trades<FI> Sage,หนทางสู่อาชีพขั้นสูง<FI> ปราชญ์
+260,Side_Quest_Rumours,139,592,9223,Abbot of Alltrades,พระสังฆราชแห่งวิหารเปลี่ยนอาชีพ
+260,Side_Quest_Rumours,140,596,9242,"You have nearly mastered the ways of both the mage and the priest. Complete this challenge unaided, and the path to even deeper mysteries will be opened to you.",เจ้าได้ฝึกฝนวิถีแห่งจอมเวทและนักบวชจนใกล้เชี่ยวชาญแล้ว จงผ่านความท้าทายนี้ด้วยตัวคนเดียวโดยไร้ผู้ช่วยเหลือ แล้วเส้นทางสู่ศาสตร์เร้นลับอันลึกซึ้งยิ่งขึ้นจะเปิดออกต้อนรับเจ้า
+260,Side_Quest_Rumours,141,600,9403,Defeat lots of monsters<FG>,กำจัดมอนสเตอร์จำนวนมาก<FG>
+260,Side_Quest_Rumours,142,604,9430,The Battle of the Wildwood,ศึกป่าดงดิบไวลด์วูด
+260,Side_Quest_Rumours,143,608,9457,<F4><I0>00 will have to fly solo for this one<FG> Go to the Wildwood as a mage or priest.,<F4><I0>00 จะต้องลุยเดี่ยวเพียงลำพังในภารกิจนี้<FG> มุ่งหน้าสู่ป่าดงดิบไวลด์วูดในฐานะจอมเวทหรือนักบวช
+260,Side_Quest_Rumours,144,612,9544,The Stuff of Legend,เครื่องยุทธ์ในตำนาน
+260,Side_Quest_Rumours,145,616,9564,Gragwort,แกรกเวิร์ต
+260,Side_Quest_Rumours,146,620,9573,"I've a special trial for you<FG> Pass it, and I'll open up a bit of the Frosty Foothills where a legendary bit of kit's been waiting for someone who deserves it. Don't let me down, or else<FG>",ข้ามีบททดสอบพิเศษสำหรับเจ้า<FG> จงผ่านมันไปให้ได้ แล้วข้าจะเปิดเส้นทางในเชิงเขาเยือกแข็ง ซึ่งมีเครื่องยุทธ์ระดับตำนานรอคอยผู้ที่คู่ควรอยู่ อย่าทำให้ข้าผิดหวังเชียวนะ ไม่อย่างนั้นล่ะก็...<FG>
+260,Side_Quest_Rumours,147,624,9764,Go to the Wildwood and take on Gragwort's trial<FG>,มุ่งหน้าสู่ป่าดงดิบไวลด์วูดแล้วรับการทดสอบของแกรกเวิร์ต<FG>
+260,Side_Quest_Rumours,148,628,9815,The Wildwood,ป่าดงดิบไวลด์วูด
+260,Side_Quest_Rumours,149,632,9828,<F4><I0>00 will have to fly solo for this one<FG>,<F4><I0>00 จะต้องลุยเดี่ยวเพียงลำพังในภารกิจนี้<FG>
+260,Side_Quest_Rumours,150,636,9875,A Labour of Love<FL>1,งานหนักเพื่อความรัก<FL>1
+260,Side_Quest_Rumours,151,640,9896,Moony Milksop,ชายหนุ่มขี้ขลาดผู้คลั่งรัก
+260,Side_Quest_Rumours,152,644,9910,I've got to go to Ingenia and propose to my girlfriend<FG> The only thing standing in my way is...a bunch of terrifying walking corpses in the Lumberlands<FG> Y-You have to help me<FG>,ผมต้องไปที่อินเกเนียเพื่อขอแฟนแต่งงานให้ได้ครับ<FG> สิ่งเดียวที่ขวางทางผมอยู่ก็คือ...ฝูงซากศพเดินได้วอล์กกิ้งคอร์ปส์แสนน่ากลัวในผืนป่าลัมเบอร์แลนด์<FG> ค-คุณต้องช่วยผมนะคร้าบ<FG>
 260,Side_Quest_Rumours,153,648,10092,,
-260,Side_Quest_Rumours,154,652,10093,The Lumberlands,
+260,Side_Quest_Rumours,154,652,10093,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
 260,Side_Quest_Rumours,155,656,10109,,
-260,Side_Quest_Rumours,156,660,10110,A Labour of Love<FL>2,
-260,Side_Quest_Rumours,157,664,10131,Moony Milksop,
-260,Side_Quest_Rumours,158,668,10145,"It's time to sneak into Ingenia Castle and see my girlfriend at last<FG> But I can't go alone<MV>the security's tighter than a... Than a... Look, it's very tight and I need your help, okay<FH>",
-260,Side_Quest_Rumours,159,672,10335,Go to Ingenia and help the young man<FG>,
-260,Side_Quest_Rumours,160,676,10375,Ingenia,
-260,Side_Quest_Rumours,161,680,10383,Bring <C9>Jessica<R >and <C9>Angelo<R >along for this one<FG>,
-260,Side_Quest_Rumours,162,684,10440,Procure the Cure<FL>2,
-260,Side_Quest_Rumours,163,688,10461,Priestess-About-Town,
-260,Side_Quest_Rumours,164,692,10482,"I have run out of the materials required to make the Healstones with which I aid adventurers again<FG> Bring me what I need, and you may have as many as you desire<FG>",
+260,Side_Quest_Rumours,156,660,10110,A Labour of Love<FL>2,งานหนักเพื่อความรัก<FL>2
+260,Side_Quest_Rumours,157,664,10131,Moony Milksop,ชายหนุ่มขี้ขลาดผู้คลั่งรัก
+260,Side_Quest_Rumours,158,668,10145,"It's time to sneak into Ingenia Castle and see my girlfriend at last<FG> But I can't go alone<MV>the security's tighter than a... Than a... Look, it's very tight and I need your help, okay<FH>",ถึงเวลาต้องลอบเข้าไปในปราสาทอินเกเนียเพื่อพบแฟนสาวของผมเสียที<FG> แต่ผมไปคนเดียวไม่ได้หรอกครับ<MV>การรักษาความปลอดภัยแน่นหนามากๆ... เอาเป็นว่ามันแน่นหนาสุดๆ และผมต้องการความช่วยเหลือจากคุณ เข้าใจไหมครับ<FH>
+260,Side_Quest_Rumours,159,672,10335,Go to Ingenia and help the young man<FG>,มุ่งหน้าสู่อินเกเนียแล้วช่วยเหลือชายหนุ่ม<FG>
+260,Side_Quest_Rumours,160,676,10375,Ingenia,อินเกเนีย
+260,Side_Quest_Rumours,161,680,10383,Bring <C9>Jessica<R >and <C9>Angelo<R >along for this one<FG>,พา <C9>เจสสิก้า<R >และ <C9>คูคุรุ<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,162,684,10440,Procure the Cure<FL>2,เสาะหาสูตรยารักษา<FL>2
+260,Side_Quest_Rumours,163,688,10461,Priestess-About-Town,แม่ชีคนดังแห่งเมือง
+260,Side_Quest_Rumours,164,692,10482,"I have run out of the materials required to make the Healstones with which I aid adventurers again<FG> Bring me what I need, and you may have as many as you desire<FG>",วัตถุดิบที่จำเป็นในการสร้างศิลาฮอยมี่เพื่อช่วยเหลือนักผจญภัยของข้าหมดลงอีกแล้ว<FG> นำของที่ข้าต้องการมาให้ แล้วเจ้าจะได้ศิลาฮอยมี่มากเท่าที่ใจปรารถนาเลยล่ะ<FG>
 260,Side_Quest_Rumours,165,696,10648,,
-260,Side_Quest_Rumours,166,700,10649,None,
-260,Side_Quest_Rumours,167,704,10654,Mandrake majors drop the items you need<FG>,
-260,Side_Quest_Rumours,168,708,10697,There Goes the Bride,
-260,Side_Quest_Rumours,169,712,10718,Nervy Nearly-Wed,
-260,Side_Quest_Rumours,170,716,10735,"My wife<FG> My bride<FG> Taken from me by bandits the second we finished saying our vows<FG> Please, you have to help me<FG> I'm not strong enough to take them on<MV>save her, please<FG>",
-260,Side_Quest_Rumours,171,720,10916,Rescue the kidnapped bride<FG>,
-260,Side_Quest_Rumours,172,724,10946,None,
-260,Side_Quest_Rumours,173,728,10951,Bring <C9>Alena<R >and <C9>Kiryl<R >along for this one<FG>,
-260,Side_Quest_Rumours,174,732,11005,Hammer and Tongs<FL>3,
-260,Side_Quest_Rumours,175,736,11026,Wandering Weaponsmith,
-260,Side_Quest_Rumours,176,740,11048,"I thought I'd seen everything, but now you've gone and found another world<MV>and I bet it's chock-full of new materials for me to work with<FG> Care to bring me some samples<FH>",
+260,Side_Quest_Rumours,166,700,10649,None,ไม่มี
+260,Side_Quest_Rumours,167,704,10654,Mandrake majors drop the items you need<FG>,แมนเดรกเมเจอร์จะดรอปไอเทมที่คุณต้องการ<FG>
+260,Side_Quest_Rumours,168,708,10697,There Goes the Bride,เจ้าสาวหายตัวไป
+260,Side_Quest_Rumours,169,712,10718,Nervy Nearly-Wed,เจ้าบ่าวขี้ตื่นตระหนก
+260,Side_Quest_Rumours,170,716,10735,"My wife<FG> My bride<FG> Taken from me by bandits the second we finished saying our vows<FG> Please, you have to help me<FG> I'm not strong enough to take them on<MV>save her, please<FG>",ภรรยาของข้า<FG> เจ้าสาวของข้า<FG> โดนพวกกองโจรลักพาตัวไปทันทีหลังจากที่เรากล่าวคำสาบานเสร็จ<FG> ได้โปรดเถอะ เจ้าต้องช่วยข้านะ<FG> ข้าไม่มีแรงพอจะไปสู้กับพวกมัน<MV>ช่วยนางด้วย ขอร้องล่ะ<FG>
+260,Side_Quest_Rumours,171,720,10916,Rescue the kidnapped bride<FG>,ช่วยเหลือเจ้าสาวที่ถูกลักพาตัวไปให้ได้<FG>
+260,Side_Quest_Rumours,172,724,10946,None,ไม่มี
+260,Side_Quest_Rumours,173,728,10951,Bring <C9>Alena<R >and <C9>Kiryl<R >along for this one<FG>,พา <C9>อารีน่า<R >และ <C9>คลิฟท์<R >ร่วมทีมไปด้วยในภารกิจนี้<FG>
+260,Side_Quest_Rumours,174,732,11005,Hammer and Tongs<FL>3,ค้อนตีเหล็กและคีมจับ<FL>3
+260,Side_Quest_Rumours,175,736,11026,Wandering Weaponsmith,ช่างตีอาวุธพเนจร
+260,Side_Quest_Rumours,176,740,11048,"I thought I'd seen everything, but now you've gone and found another world<MV>and I bet it's chock-full of new materials for me to work with<FG> Care to bring me some samples<FH>",ข้านึกว่าข้าเห็นมาหมดทุกสิ่งแล้วนะ แต่เจ้ากลับค้นพบอีกโลกหนึ่งจนได้<MV>และข้าพนันได้เลยว่าที่นั่นต้องเต็มไปด้วยวัตถุดิบชนิดใหม่ๆ ให้ข้าได้ลองมือแน่ๆ<FG> ช่วยนำตัวอย่างกลับมาให้ข้าสักหน่อยได้ไหม<FH>
 260,Side_Quest_Rumours,177,744,11224,,
-260,Side_Quest_Rumours,178,748,11225,None,
-260,Side_Quest_Rumours,179,752,11230,"The materials you need are dropped by wight kings, or found in Blacka Pastures<FG>",
-260,Side_Quest_Rumours,180,756,11312,Way of the Warrior,
-260,Side_Quest_Rumours,181,760,11331,Martial Master,
-260,Side_Quest_Rumours,182,764,11346,"Ah, my disciple<FG> How you have excelled in your training<FG> I have prepared a trial to test your limits. Demonstrate your command of all I have taught you, and I will reward you well<FG>",
-260,Side_Quest_Rumours,183,768,11533,Defeat at least 30 different kinds of monster<FG>,
-260,Side_Quest_Rumours,184,772,11582,None,
+260,Side_Quest_Rumours,178,748,11225,None,ไม่มี
+260,Side_Quest_Rumours,179,752,11230,"The materials you need are dropped by wight kings, or found in Blacka Pastures<FG>",วัตถุดิบที่คุณต้องการดรอปจากไวต์คิง หรือหาเก็บได้ในทุ่งหญ้าทมิฬแบล็กก้า<FG>
+260,Side_Quest_Rumours,180,756,11312,Way of the Warrior,วิถีแห่งจอมยุทธ์
+260,Side_Quest_Rumours,181,760,11331,Martial Master,ปรมาจารย์ศิลปะการต่อสู้
+260,Side_Quest_Rumours,182,764,11346,"Ah, my disciple<FG> How you have excelled in your training<FG> I have prepared a trial to test your limits. Demonstrate your command of all I have taught you, and I will reward you well<FG>",อ้า ศิษย์รักของข้า<FG> เจ้าช่างฝึกฝนได้อย่างยอดเยี่ยมยิ่งนัก<FG> ข้าได้เตรียมบททดสอบเพื่อท้าทายขีดจำกัดของเจ้าไว้แล้ว จงแสดงให้เห็นถึงวิชาทั้งหมดที่ข้าได้ถ่ายทอดไป แล้วข้าจะมอบรางวัลอย่างงามให้แก่เจ้า<FG>
+260,Side_Quest_Rumours,183,768,11533,Defeat at least 30 different kinds of monster<FG>,กำจัดมอนสเตอร์อย่างน้อย 30 ชนิดที่แตกต่างกัน<FG>
+260,Side_Quest_Rumours,184,772,11582,None,ไม่มี
 260,Side_Quest_Rumours,185,776,11587,,
-260,Side_Quest_Rumours,186,780,11588,Sunderbolts and Lightning,
-260,Side_Quest_Rumours,187,784,11614,Gragwort,
-260,Side_Quest_Rumours,188,788,11623,"I've a special trial for you and your mates<FG> Pass, and I'll let you into a secret bit of Redrock Ravine where there's a right nice ancient weapon for you.",
+260,Side_Quest_Rumours,186,780,11588,Sunderbolts and Lightning,สายฟ้าฟาดแยกปฐพี
+260,Side_Quest_Rumours,187,784,11614,Gragwort,แกรกเวิร์ต
+260,Side_Quest_Rumours,188,788,11623,"I've a special trial for you and your mates<FG> Pass, and I'll let you into a secret bit of Redrock Ravine where there's a right nice ancient weapon for you.",ข้ามีบททดสอบพิเศษสำหรับเจ้าและพรรคพวก<FG> ผ่านให้ได้ แล้วข้าจะยอมเปิดทางลับในหุบผาหินแดง ซึ่งมีอาวุธโบราณชั้นยอดรอพวกเจ้าอยู่
 260,Side_Quest_Rumours,189,792,11780,,
-260,Side_Quest_Rumours,190,796,11781,Blackrock Ravine,
-260,Side_Quest_Rumours,191,800,11798,Defeat a bullion and an axesaurus using Tag Tricks<FG>,
-260,Side_Quest_Rumours,192,804,11852,Smart as a Whip,
-260,Side_Quest_Rumours,193,808,11868,Gragwort,
-260,Side_Quest_Rumours,194,812,11877,"I've cooked up another trial. This one's against the clock, and it's hard as nails to boot<FG> Pass, and I'll let you into a bit of No Man's Land where there's a whip and a half waiting<FG>",
-260,Side_Quest_Rumours,195,816,12065,Defeat 15 or more monsters with a single coup de grâce<FG>,
-260,Side_Quest_Rumours,196,820,12124,Battle of the Pinnacle (Centre),
-260,Side_Quest_Rumours,197,824,12156,Go to Gragwort's Grotto and take on the trial<FG>,
-260,Side_Quest_Rumours,198,828,12205,Pedal to the Medal<FL>3,
-260,Side_Quest_Rumours,199,832,12228,Travelling Trader,
-260,Side_Quest_Rumours,200,836,12246,I hear this other world you've found is teeming with powerful monsters. I bet beasties like that will have what I need to perfect your medal holder<FG> Ready to go to work<FH>,
+260,Side_Quest_Rumours,190,796,11781,Blackrock Ravine,หุบผาหินทมิฬแบล็กร็อก
+260,Side_Quest_Rumours,191,800,11798,Defeat a bullion and an axesaurus using Tag Tricks<FG>,กำจัดบูลเลียนและแอกซ์ซอรัสโดยใช้แท็กทริก<FG>
+260,Side_Quest_Rumours,192,804,11852,Smart as a Whip,คมกริบดั่งแส้ฟาด
+260,Side_Quest_Rumours,193,808,11868,Gragwort,แกรกเวิร์ต
+260,Side_Quest_Rumours,194,812,11877,"I've cooked up another trial. This one's against the clock, and it's hard as nails to boot<FG> Pass, and I'll let you into a bit of No Man's Land where there's a whip and a half waiting<FG>",ข้าคิดบททดสอบขึ้นมาใหม่อีกอัน คราวนี้เป็นการแข่งกับเวลา และแถมยังยากสุดๆ อีกด้วย<FG> ผ่านให้ได้ แล้วข้าจะยอมเปิดทางในแดนร้างไร้ผู้ครอบครอง ซึ่งมีแส้ชั้นยอดรอคอยอยู่<FG>
+260,Side_Quest_Rumours,195,816,12065,Defeat 15 or more monsters with a single coup de grâce<FG>,กำจัดมอนสเตอร์ตั้งแต่ 15 ตัวขึ้นไปด้วยท่าไม้ตายเพียง 1 ครั้ง<FG>
+260,Side_Quest_Rumours,196,820,12124,Battle of the Pinnacle (Centre),ศึกสมรภูมิยอดพสุธา (กลาง)
+260,Side_Quest_Rumours,197,824,12156,Go to Gragwort's Grotto and take on the trial<FG>,มุ่งหน้าสู่ถ้ำของแกรกเวิร์ตแล้วเข้ารับการทดสอบ<FG>
+260,Side_Quest_Rumours,198,828,12205,Pedal to the Medal<FL>3,ยกระดับกล่องเมดัล<FL>3
+260,Side_Quest_Rumours,199,832,12228,Travelling Trader,พ่อค้าพเนจร
+260,Side_Quest_Rumours,200,836,12246,I hear this other world you've found is teeming with powerful monsters. I bet beasties like that will have what I need to perfect your medal holder<FG> Ready to go to work<FH>,ข้าได้ยินมาว่าอีกโลกหนึ่งที่เจ้าค้นพบเต็มไปด้วยมอนสเตอร์สุดแกร่ง ข้าพนันได้เลยว่าสัตว์ร้ายพวกนั้นต้องมีของที่ข้าต้องการเพื่อทำกล่องใส่เหรียญให้สมบูรณ์แบบแน่ๆ<FG> พร้อมออกลุยหรือยัง<FH>
 260,Side_Quest_Rumours,201,840,12420,,
-260,Side_Quest_Rumours,202,844,12421,The Fetid Foothills,
-260,Side_Quest_Rumours,203,848,12441,Use monster minions to defeat a hellion<FG>,
-260,Side_Quest_Rumours,204,852,12484,Well-Healed<FL>3,
-260,Side_Quest_Rumours,205,856,12500,Pilgrim Priestess,
-260,Side_Quest_Rumours,206,860,12518,"Yet more miraculous potential resides in the Healstones you carry. Bring me a rejuvenating jewel from the craven creatures of the other world, and I shall unleash it<FG>",
+260,Side_Quest_Rumours,202,844,12421,The Fetid Foothills,เชิงเขาเน่าเปื่อยเฟติด
+260,Side_Quest_Rumours,203,848,12441,Use monster minions to defeat a hellion<FG>,ใช้มอนสเตอร์ลูกน้องกำจัดเฮลเลียน<FG>
+260,Side_Quest_Rumours,204,852,12484,Well-Healed<FL>3,ศิลาฮอยมี่ทรงอานุภาพ<FL>3
+260,Side_Quest_Rumours,205,856,12500,Pilgrim Priestess,แม่ชีผู้แสวงบุญ
+260,Side_Quest_Rumours,206,860,12518,"Yet more miraculous potential resides in the Healstones you carry. Bring me a rejuvenating jewel from the craven creatures of the other world, and I shall unleash it<FG>",พลังปาฏิหาริย์ยังคงมีซ่อนอยู่อีกมากในศิลาฮอยมี่ที่เจ้าถือ จงนำอัญมณีชุบชีวิตจากพวกอมนุษย์ในอีกโลกหนึ่งมาให้ข้า แล้วข้าจะปลดปล่อยพลังนั้นให้<FG>
 260,Side_Quest_Rumours,207,864,12687,,
-260,Side_Quest_Rumours,208,868,12688,Blacka Pastures,
-260,Side_Quest_Rumours,209,872,12704,Get yourself a rejuvenating jewel<FG>\nMissing lynxes sometimes drop them.,
-260,Side_Quest_Rumours,210,876,12778,Fire Extinguisher,
-260,Side_Quest_Rumours,211,880,12796,Crispy-Coiffured Kid,
-260,Side_Quest_Rumours,212,884,12817,"The nerve<FG> Those dancing flames out in the desert attacked me and singed my beautiful locks<FG> Do me a favour, will you<FH> Freeze them solid so they can't ruin anyone else's day<FG>",
+260,Side_Quest_Rumours,208,868,12688,Blacka Pastures,ทุ่งหญ้าทมิฬแบล็กก้า
+260,Side_Quest_Rumours,209,872,12704,Get yourself a rejuvenating jewel<FG>\nMissing lynxes sometimes drop them.,จงหาอัญมณีชุบชีวิตมาให้ได้<FG>\nมิสซิ่งลิงก์จะดรอปมันเป็นบางครั้ง
+260,Side_Quest_Rumours,210,876,12778,Fire Extinguisher,ดับไฟร้อนรุ่ม
+260,Side_Quest_Rumours,211,880,12796,Crispy-Coiffured Kid,เด็กหนุ่มผมหยิกหยักศก
+260,Side_Quest_Rumours,212,884,12817,"The nerve<FG> Those dancing flames out in the desert attacked me and singed my beautiful locks<FG> Do me a favour, will you<FH> Freeze them solid so they can't ruin anyone else's day<FG>",ดูทำเข้าสิ<FG> เปลวไฟเต้นระบำในทะเลทรายนั่นโจมตีฉันจนเส้นผมอันงดงามของฉันไหม้เกรียมไปหมด<FG> ช่วยฉันหน่อยได้ไหม<FH> แช่แข็งพวกมันให้อยู่นิ่งไปเลย จะได้ไม่ไปทำลายวันดีๆ ของคนอื่นอีก<FG>
 260,Side_Quest_Rumours,213,888,13000,,
-260,Side_Quest_Rumours,214,892,13001,The Grand Dunes,
-260,Side_Quest_Rumours,215,896,13017,Defeat the dancing flames with ice-based spells and abilities<FG>,
-260,Side_Quest_Rumours,216,900,13082,Training Exorcises,
-260,Side_Quest_Rumours,217,904,13101,Abbot of Alltrades,
-260,Side_Quest_Rumours,218,908,13120,"I have a request for one who walks the path of the priest. Lost souls are wandering the Lumberlands<MV>would you guide them to the afterlife, that they may rest in peace<FH>",
+260,Side_Quest_Rumours,214,892,13001,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
+260,Side_Quest_Rumours,215,896,13017,Defeat the dancing flames with ice-based spells and abilities<FG>,กำจัดแดนซิ่งเฟลมด้วยคาถาหรืออบิลิตี้ธาตุน้ำแข็ง<FG>
+260,Side_Quest_Rumours,216,900,13082,Training Exorcises,ฝึกฝนปัดเป่าวิญญาณ
+260,Side_Quest_Rumours,217,904,13101,Abbot of Alltrades,พระสังฆราชแห่งวิหารเปลี่ยนอาชีพ
+260,Side_Quest_Rumours,218,908,13120,"I have a request for one who walks the path of the priest. Lost souls are wandering the Lumberlands<MV>would you guide them to the afterlife, that they may rest in peace<FH>",ข้ามีคำขอสำหรับผู้ที่เดินบนเส้นทางแห่งนักบวช มีดวงวิญญาณเร่ร่อนกำลังวนเวียนอยู่ในผืนป่าลัมเบอร์แลนด์<MV>เจ้าช่วยนำทางพวกมันไปสู่สุคติ เพื่อให้ดวงวิญญาณได้พักผ่อนอย่างสงบได้หรือไม่<FH>
 260,Side_Quest_Rumours,219,912,13292,,
-260,Side_Quest_Rumours,220,916,13293,The Lumberlands,
-260,Side_Quest_Rumours,221,920,13309,Rise to the challenge with a priest in your party<FG>,
-260,Side_Quest_Rumours,222,924,13362,Plume for Improvement,
-260,Side_Quest_Rumours,223,928,13384,Feather-Fancying Fashionista,
-260,Side_Quest_Rumours,224,932,13413,"My husband's not the nattiest dresser, and I'm just desperate to give him a makeover. A feathered cap would be just the thing to start with. So I'll be needing a flurry feather<FG>",
+260,Side_Quest_Rumours,220,916,13293,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
+260,Side_Quest_Rumours,221,920,13309,Rise to the challenge with a priest in your party<FG>,รับคำท้าทายนี้โดยมีนักบวชอยู่ในปาร์ตี้ของคุณ<FG>
+260,Side_Quest_Rumours,222,924,13362,Plume for Improvement,ขนนกประดับเสริมหล่อ
+260,Side_Quest_Rumours,223,928,13384,Feather-Fancying Fashionista,แฟชั่นนิสต้าคลั่งไคล้ขนนก
+260,Side_Quest_Rumours,224,932,13413,"My husband's not the nattiest dresser, and I'm just desperate to give him a makeover. A feathered cap would be just the thing to start with. So I'll be needing a flurry feather<FG>",สามีของฉันไม่ใช่คนที่แต่งตัวดูดีเลยสักนิด และฉันก็อยากจะจับเขาแปลงโฉมใหม่ใจแทบขาด การเริ่มด้วยหมวกติดขนนกคงจะเป็นอะไรที่เหมาะที่สุด ดังนั้นฉันต้องการขนนกวายุฟลูรีเฟเธอร์ค่ะ<FG>
 260,Side_Quest_Rumours,225,936,13593,,
-260,Side_Quest_Rumours,226,940,13594,None,
-260,Side_Quest_Rumours,227,944,13599,Flurry feathers are sometimes dropped by hawk men<FG>,
-260,Side_Quest_Rumours,228,948,13652,Heart of Stone,
-260,Side_Quest_Rumours,229,952,13667,Daring Dunisian,
-260,Side_Quest_Rumours,230,956,13683,"I've heard that there's a real tough customer hanging around the oasis in the Grand Dunes. Looks like a golem, but a bit more...stony, they're saying. Fancy trying to take him on<FH>",
+260,Side_Quest_Rumours,226,940,13594,None,ไม่มี
+260,Side_Quest_Rumours,227,944,13599,Flurry feathers are sometimes dropped by hawk men<FG>,ขนนกวายุฟลูรีเฟเธอร์จะดรอปจากฮอว์กแมนเป็นบางครั้ง<FG>
+260,Side_Quest_Rumours,228,948,13652,Heart of Stone,หัวใจศิลาแกร่ง
+260,Side_Quest_Rumours,229,952,13667,Daring Dunisian,ชาวดูนิเซียใจกล้า
+260,Side_Quest_Rumours,230,956,13683,"I've heard that there's a real tough customer hanging around the oasis in the Grand Dunes. Looks like a golem, but a bit more...stony, they're saying. Fancy trying to take him on<FH>",ฉันได้ยินมาว่ามีตัวตึงสุดโหดวนเวียนอยู่แถวโอเอซิสในเนินทรายยักษ์ ดูคล้ายๆ โกเลม แต่เขาว่ากันว่า...ดูเหมือนหินกว่า สนใจจะไปลองประมือกับมันดูหน่อยไหมล่ะ<FH>
 260,Side_Quest_Rumours,231,960,13865,,
-260,Side_Quest_Rumours,232,964,13866,The Grand Dunes,
-260,Side_Quest_Rumours,233,968,13882,The target only appears occasionally<FG>,
-260,Side_Quest_Rumours,234,972,13922,Work Your Magic,
-260,Side_Quest_Rumours,235,976,13938,Mage-Admiring Meathead,
-260,Side_Quest_Rumours,236,980,13961,"I always wanted to go to wizard school, but the wand-wavers wouldn't 'ave me. But a bloke can dream, can't 'e<FH> Do us a favour and put on a little magic show, so I can pretend it's me.",
+260,Side_Quest_Rumours,232,964,13866,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
+260,Side_Quest_Rumours,233,968,13882,The target only appears occasionally<FG>,เป้าหมายจะปรากฏตัวออกมาเป็นบางครั้งเท่านั้น<FG>
+260,Side_Quest_Rumours,234,972,13922,Work Your Magic,แสดงกลมนตราให้ดูชม
+260,Side_Quest_Rumours,235,976,13938,Mage-Admiring Meathead,คนบึกบึนผู้คลั่งไคล้เวทมนตร์
+260,Side_Quest_Rumours,236,980,13961,"I always wanted to go to wizard school, but the wand-wavers wouldn't 'ave me. But a bloke can dream, can't 'e<FH> Do us a favour and put on a little magic show, so I can pretend it's me.",ข้าอยากเข้าโรงเรียนเวทมนตร์มาตลอด แต่พวกนักคทาไม่ยอมรับข้าเข้าเรียน แต่คนเรามันก็ฝันกันได้ใช่ไหมล่ะ<FH> ช่วยข้าหน่อยสิ จัดการแสดงเวทมนตร์ให้ข้าดูหน่อย ข้าจะได้แกล้งจินตนาการว่าเป็นตัวข้าเอง
 260,Side_Quest_Rumours,237,984,14147,,
-260,Side_Quest_Rumours,238,988,14148,Redrock Ravine,
-260,Side_Quest_Rumours,239,992,14163,Rise to the challenge with a mage in your party<FG>,
-260,Side_Quest_Rumours,240,996,14214,Where's the Fire<FH>,
-260,Side_Quest_Rumours,241,1000,14234,Crystal Collector,
-260,Side_Quest_Rumours,242,1004,14252,"I'm looking for some crystallised fire to add to my collection, and I need a safe pair of hands to bring it back. The lightest tap will shatter it completely<MV>are you up to the job<FH>",
+260,Side_Quest_Rumours,238,988,14148,Redrock Ravine,หุบผาหินแดงเรดร็อก
+260,Side_Quest_Rumours,239,992,14163,Rise to the challenge with a mage in your party<FG>,รับคำท้าทายนี้โดยมีจอมเวทอยู่ในปาร์ตี้ของคุณ<FG>
+260,Side_Quest_Rumours,240,996,14214,Where's the Fire<FH>,เพลิงร้อนระอุอยู่ที่ไหน<FH>
+260,Side_Quest_Rumours,241,1000,14234,Crystal Collector,นักสะสมผลึกคริสตัล
+260,Side_Quest_Rumours,242,1004,14252,"I'm looking for some crystallised fire to add to my collection, and I need a safe pair of hands to bring it back. The lightest tap will shatter it completely<MV>are you up to the job<FH>",ฉันกำลังตามหาผลึกเพลิงตกผลึกเพื่อนำมาเพิ่มในคอลเลกชัน และฉันต้องการคนมือเบาไว้ใจได้เพื่อนำมันกลับมา การกระทบกระเทือนเพียงแผ่วเบาจะทำให้มันแหลกสลายทันที<MV>คุณไหวไหมล่ะ<FH>
 260,Side_Quest_Rumours,243,1008,14437,,
-260,Side_Quest_Rumours,244,1012,14438,No Man's Land,
-260,Side_Quest_Rumours,245,1016,14452,"Search near the lava in No Man's Land<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will shatter the crystal<FG>",
-260,Side_Quest_Rumours,246,1020,14578,Hammerhood Hustle,
-260,Side_Quest_Rumours,247,1024,14596,Intrepid Ingenian,
-260,Side_Quest_Rumours,248,1028,14614,"I'm not one to brag, but I'll have you know I put down a horde of 25 hammerhoods in a mere five minutes. Think you can top that<FH> Ha<FG> I'd like to see you try<FG>",
+260,Side_Quest_Rumours,244,1012,14438,No Man's Land,แดนร้างไร้ผู้ครอบครอง
+260,Side_Quest_Rumours,245,1016,14452,"Search near the lava in No Man's Land<FG> <C9>Drawing your weapon, running, jumping or using Zoom<R >will shatter the crystal<FG>",สำรวจใกล้กับลาวาในแดนร้างไร้ผู้ครอบครอง<FG> <C9>การชักอาวุธ วิ่ง กระโดด หรือใช้รูร่า<R >จะทำให้ผลึกแตกทันที<FG>
+260,Side_Quest_Rumours,246,1020,14578,Hammerhood Hustle,ประลองปราบแฮมเมอร์ฮูด
+260,Side_Quest_Rumours,247,1024,14596,Intrepid Ingenian,ชาวอินเกเนียผู้กล้าหาญ
+260,Side_Quest_Rumours,248,1028,14614,"I'm not one to brag, but I'll have you know I put down a horde of 25 hammerhoods in a mere five minutes. Think you can top that<FH> Ha<FG> I'd like to see you try<FG>",ข้าไม่ใช่พวกชอบโอ้อวดหรอกนะ แต่ข้าจะบอกให้รู้ไว้ว่าข้าเคยล้มฝูงแฮมเมอร์ฮูด 25 ตัว ในเวลาเพียง 5 นาทีเท่านั้น คิดว่าเจ้าจะทำลายสถิตินั้นได้เรอะ<FH> ฮ่า<FG> ข้าอยากเห็นเจ้าลองดูจริงๆ เลย<FG>
 260,Side_Quest_Rumours,249,1032,14778,,
-260,Side_Quest_Rumours,250,1036,14779,The Lumberlands,
+260,Side_Quest_Rumours,250,1036,14779,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
 260,Side_Quest_Rumours,251,1040,14795,,
-260,Side_Quest_Rumours,252,1044,14796,Feuding Friends,
-260,Side_Quest_Rumours,253,1048,14812,Slightly Misguided Boy,
-260,Side_Quest_Rumours,254,1052,14835,"Me and my friend had a fight, and I want to give her something nice and pretty so we can be friends again. Can you get something off a killing machine<FH> That'll impress her<FG>",
+260,Side_Quest_Rumours,252,1044,14796,Feuding Friends,เพื่อนรักหักเหลี่ยมแค้น
+260,Side_Quest_Rumours,253,1048,14812,Slightly Misguided Boy,เด็กชายผู้เข้าใจผิดเล็กน้อย
+260,Side_Quest_Rumours,254,1052,14835,"Me and my friend had a fight, and I want to give her something nice and pretty so we can be friends again. Can you get something off a killing machine<FH> That'll impress her<FG>",ผมกับเพื่อนผู้หญิงทะเลาะกันครับ และผมอยากจะให้ของสวยๆ งามๆ แก่เธอเพื่อเราจะได้กลับมาคืนดีกัน คุณช่วยไปเอาชิ้นส่วนจากคิลลิ่งแมชชีนมาให้หน่อยได้ไหมครับ<FH> รับรองว่าเธอต้องทึ่งแน่ๆ<FG>
 260,Side_Quest_Rumours,255,1056,15012,,
-260,Side_Quest_Rumours,256,1060,15013,None,
-260,Side_Quest_Rumours,257,1064,15018,Killing machines sometimes drop the item you need<FG>,
-260,Side_Quest_Rumours,258,1068,15071,The Splats' Pyjamas,
-260,Side_Quest_Rumours,259,1072,15091,Granny,
-260,Side_Quest_Rumours,260,1076,15098,"It's getting cold at night, and my dear little grandchildren can't sleep for shivering. I could knit them some cosy pyjamas with the right wool... Would you have time to help<FH>",
+260,Side_Quest_Rumours,256,1060,15013,None,ไม่มี
+260,Side_Quest_Rumours,257,1064,15018,Killing machines sometimes drop the item you need<FG>,คิลลิ่งแมชชีนจะดรอปไอเทมที่คุณต้องการเป็นบางครั้ง<FG>
+260,Side_Quest_Rumours,258,1068,15071,The Splats' Pyjamas,ชุดนอนขนนุ่มอบอุ่น
+260,Side_Quest_Rumours,259,1072,15091,Granny,คุณยายใจดี
+260,Side_Quest_Rumours,260,1076,15098,"It's getting cold at night, and my dear little grandchildren can't sleep for shivering. I could knit them some cosy pyjamas with the right wool... Would you have time to help<FH>",ตอนกลางคืนอากาศเริ่มหนาวแล้ว และหลานๆ ตัวน้อยของฉันนอนสั่นจนหลับไม่ลงเลย ฉันสามารถถักชุดนอนแสนอบอุ่นให้พวกเขาได้ถ้ามีขนแกะที่เหมาะสม... พอจะมีเวลาช่วยฉันหน่อยไหมจ๊ะ<FH>
 260,Side_Quest_Rumours,261,1080,15276,,
-260,Side_Quest_Rumours,262,1084,15277,None,
-260,Side_Quest_Rumours,263,1088,15282,Splatypunks sometimes drop the item you need<FG>,
-260,Side_Quest_Rumours,264,1092,15330,"A Short, Sharp Shock",
-260,Side_Quest_Rumours,265,1096,15351,The Weapon-Seller's Missus,
-260,Side_Quest_Rumours,266,1100,15378,"There's killing machines loitering around my house<FG> Dreadful things, absolutely dreadful<FG> Can you give them a little jolt to let them know they're not wanted<FH>",
+260,Side_Quest_Rumours,262,1084,15277,None,ไม่มี
+260,Side_Quest_Rumours,263,1088,15282,Splatypunks sometimes drop the item you need<FG>,สแพลตตีพังก์จะดรอปไอเทมที่คุณต้องการเป็นบางครั้ง<FG>
+260,Side_Quest_Rumours,264,1092,15330,"A Short, Sharp Shock",สายฟ้าช็อตสั่งสอน
+260,Side_Quest_Rumours,265,1096,15351,The Weapon-Seller's Missus,ภรรยาของพ่อค้าอาวุธ
+260,Side_Quest_Rumours,266,1100,15378,"There's killing machines loitering around my house<FG> Dreadful things, absolutely dreadful<FG> Can you give them a little jolt to let them know they're not wanted<FH>",มีพวกหุ่นยนต์คิลลิ่งแมชชีนวนเวียนอยู่แถวบ้านฉันเต็มไปหมดเลยค่ะ<FG> น่ากลัวจริงๆ น่ากลัวสุดๆ เลย<FG> ช่วยส่งประกายไฟช็อตพวกมันสักหน่อย ให้พวกมันรู้สำนึกทีว่าไม่มีใครต้อนรับแถวนี้<FH>
 260,Side_Quest_Rumours,267,1104,15543,,
-260,Side_Quest_Rumours,268,1108,15544,The Frosty Foothills,
-260,Side_Quest_Rumours,269,1112,15565,Finish them off using lightning-based spells and abilities<FG>,
-260,Side_Quest_Rumours,270,1116,15627,Fur Enough,
-260,Side_Quest_Rumours,271,1120,15638,Crafty Catherine,
-260,Side_Quest_Rumours,272,1124,15655,"Um... Hello<FG> I'm Catherine and I want to make a nice new teddy bear<FG> Can you get me some fine fur to make him with<FH> I know you can help<MV>you're a hero, right<FH> Right<FH>",
+260,Side_Quest_Rumours,268,1108,15544,The Frosty Foothills,เชิงเขาเยือกแข็งฟรอสตี้
+260,Side_Quest_Rumours,269,1112,15565,Finish them off using lightning-based spells and abilities<FG>,ปลิดชีพพวกมันด้วยคาถาหรืออบิลิตี้ธาตุสายฟ้า<FG>
+260,Side_Quest_Rumours,270,1116,15627,Fur Enough,ขนนุ่มตุ๊กตาหมี
+260,Side_Quest_Rumours,271,1120,15638,Crafty Catherine,หนูน้อยแคทเธอรีนจอมเจ้าเล่ห์
+260,Side_Quest_Rumours,272,1124,15655,"Um... Hello<FG> I'm Catherine and I want to make a nice new teddy bear<FG> Can you get me some fine fur to make him with<FH> I know you can help<MV>you're a hero, right<FH> Right<FH>",เอ่อ... สวัสดีค่ะ<FG> หนูชื่อแคทเธอรีน และหนูอยากทำตุ๊กตาหมีตัวใหม่น่ารักๆ จังเลยค่ะ<FG> ช่วยไปหาขนสัตว์นุ่มๆ มาให้หนูทำตุ๊กตาหน่อยได้ไหมคะ<FH> หนูรู้ว่าพี่ช่วยได้แน่<MV>ก็พี่เป็นผู้กล้านี่นา ใช่ไหมคะ<FH> ใช่ไหมเอ่ย<FH>
 260,Side_Quest_Rumours,273,1128,15832,,
-260,Side_Quest_Rumours,274,1132,15833,None,
-260,Side_Quest_Rumours,275,1136,15838,Silvapithecuses sometimes drop the item you need<FG>,
-260,Side_Quest_Rumours,276,1140,15890,Get Ready to Rumble,
-260,Side_Quest_Rumours,277,1144,15910,Fight Fan,
-260,Side_Quest_Rumours,278,1148,15920,"I love a good punch-up<FG> There's nothing I like more than the sight of sweaty, sinewy so-and-sos beating each other senseless<FG> Put on a show for me<MV>if you've got the guts<FG>",
+260,Side_Quest_Rumours,274,1132,15833,None,ไม่มี
+260,Side_Quest_Rumours,275,1136,15838,Silvapithecuses sometimes drop the item you need<FG>,ซิลวาพิเธคัสจะดรอปไอเทมที่คุณต้องการเป็นบางครั้ง<FG>
+260,Side_Quest_Rumours,276,1140,15890,Get Ready to Rumble,ศึกดวลกำปั้นสะท้านภพ
+260,Side_Quest_Rumours,277,1144,15910,Fight Fan,แฟนมวยผู้คลั่งไคล้การต่อสู้
+260,Side_Quest_Rumours,278,1148,15920,"I love a good punch-up<FG> There's nothing I like more than the sight of sweaty, sinewy so-and-sos beating each other senseless<FG> Put on a show for me<MV>if you've got the guts<FG>",ข้าชอบการชกต่อยสุดๆ ไปเลย<FG> ไม่มีอะไรที่ข้าชอบไปมากกว่าการได้เห็นคนกล้ามโตมีเหยื่อโชกซัดกันจนน่วมไปข้างหนึ่งอีกแล้ว<FG> จัดโชว์ให้ข้าดูเป็นขวัญตาหน่อยสิ<MV>ถ้าเจ้ามีความกล้าพอน่ะนะ<FG>
 260,Side_Quest_Rumours,279,1152,16099,,
-260,Side_Quest_Rumours,280,1156,16100,The Battle of Accordia,
-260,Side_Quest_Rumours,281,1160,16123,Go to Gragwort's Grotto and take on the trial with <F4><I0>00 or <F4><I0>10 as a martial artist<FG>,
-260,Side_Quest_Rumours,282,1164,16218,No-Spring Chicken,
-260,Side_Quest_Rumours,283,1168,16236,Hot Spring Hopeful,
-260,Side_Quest_Rumours,284,1172,16255,The hot spring at Redrock Ravine would do wonders for my creaking old bones...if it weren't for the horrible monster that hangs around there<FG> Can you get rid of him for me<FH>,
+260,Side_Quest_Rumours,280,1156,16100,The Battle of Accordia,ศึกสมรภูมิแห่งออร์คาเนีย
+260,Side_Quest_Rumours,281,1160,16123,Go to Gragwort's Grotto and take on the trial with <F4><I0>00 or <F4><I0>10 as a martial artist<FG>,มุ่งหน้าสู่ถ้ำของแกรกเวิร์ตแล้วรับการทดสอบโดยมี <F4><I0>00 หรือ <F4><I0>10 ในฐานะนักสู้หมัดมวย<FG>
+260,Side_Quest_Rumours,282,1164,16218,No-Spring Chicken,บ่อน้ำพุร้อนของคนแก่
+260,Side_Quest_Rumours,283,1168,16236,Hot Spring Hopeful,ผู้เฝ้ารอบ่อน้ำพุร้อน
+260,Side_Quest_Rumours,284,1172,16255,The hot spring at Redrock Ravine would do wonders for my creaking old bones...if it weren't for the horrible monster that hangs around there<FG> Can you get rid of him for me<FH>,บ่อน้ำพุร้อนที่หุบผาหินแดงคงจะช่วยเยียวยากระดูกเก่าๆ ของข้าได้วิเศษสุดๆ แน่... ถ้าไม่มีมอนสเตอร์น่ากลัวตัวนั้นมาป้วนเปี้ยนอยู่แถวนั้นน่ะนะ<FG> ช่วยกำจัดมันออกไปให้ข้าทีได้ไหม<FH>
 260,Side_Quest_Rumours,285,1176,16432,,
-260,Side_Quest_Rumours,286,1180,16433,Redrock Ravine,
-260,Side_Quest_Rumours,287,1184,16448,The target only appears occasionally<FG>,
-260,Side_Quest_Rumours,288,1188,16488,Master Electrician,
-260,Side_Quest_Rumours,289,1192,16507,Martial Master,
-260,Side_Quest_Rumours,290,1196,16522,"It is time to put your mastery of lightning to the test, my young disciple. If you complete this trial, return to me, and I shall impart to you a martial mystery most profound<FG>",
+260,Side_Quest_Rumours,286,1180,16433,Redrock Ravine,หุบผาหินแดงเรดร็อก
+260,Side_Quest_Rumours,287,1184,16448,The target only appears occasionally<FG>,เป้าหมายจะปรากฏตัวออกมาเป็นบางครั้งเท่านั้น<FG>
+260,Side_Quest_Rumours,288,1188,16488,Master Electrician,ช่างไฟฟ้าขั้นเทพ
+260,Side_Quest_Rumours,289,1192,16507,Martial Master,ปรมาจารย์ศิลปะการต่อสู้
+260,Side_Quest_Rumours,290,1196,16522,"It is time to put your mastery of lightning to the test, my young disciple. If you complete this trial, return to me, and I shall impart to you a martial mystery most profound<FG>",ถึงเวลาทดสอบความเชี่ยวชาญในวิชาสายฟ้าของเจ้าแล้ว ศิษย์รัก หากเจ้าผ่านการทดสอบนี้ได้ จงกลับมาหาข้า แล้วข้าจะถ่ายทอดเคล็ดวิชาเพลงยุทธ์อันลึกซึ้งที่สุดให้แก่เจ้า<FG>
 260,Side_Quest_Rumours,291,1200,16701,,
-260,Side_Quest_Rumours,292,1204,16702,The Frosty Foothills,
-260,Side_Quest_Rumours,293,1208,16723,<F4><I0>00 will have to fly solo for this one<FG> Use <C9>Zap<R->based attacks <C9>only<R >or you're out<FG>,
+260,Side_Quest_Rumours,292,1204,16702,The Frosty Foothills,เชิงเขาเยือกแข็งฟรอสตี้
+260,Side_Quest_Rumours,293,1208,16723,<F4><I0>00 will have to fly solo for this one<FG> Use <C9>Zap<R->based attacks <C9>only<R >or you're out<FG>,<F4><I0>00 จะต้องลุยเดี่ยวเพียงลำพังในภารกิจนี้<FG> ใช้การโจมตีประเภท <C9>เดอิน<R-> <C9>เท่านั้น<R >ไม่อย่างนั้นจะถือว่าสอบตกทันที<FG>
 260,Side_Quest_Rumours,294,1212,16824,,
 260,Side_Quest_Rumours,295,1216,16825,,
 260,Side_Quest_Rumours,296,1220,16826,,

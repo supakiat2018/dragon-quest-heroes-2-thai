@@ -1,766 +1,766 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-50,Areas_Wilderness,0,36,6436,Greena Pastures,
-50,Areas_Wilderness,1,40,6452,Greena Pastures,
+50,Areas_Wilderness,0,36,6436,Greena Pastures,ทุ่งหญ้ากรีน่า
+50,Areas_Wilderness,1,40,6452,Greena Pastures,ทุ่งหญ้ากรีน่า
 50,Areas_Wilderness,2,44,6468,,
 50,Areas_Wilderness,3,48,6469,,
 50,Areas_Wilderness,4,52,6470,,
 50,Areas_Wilderness,5,56,6471,,
 50,Areas_Wilderness,6,60,6472,,
 50,Areas_Wilderness,7,64,6473,,
-50,Areas_Wilderness,8,68,6474,The Grand Dunes,
-50,Areas_Wilderness,9,72,6490,The Grand Dunes,
+50,Areas_Wilderness,8,68,6474,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
+50,Areas_Wilderness,9,72,6490,The Grand Dunes,เนินทรายยักษ์แกรนด์ดูนส์
 50,Areas_Wilderness,10,76,6506,,
 50,Areas_Wilderness,11,80,6507,,
 50,Areas_Wilderness,12,84,6508,,
 50,Areas_Wilderness,13,88,6509,,
 50,Areas_Wilderness,14,92,6510,,
 50,Areas_Wilderness,15,96,6511,,
-50,Areas_Wilderness,16,100,6512,The Lumberlands,
-50,Areas_Wilderness,17,104,6528,The Lumberlands,
+50,Areas_Wilderness,16,100,6512,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
+50,Areas_Wilderness,17,104,6528,The Lumberlands,ผืนป่าลัมเบอร์แลนด์
 50,Areas_Wilderness,18,108,6544,,
 50,Areas_Wilderness,19,112,6545,,
 50,Areas_Wilderness,20,116,6546,,
 50,Areas_Wilderness,21,120,6547,,
 50,Areas_Wilderness,22,124,6548,,
 50,Areas_Wilderness,23,128,6549,,
-50,Areas_Wilderness,24,132,6550,Redrock Ravine,
-50,Areas_Wilderness,25,136,6565,Redrock Ravine,
+50,Areas_Wilderness,24,132,6550,Redrock Ravine,หุบผาหินแดงเรดร็อก
+50,Areas_Wilderness,25,136,6565,Redrock Ravine,หุบผาหินแดงเรดร็อก
 50,Areas_Wilderness,26,140,6580,,
 50,Areas_Wilderness,27,144,6581,,
 50,Areas_Wilderness,28,148,6582,,
 50,Areas_Wilderness,29,152,6583,,
 50,Areas_Wilderness,30,156,6584,,
 50,Areas_Wilderness,31,160,6585,,
-50,Areas_Wilderness,32,164,6586,The Frosty Foothills,
-50,Areas_Wilderness,33,168,6607,The Frosty Foothills,
+50,Areas_Wilderness,32,164,6586,The Frosty Foothills,เชิงเขาเยือกแข็งฟรอสตี้
+50,Areas_Wilderness,33,168,6607,The Frosty Foothills,เชิงเขาเยือกแข็งฟรอสตี้
 50,Areas_Wilderness,34,172,6628,,
 50,Areas_Wilderness,35,176,6629,,
 50,Areas_Wilderness,36,180,6630,,
 50,Areas_Wilderness,37,184,6631,,
 50,Areas_Wilderness,38,188,6632,,
 50,Areas_Wilderness,39,192,6633,,
-50,Areas_Wilderness,40,196,6634,No Man's Land,
-50,Areas_Wilderness,41,200,6648,No Man's Land,
+50,Areas_Wilderness,40,196,6634,No Man's Land,แดนร้างไร้ผู้ครอบครอง
+50,Areas_Wilderness,41,200,6648,No Man's Land,แดนร้างไร้ผู้ครอบครอง
 50,Areas_Wilderness,42,204,6662,,
 50,Areas_Wilderness,43,208,6663,,
 50,Areas_Wilderness,44,212,6664,,
 50,Areas_Wilderness,45,216,6665,,
 50,Areas_Wilderness,46,220,6666,,
 50,Areas_Wilderness,47,224,6667,,
-50,Areas_Wilderness,48,228,6668,Barracks Backyard,
-50,Areas_Wilderness,49,232,6686,Barracks Backyard,
+50,Areas_Wilderness,48,228,6668,Barracks Backyard,ลานหลังค่ายทหาร
+50,Areas_Wilderness,49,232,6686,Barracks Backyard,ลานหลังค่ายทหาร
 50,Areas_Wilderness,50,236,6704,,
 50,Areas_Wilderness,51,240,6705,,
 50,Areas_Wilderness,52,244,6706,,
 50,Areas_Wilderness,53,248,6707,,
 50,Areas_Wilderness,54,252,6708,,
 50,Areas_Wilderness,55,256,6709,,
-50,Areas_Wilderness,56,260,6710,Gates of Harba,
-50,Areas_Wilderness,57,264,6725,Gates of Harba,
+50,Areas_Wilderness,56,260,6710,Gates of Harba,ประตูเมืองฮาร์บา
+50,Areas_Wilderness,57,264,6725,Gates of Harba,ประตูเมืองฮาร์บา
 50,Areas_Wilderness,58,268,6740,,
 50,Areas_Wilderness,59,272,6741,,
 50,Areas_Wilderness,60,276,6742,,
 50,Areas_Wilderness,61,280,6743,,
 50,Areas_Wilderness,62,284,6744,,
 50,Areas_Wilderness,63,288,6745,,
-50,Areas_Wilderness,64,292,6746,Streets of Harba,
-50,Areas_Wilderness,65,296,6763,Streets of Harba,
+50,Areas_Wilderness,64,292,6746,Streets of Harba,ถนนในเมืองฮาร์บา
+50,Areas_Wilderness,65,296,6763,Streets of Harba,ถนนในเมืองฮาร์บา
 50,Areas_Wilderness,66,300,6780,,
 50,Areas_Wilderness,67,304,6781,,
 50,Areas_Wilderness,68,308,6782,,
 50,Areas_Wilderness,69,312,6783,,
 50,Areas_Wilderness,70,316,6784,,
 50,Areas_Wilderness,71,320,6785,,
-50,Areas_Wilderness,72,324,6786,Dunisian Desert,
-50,Areas_Wilderness,73,328,6802,Dunisian Desert,
+50,Areas_Wilderness,72,324,6786,Dunisian Desert,ทะเลทรายดูนิเซีย
+50,Areas_Wilderness,73,328,6802,Dunisian Desert,ทะเลทรายดูนิเซีย
 50,Areas_Wilderness,74,332,6818,,
 50,Areas_Wilderness,75,336,6819,,
 50,Areas_Wilderness,76,340,6820,,
 50,Areas_Wilderness,77,344,6821,,
 50,Areas_Wilderness,78,348,6822,,
 50,Areas_Wilderness,79,352,6823,,
-50,Areas_Wilderness,80,356,6824,Dunisian Oilfields,
-50,Areas_Wilderness,81,360,6843,Dunisian Oilfields,
+50,Areas_Wilderness,80,356,6824,Dunisian Oilfields,แหล่งบ่อน้ำมันดูนิเซีย
+50,Areas_Wilderness,81,360,6843,Dunisian Oilfields,แหล่งบ่อน้ำมันดูนิเซีย
 50,Areas_Wilderness,82,364,6862,,
 50,Areas_Wilderness,83,368,6863,,
 50,Areas_Wilderness,84,372,6864,,
 50,Areas_Wilderness,85,376,6865,,
 50,Areas_Wilderness,86,380,6866,,
 50,Areas_Wilderness,87,384,6867,,
-50,Areas_Wilderness,88,388,6868,The Pyramid,
-50,Areas_Wilderness,89,392,6880,The Pyramid,
+50,Areas_Wilderness,88,388,6868,The Pyramid,พีระมิด
+50,Areas_Wilderness,89,392,6880,The Pyramid,พีระมิด
 50,Areas_Wilderness,90,396,6892,,
 50,Areas_Wilderness,91,400,6893,,
 50,Areas_Wilderness,92,404,6894,,
 50,Areas_Wilderness,93,408,6895,,
 50,Areas_Wilderness,94,412,6896,,
 50,Areas_Wilderness,95,416,6897,,
-50,Areas_Wilderness,96,420,6898,<FH><FH><FH>,
-50,Areas_Wilderness,97,424,6908,<FH><FH><FH>,
+50,Areas_Wilderness,96,420,6898,<FH><FH><FH>,<FH><FH><FH>
+50,Areas_Wilderness,97,424,6908,<FH><FH><FH>,<FH><FH><FH>
 50,Areas_Wilderness,98,428,6918,,
 50,Areas_Wilderness,99,432,6919,,
 50,Areas_Wilderness,100,436,6920,,
 50,Areas_Wilderness,101,440,6921,,
 50,Areas_Wilderness,102,444,6922,,
 50,Areas_Wilderness,103,448,6923,,
-50,Areas_Wilderness,104,452,6924,Ancient Ruins,
-50,Areas_Wilderness,105,456,6938,Ancient Ruins,
+50,Areas_Wilderness,104,452,6924,Ancient Ruins,ซากปรักหักพังโบราณ
+50,Areas_Wilderness,105,456,6938,Ancient Ruins,ซากปรักหักพังโบราณ
 50,Areas_Wilderness,106,460,6952,,
 50,Areas_Wilderness,107,464,6953,,
 50,Areas_Wilderness,108,468,6954,,
 50,Areas_Wilderness,109,472,6955,,
 50,Areas_Wilderness,110,476,6956,,
 50,Areas_Wilderness,111,480,6957,,
-50,Areas_Wilderness,112,484,6958,Tomb of Kings,
-50,Areas_Wilderness,113,488,6972,Tomb of Kings,
+50,Areas_Wilderness,112,484,6958,Tomb of Kings,สุสานแห่งกษัตริย์
+50,Areas_Wilderness,113,488,6972,Tomb of Kings,สุสานแห่งกษัตริย์
 50,Areas_Wilderness,114,492,6986,,
 50,Areas_Wilderness,115,496,6987,,
 50,Areas_Wilderness,116,500,6988,,
 50,Areas_Wilderness,117,504,6989,,
 50,Areas_Wilderness,118,508,6990,,
 50,Areas_Wilderness,119,512,6991,,
-50,Areas_Wilderness,120,516,6992,Tomb of the Sun,
-50,Areas_Wilderness,121,520,7008,Tomb of the Sun,
+50,Areas_Wilderness,120,516,6992,Tomb of the Sun,สุสานแห่งสุริยัน
+50,Areas_Wilderness,121,520,7008,Tomb of the Sun,สุสานแห่งสุริยัน
 50,Areas_Wilderness,122,524,7024,,
 50,Areas_Wilderness,123,528,7025,,
 50,Areas_Wilderness,124,532,7026,,
 50,Areas_Wilderness,125,536,7027,,
 50,Areas_Wilderness,126,540,7028,,
 50,Areas_Wilderness,127,544,7029,,
-50,Areas_Wilderness,128,548,7030,Tomb of the Sun,
-50,Areas_Wilderness,129,552,7046,Tomb of the Sun,
+50,Areas_Wilderness,128,548,7030,Tomb of the Sun,สุสานแห่งสุริยัน
+50,Areas_Wilderness,129,552,7046,Tomb of the Sun,สุสานแห่งสุริยัน
 50,Areas_Wilderness,130,556,7062,,
 50,Areas_Wilderness,131,560,7063,,
 50,Areas_Wilderness,132,564,7064,,
 50,Areas_Wilderness,133,568,7065,,
 50,Areas_Wilderness,134,572,7066,,
 50,Areas_Wilderness,135,576,7067,,
-50,Areas_Wilderness,136,580,7068,Outer Dunisia,
-50,Areas_Wilderness,137,584,7082,Outer Dunisia,
+50,Areas_Wilderness,136,580,7068,Outer Dunisia,ชานเมืองดูนิเซีย
+50,Areas_Wilderness,137,584,7082,Outer Dunisia,ชานเมืองดูนิเซีย
 50,Areas_Wilderness,138,588,7096,,
 50,Areas_Wilderness,139,592,7097,,
 50,Areas_Wilderness,140,596,7098,,
 50,Areas_Wilderness,141,600,7099,,
 50,Areas_Wilderness,142,604,7100,,
 50,Areas_Wilderness,143,608,7101,,
-50,Areas_Wilderness,144,612,7102,Outer Dunisia,
-50,Areas_Wilderness,145,616,7116,Outer Dunisia,
+50,Areas_Wilderness,144,612,7102,Outer Dunisia,ชานเมืองดูนิเซีย
+50,Areas_Wilderness,145,616,7116,Outer Dunisia,ชานเมืองดูนิเซีย
 50,Areas_Wilderness,146,620,7130,,
 50,Areas_Wilderness,147,624,7131,,
 50,Areas_Wilderness,148,628,7132,,
 50,Areas_Wilderness,149,632,7133,,
 50,Areas_Wilderness,150,636,7134,,
 50,Areas_Wilderness,151,640,7135,,
-50,Areas_Wilderness,152,644,7136,The Pyramid,
-50,Areas_Wilderness,153,648,7148,The Pyramid,
+50,Areas_Wilderness,152,644,7136,The Pyramid,พีระมิด
+50,Areas_Wilderness,153,648,7148,The Pyramid,พีระมิด
 50,Areas_Wilderness,154,652,7160,,
 50,Areas_Wilderness,155,656,7161,,
 50,Areas_Wilderness,156,660,7162,,
 50,Areas_Wilderness,157,664,7163,,
 50,Areas_Wilderness,158,668,7164,,
 50,Areas_Wilderness,159,672,7165,,
-50,Areas_Wilderness,160,676,7166,The Wildwood,
-50,Areas_Wilderness,161,680,7179,The Wildwood,
+50,Areas_Wilderness,160,676,7166,The Wildwood,ป่าดงดิบไวลด์วูด
+50,Areas_Wilderness,161,680,7179,The Wildwood,ป่าดงดิบไวลด์วูด
 50,Areas_Wilderness,162,684,7192,,
 50,Areas_Wilderness,163,688,7193,,
 50,Areas_Wilderness,164,692,7194,,
 50,Areas_Wilderness,165,696,7195,,
 50,Areas_Wilderness,166,700,7196,,
 50,Areas_Wilderness,167,704,7197,,
-50,Areas_Wilderness,168,708,7198,Unclearing<FI> Entrance,
-50,Areas_Wilderness,169,712,7221,Unclearing<FI> Entrance,
+50,Areas_Wilderness,168,708,7198,Unclearing<FI> Entrance,ทางเข้าป่าดงทึบอันเคลียริ่ง<FI>
+50,Areas_Wilderness,169,712,7221,Unclearing<FI> Entrance,ทางเข้าป่าดงทึบอันเคลียริ่ง<FI>
 50,Areas_Wilderness,170,716,7244,,
 50,Areas_Wilderness,171,720,7245,,
 50,Areas_Wilderness,172,724,7246,,
 50,Areas_Wilderness,173,728,7247,,
 50,Areas_Wilderness,174,732,7248,,
 50,Areas_Wilderness,175,736,7249,,
-50,Areas_Wilderness,176,740,7250,The Unclearing,
-50,Areas_Wilderness,177,744,7265,The Unclearing,
+50,Areas_Wilderness,176,740,7250,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,177,744,7265,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,178,748,7280,,
 50,Areas_Wilderness,179,752,7281,,
 50,Areas_Wilderness,180,756,7282,,
 50,Areas_Wilderness,181,760,7283,,
 50,Areas_Wilderness,182,764,7284,,
 50,Areas_Wilderness,183,768,7285,,
-50,Areas_Wilderness,184,772,7286,The Unclearing,
-50,Areas_Wilderness,185,776,7301,The Unclearing,
+50,Areas_Wilderness,184,772,7286,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,185,776,7301,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,186,780,7316,,
 50,Areas_Wilderness,187,784,7317,,
 50,Areas_Wilderness,188,788,7318,,
 50,Areas_Wilderness,189,792,7319,,
 50,Areas_Wilderness,190,796,7320,,
 50,Areas_Wilderness,191,800,7321,,
-50,Areas_Wilderness,192,804,7322,The Unclearing,
-50,Areas_Wilderness,193,808,7337,The Unclearing,
+50,Areas_Wilderness,192,804,7322,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,193,808,7337,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,194,812,7352,,
 50,Areas_Wilderness,195,816,7353,,
 50,Areas_Wilderness,196,820,7354,,
 50,Areas_Wilderness,197,824,7355,,
 50,Areas_Wilderness,198,828,7356,,
 50,Areas_Wilderness,199,832,7357,,
-50,Areas_Wilderness,200,836,7358,The Unclearing,
-50,Areas_Wilderness,201,840,7373,The Unclearing,
+50,Areas_Wilderness,200,836,7358,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,201,840,7373,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,202,844,7388,,
 50,Areas_Wilderness,203,848,7389,,
 50,Areas_Wilderness,204,852,7390,,
 50,Areas_Wilderness,205,856,7391,,
 50,Areas_Wilderness,206,860,7392,,
 50,Areas_Wilderness,207,864,7393,,
-50,Areas_Wilderness,208,868,7394,The Unclearing,
-50,Areas_Wilderness,209,872,7409,The Unclearing,
+50,Areas_Wilderness,208,868,7394,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,209,872,7409,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,210,876,7424,,
 50,Areas_Wilderness,211,880,7425,,
 50,Areas_Wilderness,212,884,7426,,
 50,Areas_Wilderness,213,888,7427,,
 50,Areas_Wilderness,214,892,7428,,
 50,Areas_Wilderness,215,896,7429,,
-50,Areas_Wilderness,216,900,7430,The Unclearing,
-50,Areas_Wilderness,217,904,7445,The Unclearing,
+50,Areas_Wilderness,216,900,7430,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,217,904,7445,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,218,908,7460,,
 50,Areas_Wilderness,219,912,7461,,
 50,Areas_Wilderness,220,916,7462,,
 50,Areas_Wilderness,221,920,7463,,
 50,Areas_Wilderness,222,924,7464,,
 50,Areas_Wilderness,223,928,7465,,
-50,Areas_Wilderness,224,932,7466,The Unclearing,
-50,Areas_Wilderness,225,936,7481,The Unclearing,
+50,Areas_Wilderness,224,932,7466,The Unclearing,ป่าดงทึบอันเคลียริ่ง
+50,Areas_Wilderness,225,936,7481,The Unclearing,ป่าดงทึบอันเคลียริ่ง
 50,Areas_Wilderness,226,940,7496,,
 50,Areas_Wilderness,227,944,7497,,
 50,Areas_Wilderness,228,948,7498,,
 50,Areas_Wilderness,229,952,7499,,
 50,Areas_Wilderness,230,956,7500,,
 50,Areas_Wilderness,231,960,7501,,
-50,Areas_Wilderness,232,964,7502,Unclearing<FI> Exit,
-50,Areas_Wilderness,233,968,7521,Unclearing<FI> Exit,
+50,Areas_Wilderness,232,964,7502,Unclearing<FI> Exit,ทางออกป่าดงทึบอันเคลียริ่ง<FI>
+50,Areas_Wilderness,233,968,7521,Unclearing<FI> Exit,ทางออกป่าดงทึบอันเคลียริ่ง<FI>
 50,Areas_Wilderness,234,972,7540,,
 50,Areas_Wilderness,235,976,7541,,
 50,Areas_Wilderness,236,980,7542,,
 50,Areas_Wilderness,237,984,7543,,
 50,Areas_Wilderness,238,988,7544,,
 50,Areas_Wilderness,239,992,7545,,
-50,Areas_Wilderness,240,996,7546,Boss's Bower,
-50,Areas_Wilderness,241,1000,7559,Boss's Bower,
+50,Areas_Wilderness,240,996,7546,Boss's Bower,รังหัวหน้าใหญ่
+50,Areas_Wilderness,241,1000,7559,Boss's Bower,รังหัวหน้าใหญ่
 50,Areas_Wilderness,242,1004,7572,,
 50,Areas_Wilderness,243,1008,7573,,
 50,Areas_Wilderness,244,1012,7574,,
 50,Areas_Wilderness,245,1016,7575,,
 50,Areas_Wilderness,246,1020,7576,,
 50,Areas_Wilderness,247,1024,7577,,
-50,Areas_Wilderness,248,1028,7578,Clearing,
-50,Areas_Wilderness,249,1032,7587,Clearing,
+50,Areas_Wilderness,248,1028,7578,Clearing,ลานโล่งกลางป่า
+50,Areas_Wilderness,249,1032,7587,Clearing,ลานโล่งกลางป่า
 50,Areas_Wilderness,250,1036,7596,,
 50,Areas_Wilderness,251,1040,7597,,
 50,Areas_Wilderness,252,1044,7598,,
 50,Areas_Wilderness,253,1048,7599,,
 50,Areas_Wilderness,254,1052,7600,,
 50,Areas_Wilderness,255,1056,7601,,
-50,Areas_Wilderness,256,1060,7602,The Wildwood,
-50,Areas_Wilderness,257,1064,7615,The Wildwood,
+50,Areas_Wilderness,256,1060,7602,The Wildwood,ป่าดงดิบไวลด์วูด
+50,Areas_Wilderness,257,1064,7615,The Wildwood,ป่าดงดิบไวลด์วูด
 50,Areas_Wilderness,258,1068,7628,,
 50,Areas_Wilderness,259,1072,7629,,
 50,Areas_Wilderness,260,1076,7630,,
 50,Areas_Wilderness,261,1080,7631,,
 50,Areas_Wilderness,262,1084,7632,,
 50,Areas_Wilderness,263,1088,7633,,
-50,Areas_Wilderness,264,1092,7634,The Wildwood,
-50,Areas_Wilderness,265,1096,7647,The Wildwood,
+50,Areas_Wilderness,264,1092,7634,The Wildwood,ป่าดงดิบไวลด์วูด
+50,Areas_Wilderness,265,1096,7647,The Wildwood,ป่าดงดิบไวลด์วูด
 50,Areas_Wilderness,266,1100,7660,,
 50,Areas_Wilderness,267,1104,7661,,
 50,Areas_Wilderness,268,1108,7662,,
 50,Areas_Wilderness,269,1112,7663,,
 50,Areas_Wilderness,270,1116,7664,,
 50,Areas_Wilderness,271,1120,7665,,
-50,Areas_Wilderness,272,1124,7666,The Wildwood,
-50,Areas_Wilderness,273,1128,7679,The Wildwood,
+50,Areas_Wilderness,272,1124,7666,The Wildwood,ป่าดงดิบไวลด์วูด
+50,Areas_Wilderness,273,1128,7679,The Wildwood,ป่าดงดิบไวลด์วูด
 50,Areas_Wilderness,274,1132,7692,,
 50,Areas_Wilderness,275,1136,7693,,
 50,Areas_Wilderness,276,1140,7694,,
 50,Areas_Wilderness,277,1144,7695,,
 50,Areas_Wilderness,278,1148,7696,,
 50,Areas_Wilderness,279,1152,7697,,
-50,Areas_Wilderness,280,1156,7698,Dank Dungeon,
-50,Areas_Wilderness,281,1160,7711,Dank Dungeon,
+50,Areas_Wilderness,280,1156,7698,Dank Dungeon,คุกใต้ดินอับชื้น
+50,Areas_Wilderness,281,1160,7711,Dank Dungeon,คุกใต้ดินอับชื้น
 50,Areas_Wilderness,282,1164,7724,,
 50,Areas_Wilderness,283,1168,7725,,
 50,Areas_Wilderness,284,1172,7726,,
 50,Areas_Wilderness,285,1176,7727,,
 50,Areas_Wilderness,286,1180,7728,,
 50,Areas_Wilderness,287,1184,7729,,
-50,Areas_Wilderness,288,1188,7730,Ingenia Castle,
-50,Areas_Wilderness,289,1192,7745,Ingenia Castle,
+50,Areas_Wilderness,288,1188,7730,Ingenia Castle,ปราสาทอินเกเนีย
+50,Areas_Wilderness,289,1192,7745,Ingenia Castle,ปราสาทอินเกเนีย
 50,Areas_Wilderness,290,1196,7760,,
 50,Areas_Wilderness,291,1200,7761,,
 50,Areas_Wilderness,292,1204,7762,,
 50,Areas_Wilderness,293,1208,7763,,
 50,Areas_Wilderness,294,1212,7764,,
 50,Areas_Wilderness,295,1216,7765,,
-50,Areas_Wilderness,296,1220,7766,Throne Room,
-50,Areas_Wilderness,297,1224,7778,Throne Room,
+50,Areas_Wilderness,296,1220,7766,Throne Room,ท้องพระโรง
+50,Areas_Wilderness,297,1224,7778,Throne Room,ท้องพระโรง
 50,Areas_Wilderness,298,1228,7790,,
 50,Areas_Wilderness,299,1232,7791,,
 50,Areas_Wilderness,300,1236,7792,,
 50,Areas_Wilderness,301,1240,7793,,
 50,Areas_Wilderness,302,1244,7794,,
 50,Areas_Wilderness,303,1248,7795,,
-50,Areas_Wilderness,304,1252,7796,Ingenia Castle,
-50,Areas_Wilderness,305,1256,7811,Ingenia Castle,
+50,Areas_Wilderness,304,1252,7796,Ingenia Castle,ปราสาทอินเกเนีย
+50,Areas_Wilderness,305,1256,7811,Ingenia Castle,ปราสาทอินเกเนีย
 50,Areas_Wilderness,306,1260,7826,,
 50,Areas_Wilderness,307,1264,7827,,
 50,Areas_Wilderness,308,1268,7828,,
 50,Areas_Wilderness,309,1272,7829,,
 50,Areas_Wilderness,310,1276,7830,,
 50,Areas_Wilderness,311,1280,7831,,
-50,Areas_Wilderness,312,1284,7832,Ingenia Castle,
-50,Areas_Wilderness,313,1288,7847,Ingenia Castle,
+50,Areas_Wilderness,312,1284,7832,Ingenia Castle,ปราสาทอินเกเนีย
+50,Areas_Wilderness,313,1288,7847,Ingenia Castle,ปราสาทอินเกเนีย
 50,Areas_Wilderness,314,1292,7862,,
 50,Areas_Wilderness,315,1296,7863,,
 50,Areas_Wilderness,316,1300,7864,,
 50,Areas_Wilderness,317,1304,7865,,
 50,Areas_Wilderness,318,1308,7866,,
 50,Areas_Wilderness,319,1312,7867,,
-50,Areas_Wilderness,320,1316,7868,Ingenia Castle,
-50,Areas_Wilderness,321,1320,7883,Ingenia Castle,
+50,Areas_Wilderness,320,1316,7868,Ingenia Castle,ปราสาทอินเกเนีย
+50,Areas_Wilderness,321,1320,7883,Ingenia Castle,ปราสาทอินเกเนีย
 50,Areas_Wilderness,322,1324,7898,,
 50,Areas_Wilderness,323,1328,7899,,
 50,Areas_Wilderness,324,1332,7900,,
 50,Areas_Wilderness,325,1336,7901,,
 50,Areas_Wilderness,326,1340,7902,,
 50,Areas_Wilderness,327,1344,7903,,
-50,Areas_Wilderness,328,1348,7904,Ingenia Castle,
-50,Areas_Wilderness,329,1352,7919,Ingenia Castle,
+50,Areas_Wilderness,328,1348,7904,Ingenia Castle,ปราสาทอินเกเนีย
+50,Areas_Wilderness,329,1352,7919,Ingenia Castle,ปราสาทอินเกเนีย
 50,Areas_Wilderness,330,1356,7934,,
 50,Areas_Wilderness,331,1360,7935,,
 50,Areas_Wilderness,332,1364,7936,,
 50,Areas_Wilderness,333,1368,7937,,
 50,Areas_Wilderness,334,1372,7938,,
 50,Areas_Wilderness,335,1376,7939,,
-50,Areas_Wilderness,336,1380,7940,Great Divide<FI> South,
-50,Areas_Wilderness,337,1384,7962,Great Divide<FI> South,
+50,Areas_Wilderness,336,1380,7940,Great Divide<FI> South,กำแพงแบ่งดินแดนใต้<FI>
+50,Areas_Wilderness,337,1384,7962,Great Divide<FI> South,กำแพงแบ่งดินแดนใต้<FI>
 50,Areas_Wilderness,338,1388,7984,,
 50,Areas_Wilderness,339,1392,7985,,
 50,Areas_Wilderness,340,1396,7986,,
 50,Areas_Wilderness,341,1400,7987,,
 50,Areas_Wilderness,342,1404,7988,,
 50,Areas_Wilderness,343,1408,7989,,
-50,Areas_Wilderness,344,1412,7990,The Great Divide,
-50,Areas_Wilderness,345,1416,8007,The Great Divide,
+50,Areas_Wilderness,344,1412,7990,The Great Divide,กำแพงแบ่งดินแดน
+50,Areas_Wilderness,345,1416,8007,The Great Divide,กำแพงแบ่งดินแดน
 50,Areas_Wilderness,346,1420,8024,,
 50,Areas_Wilderness,347,1424,8025,,
 50,Areas_Wilderness,348,1428,8026,,
 50,Areas_Wilderness,349,1432,8027,,
 50,Areas_Wilderness,350,1436,8028,,
 50,Areas_Wilderness,351,1440,8029,,
-50,Areas_Wilderness,352,1444,8030,Al-Khazami Outpost,
-50,Areas_Wilderness,353,1448,8049,Al-Khazami Outpost,
+50,Areas_Wilderness,352,1444,8030,Al-Khazami Outpost,ด่านหน้าอัลคาซาม
+50,Areas_Wilderness,353,1448,8049,Al-Khazami Outpost,ด่านหน้าอัลคาซาม
 50,Areas_Wilderness,354,1452,8068,,
 50,Areas_Wilderness,355,1456,8069,,
 50,Areas_Wilderness,356,1460,8070,,
 50,Areas_Wilderness,357,1464,8071,,
 50,Areas_Wilderness,358,1468,8072,,
 50,Areas_Wilderness,359,1472,8073,,
-50,Areas_Wilderness,360,1476,8074,The Great Divide,
-50,Areas_Wilderness,361,1480,8091,The Great Divide,
+50,Areas_Wilderness,360,1476,8074,The Great Divide,กำแพงแบ่งดินแดน
+50,Areas_Wilderness,361,1480,8091,The Great Divide,กำแพงแบ่งดินแดน
 50,Areas_Wilderness,362,1484,8108,,
 50,Areas_Wilderness,363,1488,8109,,
 50,Areas_Wilderness,364,1492,8110,,
 50,Areas_Wilderness,365,1496,8111,,
 50,Areas_Wilderness,366,1500,8112,,
 50,Areas_Wilderness,367,1504,8113,,
-50,Areas_Wilderness,368,1508,8114,Great Divide<FI> Centre,
-50,Areas_Wilderness,369,1512,8137,Great Divide<FI> Centre,
+50,Areas_Wilderness,368,1508,8114,Great Divide<FI> Centre,กำแพงแบ่งดินแดนกลาง<FI>
+50,Areas_Wilderness,369,1512,8137,Great Divide<FI> Centre,กำแพงแบ่งดินแดนกลาง<FI>
 50,Areas_Wilderness,370,1516,8160,,
 50,Areas_Wilderness,371,1520,8161,,
 50,Areas_Wilderness,372,1524,8162,,
 50,Areas_Wilderness,373,1528,8163,,
 50,Areas_Wilderness,374,1532,8164,,
 50,Areas_Wilderness,375,1536,8165,,
-50,Areas_Wilderness,376,1540,8166,Great Divide<FI> East,
-50,Areas_Wilderness,377,1544,8187,Great Divide<FI> East,
+50,Areas_Wilderness,376,1540,8166,Great Divide<FI> East,กำแพงแบ่งดินแดนตะวันออก<FI>
+50,Areas_Wilderness,377,1544,8187,Great Divide<FI> East,กำแพงแบ่งดินแดนตะวันออก<FI>
 50,Areas_Wilderness,378,1548,8208,,
 50,Areas_Wilderness,379,1552,8209,,
 50,Areas_Wilderness,380,1556,8210,,
 50,Areas_Wilderness,381,1560,8211,,
 50,Areas_Wilderness,382,1564,8212,,
 50,Areas_Wilderness,383,1568,8213,,
-50,Areas_Wilderness,384,1572,8214,Great Divide<FI> West,
-50,Areas_Wilderness,385,1576,8235,Great Divide<FI> West,
+50,Areas_Wilderness,384,1572,8214,Great Divide<FI> West,กำแพงแบ่งดินแดนตะวันตก<FI>
+50,Areas_Wilderness,385,1576,8235,Great Divide<FI> West,กำแพงแบ่งดินแดนตะวันตก<FI>
 50,Areas_Wilderness,386,1580,8256,,
 50,Areas_Wilderness,387,1584,8257,,
 50,Areas_Wilderness,388,1588,8258,,
 50,Areas_Wilderness,389,1592,8259,,
 50,Areas_Wilderness,390,1596,8260,,
 50,Areas_Wilderness,391,1600,8261,,
-50,Areas_Wilderness,392,1604,8262,Al-Khazami Outpost,
-50,Areas_Wilderness,393,1608,8281,Al-Khazami Outpost,
+50,Areas_Wilderness,392,1604,8262,Al-Khazami Outpost,ด่านหน้าอัลคาซาม
+50,Areas_Wilderness,393,1608,8281,Al-Khazami Outpost,ด่านหน้าอัลคาซาม
 50,Areas_Wilderness,394,1612,8300,,
 50,Areas_Wilderness,395,1616,8301,,
 50,Areas_Wilderness,396,1620,8302,,
 50,Areas_Wilderness,397,1624,8303,,
 50,Areas_Wilderness,398,1628,8304,,
 50,Areas_Wilderness,399,1632,8305,,
-50,Areas_Wilderness,400,1636,8306,The Great Divide,
-50,Areas_Wilderness,401,1640,8323,The Great Divide,
+50,Areas_Wilderness,400,1636,8306,The Great Divide,กำแพงแบ่งดินแดน
+50,Areas_Wilderness,401,1640,8323,The Great Divide,กำแพงแบ่งดินแดน
 50,Areas_Wilderness,402,1644,8340,,
 50,Areas_Wilderness,403,1648,8341,,
 50,Areas_Wilderness,404,1652,8342,,
 50,Areas_Wilderness,405,1656,8343,,
 50,Areas_Wilderness,406,1660,8344,,
 50,Areas_Wilderness,407,1664,8345,,
-50,Areas_Wilderness,408,1668,8346,Glacial Grotto,
-50,Areas_Wilderness,409,1672,8361,Glacial Grotto,
+50,Areas_Wilderness,408,1668,8346,Glacial Grotto,ถ้ำธารน้ำแข็ง
+50,Areas_Wilderness,409,1672,8361,Glacial Grotto,ถ้ำธารน้ำแข็ง
 50,Areas_Wilderness,410,1676,8376,,
 50,Areas_Wilderness,411,1680,8377,,
 50,Areas_Wilderness,412,1684,8378,,
 50,Areas_Wilderness,413,1688,8379,,
 50,Areas_Wilderness,414,1692,8380,,
 50,Areas_Wilderness,415,1696,8381,,
-50,Areas_Wilderness,416,1700,8382,Mt Neverest,
-50,Areas_Wilderness,417,1704,8394,Mt Neverest,
+50,Areas_Wilderness,416,1700,8382,Mt Neverest,ภูเขาเนเวอเรสต์
+50,Areas_Wilderness,417,1704,8394,Mt Neverest,ภูเขาเนเวอเรสต์
 50,Areas_Wilderness,418,1708,8406,,
 50,Areas_Wilderness,419,1712,8407,,
 50,Areas_Wilderness,420,1716,8408,,
 50,Areas_Wilderness,421,1720,8409,,
 50,Areas_Wilderness,422,1724,8410,,
 50,Areas_Wilderness,423,1728,8411,,
-50,Areas_Wilderness,424,1732,8412,Mt Neverest<FI> Summit,
-50,Areas_Wilderness,425,1736,8434,Mt Neverest<FI> Summit,
+50,Areas_Wilderness,424,1732,8412,Mt Neverest<FI> Summit,ยอดเขาเนเวอเรสต์<FI>
+50,Areas_Wilderness,425,1736,8434,Mt Neverest<FI> Summit,ยอดเขาเนเวอเรสต์<FI>
 50,Areas_Wilderness,426,1740,8456,,
 50,Areas_Wilderness,427,1744,8457,,
 50,Areas_Wilderness,428,1748,8458,,
 50,Areas_Wilderness,429,1752,8459,,
 50,Areas_Wilderness,430,1756,8460,,
 50,Areas_Wilderness,431,1760,8461,,
-50,Areas_Wilderness,432,1764,8462,Gragwort's Grotto,
-50,Areas_Wilderness,433,1768,8480,Gragwort's Grotto,
+50,Areas_Wilderness,432,1764,8462,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
+50,Areas_Wilderness,433,1768,8480,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
 50,Areas_Wilderness,434,1772,8498,,
 50,Areas_Wilderness,435,1776,8499,,
 50,Areas_Wilderness,436,1780,8500,,
 50,Areas_Wilderness,437,1784,8501,,
 50,Areas_Wilderness,438,1788,8502,,
 50,Areas_Wilderness,439,1792,8503,,
-50,Areas_Wilderness,440,1796,8504,Mt Neverest,
-50,Areas_Wilderness,441,1800,8516,Mt Neverest,
+50,Areas_Wilderness,440,1796,8504,Mt Neverest,ภูเขาเนเวอเรสต์
+50,Areas_Wilderness,441,1800,8516,Mt Neverest,ภูเขาเนเวอเรสต์
 50,Areas_Wilderness,442,1804,8528,,
 50,Areas_Wilderness,443,1808,8529,,
 50,Areas_Wilderness,444,1812,8530,,
 50,Areas_Wilderness,445,1816,8531,,
 50,Areas_Wilderness,446,1820,8532,,
 50,Areas_Wilderness,447,1824,8533,,
-50,Areas_Wilderness,448,1828,8534,Mt Neverest,
-50,Areas_Wilderness,449,1832,8546,Mt Neverest,
+50,Areas_Wilderness,448,1828,8534,Mt Neverest,ภูเขาเนเวอเรสต์
+50,Areas_Wilderness,449,1832,8546,Mt Neverest,ภูเขาเนเวอเรสต์
 50,Areas_Wilderness,450,1836,8558,,
 50,Areas_Wilderness,451,1840,8559,,
 50,Areas_Wilderness,452,1844,8560,,
 50,Areas_Wilderness,453,1848,8561,,
 50,Areas_Wilderness,454,1852,8562,,
 50,Areas_Wilderness,455,1856,8563,,
-50,Areas_Wilderness,456,1860,8564,City Square,
-50,Areas_Wilderness,457,1864,8576,City Square,
+50,Areas_Wilderness,456,1860,8564,City Square,ลานจัตุรัสกลางเมือง
+50,Areas_Wilderness,457,1864,8576,City Square,ลานจัตุรัสกลางเมือง
 50,Areas_Wilderness,458,1868,8588,,
 50,Areas_Wilderness,459,1872,8589,,
 50,Areas_Wilderness,460,1876,8590,,
 50,Areas_Wilderness,461,1880,8591,,
 50,Areas_Wilderness,462,1884,8592,,
 50,Areas_Wilderness,463,1888,8593,,
-50,Areas_Wilderness,464,1892,8594,Streets of Accordia,
-50,Areas_Wilderness,465,1896,8614,Streets of Accordia,
+50,Areas_Wilderness,464,1892,8594,Streets of Accordia,ถนนในเมืองออร์คาเนีย
+50,Areas_Wilderness,465,1896,8614,Streets of Accordia,ถนนในเมืองออร์คาเนีย
 50,Areas_Wilderness,466,1900,8634,,
 50,Areas_Wilderness,467,1904,8635,,
 50,Areas_Wilderness,468,1908,8636,,
 50,Areas_Wilderness,469,1912,8637,,
 50,Areas_Wilderness,470,1916,8638,,
 50,Areas_Wilderness,471,1920,8639,,
-50,Areas_Wilderness,472,1924,8640,Streets of Accordia,
-50,Areas_Wilderness,473,1928,8660,Streets of Accordia,
+50,Areas_Wilderness,472,1924,8640,Streets of Accordia,ถนนในเมืองออร์คาเนีย
+50,Areas_Wilderness,473,1928,8660,Streets of Accordia,ถนนในเมืองออร์คาเนีย
 50,Areas_Wilderness,474,1932,8680,,
 50,Areas_Wilderness,475,1936,8681,,
 50,Areas_Wilderness,476,1940,8682,,
 50,Areas_Wilderness,477,1944,8683,,
 50,Areas_Wilderness,478,1948,8684,,
 50,Areas_Wilderness,479,1952,8685,,
-50,Areas_Wilderness,480,1956,8686,Streets of Accordia,
-50,Areas_Wilderness,481,1960,8706,Streets of Accordia,
+50,Areas_Wilderness,480,1956,8686,Streets of Accordia,ถนนในเมืองออร์คาเนีย
+50,Areas_Wilderness,481,1960,8706,Streets of Accordia,ถนนในเมืองออร์คาเนีย
 50,Areas_Wilderness,482,1964,8726,,
 50,Areas_Wilderness,483,1968,8727,,
 50,Areas_Wilderness,484,1972,8728,,
 50,Areas_Wilderness,485,1976,8729,,
 50,Areas_Wilderness,486,1980,8730,,
 50,Areas_Wilderness,487,1984,8731,,
-50,Areas_Wilderness,488,1988,8732,Level 1,
-50,Areas_Wilderness,489,1992,8740,Level 1,
+50,Areas_Wilderness,488,1988,8732,Level 1,ชั้น 1
+50,Areas_Wilderness,489,1992,8740,Level 1,ชั้น 1
 50,Areas_Wilderness,490,1996,8748,,
 50,Areas_Wilderness,491,2000,8749,,
 50,Areas_Wilderness,492,2004,8750,,
 50,Areas_Wilderness,493,2008,8751,,
 50,Areas_Wilderness,494,2012,8752,,
 50,Areas_Wilderness,495,2016,8753,,
-50,Areas_Wilderness,496,2020,8754,Level 2,
-50,Areas_Wilderness,497,2024,8762,Level 2,
+50,Areas_Wilderness,496,2020,8754,Level 2,ชั้น 2
+50,Areas_Wilderness,497,2024,8762,Level 2,ชั้น 2
 50,Areas_Wilderness,498,2028,8770,,
 50,Areas_Wilderness,499,2032,8771,,
 50,Areas_Wilderness,500,2036,8772,,
 50,Areas_Wilderness,501,2040,8773,,
 50,Areas_Wilderness,502,2044,8774,,
 50,Areas_Wilderness,503,2048,8775,,
-50,Areas_Wilderness,504,2052,8776,Level 3,
-50,Areas_Wilderness,505,2056,8784,Level 3,
+50,Areas_Wilderness,504,2052,8776,Level 3,ชั้น 3
+50,Areas_Wilderness,505,2056,8784,Level 3,ชั้น 3
 50,Areas_Wilderness,506,2060,8792,,
 50,Areas_Wilderness,507,2064,8793,,
 50,Areas_Wilderness,508,2068,8794,,
 50,Areas_Wilderness,509,2072,8795,,
 50,Areas_Wilderness,510,2076,8796,,
 50,Areas_Wilderness,511,2080,8797,,
-50,Areas_Wilderness,512,2084,8798,Level 4,
-50,Areas_Wilderness,513,2088,8806,Level 4,
+50,Areas_Wilderness,512,2084,8798,Level 4,ชั้น 4
+50,Areas_Wilderness,513,2088,8806,Level 4,ชั้น 4
 50,Areas_Wilderness,514,2092,8814,,
 50,Areas_Wilderness,515,2096,8815,,
 50,Areas_Wilderness,516,2100,8816,,
 50,Areas_Wilderness,517,2104,8817,,
 50,Areas_Wilderness,518,2108,8818,,
 50,Areas_Wilderness,519,2112,8819,,
-50,Areas_Wilderness,520,2116,8820,Level 5,
-50,Areas_Wilderness,521,2120,8828,Level 5,
+50,Areas_Wilderness,520,2116,8820,Level 5,ชั้น 5
+50,Areas_Wilderness,521,2120,8828,Level 5,ชั้น 5
 50,Areas_Wilderness,522,2124,8836,,
 50,Areas_Wilderness,523,2128,8837,,
 50,Areas_Wilderness,524,2132,8838,,
 50,Areas_Wilderness,525,2136,8839,,
 50,Areas_Wilderness,526,2140,8840,,
 50,Areas_Wilderness,527,2144,8841,,
-50,Areas_Wilderness,528,2148,8842,Level 6,
-50,Areas_Wilderness,529,2152,8850,Level 6,
+50,Areas_Wilderness,528,2148,8842,Level 6,ชั้น 6
+50,Areas_Wilderness,529,2152,8850,Level 6,ชั้น 6
 50,Areas_Wilderness,530,2156,8858,,
 50,Areas_Wilderness,531,2160,8859,,
 50,Areas_Wilderness,532,2164,8860,,
 50,Areas_Wilderness,533,2168,8861,,
 50,Areas_Wilderness,534,2172,8862,,
 50,Areas_Wilderness,535,2176,8863,,
-50,Areas_Wilderness,536,2180,8864,<FH><FH><FH>,
-50,Areas_Wilderness,537,2184,8874,<FH><FH><FH>,
+50,Areas_Wilderness,536,2180,8864,<FH><FH><FH>,<FH><FH><FH>
+50,Areas_Wilderness,537,2184,8874,<FH><FH><FH>,<FH><FH><FH>
 50,Areas_Wilderness,538,2188,8884,,
 50,Areas_Wilderness,539,2192,8885,,
 50,Areas_Wilderness,540,2196,8886,,
 50,Areas_Wilderness,541,2200,8887,,
 50,Areas_Wilderness,542,2204,8888,,
 50,Areas_Wilderness,543,2208,8889,,
-50,Areas_Wilderness,544,2212,8890,The Pinnacle of Peace,
-50,Areas_Wilderness,545,2216,8912,The Pinnacle of Peace,
+50,Areas_Wilderness,544,2212,8890,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
+50,Areas_Wilderness,545,2216,8912,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
 50,Areas_Wilderness,546,2220,8934,,
 50,Areas_Wilderness,547,2224,8935,,
 50,Areas_Wilderness,548,2228,8936,,
 50,Areas_Wilderness,549,2232,8937,,
 50,Areas_Wilderness,550,2236,8938,,
 50,Areas_Wilderness,551,2240,8939,,
-50,Areas_Wilderness,552,2244,8940,Pinnacle Passageway,
-50,Areas_Wilderness,553,2248,8960,Pinnacle Passageway,
+50,Areas_Wilderness,552,2244,8940,Pinnacle Passageway,ทางเดินยอดพสุธา
+50,Areas_Wilderness,553,2248,8960,Pinnacle Passageway,ทางเดินยอดพสุธา
 50,Areas_Wilderness,554,2252,8980,,
 50,Areas_Wilderness,555,2256,8981,,
 50,Areas_Wilderness,556,2260,8982,,
 50,Areas_Wilderness,557,2264,8983,,
 50,Areas_Wilderness,558,2268,8984,,
 50,Areas_Wilderness,559,2272,8985,,
-50,Areas_Wilderness,560,2276,8986,Royal Chambers,
-50,Areas_Wilderness,561,2280,9001,Royal Chambers,
+50,Areas_Wilderness,560,2276,8986,Royal Chambers,ห้องประทับขององค์กษัตริย์
+50,Areas_Wilderness,561,2280,9001,Royal Chambers,ห้องประทับขององค์กษัตริย์
 50,Areas_Wilderness,562,2284,9016,,
 50,Areas_Wilderness,563,2288,9017,,
 50,Areas_Wilderness,564,2292,9018,,
 50,Areas_Wilderness,565,2296,9019,,
 50,Areas_Wilderness,566,2300,9020,,
 50,Areas_Wilderness,567,2304,9021,,
-50,Areas_Wilderness,568,2308,9022,The Pinnacle of Peace,
-50,Areas_Wilderness,569,2312,9044,The Pinnacle of Peace,
+50,Areas_Wilderness,568,2308,9022,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
+50,Areas_Wilderness,569,2312,9044,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
 50,Areas_Wilderness,570,2316,9066,,
 50,Areas_Wilderness,571,2320,9067,,
 50,Areas_Wilderness,572,2324,9068,,
 50,Areas_Wilderness,573,2328,9069,,
 50,Areas_Wilderness,574,2332,9070,,
 50,Areas_Wilderness,575,2336,9071,,
-50,Areas_Wilderness,576,2340,9072,<FH><FH><FH>,
-50,Areas_Wilderness,577,2344,9082,<FH><FH><FH>,
+50,Areas_Wilderness,576,2340,9072,<FH><FH><FH>,<FH><FH><FH>
+50,Areas_Wilderness,577,2344,9082,<FH><FH><FH>,<FH><FH><FH>
 50,Areas_Wilderness,578,2348,9092,,
 50,Areas_Wilderness,579,2352,9093,,
 50,Areas_Wilderness,580,2356,9094,,
 50,Areas_Wilderness,581,2360,9095,,
 50,Areas_Wilderness,582,2364,9096,,
 50,Areas_Wilderness,583,2368,9097,,
-50,Areas_Wilderness,584,2372,9098,Black Manse<FI> Base,
-50,Areas_Wilderness,585,2376,9118,Black Manse<FI> Base,
+50,Areas_Wilderness,584,2372,9098,Black Manse<FI> Base,ฐานคฤหาสน์ทมิฬ<FI>
+50,Areas_Wilderness,585,2376,9118,Black Manse<FI> Base,ฐานคฤหาสน์ทมิฬ<FI>
 50,Areas_Wilderness,586,2380,9138,,
 50,Areas_Wilderness,587,2384,9139,,
 50,Areas_Wilderness,588,2388,9140,,
 50,Areas_Wilderness,589,2392,9141,,
 50,Areas_Wilderness,590,2396,9142,,
 50,Areas_Wilderness,591,2400,9143,,
-50,Areas_Wilderness,592,2404,9144,Lair of the Gatekeepers,
-50,Areas_Wilderness,593,2408,9168,Lair of the Gatekeepers,
+50,Areas_Wilderness,592,2404,9144,Lair of the Gatekeepers,รังของผู้เฝ้าประตู
+50,Areas_Wilderness,593,2408,9168,Lair of the Gatekeepers,รังของผู้เฝ้าประตู
 50,Areas_Wilderness,594,2412,9192,,
 50,Areas_Wilderness,595,2416,9193,,
 50,Areas_Wilderness,596,2420,9194,,
 50,Areas_Wilderness,597,2424,9195,,
 50,Areas_Wilderness,598,2428,9196,,
 50,Areas_Wilderness,599,2432,9197,,
-50,Areas_Wilderness,600,2436,9198,The Black Manse,
-50,Areas_Wilderness,601,2440,9214,The Black Manse,
+50,Areas_Wilderness,600,2436,9198,The Black Manse,คฤหาสน์ทมิฬ
+50,Areas_Wilderness,601,2440,9214,The Black Manse,คฤหาสน์ทมิฬ
 50,Areas_Wilderness,602,2444,9230,,
 50,Areas_Wilderness,603,2448,9231,,
 50,Areas_Wilderness,604,2452,9232,,
 50,Areas_Wilderness,605,2456,9233,,
 50,Areas_Wilderness,606,2460,9234,,
 50,Areas_Wilderness,607,2464,9235,,
-50,Areas_Wilderness,608,2468,9236,<FH><FH><FH>,
-50,Areas_Wilderness,609,2472,9246,<FH><FH><FH>,
+50,Areas_Wilderness,608,2468,9236,<FH><FH><FH>,<FH><FH><FH>
+50,Areas_Wilderness,609,2472,9246,<FH><FH><FH>,<FH><FH><FH>
 50,Areas_Wilderness,610,2476,9256,,
 50,Areas_Wilderness,611,2480,9257,,
 50,Areas_Wilderness,612,2484,9258,,
 50,Areas_Wilderness,613,2488,9259,,
 50,Areas_Wilderness,614,2492,9260,,
 50,Areas_Wilderness,615,2496,9261,,
-50,Areas_Wilderness,616,2500,9262,Suspicious Bushes,
-50,Areas_Wilderness,617,2504,9280,Suspicious Bushes,
+50,Areas_Wilderness,616,2500,9262,Suspicious Bushes,พุ่มไม้ต้องสงสัย
+50,Areas_Wilderness,617,2504,9280,Suspicious Bushes,พุ่มไม้ต้องสงสัย
 50,Areas_Wilderness,618,2508,9298,,
 50,Areas_Wilderness,619,2512,9299,,
 50,Areas_Wilderness,620,2516,9300,,
 50,Areas_Wilderness,621,2520,9301,,
 50,Areas_Wilderness,622,2524,9302,,
 50,Areas_Wilderness,623,2528,9303,,
-50,Areas_Wilderness,624,2532,9304,Level 1,
-50,Areas_Wilderness,625,2536,9312,Level 1,
+50,Areas_Wilderness,624,2532,9304,Level 1,ชั้น 1
+50,Areas_Wilderness,625,2536,9312,Level 1,ชั้น 1
 50,Areas_Wilderness,626,2540,9320,,
 50,Areas_Wilderness,627,2544,9321,,
 50,Areas_Wilderness,628,2548,9322,,
 50,Areas_Wilderness,629,2552,9323,,
 50,Areas_Wilderness,630,2556,9324,,
 50,Areas_Wilderness,631,2560,9325,,
-50,Areas_Wilderness,632,2564,9326,Level 2,
-50,Areas_Wilderness,633,2568,9334,Level 2,
+50,Areas_Wilderness,632,2564,9326,Level 2,ชั้น 2
+50,Areas_Wilderness,633,2568,9334,Level 2,ชั้น 2
 50,Areas_Wilderness,634,2572,9342,,
 50,Areas_Wilderness,635,2576,9343,,
 50,Areas_Wilderness,636,2580,9344,,
 50,Areas_Wilderness,637,2584,9345,,
 50,Areas_Wilderness,638,2588,9346,,
 50,Areas_Wilderness,639,2592,9347,,
-50,Areas_Wilderness,640,2596,9348,Level 3,
-50,Areas_Wilderness,641,2600,9356,Level 3,
+50,Areas_Wilderness,640,2596,9348,Level 3,ชั้น 3
+50,Areas_Wilderness,641,2600,9356,Level 3,ชั้น 3
 50,Areas_Wilderness,642,2604,9364,,
 50,Areas_Wilderness,643,2608,9365,,
 50,Areas_Wilderness,644,2612,9366,,
 50,Areas_Wilderness,645,2616,9367,,
 50,Areas_Wilderness,646,2620,9368,,
 50,Areas_Wilderness,647,2624,9369,,
-50,Areas_Wilderness,648,2628,9370,Level 4,
-50,Areas_Wilderness,649,2632,9378,Level 4,
+50,Areas_Wilderness,648,2628,9370,Level 4,ชั้น 4
+50,Areas_Wilderness,649,2632,9378,Level 4,ชั้น 4
 50,Areas_Wilderness,650,2636,9386,,
 50,Areas_Wilderness,651,2640,9387,,
 50,Areas_Wilderness,652,2644,9388,,
 50,Areas_Wilderness,653,2648,9389,,
 50,Areas_Wilderness,654,2652,9390,,
 50,Areas_Wilderness,655,2656,9391,,
-50,Areas_Wilderness,656,2660,9392,Level 5,
-50,Areas_Wilderness,657,2664,9400,Level 5,
+50,Areas_Wilderness,656,2660,9392,Level 5,ชั้น 5
+50,Areas_Wilderness,657,2664,9400,Level 5,ชั้น 5
 50,Areas_Wilderness,658,2668,9408,,
 50,Areas_Wilderness,659,2672,9409,,
 50,Areas_Wilderness,660,2676,9410,,
 50,Areas_Wilderness,661,2680,9411,,
 50,Areas_Wilderness,662,2684,9412,,
 50,Areas_Wilderness,663,2688,9413,,
-50,Areas_Wilderness,664,2692,9414,Level 6,
-50,Areas_Wilderness,665,2696,9422,Level 6,
+50,Areas_Wilderness,664,2692,9414,Level 6,ชั้น 6
+50,Areas_Wilderness,665,2696,9422,Level 6,ชั้น 6
 50,Areas_Wilderness,666,2700,9430,,
 50,Areas_Wilderness,667,2704,9431,,
 50,Areas_Wilderness,668,2708,9432,,
 50,Areas_Wilderness,669,2712,9433,,
 50,Areas_Wilderness,670,2716,9434,,
 50,Areas_Wilderness,671,2720,9435,,
-50,Areas_Wilderness,672,2724,9436,The Great Spiral Stair,
-50,Areas_Wilderness,673,2728,9459,The Great Spiral Stair,
+50,Areas_Wilderness,672,2724,9436,The Great Spiral Stair,บันไดวนยักษ์
+50,Areas_Wilderness,673,2728,9459,The Great Spiral Stair,บันไดวนยักษ์
 50,Areas_Wilderness,674,2732,9482,,
 50,Areas_Wilderness,675,2736,9483,,
 50,Areas_Wilderness,676,2740,9484,,
 50,Areas_Wilderness,677,2744,9485,,
 50,Areas_Wilderness,678,2748,9486,,
 50,Areas_Wilderness,679,2752,9487,,
-50,Areas_Wilderness,680,2756,9488,The Pinnacle's Pinnacle,
-50,Areas_Wilderness,681,2760,9512,The Pinnacle's Pinnacle,
+50,Areas_Wilderness,680,2756,9488,The Pinnacle's Pinnacle,ยอดสูงสุดแห่งยอดพสุธา
+50,Areas_Wilderness,681,2760,9512,The Pinnacle's Pinnacle,ยอดสูงสุดแห่งยอดพสุธา
 50,Areas_Wilderness,682,2764,9536,,
 50,Areas_Wilderness,683,2768,9537,,
 50,Areas_Wilderness,684,2772,9538,,
 50,Areas_Wilderness,685,2776,9539,,
 50,Areas_Wilderness,686,2780,9540,,
 50,Areas_Wilderness,687,2784,9541,,
-50,Areas_Wilderness,688,2788,9542,The Pinnacle of Peace,
-50,Areas_Wilderness,689,2792,9564,The Pinnacle of Peace,
+50,Areas_Wilderness,688,2788,9542,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
+50,Areas_Wilderness,689,2792,9564,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
 50,Areas_Wilderness,690,2796,9586,,
 50,Areas_Wilderness,691,2800,9587,,
 50,Areas_Wilderness,692,2804,9588,,
 50,Areas_Wilderness,693,2808,9589,,
 50,Areas_Wilderness,694,2812,9590,,
 50,Areas_Wilderness,695,2816,9591,,
-50,Areas_Wilderness,696,2820,9592,Black Manse<FI> Top,
-50,Areas_Wilderness,697,2824,9611,Black Manse<FI> Top,
+50,Areas_Wilderness,696,2820,9592,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
+50,Areas_Wilderness,697,2824,9611,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
 50,Areas_Wilderness,698,2828,9630,,
 50,Areas_Wilderness,699,2832,9631,,
 50,Areas_Wilderness,700,2836,9632,,
 50,Areas_Wilderness,701,2840,9633,,
 50,Areas_Wilderness,702,2844,9634,,
 50,Areas_Wilderness,703,2848,9635,,
-50,Areas_Wilderness,704,2852,9636,Black Manse<FI> Top,
-50,Areas_Wilderness,705,2856,9655,Black Manse<FI> Top,
+50,Areas_Wilderness,704,2852,9636,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
+50,Areas_Wilderness,705,2856,9655,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
 50,Areas_Wilderness,706,2860,9674,,
 50,Areas_Wilderness,707,2864,9675,,
 50,Areas_Wilderness,708,2868,9676,,
 50,Areas_Wilderness,709,2872,9677,,
 50,Areas_Wilderness,710,2876,9678,,
 50,Areas_Wilderness,711,2880,9679,,
-50,Areas_Wilderness,712,2884,9680,Black Manse<FI> Top,
-50,Areas_Wilderness,713,2888,9699,Black Manse<FI> Top,
+50,Areas_Wilderness,712,2884,9680,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
+50,Areas_Wilderness,713,2888,9699,Black Manse<FI> Top,ยอดคฤหาสน์ทมิฬ<FI>
 50,Areas_Wilderness,714,2892,9718,,
 50,Areas_Wilderness,715,2896,9719,,
 50,Areas_Wilderness,716,2900,9720,,
 50,Areas_Wilderness,717,2904,9721,,
 50,Areas_Wilderness,718,2908,9722,,
 50,Areas_Wilderness,719,2912,9723,,
-50,Areas_Wilderness,720,2916,9724,Corridor of Power,
-50,Areas_Wilderness,721,2920,9742,Corridor of Power,
+50,Areas_Wilderness,720,2916,9724,Corridor of Power,ระเบียงแห่งอำนาจ
+50,Areas_Wilderness,721,2920,9742,Corridor of Power,ระเบียงแห่งอำนาจ
 50,Areas_Wilderness,722,2924,9760,,
 50,Areas_Wilderness,723,2928,9761,,
 50,Areas_Wilderness,724,2932,9762,,
 50,Areas_Wilderness,725,2936,9763,,
 50,Areas_Wilderness,726,2940,9764,,
 50,Areas_Wilderness,727,2944,9765,,
-50,Areas_Wilderness,728,2948,9766,The Black Manse,
-50,Areas_Wilderness,729,2952,9782,The Black Manse,
+50,Areas_Wilderness,728,2948,9766,The Black Manse,คฤหาสน์ทมิฬ
+50,Areas_Wilderness,729,2952,9782,The Black Manse,คฤหาสน์ทมิฬ
 50,Areas_Wilderness,730,2956,9798,,
 50,Areas_Wilderness,731,2960,9799,,
 50,Areas_Wilderness,732,2964,9800,,
 50,Areas_Wilderness,733,2968,9801,,
 50,Areas_Wilderness,734,2972,9802,,
 50,Areas_Wilderness,735,2976,9803,,
-50,Areas_Wilderness,736,2980,9804,The Seat of Evil,
-50,Areas_Wilderness,737,2984,9821,The Seat of Evil,
+50,Areas_Wilderness,736,2980,9804,The Seat of Evil,บัลลังก์แห่งความชั่วร้าย
+50,Areas_Wilderness,737,2984,9821,The Seat of Evil,บัลลังก์แห่งความชั่วร้าย
 50,Areas_Wilderness,738,2988,9838,,
 50,Areas_Wilderness,739,2992,9839,,
 50,Areas_Wilderness,740,2996,9840,,
 50,Areas_Wilderness,741,3000,9841,,
 50,Areas_Wilderness,742,3004,9842,,
 50,Areas_Wilderness,743,3008,9843,,
-50,Areas_Wilderness,744,3012,9844,Ad Hoc Encampment,
-50,Areas_Wilderness,745,3016,9862,Ad Hoc Encampment,
+50,Areas_Wilderness,744,3012,9844,Ad Hoc Encampment,ค่ายพักแรมชั่วคราว
+50,Areas_Wilderness,745,3016,9862,Ad Hoc Encampment,ค่ายพักแรมชั่วคราว
 50,Areas_Wilderness,746,3020,9880,,
 50,Areas_Wilderness,747,3024,9881,,
 50,Areas_Wilderness,748,3028,9882,,
 50,Areas_Wilderness,749,3032,9883,,
 50,Areas_Wilderness,750,3036,9884,,
 50,Areas_Wilderness,751,3040,9885,,
-50,Areas_Wilderness,752,3044,9886,Accordia,
-50,Areas_Wilderness,753,3048,9895,Accordia,
+50,Areas_Wilderness,752,3044,9886,Accordia,ออร์คาเนีย
+50,Areas_Wilderness,753,3048,9895,Accordia,ออร์คาเนีย
 50,Areas_Wilderness,754,3052,9904,,
 50,Areas_Wilderness,755,3056,9905,,
 50,Areas_Wilderness,756,3060,9906,,
 50,Areas_Wilderness,757,3064,9907,,
 50,Areas_Wilderness,758,3068,9908,,
 50,Areas_Wilderness,759,3072,9909,,
-50,Areas_Wilderness,760,3076,9910,Accordia,
-50,Areas_Wilderness,761,3080,9919,Accordia,
+50,Areas_Wilderness,760,3076,9910,Accordia,ออร์คาเนีย
+50,Areas_Wilderness,761,3080,9919,Accordia,ออร์คาเนีย
 50,Areas_Wilderness,762,3084,9928,,
 50,Areas_Wilderness,763,3088,9929,,
 50,Areas_Wilderness,764,3092,9930,,
@@ -775,8 +775,8 @@
 50,Areas_Wilderness,773,3128,9939,,
 50,Areas_Wilderness,774,3132,9940,,
 50,Areas_Wilderness,775,3136,9941,,
-50,Areas_Wilderness,776,3140,9942,The Clashroom,
-50,Areas_Wilderness,777,3144,9956,The Clashroom,
+50,Areas_Wilderness,776,3140,9942,The Clashroom,สมรภูมิปะทะคลัชรูม
+50,Areas_Wilderness,777,3144,9956,The Clashroom,สมรภูมิปะทะคลัชรูม
 50,Areas_Wilderness,778,3148,9970,,
 50,Areas_Wilderness,779,3152,9971,,
 50,Areas_Wilderness,780,3156,9972,,
@@ -831,48 +831,48 @@
 50,Areas_Wilderness,829,3352,10021,,
 50,Areas_Wilderness,830,3356,10022,,
 50,Areas_Wilderness,831,3360,10023,,
-50,Areas_Wilderness,832,3364,10024,Blacka Pastures,
-50,Areas_Wilderness,833,3368,10040,Blacka Pastures,
+50,Areas_Wilderness,832,3364,10024,Blacka Pastures,ทุ่งหญ้าทมิฬแบล็กก้า
+50,Areas_Wilderness,833,3368,10040,Blacka Pastures,ทุ่งหญ้าทมิฬแบล็กก้า
 50,Areas_Wilderness,834,3372,10056,,
 50,Areas_Wilderness,835,3376,10057,,
 50,Areas_Wilderness,836,3380,10058,,
 50,Areas_Wilderness,837,3384,10059,,
 50,Areas_Wilderness,838,3388,10060,,
 50,Areas_Wilderness,839,3392,10061,,
-50,Areas_Wilderness,840,3396,10062,The Damned Dunes,
-50,Areas_Wilderness,841,3400,10079,The Damned Dunes,
+50,Areas_Wilderness,840,3396,10062,The Damned Dunes,เนินทรายต้องคำสาป
+50,Areas_Wilderness,841,3400,10079,The Damned Dunes,เนินทรายต้องคำสาป
 50,Areas_Wilderness,842,3404,10096,,
 50,Areas_Wilderness,843,3408,10097,,
 50,Areas_Wilderness,844,3412,10098,,
 50,Areas_Wilderness,845,3416,10099,,
 50,Areas_Wilderness,846,3420,10100,,
 50,Areas_Wilderness,847,3424,10101,,
-50,Areas_Wilderness,848,3428,10102,The Darkwood,
-50,Areas_Wilderness,849,3432,10115,The Darkwood,
+50,Areas_Wilderness,848,3428,10102,The Darkwood,ป่าทมิฬดาร์กวูด
+50,Areas_Wilderness,849,3432,10115,The Darkwood,ป่าทมิฬดาร์กวูด
 50,Areas_Wilderness,850,3436,10128,,
 50,Areas_Wilderness,851,3440,10129,,
 50,Areas_Wilderness,852,3444,10130,,
 50,Areas_Wilderness,853,3448,10131,,
 50,Areas_Wilderness,854,3452,10132,,
 50,Areas_Wilderness,855,3456,10133,,
-50,Areas_Wilderness,856,3460,10134,Blackrock Ravine,
-50,Areas_Wilderness,857,3464,10151,Blackrock Ravine,
+50,Areas_Wilderness,856,3460,10134,Blackrock Ravine,หุบผาหินทมิฬแบล็กร็อก
+50,Areas_Wilderness,857,3464,10151,Blackrock Ravine,หุบผาหินทมิฬแบล็กร็อก
 50,Areas_Wilderness,858,3468,10168,,
 50,Areas_Wilderness,859,3472,10169,,
 50,Areas_Wilderness,860,3476,10170,,
 50,Areas_Wilderness,861,3480,10171,,
 50,Areas_Wilderness,862,3484,10172,,
 50,Areas_Wilderness,863,3488,10173,,
-50,Areas_Wilderness,864,3492,10174,The Fetid Foothills,
-50,Areas_Wilderness,865,3496,10194,The Fetid Foothills,
+50,Areas_Wilderness,864,3492,10174,The Fetid Foothills,เชิงเขาเน่าเปื่อยเฟติด
+50,Areas_Wilderness,865,3496,10194,The Fetid Foothills,เชิงเขาเน่าเปื่อยเฟติด
 50,Areas_Wilderness,866,3500,10214,,
 50,Areas_Wilderness,867,3504,10215,,
 50,Areas_Wilderness,868,3508,10216,,
 50,Areas_Wilderness,869,3512,10217,,
 50,Areas_Wilderness,870,3516,10218,,
 50,Areas_Wilderness,871,3520,10219,,
-50,Areas_Wilderness,872,3524,10220,Dead Man's Land,
-50,Areas_Wilderness,873,3528,10236,Dead Man's Land,
+50,Areas_Wilderness,872,3524,10220,Dead Man's Land,แดนคนตายเดดแมนแลนด์
+50,Areas_Wilderness,873,3528,10236,Dead Man's Land,แดนคนตายเดดแมนแลนด์
 50,Areas_Wilderness,874,3532,10252,,
 50,Areas_Wilderness,875,3536,10253,,
 50,Areas_Wilderness,876,3540,10254,,

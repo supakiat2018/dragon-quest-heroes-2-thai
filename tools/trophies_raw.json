@@ -1,0 +1,217 @@
+[
+  {
+    "slot": 0,
+    "name": "Glory Hunter",
+    "desc": "Awarded for successfully acquiring every trophy."
+  },
+  {
+    "slot": 1,
+    "name": "Winning Beginnings",
+    "desc": "Awarded for defeating the night clubber and saving Harba."
+  },
+  {
+    "slot": 2,
+    "name": "Metalworker",
+    "desc": "Awarded for defeating a metal slime."
+  },
+  {
+    "slot": 3,
+    "name": "Liquid Licker",
+    "desc": "Awarded for defeating a liquid metal slime."
+  },
+  {
+    "slot": 4,
+    "name": "King Klanger",
+    "desc": "Awarded for defeating a metal king slime."
+  },
+  {
+    "slot": 5,
+    "name": "Tous les Coups",
+    "desc": "Awarded for activating every party member's coup de grâce."
+  },
+  {
+    "slot": 6,
+    "name": "With a Little Help",
+    "desc": "Awarded for unleashing 100 Tag Tricks."
+  },
+  {
+    "slot": 7,
+    "name": "Come Rain or Shine",
+    "desc": "Awarded for experiencing every type of weather in every wild zone."
+  },
+  {
+    "slot": 8,
+    "name": "An Expert Eye",
+    "desc": "Awarded for having a rare item appraised by the armourer."
+  },
+  {
+    "slot": 9,
+    "name": "Dimensional Drifter",
+    "desc": "Awarded for successfully clearing your first dimensional dungeon."
+  },
+  {
+    "slot": 10,
+    "name": "Head Banger",
+    "desc": "Awarded for unceremoniously bumping your head on the ceiling."
+  },
+  {
+    "slot": 11,
+    "name": "The Proud Prince",
+    "desc": "Awarded for showing Cesar the error of his ways and convincing him to join the party."
+  },
+  {
+    "slot": 12,
+    "name": "Level-May-Care",
+    "desc": "Awarded for training every single character to level 40 or above."
+  },
+  {
+    "slot": 13,
+    "name": "Jack of Alltrades",
+    "desc": "Awarded for training your hero to level 20 or above in every available vocation."
+  },
+  {
+    "slot": 14,
+    "name": "All-Round Animal",
+    "desc": "Awarded for reaching a proficiency level of 15 or higher with any weapon."
+  },
+  {
+    "slot": 15,
+    "name": "Crème de la Combo",
+    "desc": "Awarded for stringing together a combo of 350 hits or more."
+  },
+  {
+    "slot": 16,
+    "name": "Serial Summoner",
+    "desc": "Awarded for summoning 150 monster minions."
+  },
+  {
+    "slot": 17,
+    "name": "Bully Basher",
+    "desc": "Awarded for rescuing 15 people from monster attack."
+  },
+  {
+    "slot": 18,
+    "name": "All That Glitters",
+    "desc": "Awarded for gathering ingredients from sparkly spots 300 times."
+  },
+  {
+    "slot": 19,
+    "name": "Top Swapper",
+    "desc": "Awarded for making 30 trades at the swap shop."
+  },
+  {
+    "slot": 20,
+    "name": "Quit Your Medallin'<FG>",
+    "desc": "Awarded for delivering 150 mini medals to Maxi Malone."
+  },
+  {
+    "slot": 21,
+    "name": "Bounty Hunter",
+    "desc": "Awarded for defeating every marked monster at least once."
+  },
+  {
+    "slot": 22,
+    "name": "A Right Royal Mix-Up",
+    "desc": "Awarded for attending the Queen of Ingenia's hearing in Accordia."
+  },
+  {
+    "slot": 23,
+    "name": "Nun Better",
+    "desc": "Awarded for obtaining the maximum number of Healstones and maximising their power."
+  },
+  {
+    "slot": 24,
+    "name": "Trader's Pet",
+    "desc": "Awarded for maximising the capacity of your monster medal holder."
+  },
+  {
+    "slot": 25,
+    "name": "Accessory All Areas",
+    "desc": "Awarded for making every single available improvement to an accessory."
+  },
+  {
+    "slot": 26,
+    "name": "Party Animal",
+    "desc": "Awarded for earning the maximum number of party power points."
+  },
+  {
+    "slot": 27,
+    "name": "Life and Soul",
+    "desc": "Awarded for learning every party power."
+  },
+  {
+    "slot": 28,
+    "name": "No Zoomstone Unturned",
+    "desc": "Awarded for attuning yourself to every Zoomstone."
+  },
+  {
+    "slot": 29,
+    "name": "Comfortable",
+    "desc": "Awarded for collecting a total of 300,000 gold coins."
+  },
+  {
+    "slot": 30,
+    "name": "Trovehound",
+    "desc": "Awarded for opening every chest in every wild zone."
+  },
+  {
+    "slot": 31,
+    "name": "Peace at Last",
+    "desc": "Awarded for attending the peace celebrations in Accordia."
+  },
+  {
+    "slot": 32,
+    "name": "Well-Armed",
+    "desc": "Awarded for obtaining every single weapon."
+  },
+  {
+    "slot": 33,
+    "name": "Well-Protected",
+    "desc": "Awarded for obtaining every single orb."
+  },
+  {
+    "slot": 34,
+    "name": "Avid Accessoriser",
+    "desc": "Awarded for obtaining every single accessory."
+  },
+  {
+    "slot": 35,
+    "name": "Greedy for Ingredients",
+    "desc": "Awarded for obtaining every available ingredient."
+  },
+  {
+    "slot": 36,
+    "name": "Variety Clubber",
+    "desc": "Awarded for defeating every single species of monster."
+  },
+  {
+    "slot": 37,
+    "name": "Beastmaster",
+    "desc": "Awarded for recruiting every single species of monster minion."
+  },
+  {
+    "slot": 38,
+    "name": "Dunquestin",
+    "desc": "Awarded for completing every quest."
+  },
+  {
+    "slot": 39,
+    "name": "Monster Mugger",
+    "desc": "Awarded for obtaining every kind of item monsters drop."
+  },
+  {
+    "slot": 40,
+    "name": "Way of the Warrior",
+    "desc": "Awarded for obtaining the warrior's ring."
+  },
+  {
+    "slot": 41,
+    "name": "A Prophecy Fulfilled",
+    "desc": "Awarded for fulfilling the prophecy."
+  },
+  {
+    "slot": 42,
+    "name": "All Puffed Out",
+    "desc": "Awarded for...closing your eyes in front of every single ally."
+  }
+]

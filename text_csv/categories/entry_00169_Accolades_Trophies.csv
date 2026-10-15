@@ -1,343 +1,343 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-169,Accolades_Trophies,0,36,1412,Glory Hunter,
-169,Accolades_Trophies,1,40,1425,Glory Hunter,
-169,Accolades_Trophies,2,44,1438,Awarded for successfully acquiring every trophy.,
+169,Accolades_Trophies,0,36,1412,Glory Hunter,ผู้พิชิตความรุ่งโรจน์
+169,Accolades_Trophies,1,40,1425,Glory Hunter,ผู้พิชิตความรุ่งโรจน์
+169,Accolades_Trophies,2,44,1438,Awarded for successfully acquiring every trophy.,มอบให้แก่ผู้ที่ครอบครองถ้วยรางวัลครบทั้งหมดทุกถ้วย
 169,Accolades_Trophies,3,48,1487,,
 169,Accolades_Trophies,4,52,1488,,
 169,Accolades_Trophies,5,56,1489,,
 169,Accolades_Trophies,6,60,1490,,
 169,Accolades_Trophies,7,64,1491,,
-169,Accolades_Trophies,8,68,1492,Winning Beginnings,
-169,Accolades_Trophies,9,72,1511,Winning Beginnings,
-169,Accolades_Trophies,10,76,1530,Awarded for defeating the night clubber and saving Harba.,
+169,Accolades_Trophies,8,68,1492,Winning Beginnings,จุดเริ่มต้นแห่งชัยชนะ
+169,Accolades_Trophies,9,72,1511,Winning Beginnings,จุดเริ่มต้นแห่งชัยชนะ
+169,Accolades_Trophies,10,76,1530,Awarded for defeating the night clubber and saving Harba.,มอบให้แก่ผู้ที่ปราบไนต์คลับเบอร์และกอบกู้เมืองฮาร์บาได้สำเร็จ
 169,Accolades_Trophies,11,80,1588,,
 169,Accolades_Trophies,12,84,1589,,
 169,Accolades_Trophies,13,88,1590,,
 169,Accolades_Trophies,14,92,1591,,
 169,Accolades_Trophies,15,96,1592,,
-169,Accolades_Trophies,16,100,1593,Metalworker,
-169,Accolades_Trophies,17,104,1605,Metalworker,
-169,Accolades_Trophies,18,108,1617,Awarded for defeating a metal slime.,
+169,Accolades_Trophies,16,100,1593,Metalworker,นักล่าโลหะ
+169,Accolades_Trophies,17,104,1605,Metalworker,นักล่าโลหะ
+169,Accolades_Trophies,18,108,1617,Awarded for defeating a metal slime.,มอบให้แก่ผู้ที่ปราบเมทัลสไลม์ได้ 1 ตัว
 169,Accolades_Trophies,19,112,1654,,
 169,Accolades_Trophies,20,116,1655,,
 169,Accolades_Trophies,21,120,1656,,
 169,Accolades_Trophies,22,124,1657,,
 169,Accolades_Trophies,23,128,1658,,
-169,Accolades_Trophies,24,132,1659,Liquid Licker,
-169,Accolades_Trophies,25,136,1673,Liquid Licker,
-169,Accolades_Trophies,26,140,1687,Awarded for defeating a liquid metal slime.,
+169,Accolades_Trophies,24,132,1659,Liquid Licker,นักล่าฮากุเร
+169,Accolades_Trophies,25,136,1673,Liquid Licker,นักล่าฮากุเร
+169,Accolades_Trophies,26,140,1687,Awarded for defeating a liquid metal slime.,มอบให้แก่ผู้ที่ปราบฮากุเรเมทัลได้ 1 ตัว
 169,Accolades_Trophies,27,144,1731,,
 169,Accolades_Trophies,28,148,1732,,
 169,Accolades_Trophies,29,152,1733,,
 169,Accolades_Trophies,30,156,1734,,
 169,Accolades_Trophies,31,160,1735,,
-169,Accolades_Trophies,32,164,1736,King Klanger,
-169,Accolades_Trophies,33,168,1749,King Klanger,
-169,Accolades_Trophies,34,172,1762,Awarded for defeating a metal king slime.,
+169,Accolades_Trophies,32,164,1736,King Klanger,นักล่าเมทัลคิง
+169,Accolades_Trophies,33,168,1749,King Klanger,นักล่าเมทัลคิง
+169,Accolades_Trophies,34,172,1762,Awarded for defeating a metal king slime.,มอบให้แก่ผู้ที่ปราบเมทัลคิงสไลม์ได้ 1 ตัว
 169,Accolades_Trophies,35,176,1804,,
 169,Accolades_Trophies,36,180,1805,,
 169,Accolades_Trophies,37,184,1806,,
 169,Accolades_Trophies,38,188,1807,,
 169,Accolades_Trophies,39,192,1808,,
-169,Accolades_Trophies,40,196,1809,Tous les Coups,
-169,Accolades_Trophies,41,200,1824,Tous les Coups,
-169,Accolades_Trophies,42,204,1839,Awarded for activating every party member's coup de grâce.,
+169,Accolades_Trophies,40,196,1809,Tous les Coups,ยอดฝีมือท่าไม้ตาย
+169,Accolades_Trophies,41,200,1824,Tous les Coups,ยอดฝีมือท่าไม้ตาย
+169,Accolades_Trophies,42,204,1839,Awarded for activating every party member's coup de grâce.,มอบให้แก่ผู้ที่เปิดใช้งานท่าไม้ตายของสมาชิกทุกคนในปาร์ตี้ครบถ้วน
 169,Accolades_Trophies,43,208,1899,,
 169,Accolades_Trophies,44,212,1900,,
 169,Accolades_Trophies,45,216,1901,,
 169,Accolades_Trophies,46,220,1902,,
 169,Accolades_Trophies,47,224,1903,,
-169,Accolades_Trophies,48,228,1904,With a Little Help,
-169,Accolades_Trophies,49,232,1923,With a Little Help,
-169,Accolades_Trophies,50,236,1942,Awarded for unleashing 100 Tag Tricks.,
+169,Accolades_Trophies,48,228,1904,With a Little Help,แท็กทริกร้อยประสาน
+169,Accolades_Trophies,49,232,1923,With a Little Help,แท็กทริกร้อยประสาน
+169,Accolades_Trophies,50,236,1942,Awarded for unleashing 100 Tag Tricks.,มอบให้แก่ผู้ที่ปลดปล่อยแท็กทริกครบ 100 ครั้ง
 169,Accolades_Trophies,51,240,1981,,
 169,Accolades_Trophies,52,244,1982,,
 169,Accolades_Trophies,53,248,1983,,
 169,Accolades_Trophies,54,252,1984,,
 169,Accolades_Trophies,55,256,1985,,
-169,Accolades_Trophies,56,260,1986,Come Rain or Shine,
-169,Accolades_Trophies,57,264,2005,Come Rain or Shine,
-169,Accolades_Trophies,58,268,2024,Awarded for experiencing every type of weather in every wild zone.,
+169,Accolades_Trophies,56,260,1986,Come Rain or Shine,ไม่หวั่นฝนฟ้าอากาศ
+169,Accolades_Trophies,57,264,2005,Come Rain or Shine,ไม่หวั่นฝนฟ้าอากาศ
+169,Accolades_Trophies,58,268,2024,Awarded for experiencing every type of weather in every wild zone.,มอบให้แก่ผู้ที่เผชิญสภาพอากาศครบทุกรูปแบบในทุกเขตสำรวจ
 169,Accolades_Trophies,59,272,2091,,
 169,Accolades_Trophies,60,276,2092,,
 169,Accolades_Trophies,61,280,2093,,
 169,Accolades_Trophies,62,284,2094,,
 169,Accolades_Trophies,63,288,2095,,
-169,Accolades_Trophies,64,292,2096,An Expert Eye,
-169,Accolades_Trophies,65,296,2110,An Expert Eye,
-169,Accolades_Trophies,66,300,2124,Awarded for having a rare item appraised by the armourer.,
+169,Accolades_Trophies,64,292,2096,An Expert Eye,สายตาผู้เชี่ยวชาญ
+169,Accolades_Trophies,65,296,2110,An Expert Eye,สายตาผู้เชี่ยวชาญ
+169,Accolades_Trophies,66,300,2124,Awarded for having a rare item appraised by the armourer.,มอบให้แก่ผู้ที่นำไอเทมหายากไปให้ช่างตีอาวุธประเมินค่า
 169,Accolades_Trophies,67,304,2182,,
 169,Accolades_Trophies,68,308,2183,,
 169,Accolades_Trophies,69,312,2184,,
 169,Accolades_Trophies,70,316,2185,,
 169,Accolades_Trophies,71,320,2186,,
-169,Accolades_Trophies,72,324,2187,Dimensional Drifter,
-169,Accolades_Trophies,73,328,2207,Dimensional Drifter,
-169,Accolades_Trophies,74,332,2227,Awarded for successfully clearing your first dimensional dungeon.,
+169,Accolades_Trophies,72,324,2187,Dimensional Drifter,ผู้ท่องมิติพิศวง
+169,Accolades_Trophies,73,328,2207,Dimensional Drifter,ผู้ท่องมิติพิศวง
+169,Accolades_Trophies,74,332,2227,Awarded for successfully clearing your first dimensional dungeon.,มอบให้แก่ผู้ที่พิชิตดันเจี้ยนต่างมิติแห่งแรกได้สำเร็จ
 169,Accolades_Trophies,75,336,2293,,
 169,Accolades_Trophies,76,340,2294,,
 169,Accolades_Trophies,77,344,2295,,
 169,Accolades_Trophies,78,348,2296,,
 169,Accolades_Trophies,79,352,2297,,
-169,Accolades_Trophies,80,356,2298,Head Banger,
-169,Accolades_Trophies,81,360,2310,Head Banger,
-169,Accolades_Trophies,82,364,2322,Awarded for unceremoniously bumping your head on the ceiling.,
+169,Accolades_Trophies,80,356,2298,Head Banger,หัวโขกเพดาน
+169,Accolades_Trophies,81,360,2310,Head Banger,หัวโขกเพดาน
+169,Accolades_Trophies,82,364,2322,Awarded for unceremoniously bumping your head on the ceiling.,มอบให้แก่ผู้ที่กระโดดหัวโขกเพดานอย่างจัง
 169,Accolades_Trophies,83,368,2384,,
 169,Accolades_Trophies,84,372,2385,,
 169,Accolades_Trophies,85,376,2386,,
 169,Accolades_Trophies,86,380,2387,,
 169,Accolades_Trophies,87,384,2388,,
-169,Accolades_Trophies,88,388,2389,The Proud Prince,
-169,Accolades_Trophies,89,392,2406,The Proud Prince,
-169,Accolades_Trophies,90,396,2423,Awarded for showing Cesar the error of his ways and convincing him to join the party.,
+169,Accolades_Trophies,88,388,2389,The Proud Prince,เจ้าชายผู้ทรนง
+169,Accolades_Trophies,89,392,2406,The Proud Prince,เจ้าชายผู้ทรนง
+169,Accolades_Trophies,90,396,2423,Awarded for showing Cesar the error of his ways and convincing him to join the party.,มอบให้แก่ผู้ที่ชี้แนะให้ซีซาร์ตาสว่างและเกลี้ยกล่อมให้เขามาร่วมปาร์ตี้ได้สำเร็จ
 169,Accolades_Trophies,91,400,2509,,
 169,Accolades_Trophies,92,404,2510,,
 169,Accolades_Trophies,93,408,2511,,
 169,Accolades_Trophies,94,412,2512,,
 169,Accolades_Trophies,95,416,2513,,
-169,Accolades_Trophies,96,420,2514,Level-May-Care,
-169,Accolades_Trophies,97,424,2529,Level-May-Care,
-169,Accolades_Trophies,98,428,2544,Awarded for training every single character to level 40 or above.,
+169,Accolades_Trophies,96,420,2514,Level-May-Care,ปาร์ตี้ระดับ 40
+169,Accolades_Trophies,97,424,2529,Level-May-Care,ปาร์ตี้ระดับ 40
+169,Accolades_Trophies,98,428,2544,Awarded for training every single character to level 40 or above.,มอบให้แก่ผู้ที่ฝึกฝนตัวละครทุกคนจนมีเลเวลตั้งแต่ 40 ขึ้นไป
 169,Accolades_Trophies,99,432,2610,,
 169,Accolades_Trophies,100,436,2611,,
 169,Accolades_Trophies,101,440,2612,,
 169,Accolades_Trophies,102,444,2613,,
 169,Accolades_Trophies,103,448,2614,,
-169,Accolades_Trophies,104,452,2615,Jack of Alltrades,
-169,Accolades_Trophies,105,456,2633,Jack of Alltrades,
-169,Accolades_Trophies,106,460,2651,Awarded for training your hero to level 20 or above in every available vocation.,
+169,Accolades_Trophies,104,452,2615,Jack of Alltrades,เชี่ยวชาญทุกอาชีพ
+169,Accolades_Trophies,105,456,2633,Jack of Alltrades,เชี่ยวชาญทุกอาชีพ
+169,Accolades_Trophies,106,460,2651,Awarded for training your hero to level 20 or above in every available vocation.,มอบให้แก่ผู้ที่ฝึกฝนตัวละครเอกจนมีเลเวลตั้งแต่ 20 ขึ้นไปในทุกอาชีพที่มีให้เลือก
 169,Accolades_Trophies,107,464,2732,,
 169,Accolades_Trophies,108,468,2733,,
 169,Accolades_Trophies,109,472,2734,,
 169,Accolades_Trophies,110,476,2735,,
 169,Accolades_Trophies,111,480,2736,,
-169,Accolades_Trophies,112,484,2737,All-Round Animal,
-169,Accolades_Trophies,113,488,2754,All-Round Animal,
-169,Accolades_Trophies,114,492,2771,Awarded for reaching a proficiency level of 15 or higher with any weapon.,
+169,Accolades_Trophies,112,484,2737,All-Round Animal,ปรมาจารย์อาวุธ
+169,Accolades_Trophies,113,488,2754,All-Round Animal,ปรมาจารย์อาวุธ
+169,Accolades_Trophies,114,492,2771,Awarded for reaching a proficiency level of 15 or higher with any weapon.,มอบให้แก่ผู้ที่บรรลุความชำนาญอาวุธระดับ 15 ขึ้นไปกับอาวุธชนิดใดก็ได้
 169,Accolades_Trophies,115,496,2845,,
 169,Accolades_Trophies,116,500,2846,,
 169,Accolades_Trophies,117,504,2847,,
 169,Accolades_Trophies,118,508,2848,,
 169,Accolades_Trophies,119,512,2849,,
-169,Accolades_Trophies,120,516,2850,Crème de la Combo,
-169,Accolades_Trophies,121,520,2869,Crème de la Combo,
-169,Accolades_Trophies,122,524,2888,Awarded for stringing together a combo of 350 hits or more.,
+169,Accolades_Trophies,120,516,2850,Crème de la Combo,สุดยอดคอมโบ
+169,Accolades_Trophies,121,520,2869,Crème de la Combo,สุดยอดคอมโบ
+169,Accolades_Trophies,122,524,2888,Awarded for stringing together a combo of 350 hits or more.,มอบให้แก่ผู้ที่ทำคอมโบต่อเนื่องได้ตั้งแต่ 350 ฮิตขึ้นไป
 169,Accolades_Trophies,123,528,2948,,
 169,Accolades_Trophies,124,532,2949,,
 169,Accolades_Trophies,125,536,2950,,
 169,Accolades_Trophies,126,540,2951,,
 169,Accolades_Trophies,127,544,2952,,
-169,Accolades_Trophies,128,548,2953,Serial Summoner,
-169,Accolades_Trophies,129,552,2969,Serial Summoner,
-169,Accolades_Trophies,130,556,2985,Awarded for summoning 150 monster minions.,
+169,Accolades_Trophies,128,548,2953,Serial Summoner,จอมอัญเชิญมอนสเตอร์
+169,Accolades_Trophies,129,552,2969,Serial Summoner,จอมอัญเชิญมอนสเตอร์
+169,Accolades_Trophies,130,556,2985,Awarded for summoning 150 monster minions.,มอบให้แก่ผู้ที่เรียกมอนสเตอร์ลูกน้องออกมาช่วยสู้ครบ 150 ตัว
 169,Accolades_Trophies,131,560,3028,,
 169,Accolades_Trophies,132,564,3029,,
 169,Accolades_Trophies,133,568,3030,,
 169,Accolades_Trophies,134,572,3031,,
 169,Accolades_Trophies,135,576,3032,,
-169,Accolades_Trophies,136,580,3033,Bully Basher,
-169,Accolades_Trophies,137,584,3046,Bully Basher,
-169,Accolades_Trophies,138,588,3059,Awarded for rescuing 15 people from monster attack.,
+169,Accolades_Trophies,136,580,3033,Bully Basher,ผู้พิทักษ์ผู้บริสุทธิ์
+169,Accolades_Trophies,137,584,3046,Bully Basher,ผู้พิทักษ์ผู้บริสุทธิ์
+169,Accolades_Trophies,138,588,3059,Awarded for rescuing 15 people from monster attack.,มอบให้แก่ผู้ที่ช่วยเหลือผู้คนจากการโจมตีของมอนสเตอร์ครบ 15 คน
 169,Accolades_Trophies,139,592,3111,,
 169,Accolades_Trophies,140,596,3112,,
 169,Accolades_Trophies,141,600,3113,,
 169,Accolades_Trophies,142,604,3114,,
 169,Accolades_Trophies,143,608,3115,,
-169,Accolades_Trophies,144,612,3116,All That Glitters,
-169,Accolades_Trophies,145,616,3134,All That Glitters,
-169,Accolades_Trophies,146,620,3152,Awarded for gathering ingredients from sparkly spots 300 times.,
+169,Accolades_Trophies,144,612,3116,All That Glitters,นักล่าจุดประกาย
+169,Accolades_Trophies,145,616,3134,All That Glitters,นักล่าจุดประกาย
+169,Accolades_Trophies,146,620,3152,Awarded for gathering ingredients from sparkly spots 300 times.,มอบให้แก่ผู้ที่เก็บวัตถุดิบจากจุดประกายแสงครบ 300 ครั้ง
 169,Accolades_Trophies,147,624,3216,,
 169,Accolades_Trophies,148,628,3217,,
 169,Accolades_Trophies,149,632,3218,,
 169,Accolades_Trophies,150,636,3219,,
 169,Accolades_Trophies,151,640,3220,,
-169,Accolades_Trophies,152,644,3221,Top Swapper,
-169,Accolades_Trophies,153,648,3233,Top Swapper,
-169,Accolades_Trophies,154,652,3245,Awarded for making 30 trades at the swap shop.,
+169,Accolades_Trophies,152,644,3221,Top Swapper,นักแลกเปลี่ยนชั้นเซียน
+169,Accolades_Trophies,153,648,3233,Top Swapper,นักแลกเปลี่ยนชั้นเซียน
+169,Accolades_Trophies,154,652,3245,Awarded for making 30 trades at the swap shop.,มอบให้แก่ผู้ที่แลกเปลี่ยนไอเทมที่ร้านแลกเปลี่ยนครบ 30 ครั้ง
 169,Accolades_Trophies,155,656,3292,,
 169,Accolades_Trophies,156,660,3293,,
 169,Accolades_Trophies,157,664,3294,,
 169,Accolades_Trophies,158,668,3295,,
 169,Accolades_Trophies,159,672,3296,,
-169,Accolades_Trophies,160,676,3297,Quit Your Medallin'<FG>,
-169,Accolades_Trophies,161,680,3320,Quit Your Medallin'<FG>,
-169,Accolades_Trophies,162,684,3343,Awarded for delivering 150 mini medals to Maxi Malone.,
+169,Accolades_Trophies,160,676,3297,Quit Your Medallin'<FG>,เจ้าแห่งเหรียญเล็ก<FG>
+169,Accolades_Trophies,161,680,3320,Quit Your Medallin'<FG>,เจ้าแห่งเหรียญเล็ก<FG>
+169,Accolades_Trophies,162,684,3343,Awarded for delivering 150 mini medals to Maxi Malone.,มอบให้แก่ผู้ที่ส่งมอบเหรียญเล็กครบ 150 เหรียญให้แก่ราชาแม็กซี่ มาโลน
 169,Accolades_Trophies,163,688,3398,,
 169,Accolades_Trophies,164,692,3399,,
 169,Accolades_Trophies,165,696,3400,,
 169,Accolades_Trophies,166,700,3401,,
 169,Accolades_Trophies,167,704,3402,,
-169,Accolades_Trophies,168,708,3403,Bounty Hunter,
-169,Accolades_Trophies,169,712,3417,Bounty Hunter,
-169,Accolades_Trophies,170,716,3431,Awarded for defeating every marked monster at least once.,
+169,Accolades_Trophies,168,708,3403,Bounty Hunter,นักล่าค่าหัว
+169,Accolades_Trophies,169,712,3417,Bounty Hunter,นักล่าค่าหัว
+169,Accolades_Trophies,170,716,3431,Awarded for defeating every marked monster at least once.,มอบให้แก่ผู้ที่ปราบมอนสเตอร์เป้าหมายที่มีเครื่องหมายครบทุกตัวอย่างน้อย 1 ครั้ง
 169,Accolades_Trophies,171,720,3489,,
 169,Accolades_Trophies,172,724,3490,,
 169,Accolades_Trophies,173,728,3491,,
 169,Accolades_Trophies,174,732,3492,,
 169,Accolades_Trophies,175,736,3493,,
-169,Accolades_Trophies,176,740,3494,A Right Royal Mix-Up,
-169,Accolades_Trophies,177,744,3515,A Right Royal Mix-Up,
-169,Accolades_Trophies,178,748,3536,Awarded for attending the Queen of Ingenia's hearing in Accordia.,
+169,Accolades_Trophies,176,740,3494,A Right Royal Mix-Up,การไต่สวนแห่งราชสำนัก
+169,Accolades_Trophies,177,744,3515,A Right Royal Mix-Up,การไต่สวนแห่งราชสำนัก
+169,Accolades_Trophies,178,748,3536,Awarded for attending the Queen of Ingenia's hearing in Accordia.,มอบให้แก่ผู้ที่เข้าร่วมการไต่สวนของราชินีแห่งอินเกเนีย ณ ออร์คาเนีย
 169,Accolades_Trophies,179,752,3602,,
 169,Accolades_Trophies,180,756,3603,,
 169,Accolades_Trophies,181,760,3604,,
 169,Accolades_Trophies,182,764,3605,,
 169,Accolades_Trophies,183,768,3606,,
-169,Accolades_Trophies,184,772,3607,Nun Better,
-169,Accolades_Trophies,185,776,3618,Nun Better,
-169,Accolades_Trophies,186,780,3629,Awarded for obtaining the maximum number of Healstones and maximising their power.,
+169,Accolades_Trophies,184,772,3607,Nun Better,ศิลาฮอยมี่ขั้นสูงสุด
+169,Accolades_Trophies,185,776,3618,Nun Better,ศิลาฮอยมี่ขั้นสูงสุด
+169,Accolades_Trophies,186,780,3629,Awarded for obtaining the maximum number of Healstones and maximising their power.,มอบให้แก่ผู้ที่ได้รับศิลาฮอยมี่ครบจำนวนสูงสุดและอัปเกรดพลังจนเต็มขีดจำกัด
 169,Accolades_Trophies,187,784,3712,,
 169,Accolades_Trophies,188,788,3713,,
 169,Accolades_Trophies,189,792,3714,,
 169,Accolades_Trophies,190,796,3715,,
 169,Accolades_Trophies,191,800,3716,,
-169,Accolades_Trophies,192,804,3717,Trader's Pet,
-169,Accolades_Trophies,193,808,3730,Trader's Pet,
-169,Accolades_Trophies,194,812,3743,Awarded for maximising the capacity of your monster medal holder.,
+169,Accolades_Trophies,192,804,3717,Trader's Pet,กล่องเมดัลจุใจ
+169,Accolades_Trophies,193,808,3730,Trader's Pet,กล่องเมดัลจุใจ
+169,Accolades_Trophies,194,812,3743,Awarded for maximising the capacity of your monster medal holder.,มอบให้แก่ผู้ที่ขยายความจุของกล่องใส่เหรียญมอนสเตอร์จนถึงระดับสูงสุด
 169,Accolades_Trophies,195,816,3809,,
 169,Accolades_Trophies,196,820,3810,,
 169,Accolades_Trophies,197,824,3811,,
 169,Accolades_Trophies,198,828,3812,,
 169,Accolades_Trophies,199,832,3813,,
-169,Accolades_Trophies,200,836,3814,Accessory All Areas,
-169,Accolades_Trophies,201,840,3834,Accessory All Areas,
-169,Accolades_Trophies,202,844,3854,Awarded for making every single available improvement to an accessory.,
+169,Accolades_Trophies,200,836,3814,Accessory All Areas,ยอดเครื่องประดับสมบูรณ์แบบ
+169,Accolades_Trophies,201,840,3834,Accessory All Areas,ยอดเครื่องประดับสมบูรณ์แบบ
+169,Accolades_Trophies,202,844,3854,Awarded for making every single available improvement to an accessory.,มอบให้แก่ผู้ที่อัปเกรดเสริมพลังเครื่องประดับ 1 ชิ้นจนครบทุกคุณสมบัติที่มี
 169,Accolades_Trophies,203,848,3925,,
 169,Accolades_Trophies,204,852,3926,,
 169,Accolades_Trophies,205,856,3927,,
 169,Accolades_Trophies,206,860,3928,,
 169,Accolades_Trophies,207,864,3929,,
-169,Accolades_Trophies,208,868,3930,Party Animal,
-169,Accolades_Trophies,209,872,3943,Party Animal,
-169,Accolades_Trophies,210,876,3956,Awarded for earning the maximum number of party power points.,
+169,Accolades_Trophies,208,868,3930,Party Animal,รวมพลังปาร์ตี้เต็มพิกัด
+169,Accolades_Trophies,209,872,3943,Party Animal,รวมพลังปาร์ตี้เต็มพิกัด
+169,Accolades_Trophies,210,876,3956,Awarded for earning the maximum number of party power points.,มอบให้แก่ผู้ที่ได้รับแต้มพลังปาร์ตี้พาวเวอร์จนถึงขีดจำกัดสูงสุด
 169,Accolades_Trophies,211,880,4018,,
 169,Accolades_Trophies,212,884,4019,,
 169,Accolades_Trophies,213,888,4020,,
 169,Accolades_Trophies,214,892,4021,,
 169,Accolades_Trophies,215,896,4022,,
-169,Accolades_Trophies,216,900,4023,Life and Soul,
-169,Accolades_Trophies,217,904,4037,Life and Soul,
-169,Accolades_Trophies,218,908,4051,Awarded for learning every party power.,
+169,Accolades_Trophies,216,900,4023,Life and Soul,ผู้เชี่ยวชาญพลังปาร์ตี้
+169,Accolades_Trophies,217,904,4037,Life and Soul,ผู้เชี่ยวชาญพลังปาร์ตี้
+169,Accolades_Trophies,218,908,4051,Awarded for learning every party power.,มอบให้แก่ผู้ที่เรียนรู้พลังปาร์ตี้พาวเวอร์ครบทุกทักษะ
 169,Accolades_Trophies,219,912,4091,,
 169,Accolades_Trophies,220,916,4092,,
 169,Accolades_Trophies,221,920,4093,,
 169,Accolades_Trophies,222,924,4094,,
 169,Accolades_Trophies,223,928,4095,,
-169,Accolades_Trophies,224,932,4096,No Zoomstone Unturned,
-169,Accolades_Trophies,225,936,4118,No Zoomstone Unturned,
-169,Accolades_Trophies,226,940,4140,Awarded for attuning yourself to every Zoomstone.,
+169,Accolades_Trophies,224,932,4096,No Zoomstone Unturned,ผู้เชื่อมต่อศิลารูร่า
+169,Accolades_Trophies,225,936,4118,No Zoomstone Unturned,ผู้เชื่อมต่อศิลารูร่า
+169,Accolades_Trophies,226,940,4140,Awarded for attuning yourself to every Zoomstone.,มอบให้แก่ผู้ที่เปิดใช้งานศิลารูร่าครบทุกจุดทั่วโลก
 169,Accolades_Trophies,227,944,4190,,
 169,Accolades_Trophies,228,948,4191,,
 169,Accolades_Trophies,229,952,4192,,
 169,Accolades_Trophies,230,956,4193,,
 169,Accolades_Trophies,231,960,4194,,
-169,Accolades_Trophies,232,964,4195,Comfortable,
-169,Accolades_Trophies,233,968,4207,Comfortable,
-169,Accolades_Trophies,234,972,4219,"Awarded for collecting a total of 300,000 gold coins.",
+169,Accolades_Trophies,232,964,4195,Comfortable,เศรษฐีเงินถุงเงินถัง
+169,Accolades_Trophies,233,968,4207,Comfortable,เศรษฐีเงินถุงเงินถัง
+169,Accolades_Trophies,234,972,4219,"Awarded for collecting a total of 300,000 gold coins.","มอบให้แก่ผู้ที่สะสมเหรียญทองรวมได้ครบ 300,000 เหรียญทอง"
 169,Accolades_Trophies,235,976,4273,,
 169,Accolades_Trophies,236,980,4274,,
 169,Accolades_Trophies,237,984,4275,,
 169,Accolades_Trophies,238,988,4276,,
 169,Accolades_Trophies,239,992,4277,,
-169,Accolades_Trophies,240,996,4278,Trovehound,
-169,Accolades_Trophies,241,1000,4289,Trovehound,
-169,Accolades_Trophies,242,1004,4300,Awarded for opening every chest in every wild zone.,
+169,Accolades_Trophies,240,996,4278,Trovehound,นักล่าหีบสมบัติ
+169,Accolades_Trophies,241,1000,4289,Trovehound,นักล่าหีบสมบัติ
+169,Accolades_Trophies,242,1004,4300,Awarded for opening every chest in every wild zone.,มอบให้แก่ผู้ที่เปิดหีบสมบัติครบทุกหีบในทุกเขตสำรวจ
 169,Accolades_Trophies,243,1008,4352,,
 169,Accolades_Trophies,244,1012,4353,,
 169,Accolades_Trophies,245,1016,4354,,
 169,Accolades_Trophies,246,1020,4355,,
 169,Accolades_Trophies,247,1024,4356,,
-169,Accolades_Trophies,248,1028,4357,Peace at Last,
-169,Accolades_Trophies,249,1032,4371,Peace at Last,
-169,Accolades_Trophies,250,1036,4385,Awarded for attending the peace celebrations in Accordia.,
+169,Accolades_Trophies,248,1028,4357,Peace at Last,สันติภาพหวนคืน
+169,Accolades_Trophies,249,1032,4371,Peace at Last,สันติภาพหวนคืน
+169,Accolades_Trophies,250,1036,4385,Awarded for attending the peace celebrations in Accordia.,มอบให้แก่ผู้ที่เข้าร่วมงานเฉลิมฉลองสันติภาพ ณ ออร์คาเนีย
 169,Accolades_Trophies,251,1040,4443,,
 169,Accolades_Trophies,252,1044,4444,,
 169,Accolades_Trophies,253,1048,4445,,
 169,Accolades_Trophies,254,1052,4446,,
 169,Accolades_Trophies,255,1056,4447,,
-169,Accolades_Trophies,256,1060,4448,Well-Armed,
-169,Accolades_Trophies,257,1064,4459,Well-Armed,
-169,Accolades_Trophies,258,1068,4470,Awarded for obtaining every single weapon.,
+169,Accolades_Trophies,256,1060,4448,Well-Armed,คลังสรรพาวุธสมบูรณ์แบบ
+169,Accolades_Trophies,257,1064,4459,Well-Armed,คลังสรรพาวุธสมบูรณ์แบบ
+169,Accolades_Trophies,258,1068,4470,Awarded for obtaining every single weapon.,มอบให้แก่ผู้ที่ครอบครองอาวุธครบทุกชิ้นในเกม
 169,Accolades_Trophies,259,1072,4513,,
 169,Accolades_Trophies,260,1076,4514,,
 169,Accolades_Trophies,261,1080,4515,,
 169,Accolades_Trophies,262,1084,4516,,
 169,Accolades_Trophies,263,1088,4517,,
-169,Accolades_Trophies,264,1092,4518,Well-Protected,
-169,Accolades_Trophies,265,1096,4533,Well-Protected,
-169,Accolades_Trophies,266,1100,4548,Awarded for obtaining every single orb.,
+169,Accolades_Trophies,264,1092,4518,Well-Protected,คลังออร์บสมบูรณ์แบบ
+169,Accolades_Trophies,265,1096,4533,Well-Protected,คลังออร์บสมบูรณ์แบบ
+169,Accolades_Trophies,266,1100,4548,Awarded for obtaining every single orb.,มอบให้แก่ผู้ที่ครอบครองลูกแก้วออร์บป้องกันครบทุกชิ้นในเกม
 169,Accolades_Trophies,267,1104,4588,,
 169,Accolades_Trophies,268,1108,4589,,
 169,Accolades_Trophies,269,1112,4590,,
 169,Accolades_Trophies,270,1116,4591,,
 169,Accolades_Trophies,271,1120,4592,,
-169,Accolades_Trophies,272,1124,4593,Avid Accessoriser,
-169,Accolades_Trophies,273,1128,4611,Avid Accessoriser,
-169,Accolades_Trophies,274,1132,4629,Awarded for obtaining every single accessory.,
+169,Accolades_Trophies,272,1124,4593,Avid Accessoriser,คลังเครื่องประดับสมบูรณ์แบบ
+169,Accolades_Trophies,273,1128,4611,Avid Accessoriser,คลังเครื่องประดับสมบูรณ์แบบ
+169,Accolades_Trophies,274,1132,4629,Awarded for obtaining every single accessory.,มอบให้แก่ผู้ที่ครอบครองเครื่องประดับครบทุกชิ้นในเกม
 169,Accolades_Trophies,275,1136,4675,,
 169,Accolades_Trophies,276,1140,4676,,
 169,Accolades_Trophies,277,1144,4677,,
 169,Accolades_Trophies,278,1148,4678,,
 169,Accolades_Trophies,279,1152,4679,,
-169,Accolades_Trophies,280,1156,4680,Greedy for Ingredients,
-169,Accolades_Trophies,281,1160,4703,Greedy for Ingredients,
-169,Accolades_Trophies,282,1164,4726,Awarded for obtaining every available ingredient.,
+169,Accolades_Trophies,280,1156,4680,Greedy for Ingredients,คลังวัตถุดิบสมบูรณ์แบบ
+169,Accolades_Trophies,281,1160,4703,Greedy for Ingredients,คลังวัตถุดิบสมบูรณ์แบบ
+169,Accolades_Trophies,282,1164,4726,Awarded for obtaining every available ingredient.,มอบให้แก่ผู้ที่ครอบครองวัตถุดิบครบทุกชนิดในเกม
 169,Accolades_Trophies,283,1168,4776,,
 169,Accolades_Trophies,284,1172,4777,,
 169,Accolades_Trophies,285,1176,4778,,
 169,Accolades_Trophies,286,1180,4779,,
 169,Accolades_Trophies,287,1184,4780,,
-169,Accolades_Trophies,288,1188,4781,Variety Clubber,
-169,Accolades_Trophies,289,1192,4797,Variety Clubber,
-169,Accolades_Trophies,290,1196,4813,Awarded for defeating every single species of monster.,
+169,Accolades_Trophies,288,1188,4781,Variety Clubber,ผู้พิชิตมอนสเตอร์ทุกสายพันธุ์
+169,Accolades_Trophies,289,1192,4797,Variety Clubber,ผู้พิชิตมอนสเตอร์ทุกสายพันธุ์
+169,Accolades_Trophies,290,1196,4813,Awarded for defeating every single species of monster.,มอบให้แก่ผู้ที่ปราบมอนสเตอร์ครบทุกสายพันธุ์ในเกม
 169,Accolades_Trophies,291,1200,4868,,
 169,Accolades_Trophies,292,1204,4869,,
 169,Accolades_Trophies,293,1208,4870,,
 169,Accolades_Trophies,294,1212,4871,,
 169,Accolades_Trophies,295,1216,4872,,
-169,Accolades_Trophies,296,1220,4873,Beastmaster,
-169,Accolades_Trophies,297,1224,4885,Beastmaster,
-169,Accolades_Trophies,298,1228,4897,Awarded for recruiting every single species of monster minion.,
+169,Accolades_Trophies,296,1220,4873,Beastmaster,นายแห่งอสูรทั้งปวง
+169,Accolades_Trophies,297,1224,4885,Beastmaster,นายแห่งอสูรทั้งปวง
+169,Accolades_Trophies,298,1228,4897,Awarded for recruiting every single species of monster minion.,มอบให้แก่ผู้ที่ได้รับเหรียญมอนสเตอร์ลูกน้องครบทุกสายพันธุ์ในเกม
 169,Accolades_Trophies,299,1232,4960,,
 169,Accolades_Trophies,300,1236,4961,,
 169,Accolades_Trophies,301,1240,4962,,
 169,Accolades_Trophies,302,1244,4963,,
 169,Accolades_Trophies,303,1248,4964,,
-169,Accolades_Trophies,304,1252,4965,Dunquestin,
-169,Accolades_Trophies,305,1256,4976,Dunquestin,
-169,Accolades_Trophies,306,1260,4987,Awarded for completing every quest.,
+169,Accolades_Trophies,304,1252,4965,Dunquestin,ผู้พิชิตทุกเควสต์
+169,Accolades_Trophies,305,1256,4976,Dunquestin,ผู้พิชิตทุกเควสต์
+169,Accolades_Trophies,306,1260,4987,Awarded for completing every quest.,มอบให้แก่ผู้ที่ทำเควสต์ครบทั้งหมดในเกม
 169,Accolades_Trophies,307,1264,5023,,
 169,Accolades_Trophies,308,1268,5024,,
 169,Accolades_Trophies,309,1272,5025,,
 169,Accolades_Trophies,310,1276,5026,,
 169,Accolades_Trophies,311,1280,5027,,
-169,Accolades_Trophies,312,1284,5028,Monster Mugger,
-169,Accolades_Trophies,313,1288,5043,Monster Mugger,
-169,Accolades_Trophies,314,1292,5058,Awarded for obtaining every kind of item monsters drop.,
+169,Accolades_Trophies,312,1284,5028,Monster Mugger,รูดทรัพย์มอนสเตอร์ครบครัน
+169,Accolades_Trophies,313,1288,5043,Monster Mugger,รูดทรัพย์มอนสเตอร์ครบครัน
+169,Accolades_Trophies,314,1292,5058,Awarded for obtaining every kind of item monsters drop.,มอบให้แก่ผู้ที่ได้รับไอเทมดรอปจากมอนสเตอร์ครบทุกชนิด
 169,Accolades_Trophies,315,1296,5114,,
 169,Accolades_Trophies,316,1300,5115,,
 169,Accolades_Trophies,317,1304,5116,,
 169,Accolades_Trophies,318,1308,5117,,
 169,Accolades_Trophies,319,1312,5118,,
-169,Accolades_Trophies,320,1316,5119,Way of the Warrior,
-169,Accolades_Trophies,321,1320,5138,Way of the Warrior,
-169,Accolades_Trophies,322,1324,5157,Awarded for obtaining the warrior's ring.,
+169,Accolades_Trophies,320,1316,5119,Way of the Warrior,วิถีแห่งนักรบกล้า
+169,Accolades_Trophies,321,1320,5138,Way of the Warrior,วิถีแห่งนักรบกล้า
+169,Accolades_Trophies,322,1324,5157,Awarded for obtaining the warrior's ring.,มอบให้แก่ผู้ที่ได้รับแหวนแห่งนักรบ
 169,Accolades_Trophies,323,1328,5199,,
 169,Accolades_Trophies,324,1332,5200,,
 169,Accolades_Trophies,325,1336,5201,,
 169,Accolades_Trophies,326,1340,5202,,
 169,Accolades_Trophies,327,1344,5203,,
-169,Accolades_Trophies,328,1348,5204,A Prophecy Fulfilled,
-169,Accolades_Trophies,329,1352,5225,A Prophecy Fulfilled,
-169,Accolades_Trophies,330,1356,5246,Awarded for fulfilling the prophecy.,
+169,Accolades_Trophies,328,1348,5204,A Prophecy Fulfilled,คำทำนายสัมฤทธิผล
+169,Accolades_Trophies,329,1352,5225,A Prophecy Fulfilled,คำทำนายสัมฤทธิผล
+169,Accolades_Trophies,330,1356,5246,Awarded for fulfilling the prophecy.,มอบให้แก่ผู้ที่ทำตามคำทำนายจนลุล่วงสมบูรณ์
 169,Accolades_Trophies,331,1360,5283,,
 169,Accolades_Trophies,332,1364,5284,,
 169,Accolades_Trophies,333,1368,5285,,
 169,Accolades_Trophies,334,1372,5286,,
 169,Accolades_Trophies,335,1376,5287,,
-169,Accolades_Trophies,336,1380,5288,All Puffed Out,
-169,Accolades_Trophies,337,1384,5303,All Puffed Out,
-169,Accolades_Trophies,338,1388,5318,Awarded for...closing your eyes in front of every single ally.,
+169,Accolades_Trophies,336,1380,5288,All Puffed Out,มนต์เสน่ห์ปัฟปัฟ
+169,Accolades_Trophies,337,1384,5303,All Puffed Out,มนต์เสน่ห์ปัฟปัฟ
+169,Accolades_Trophies,338,1388,5318,Awarded for...closing your eyes in front of every single ally.,มอบให้แก่ผู้ที่...หลับตาลงต่อหน้าเพื่อนร่วมทีมทุกคนครบทุกคน
 169,Accolades_Trophies,339,1392,5381,,
 169,Accolades_Trophies,340,1396,5382,,
 169,Accolades_Trophies,341,1400,5383,,

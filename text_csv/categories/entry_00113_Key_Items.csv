@@ -1,184 +1,184 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-113,Key_Items,0,36,1636,thief's key,
-113,Key_Items,1,40,1648,thief's key,
-113,Key_Items,2,44,1660,A terrific tool that lets you open locked boxes and doors.,
-113,Key_Items,3,48,1719,thief's keys,
+113,Key_Items,0,36,1636,thief's key,กุญแจจอมโจร
+113,Key_Items,1,40,1648,thief's key,กุญแจจอมโจร
+113,Key_Items,2,44,1660,A terrific tool that lets you open locked boxes and doors.,เครื่องมือชั้นยอดที่ช่วยให้คุณเปิดหีบสมบัติและประตูที่ลงกลอนไว้ได้
+113,Key_Items,3,48,1719,thief's keys,กุญแจจอมโจร
 113,Key_Items,4,52,1732,the ,
 113,Key_Items,5,56,1737,the ,
 113,Key_Items,6,60,1742,the ,
 113,Key_Items,7,64,1747,some ,
-113,Key_Items,8,68,1753,Zoomethyst,
-113,Key_Items,9,72,1764,Zoomethyst,
-113,Key_Items,10,76,1775,A cool jewel that lets you zip about by using Zoom.,
-113,Key_Items,11,80,1827,Zoomethysts,
+113,Key_Items,8,68,1753,Zoomethyst,อัญมณีรูร่า
+113,Key_Items,9,72,1764,Zoomethyst,อัญมณีรูร่า
+113,Key_Items,10,76,1775,A cool jewel that lets you zip about by using Zoom.,อัญมณีล้ำค่าสุดวิเศษที่ช่วยให้คุณเดินทางข้ามมิติอย่างรวดเร็วด้วยคาถารูร่า
+113,Key_Items,11,80,1827,Zoomethysts,อัญมณีรูร่า
 113,Key_Items,12,84,1839,the ,
 113,Key_Items,13,88,1844,the ,
 113,Key_Items,14,92,1849,a ,
 113,Key_Items,15,96,1852,some ,
-113,Key_Items,16,100,1858,monster medal holder,
-113,Key_Items,17,104,1879,monster medal holder,
-113,Key_Items,18,108,1900,Contains coins that let you call on monster mates.,
-113,Key_Items,19,112,1951,monster medal holders,
+113,Key_Items,16,100,1858,monster medal holder,กล่องใส่เหรียญมอนสเตอร์
+113,Key_Items,17,104,1879,monster medal holder,กล่องใส่เหรียญมอนสเตอร์
+113,Key_Items,18,108,1900,Contains coins that let you call on monster mates.,กล่องสำหรับเก็บเหรียญเพื่อใช้เรียกเหล่าสหายสัตว์ประหลาดออกมาช่วยต่อสู้
+113,Key_Items,19,112,1951,monster medal holders,กล่องใส่เหรียญมอนสเตอร์
 113,Key_Items,20,116,1973,the ,
 113,Key_Items,21,120,1978,the ,
 113,Key_Items,22,124,1983,the ,
 113,Key_Items,23,128,1988,some ,
-113,Key_Items,24,132,1994,client list,
-113,Key_Items,25,136,2006,client list,
-113,Key_Items,26,140,2018,A list of a certain salesman's key clients.,
-113,Key_Items,27,144,2062,client lists,
+113,Key_Items,24,132,1994,client list,บัญชีรายชื่อลูกค้า
+113,Key_Items,25,136,2006,client list,บัญชีรายชื่อลูกค้า
+113,Key_Items,26,140,2018,A list of a certain salesman's key clients.,เอกสารรายชื่อลูกค้ารายสำคัญของพ่อค้าคนหนึ่ง
+113,Key_Items,27,144,2062,client lists,บัญชีรายชื่อลูกค้า
 113,Key_Items,28,148,2075,the ,
 113,Key_Items,29,152,2080,the ,
 113,Key_Items,30,156,2085,a ,
 113,Key_Items,31,160,2088,some ,
-113,Key_Items,32,164,2094,writ of passage,
-113,Key_Items,33,168,2110,writ of passage,
-113,Key_Items,34,172,2126,A document enabling the bearer to enter Dunisia.,
-113,Key_Items,35,176,2175,writs of passage,
+113,Key_Items,32,164,2094,writ of passage,หนังสือผ่านทาง
+113,Key_Items,33,168,2110,writ of passage,หนังสือผ่านทาง
+113,Key_Items,34,172,2126,A document enabling the bearer to enter Dunisia.,เอกสารอนุญาตให้ผู้ถือสามารถเดินทางเข้าสู่อาณาจักรดูนิเซียได้
+113,Key_Items,35,176,2175,writs of passage,หนังสือผ่านทาง
 113,Key_Items,36,180,2192,the ,
 113,Key_Items,37,184,2197,the ,
 113,Key_Items,38,188,2202,a ,
 113,Key_Items,39,192,2205,some ,
-113,Key_Items,40,196,2211,Healstone,
-113,Key_Items,41,200,2221,Healstone,
-113,Key_Items,42,204,2231,A life-saving stone that mends injuries incurred in battle.,
-113,Key_Items,43,208,2291,Healstones,
+113,Key_Items,40,196,2211,Healstone,ศิลาฮอยมี่
+113,Key_Items,41,200,2221,Healstone,ศิลาฮอยมี่
+113,Key_Items,42,204,2231,A life-saving stone that mends injuries incurred in battle.,หินช่วยชีวิตที่ช่วยรักษาบาดแผลที่ได้รับในการต่อสู้
+113,Key_Items,43,208,2291,Healstones,ศิลาฮอยมี่
 113,Key_Items,44,212,2302,the ,
 113,Key_Items,45,216,2307,the ,
 113,Key_Items,46,220,2312,a ,
 113,Key_Items,47,224,2315,some ,
-113,Key_Items,48,228,2321,Midhealstone,
-113,Key_Items,49,232,2334,Midhealstone,
+113,Key_Items,48,228,2321,Midhealstone,ศิลาเบฮอยมี่
+113,Key_Items,49,232,2334,Midhealstone,ศิลาเบฮอยมี่
 113,Key_Items,50,236,2347,,
-113,Key_Items,51,240,2348,Midhealstone,
+113,Key_Items,51,240,2348,Midhealstone,ศิลาเบฮอยมี่
 113,Key_Items,52,244,2361,,
 113,Key_Items,53,248,2362,,
 113,Key_Items,54,252,2363,,
 113,Key_Items,55,256,2364,,
-113,Key_Items,56,260,2365,Morehealstone,
-113,Key_Items,57,264,2379,Morehealstone,
+113,Key_Items,56,260,2365,Morehealstone,ศิลาเบโฮม่า
+113,Key_Items,57,264,2379,Morehealstone,ศิลาเบโฮม่า
 113,Key_Items,58,268,2393,,
-113,Key_Items,59,272,2394,Morehealstone,
+113,Key_Items,59,272,2394,Morehealstone,ศิลาเบโฮม่า
 113,Key_Items,60,276,2408,,
 113,Key_Items,61,280,2409,,
 113,Key_Items,62,284,2410,,
 113,Key_Items,63,288,2411,,
-113,Key_Items,64,292,2412,Fullhealstone,
-113,Key_Items,65,296,2426,Fullhealstone,
+113,Key_Items,64,292,2412,Fullhealstone,ศิลาเบโฮมาซุน
+113,Key_Items,65,296,2426,Fullhealstone,ศิลาเบโฮมาซุน
 113,Key_Items,66,300,2440,,
-113,Key_Items,67,304,2441,Fullhealstone,
+113,Key_Items,67,304,2441,Fullhealstone,ศิลาเบโฮมาซุน
 113,Key_Items,68,308,2455,,
 113,Key_Items,69,312,2456,,
 113,Key_Items,70,316,2457,,
 113,Key_Items,71,320,2458,,
-113,Key_Items,72,324,2459,pepstone,
-113,Key_Items,73,328,2468,pepstone,
-113,Key_Items,74,332,2477,An ingenious Ingenian gem that turns up tension.,
-113,Key_Items,75,336,2526,pepstones,
+113,Key_Items,72,324,2459,pepstone,อัญมณีเทนชันอินเกเนีย
+113,Key_Items,73,328,2468,pepstone,อัญมณีเทนชันอินเกเนีย
+113,Key_Items,74,332,2477,An ingenious Ingenian gem that turns up tension.,อัญมณีอันแยบยลแห่งอินเกเนียที่ช่วยปลุกเร้าเทนชันให้พลุ่งพล่าน
+113,Key_Items,75,336,2526,pepstones,อัญมณีเทนชันอินเกเนีย
 113,Key_Items,76,340,2536,the ,
 113,Key_Items,77,344,2541,the ,
 113,Key_Items,78,348,2546,a ,
 113,Key_Items,79,352,2549,some ,
-113,Key_Items,80,356,2555,powerstone,
-113,Key_Items,81,360,2566,powerstone,
-113,Key_Items,82,364,2577,An Al-Khazami ore that increases tension.,
-113,Key_Items,83,368,2619,powerstones,
+113,Key_Items,80,356,2555,powerstone,แร่หินพลังอัลคาซาม
+113,Key_Items,81,360,2566,powerstone,แร่หินพลังอัลคาซาม
+113,Key_Items,82,364,2577,An Al-Khazami ore that increases tension.,แร่หินจากอัลคาซามที่ช่วยเพิ่มพูนเทนชัน
+113,Key_Items,83,368,2619,powerstones,แร่หินพลังอัลคาซาม
 113,Key_Items,84,372,2631,the ,
 113,Key_Items,85,376,2636,the ,
 113,Key_Items,86,380,2641,a ,
 113,Key_Items,87,384,2644,some ,
-113,Key_Items,88,388,2650,Trinity Stone,
-113,Key_Items,89,392,2664,Trinity Stone,
-113,Key_Items,90,396,2678,An ancient artefact required for a taxing trial.,
-113,Key_Items,91,400,2727,Trinity Stones,
+113,Key_Items,88,388,2650,Trinity Stone,ศิลาตรีเอกานุภาพ
+113,Key_Items,89,392,2664,Trinity Stone,ศิลาตรีเอกานุภาพ
+113,Key_Items,90,396,2678,An ancient artefact required for a taxing trial.,โบราณวัตถุในตำนานที่จำเป็นสำหรับการเข้ารับบททดสอบอันแสนเข็ญ
+113,Key_Items,91,400,2727,Trinity Stones,ศิลาตรีเอกานุภาพ
 113,Key_Items,92,404,2742,the ,
 113,Key_Items,93,408,2747,the ,
 113,Key_Items,94,412,2752,the ,
 113,Key_Items,95,416,2757,some ,
-113,Key_Items,96,420,2763,curious container,
-113,Key_Items,97,424,2781,curious container,
-113,Key_Items,98,428,2799,A vessel with a very special power inside.,
-113,Key_Items,99,432,2842,curious containers,
+113,Key_Items,96,420,2763,curious container,ภาชนะปริศนา
+113,Key_Items,97,424,2781,curious container,ภาชนะปริศนา
+113,Key_Items,98,428,2799,A vessel with a very special power inside.,ภาชนะที่มีพลังพิเศษอันลึกลับซ่อนเร้นอยู่ภายใน
+113,Key_Items,99,432,2842,curious containers,ภาชนะปริศนา
 113,Key_Items,100,436,2861,the ,
 113,Key_Items,101,440,2866,the ,
 113,Key_Items,102,444,2871,a ,
 113,Key_Items,103,448,2874,some ,
-113,Key_Items,104,452,2880,Heart of Brightness,
-113,Key_Items,105,456,2900,Heart of Brightness,
-113,Key_Items,106,460,2920,A gemstone able to drive out the deepest darkness.,
-113,Key_Items,107,464,2971,Hearts of Brightness,
+113,Key_Items,104,452,2880,Heart of Brightness,ดวงใจแห่งแสงสว่าง
+113,Key_Items,105,456,2900,Heart of Brightness,ดวงใจแห่งแสงสว่าง
+113,Key_Items,106,460,2920,A gemstone able to drive out the deepest darkness.,อัญมณีศักดิ์สิทธิ์ที่สามารถขับไล่ความมืดมิดอันลึกดำดิ่งที่สุดได้
+113,Key_Items,107,464,2971,Hearts of Brightness,ดวงใจแห่งแสงสว่าง
 113,Key_Items,108,468,2992,the ,
 113,Key_Items,109,472,2997,the ,
 113,Key_Items,110,476,3002,the ,
 113,Key_Items,111,480,3007,some ,
-113,Key_Items,112,484,3013,wed herring,
-113,Key_Items,113,488,3025,wed herring,
-113,Key_Items,114,492,3037,A fish from Harba that's full of marital magic.,
-113,Key_Items,115,496,3085,wed herrings,
+113,Key_Items,112,484,3013,wed herring,ปลามงคลสมรส
+113,Key_Items,113,488,3025,wed herring,ปลามงคลสมรส
+113,Key_Items,114,492,3037,A fish from Harba that's full of marital magic.,ปลาหายากจากฮาร์บาที่เปี่ยมล้นไปด้วยมนตร์วิเศษแห่งการครองเรือน
+113,Key_Items,115,496,3085,wed herrings,ปลามงคลสมรส
 113,Key_Items,116,500,3098,the ,
 113,Key_Items,117,504,3103,the ,
 113,Key_Items,118,508,3108,a ,
 113,Key_Items,119,512,3111,some ,
-113,Key_Items,120,516,3117,Lapis Leveli,
-113,Key_Items,121,520,3130,Lapis Leveli,
-113,Key_Items,122,524,3143,Only monsters can make use of this sorcerous stone.,
-113,Key_Items,123,528,3195,Lapis Levelis,
+113,Key_Items,120,516,3117,Lapis Leveli,ศิลาลาพิสเลเวลิ
+113,Key_Items,121,520,3130,Lapis Leveli,ศิลาลาพิสเลเวลิ
+113,Key_Items,122,524,3143,Only monsters can make use of this sorcerous stone.,มีเพียงสัตว์ประหลาดเท่านั้นที่สามารถดึงพลังของหินเวทมนตร์นี้มาใช้ได้
+113,Key_Items,123,528,3195,Lapis Levelis,ศิลาลาพิสเลเวลิ
 113,Key_Items,124,532,3209,the ,
 113,Key_Items,125,536,3214,the ,
 113,Key_Items,126,540,3219,a ,
 113,Key_Items,127,544,3222,some ,
-113,Key_Items,128,548,3228,warrior's ring,
-113,Key_Items,129,552,3243,warrior's ring,
-113,Key_Items,130,556,3258,The mark of a mighty warrior...or a preening maiden.,
-113,Key_Items,131,560,3311,warrior's rings,
+113,Key_Items,128,548,3228,warrior's ring,แหวนแห่งนักรบ
+113,Key_Items,129,552,3243,warrior's ring,แหวนแห่งนักรบ
+113,Key_Items,130,556,3258,The mark of a mighty warrior...or a preening maiden.,สัญลักษณ์แห่งนักรบผู้เกรียงไกร...หรืออาจเป็นของหญิงสาวผู้รักสวยรักงาม
+113,Key_Items,131,560,3311,warrior's rings,แหวนแห่งนักรบ
 113,Key_Items,132,564,3327,the ,
 113,Key_Items,133,568,3332,the ,
 113,Key_Items,134,572,3337,a ,
 113,Key_Items,135,576,3340,some ,
-113,Key_Items,136,580,3346,good wood,
-113,Key_Items,137,584,3356,good wood,
-113,Key_Items,138,588,3366,"Rare, rock-solid lumber from the Wildwood.",
-113,Key_Items,139,592,3409,pieces of good wood,
+113,Key_Items,136,580,3346,good wood,ไม้เนื้อดี
+113,Key_Items,137,584,3356,good wood,ไม้เนื้อดี
+113,Key_Items,138,588,3366,"Rare, rock-solid lumber from the Wildwood.",ไม้ท่อนแข็งแกร่งดั่งหินผาและหายากจากพงไพรไวลด์วูด
+113,Key_Items,139,592,3409,pieces of good wood,ไม้เนื้อดี
 113,Key_Items,140,596,3429,the ,
 113,Key_Items,141,600,3434,the ,
 113,Key_Items,142,604,3439,a piece of ,
 113,Key_Items,143,608,3451,some ,
-113,Key_Items,144,612,3457,mini medal,
-113,Key_Items,145,616,3468,mini medal,
+113,Key_Items,144,612,3457,mini medal,เหรียญเล็ก
+113,Key_Items,145,616,3468,mini medal,เหรียญเล็ก
 113,Key_Items,146,620,3479,,
-113,Key_Items,147,624,3480,mini medals,
+113,Key_Items,147,624,3480,mini medals,เหรียญเล็ก
 113,Key_Items,148,628,3492,the ,
 113,Key_Items,149,632,3497,the ,
 113,Key_Items,150,636,3502,a ,
 113,Key_Items,151,640,3505,some ,
-113,Key_Items,152,644,3511,gold coin,
-113,Key_Items,153,648,3521,gold coin,
+113,Key_Items,152,644,3511,gold coin,เหรียญทอง
+113,Key_Items,153,648,3521,gold coin,เหรียญทอง
 113,Key_Items,154,652,3531,,
-113,Key_Items,155,656,3532,gold coins,
+113,Key_Items,155,656,3532,gold coins,เหรียญทอง
 113,Key_Items,156,660,3543,the ,
 113,Key_Items,157,664,3548,the ,
 113,Key_Items,158,668,3553,a ,
 113,Key_Items,159,672,3556,some ,
-113,Key_Items,160,676,3562,Yggdrasil leaf,
-113,Key_Items,161,680,3577,Yggdrasil leaf,
+113,Key_Items,160,676,3562,Yggdrasil leaf,ใบไม้อิกดราซิล
+113,Key_Items,161,680,3577,Yggdrasil leaf,ใบไม้อิกดราซิล
 113,Key_Items,162,684,3592,,
-113,Key_Items,163,688,3593,Yggdrasil leaves,
+113,Key_Items,163,688,3593,Yggdrasil leaves,ใบไม้อิกดราซิล
 113,Key_Items,164,692,3610,the ,
 113,Key_Items,165,696,3615,the ,
 113,Key_Items,166,700,3620,an ,
 113,Key_Items,167,704,3624,some ,
-113,Key_Items,168,708,3630,bonus ball,
-113,Key_Items,169,712,3641,bonus ball,
+113,Key_Items,168,708,3630,bonus ball,ลูกแก้วโบนัส
+113,Key_Items,169,712,3641,bonus ball,ลูกแก้วโบนัส
 113,Key_Items,170,716,3652,,
-113,Key_Items,171,720,3653,bonus balls,
+113,Key_Items,171,720,3653,bonus balls,ลูกแก้วโบนัส
 113,Key_Items,172,724,3665,the ,
 113,Key_Items,173,728,3670,the ,
 113,Key_Items,174,732,3675,a ,
 113,Key_Items,175,736,3678,some ,
-113,Key_Items,176,740,3684,quicksilver key,
-113,Key_Items,177,744,3700,quicksilver key,
+113,Key_Items,176,740,3684,quicksilver key,กุญแจปรอทเงิน
+113,Key_Items,177,744,3700,quicksilver key,กุญแจปรอทเงิน
 113,Key_Items,178,748,3716,,
-113,Key_Items,179,752,3717,quicksilver keys,
+113,Key_Items,179,752,3717,quicksilver keys,กุญแจปรอทเงิน
 113,Key_Items,180,756,3734,the ,
 113,Key_Items,181,760,3739,the ,
 113,Key_Items,182,764,3744,a ,
