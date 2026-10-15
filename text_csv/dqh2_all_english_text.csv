@@ -34835,140 +34835,140 @@
 204,Menus_UI_Settings,797,3220,66820,未使用,
 204,Menus_UI_Settings,798,3224,66830,未使用,
 204,Menus_UI_Settings,799,3228,66840,未使用,
-204,Menus_UI_Settings,800,3232,66850,Lv.,
-204,Menus_UI_Settings,801,3236,66854,<FI>,
-204,Menus_UI_Settings,802,3240,66858,/,
-204,Menus_UI_Settings,803,3244,66860,Yes,
-204,Menus_UI_Settings,804,3248,66864,No,
-204,Menus_UI_Settings,805,3252,66867,Equipped Weapon,
+204,Menus_UI_Settings,800,3232,66850,Lv.,Lv.
+204,Menus_UI_Settings,801,3236,66854,<FI>,<FI>
+204,Menus_UI_Settings,802,3240,66858,/,/
+204,Menus_UI_Settings,803,3244,66860,Yes,ใช่
+204,Menus_UI_Settings,804,3248,66864,No,ไม่
+204,Menus_UI_Settings,805,3252,66867,Equipped Weapon,อาวุธที่สวมใส่
 204,Menus_UI_Settings,806,3256,66883,,
-204,Menus_UI_Settings,807,3260,66884,No. Owned,
+204,Menus_UI_Settings,807,3260,66884,No. Owned,จำนวนที่มี
 204,Menus_UI_Settings,808,3264,66894,,
 204,Menus_UI_Settings,809,3268,66895,UNUSED,
 204,Menus_UI_Settings,810,3272,66902,UNUSED,
-204,Menus_UI_Settings,811,3276,66909,Buy,
-204,Menus_UI_Settings,812,3280,66913,Sell,
-204,Menus_UI_Settings,813,3284,66918,How many<FH>,
-204,Menus_UI_Settings,814,3288,66930,Total,
-204,Menus_UI_Settings,815,3292,66936,Remaining,
-204,Menus_UI_Settings,816,3296,66946,Shards,
+204,Menus_UI_Settings,811,3276,66909,Buy,ซื้อ
+204,Menus_UI_Settings,812,3280,66913,Sell,ขาย
+204,Menus_UI_Settings,813,3284,66918,How many<FH>,จำนวนกี่ชิ้น<FH>
+204,Menus_UI_Settings,814,3288,66930,Total,ราคารวม
+204,Menus_UI_Settings,815,3292,66936,Remaining,คงเหลือ
+204,Menus_UI_Settings,816,3296,66946,Shards,เศษอาวุธ
 204,Menus_UI_Settings,817,3300,66953,UNUSED,
 204,Menus_UI_Settings,818,3304,66960,UNUSED,
-204,Menus_UI_Settings,819,3308,66967,Weapons,
-204,Menus_UI_Settings,820,3312,66975,Orbs,
-204,Menus_UI_Settings,821,3316,66980,Accessories,
-204,Menus_UI_Settings,822,3320,66992,Ingredients,
-204,Menus_UI_Settings,823,3324,67004,Remaining,
-204,Menus_UI_Settings,824,3328,67014,G,
-204,Menus_UI_Settings,825,3332,67016,<FH>,
-204,Menus_UI_Settings,826,3336,67020,<FH><FH><FH>,
-204,Menus_UI_Settings,827,3340,67030,Cannot Sell,
+204,Menus_UI_Settings,819,3308,66967,Weapons,อาวุธ
+204,Menus_UI_Settings,820,3312,66975,Orbs,ลูกแก้ว
+204,Menus_UI_Settings,821,3316,66980,Accessories,เครื่องประดับ
+204,Menus_UI_Settings,822,3320,66992,Ingredients,วัตถุดิบ
+204,Menus_UI_Settings,823,3324,67004,Remaining,คงเหลือ
+204,Menus_UI_Settings,824,3328,67014,G,G
+204,Menus_UI_Settings,825,3332,67016,<FH>,<FH>
+204,Menus_UI_Settings,826,3336,67020,<FH><FH><FH>,<FH><FH><FH>
+204,Menus_UI_Settings,827,3340,67030,Cannot Sell,ขายไม่ได้
 204,Menus_UI_Settings,828,3344,67042,UNUSED,
-204,Menus_UI_Settings,829,3348,67049,Members<FI> <GR>1,
-204,Menus_UI_Settings,830,3352,67065,(,
-204,Menus_UI_Settings,831,3356,67067,),
-204,Menus_UI_Settings,832,3360,67069,Needed,
-204,Menus_UI_Settings,833,3364,67076,Spells and Abilities,
-204,Menus_UI_Settings,834,3368,67097,Remove,
-204,Menus_UI_Settings,835,3372,67104,MP Cost,
-204,Menus_UI_Settings,836,3376,67112,HP,
-204,Menus_UI_Settings,837,3380,67115,MP,
-204,Menus_UI_Settings,838,3384,67118,Maximum HP,
-204,Menus_UI_Settings,839,3388,67129,Maximum MP,
-204,Menus_UI_Settings,840,3392,67140,Attack,
-204,Menus_UI_Settings,841,3396,67147,Defence,
-204,Menus_UI_Settings,842,3400,67155,Magical Might,
-204,Menus_UI_Settings,843,3404,67169,Strength,
-204,Menus_UI_Settings,844,3408,67178,Resilience,
-204,Menus_UI_Settings,845,3412,67189,Wisdom,
-204,Menus_UI_Settings,846,3416,67196,Deftness,
-204,Menus_UI_Settings,847,3420,67205,None,
-204,Menus_UI_Settings,848,3424,67210,<FE>x,
-204,Menus_UI_Settings,849,3428,67215,Weapon,
-204,Menus_UI_Settings,850,3432,67222,Shield,
-204,Menus_UI_Settings,851,3436,67229,Costume,
-204,Menus_UI_Settings,852,3440,67237,Important Items,
-204,Menus_UI_Settings,853,3444,67253,Ingredients,
-204,Menus_UI_Settings,854,3448,67265,Dropped By,
-204,Menus_UI_Settings,855,3452,67276,Skill Points,
+204,Menus_UI_Settings,829,3348,67049,Members<FI> <GR>1,สมาชิก<FI> <GR>1
+204,Menus_UI_Settings,830,3352,67065,(,(
+204,Menus_UI_Settings,831,3356,67067,),)
+204,Menus_UI_Settings,832,3360,67069,Needed,ต้องการ
+204,Menus_UI_Settings,833,3364,67076,Spells and Abilities,คาถาและท่าไม้ตาย
+204,Menus_UI_Settings,834,3368,67097,Remove,ถอดออก
+204,Menus_UI_Settings,835,3372,67104,MP Cost,MP ที่ใช้
+204,Menus_UI_Settings,836,3376,67112,HP,HP
+204,Menus_UI_Settings,837,3380,67115,MP,MP
+204,Menus_UI_Settings,838,3384,67118,Maximum HP,HP สูงสุด
+204,Menus_UI_Settings,839,3388,67129,Maximum MP,MP สูงสุด
+204,Menus_UI_Settings,840,3392,67140,Attack,พลังโจมตี
+204,Menus_UI_Settings,841,3396,67147,Defence,พลังป้องกัน
+204,Menus_UI_Settings,842,3400,67155,Magical Might,พลังเวท
+204,Menus_UI_Settings,843,3404,67169,Strength,พละกำลัง
+204,Menus_UI_Settings,844,3408,67178,Resilience,ความอดทน
+204,Menus_UI_Settings,845,3412,67189,Wisdom,สติปัญญา
+204,Menus_UI_Settings,846,3416,67196,Deftness,ความคล่องแคล่ว
+204,Menus_UI_Settings,847,3420,67205,None,ไม่มี
+204,Menus_UI_Settings,848,3424,67210,<FE>x,<FE>x
+204,Menus_UI_Settings,849,3428,67215,Weapon,อาวุธ
+204,Menus_UI_Settings,850,3432,67222,Shield,โล่
+204,Menus_UI_Settings,851,3436,67229,Costume,ชุดเครื่องแต่งกาย
+204,Menus_UI_Settings,852,3440,67237,Important Items,ไอเทมสำคัญ
+204,Menus_UI_Settings,853,3444,67253,Ingredients,วัตถุดิบ
+204,Menus_UI_Settings,854,3448,67265,Dropped By,ดรอปจาก
+204,Menus_UI_Settings,855,3452,67276,Skill Points,แต้มสกิล
 204,Menus_UI_Settings,856,3456,67289,,
-204,Menus_UI_Settings,857,3460,67290,Details,
-204,Menus_UI_Settings,858,3464,67298,Vocation,
-204,Menus_UI_Settings,859,3468,67307,All,
-204,Menus_UI_Settings,860,3472,67311,Party Powers,
-204,Menus_UI_Settings,861,3476,67324,Proficiency,
-204,Menus_UI_Settings,862,3480,67336,Exp.,
-204,Menus_UI_Settings,863,3484,67341,To Next Level,
-204,Menus_UI_Settings,864,3488,67355,None,
+204,Menus_UI_Settings,857,3460,67290,Details,รายละเอียด
+204,Menus_UI_Settings,858,3464,67298,Vocation,อาชีพ
+204,Menus_UI_Settings,859,3468,67307,All,ทั้งหมด
+204,Menus_UI_Settings,860,3472,67311,Party Powers,พลังปาร์ตี้
+204,Menus_UI_Settings,861,3476,67324,Proficiency,ความชำนาญ
+204,Menus_UI_Settings,862,3480,67336,Exp.,Exp.
+204,Menus_UI_Settings,863,3484,67341,To Next Level,สู่เลเวลถัดไป
+204,Menus_UI_Settings,864,3488,67355,None,ไม่มี
 204,Menus_UI_Settings,865,3492,67360,,
 204,Menus_UI_Settings,866,3496,67361,,
-204,Menus_UI_Settings,867,3500,67362,View Details,
-204,Menus_UI_Settings,868,3504,67375,Cannot Equip,
-204,Menus_UI_Settings,869,3508,67388,<FH><FH><FH>,
-204,Menus_UI_Settings,870,3512,67398,Monster Medals,
-204,Menus_UI_Settings,871,3516,67413,Settings,
-204,Menus_UI_Settings,872,3520,67422,On,
-204,Menus_UI_Settings,873,3524,67425,Off,
-204,Menus_UI_Settings,874,3528,67429,R1,
-204,Menus_UI_Settings,875,3532,67432,R2,
-204,Menus_UI_Settings,876,3536,67435,Saviour,
-204,Menus_UI_Settings,877,3540,67443,Sentry,
-204,Menus_UI_Settings,878,3544,67450,Substitute,
-204,Menus_UI_Settings,879,3548,67461,Type,
-204,Menus_UI_Settings,880,3552,67466,Gold Coins,
-204,Menus_UI_Settings,881,3556,67477,%,
-204,Menus_UI_Settings,882,3560,67479,Monsters,
-204,Menus_UI_Settings,883,3564,67488,Monster Minions,
-204,Menus_UI_Settings,884,3568,67504,Quests,
-204,Menus_UI_Settings,885,3572,67511,+,
-204,Menus_UI_Settings,886,3576,67513,.,
-204,Menus_UI_Settings,887,3580,67515,%,
-204,Menus_UI_Settings,888,3584,67517,Etc.,
-204,Menus_UI_Settings,889,3588,67522,Player Rank,
-204,Menus_UI_Settings,890,3592,67534,Player Points,
-204,Menus_UI_Settings,891,3596,67548,Confirm,
-204,Menus_UI_Settings,892,3600,67556,Notes,
-204,Menus_UI_Settings,893,3604,67562,Weapons,
-204,Menus_UI_Settings,894,3608,67570,Orbs,
-204,Menus_UI_Settings,895,3612,67575,Accessories,
-204,Menus_UI_Settings,896,3616,67587,Ingredients,
-204,Menus_UI_Settings,897,3620,67599,Tag Trick,
-204,Menus_UI_Settings,898,3624,67609,Bonus Balls,
-204,Menus_UI_Settings,899,3628,67621,Online Name,
-204,Menus_UI_Settings,900,3632,67633,Cancel,
-204,Menus_UI_Settings,901,3636,67640,Bonus Balls,
-204,Menus_UI_Settings,902,3640,67652,Quicksilver Keys,
-204,Menus_UI_Settings,903,3644,67669,War Zone,
-204,Menus_UI_Settings,904,3648,67678,Friends,
-204,Menus_UI_Settings,905,3652,67686,All Set<FG>,
-204,Menus_UI_Settings,906,3656,67697,Waiting...,
-204,Menus_UI_Settings,907,3660,67708,Invitation Declined,
-204,Menus_UI_Settings,908,3664,67728,Searching...,
-204,Menus_UI_Settings,909,3668,67741,Ad Hoc Mode,
-204,Menus_UI_Settings,910,3672,67753,Infrastructure Mode,
-204,Menus_UI_Settings,911,3676,67773,★,
-204,Menus_UI_Settings,912,3680,67777,Kazapple,
-204,Menus_UI_Settings,913,3684,67786,Random,
-204,Menus_UI_Settings,914,3688,67793,Delete,
-204,Menus_UI_Settings,915,3692,67800,Required Level,
-204,Menus_UI_Settings,916,3696,67815,Dungeon Map,
-204,Menus_UI_Settings,917,3700,67827,Multiplayer Party,
-204,Menus_UI_Settings,918,3704,67845,Mini medal,
+204,Menus_UI_Settings,867,3500,67362,View Details,ดูรายละเอียด
+204,Menus_UI_Settings,868,3504,67375,Cannot Equip,สวมใส่ไม่ได้
+204,Menus_UI_Settings,869,3508,67388,<FH><FH><FH>,<FH><FH><FH>
+204,Menus_UI_Settings,870,3512,67398,Monster Medals,เหรียญมอนสเตอร์
+204,Menus_UI_Settings,871,3516,67413,Settings,ตั้งค่า
+204,Menus_UI_Settings,872,3520,67422,On,เปิด
+204,Menus_UI_Settings,873,3524,67425,Off,ปิด
+204,Menus_UI_Settings,874,3528,67429,R1,R1
+204,Menus_UI_Settings,875,3532,67432,R2,R2
+204,Menus_UI_Settings,876,3536,67435,Saviour,สายช่วยเหลือ (Saviour)
+204,Menus_UI_Settings,877,3540,67443,Sentry,สายเฝ้าระวัง (Sentry)
+204,Menus_UI_Settings,878,3544,67450,Substitute,สายแปลงร่าง (Substitute)
+204,Menus_UI_Settings,879,3548,67461,Type,ประเภท
+204,Menus_UI_Settings,880,3552,67466,Gold Coins,เหรียญทอง
+204,Menus_UI_Settings,881,3556,67477,%,%
+204,Menus_UI_Settings,882,3560,67479,Monsters,สัตว์ประหลาด
+204,Menus_UI_Settings,883,3564,67488,Monster Minions,มินเนียนมอนสเตอร์
+204,Menus_UI_Settings,884,3568,67504,Quests,เควสต์
+204,Menus_UI_Settings,885,3572,67511,+,+
+204,Menus_UI_Settings,886,3576,67513,.,.
+204,Menus_UI_Settings,887,3580,67515,%,%
+204,Menus_UI_Settings,888,3584,67517,Etc.,อื่น ๆ
+204,Menus_UI_Settings,889,3588,67522,Player Rank,แรงก์ผู้เล่น
+204,Menus_UI_Settings,890,3592,67534,Player Points,แต้มผู้เล่น
+204,Menus_UI_Settings,891,3596,67548,Confirm,ยืนยัน
+204,Menus_UI_Settings,892,3600,67556,Notes,บันทึก
+204,Menus_UI_Settings,893,3604,67562,Weapons,อาวุธ
+204,Menus_UI_Settings,894,3608,67570,Orbs,ลูกแก้ว
+204,Menus_UI_Settings,895,3612,67575,Accessories,เครื่องประดับ
+204,Menus_UI_Settings,896,3616,67587,Ingredients,วัตถุดิบ
+204,Menus_UI_Settings,897,3620,67599,Tag Trick,แท็กทริก (Tag Trick)
+204,Menus_UI_Settings,898,3624,67609,Bonus Balls,โบนัสบอล
+204,Menus_UI_Settings,899,3628,67621,Online Name,ชื่อออนไลน์
+204,Menus_UI_Settings,900,3632,67633,Cancel,ยกเลิก
+204,Menus_UI_Settings,901,3636,67640,Bonus Balls,โบนัสบอล
+204,Menus_UI_Settings,902,3640,67652,Quicksilver Keys,กุญแจควิกซิลเวอร์คีย์
+204,Menus_UI_Settings,903,3644,67669,War Zone,เขตสงคราม
+204,Menus_UI_Settings,904,3648,67678,Friends,เพื่อน
+204,Menus_UI_Settings,905,3652,67686,All Set<FG>,พร้อมทั้งหมดแล้ว<FG>
+204,Menus_UI_Settings,906,3656,67697,Waiting...,กำลังรอ...
+204,Menus_UI_Settings,907,3660,67708,Invitation Declined,ปฏิเสธคำเชิญแล้ว
+204,Menus_UI_Settings,908,3664,67728,Searching...,กำลังค้นหา...
+204,Menus_UI_Settings,909,3668,67741,Ad Hoc Mode,โหมดเฉพาะกิจ (Ad Hoc)
+204,Menus_UI_Settings,910,3672,67753,Infrastructure Mode,โหมดโครงสร้างพื้นฐาน (Infrastructure)
+204,Menus_UI_Settings,911,3676,67773,★,★
+204,Menus_UI_Settings,912,3680,67777,Kazapple,มินาดีน (Kazapple)
+204,Menus_UI_Settings,913,3684,67786,Random,สุ่ม
+204,Menus_UI_Settings,914,3688,67793,Delete,ลบ
+204,Menus_UI_Settings,915,3692,67800,Required Level,เลเวลที่ต้องการ
+204,Menus_UI_Settings,916,3696,67815,Dungeon Map,แผนที่ดันเจี้ยน
+204,Menus_UI_Settings,917,3700,67827,Multiplayer Party,ปาร์ตี้เล่นหลายคน
+204,Menus_UI_Settings,918,3704,67845,Mini medal,มินิเมดัล
 204,Menus_UI_Settings,919,3708,67856,,
-204,Menus_UI_Settings,920,3712,67857,-,
-204,Menus_UI_Settings,921,3716,67859,Multiplayer Version,
+204,Menus_UI_Settings,920,3712,67857,-,-
+204,Menus_UI_Settings,921,3716,67859,Multiplayer Version,เวอร์ชันมัลติเพลเยอร์
 204,Menus_UI_Settings,922,3720,67879,NOT USED,
-204,Menus_UI_Settings,923,3724,67888,Searching for players...,
-204,Menus_UI_Settings,924,3728,67913,<P2> Search (All Players),
+204,Menus_UI_Settings,923,3724,67888,Searching for players...,กำลังค้นหาผู้เล่น...
+204,Menus_UI_Settings,924,3728,67913,<P2> Search (All Players),<P2> ค้นหา (ผู้เล่นทุกคน)
 204,Menus_UI_Settings,925,3732,67938,NOT USED,
-204,Menus_UI_Settings,926,3736,67947,Searching using secret number <GR>1...,
-204,Menus_UI_Settings,927,3740,67985,<P2> Search (Secret Number),
-204,Menus_UI_Settings,928,3744,68012,Rank <GR>1,
-204,Menus_UI_Settings,929,3748,68022,Hocus Pocus,
-204,Menus_UI_Settings,930,3752,68034,Cooperative,
-204,Menus_UI_Settings,931,3756,68046,Competitive,
-204,Menus_UI_Settings,932,3760,68058,Rank,
-204,Menus_UI_Settings,933,3764,68063,To Next Rank,
+204,Menus_UI_Settings,926,3736,67947,Searching using secret number <GR>1...,กำลังค้นหาด้วยหมายเลขลับ <GR>1...
+204,Menus_UI_Settings,927,3740,67985,<P2> Search (Secret Number),<P2> ค้นหา (หมายเลขลับ)
+204,Menus_UI_Settings,928,3744,68012,Rank <GR>1,แรงก์ <GR>1
+204,Menus_UI_Settings,929,3748,68022,Hocus Pocus,พัลปุนเต้ (Hocus Pocus)
+204,Menus_UI_Settings,930,3752,68034,Cooperative,ร่วมมือกัน
+204,Menus_UI_Settings,931,3756,68046,Competitive,แข่งขันกัน
+204,Menus_UI_Settings,932,3760,68058,Rank,แรงก์
+204,Menus_UI_Settings,933,3764,68063,To Next Rank,สู่แรงก์ถัดไป
 204,Menus_UI_Settings,934,3768,68076,未使用,
 204,Menus_UI_Settings,935,3772,68086,未使用,
 204,Menus_UI_Settings,936,3776,68096,未使用,
@@ -35035,213 +35035,213 @@
 204,Menus_UI_Settings,997,4020,68706,未使用,
 204,Menus_UI_Settings,998,4024,68716,未使用,
 204,Menus_UI_Settings,999,4028,68726,未使用,
-204,Menus_UI_Settings,1000,4032,68736,Venture Forth,
-204,Menus_UI_Settings,1001,4036,68750,Create Adventure Log,
-204,Menus_UI_Settings,1002,4040,68771,Delete Adventure Log,
-204,Menus_UI_Settings,1003,4044,68792,Adventure Log,
-204,Menus_UI_Settings,1004,4048,68806,Play Time,
-204,Menus_UI_Settings,1005,4052,68816,Recorded,
-204,Menus_UI_Settings,1006,4056,68825,To Do,
+204,Menus_UI_Settings,1000,4032,68736,Venture Forth,ออกเดินทาง
+204,Menus_UI_Settings,1001,4036,68750,Create Adventure Log,สร้างบันทึกการเดินทาง
+204,Menus_UI_Settings,1002,4040,68771,Delete Adventure Log,ลบบันทึกการเดินทาง
+204,Menus_UI_Settings,1003,4044,68792,Adventure Log,บันทึกการเดินทาง
+204,Menus_UI_Settings,1004,4048,68806,Play Time,เวลาเล่น
+204,Menus_UI_Settings,1005,4052,68816,Recorded,บันทึกเมื่อ
+204,Menus_UI_Settings,1006,4056,68825,To Do,สิ่งที่ต้องทำ
 204,Menus_UI_Settings,1007,4060,68831,Unused,
-204,Menus_UI_Settings,1008,4064,68838,A hot-headed young knight-in-training who'll stop at nothing to do what's right.,
-204,Menus_UI_Settings,1009,4068,68919,"A cool, collected young knight-in-training who leads with natural wit and talent.",
-204,Menus_UI_Settings,1010,4072,69001,Please choose a name for your hero.,
-204,Menus_UI_Settings,1011,4076,69037,Enter a name for your hero's cousin.,
-204,Menus_UI_Settings,1012,4080,69074,Hero,
-204,Menus_UI_Settings,1013,4084,69079,Cousin,
-204,Menus_UI_Settings,1014,4088,69086,Control Method,
-204,Menus_UI_Settings,1015,4092,69101,Manually perform every action<MV>ideal for seriously strategic players<FG>,
-204,Menus_UI_Settings,1016,4096,69174,Play with simple button combinations<MV>great if you want to get straight into the action<FG>,
-204,Menus_UI_Settings,1017,4100,69266,Confession (Save),
-204,Menus_UI_Settings,1018,4104,69284,End Your Adventure,
-204,Menus_UI_Settings,1019,4108,69303,Confirm,
-204,Menus_UI_Settings,1020,4112,69311,View Rewards,
-204,Menus_UI_Settings,1021,4116,69324,To Next Reward,
-204,Menus_UI_Settings,1022,4120,69339,Medals to Date,
-204,Menus_UI_Settings,1023,4124,69354,Acquired,
-204,Menus_UI_Settings,1024,4128,69363,Memories,
-204,Menus_UI_Settings,1025,4132,69372,<GR>1<FI> %s,
-204,Menus_UI_Settings,1026,4136,69383,%s,
-204,Menus_UI_Settings,1027,4140,69386,%s,
-204,Menus_UI_Settings,1028,4144,69389,Enhance Accessories,
-204,Menus_UI_Settings,1029,4148,69409,Grind Down Accessories,
-204,Menus_UI_Settings,1030,4152,69432,Basic Effects,
-204,Menus_UI_Settings,1031,4156,69446,Held,
-204,Menus_UI_Settings,1032,4160,69451,-----,
-204,Menus_UI_Settings,1033,4164,69457,---,
-204,Menus_UI_Settings,1034,4168,69461,Yield,
-204,Menus_UI_Settings,1035,4172,69467,Effects Gained,
-204,Menus_UI_Settings,1036,4176,69482,Ingredients Required,
-204,Menus_UI_Settings,1037,4180,69503,Held,
-204,Menus_UI_Settings,1038,4184,69508,<GR>1,
-204,Menus_UI_Settings,1039,4188,69513,Effect List,
-204,Menus_UI_Settings,1040,4192,69525,After Equipping,
-204,Menus_UI_Settings,1041,4196,69541,Difference,
-204,Menus_UI_Settings,1042,4200,69552,Appraise,
-204,Menus_UI_Settings,1043,4204,69561,Kiryl casts Thwack...\nbut it doesn't work<FG>,
-204,Menus_UI_Settings,1044,4208,69606,Equippable Weapons,
-204,Menus_UI_Settings,1045,4212,69625,Look out below<FG>,
-204,Menus_UI_Settings,1046,4216,69643,Hit the ceiling<FG>,
-204,Menus_UI_Settings,1047,4220,69662,The rosary wards off death<FG>,
-204,Menus_UI_Settings,1048,4224,69692,The spell is reflected<FG>,
-204,Menus_UI_Settings,1049,4228,69718,Critical spell<FG>,
-204,Menus_UI_Settings,1050,4232,69736,(By Type),
-204,Menus_UI_Settings,1051,4236,69746,(By Completion),
-204,Menus_UI_Settings,1052,4240,69762,(By Name),
-204,Menus_UI_Settings,1053,4244,69772,Swap,
-204,Menus_UI_Settings,1054,4248,69777,Save,
-204,Menus_UI_Settings,1055,4252,69782,Cancel,
-204,Menus_UI_Settings,1056,4256,69789,You earned a bonus of %d experience points<FG>,
-204,Menus_UI_Settings,1057,4260,69835,Client,
-204,Menus_UI_Settings,1058,4264,69842,Take on Quests,
-204,Menus_UI_Settings,1059,4268,69857,Time Limit,
-204,Menus_UI_Settings,1060,4272,69868,WANTED<FG>,
-204,Menus_UI_Settings,1061,4276,69878,Skills,
-204,Menus_UI_Settings,1062,4280,69885,Equipment,
-204,Menus_UI_Settings,1063,4284,69895,Inventory,
-204,Menus_UI_Settings,1064,4288,69905,Attributes,
-204,Menus_UI_Settings,1065,4292,69916,Action List,
-204,Menus_UI_Settings,1066,4296,69928,Battle Records,
-204,Menus_UI_Settings,1067,4300,69943,Misc.,
-204,Menus_UI_Settings,1068,4304,69949,Traveller's Tome,
-204,Menus_UI_Settings,1069,4308,69966,Zoom,
-204,Menus_UI_Settings,1070,4312,69971,Evac,
-204,Menus_UI_Settings,1071,4316,69976,Watcher's Wings,
-204,Menus_UI_Settings,1072,4320,69992,Allocate Skill Points,
-204,Menus_UI_Settings,1073,4324,70014,Set Spells and Abilities,
-204,Menus_UI_Settings,1074,4328,70039,Set Party Powers,
-204,Menus_UI_Settings,1075,4332,70056,Requirements,
-204,Menus_UI_Settings,1076,4336,70069,<C9>%sR,
-204,Menus_UI_Settings,1077,4340,70077,Reach Lv. %#2d,
-204,Menus_UI_Settings,1078,4344,70092,For All Vocations,
-204,Menus_UI_Settings,1079,4348,70110,<F4><I0>61 Skills,
-204,Menus_UI_Settings,1080,4352,70126,For <F4>%s,
-204,Menus_UI_Settings,1081,4356,70136,Points Required,
-204,Menus_UI_Settings,1082,4360,70152,Total,
-204,Menus_UI_Settings,1083,4364,70158,(By Cost),
-204,Menus_UI_Settings,1084,4368,70168,(By Oldest),
-204,Menus_UI_Settings,1085,4372,70180,Equipment and Attributes,
-204,Menus_UI_Settings,1086,4376,70205,Spells and Abilities,
-204,Menus_UI_Settings,1087,4380,70226,Skills,
-204,Menus_UI_Settings,1088,4384,70233,No skills active.,
-204,Menus_UI_Settings,1089,4388,70251,Renown,
-204,Menus_UI_Settings,1090,4392,70258,Completed,
-204,Menus_UI_Settings,1091,4396,70268,Battle Records,
-204,Menus_UI_Settings,1092,4400,70283,Quest List,
-204,Menus_UI_Settings,1093,4404,70294,Defeated Monster List,
-204,Menus_UI_Settings,1094,4408,70316,Monster Minion List,
-204,Menus_UI_Settings,1095,4412,70336,Ingredient List,
-204,Menus_UI_Settings,1096,4416,70352,Weapon List,
-204,Menus_UI_Settings,1097,4420,70364,Orb List,
-204,Menus_UI_Settings,1098,4424,70373,Accessory List,
-204,Menus_UI_Settings,1099,4428,70388,Number Completed,
-204,Menus_UI_Settings,1100,4432,70405,Number Defeated,
-204,Menus_UI_Settings,1101,4436,70421,Types Defeated,
-204,Menus_UI_Settings,1102,4440,70436,Number Recruited,
-204,Menus_UI_Settings,1103,4444,70453,Types Recruited,
-204,Menus_UI_Settings,1104,4448,70469,Types Collected,
-204,Menus_UI_Settings,1105,4452,70485,Types Collected,
-204,Menus_UI_Settings,1106,4456,70501,Types Collected,
-204,Menus_UI_Settings,1107,4460,70517,Types Collected,
-204,Menus_UI_Settings,1108,4464,70533,List Completion,
-204,Menus_UI_Settings,1109,4468,70549,List Completion,
-204,Menus_UI_Settings,1110,4472,70565,List Completion,
-204,Menus_UI_Settings,1111,4476,70581,List Completion,
-204,Menus_UI_Settings,1112,4480,70597,List Completion,
-204,Menus_UI_Settings,1113,4484,70613,List Completion,
-204,Menus_UI_Settings,1114,4488,70629,List Completion,
-204,Menus_UI_Settings,1115,4492,70645,Random,
-204,Menus_UI_Settings,1116,4496,70652,Items Dropped,
-204,Menus_UI_Settings,1117,4500,70666,Field Notes,
-204,Menus_UI_Settings,1118,4504,70678,Marked Version,
-204,Menus_UI_Settings,1119,4508,70693,Apprehended,
-204,Menus_UI_Settings,1120,4512,70705,At Large,
-204,Menus_UI_Settings,1121,4516,70714,Number Defeated,
-204,Menus_UI_Settings,1122,4520,70730,Minion Notes,
-204,Menus_UI_Settings,1123,4524,70743,Completed Quests,
-204,Menus_UI_Settings,1124,4528,70760,View Quests,
-204,Menus_UI_Settings,1125,4532,70772,Current Quests,
-204,Menus_UI_Settings,1126,4536,70787,Time Remaining,
-204,Menus_UI_Settings,1127,4540,70802,Set Phrases,
-204,Menus_UI_Settings,1128,4544,70814,Inn,
-204,Menus_UI_Settings,1129,4548,70818,Battle,
-204,Menus_UI_Settings,1130,4552,70825,Page,
-204,Menus_UI_Settings,1131,4556,70830,Control Method,
-204,Menus_UI_Settings,1132,4560,70845,Manual,
-204,Menus_UI_Settings,1133,4564,70852,System Settings,
-204,Menus_UI_Settings,1134,4568,70868,Camera Settings,
-204,Menus_UI_Settings,1135,4572,70884,Volume Settings,
-204,Menus_UI_Settings,1136,4576,70900,Configure settings.,
-204,Menus_UI_Settings,1137,4580,70920,Configure camera settings.,
-204,Menus_UI_Settings,1138,4584,70947,Configure audio volume settings.,
-204,Menus_UI_Settings,1139,4588,70980,Autosave,
-204,Menus_UI_Settings,1140,4592,70989,Online Features,
-204,Menus_UI_Settings,1141,4596,71005,Control Type,
+204,Menus_UI_Settings,1008,4064,68838,A hot-headed young knight-in-training who'll stop at nothing to do what's right.,อัศวินฝึกหัดหนุ่มเลือดร้อน ผู้ไม่ยอมให้อะไรมาหยุดยั้งความถูกต้อง
+204,Menus_UI_Settings,1009,4068,68919,"A cool, collected young knight-in-training who leads with natural wit and talent.",อัศวินฝึกหัดสาวผู้สุขุมเยือกเย็น ผู้นำทางด้วยไหวพริบและพรสวรรค์ตามธรรมชาติ
+204,Menus_UI_Settings,1010,4072,69001,Please choose a name for your hero.,โปรดเลือกชื่อสำหรับผู้กล้าของคุณ
+204,Menus_UI_Settings,1011,4076,69037,Enter a name for your hero's cousin.,โปรดป้อนชื่อให้ลูกพี่ลูกน้องของผู้กล้า
+204,Menus_UI_Settings,1012,4080,69074,Hero,ผู้กล้า
+204,Menus_UI_Settings,1013,4084,69079,Cousin,ลูกพี่ลูกน้อง
+204,Menus_UI_Settings,1014,4088,69086,Control Method,รูปแบบการควบคุม
+204,Menus_UI_Settings,1015,4092,69101,Manually perform every action<MV>ideal for seriously strategic players<FG>,สั่งการทุกแอ็กชันด้วยตนเอง<MV>เหมาะสำหรับผู้เล่นสายกลยุทธ์ตัวจริง<FG>
+204,Menus_UI_Settings,1016,4096,69174,Play with simple button combinations<MV>great if you want to get straight into the action<FG>,เล่นด้วยการกดปุ่มคอมโบแบบง่าย ๆ<MV>เหมาะสำหรับผู้ที่ต้องการเข้าถึงแอ็กชันทันที<FG>
+204,Menus_UI_Settings,1017,4100,69266,Confession (Save),สารภาพบาป (เซฟ)
+204,Menus_UI_Settings,1018,4104,69284,End Your Adventure,ยุติการผจญภัย
+204,Menus_UI_Settings,1019,4108,69303,Confirm,ยืนยัน
+204,Menus_UI_Settings,1020,4112,69311,View Rewards,ดูรางวัล
+204,Menus_UI_Settings,1021,4116,69324,To Next Reward,สู่รางวัลถัดไป
+204,Menus_UI_Settings,1022,4120,69339,Medals to Date,เหรียญสะสมทั้งหมด
+204,Menus_UI_Settings,1023,4124,69354,Acquired,ได้รับแล้ว
+204,Menus_UI_Settings,1024,4128,69363,Memories,ความทรงจำ
+204,Menus_UI_Settings,1025,4132,69372,<GR>1<FI> %s,<GR>1<FI> %s
+204,Menus_UI_Settings,1026,4136,69383,%s,%s
+204,Menus_UI_Settings,1027,4140,69386,%s,%s
+204,Menus_UI_Settings,1028,4144,69389,Enhance Accessories,เสริมพลังเครื่องประดับ
+204,Menus_UI_Settings,1029,4148,69409,Grind Down Accessories,บดสลายเครื่องประดับ
+204,Menus_UI_Settings,1030,4152,69432,Basic Effects,คุณสมบัติพื้นฐาน
+204,Menus_UI_Settings,1031,4156,69446,Held,ครอบครอง
+204,Menus_UI_Settings,1032,4160,69451,-----,-----
+204,Menus_UI_Settings,1033,4164,69457,---,---
+204,Menus_UI_Settings,1034,4168,69461,Yield,ผลลัพธ์ที่ได้
+204,Menus_UI_Settings,1035,4172,69467,Effects Gained,คุณสมบัติที่ได้รับ
+204,Menus_UI_Settings,1036,4176,69482,Ingredients Required,วัตถุดิบที่ต้องใช้
+204,Menus_UI_Settings,1037,4180,69503,Held,ครอบครอง
+204,Menus_UI_Settings,1038,4184,69508,<GR>1,<GR>1
+204,Menus_UI_Settings,1039,4188,69513,Effect List,รายการคุณสมบัติ
+204,Menus_UI_Settings,1040,4192,69525,After Equipping,หลังสวมใส่
+204,Menus_UI_Settings,1041,4196,69541,Difference,ผลต่าง
+204,Menus_UI_Settings,1042,4200,69552,Appraise,ประเมินค่า
+204,Menus_UI_Settings,1043,4204,69561,Kiryl casts Thwack...\nbut it doesn't work<FG>,คริฟต์ร่ายคาถาซาคิต...\nแต่ไม่ได้ผล<FG>
+204,Menus_UI_Settings,1044,4208,69606,Equippable Weapons,อาวุธที่สวมใส่ได้
+204,Menus_UI_Settings,1045,4212,69625,Look out below<FG>,ระวังข้างล่าง<FG>
+204,Menus_UI_Settings,1046,4216,69643,Hit the ceiling<FG>,หัวโขกเพดาน<FG>
+204,Menus_UI_Settings,1047,4220,69662,The rosary wards off death<FG>,สายประคำช่วยปัดเป่าความตาย<FG>
+204,Menus_UI_Settings,1048,4224,69692,The spell is reflected<FG>,คาถาถูกสะท้อนกลับ<FG>
+204,Menus_UI_Settings,1049,4228,69718,Critical spell<FG>,เวทมนตร์ติดคริติคอล<FG>
+204,Menus_UI_Settings,1050,4232,69736,(By Type),(ตามประเภท)
+204,Menus_UI_Settings,1051,4236,69746,(By Completion),(ตามความสำเร็จ)
+204,Menus_UI_Settings,1052,4240,69762,(By Name),(ตามชื่อ)
+204,Menus_UI_Settings,1053,4244,69772,Swap,แลกเปลี่ยน
+204,Menus_UI_Settings,1054,4248,69777,Save,บันทึกไว้
+204,Menus_UI_Settings,1055,4252,69782,Cancel,ยกเลิก
+204,Menus_UI_Settings,1056,4256,69789,You earned a bonus of %d experience points<FG>,คุณได้รับโบนัสค่าประสบการณ์ %d แต้ม<FG>
+204,Menus_UI_Settings,1057,4260,69835,Client,ผู้ว่าจ้าง
+204,Menus_UI_Settings,1058,4264,69842,Take on Quests,รับเควสต์
+204,Menus_UI_Settings,1059,4268,69857,Time Limit,เวลาที่กำหนด
+204,Menus_UI_Settings,1060,4272,69868,WANTED<FG>,หมายจับ (WANTED)<FG>
+204,Menus_UI_Settings,1061,4276,69878,Skills,สกิล
+204,Menus_UI_Settings,1062,4280,69885,Equipment,อุปกรณ์สวมใส่
+204,Menus_UI_Settings,1063,4284,69895,Inventory,ช่องเก็บของ
+204,Menus_UI_Settings,1064,4288,69905,Attributes,คุณสมบัติ
+204,Menus_UI_Settings,1065,4292,69916,Action List,รายการแอ็กชัน
+204,Menus_UI_Settings,1066,4296,69928,Battle Records,บันทึกการต่อสู้
+204,Menus_UI_Settings,1067,4300,69943,Misc.,อื่น ๆ
+204,Menus_UI_Settings,1068,4304,69949,Traveller's Tome,บันทึกนักเดินทาง
+204,Menus_UI_Settings,1069,4308,69966,Zoom,รูล่า (Zoom)
+204,Menus_UI_Settings,1070,4312,69971,Evac,ริเรมิต (Evac)
+204,Menus_UI_Settings,1071,4316,69976,Watcher's Wings,ปีกนกเค้าแมว (Watcher's Wings)
+204,Menus_UI_Settings,1072,4320,69992,Allocate Skill Points,จัดสรรแต้มสกิล
+204,Menus_UI_Settings,1073,4324,70014,Set Spells and Abilities,ติดตั้งคาถาและท่าไม้ตาย
+204,Menus_UI_Settings,1074,4328,70039,Set Party Powers,ติดตั้งพลังปาร์ตี้
+204,Menus_UI_Settings,1075,4332,70056,Requirements,เงื่อนไขที่ต้องการ
+204,Menus_UI_Settings,1076,4336,70069,<C9>%sR,<C9>%sR
+204,Menus_UI_Settings,1077,4340,70077,Reach Lv. %#2d,เลเวลถึง Lv. %#2d
+204,Menus_UI_Settings,1078,4344,70092,For All Vocations,สำหรับทุกอาชีพ
+204,Menus_UI_Settings,1079,4348,70110,<F4><I0>61 Skills,สกิลของ <F4><I0>61
+204,Menus_UI_Settings,1080,4352,70126,For <F4>%s,สำหรับ <F4>%s
+204,Menus_UI_Settings,1081,4356,70136,Points Required,แต้มที่ต้องใช้
+204,Menus_UI_Settings,1082,4360,70152,Total,รวม
+204,Menus_UI_Settings,1083,4364,70158,(By Cost),(ตามแต้มที่ใช้)
+204,Menus_UI_Settings,1084,4368,70168,(By Oldest),(ตามลำดับเก่าสุด)
+204,Menus_UI_Settings,1085,4372,70180,Equipment and Attributes,อุปกรณ์และคุณสมบัติ
+204,Menus_UI_Settings,1086,4376,70205,Spells and Abilities,คาถาและท่าไม้ตาย
+204,Menus_UI_Settings,1087,4380,70226,Skills,สกิล
+204,Menus_UI_Settings,1088,4384,70233,No skills active.,ไม่มีสกิลที่ใช้งานอยู่
+204,Menus_UI_Settings,1089,4388,70251,Renown,ชื่อเสียง
+204,Menus_UI_Settings,1090,4392,70258,Completed,สำเร็จแล้ว
+204,Menus_UI_Settings,1091,4396,70268,Battle Records,บันทึกการต่อสู้
+204,Menus_UI_Settings,1092,4400,70283,Quest List,รายการเควสต์
+204,Menus_UI_Settings,1093,4404,70294,Defeated Monster List,รายชื่อมอนสเตอร์ที่ปราบแล้ว
+204,Menus_UI_Settings,1094,4408,70316,Monster Minion List,รายชื่อมินเนียนมอนสเตอร์
+204,Menus_UI_Settings,1095,4412,70336,Ingredient List,รายการวัตถุดิบ
+204,Menus_UI_Settings,1096,4416,70352,Weapon List,รายการอาวุธ
+204,Menus_UI_Settings,1097,4420,70364,Orb List,รายการลูกแก้ว
+204,Menus_UI_Settings,1098,4424,70373,Accessory List,รายการเครื่องประดับ
+204,Menus_UI_Settings,1099,4428,70388,Number Completed,จำนวนที่สำเร็จ
+204,Menus_UI_Settings,1100,4432,70405,Number Defeated,จำนวนที่ปราบ
+204,Menus_UI_Settings,1101,4436,70421,Types Defeated,ชนิดที่ปราบ
+204,Menus_UI_Settings,1102,4440,70436,Number Recruited,จำนวนที่รับสมัคร
+204,Menus_UI_Settings,1103,4444,70453,Types Recruited,ชนิดที่รับสมัคร
+204,Menus_UI_Settings,1104,4448,70469,Types Collected,ชนิดที่สะสมได้
+204,Menus_UI_Settings,1105,4452,70485,Types Collected,ชนิดที่สะสมได้
+204,Menus_UI_Settings,1106,4456,70501,Types Collected,ชนิดที่สะสมได้
+204,Menus_UI_Settings,1107,4460,70517,Types Collected,ชนิดที่สะสมได้
+204,Menus_UI_Settings,1108,4464,70533,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1109,4468,70549,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1110,4472,70565,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1111,4476,70581,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1112,4480,70597,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1113,4484,70613,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1114,4488,70629,List Completion,ความสำเร็จของรายการ
+204,Menus_UI_Settings,1115,4492,70645,Random,สุ่ม
+204,Menus_UI_Settings,1116,4496,70652,Items Dropped,ไอเทมที่ดรอป
+204,Menus_UI_Settings,1117,4500,70666,Field Notes,บันทึกภาคสนาม
+204,Menus_UI_Settings,1118,4504,70678,Marked Version,เวอร์ชันที่มีหมายเหตุ
+204,Menus_UI_Settings,1119,4508,70693,Apprehended,จับกุมแล้ว
+204,Menus_UI_Settings,1120,4512,70705,At Large,ยังลอยนวล
+204,Menus_UI_Settings,1121,4516,70714,Number Defeated,จำนวนที่ปราบ
+204,Menus_UI_Settings,1122,4520,70730,Minion Notes,บันทึกมินเนียน
+204,Menus_UI_Settings,1123,4524,70743,Completed Quests,เควสต์ที่สำเร็จแล้ว
+204,Menus_UI_Settings,1124,4528,70760,View Quests,ดูเควสต์
+204,Menus_UI_Settings,1125,4532,70772,Current Quests,เควสต์ปัจจุบัน
+204,Menus_UI_Settings,1126,4536,70787,Time Remaining,เวลาที่เหลือ
+204,Menus_UI_Settings,1127,4540,70802,Set Phrases,ข้อความสำเร็จรูป
+204,Menus_UI_Settings,1128,4544,70814,Inn,โรงแรม
+204,Menus_UI_Settings,1129,4548,70818,Battle,การต่อสู้
+204,Menus_UI_Settings,1130,4552,70825,Page,หน้า
+204,Menus_UI_Settings,1131,4556,70830,Control Method,รูปแบบการควบคุม
+204,Menus_UI_Settings,1132,4560,70845,Manual,ควบคุมเอง (Manual)
+204,Menus_UI_Settings,1133,4564,70852,System Settings,ตั้งค่าระบบ
+204,Menus_UI_Settings,1134,4568,70868,Camera Settings,ตั้งค่ามุมกล้อง
+204,Menus_UI_Settings,1135,4572,70884,Volume Settings,ตั้งค่าระดับเสียง
+204,Menus_UI_Settings,1136,4576,70900,Configure settings.,ปรับแต่งการตั้งค่าระบบ
+204,Menus_UI_Settings,1137,4580,70920,Configure camera settings.,ปรับแต่งการตั้งค่ามุมกล้อง
+204,Menus_UI_Settings,1138,4584,70947,Configure audio volume settings.,ปรับแต่งระดับเสียงในเกม
+204,Menus_UI_Settings,1139,4588,70980,Autosave,บันทึกอัตโนมัติ
+204,Menus_UI_Settings,1140,4592,70989,Online Features,ฟีเจอร์ออนไลน์
+204,Menus_UI_Settings,1141,4596,71005,Control Type,รูปแบบการควบคุม
 204,Menus_UI_Settings,1142,4600,71018,UNUSED,
-204,Menus_UI_Settings,1143,4604,71025,<PC>/<PE> Function,
+204,Menus_UI_Settings,1143,4604,71025,<PC>/<PE> Function,ฟังก์ชัน <PC>/<PE>
 204,Menus_UI_Settings,1144,4608,71042,UNUSED,
-204,Menus_UI_Settings,1145,4612,71049,Vibration Function,
-204,Menus_UI_Settings,1146,4616,71068,Coup de Grâce Cutscenes,
-204,Menus_UI_Settings,1147,4620,71093,Damage Display,
-204,Menus_UI_Settings,1148,4624,71108,Show Control Guide,
-204,Menus_UI_Settings,1149,4628,71127,Restore Defaults,
+204,Menus_UI_Settings,1145,4612,71049,Vibration Function,ระบบสั่น
+204,Menus_UI_Settings,1146,4616,71068,Coup de Grâce Cutscenes,คัตซีนท่าไม้ตายปิดฉาก
+204,Menus_UI_Settings,1147,4620,71093,Damage Display,แสดงตัวเลขความเสียหาย
+204,Menus_UI_Settings,1148,4624,71108,Show Control Guide,แสดงคำแนะนำการควบคุม
+204,Menus_UI_Settings,1149,4628,71127,Restore Defaults,คืนค่าเริ่มต้น
 204,Menus_UI_Settings,1150,4632,71144,UNUSED,
 204,Menus_UI_Settings,1151,4636,71151,UNUSED,
 204,Menus_UI_Settings,1152,4640,71158,UNUSED,
-204,Menus_UI_Settings,1153,4644,71165,Standard,
-204,Menus_UI_Settings,1154,4648,71174,Inverted,
-204,Menus_UI_Settings,1155,4652,71183,"If enabled, your progress will be automatically recorded to the autosave adventure log.",
-204,Menus_UI_Settings,1156,4656,71271,"If enabled, the game will check for news and events.",
-204,Menus_UI_Settings,1157,4660,71324,Sets the type of controls to use.,
-204,Menus_UI_Settings,1158,4664,71358,Switches the buttons used to activate skills and evade enemy attacks.,
+204,Menus_UI_Settings,1153,4644,71165,Standard,มาตรฐาน
+204,Menus_UI_Settings,1154,4648,71174,Inverted,กลับทิศทาง
+204,Menus_UI_Settings,1155,4652,71183,"If enabled, your progress will be automatically recorded to the autosave adventure log.",หากเปิดใช้งาน ความก้าวหน้าของคุณจะถูกบันทึกลงในช่องบันทึกอัตโนมัติอย่างสม่ำเสมอ
+204,Menus_UI_Settings,1156,4656,71271,"If enabled, the game will check for news and events.",หากเปิดใช้งาน เกมจะตรวจสอบข่าวสารและกิจกรรมพิเศษ
+204,Menus_UI_Settings,1157,4660,71324,Sets the type of controls to use.,กำหนดรูปแบบการควบคุมที่ต้องการใช้งาน
+204,Menus_UI_Settings,1158,4664,71358,Switches the buttons used to activate skills and evade enemy attacks.,สลับปุ่มที่ใช้สำหรับเปิดใช้สกิลและหลบหลีกการโจมตีของศัตรู
 204,Menus_UI_Settings,1159,4668,71428,UNUSED,
 204,Menus_UI_Settings,1160,4672,71435,UNUSED,
-204,Menus_UI_Settings,1161,4676,71442,"If enabled, the wireless controller's vibration function will be activated.",
-204,Menus_UI_Settings,1162,4680,71518,"If enabled, cutscenes will play for every coup de grâce performed.",
-204,Menus_UI_Settings,1163,4684,71586,"If enabled, the amount of damage inflicted by each attack will be displayed.",
-204,Menus_UI_Settings,1164,4688,71663,"If enabled, control prompts will be displayed during battle.",
-204,Menus_UI_Settings,1165,4692,71724,Return all options to their default settings.,
-204,Menus_UI_Settings,1166,4696,71770,Y-Axis (Normal),
-204,Menus_UI_Settings,1167,4700,71786,Y-Axis (Aiming),
-204,Menus_UI_Settings,1168,4704,71802,X-Axis (Normal),
-204,Menus_UI_Settings,1169,4708,71818,X-Axis (Aiming),
-204,Menus_UI_Settings,1170,4712,71834,Reset Y-Axis,
-204,Menus_UI_Settings,1171,4716,71847,Follow,
-204,Menus_UI_Settings,1172,4720,71854,Automatic Lock-On,
-204,Menus_UI_Settings,1173,4724,71872,Camera Speed,
-204,Menus_UI_Settings,1174,4728,71885,Standard,
-204,Menus_UI_Settings,1175,4732,71894,Inverted,
-204,Menus_UI_Settings,1176,4736,71903,Choose how the camera will move vertically in normal play.,
-204,Menus_UI_Settings,1177,4740,71962,Choose how the camera will move vertically when aiming a weapon such as a bow.,
-204,Menus_UI_Settings,1178,4744,72041,Choose how the camera will move horizontally in normal play.,
-204,Menus_UI_Settings,1179,4748,72102,Choose how the camera will move horizontally when aiming a weapon such as a bow.,
-204,Menus_UI_Settings,1180,4752,72183,"If enabled, the camera will return to a position behind your character when reset.",
-204,Menus_UI_Settings,1181,4756,72266,"If enabled, the camera will always align itself behind the character you are controlling.",
-204,Menus_UI_Settings,1182,4760,72356,"If enabled, the camera will automatically focus on boss monsters.",
-204,Menus_UI_Settings,1183,4764,72422,Adjust the speed at which the camera moves.,
-204,Menus_UI_Settings,1184,4768,72466,Music,
-204,Menus_UI_Settings,1185,4772,72472,Jingles,
-204,Menus_UI_Settings,1186,4776,72480,Sound Effects,
-204,Menus_UI_Settings,1187,4780,72494,Voices,
-204,Menus_UI_Settings,1188,4784,72501,Adjust the volume of the background music.,
-204,Menus_UI_Settings,1189,4788,72544,Adjust the volume of in-game jingles.,
-204,Menus_UI_Settings,1190,4792,72582,Adjust the volume of the sound effects.,
-204,Menus_UI_Settings,1191,4796,72622,Adjust the volume of character voices and movie sound effects.,
-204,Menus_UI_Settings,1192,4800,72685,Remove from Party,
-204,Menus_UI_Settings,1193,4804,72703,None,
-204,Menus_UI_Settings,1194,4808,72708,None owned.,
-204,Menus_UI_Settings,1195,4812,72720,Nothing recorded.,
-204,Menus_UI_Settings,1196,4816,72738,Discard,
-204,Menus_UI_Settings,1197,4820,72746,Bonus Ball Time,
-204,Menus_UI_Settings,1198,4824,72762,<<sOTH>>,
-204,Menus_UI_Settings,1199,4828,72771,Centre,
-204,Menus_UI_Settings,1200,4832,72778,Gameplay Tips,
-204,Menus_UI_Settings,1201,4836,72792,Skip,
-204,Menus_UI_Settings,1202,4840,72797,Not enough MP<FG>,
-204,Menus_UI_Settings,1203,4844,72814,Your ally is unable to act<FG>,
-204,Menus_UI_Settings,1204,4848,72844,No Healstone power left<FG>,
-204,Menus_UI_Settings,1205,4852,72871,Took no damage<FG>,
-204,Menus_UI_Settings,1206,4856,72889,"This game is a copyrighted work. The copyright is held by a\ncollaboration of authors representing SQUARE ENIX CO., LTD.\nAdditionally, the music copyright is held by SUGIYAMA KOBO.\n\nStreaming of this game is permitted only in non-commercial\ncontexts. However, using streams of the game to primarily\nprovide or listen to the music is prohibited, even in such\nnon-commercial contexts.\n\nFor information on the terms of use relating to streaming the\ngame, please see the official DRAGON QUEST HEROES II site<FI>\nhttp<FI>//dragonquest-game.com/heroes2/",
+204,Menus_UI_Settings,1161,4676,71442,"If enabled, the wireless controller's vibration function will be activated.",หากเปิดใช้งาน ระบบสั่นของคอนโทรลเลอร์จะทำงาน
+204,Menus_UI_Settings,1162,4680,71518,"If enabled, cutscenes will play for every coup de grâce performed.",หากเปิดใช้งาน คัตซีนจะเล่นทุกครั้งเมื่อใช้ท่าไม้ตายปิดฉาก (Coup de Grâce)
+204,Menus_UI_Settings,1163,4684,71586,"If enabled, the amount of damage inflicted by each attack will be displayed.",หากเปิดใช้งาน ตัวเลขความเสียหายของการโจมตีแต่ละครั้งจะแสดงบนจอ
+204,Menus_UI_Settings,1164,4688,71663,"If enabled, control prompts will be displayed during battle.",หากเปิดใช้งาน คำแนะนำปุ่มควบคุมจะแสดงขึ้นในระหว่างการต่อสู้
+204,Menus_UI_Settings,1165,4692,71724,Return all options to their default settings.,คืนค่าตัวเลือกทั้งหมดกลับเป็นค่าเริ่มต้น
+204,Menus_UI_Settings,1166,4696,71770,Y-Axis (Normal),แกน Y (ปกติ)
+204,Menus_UI_Settings,1167,4700,71786,Y-Axis (Aiming),แกน Y (เล็งยิง)
+204,Menus_UI_Settings,1168,4704,71802,X-Axis (Normal),แกน X (ปกติ)
+204,Menus_UI_Settings,1169,4708,71818,X-Axis (Aiming),แกน X (เล็งยิง)
+204,Menus_UI_Settings,1170,4712,71834,Reset Y-Axis,รีเซ็ตแกน Y
+204,Menus_UI_Settings,1171,4716,71847,Follow,ติดตามตัวละคร
+204,Menus_UI_Settings,1172,4720,71854,Automatic Lock-On,ล็อกเป้าอัตโนมัติ
+204,Menus_UI_Settings,1173,4724,71872,Camera Speed,ความเร็วของมุมกล้อง
+204,Menus_UI_Settings,1174,4728,71885,Standard,มาตรฐาน
+204,Menus_UI_Settings,1175,4732,71894,Inverted,กลับทิศทาง
+204,Menus_UI_Settings,1176,4736,71903,Choose how the camera will move vertically in normal play.,เลือกทิศทางการเคลื่อนที่ของมุมกล้องในแนวตั้งสำหรับการเล่นปกติ
+204,Menus_UI_Settings,1177,4740,71962,Choose how the camera will move vertically when aiming a weapon such as a bow.,เลือกทิศทางการเคลื่อนที่ของมุมกล้องในแนวตั้งเมื่อเล็งอาวุธ เช่น คันธนู
+204,Menus_UI_Settings,1178,4744,72041,Choose how the camera will move horizontally in normal play.,เลือกทิศทางการเคลื่อนที่ของมุมกล้องในแนวนอนสำหรับการเล่นปกติ
+204,Menus_UI_Settings,1179,4748,72102,Choose how the camera will move horizontally when aiming a weapon such as a bow.,เลือกทิศทางการเคลื่อนที่ของมุมกล้องในแนวนอนเมื่อเล็งอาวุธ เช่น คันธนู
+204,Menus_UI_Settings,1180,4752,72183,"If enabled, the camera will return to a position behind your character when reset.",หากเปิดใช้งาน มุมกล้องจะกลับมาอยู่ด้านหลังตัวละครเมื่อกดรีเซ็ต
+204,Menus_UI_Settings,1181,4756,72266,"If enabled, the camera will always align itself behind the character you are controlling.",หากเปิดใช้งาน มุมกล้องจะหันไปอยู่ด้านหลังตัวละครที่คุณควบคุมอยู่เสมอ
+204,Menus_UI_Settings,1182,4760,72356,"If enabled, the camera will automatically focus on boss monsters.",หากเปิดใช้งาน มุมกล้องจะจับโฟกัสไปที่มอนสเตอร์ระดับบอสโดยอัตโนมัติ
+204,Menus_UI_Settings,1183,4764,72422,Adjust the speed at which the camera moves.,ปรับความเร็วในการเคลื่อนที่ของมุมกล้อง
+204,Menus_UI_Settings,1184,4768,72466,Music,เพลงประกอบ
+204,Menus_UI_Settings,1185,4772,72472,Jingles,เสียงกริ๊งสัญญาณ
+204,Menus_UI_Settings,1186,4776,72480,Sound Effects,เสียงเอฟเฟกต์
+204,Menus_UI_Settings,1187,4780,72494,Voices,เสียงพากย์
+204,Menus_UI_Settings,1188,4784,72501,Adjust the volume of the background music.,ปรับระดับเสียงเพลงประกอบ (BGM)
+204,Menus_UI_Settings,1189,4788,72544,Adjust the volume of in-game jingles.,ปรับระดับเสียงกริ๊งสัญญาณและดนตรีสั้นในเกม
+204,Menus_UI_Settings,1190,4792,72582,Adjust the volume of the sound effects.,ปรับระดับเสียงเอฟเฟกต์การต่อสู้และสิ่งแวดล้อม
+204,Menus_UI_Settings,1191,4796,72622,Adjust the volume of character voices and movie sound effects.,ปรับระดับเสียงพากย์ตัวละครและฉากคัตซีน
+204,Menus_UI_Settings,1192,4800,72685,Remove from Party,ถอดออกจากปาร์ตี้
+204,Menus_UI_Settings,1193,4804,72703,None,ไม่มี
+204,Menus_UI_Settings,1194,4808,72708,None owned.,ไม่มีในครอบครอง
+204,Menus_UI_Settings,1195,4812,72720,Nothing recorded.,ไม่มีข้อมูลบันทึก
+204,Menus_UI_Settings,1196,4816,72738,Discard,ทิ้ง
+204,Menus_UI_Settings,1197,4820,72746,Bonus Ball Time,เวลาโบนัสบอล
+204,Menus_UI_Settings,1198,4824,72762,<<sOTH>>,<<sOTH>>
+204,Menus_UI_Settings,1199,4828,72771,Centre,ตรงกลาง
+204,Menus_UI_Settings,1200,4832,72778,Gameplay Tips,เคล็ดลับการเล่น
+204,Menus_UI_Settings,1201,4836,72792,Skip,ข้าม
+204,Menus_UI_Settings,1202,4840,72797,Not enough MP<FG>,MP ไม่เพียงพอ<FG>
+204,Menus_UI_Settings,1203,4844,72814,Your ally is unable to act<FG>,เพื่อนร่วมทีมของคุณไม่สามารถเคลื่อนไหวได้<FG>
+204,Menus_UI_Settings,1204,4848,72844,No Healstone power left<FG>,พลังของหินฮีลสโตนหมดแล้ว<FG>
+204,Menus_UI_Settings,1205,4852,72871,Took no damage<FG>,ไม่ได้รับความเสียหายใด ๆ<FG>
+204,Menus_UI_Settings,1206,4856,72889,"This game is a copyrighted work. The copyright is held by a\ncollaboration of authors representing SQUARE ENIX CO., LTD.\nAdditionally, the music copyright is held by SUGIYAMA KOBO.\n\nStreaming of this game is permitted only in non-commercial\ncontexts. However, using streams of the game to primarily\nprovide or listen to the music is prohibited, even in such\nnon-commercial contexts.\n\nFor information on the terms of use relating to streaming the\ngame, please see the official DRAGON QUEST HEROES II site<FI>\nhttp<FI>//dragonquest-game.com/heroes2/","เกมนี้เป็นผลงานที่มีลิขสิทธิ์ ลิขสิทธิ์เป็นของกลุ่มผู้สร้างสรรค์ร่วมภายใต้ SQUARE ENIX CO., LTD.\nนอกจากนี้ ลิขสิทธิ์ดนตรีเป็นของ SUGIYAMA KOBO\n\nการสตรีมเกมนี้อนุญาตให้กระทำได้เฉพาะในบริบทที่ไม่แสวงหาผลกำไรเท่านั้น\nอย่างไรก็ตาม ห้ามนำการสตรีมไปใช้เพื่อจุดประสงค์ในการฟังดนตรีเป็นหลัก\nแม้จะเป็นบริบทที่ไม่แสวงหาผลกำไรก็ตาม\n\nสำหรับเงื่อนไขการใช้งานเกี่ยวกับการสตรีมเกม โปรดดูที่เว็บไซต์ทางการของ DRAGON QUEST HEROES II<FI>\nhttp<FI>//dragonquest-game.com/heroes2/"
 204,Menus_UI_Settings,1207,4860,73434,,
 204,Menus_UI_Settings,1208,4864,73435,,
 204,Menus_UI_Settings,1209,4868,73436,,
@@ -35253,218 +35253,218 @@
 204,Menus_UI_Settings,1215,4892,73442,,
 204,Menus_UI_Settings,1216,4896,73443,,
 204,Menus_UI_Settings,1217,4900,73444,,
-204,Menus_UI_Settings,1218,4904,73445,"Your online ID and name will become visible to other players in multiplayer mode.\n\nIf players choose to broadcast their gameplay, your online ID and name may be shared as well.",
+204,Menus_UI_Settings,1218,4904,73445,"Your online ID and name will become visible to other players in multiplayer mode.\n\nIf players choose to broadcast their gameplay, your online ID and name may be shared as well.",ไอดีและชื่อออนไลน์ของคุณจะแสดงให้ผู้เล่นคนอื่นเห็นในโหมดผู้เล่นหลายคน\n\nหากผู้เล่นคนอื่นถ่ายทอดสดการเล่น ไอดีและชื่อออนไลน์ของคุณอาจปรากฏสู่สาธารณะเช่นกัน
 204,Menus_UI_Settings,1219,4908,73622,,
 204,Menus_UI_Settings,1220,4912,73623,,
 204,Menus_UI_Settings,1221,4916,73624,,
 204,Menus_UI_Settings,1222,4920,73625,,
 204,Menus_UI_Settings,1223,4924,73626,,
 204,Menus_UI_Settings,1224,4928,73627,,
-204,Menus_UI_Settings,1225,4932,73628,Enter an online name.,
-204,Menus_UI_Settings,1226,4936,73650,Go to a Dungeon (Cooperative),
-204,Menus_UI_Settings,1227,4940,73680,Change Online Name,
-204,Menus_UI_Settings,1228,4944,73699,Go to a Dungeon (Solo),
-204,Menus_UI_Settings,1229,4948,73722,Help with Story Battle,
-204,Menus_UI_Settings,1230,4952,73745,Claim Items,
-204,Menus_UI_Settings,1231,4956,73757,Accept Multiplayer Agreement,
-204,Menus_UI_Settings,1232,4960,73786,Go to a Regular Dungeon,
-204,Menus_UI_Settings,1233,4964,73810,Go to a Quicksilver Colony,
-204,Menus_UI_Settings,1234,4968,73837,Play with Nearby Players,
-204,Menus_UI_Settings,1235,4972,73862,Play with others over the internet.,
-204,Menus_UI_Settings,1236,4976,73898,Create a room and recruit party members.,
-204,Menus_UI_Settings,1237,4980,73939,Join a room someone else has created.,
-204,Menus_UI_Settings,1238,4984,73977,Have Erinn find party members matching your conditions.,
-204,Menus_UI_Settings,1239,4988,74033,Join forces with other players to do battle with monsters.,
-204,Menus_UI_Settings,1240,4992,74092,Compete against other players.,
-204,Menus_UI_Settings,1241,4996,74123,Maps Owned,
-204,Menus_UI_Settings,1242,5000,74134,Required Level,
-204,Menus_UI_Settings,1243,5004,74149,Lobby Settings,
-204,Menus_UI_Settings,1244,5008,74164,Play Mode,
-204,Menus_UI_Settings,1245,5012,74174,Destination,
-204,Menus_UI_Settings,1246,5016,74186,Occupants,
-204,Menus_UI_Settings,1247,5020,74196,Looking For,
-204,Menus_UI_Settings,1248,5024,74208,Region,
-204,Menus_UI_Settings,1249,5028,74215,Connection Speed,
-204,Menus_UI_Settings,1250,5032,74232,Number of Players,
-204,Menus_UI_Settings,1251,5036,74250,Map Changes,
-204,Menus_UI_Settings,1252,5040,74262,Secret Number,
-204,Menus_UI_Settings,1253,5044,74276,Anyone,
-204,Menus_UI_Settings,1254,5048,74283,Friends Only,
-204,Menus_UI_Settings,1255,5052,74296,Same Region,
-204,Menus_UI_Settings,1256,5056,74308,Anywhere,
-204,Menus_UI_Settings,1257,5060,74317,Good Only,
-204,Menus_UI_Settings,1258,5064,74327,Any,
-204,Menus_UI_Settings,1259,5068,74331,Four,
-204,Menus_UI_Settings,1260,5072,74336,Three,
-204,Menus_UI_Settings,1261,5076,74342,Two,
-204,Menus_UI_Settings,1262,5080,74346,Anyone,
-204,Menus_UI_Settings,1263,5084,74353,Host Only,
-204,Menus_UI_Settings,1264,5088,74363,None,
-204,Menus_UI_Settings,1265,5092,74368,Choose whether to play with friends or with anyone.,
-204,Menus_UI_Settings,1266,5096,74420,Choose whether or not to restrict access to people in your region.,
-204,Menus_UI_Settings,1267,5100,74487,Choose whether or not to check the quality of other players' connections.,
-204,Menus_UI_Settings,1268,5104,74561,Set the maximum number of occupants for the lobby.,
-204,Menus_UI_Settings,1269,5108,74612,Set who is allowed to change the map you will play on.,
-204,Menus_UI_Settings,1270,5112,74667,Enter a secret number for the lobby you wish to create or join.,
-204,Menus_UI_Settings,1271,5116,74731,Notes,
-204,Menus_UI_Settings,1272,5120,74737,Select phrases to describe your room.,
-204,Menus_UI_Settings,1273,5124,74775,Use these criteria.,
-204,Menus_UI_Settings,1274,5128,74795,Please enter a <C9>secret number<R.>,
-204,Menus_UI_Settings,1275,5132,74830,Please enter the <C9>secret number<R.>,
-204,Menus_UI_Settings,1276,5136,74867,Destination,
-204,Menus_UI_Settings,1277,5140,74879,Online Name,
-204,Menus_UI_Settings,1278,5144,74891,Online ID,
-204,Menus_UI_Settings,1279,5148,74901,Change Destination,
-204,Menus_UI_Settings,1280,5152,74920,Leave Lobby,
-204,Menus_UI_Settings,1281,5156,74932,Cancel Multiplayer Registration,
-204,Menus_UI_Settings,1282,5160,74964,None Set,
-204,Menus_UI_Settings,1283,5164,74973,Sent bothersome baddies to bedevil everyone<FG>,
+204,Menus_UI_Settings,1225,4932,73628,Enter an online name.,ป้อนชื่อออนไลน์
+204,Menus_UI_Settings,1226,4936,73650,Go to a Dungeon (Cooperative),ไปดันเจี้ยน (ร่วมมือกัน)
+204,Menus_UI_Settings,1227,4940,73680,Change Online Name,เปลี่ยนชื่อออนไลน์
+204,Menus_UI_Settings,1228,4944,73699,Go to a Dungeon (Solo),ไปดันเจี้ยน (เดี่ยว)
+204,Menus_UI_Settings,1229,4948,73722,Help with Story Battle,ช่วยการต่อสู้ตามเนื้อเรื่อง
+204,Menus_UI_Settings,1230,4952,73745,Claim Items,รับไอเทม
+204,Menus_UI_Settings,1231,4956,73757,Accept Multiplayer Agreement,ยอมรับข้อตกลงการเล่นหลายคน
+204,Menus_UI_Settings,1232,4960,73786,Go to a Regular Dungeon,ไปดันเจี้ยนทั่วไป
+204,Menus_UI_Settings,1233,4964,73810,Go to a Quicksilver Colony,ไปอาณานิคมควิกซิลเวอร์
+204,Menus_UI_Settings,1234,4968,73837,Play with Nearby Players,เล่นกับผู้เล่นใกล้เคียง
+204,Menus_UI_Settings,1235,4972,73862,Play with others over the internet.,เล่นกับผู้อื่นผ่านอินเทอร์เน็ต
+204,Menus_UI_Settings,1236,4976,73898,Create a room and recruit party members.,สร้างห้องและรับสมัครสมาชิกปาร์ตี้
+204,Menus_UI_Settings,1237,4980,73939,Join a room someone else has created.,เข้าร่วมห้องที่ผู้เล่นอื่นสร้างไว้
+204,Menus_UI_Settings,1238,4984,73977,Have Erinn find party members matching your conditions.,ให้เอรินน์ช่วยค้นหาสมาชิกปาร์ตี้ที่ตรงกับเงื่อนไขของคุณ
+204,Menus_UI_Settings,1239,4988,74033,Join forces with other players to do battle with monsters.,รวมพลังกับผู้เล่นอื่นเพื่อต่อสู้กับสัตว์ประหลาด
+204,Menus_UI_Settings,1240,4992,74092,Compete against other players.,แข่งขันกับผู้เล่นคนอื่น
+204,Menus_UI_Settings,1241,4996,74123,Maps Owned,แผนที่ในครอบครอง
+204,Menus_UI_Settings,1242,5000,74134,Required Level,เลเวลที่ต้องการ
+204,Menus_UI_Settings,1243,5004,74149,Lobby Settings,ตั้งค่าล็อบบี้
+204,Menus_UI_Settings,1244,5008,74164,Play Mode,โหมดการเล่น
+204,Menus_UI_Settings,1245,5012,74174,Destination,จุดหมายปลายทาง
+204,Menus_UI_Settings,1246,5016,74186,Occupants,จำนวนคนในห้อง
+204,Menus_UI_Settings,1247,5020,74196,Looking For,สิ่งที่ค้นหา
+204,Menus_UI_Settings,1248,5024,74208,Region,ภูมิภาค
+204,Menus_UI_Settings,1249,5028,74215,Connection Speed,ความเร็วการเชื่อมต่อ
+204,Menus_UI_Settings,1250,5032,74232,Number of Players,จำนวนผู้เล่น
+204,Menus_UI_Settings,1251,5036,74250,Map Changes,การเปลี่ยนแผนที่
+204,Menus_UI_Settings,1252,5040,74262,Secret Number,หมายเลขลับ
+204,Menus_UI_Settings,1253,5044,74276,Anyone,ทุกคน
+204,Menus_UI_Settings,1254,5048,74283,Friends Only,เพื่อนเท่านั้น
+204,Menus_UI_Settings,1255,5052,74296,Same Region,ภูมิภาคเดียวกัน
+204,Menus_UI_Settings,1256,5056,74308,Anywhere,ทุกที่
+204,Menus_UI_Settings,1257,5060,74317,Good Only,สัญญาณดีเท่านั้น
+204,Menus_UI_Settings,1258,5064,74327,Any,ใดก็ได้
+204,Menus_UI_Settings,1259,5068,74331,Four,สี่คน
+204,Menus_UI_Settings,1260,5072,74336,Three,สามคน
+204,Menus_UI_Settings,1261,5076,74342,Two,สองคน
+204,Menus_UI_Settings,1262,5080,74346,Anyone,ทุกคน
+204,Menus_UI_Settings,1263,5084,74353,Host Only,หัวหน้าห้องเท่านั้น
+204,Menus_UI_Settings,1264,5088,74363,None,ไม่มี
+204,Menus_UI_Settings,1265,5092,74368,Choose whether to play with friends or with anyone.,เลือกว่าจะเล่นกับเพื่อนหรือกับผู้เล่นทุกคน
+204,Menus_UI_Settings,1266,5096,74420,Choose whether or not to restrict access to people in your region.,เลือกว่าจะจำกัดเฉพาะผู้เล่นในภูมิภาคของคุณหรือไม่
+204,Menus_UI_Settings,1267,5100,74487,Choose whether or not to check the quality of other players' connections.,เลือกว่าจะตรวจสอบคุณภาพการเชื่อมต่อของผู้เล่นอื่นหรือไม่
+204,Menus_UI_Settings,1268,5104,74561,Set the maximum number of occupants for the lobby.,กำหนดจำนวนผู้เล่นสูงสุดในล็อบบี้
+204,Menus_UI_Settings,1269,5108,74612,Set who is allowed to change the map you will play on.,กำหนดผู้ที่มีสิทธิ์เปลี่ยนแผนที่ดันเจี้ยน
+204,Menus_UI_Settings,1270,5112,74667,Enter a secret number for the lobby you wish to create or join.,ป้อนหมายเลขลับสำหรับล็อบบี้ที่คุณต้องการสร้างหรือเข้าร่วม
+204,Menus_UI_Settings,1271,5116,74731,Notes,หมายเหตุ
+204,Menus_UI_Settings,1272,5120,74737,Select phrases to describe your room.,เลือกข้อความเพื่ออธิบายห้องของคุณ
+204,Menus_UI_Settings,1273,5124,74775,Use these criteria.,ใช้เงื่อนไขเหล่านี้
+204,Menus_UI_Settings,1274,5128,74795,Please enter a <C9>secret number<R.>,โปรดป้อน <C9>หมายเลขลับ<R.>
+204,Menus_UI_Settings,1275,5132,74830,Please enter the <C9>secret number<R.>,โปรดป้อน <C9>หมายเลขลับ<R.>
+204,Menus_UI_Settings,1276,5136,74867,Destination,จุดหมายปลายทาง
+204,Menus_UI_Settings,1277,5140,74879,Online Name,ชื่อออนไลน์
+204,Menus_UI_Settings,1278,5144,74891,Online ID,ไอดีออนไลน์
+204,Menus_UI_Settings,1279,5148,74901,Change Destination,เปลี่ยนจุดหมายปลายทาง
+204,Menus_UI_Settings,1280,5152,74920,Leave Lobby,ออกจากล็อบบี้
+204,Menus_UI_Settings,1281,5156,74932,Cancel Multiplayer Registration,ยกเลิกการลงทะเบียนมัลติเพลเยอร์
+204,Menus_UI_Settings,1282,5160,74964,None Set,ไม่ได้ตั้งค่า
+204,Menus_UI_Settings,1283,5164,74973,Sent bothersome baddies to bedevil everyone<FG>,ส่งสัตว์ประหลาดก่อกวนไปป่วนทุกคนแล้ว<FG>
 204,Menus_UI_Settings,1284,5168,75020,UNUSED,
-204,Menus_UI_Settings,1285,5172,75027,Wiped out<FG>,
-204,Menus_UI_Settings,1286,5176,75040,Story Section,
+204,Menus_UI_Settings,1285,5172,75027,Wiped out<FG>,พ่ายแพ้ราบคาบ<FG>
+204,Menus_UI_Settings,1286,5176,75040,Story Section,บทเนื้อเรื่อง
 204,Menus_UI_Settings,1287,5180,75054,UNUSED,
 204,Menus_UI_Settings,1288,5184,75061,UNUSED,
-204,Menus_UI_Settings,1289,5188,75068,Help Out,
-204,Menus_UI_Settings,1290,5192,75077,Withdraw,
-204,Menus_UI_Settings,1291,5196,75086,All Completed Battles,
-204,Menus_UI_Settings,1292,5200,75108,First Part,
-204,Menus_UI_Settings,1293,5204,75119,Second Part,
-204,Menus_UI_Settings,1294,5208,75131,Third Part,
-204,Menus_UI_Settings,1295,5212,75142,Volunteer to help with any battle you've completed.,
-204,Menus_UI_Settings,1296,5216,75194,Volunteer to help with battles from ‘<I0>M1<FI> <I0>M2’ to ‘<I0>M3<FI> <I0>M4’.,
-204,Menus_UI_Settings,1297,5220,75276,Looking for <E5>R1one more person<E6>01<GR>1 more people<E7>01 to help.,
-204,Menus_UI_Settings,1298,5224,75344,Venture Forth with this Party,
-204,Menus_UI_Settings,1299,5228,75374,Withdraw Your Offer of Help,
-204,Menus_UI_Settings,1300,5232,75402,You can play with <E5>R1one more person<E6>01<GR>1 more people<E7>01.,
-204,Menus_UI_Settings,1301,5236,75468,Call for Help,
-204,Menus_UI_Settings,1302,5240,75482,All interdimensional adventurers assembled.\nPlease respond within <GR>1 <E5>R1second<E6>01seconds<E7>01.,
-204,Menus_UI_Settings,1303,5244,75583,You've received a request from <I0>M1 to help with ‘<I0>M2’<FG>,
-204,Menus_UI_Settings,1304,5248,75648,"You've answered a call to arms<FG> While helping, you will earn double experience points, gold coins and proficiency.",
-204,Menus_UI_Settings,1305,5252,75765,The battle has ended. Thanks for helping out<FG>,
-204,Menus_UI_Settings,1306,5256,75813,"The battle has ended, and your party has been disbanded.",
-204,Menus_UI_Settings,1307,5260,75870,<I0>M1 is reading about how to play. Please wait...,
-204,Menus_UI_Settings,1308,5264,75921,Your departure has been cancelled.,
-204,Menus_UI_Settings,1309,5268,75956,A communication error has occurred.\nParty recruitment will be cancelled.,
-204,Menus_UI_Settings,1310,5272,76029,Dismantle,
-204,Menus_UI_Settings,1311,5276,76039,Assemble,
-204,Menus_UI_Settings,1312,5280,76048,Venture Forth,
-204,Menus_UI_Settings,1313,5284,76062,Change Vocation,
-204,Menus_UI_Settings,1314,5288,76078,Reassign Skill Points,
-204,Menus_UI_Settings,1315,5292,76100,Fee,
-204,Menus_UI_Settings,1316,5296,76104,Fee,
-204,Menus_UI_Settings,1317,5300,76108,Change Costumes,
-204,Menus_UI_Settings,1318,5304,76124,Transform Weapons,
-204,Menus_UI_Settings,1319,5308,76142,Return to Normal,
-204,Menus_UI_Settings,1320,5312,76159,Current<FI>,
-204,Menus_UI_Settings,1321,5316,76170,<C9>Within <GR>1 min. <GR>2 sec. R,
-204,Menus_UI_Settings,1322,5320,76203,<C9><GR>1 min. <GR>2 sec.R,
-204,Menus_UI_Settings,1323,5324,76228,Assigned Skill Points,
-204,Menus_UI_Settings,1324,5328,76250,The gospel ring shines brightly<FG>,
-204,Menus_UI_Settings,1325,5332,76285,Blocked a critical hit<FG>,
-204,Menus_UI_Settings,1326,5336,76311,Ailments curtailed<FG>,
-204,Menus_UI_Settings,1327,5340,76333,You cannot use spells and abilities here<FG>,
+204,Menus_UI_Settings,1289,5188,75068,Help Out,ไปช่วยเหลือ
+204,Menus_UI_Settings,1290,5192,75077,Withdraw,ถอนตัว
+204,Menus_UI_Settings,1291,5196,75086,All Completed Battles,การต่อสู้ที่เคลียร์แล้วทั้งหมด
+204,Menus_UI_Settings,1292,5200,75108,First Part,องก์ที่หนึ่ง
+204,Menus_UI_Settings,1293,5204,75119,Second Part,องก์ที่สอง
+204,Menus_UI_Settings,1294,5208,75131,Third Part,องก์ที่สาม
+204,Menus_UI_Settings,1295,5212,75142,Volunteer to help with any battle you've completed.,อาสาไปช่วยในการต่อสู้ใดก็ได้ที่คุณเคยเคลียร์มาแล้ว
+204,Menus_UI_Settings,1296,5216,75194,Volunteer to help with battles from ‘<I0>M1<FI> <I0>M2’ to ‘<I0>M3<FI> <I0>M4’.,อาสาไปช่วยในการต่อสู้ตั้งแต่ ‘<I0>M1<FI> <I0>M2’ ถึง ‘<I0>M3<FI> <I0>M4’
+204,Menus_UI_Settings,1297,5220,75276,Looking for <E5>R1one more person<E6>01<GR>1 more people<E7>01 to help.,กำลังมองหาผู้ช่วยเหลืออีก <E5>R1หนึ่งคน<E6>01<GR>1 คน<E7>01
+204,Menus_UI_Settings,1298,5224,75344,Venture Forth with this Party,ออกเดินทางรบพร้อมปาร์ตี้นี้
+204,Menus_UI_Settings,1299,5228,75374,Withdraw Your Offer of Help,ถอนข้อเสนอช่วยเหลือของคุณ
+204,Menus_UI_Settings,1300,5232,75402,You can play with <E5>R1one more person<E6>01<GR>1 more people<E7>01.,คุณสามารถเล่นกับผู้อื่นได้อีก <E5>R1หนึ่งคน<E6>01<GR>1 คน<E7>01
+204,Menus_UI_Settings,1301,5236,75468,Call for Help,ขอความช่วยเหลือ
+204,Menus_UI_Settings,1302,5240,75482,All interdimensional adventurers assembled.\nPlease respond within <GR>1 <E5>R1second<E6>01seconds<E7>01.,รวบรวมนักผจญภัยข้ามมิติครบแล้ว\nโปรดตอบกลับภายใน <GR>1 <E5>R1วินาที<E6>01วินาที<E7>01
+204,Menus_UI_Settings,1303,5244,75583,You've received a request from <I0>M1 to help with ‘<I0>M2’<FG>,คุณได้รับคำขอจาก <I0>M1 ให้ไปช่วยในศึก ‘<I0>M2’<FG>
+204,Menus_UI_Settings,1304,5248,75648,"You've answered a call to arms<FG> While helping, you will earn double experience points, gold coins and proficiency.","คุณได้ตอบรับการระดมพลแล้ว<FG> ในขณะช่วยเหลือ คุณจะได้รับค่าประสบการณ์, เหรียญทอง และความชำนาญเป็นสองเท่า"
+204,Menus_UI_Settings,1305,5252,75765,The battle has ended. Thanks for helping out<FG>,การต่อสู้สิ้นสุดลงแล้ว ขอบคุณมากที่มาช่วยเหลือนะ<FG>
+204,Menus_UI_Settings,1306,5256,75813,"The battle has ended, and your party has been disbanded.",การต่อสู้สิ้นสุดลงแล้ว และปาร์ตี้ของคุณถูกยุบแล้ว
+204,Menus_UI_Settings,1307,5260,75870,<I0>M1 is reading about how to play. Please wait...,<I0>M1 กำลังอ่านวิธีเล่น โปรดรอสักครู่...
+204,Menus_UI_Settings,1308,5264,75921,Your departure has been cancelled.,การออกเดินทางของคุณถูกยกเลิก
+204,Menus_UI_Settings,1309,5268,75956,A communication error has occurred.\nParty recruitment will be cancelled.,เกิดข้อผิดพลาดในการสื่อสาร\nการรับสมัครปาร์ตี้จะถูกยกเลิก
+204,Menus_UI_Settings,1310,5272,76029,Dismantle,แยกชิ้นส่วน
+204,Menus_UI_Settings,1311,5276,76039,Assemble,ประกอบขึ้นใหม่
+204,Menus_UI_Settings,1312,5280,76048,Venture Forth,ออกเดินทาง
+204,Menus_UI_Settings,1313,5284,76062,Change Vocation,เปลี่ยนอาชีพ
+204,Menus_UI_Settings,1314,5288,76078,Reassign Skill Points,จัดสรรแต้มสกิลใหม่
+204,Menus_UI_Settings,1315,5292,76100,Fee,ค่าธรรมเนียม
+204,Menus_UI_Settings,1316,5296,76104,Fee,ค่าธรรมเนียม
+204,Menus_UI_Settings,1317,5300,76108,Change Costumes,เปลี่ยนชุดคอสตูม
+204,Menus_UI_Settings,1318,5304,76124,Transform Weapons,แปลงโฉมรูปลักษณ์อาวุธ
+204,Menus_UI_Settings,1319,5308,76142,Return to Normal,คืนสู่สภาพเดิม
+204,Menus_UI_Settings,1320,5312,76159,Current<FI>,ปัจจุบัน<FI>
+204,Menus_UI_Settings,1321,5316,76170,<C9>Within <GR>1 min. <GR>2 sec. R,<C9>ภายใน <GR>1 นาที <GR>2 วินาที R
+204,Menus_UI_Settings,1322,5320,76203,<C9><GR>1 min. <GR>2 sec.R,<C9><GR>1 นาที <GR>2 วินาทีR
+204,Menus_UI_Settings,1323,5324,76228,Assigned Skill Points,แต้มสกิลที่จัดสรรแล้ว
+204,Menus_UI_Settings,1324,5328,76250,The gospel ring shines brightly<FG>,แหวนกอสเปลริงส่องแสงเจิดจ้า<FG>
+204,Menus_UI_Settings,1325,5332,76285,Blocked a critical hit<FG>,ป้องกันการโจมตีติดคริติคอลได้<FG>
+204,Menus_UI_Settings,1326,5336,76311,Ailments curtailed<FG>,อาการผิดปกติถูกระงับ<FG>
+204,Menus_UI_Settings,1327,5340,76333,You cannot use spells and abilities here<FG>,คุณไม่สามารถใช้คาถาและความสามารถที่นี่ได้<FG>
 204,Menus_UI_Settings,1328,5344,76377,UNUSED,
-204,Menus_UI_Settings,1329,5348,76384,Skill Points Earned,
-204,Menus_UI_Settings,1330,5352,76404,Total,
-204,Menus_UI_Settings,1331,5356,76410,Battle Results,
-204,Menus_UI_Settings,1332,5360,76425,Spoils,
-204,Menus_UI_Settings,1333,5364,76432,Acquired,
-204,Menus_UI_Settings,1334,5368,76441,Clear Time,
-204,Menus_UI_Settings,1335,5372,76452,Battle Selection,
-204,Menus_UI_Settings,1336,5376,76469,Location,
-204,Menus_UI_Settings,1337,5380,76478,Resisted<FG>,
-204,Menus_UI_Settings,1338,5384,76490,None Set,
-204,Menus_UI_Settings,1339,5388,76499,Next Battle,
-204,Menus_UI_Settings,1340,5392,76511,Details,
-204,Menus_UI_Settings,1341,5396,76519,Quest Quota,
-204,Menus_UI_Settings,1342,5400,76531,Report Completion,
-204,Menus_UI_Settings,1343,5404,76549,Claim Rewards,
-204,Menus_UI_Settings,1344,5408,76563,Share Adventure Log,
-204,Menus_UI_Settings,1345,5412,76583,Upload,
-204,Menus_UI_Settings,1346,5416,76590,Download,
-204,Menus_UI_Settings,1347,5420,76599,Adventure Log <I0>M1,
-204,Menus_UI_Settings,1348,5424,76619,Adventure Log on PlayStation<MT> Network,
-204,Menus_UI_Settings,1349,5428,76659,You cannot use the comment feature due to a restriction on chat functions placed on your Sony Entertainment Network account.,
-204,Menus_UI_Settings,1350,5432,76784,Some text may not display correctly due to a restriction on chat functions placed on your Sony Entertainment Network account.,
-204,Menus_UI_Settings,1351,5436,76910,You cannot use online services because of the parental lock settings applied to your Sony Entertainment Network account.,
-204,Menus_UI_Settings,1352,5440,77031,Online features are no longer available because you have signed out from PlayStation<MT> Network.,
-204,Menus_UI_Settings,1353,5444,77128,You received the <I0>D1 costume from DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>,
-204,Menus_UI_Settings,1354,5448,77232,You received the <I0>A1 weapon from DRAGON QUEST BUILDERS<FG>,
-204,Menus_UI_Settings,1355,5452,77292,"You were unable to receive <I6>A1, as your inventory is full.",
-204,Menus_UI_Settings,1356,5456,77353,Received <I8>A1.,
-204,Menus_UI_Settings,1357,5460,77369,Received the <I0>D0 costume for <F4><I0>41.,
-204,Menus_UI_Settings,1358,5464,77410,You will now be unable to use multiplayer functions.,
-204,Menus_UI_Settings,1359,5468,77463,You will now be unable to use cross-save functionality.,
-204,Menus_UI_Settings,1360,5472,77519,You will now be unable to receive online bonuses.,
-204,Menus_UI_Settings,1361,5476,77569,You will now be unable to receive event information.,
-204,Menus_UI_Settings,1362,5480,77622,Failed to retrieve event information.,
-204,Menus_UI_Settings,1363,5484,77660,You will now be unable to receive game news.,
-204,Menus_UI_Settings,1364,5488,77705,You will now be unable to claim items.,
-204,Menus_UI_Settings,1365,5492,77744,Signed out.,
-204,Menus_UI_Settings,1366,5496,77756,Unable to connect.\nPlease check your network settings or try again later.,
-204,Menus_UI_Settings,1367,5500,77830,Unable to connect.\nPlease check your network connection.,
-204,Menus_UI_Settings,1368,5504,77887,<I0>41 has entered the room<FG>,
-204,Menus_UI_Settings,1369,5508,77917,<I0>41 has left the room.,
-204,Menus_UI_Settings,1370,5512,77942,Lost connection with <I0>41. AI control has been initiated.,
-204,Menus_UI_Settings,1371,5516,78001,The connection with <I0>41 was lost.,
-204,Menus_UI_Settings,1372,5520,78037,Don't give up<FG>,
-204,Menus_UI_Settings,1373,5524,78054,Hustle<FG>,
-204,Menus_UI_Settings,1374,5528,78064,Autosave Adventure Log,
-204,Menus_UI_Settings,1375,5532,78087,(With <F4><I0>M1 Equipped),
-204,Menus_UI_Settings,1376,5536,78112,Yggdrasil Leaf,
-204,Menus_UI_Settings,1377,5540,78127,Acquired <I8>M1<FG>,
-204,Menus_UI_Settings,1378,5544,78145,Share Adventure Log,
-204,Menus_UI_Settings,1379,5548,78165,Comment 1,
-204,Menus_UI_Settings,1380,5552,78175,Comment 2,
-204,Menus_UI_Settings,1381,5556,78185,Comment 3,
+204,Menus_UI_Settings,1329,5348,76384,Skill Points Earned,แต้มสกิลที่ได้รับ
+204,Menus_UI_Settings,1330,5352,76404,Total,รวม
+204,Menus_UI_Settings,1331,5356,76410,Battle Results,ผลลัพธ์การต่อสู้
+204,Menus_UI_Settings,1332,5360,76425,Spoils,ของรางวัลที่ได้
+204,Menus_UI_Settings,1333,5364,76432,Acquired,ได้รับแล้ว
+204,Menus_UI_Settings,1334,5368,76441,Clear Time,เวลาที่ใช้เคลียร์
+204,Menus_UI_Settings,1335,5372,76452,Battle Selection,เลือกการต่อสู้
+204,Menus_UI_Settings,1336,5376,76469,Location,สถานที่
+204,Menus_UI_Settings,1337,5380,76478,Resisted<FG>,ต้านทานได้<FG>
+204,Menus_UI_Settings,1338,5384,76490,None Set,ไม่ได้ตั้งค่า
+204,Menus_UI_Settings,1339,5388,76499,Next Battle,การต่อสู้ถัดไป
+204,Menus_UI_Settings,1340,5392,76511,Details,รายละเอียด
+204,Menus_UI_Settings,1341,5396,76519,Quest Quota,เป้าหมายเควสต์
+204,Menus_UI_Settings,1342,5400,76531,Report Completion,ส่งรายงานความสำเร็จ
+204,Menus_UI_Settings,1343,5404,76549,Claim Rewards,รับรางวัล
+204,Menus_UI_Settings,1344,5408,76563,Share Adventure Log,แชร์บันทึกการเดินทาง
+204,Menus_UI_Settings,1345,5412,76583,Upload,อัปโหลด
+204,Menus_UI_Settings,1346,5416,76590,Download,ดาวน์โหลด
+204,Menus_UI_Settings,1347,5420,76599,Adventure Log <I0>M1,บันทึกการเดินทาง <I0>M1
+204,Menus_UI_Settings,1348,5424,76619,Adventure Log on PlayStation<MT> Network,บันทึกการเดินทางบนเครือข่าย PlayStation<MT> Network
+204,Menus_UI_Settings,1349,5428,76659,You cannot use the comment feature due to a restriction on chat functions placed on your Sony Entertainment Network account.,คุณไม่สามารถใช้ฟีเจอร์แสดงความคิดเห็นได้ เนื่องจากมีการจำกัดฟังก์ชันแช็ตบนบัญชีของคุณ
+204,Menus_UI_Settings,1350,5432,76784,Some text may not display correctly due to a restriction on chat functions placed on your Sony Entertainment Network account.,ข้อความบางส่วนอาจแสดงผลไม่ถูกต้องเนื่องจากมีการจำกัดฟังก์ชันแช็ตบนบัญชีของคุณ
+204,Menus_UI_Settings,1351,5436,76910,You cannot use online services because of the parental lock settings applied to your Sony Entertainment Network account.,คุณไม่สามารถใช้บริการออนไลน์ได้เนื่องจากการตั้งค่าควบคุมโดยผู้ปกครอง (Parental Lock)
+204,Menus_UI_Settings,1352,5440,77031,Online features are no longer available because you have signed out from PlayStation<MT> Network.,ฟีเจอร์ออนไลน์ไม่สามารถใช้งานได้อีกต่อไปเนื่องจากคุณได้ลงชื่อออกจากเครือข่ายแล้ว
+204,Menus_UI_Settings,1353,5444,77128,You received the <I0>D1 costume from DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>,คุณได้รับชุดคอสตูม <I0>D1 จาก DRAGON QUEST HEROES<FI> The World Tree's Woe and the Blight Below<FG>
+204,Menus_UI_Settings,1354,5448,77232,You received the <I0>A1 weapon from DRAGON QUEST BUILDERS<FG>,คุณได้รับอาวุธ <I0>A1 จาก DRAGON QUEST BUILDERS<FG>
+204,Menus_UI_Settings,1355,5452,77292,"You were unable to receive <I6>A1, as your inventory is full.",คุณไม่สามารถรับ <I6>A1 ได้ เนื่องจากช่องเก็บของของคุณเต็ม
+204,Menus_UI_Settings,1356,5456,77353,Received <I8>A1.,ได้รับ <I8>A1
+204,Menus_UI_Settings,1357,5460,77369,Received the <I0>D0 costume for <F4><I0>41.,ได้รับชุดคอสตูม <I0>D0 สำหรับ <F4><I0>41
+204,Menus_UI_Settings,1358,5464,77410,You will now be unable to use multiplayer functions.,บัดนี้คุณจะไม่สามารถใช้ฟังก์ชันผู้เล่นหลายคนได้
+204,Menus_UI_Settings,1359,5468,77463,You will now be unable to use cross-save functionality.,คุณจะไม่สามารถใช้งานฟังก์ชัน Cross-Save ได้
+204,Menus_UI_Settings,1360,5472,77519,You will now be unable to receive online bonuses.,คุณจะไม่สามารถรับโบนัสออนไลน์ได้
+204,Menus_UI_Settings,1361,5476,77569,You will now be unable to receive event information.,คุณจะไม่สามารถรับข้อมูลกิจกรรมพิเศษได้
+204,Menus_UI_Settings,1362,5480,77622,Failed to retrieve event information.,ดึงข้อมูลกิจกรรมพิเศษล้มเหลว
+204,Menus_UI_Settings,1363,5484,77660,You will now be unable to receive game news.,คุณจะไม่สามารถรับข่าวสารของเกมได้
+204,Menus_UI_Settings,1364,5488,77705,You will now be unable to claim items.,คุณจะไม่สามารถรับไอเทมได้
+204,Menus_UI_Settings,1365,5492,77744,Signed out.,ลงชื่อออกแล้ว
+204,Menus_UI_Settings,1366,5496,77756,Unable to connect.\nPlease check your network settings or try again later.,ไม่สามารถเชื่อมต่อได้\nโปรดตรวจสอบการตั้งค่าเครือข่ายของคุณหรือลองใหม่อีกครั้งในภายหลัง
+204,Menus_UI_Settings,1367,5500,77830,Unable to connect.\nPlease check your network connection.,ไม่สามารถเชื่อมต่อได้\nโปรดตรวจสอบการเชื่อมต่อเครือข่ายของคุณ
+204,Menus_UI_Settings,1368,5504,77887,<I0>41 has entered the room<FG>,<I0>41 เข้ามาในห้องแล้ว<FG>
+204,Menus_UI_Settings,1369,5508,77917,<I0>41 has left the room.,<I0>41 ออกจากห้องไปแล้ว
+204,Menus_UI_Settings,1370,5512,77942,Lost connection with <I0>41. AI control has been initiated.,ขาดการเชื่อมต่อกับ <I0>41 เริ่มการควบคุมด้วย AI แทน
+204,Menus_UI_Settings,1371,5516,78001,The connection with <I0>41 was lost.,ขาดการเชื่อมต่อกับ <I0>41
+204,Menus_UI_Settings,1372,5520,78037,Don't give up<FG>,อย่ายอมแพ้นะ<FG>
+204,Menus_UI_Settings,1373,5524,78054,Hustle<FG>,สู้เข้าไว้<FG>
+204,Menus_UI_Settings,1374,5528,78064,Autosave Adventure Log,บันทึกการเดินทางอัตโนมัติ
+204,Menus_UI_Settings,1375,5532,78087,(With <F4><I0>M1 Equipped),(เมื่อสวมใส่ <F4><I0>M1)
+204,Menus_UI_Settings,1376,5536,78112,Yggdrasil Leaf,ใบไม้อิกดราซิล (Yggdrasil Leaf)
+204,Menus_UI_Settings,1377,5540,78127,Acquired <I8>M1<FG>,ได้รับ <I8>M1<FG>
+204,Menus_UI_Settings,1378,5544,78145,Share Adventure Log,แชร์บันทึกการเดินทาง
+204,Menus_UI_Settings,1379,5548,78165,Comment 1,ความคิดเห็น 1
+204,Menus_UI_Settings,1380,5552,78175,Comment 2,ความคิดเห็น 2
+204,Menus_UI_Settings,1381,5556,78185,Comment 3,ความคิดเห็น 3
 204,Menus_UI_Settings,1382,5560,78195,UNUSED,
-204,Menus_UI_Settings,1383,5564,78202,Any,
-204,Menus_UI_Settings,1384,5568,78206,Search Results,
-204,Menus_UI_Settings,1385,5572,78221,Town,
-204,Menus_UI_Settings,1386,5576,78226,Cathedral Town,
-204,Menus_UI_Settings,1387,5580,78241,Prepare Kazapple,
-204,Menus_UI_Settings,1388,5584,78258,Cancel Kazapple,
-204,Menus_UI_Settings,1389,5588,78274,Join Kazapple,
-204,Menus_UI_Settings,1390,5592,78288,Cast Kazapple<FG>,
+204,Menus_UI_Settings,1383,5564,78202,Any,ใดก็ได้
+204,Menus_UI_Settings,1384,5568,78206,Search Results,ผลการค้นหา
+204,Menus_UI_Settings,1385,5572,78221,Town,เมือง
+204,Menus_UI_Settings,1386,5576,78226,Cathedral Town,เมืองแห่งมหาวิหาร
+204,Menus_UI_Settings,1387,5580,78241,Prepare Kazapple,เตรียมร่ายมินาดีน
+204,Menus_UI_Settings,1388,5584,78258,Cancel Kazapple,ยกเลิกมินาดีน
+204,Menus_UI_Settings,1389,5588,78274,Join Kazapple,ร่วมร่ายมินาดีน
+204,Menus_UI_Settings,1390,5592,78288,Cast Kazapple<FG>,ร่ายมินาดีนสำเร็จ<FG>
 204,Menus_UI_Settings,1391,5596,78305,UNUSED,
-204,Menus_UI_Settings,1392,5600,78312,Not everyone's ready yet<FG>,
-204,Menus_UI_Settings,1393,5604,78340,Your tension isn't high enough yet<FG>,
-204,Menus_UI_Settings,1394,5608,78378,Your teammates don't have enough tension<FG>,
-204,Menus_UI_Settings,1395,5612,78422,Not enough tension<FG>,
-204,Menus_UI_Settings,1396,5616,78444,Anyone,
-204,Menus_UI_Settings,1397,5620,78451,Use a Victory's Secret,
-204,Menus_UI_Settings,1398,5624,78474,Action Camera,
-204,Menus_UI_Settings,1399,5628,78488,"If enabled, the camera will focus on certain actions during combat.",
-204,Menus_UI_Settings,1400,5632,78556,Check Criteria,
-204,Menus_UI_Settings,1401,5636,78571,Distance,
-204,Menus_UI_Settings,1402,5640,78580,"Set the distance between the player and the camera. 1 is close, while 3 is far.",
-204,Menus_UI_Settings,1403,5644,78660,Set a Secret Number,
-204,Menus_UI_Settings,1404,5648,78680,(By Last Used),
-204,Menus_UI_Settings,1405,5652,78695,Rank Points Earned,
-204,Menus_UI_Settings,1406,5656,78714,Total Rank Points,
-204,Menus_UI_Settings,1407,5660,78732,Sell Accessories,
-204,Menus_UI_Settings,1408,5664,78749,Sale Value,
-204,Menus_UI_Settings,1409,5668,78760,Go to a Dungeon (Competitive),
+204,Menus_UI_Settings,1392,5600,78312,Not everyone's ready yet<FG>,ทุกคนยังไม่พร้อมนะ<FG>
+204,Menus_UI_Settings,1393,5604,78340,Your tension isn't high enough yet<FG>,พลังเทนชันของคุณยังไม่สูงพอ<FG>
+204,Menus_UI_Settings,1394,5608,78378,Your teammates don't have enough tension<FG>,เพื่อนร่วมทีมของคุณมีพลังเทนชันไม่พอ<FG>
+204,Menus_UI_Settings,1395,5612,78422,Not enough tension<FG>,พลังเทนชันไม่เพียงพอ<FG>
+204,Menus_UI_Settings,1396,5616,78444,Anyone,ทุกคน
+204,Menus_UI_Settings,1397,5620,78451,Use a Victory's Secret,ใช้คัมภีร์ลับสู่ชัยชนะ
+204,Menus_UI_Settings,1398,5624,78474,Action Camera,มุมกล้องแอ็กชัน
+204,Menus_UI_Settings,1399,5628,78488,"If enabled, the camera will focus on certain actions during combat.",หากเปิดใช้งาน มุมกล้องจะจับโฟกัสแอ็กชันสำคัญบางอย่างในระหว่างการต่อสู้
+204,Menus_UI_Settings,1400,5632,78556,Check Criteria,ตรวจสอบเงื่อนไข
+204,Menus_UI_Settings,1401,5636,78571,Distance,ระยะห่างมุมกล้อง
+204,Menus_UI_Settings,1402,5640,78580,"Set the distance between the player and the camera. 1 is close, while 3 is far.",กำหนดระยะห่างระหว่างผู้เล่นกับมุมกล้อง ระดับ 1 คือใกล้ และระดับ 3 คือไกล
+204,Menus_UI_Settings,1403,5644,78660,Set a Secret Number,กำหนดหมายเลขลับ
+204,Menus_UI_Settings,1404,5648,78680,(By Last Used),(ตามที่ใช้ล่าสุด)
+204,Menus_UI_Settings,1405,5652,78695,Rank Points Earned,แต้มแรงก์ที่ได้รับ
+204,Menus_UI_Settings,1406,5656,78714,Total Rank Points,แต้มแรงก์สะสมทั้งหมด
+204,Menus_UI_Settings,1407,5660,78732,Sell Accessories,ขายเครื่องประดับ
+204,Menus_UI_Settings,1408,5664,78749,Sale Value,ราคาขาย
+204,Menus_UI_Settings,1409,5668,78760,Go to a Dungeon (Competitive),ไปดันเจี้ยน (โหมดแข่งขัน)
 204,Menus_UI_Settings,1410,5672,78790,UNUSED,
 204,Menus_UI_Settings,1411,5676,78797,UNUSED,
-204,Menus_UI_Settings,1412,5680,78804,1st,
-204,Menus_UI_Settings,1413,5684,78808,2nd,
-204,Menus_UI_Settings,1414,5688,78812,3rd,
-204,Menus_UI_Settings,1415,5692,78816,4th,
-204,Menus_UI_Settings,1416,5696,78820,Equal Footing,
-204,Menus_UI_Settings,1417,5700,78834,True Strength,
-204,Menus_UI_Settings,1418,5704,78848,Traveller's Tome Bonus<FI> %s,
-204,Menus_UI_Settings,1419,5708,78877,Obtained <I8>M1<FG>,
-204,Menus_UI_Settings,1420,5712,78895,Used <I8>M1<FG>,
-204,Menus_UI_Settings,1421,5716,78909,Equal Footing,
-204,Menus_UI_Settings,1422,5720,78923,"When on an equal footing, your weapon types, weapon appearances and assigned spells and abilities will stay the same.",
-204,Menus_UI_Settings,1423,5724,79041,Online Settings,
-204,Menus_UI_Settings,1424,5728,79057,Multiplayer Region,
-204,Menus_UI_Settings,1425,5732,79076,Whole World,
-204,Menus_UI_Settings,1426,5736,79088,Same Region,
-204,Menus_UI_Settings,1427,5740,79100,Choose the range of regions you'd like to allow multiplayer connections from.,
-204,Menus_UI_Settings,1428,5744,79178,Your destination has been changed to %s.,
-204,Menus_UI_Settings,1429,5748,79219,You've received a call for help from %s<FG>,
+204,Menus_UI_Settings,1412,5680,78804,1st,อันดับ 1
+204,Menus_UI_Settings,1413,5684,78808,2nd,อันดับ 2
+204,Menus_UI_Settings,1414,5688,78812,3rd,อันดับ 3
+204,Menus_UI_Settings,1415,5692,78816,4th,อันดับ 4
+204,Menus_UI_Settings,1416,5696,78820,Equal Footing,ความสามารถเท่าเทียม
+204,Menus_UI_Settings,1417,5700,78834,True Strength,ความสามารถจริง
+204,Menus_UI_Settings,1418,5704,78848,Traveller's Tome Bonus<FI> %s,โบนัสบันทึกนักเดินทาง<FI> %s
+204,Menus_UI_Settings,1419,5708,78877,Obtained <I8>M1<FG>,ได้รับ <I8>M1<FG>
+204,Menus_UI_Settings,1420,5712,78895,Used <I8>M1<FG>,ใช้ <I8>M1<FG>
+204,Menus_UI_Settings,1421,5716,78909,Equal Footing,ความสามารถเท่าเทียม
+204,Menus_UI_Settings,1422,5720,78923,"When on an equal footing, your weapon types, weapon appearances and assigned spells and abilities will stay the same.",เมื่ออยู่ในโหมดความสามารถเท่าเทียม ประเภทอาวุธ รูปลักษณ์อาวุธ และคาถากับท่าไม้ตายจะคงเดิม
+204,Menus_UI_Settings,1423,5724,79041,Online Settings,ตั้งค่าออนไลน์
+204,Menus_UI_Settings,1424,5728,79057,Multiplayer Region,ภูมิภาคมัลติเพลเยอร์
+204,Menus_UI_Settings,1425,5732,79076,Whole World,ทั่วโลก
+204,Menus_UI_Settings,1426,5736,79088,Same Region,ภูมิภาคเดียวกัน
+204,Menus_UI_Settings,1427,5740,79100,Choose the range of regions you'd like to allow multiplayer connections from.,เลือกระยะของภูมิภาคที่คุณต้องการอนุญาตให้เชื่อมต่อมัลติเพลเยอร์
+204,Menus_UI_Settings,1428,5744,79178,Your destination has been changed to %s.,จุดหมายปลายทางของคุณถูกเปลี่ยนเป็น %s แล้ว
+204,Menus_UI_Settings,1429,5748,79219,You've received a call for help from %s<FG>,คุณได้รับสัญญาณขอความช่วยเหลือจาก %s<FG>
 204,Menus_UI_Settings,1430,5752,79262,,
 204,Menus_UI_Settings,1431,5756,79263,,
 204,Menus_UI_Settings,1432,5760,79264,,
@@ -35537,69 +35537,69 @@
 204,Menus_UI_Settings,1499,6028,79331,,
 204,Menus_UI_Settings,1500,6032,79332,UNUSED,
 204,Menus_UI_Settings,1501,6036,79339,UNUSED,
-204,Menus_UI_Settings,1502,6040,79346,<P2> Reset,
-204,Menus_UI_Settings,1503,6044,79356,<PK> Rotate,
-204,Menus_UI_Settings,1504,6048,79367,<PB><PC> Zoom Out/In,
-204,Menus_UI_Settings,1505,6052,79386,<PI> View Details,
-204,Menus_UI_Settings,1506,6056,79403,<P2> After Equipping,
-204,Menus_UI_Settings,1507,6060,79423,<P2> Difference,
-204,Menus_UI_Settings,1508,6064,79438,<PH> Rewards,
-204,Menus_UI_Settings,1509,6068,79450,<PB><PC> Change Character,
-204,Menus_UI_Settings,1510,6072,79474,<P2> By Completion,
-204,Menus_UI_Settings,1511,6076,79492,<P2> By Name,
-204,Menus_UI_Settings,1512,6080,79504,<P2> By Type,
-204,Menus_UI_Settings,1513,6084,79516,<P3> Change,
-204,Menus_UI_Settings,1514,6088,79527,<P2> By Cost,
+204,Menus_UI_Settings,1502,6040,79346,<P2> Reset,<P2> รีเซ็ต
+204,Menus_UI_Settings,1503,6044,79356,<PK> Rotate,<PK> หมุนมุมกล้อง
+204,Menus_UI_Settings,1504,6048,79367,<PB><PC> Zoom Out/In,<PB><PC> ซูมเข้า/ออก
+204,Menus_UI_Settings,1505,6052,79386,<PI> View Details,<PI> ดูรายละเอียด
+204,Menus_UI_Settings,1506,6056,79403,<P2> After Equipping,<P2> หลังสวมใส่
+204,Menus_UI_Settings,1507,6060,79423,<P2> Difference,<P2> ผลต่าง
+204,Menus_UI_Settings,1508,6064,79438,<PH> Rewards,<PH> รางวัล
+204,Menus_UI_Settings,1509,6068,79450,<PB><PC> Change Character,<PB><PC> เปลี่ยนตัวละคร
+204,Menus_UI_Settings,1510,6072,79474,<P2> By Completion,<P2> ตามความสำเร็จ
+204,Menus_UI_Settings,1511,6076,79492,<P2> By Name,<P2> ตามชื่อ
+204,Menus_UI_Settings,1512,6080,79504,<P2> By Type,<P2> ตามประเภท
+204,Menus_UI_Settings,1513,6084,79516,<P3> Change,<P3> เปลี่ยน
+204,Menus_UI_Settings,1514,6088,79527,<P2> By Cost,<P2> ตามแต้มที่ใช้
 204,Menus_UI_Settings,1515,6092,79539,UNUSED,
-204,Menus_UI_Settings,1516,6096,79546,<PL> Toggle,
-204,Menus_UI_Settings,1517,6100,79557,<P3> Disable All,
-204,Menus_UI_Settings,1518,6104,79573,<P3> Change Vocation,
-204,Menus_UI_Settings,1519,6108,79593,<PH> Notice About Streaming,
-204,Menus_UI_Settings,1520,6112,79620,<PH> Multiplayer Agreement,
-204,Menus_UI_Settings,1521,6116,79646,<P3> %s,
-204,Menus_UI_Settings,1522,6120,79653,<P2> %s,
-204,Menus_UI_Settings,1523,6124,79660,<P0> %s,
-204,Menus_UI_Settings,1524,6128,79667,<PD> Tag Tricks,
-204,Menus_UI_Settings,1525,6132,79682,<P9> %s,
-204,Menus_UI_Settings,1526,6136,79689,<PM> Close,
-204,Menus_UI_Settings,1527,6140,79699,<GR>1%,
-204,Menus_UI_Settings,1528,6144,79705,<P3> Attack 1,
-204,Menus_UI_Settings,1529,6148,79718,<P2> Attack 2,
-204,Menus_UI_Settings,1530,6152,79731,<PQ> Run,
+204,Menus_UI_Settings,1516,6096,79546,<PL> Toggle,<PL> สลับ
+204,Menus_UI_Settings,1517,6100,79557,<P3> Disable All,<P3> ปิดใช้งานทั้งหมด
+204,Menus_UI_Settings,1518,6104,79573,<P3> Change Vocation,<P3> เปลี่ยนอาชีพ
+204,Menus_UI_Settings,1519,6108,79593,<PH> Notice About Streaming,<PH> ข้อควรทราบเกี่ยวกับการสตรีมมิ่ง
+204,Menus_UI_Settings,1520,6112,79620,<PH> Multiplayer Agreement,<PH> ข้อตกลงการเล่นหลายคน
+204,Menus_UI_Settings,1521,6116,79646,<P3> %s,<P3> %s
+204,Menus_UI_Settings,1522,6120,79653,<P2> %s,<P2> %s
+204,Menus_UI_Settings,1523,6124,79660,<P0> %s,<P0> %s
+204,Menus_UI_Settings,1524,6128,79667,<PD> Tag Tricks,<PD> แท็กทริก (Tag Tricks)
+204,Menus_UI_Settings,1525,6132,79682,<P9> %s,<P9> %s
+204,Menus_UI_Settings,1526,6136,79689,<PM> Close,<PM> ปิด
+204,Menus_UI_Settings,1527,6140,79699,<GR>1%,<GR>1%
+204,Menus_UI_Settings,1528,6144,79705,<P3> Attack 1,<P3> โจมตี 1
+204,Menus_UI_Settings,1529,6148,79718,<P2> Attack 2,<P2> โจมตี 2
+204,Menus_UI_Settings,1530,6152,79731,<PQ> Run,<PQ> วิ่ง
 204,Menus_UI_Settings,1531,6156,79739,UNUSED,
-204,Menus_UI_Settings,1532,6160,79746,<PB><PC> Switch,
-204,Menus_UI_Settings,1533,6164,79760,<P3> Search Again,
-204,Menus_UI_Settings,1534,6168,79777,<PC>,
-204,Menus_UI_Settings,1535,6172,79781,<PE>,
-204,Menus_UI_Settings,1536,6176,79785,<P5> Select,
-204,Menus_UI_Settings,1537,6180,79796,<P9> Summon,
-204,Menus_UI_Settings,1538,6184,79807,<PA> Dismiss,
-204,Menus_UI_Settings,1539,6188,79819,<P1> Jump,
-204,Menus_UI_Settings,1540,6192,79828,<P0> Coup de Grâce,
-204,Menus_UI_Settings,1541,6196,79847,<P0> Fire Up,
-204,Menus_UI_Settings,1542,6200,79859,<P0> High-Tension Mode,
-204,Menus_UI_Settings,1543,6204,79881,<PD>,
-204,Menus_UI_Settings,1544,6208,79885,<P3> Discard,
-204,Menus_UI_Settings,1545,6212,79897,<P2> By Oldest,
-204,Menus_UI_Settings,1546,6216,79911,<P3> HP Boost,
-204,Menus_UI_Settings,1547,6220,79924,<P2> Tension Boost,
-204,Menus_UI_Settings,1548,6224,79942,<PH> Skip,
-204,Menus_UI_Settings,1549,6228,79951,<PL> Talk,
-204,Menus_UI_Settings,1550,6232,79960,<PH> Menu,
-204,Menus_UI_Settings,1551,6236,79969,<PL> Open,
-204,Menus_UI_Settings,1552,6240,79978,<PL> Examine,
-204,Menus_UI_Settings,1553,6244,79990,<P9> Chat,
-204,Menus_UI_Settings,1554,6248,79999,<PA> Change Page,
-204,Menus_UI_Settings,1555,6252,80015,<PL> <F4>%s,
-204,Menus_UI_Settings,1556,6256,80025,<PL> Change,
-204,Menus_UI_Settings,1557,6260,80036,<P2> Move,
-204,Menus_UI_Settings,1558,6264,80045,<P3> Remove,
-204,Menus_UI_Settings,1559,6268,80056,<P3> Save,
-204,Menus_UI_Settings,1560,6272,80065,<P3> Cancel,
-204,Menus_UI_Settings,1561,6276,80076,<P3> Remove,
-204,Menus_UI_Settings,1562,6280,80087,<PB> Defend,
-204,Menus_UI_Settings,1563,6284,80098,<PL> Invite,
-204,Menus_UI_Settings,1564,6288,80109,<PL> Cancel Invitation,
+204,Menus_UI_Settings,1532,6160,79746,<PB><PC> Switch,<PB><PC> สลับ
+204,Menus_UI_Settings,1533,6164,79760,<P3> Search Again,<P3> ค้นหาใหม่
+204,Menus_UI_Settings,1534,6168,79777,<PC>,<PC>
+204,Menus_UI_Settings,1535,6172,79781,<PE>,<PE>
+204,Menus_UI_Settings,1536,6176,79785,<P5> Select,<P5> เลือก
+204,Menus_UI_Settings,1537,6180,79796,<P9> Summon,<P9> อัญเชิญ
+204,Menus_UI_Settings,1538,6184,79807,<PA> Dismiss,<PA> ปลดปล่อย
+204,Menus_UI_Settings,1539,6188,79819,<P1> Jump,<P1> กระโดด
+204,Menus_UI_Settings,1540,6192,79828,<P0> Coup de Grâce,<P0> ท่าไม้ตายปิดฉาก
+204,Menus_UI_Settings,1541,6196,79847,<P0> Fire Up,<P0> ระเบิดพลังเทนชัน
+204,Menus_UI_Settings,1542,6200,79859,<P0> High-Tension Mode,<P0> โหมดไฮเทนชัน
+204,Menus_UI_Settings,1543,6204,79881,<PD>,<PD>
+204,Menus_UI_Settings,1544,6208,79885,<P3> Discard,<P3> ทิ้ง
+204,Menus_UI_Settings,1545,6212,79897,<P2> By Oldest,<P2> ตามเก่าสุด
+204,Menus_UI_Settings,1546,6216,79911,<P3> HP Boost,<P3> เพิ่ม HP
+204,Menus_UI_Settings,1547,6220,79924,<P2> Tension Boost,<P2> เพิ่มเทนชัน
+204,Menus_UI_Settings,1548,6224,79942,<PH> Skip,<PH> ข้าม
+204,Menus_UI_Settings,1549,6228,79951,<PL> Talk,<PL> คุย
+204,Menus_UI_Settings,1550,6232,79960,<PH> Menu,<PH> เมนู
+204,Menus_UI_Settings,1551,6236,79969,<PL> Open,<PL> เปิด
+204,Menus_UI_Settings,1552,6240,79978,<PL> Examine,<PL> สำรวจ
+204,Menus_UI_Settings,1553,6244,79990,<P9> Chat,<P9> แช็ต
+204,Menus_UI_Settings,1554,6248,79999,<PA> Change Page,<PA> เปลี่ยนหน้า
+204,Menus_UI_Settings,1555,6252,80015,<PL> <F4>%s,<PL> <F4>%s
+204,Menus_UI_Settings,1556,6256,80025,<PL> Change,<PL> เปลี่ยน
+204,Menus_UI_Settings,1557,6260,80036,<P2> Move,<P2> เคลื่อนย้าย
+204,Menus_UI_Settings,1558,6264,80045,<P3> Remove,<P3> ถอดออก
+204,Menus_UI_Settings,1559,6268,80056,<P3> Save,<P3> บันทึกไว้
+204,Menus_UI_Settings,1560,6272,80065,<P3> Cancel,<P3> ยกเลิก
+204,Menus_UI_Settings,1561,6276,80076,<P3> Remove,<P3> ถอดออก
+204,Menus_UI_Settings,1562,6280,80087,<PB> Defend,<PB> ป้องกัน
+204,Menus_UI_Settings,1563,6284,80098,<PL> Invite,<PL> เชิญ
+204,Menus_UI_Settings,1564,6288,80109,<PL> Cancel Invitation,<PL> ยกเลิกคำเชิญ
 204,Menus_UI_Settings,1565,6292,80131,UNUSED,
 204,Menus_UI_Settings,1566,6296,80138,UNUSED,
 204,Menus_UI_Settings,1567,6300,80145,UNUSED,
@@ -35608,14 +35608,14 @@
 204,Menus_UI_Settings,1570,6312,80166,UNUSED,
 204,Menus_UI_Settings,1571,6316,80173,UNUSED,
 204,Menus_UI_Settings,1572,6320,80180,UNUSED,
-204,Menus_UI_Settings,1573,6324,80187,<P0> Heal,
+204,Menus_UI_Settings,1573,6324,80187,<P0> Heal,<P0> ฟื้นพลัง
 204,Menus_UI_Settings,1574,6328,80196,UNUSED,
 204,Menus_UI_Settings,1575,6332,80203,UNUSED,
-204,Menus_UI_Settings,1576,6336,80210,<P2> By Last Used,
-204,Menus_UI_Settings,1577,6340,80227,<P3> Select,
-204,Menus_UI_Settings,1578,6344,80238,<P2> Use Previous Party,
-204,Menus_UI_Settings,1579,6348,80261,<P2> Use Current Party,
-204,Menus_UI_Settings,1580,6352,80283,<P1> Continue,
+204,Menus_UI_Settings,1576,6336,80210,<P2> By Last Used,<P2> ตามที่ใช้ล่าสุด
+204,Menus_UI_Settings,1577,6340,80227,<P3> Select,<P3> เลือก
+204,Menus_UI_Settings,1578,6344,80238,<P2> Use Previous Party,<P2> ใช้ปาร์ตี้ก่อนหน้า
+204,Menus_UI_Settings,1579,6348,80261,<P2> Use Current Party,<P2> ใช้ปาร์ตี้ปัจจุบัน
+204,Menus_UI_Settings,1580,6352,80283,<P1> Continue,<P1> ทำต่อไป
 204,Menus_UI_Settings,1581,6356,80296,,
 204,Menus_UI_Settings,1582,6360,80297,,
 204,Menus_UI_Settings,1583,6364,80298,,
@@ -35635,211 +35635,211 @@
 204,Menus_UI_Settings,1597,6420,80312,,
 204,Menus_UI_Settings,1598,6424,80313,,
 204,Menus_UI_Settings,1599,6428,80314,,
-204,Menus_UI_Settings,1600,6432,80315,Yeah<FG> We're unstoppable<FG>,
-204,Menus_UI_Settings,1601,6436,80344,Told you I was top of the class<FG>,
-204,Menus_UI_Settings,1602,6440,80379,I'm just getting started<FG>,
-204,Menus_UI_Settings,1603,6444,80407,Alllriiight<FG> I'm on fire<FG>,
-204,Menus_UI_Settings,1604,6448,80437,Hee hee<FG> Perfect<FG>,
-204,Menus_UI_Settings,1605,6452,80459,We passed that test with flying colours<FG>,
-204,Menus_UI_Settings,1606,6456,80502,Haha<FG> If my teachers could see me now<FG>,
-204,Menus_UI_Settings,1607,6460,80545,"If you work hard, you can achieve anything<FG>",
-204,Menus_UI_Settings,1608,6464,80591,Hm<FG> Justice is done<FG>,
-204,Menus_UI_Settings,1609,6468,80616,Victory is ours<FG>,
-204,Menus_UI_Settings,1610,6472,80635,We have carried the day<FG>,
-204,Menus_UI_Settings,1611,6476,80662,Hm<FG> Our victory was never in doubt.,
-204,Menus_UI_Settings,1612,6480,80700,All in a day's work<FG>,
-204,Menus_UI_Settings,1613,6484,80723,I'm only just getting warmed up<FG>,
-204,Menus_UI_Settings,1614,6488,80758,Did you have fun<FH> I know I did<FG>,
-204,Menus_UI_Settings,1615,6492,80794,You'll have to try harder than that<FG>,
-204,Menus_UI_Settings,1616,6496,80833,They are finished<FH> I am merely beginning<FG>,
-204,Menus_UI_Settings,1617,6500,80879,Is there no opponent to truly stretch me<FH>,
-204,Menus_UI_Settings,1618,6504,80923,"No matter the enemy, I will overcome peerlessly<FG>",
-204,Menus_UI_Settings,1619,6508,80974,Hee hee<FG> I never tire of triumph<FG>,
-204,Menus_UI_Settings,1620,6512,81012,I dedicate victory to wondrous Tsarevna<FG>,
-204,Menus_UI_Settings,1621,6516,81055,Praise be to Goddess<FG>,
-204,Menus_UI_Settings,1622,6520,81079,Ura<FG> My daily diligence bears fruits<FG>,
-204,Menus_UI_Settings,1623,6524,81121,Were my powers sufficient to our needs<FH>,
-204,Menus_UI_Settings,1624,6528,81163,This calls for a celebration<FG>,
-204,Menus_UI_Settings,1625,6532,81195,I'd just like to say a big thank-you to all my fans<FG>,
-204,Menus_UI_Settings,1626,6536,81250,Hm hm<FG> Satisfaction guaranteed<FG>,
-204,Menus_UI_Settings,1627,6540,81286,"Not a bad little performance, hm<FH>",
-204,Menus_UI_Settings,1628,6544,81322,We were destined to win<FG>,
-204,Menus_UI_Settings,1629,6548,81349,I hope I helped at least a little...,
-204,Menus_UI_Settings,1630,6552,81386,Lady Luck is smiling on us today<FG>,
-204,Menus_UI_Settings,1631,6556,81422,"Maya's not the only one who can put on a show, you know<FG>",
-204,Menus_UI_Settings,1632,6560,81481,"We made a killin', so we did<FG>",
-204,Menus_UI_Settings,1633,6564,81513,"This auld abacus ain't just for show, y'know<FG>",
-204,Menus_UI_Settings,1634,6568,81561,Phew<FG> Time fer a nice sit down an' a cup o' tea<FG>,
-204,Menus_UI_Settings,1635,6572,81614,Now that's what I call a done deal<FG>,
-204,Menus_UI_Settings,1636,6576,81652,Pah. That was nothing.,
-204,Menus_UI_Settings,1637,6580,81675,How about somebody gives me a real challenge<FH>,
-204,Menus_UI_Settings,1638,6584,81723,The world's greatest swordsman wins again.,
-204,Menus_UI_Settings,1639,6588,81766,Heh. I was just getting started.,
-204,Menus_UI_Settings,1640,6592,81799,Ha ha ha<FG> Easy as apple pie<FG>,
-204,Menus_UI_Settings,1641,6596,81832,We're the dream team<MV>an' the monsters' worst nightmare<FG>,
-204,Menus_UI_Settings,1642,6600,81892,"Woohoo<FG> Not too shabby, huh<FH>",
-204,Menus_UI_Settings,1643,6604,81925,Ha ha ha<FG> Told you I was tough<FG>,
-204,Menus_UI_Settings,1644,6608,81961,"Ha ha<FG> Easy-peasy, lemon-squeezy<FG>",
-204,Menus_UI_Settings,1645,6612,81999,Well<FH> Isn't anybody going to thank me<FG><FH>,
-204,Menus_UI_Settings,1646,6616,82045,I win<FG> But don't I always<FH>,
-204,Menus_UI_Settings,1647,6620,82076,That's what you get when you mess with Maribel Mayde<FG>,
-204,Menus_UI_Settings,1648,6624,82132,Aoooooo<FG> We won<FG> We won<FG>,
-204,Menus_UI_Settings,1649,6628,82163,Told you my bite was worse than my bark<FG>,
-204,Menus_UI_Settings,1650,6632,82206,Hurf hurf hurf<FG> I'm a wolf in kid's clothing<FG>,
-204,Menus_UI_Settings,1651,6636,82256,Hooray<FG> Aooo<FG> We won<FG>,
-204,Menus_UI_Settings,1652,6640,82284,Oops<FG> Did I overdo it a little<FH>,
-204,Menus_UI_Settings,1653,6644,82320,Phew<FG> And that's the end of that<FG>,
-204,Menus_UI_Settings,1654,6648,82358,I'm the whole package<FG>,
-204,Menus_UI_Settings,1655,6652,82383,Hee hee<FG> Didn't I do well<FH>,
-204,Menus_UI_Settings,1656,6656,82414,"Oh, I'm sorry. Did I outclass you all<FH>",
-204,Menus_UI_Settings,1657,6660,82455,I dedicate this victory to my army of beautiful admirers<FG>,
-204,Menus_UI_Settings,1658,6664,82515,"Another day, another conquest<FG>",
-204,Menus_UI_Settings,1659,6668,82548,Magnificent<FG> ...Wasn't I<FH>,
-204,Menus_UI_Settings,1660,6672,82578,Perfectly executed<FG>,
-204,Menus_UI_Settings,1661,6676,82600,My strategy was flawless<FG>,
-204,Menus_UI_Settings,1662,6680,82628,I foresaw their every move<FG>,
-204,Menus_UI_Settings,1663,6684,82658,Strategy is the key to victory.,
-204,Menus_UI_Settings,1664,6688,82690,"As long as we win, that's all that matters<FG>",
-204,Menus_UI_Settings,1665,6692,82736,Haha<FG> All in a day's work<FG>,
-204,Menus_UI_Settings,1666,6696,82767,Phew<FG> We did it<FG>,
-204,Menus_UI_Settings,1667,6700,82788,Losing was never an option<FG>,
-204,Menus_UI_Settings,1668,6704,82818,RRRAHAHAHAAA<FG> Child's play<FG>,
-204,Menus_UI_Settings,1669,6708,82850,Huzzah<FG> The day is ours<FG>,
-204,Menus_UI_Settings,1670,6712,82879,RRRAHAHAHAAA<FG> Onward and upward<FG>,
-204,Menus_UI_Settings,1671,6716,82916,"Sing for joy, friends<FG> Victory is ours<FG>",
-204,Menus_UI_Settings,1672,6720,82960,Those were some interesting specimens<FG>,
-204,Menus_UI_Settings,1673,6724,83001,"Hee hee<FG> Not bad, eh<FH>",
-204,Menus_UI_Settings,1674,6728,83027,And that concludes today's experiment<FG>,
-204,Menus_UI_Settings,1675,6732,83068,Ha<FG> I've got all the data I need<FG>,
-204,Menus_UI_Settings,1676,6736,83106,Easy as you like<FG>,
-204,Menus_UI_Settings,1677,6740,83126,Oi<FG> Did you see that<FH> Blindin'<FG>,
-204,Menus_UI_Settings,1678,6744,83164,Heh<FG> Coulda done that wiv me eyes shut<FG>,
-204,Menus_UI_Settings,1679,6748,83208,"Bish, bash, bosh. Job done.",
-204,Menus_UI_Settings,1680,6752,83236,Ha<FG> Told you I'd 'ave 'em<FG>,
-204,Menus_UI_Settings,1681,6756,83267,"Well, I weren't about to give up<MV>I've got a weddin' to go to<FG>",
-204,Menus_UI_Settings,1682,6760,83333,Can't beat a bit of teamwork<FG>,
-204,Menus_UI_Settings,1683,6764,83365,That's the way to do it<FG> Keep it up<FG>,
-204,Menus_UI_Settings,1684,6768,83406,I hope I was at least a little helpful...,
-204,Menus_UI_Settings,1685,6772,83448,I shan't give up until I'm back by his side<FG>,
-204,Menus_UI_Settings,1686,6776,83495,I promise to try even harder next time<FG>,
-204,Menus_UI_Settings,1687,6780,83537,I must keep on trying until my dreams come true<FG>,
-204,Menus_UI_Settings,1688,6784,83588,Ha. A foregone conclusion.,
-204,Menus_UI_Settings,1689,6788,83615,They were no match for me.,
-204,Menus_UI_Settings,1690,6792,83642,None can defy me.,
-204,Menus_UI_Settings,1691,6796,83660,Pah... I came all this way for that<FH>,
-204,Menus_UI_Settings,1692,6800,83699,Graphics Settings,
-204,Menus_UI_Settings,1693,6804,83717,Keyboard Settings,
-204,Menus_UI_Settings,1694,6808,83735,Exit Game,
-204,Menus_UI_Settings,1695,6812,83745,Full Screen Display,
-204,Menus_UI_Settings,1696,6816,83765,Resolution,
-204,Menus_UI_Settings,1697,6820,83776,Frame Rate,
-204,Menus_UI_Settings,1698,6824,83787,Quality Settings,
-204,Menus_UI_Settings,1699,6828,83804,  No. of On-Screen Characters,
-204,Menus_UI_Settings,1700,6832,83834,  Draw Distance,
-204,Menus_UI_Settings,1701,6836,83850,  Textures,
-204,Menus_UI_Settings,1702,6840,83861,  Shadows,
-204,Menus_UI_Settings,1703,6844,83871,  Ambient Occlusion,
-204,Menus_UI_Settings,1704,6848,83891,  Reflections,
-204,Menus_UI_Settings,1705,6852,83905,  Light Shafts,
-204,Menus_UI_Settings,1706,6856,83920,  Particles,
-204,Menus_UI_Settings,1707,6860,83932,  Global Illumination,
-204,Menus_UI_Settings,1708,6864,83954,Choose whether to play in full screen or windowed mode.,
-204,Menus_UI_Settings,1709,6868,84010,Adjust the resolution of the screen or the size of the window.,
-204,Menus_UI_Settings,1710,6872,84073,Adjust the number of frames that are shown per second. Higher frame rates make the action look smoother.,
-204,Menus_UI_Settings,1711,6876,84178,Adjust the overall graphics quality settings.,
-204,Menus_UI_Settings,1712,6880,84224,Adjust the maximum number of characters that can be displayed on screen at any one time.,
-204,Menus_UI_Settings,1713,6884,84313,Adjust the distance at which characters and scenery elements become visible.,
-204,Menus_UI_Settings,1714,6888,84390,Adjust the quality of the textures applied to scenery elements.,
-204,Menus_UI_Settings,1715,6892,84454,Adjust the quality of the shadows.,
-204,Menus_UI_Settings,1716,6896,84489,Adjust the quality of the shading produced by ambient light.,
-204,Menus_UI_Settings,1717,6900,84550,Adjust the quality of the reflections seen in water and other shiny surfaces.,
-204,Menus_UI_Settings,1718,6904,84628,Choose whether or not to display shafts of light.,
-204,Menus_UI_Settings,1719,6908,84678,Adjust the maximum number of particle effects that can be displayed at any one time.,
-204,Menus_UI_Settings,1720,6912,84763,Adjust the quality of reflected light effects.,
-204,Menus_UI_Settings,1721,6916,84810,20,
-204,Menus_UI_Settings,1722,6920,84813,30,
-204,Menus_UI_Settings,1723,6924,84816,60,
-204,Menus_UI_Settings,1724,6928,84819,On,
-204,Menus_UI_Settings,1725,6932,84822,Off,
-204,Menus_UI_Settings,1726,6936,84826,High,
-204,Menus_UI_Settings,1727,6940,84831,Medium,
-204,Menus_UI_Settings,1728,6944,84838,Low,
-204,Menus_UI_Settings,1729,6948,84842,Custom,
-204,Menus_UI_Settings,1730,6952,84849,640x360,
-204,Menus_UI_Settings,1731,6956,84857,800x450,
-204,Menus_UI_Settings,1732,6960,84865,1024x576,
-204,Menus_UI_Settings,1733,6964,84874,1280x720,
-204,Menus_UI_Settings,1734,6968,84883,1360x765,
-204,Menus_UI_Settings,1735,6972,84892,1600x900,
-204,Menus_UI_Settings,1736,6976,84901,1920x1080,
-204,Menus_UI_Settings,1737,6980,84911,Move Left <PJ>,
-204,Menus_UI_Settings,1738,6984,84925,Move Right <PJ>,
-204,Menus_UI_Settings,1739,6988,84940,Move Forward <PJ>,
-204,Menus_UI_Settings,1740,6992,84957,Move Backward <PJ>,
-204,Menus_UI_Settings,1741,6996,84975,Attack 1 <P3>,
-204,Menus_UI_Settings,1742,7000,84988,Attack 2 <P2>,
-204,Menus_UI_Settings,1743,7004,85001,Jump <P1>,
-204,Menus_UI_Settings,1744,7008,85010,Coup de Grâce <P0>,
-204,Menus_UI_Settings,1745,7012,85029,Spells and Abilities <PC>,
-204,Menus_UI_Settings,1746,7016,85054,Dodge <PE>,
-204,Menus_UI_Settings,1747,7020,85064,Camera Left <PK>,
-204,Menus_UI_Settings,1748,7024,85080,Camera Right <PK>,
-204,Menus_UI_Settings,1749,7028,85097,Camera Up <PK>,
-204,Menus_UI_Settings,1750,7032,85111,Camera Down <PK>,
-204,Menus_UI_Settings,1751,7036,85127,D-Pad Left <P7>,
-204,Menus_UI_Settings,1752,7040,85142,D-Pad Right <P8>,
-204,Menus_UI_Settings,1753,7044,85158,D-Pad Up <P9>,
-204,Menus_UI_Settings,1754,7048,85171,D-Pad Down <PA>,
-204,Menus_UI_Settings,1755,7052,85186,Block/Reset Camera <PB>,
-204,Menus_UI_Settings,1756,7056,85209,Change Characters <PD>,
-204,Menus_UI_Settings,1757,7060,85231,Lock-On <PG>,
-204,Menus_UI_Settings,1758,7064,85243,Menu <PH>,
-204,Menus_UI_Settings,1759,7068,85252,Toggle Map Display <PI>,
-204,Menus_UI_Settings,1760,7072,85275,Graphics Settings,
-204,Menus_UI_Settings,1761,7076,85293,Keyboard Settings,
-204,Menus_UI_Settings,1762,7080,85311,Adjust various graphics settings.,
-204,Menus_UI_Settings,1763,7084,85345,Adjust the keyboard control settings.,
-204,Menus_UI_Settings,1764,7088,85383,%s → %s\n%s → %s\nDo you want to make these key changes<FH>,
-204,Menus_UI_Settings,1765,7092,85444,Mouse Settings,
-204,Menus_UI_Settings,1766,7096,85459,Adjust the mouse control settings.,
-204,Menus_UI_Settings,1767,7100,85494,Clear All,
-204,Menus_UI_Settings,1768,7104,85504,Left Click,
-204,Menus_UI_Settings,1769,7108,85515,Right Click,
-204,Menus_UI_Settings,1770,7112,85527,Scroll Wheel Button,
-204,Menus_UI_Settings,1771,7116,85547,Scroll Wheel Up,
-204,Menus_UI_Settings,1772,7120,85563,Scroll Wheel Down,
-204,Menus_UI_Settings,1773,7124,85581,Mouse Button %d,
-204,Menus_UI_Settings,1774,7128,85597,%s → %s\n%s → %s\nDo you want to make these key changes<FH>,
-204,Menus_UI_Settings,1775,7132,85658,Key %d,
-204,Menus_UI_Settings,1776,7136,85665,Assign Preset for Keyboard-Only Controls,
-204,Menus_UI_Settings,1777,7140,85706,Voice Language,
-204,Menus_UI_Settings,1778,7144,85721,English,
-204,Menus_UI_Settings,1779,7148,85729,Japanese,
-204,Menus_UI_Settings,1780,7152,85738,"Now you can adjust various settings, including network settings and voice language. You can choose between English or Japanese voices.",
-204,Menus_UI_Settings,1781,7156,85873,You can also connect with other players by enabling online features. You're free to disable them at any time.,
-204,Menus_UI_Settings,1782,7160,85983,Mini Medals,
-204,Menus_UI_Settings,1783,7164,85995,"Depending on your language selection, audio content may not match subtitles exactly.",
-204,Menus_UI_Settings,1784,7168,86080,Orb,
-204,Menus_UI_Settings,1785,7172,86084,Accessory,
-204,Menus_UI_Settings,1786,7176,86094,2560x1440,
-204,Menus_UI_Settings,1787,7180,86104,2560x1600,
-204,Menus_UI_Settings,1788,7184,86114,3840x2160,
-204,Menus_UI_Settings,1789,7188,86124,Acquired <I1>M1<FG>,
-204,Menus_UI_Settings,1790,7192,86142,Change Resolution,
-204,Menus_UI_Settings,1791,7196,86160,Currently displaying in Enhanced Mode.\nChange to Standard Mode<FH>,
-204,Menus_UI_Settings,1792,7200,86226,Currently displaying in Standard Mode.\nChange to Enhanced Mode<FH>,
-204,Menus_UI_Settings,1793,7204,86292,The screen resolution has been changed.,
-204,Menus_UI_Settings,1794,7208,86332,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,
+204,Menus_UI_Settings,1600,6432,80315,Yeah<FG> We're unstoppable<FG>,เยี่ยม<FG> ไม่มีใครหยุดพวกเราได้แล้ว<FG>
+204,Menus_UI_Settings,1601,6436,80344,Told you I was top of the class<FG>,บอกแล้วไงว่าฉันน่ะหัวกะทิของรุ่น<FG>
+204,Menus_UI_Settings,1602,6440,80379,I'm just getting started<FG>,ฉันเพิ่งจะเริ่มเครื่องร้อนเองนะ<FG>
+204,Menus_UI_Settings,1603,6444,80407,Alllriiight<FG> I'm on fire<FG>,สุดยอดดด<FG> ไฟในตัวมันลุกโชนแล้ว<FG>
+204,Menus_UI_Settings,1604,6448,80437,Hee hee<FG> Perfect<FG>,ฮิ ๆ<FG> สมบูรณ์แบบ<FG>
+204,Menus_UI_Settings,1605,6452,80459,We passed that test with flying colours<FG>,พวกเราผ่านบททดสอบนั้นมาได้อย่างงดงามเลย<FG>
+204,Menus_UI_Settings,1606,6456,80502,Haha<FG> If my teachers could see me now<FG>,ฮะ ๆ<FG> ถ้าอาจารย์มาเห็นฉันตอนนี้คงทึ่งแน่<FG>
+204,Menus_UI_Settings,1607,6460,80545,"If you work hard, you can achieve anything<FG>",ถ้าเราพยายามอย่างเต็มที่ ไม่มีอะไรที่เราทำไม่ได้หรอก<FG>
+204,Menus_UI_Settings,1608,6464,80591,Hm<FG> Justice is done<FG>,หึ ความยุติธรรมบังเกิดแล้ว<FG>
+204,Menus_UI_Settings,1609,6468,80616,Victory is ours<FG>,ชัยชนะเป็นของพวกเรา<FG>
+204,Menus_UI_Settings,1610,6472,80635,We have carried the day<FG>,พวกเราคว้าชัยในการศึกนี้ได้แล้ว<FG>
+204,Menus_UI_Settings,1611,6476,80662,Hm<FG> Our victory was never in doubt.,หึ ชัยชนะของพวกเราไม่เคยมีข้อกังขาอยู่แล้ว
+204,Menus_UI_Settings,1612,6480,80700,All in a day's work<FG>,แค่งานสบาย ๆ ประจำวันเท่านั้นแหละ<FG>
+204,Menus_UI_Settings,1613,6484,80723,I'm only just getting warmed up<FG>,ฉันเพิ่งจะเริ่มอบอุ่นร่างกายเองนะ<FG>
+204,Menus_UI_Settings,1614,6488,80758,Did you have fun<FH> I know I did<FG>,สนุกกันไหมล่ะ<FH> ฉันน่ะสนุกสุด ๆ เลย<FG>
+204,Menus_UI_Settings,1615,6492,80794,You'll have to try harder than that<FG>,พวกเจ้าต้องพยายามให้มากกว่านี้หน่อยนะ<FG>
+204,Menus_UI_Settings,1616,6496,80833,They are finished<FH> I am merely beginning<FG>,พวกมันเสร็จแล้วเรอะ<FH> ข้าเพิ่งจะเริ่มเองนะ<FG>
+204,Menus_UI_Settings,1617,6500,80879,Is there no opponent to truly stretch me<FH>,ไม่มีศัตรูคนไหนที่ทำให้ข้าได้ออกแรงจริง ๆ เลยรึไงนะ<FH>
+204,Menus_UI_Settings,1618,6504,80923,"No matter the enemy, I will overcome peerlessly<FG>",ไม่ว่าศัตรูจะเป็นใคร ข้าก็จะเอาชนะได้อย่างไร้เทียมทาน<FG>
+204,Menus_UI_Settings,1619,6508,80974,Hee hee<FG> I never tire of triumph<FG>,ฮิ ๆ<FG> ข้าไม่เคยเบื่อชัยชนะเลยจริง ๆ<FG>
+204,Menus_UI_Settings,1620,6512,81012,I dedicate victory to wondrous Tsarevna<FG>,ขอมอบชัยชนะนี้แด่องค์หญิงซาเรฟน่าผู้เลอโฉม<FG>
+204,Menus_UI_Settings,1621,6516,81055,Praise be to Goddess<FG>,ขอสรรเสริญแด่องค์เทพธิดา<FG>
+204,Menus_UI_Settings,1622,6520,81079,Ura<FG> My daily diligence bears fruits<FG>,ไชโย<FG> ความพากเพียรทุกเมื่อเชื่อวันของข้าผลิดอกออกผลแล้ว<FG>
+204,Menus_UI_Settings,1623,6524,81121,Were my powers sufficient to our needs<FH>,พลังของข้าเพียงพอที่จะช่วยทุกคนหรือไม่นะ<FH>
+204,Menus_UI_Settings,1624,6528,81163,This calls for a celebration<FG>,แบบนี้มันต้องฉลอง<FG>
+204,Menus_UI_Settings,1625,6532,81195,I'd just like to say a big thank-you to all my fans<FG>,ขอขอบคุณแฟนคลับทุกคนจากใจจริงเลยนะจ๊ะ<FG>
+204,Menus_UI_Settings,1626,6536,81250,Hm hm<FG> Satisfaction guaranteed<FG>,หึ ๆ<FG> รับประกันความพึงพอใจจ้ะ<FG>
+204,Menus_UI_Settings,1627,6540,81286,"Not a bad little performance, hm<FH>",เป็นการแสดงที่ไม่เลวเลยใช่ไหมล่ะ หืม<FH>
+204,Menus_UI_Settings,1628,6544,81322,We were destined to win<FG>,ชะตาลิขิตให้พวกเราเป็นผู้ชนะอยู่แล้ว<FG>
+204,Menus_UI_Settings,1629,6548,81349,I hope I helped at least a little...,หวังว่าฉันจะพอช่วยทุกคนได้บ้างนะคะ...
+204,Menus_UI_Settings,1630,6552,81386,Lady Luck is smiling on us today<FG>,เทพีแห่งโชคกำลังยิ้มให้พวกเราในวันนี้<FG>
+204,Menus_UI_Settings,1631,6556,81422,"Maya's not the only one who can put on a show, you know<FG>",ไม่ใช่แค่มาเนียคนเดียวหรอกนะที่เปิดการแสดงได้น่ะ<FG>
+204,Menus_UI_Settings,1632,6560,81481,"We made a killin', so we did<FG>",ฟันกำไรเละเทะเลยพวกเรา<FG>
+204,Menus_UI_Settings,1633,6564,81513,"This auld abacus ain't just for show, y'know<FG>",ลูกคิดอันเก่านี่ไม่ได้มีไว้โชว์โก้ ๆ หรอกนะจะบอกให้<FG>
+204,Menus_UI_Settings,1634,6568,81561,Phew<FG> Time fer a nice sit down an' a cup o' tea<FG>,ฟู่<FG> ได้เวลานั่งพักจิบชาร้อน ๆ สักถ้วยแล้วสิ<FG>
+204,Menus_UI_Settings,1635,6572,81614,Now that's what I call a done deal<FG>,นี่แหละที่เขาเรียกว่าปิดดีลได้อย่างงดงาม<FG>
+204,Menus_UI_Settings,1636,6576,81652,Pah. That was nothing.,เหอะ กระจอกสิ้นดี
+204,Menus_UI_Settings,1637,6580,81675,How about somebody gives me a real challenge<FH>,จะมีใครให้ความท้าทายจริง ๆ กับฉันได้บ้างไหมเนี่ย<FH>
+204,Menus_UI_Settings,1638,6584,81723,The world's greatest swordsman wins again.,นักดาบที่เก่งที่สุดในโลกชนะอีกตามเคย
+204,Menus_UI_Settings,1639,6588,81766,Heh. I was just getting started.,หึ ฉันเพิ่งจะเริ่มเองนะ
+204,Menus_UI_Settings,1640,6592,81799,Ha ha ha<FG> Easy as apple pie<FG>,ฮ่า ๆ ๆ<FG> กล้วย ๆ หมู ๆ ว่ะ<FG>
+204,Menus_UI_Settings,1641,6596,81832,We're the dream team<MV>an' the monsters' worst nightmare<FG>,พวกเราคือดรีมทีม<MV>และเป็นฝันร้ายที่สุดของพวกสัตว์ประหลาด<FG>
+204,Menus_UI_Settings,1642,6600,81892,"Woohoo<FG> Not too shabby, huh<FH>",วู้ฮู<FG> ไม่เลวเลยใช่ไหมล่ะ หืม<FH>
+204,Menus_UI_Settings,1643,6604,81925,Ha ha ha<FG> Told you I was tough<FG>,ฮ่า ๆ ๆ<FG> บอกแล้วไงว่าข้าน่ะอึดถึกทน<FG>
+204,Menus_UI_Settings,1644,6608,81961,"Ha ha<FG> Easy-peasy, lemon-squeezy<FG>",ฮ่า ๆ<FG> ง่ายเหมือนปอกกล้วยเข้าปาก<FG>
+204,Menus_UI_Settings,1645,6612,81999,Well<FH> Isn't anybody going to thank me<FG><FH>,แล้วไงยะ<FH> จะไม่มีใครขอบคุณฉันหน่อยเหรอเนี่ย<FG><FH>
+204,Menus_UI_Settings,1646,6616,82045,I win<FG> But don't I always<FH>,ฉันชนะ<FG> แต่ก็แหงล่ะ ฉันชนะตลอดอยู่แล้วนี่<FH>
+204,Menus_UI_Settings,1647,6620,82076,That's what you get when you mess with Maribel Mayde<FG>,นี่แหละผลของการมาหาเรื่องมาริเบล เมด<FG>
+204,Menus_UI_Settings,1648,6624,82132,Aoooooo<FG> We won<FG> We won<FG>,บรู๊วววว<FG> พวกเราชนะแล้ว<FG> ชนะแล้ว<FG>
+204,Menus_UI_Settings,1649,6628,82163,Told you my bite was worse than my bark<FG>,บอกแล้วไงว่าเขี้ยวฉันคมกว่าเสียงเห่าเยอะ<FG>
+204,Menus_UI_Settings,1650,6632,82206,Hurf hurf hurf<FG> I'm a wolf in kid's clothing<FG>,แฮ่ก ๆๆ<FG> ข้านี่แหละหมาป่าในร่างเด็ก<FG>
+204,Menus_UI_Settings,1651,6636,82256,Hooray<FG> Aooo<FG> We won<FG>,เย้<FG> บรู๊ววว<FG> พวกเราชนะแล้ว
+204,Menus_UI_Settings,1652,6640,82284,Oops<FG> Did I overdo it a little<FH>,อุ๊ย<FG> ฉันเผลอเล่นแรงไปหน่อยรึเปล่านะ<FH>
+204,Menus_UI_Settings,1653,6644,82320,Phew<FG> And that's the end of that<FG>,ฟู่<FG> และนั่นก็คือจุดจบของเรื่องนี้จ้ะ<FG>
+204,Menus_UI_Settings,1654,6648,82358,I'm the whole package<FG>,ทั้งสวยทั้งเก่ง ครบเครื่องในคนเดียวจ้ะ<FG>
+204,Menus_UI_Settings,1655,6652,82383,Hee hee<FG> Didn't I do well<FH>,ฮิ ๆ<FG> ฉันทำได้ดีใช่ไหมล่ะ<FH>
+204,Menus_UI_Settings,1656,6656,82414,"Oh, I'm sorry. Did I outclass you all<FH>",โอ้ ขอโทษทีนะ พอดีฉันเก่งเกินหน้าเกินตาทุกคนไปหน่อยหรือเปล่า<FH>
+204,Menus_UI_Settings,1657,6660,82455,I dedicate this victory to my army of beautiful admirers<FG>,ขอมอบชัยชนะนี้แด่กองทัพสาวงามผู้หลงใหลในตัวฉันทุกคน<FG>
+204,Menus_UI_Settings,1658,6664,82515,"Another day, another conquest<FG>",อีกหนึ่งวัน กับอีกหนึ่งชัยชนะอันงดงาม<FG>
+204,Menus_UI_Settings,1659,6668,82548,Magnificent<FG> ...Wasn't I<FH>,งดงามไร้ที่ติ<FG> ...ใช่ไหมล่ะ<FH>
+204,Menus_UI_Settings,1660,6672,82578,Perfectly executed<FG>,ปฏิบัติการสำเร็จตามแผนอย่างสมบูรณ์แบบ<FG>
+204,Menus_UI_Settings,1661,6676,82600,My strategy was flawless<FG>,แผนยุทธศาสตร์ของข้าไร้ที่ติ<FG>
+204,Menus_UI_Settings,1662,6680,82628,I foresaw their every move<FG>,ข้าล่วงรู้ทุกการเคลื่อนไหวของพวกมันล่วงหน้าแล้ว<FG>
+204,Menus_UI_Settings,1663,6684,82658,Strategy is the key to victory.,ยุทธศาสตร์คือกุญแจสำคัญสู่ชัยชนะ
+204,Menus_UI_Settings,1664,6688,82690,"As long as we win, that's all that matters<FG>",ขอแค่พวกเราชนะ นั่นแหละคือสิ่งที่สำคัญที่สุด<FG>
+204,Menus_UI_Settings,1665,6692,82736,Haha<FG> All in a day's work<FG>,ฮะ ๆ<FG> แค่งานสบาย ๆ ประจำวันเท่านั้นแหละ<FG>
+204,Menus_UI_Settings,1666,6696,82767,Phew<FG> We did it<FG>,ฟู่<FG> พวกเราทำได้แล้ว<FG>
+204,Menus_UI_Settings,1667,6700,82788,Losing was never an option<FG>,คำว่าพ่ายแพ้ไม่เคยมีอยู่ในหัวข้าอยู่แล้ว<FG>
+204,Menus_UI_Settings,1668,6704,82818,RRRAHAHAHAAA<FG> Child's play<FG>,ฮ่า ๆๆๆ<FG> เรื่องเด็กเล่นว่ะ<FG>
+204,Menus_UI_Settings,1669,6708,82850,Huzzah<FG> The day is ours<FG>,เฮ้<FG> ชัยชนะเป็นของพวกเรา<FG>
+204,Menus_UI_Settings,1670,6712,82879,RRRAHAHAHAAA<FG> Onward and upward<FG>,ฮ่า ๆๆๆ<FG> มุ่งหน้าก้าวต่อไปข้างหน้า<FG>
+204,Menus_UI_Settings,1671,6716,82916,"Sing for joy, friends<FG> Victory is ours<FG>",จงขับขานด้วยความยินดี สหายเอ๋ย<FG> ชัยชนะเป็นของพวกเราแล้ว<FG>
+204,Menus_UI_Settings,1672,6720,82960,Those were some interesting specimens<FG>,นั่นเป็นตัวอย่างทดลองที่น่าสนใจทีเดียวจ้ะ<FG>
+204,Menus_UI_Settings,1673,6724,83001,"Hee hee<FG> Not bad, eh<FH>",ฮิ ๆ<FG> ไม่เลวเลยใช่ไหมล่ะ หืม<FH>
+204,Menus_UI_Settings,1674,6728,83027,And that concludes today's experiment<FG>,และนั่นก็คือการสิ้นสุดการทดลองของวันนี้จ้ะ<FG>
+204,Menus_UI_Settings,1675,6732,83068,Ha<FG> I've got all the data I need<FG>,ฮะ<FG> ฉันได้ข้อมูลทั้งหมดที่ต้องการแล้ว<FG>
+204,Menus_UI_Settings,1676,6736,83106,Easy as you like<FG>,ง่ายดายตามต้องการเลยว่ะ<FG>
+204,Menus_UI_Settings,1677,6740,83126,Oi<FG> Did you see that<FH> Blindin'<FG>,เฮ้ย<FG> เห็นนั่นมั้ยล่ะ เจ๋งเป้งเลยว่ะ<FG>
+204,Menus_UI_Settings,1678,6744,83164,Heh<FG> Coulda done that wiv me eyes shut<FG>,หึ<FG> หลับตาทำยังชนะได้สบาย ๆ เลยว่ะ<FG>
+204,Menus_UI_Settings,1679,6748,83208,"Bish, bash, bosh. Job done.",ชึก ชัก โชะ งานเสร็จเรียบร้อย
+204,Menus_UI_Settings,1680,6752,83236,Ha<FG> Told you I'd 'ave 'em<FG>,ฮะ<FG> บอกแล้วไงว่าฉันจัดการพวกมันได้อยู่หมัด<FG>
+204,Menus_UI_Settings,1681,6756,83267,"Well, I weren't about to give up<MV>I've got a weddin' to go to<FG>",แหม ฉันไม่ยอมแพ้ง่าย ๆ หรอกน่า<MV>ฉันยังมีงานแต่งงานที่ต้องไปร่วมอยู่นะ<FG>
+204,Menus_UI_Settings,1682,6760,83333,Can't beat a bit of teamwork<FG>,ไม่มีอะไรเอาชนะพลังแห่งการทำงานเป็นทีมได้หรอก<FG>
+204,Menus_UI_Settings,1683,6764,83365,That's the way to do it<FG> Keep it up<FG>,มันต้องอย่างงี้สิ<FG> สู้ต่อไปนะทุกคน<FG>
+204,Menus_UI_Settings,1684,6768,83406,I hope I was at least a little helpful...,หวังว่าฉันจะพอมีประโยชน์กับทุกคนบ้างนะคะ...
+204,Menus_UI_Settings,1685,6772,83448,I shan't give up until I'm back by his side<FG>,ฉันจะไม่ยอมแพ้จนกว่าจะได้กลับไปเคียงข้างเขาอีกครั้งค่ะ<FG>
+204,Menus_UI_Settings,1686,6776,83495,I promise to try even harder next time<FG>,คราวหน้าฉันสัญญาว่าจะพยายามให้หนักขึ้นไปอีกค่ะ<FG>
+204,Menus_UI_Settings,1687,6780,83537,I must keep on trying until my dreams come true<FG>,ฉันจะต้องพยายามต่อไปจนกว่าความฝันจะเป็นจริงค่ะ<FG>
+204,Menus_UI_Settings,1688,6784,83588,Ha. A foregone conclusion.,หึ ผลลัพธ์มันถูกกำหนดไว้ตั้งแต่แรกแล้ว
+204,Menus_UI_Settings,1689,6788,83615,They were no match for me.,พวกมันเทียบชั้นกับข้าไม่ได้แม้แต่น้อย
+204,Menus_UI_Settings,1690,6792,83642,None can defy me.,ไม่มีผู้ใดอาจหาญมาขัดขืนข้าได้
+204,Menus_UI_Settings,1691,6796,83660,Pah... I came all this way for that<FH>,เหอะ... ข้าอุตส่าห์ดั้นด้นมาไกลเพื่อแค่นี้เองรึ<FH>
+204,Menus_UI_Settings,1692,6800,83699,Graphics Settings,ตั้งค่ากราฟิก
+204,Menus_UI_Settings,1693,6804,83717,Keyboard Settings,ตั้งค่าคีย์บอร์ด
+204,Menus_UI_Settings,1694,6808,83735,Exit Game,ออกจากเกม
+204,Menus_UI_Settings,1695,6812,83745,Full Screen Display,แสดงผลแบบเต็มจอ (Full Screen)
+204,Menus_UI_Settings,1696,6816,83765,Resolution,ความละเอียดหน้าจอ
+204,Menus_UI_Settings,1697,6820,83776,Frame Rate,เฟรมเรต (Frame Rate)
+204,Menus_UI_Settings,1698,6824,83787,Quality Settings,คุณภาพกราฟิก
+204,Menus_UI_Settings,1699,6828,83804,  No. of On-Screen Characters,  จำนวนตัวละครบนหน้าจอ
+204,Menus_UI_Settings,1700,6832,83834,  Draw Distance,  ระยะการเรนเดอร์ภาพ
+204,Menus_UI_Settings,1701,6836,83850,  Textures,  พื้นผิวภาพ (Textures)
+204,Menus_UI_Settings,1702,6840,83861,  Shadows,  คุณภาพเงา (Shadows)
+204,Menus_UI_Settings,1703,6844,83871,  Ambient Occlusion,  มิติแสงเงา (Ambient Occlusion)
+204,Menus_UI_Settings,1704,6848,83891,  Reflections,  การสะท้อนแสง (Reflections)
+204,Menus_UI_Settings,1705,6852,83905,  Light Shafts,  ลำแสงส่องกระทบ (Light Shafts)
+204,Menus_UI_Settings,1706,6856,83920,  Particles,  ละอองอนุภาค (Particles)
+204,Menus_UI_Settings,1707,6860,83932,  Global Illumination,  แสงธรรมชาติรอบทิศทาง (Global Illumination)
+204,Menus_UI_Settings,1708,6864,83954,Choose whether to play in full screen or windowed mode.,เลือกว่าจะแสดงผลแบบเต็มหน้าจอหรือแบบหน้าต่าง
+204,Menus_UI_Settings,1709,6868,84010,Adjust the resolution of the screen or the size of the window.,ปรับความละเอียดของหน้าจอหรือขนาดของหน้าต่างเกม
+204,Menus_UI_Settings,1710,6872,84073,Adjust the number of frames that are shown per second. Higher frame rates make the action look smoother.,ปรับจำนวนเฟรมเรตต่อวินาที ยิ่งเฟรมเรตสูง ภาพจะยิ่งลื่นไหลนุ่มนวลขึ้น
+204,Menus_UI_Settings,1711,6876,84178,Adjust the overall graphics quality settings.,ปรับคุณภาพกราฟิกโดยรวมของเกม
+204,Menus_UI_Settings,1712,6880,84224,Adjust the maximum number of characters that can be displayed on screen at any one time.,ปรับจำนวนตัวละครสูงสุดที่สามารถแสดงบนหน้าจอในเวลาเดียวกัน
+204,Menus_UI_Settings,1713,6884,84313,Adjust the distance at which characters and scenery elements become visible.,ปรับระยะห่างที่ตัวละครและฉากจะเริ่มปรากฏให้มองเห็น
+204,Menus_UI_Settings,1714,6888,84390,Adjust the quality of the textures applied to scenery elements.,ปรับคุณภาพพื้นผิว (Texture) ที่ใช้กับองค์ประกอบในฉาก
+204,Menus_UI_Settings,1715,6892,84454,Adjust the quality of the shadows.,ปรับคุณภาพการแสดงผลของเงา
+204,Menus_UI_Settings,1716,6896,84489,Adjust the quality of the shading produced by ambient light.,ปรับคุณภาพมิติเงาตกกระทบของแสงรอบข้าง (Ambient Light)
+204,Menus_UI_Settings,1717,6900,84550,Adjust the quality of the reflections seen in water and other shiny surfaces.,ปรับคุณภาพของการสะท้อนแสงบนผิวน้ำและพื้นผิวแวววาว
+204,Menus_UI_Settings,1718,6904,84628,Choose whether or not to display shafts of light.,เลือกว่าจะเปิดหรือปิดการแสดงลำแสงส่องผ่าน (Light Shafts)
+204,Menus_UI_Settings,1719,6908,84678,Adjust the maximum number of particle effects that can be displayed at any one time.,ปรับจำนวนเอฟเฟกต์ละอองอนุภาคสูงสุดที่สามารถแสดงพร้อมกันได้
+204,Menus_UI_Settings,1720,6912,84763,Adjust the quality of reflected light effects.,ปรับคุณภาพของเอฟเฟกต์แสงสะท้อน
+204,Menus_UI_Settings,1721,6916,84810,20,20
+204,Menus_UI_Settings,1722,6920,84813,30,30
+204,Menus_UI_Settings,1723,6924,84816,60,60
+204,Menus_UI_Settings,1724,6928,84819,On,เปิด
+204,Menus_UI_Settings,1725,6932,84822,Off,ปิด
+204,Menus_UI_Settings,1726,6936,84826,High,สูง
+204,Menus_UI_Settings,1727,6940,84831,Medium,ปานกลาง
+204,Menus_UI_Settings,1728,6944,84838,Low,ต่ำ
+204,Menus_UI_Settings,1729,6948,84842,Custom,กำหนดเอง
+204,Menus_UI_Settings,1730,6952,84849,640x360,640x360
+204,Menus_UI_Settings,1731,6956,84857,800x450,800x450
+204,Menus_UI_Settings,1732,6960,84865,1024x576,1024x576
+204,Menus_UI_Settings,1733,6964,84874,1280x720,1280x720
+204,Menus_UI_Settings,1734,6968,84883,1360x765,1360x765
+204,Menus_UI_Settings,1735,6972,84892,1600x900,1600x900
+204,Menus_UI_Settings,1736,6976,84901,1920x1080,1920x1080
+204,Menus_UI_Settings,1737,6980,84911,Move Left <PJ>,เดินไปทางซ้าย <PJ>
+204,Menus_UI_Settings,1738,6984,84925,Move Right <PJ>,เดินไปทางขวา <PJ>
+204,Menus_UI_Settings,1739,6988,84940,Move Forward <PJ>,เดินไปข้างหน้า <PJ>
+204,Menus_UI_Settings,1740,6992,84957,Move Backward <PJ>,เดินถอยหลัง <PJ>
+204,Menus_UI_Settings,1741,6996,84975,Attack 1 <P3>,โจมตี 1 <P3>
+204,Menus_UI_Settings,1742,7000,84988,Attack 2 <P2>,โจมตี 2 <P2>
+204,Menus_UI_Settings,1743,7004,85001,Jump <P1>,กระโดด <P1>
+204,Menus_UI_Settings,1744,7008,85010,Coup de Grâce <P0>,ท่าไม้ตายปิดฉาก <P0>
+204,Menus_UI_Settings,1745,7012,85029,Spells and Abilities <PC>,คาถาและท่าไม้ตาย <PC>
+204,Menus_UI_Settings,1746,7016,85054,Dodge <PE>,หลบหลีก <PE>
+204,Menus_UI_Settings,1747,7020,85064,Camera Left <PK>,หมุนกล้องไปทางซ้าย <PK>
+204,Menus_UI_Settings,1748,7024,85080,Camera Right <PK>,หมุนกล้องไปทางขวา <PK>
+204,Menus_UI_Settings,1749,7028,85097,Camera Up <PK>,หมุนกล้องขึ้น <PK>
+204,Menus_UI_Settings,1750,7032,85111,Camera Down <PK>,หมุนกล้องลง <PK>
+204,Menus_UI_Settings,1751,7036,85127,D-Pad Left <P7>,D-Pad ซ้าย <P7>
+204,Menus_UI_Settings,1752,7040,85142,D-Pad Right <P8>,D-Pad ขวา <P8>
+204,Menus_UI_Settings,1753,7044,85158,D-Pad Up <P9>,D-Pad ขึ้น <P9>
+204,Menus_UI_Settings,1754,7048,85171,D-Pad Down <PA>,D-Pad ลง <PA>
+204,Menus_UI_Settings,1755,7052,85186,Block/Reset Camera <PB>,ป้องกัน/รีเซ็ตมุมกล้อง <PB>
+204,Menus_UI_Settings,1756,7056,85209,Change Characters <PD>,เปลี่ยนตัวละคร <PD>
+204,Menus_UI_Settings,1757,7060,85231,Lock-On <PG>,ล็อกเป้า <PG>
+204,Menus_UI_Settings,1758,7064,85243,Menu <PH>,เมนู <PH>
+204,Menus_UI_Settings,1759,7068,85252,Toggle Map Display <PI>,เปิด/ปิดแผนที่ <PI>
+204,Menus_UI_Settings,1760,7072,85275,Graphics Settings,ตั้งค่ากราฟิก
+204,Menus_UI_Settings,1761,7076,85293,Keyboard Settings,ตั้งค่าคีย์บอร์ด
+204,Menus_UI_Settings,1762,7080,85311,Adjust various graphics settings.,ปรับแต่งการตั้งค่ากราฟิกต่าง ๆ
+204,Menus_UI_Settings,1763,7084,85345,Adjust the keyboard control settings.,ปรับแต่งการตั้งค่าปุ่มบนคีย์บอร์ด
+204,Menus_UI_Settings,1764,7088,85383,%s → %s\n%s → %s\nDo you want to make these key changes<FH>,%s → %s\n%s → %s\nต้องการเปลี่ยนการตั้งค่าปุ่มตามนี้หรือไม่<FH>
+204,Menus_UI_Settings,1765,7092,85444,Mouse Settings,ตั้งค่าเมาส์
+204,Menus_UI_Settings,1766,7096,85459,Adjust the mouse control settings.,ปรับแต่งการควบคุมด้วยเมาส์
+204,Menus_UI_Settings,1767,7100,85494,Clear All,ล้างค่าทั้งหมด
+204,Menus_UI_Settings,1768,7104,85504,Left Click,คลิกซ้าย
+204,Menus_UI_Settings,1769,7108,85515,Right Click,คลิกขวา
+204,Menus_UI_Settings,1770,7112,85527,Scroll Wheel Button,ปุ่มลูกกลิ้งเมาส์
+204,Menus_UI_Settings,1771,7116,85547,Scroll Wheel Up,เลื่อนลูกกลิ้งขึ้น
+204,Menus_UI_Settings,1772,7120,85563,Scroll Wheel Down,เลื่อนลูกกลิ้งลง
+204,Menus_UI_Settings,1773,7124,85581,Mouse Button %d,ปุ่มเมาส์ %d
+204,Menus_UI_Settings,1774,7128,85597,%s → %s\n%s → %s\nDo you want to make these key changes<FH>,%s → %s\n%s → %s\nต้องการเปลี่ยนการตั้งค่าปุ่มตามนี้หรือไม่<FH>
+204,Menus_UI_Settings,1775,7132,85658,Key %d,ปุ่ม %d
+204,Menus_UI_Settings,1776,7136,85665,Assign Preset for Keyboard-Only Controls,กำหนดปุ่มสำเร็จรูปสำหรับควบคุมด้วยคีย์บอร์ดเท่านั้น
+204,Menus_UI_Settings,1777,7140,85706,Voice Language,ภาษาเสียงพากย์
+204,Menus_UI_Settings,1778,7144,85721,English,ภาษาอังกฤษ
+204,Menus_UI_Settings,1779,7148,85729,Japanese,ภาษาญี่ปุ่น
+204,Menus_UI_Settings,1780,7152,85738,"Now you can adjust various settings, including network settings and voice language. You can choose between English or Japanese voices.",ตอนนี้คุณสามารถปรับแต่งการตั้งค่าต่าง ๆ ได้แล้ว รวมถึงการตั้งค่าเครือข่ายและภาษาเสียงพากย์ โดยเลือกได้ระหว่างเสียงภาษาอังกฤษหรือภาษาญี่ปุ่น
+204,Menus_UI_Settings,1781,7156,85873,You can also connect with other players by enabling online features. You're free to disable them at any time.,คุณยังสามารถเชื่อมต่อกับผู้เล่นคนอื่นได้โดยเปิดใช้งานฟีเจอร์ออนไลน์ ซึ่งสามารถปิดได้ตลอดเวลา
+204,Menus_UI_Settings,1782,7160,85983,Mini Medals,มินิเมดัล
+204,Menus_UI_Settings,1783,7164,85995,"Depending on your language selection, audio content may not match subtitles exactly.",เนื้อหาเสียงพากย์อาจไม่ตรงกับคำบรรยายใต้ภาพอย่างแม่นยำ ทั้งนี้ขึ้นอยู่กับการเลือกภาษาของคุณ
+204,Menus_UI_Settings,1784,7168,86080,Orb,ลูกแก้ว
+204,Menus_UI_Settings,1785,7172,86084,Accessory,เครื่องประดับ
+204,Menus_UI_Settings,1786,7176,86094,2560x1440,2560x1440
+204,Menus_UI_Settings,1787,7180,86104,2560x1600,2560x1600
+204,Menus_UI_Settings,1788,7184,86114,3840x2160,3840x2160
+204,Menus_UI_Settings,1789,7188,86124,Acquired <I1>M1<FG>,ได้รับ <I1>M1<FG>
+204,Menus_UI_Settings,1790,7192,86142,Change Resolution,เปลี่ยนความละเอียดหน้าจอ
+204,Menus_UI_Settings,1791,7196,86160,Currently displaying in Enhanced Mode.\nChange to Standard Mode<FH>,ปัจจุบันแสดงผลในโหมดเสริมประสิทธิภาพ (Enhanced Mode)\nต้องการเปลี่ยนเป็นโหมดมาตรฐาน (Standard Mode) หรือไม่<FH>
+204,Menus_UI_Settings,1792,7200,86226,Currently displaying in Standard Mode.\nChange to Enhanced Mode<FH>,ปัจจุบันแสดงผลในโหมดมาตรฐาน (Standard Mode)\nต้องการเปลี่ยนเป็นโหมดเสริมประสิทธิภาพ (Enhanced Mode) หรือไม่<FH>
+204,Menus_UI_Settings,1793,7204,86292,The screen resolution has been changed.,ความละเอียดหน้าจอได้รับการเปลี่ยนแปลงแล้ว
+204,Menus_UI_Settings,1794,7208,86332,This game features an autosave function. Do not turn off the power while your data is being saved. Autosave uses a single save slot.,เกมนี้มีระบบบันทึกอัตโนมัติ ห้ามปิดเครื่องในขณะที่กำลังบันทึกข้อมูล ระบบบันทึกอัตโนมัติจะใช้ช่องบันทึก 1 ช่อง
 204,Menus_UI_Settings,1795,7212,86465,,
 204,Menus_UI_Settings,1796,7216,86466,,
 204,Menus_UI_Settings,1797,7220,86467,,
 204,Menus_UI_Settings,1798,7224,86468,,
-204,Menus_UI_Settings,1799,7228,86469,  Volumetric Fog,
-204,Menus_UI_Settings,1800,7232,86486,  Point Light Shadows,
-204,Menus_UI_Settings,1801,7236,86508,Adjust the quality of fog.,
-204,Menus_UI_Settings,1802,7240,86535,Adjust the quality of point light shadows.,
-204,Menus_UI_Settings,1803,7244,86578,Confirm graphics settings.,
-204,Menus_UI_Settings,1804,7248,86605,"If enabled, the controller's vibration function will be activated.",
+204,Menus_UI_Settings,1799,7228,86469,  Volumetric Fog,  หมอกเชิงปริมาตร (Volumetric Fog)
+204,Menus_UI_Settings,1800,7232,86486,  Point Light Shadows,  เงาจากแสงเฉพาะจุด (Point Light Shadows)
+204,Menus_UI_Settings,1801,7236,86508,Adjust the quality of fog.,ปรับคุณภาพการแสดงผลของหมอก
+204,Menus_UI_Settings,1802,7240,86535,Adjust the quality of point light shadows.,ปรับคุณภาพของเงาที่เกิดจากแสงเฉพาะจุด
+204,Menus_UI_Settings,1803,7244,86578,Confirm graphics settings.,ยืนยันการตั้งค่ากราฟิก
+204,Menus_UI_Settings,1804,7248,86605,"If enabled, the controller's vibration function will be activated.",หากเปิดใช้งาน ระบบสั่นของคอนโทรลเลอร์จะทำงาน
 204,Menus_UI_Settings,1805,7252,86672,,
 204,Menus_UI_Settings,1806,7256,86673,,
 204,Menus_UI_Settings,1807,7260,86674,,
