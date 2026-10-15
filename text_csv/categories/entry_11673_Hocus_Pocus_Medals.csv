@@ -1,32 +1,32 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-11673,Hocus_Pocus_Medals,0,36,356,Hocus Pocus medal,
-11673,Hocus_Pocus_Medals,1,40,374,Hocus Pocus medal,
+11673,Hocus_Pocus_Medals,0,36,356,Hocus Pocus medal,เหรียญพัลพุนเต้
+11673,Hocus_Pocus_Medals,1,40,374,Hocus Pocus medal,เหรียญพัลพุนเต้
 11673,Hocus_Pocus_Medals,2,44,392,,
-11673,Hocus_Pocus_Medals,3,48,393,Hocus Pocus medals,
+11673,Hocus_Pocus_Medals,3,48,393,Hocus Pocus medals,เหรียญพัลพุนเต้
 11673,Hocus_Pocus_Medals,4,52,412,the ,
 11673,Hocus_Pocus_Medals,5,56,417,the ,
 11673,Hocus_Pocus_Medals,6,60,422,a ,
 11673,Hocus_Pocus_Medals,7,64,425,some ,
-11673,Hocus_Pocus_Medals,8,68,431,Kaclang medal,
-11673,Hocus_Pocus_Medals,9,72,445,Kaclang medal,
-11673,Hocus_Pocus_Medals,10,76,459,Other players can't move<FG>,
-11673,Hocus_Pocus_Medals,11,80,487,Kaclang medals,
+11673,Hocus_Pocus_Medals,8,68,431,Kaclang medal,เหรียญแอสทรัล
+11673,Hocus_Pocus_Medals,9,72,445,Kaclang medal,เหรียญแอสทรัล
+11673,Hocus_Pocus_Medals,10,76,459,Other players can't move<FG>,ผู้เล่นคนอื่นไม่สามารถเคลื่อนไหวได้<FG>
+11673,Hocus_Pocus_Medals,11,80,487,Kaclang medals,เหรียญแอสทรัล
 11673,Hocus_Pocus_Medals,12,84,502,the ,
 11673,Hocus_Pocus_Medals,13,88,507,the ,
 11673,Hocus_Pocus_Medals,14,92,512,a ,
 11673,Hocus_Pocus_Medals,15,96,515,some ,
-11673,Hocus_Pocus_Medals,16,100,521,Deceleratle medal,
-11673,Hocus_Pocus_Medals,17,104,539,Deceleratle medal,
-11673,Hocus_Pocus_Medals,18,108,557,Other players are moving slower<FG>,
-11673,Hocus_Pocus_Medals,19,112,592,Deceleratle medals,
+11673,Hocus_Pocus_Medals,16,100,521,Deceleratle medal,เหรียญโบมิออส
+11673,Hocus_Pocus_Medals,17,104,539,Deceleratle medal,เหรียญโบมิออส
+11673,Hocus_Pocus_Medals,18,108,557,Other players are moving slower<FG>,ผู้เล่นคนอื่นเคลื่อนที่ช้าลง<FG>
+11673,Hocus_Pocus_Medals,19,112,592,Deceleratle medals,เหรียญโบมิออส
 11673,Hocus_Pocus_Medals,20,116,611,the ,
 11673,Hocus_Pocus_Medals,21,120,616,the ,
 11673,Hocus_Pocus_Medals,22,124,621,a ,
 11673,Hocus_Pocus_Medals,23,128,624,some ,
-11673,Hocus_Pocus_Medals,24,132,630,exploding medal,
-11673,Hocus_Pocus_Medals,25,136,646,exploding medal,
+11673,Hocus_Pocus_Medals,24,132,630,exploding medal,เหรียญระเบิดกัมปนาท
+11673,Hocus_Pocus_Medals,25,136,646,exploding medal,เหรียญระเบิดกัมปนาท
 11673,Hocus_Pocus_Medals,26,140,662,,
-11673,Hocus_Pocus_Medals,27,144,663,exploding medals,
+11673,Hocus_Pocus_Medals,27,144,663,exploding medals,เหรียญระเบิดกัมปนาท
 11673,Hocus_Pocus_Medals,28,148,680,the ,
 11673,Hocus_Pocus_Medals,29,152,685,the ,
 11673,Hocus_Pocus_Medals,30,156,690,an ,

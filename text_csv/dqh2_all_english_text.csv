@@ -399,162 +399,162 @@
 1,Characters_Main,397,1624,2423,,
 1,Characters_Main,398,1628,2424,,
 1,Characters_Main,399,1632,2425,,
-8,NPC_Titles,0,36,6436,King of Harba,
-8,NPC_Titles,1,40,6450,King of Harba,
+8,NPC_Titles,0,36,6436,King of Harba,กษัตริย์แห่งฮาร์บา
+8,NPC_Titles,1,40,6450,King of Harba,กษัตริย์แห่งฮาร์บา
 8,NPC_Titles,2,44,6464,,
-8,NPC_Titles,3,48,6465,Kings of Harba,
+8,NPC_Titles,3,48,6465,Kings of Harba,เหล่ากษัตริย์แห่งฮาร์บา
 8,NPC_Titles,4,52,6480,the ,
 8,NPC_Titles,5,56,6485,the ,
 8,NPC_Titles,6,60,6490,the ,
 8,NPC_Titles,7,64,6495,the ,
-8,NPC_Titles,8,68,6500,King of Accordia,
-8,NPC_Titles,9,72,6517,King of Accordia,
+8,NPC_Titles,8,68,6500,King of Accordia,กษัตริย์แห่งออร์คาเนีย
+8,NPC_Titles,9,72,6517,King of Accordia,กษัตริย์แห่งออร์คาเนีย
 8,NPC_Titles,10,76,6534,,
-8,NPC_Titles,11,80,6535,Kings of Accordia,
+8,NPC_Titles,11,80,6535,Kings of Accordia,เหล่ากษัตริย์แห่งออร์คาเนีย
 8,NPC_Titles,12,84,6553,the ,
 8,NPC_Titles,13,88,6558,the ,
 8,NPC_Titles,14,92,6563,the ,
 8,NPC_Titles,15,96,6568,the ,
-8,NPC_Titles,16,100,6573,Queen of Ingenia,
-8,NPC_Titles,17,104,6590,Queen of Ingenia,
+8,NPC_Titles,16,100,6573,Queen of Ingenia,ราชินีแห่งอินจีเนีย
+8,NPC_Titles,17,104,6590,Queen of Ingenia,ราชินีแห่งอินจีเนีย
 8,NPC_Titles,18,108,6607,,
-8,NPC_Titles,19,112,6608,Queens of Ingenia,
+8,NPC_Titles,19,112,6608,Queens of Ingenia,เหล่าราชินีแห่งอินจีเนีย
 8,NPC_Titles,20,116,6626,the ,
 8,NPC_Titles,21,120,6631,the ,
 8,NPC_Titles,22,124,6636,the ,
 8,NPC_Titles,23,128,6641,the ,
-8,NPC_Titles,24,132,6646,Healix,
-8,NPC_Titles,25,136,6653,Healix,
+8,NPC_Titles,24,132,6646,Healix,โฮมิรอน
+8,NPC_Titles,25,136,6653,Healix,โฮมิรอน
 8,NPC_Titles,26,140,6660,,
-8,NPC_Titles,27,144,6661,Healixes,
+8,NPC_Titles,27,144,6661,Healixes,เหล่าโฮมิรอน
 8,NPC_Titles,28,148,6670,,
 8,NPC_Titles,29,152,6671,,
 8,NPC_Titles,30,156,6672,,
 8,NPC_Titles,31,160,6673,,
-8,NPC_Titles,32,164,6674,Harban Soldier,
-8,NPC_Titles,33,168,6689,Harban Soldier,
+8,NPC_Titles,32,164,6674,Harban Soldier,ทหารฮาร์บา
+8,NPC_Titles,33,168,6689,Harban Soldier,ทหารฮาร์บา
 8,NPC_Titles,34,172,6704,,
-8,NPC_Titles,35,176,6705,Harban Soldiers,
+8,NPC_Titles,35,176,6705,Harban Soldiers,เหล่าทหารฮาร์บา
 8,NPC_Titles,36,180,6721,the ,
 8,NPC_Titles,37,184,6726,the ,
 8,NPC_Titles,38,188,6731,a ,
 8,NPC_Titles,39,192,6734,some ,
-8,NPC_Titles,40,196,6740,Dunisian Soldier,
-8,NPC_Titles,41,200,6757,Dunisian Soldier,
+8,NPC_Titles,40,196,6740,Dunisian Soldier,ทหารดูนิเซีย
+8,NPC_Titles,41,200,6757,Dunisian Soldier,ทหารดูนิเซีย
 8,NPC_Titles,42,204,6774,,
-8,NPC_Titles,43,208,6775,Dunisian Soldiers,
+8,NPC_Titles,43,208,6775,Dunisian Soldiers,เหล่าทหารดูนิเซีย
 8,NPC_Titles,44,212,6793,the ,
 8,NPC_Titles,45,216,6798,the ,
 8,NPC_Titles,46,220,6803,a ,
 8,NPC_Titles,47,224,6806,some ,
-8,NPC_Titles,48,228,6812,Ingenian Soldier,
-8,NPC_Titles,49,232,6829,Ingenian Soldier,
+8,NPC_Titles,48,228,6812,Ingenian Soldier,ทหารอินจีเนีย
+8,NPC_Titles,49,232,6829,Ingenian Soldier,ทหารอินจีเนีย
 8,NPC_Titles,50,236,6846,,
-8,NPC_Titles,51,240,6847,Ingenian Soldiers,
+8,NPC_Titles,51,240,6847,Ingenian Soldiers,เหล่าทหารอินจีเนีย
 8,NPC_Titles,52,244,6865,the ,
 8,NPC_Titles,53,248,6870,the ,
 8,NPC_Titles,54,252,6875,an ,
 8,NPC_Titles,55,256,6879,some ,
-8,NPC_Titles,56,260,6885,Accordian Soldier,
-8,NPC_Titles,57,264,6903,Accordian Soldier,
+8,NPC_Titles,56,260,6885,Accordian Soldier,ทหารออร์คาเนีย
+8,NPC_Titles,57,264,6903,Accordian Soldier,ทหารออร์คาเนีย
 8,NPC_Titles,58,268,6921,,
-8,NPC_Titles,59,272,6922,Accordian Soldiers,
+8,NPC_Titles,59,272,6922,Accordian Soldiers,เหล่าทหารออร์คาเนีย
 8,NPC_Titles,60,276,6941,the ,
 8,NPC_Titles,61,280,6946,the ,
 8,NPC_Titles,62,284,6951,an ,
 8,NPC_Titles,63,288,6955,some ,
-8,NPC_Titles,64,292,6961,toughie,
-8,NPC_Titles,65,296,6969,toughie,
+8,NPC_Titles,64,292,6961,toughie,ชายกำยำ
+8,NPC_Titles,65,296,6969,toughie,ชายกำยำ
 8,NPC_Titles,66,300,6977,,
-8,NPC_Titles,67,304,6978,toughies,
+8,NPC_Titles,67,304,6978,toughies,เหล่าชายกำยำ
 8,NPC_Titles,68,308,6987,the ,
 8,NPC_Titles,69,312,6992,the ,
 8,NPC_Titles,70,316,6997,a ,
 8,NPC_Titles,71,320,7000,some ,
-8,NPC_Titles,72,324,7006,young man,
-8,NPC_Titles,73,328,7016,young man,
+8,NPC_Titles,72,324,7006,young man,ชายหนุ่ม
+8,NPC_Titles,73,328,7016,young man,ชายหนุ่ม
 8,NPC_Titles,74,332,7026,,
-8,NPC_Titles,75,336,7027,young men,
+8,NPC_Titles,75,336,7027,young men,เหล่าชายหนุ่ม
 8,NPC_Titles,76,340,7037,the ,
 8,NPC_Titles,77,344,7042,the ,
 8,NPC_Titles,78,348,7047,a ,
 8,NPC_Titles,79,352,7050,some ,
-8,NPC_Titles,80,356,7056,Harban General,
-8,NPC_Titles,81,360,7071,Harban General,
+8,NPC_Titles,80,356,7056,Harban General,แม่ทัพฮาร์บา
+8,NPC_Titles,81,360,7071,Harban General,แม่ทัพฮาร์บา
 8,NPC_Titles,82,364,7086,,
-8,NPC_Titles,83,368,7087,Harban Generals,
+8,NPC_Titles,83,368,7087,Harban Generals,เหล่าแม่ทัพฮาร์บา
 8,NPC_Titles,84,372,7103,the ,
 8,NPC_Titles,85,376,7108,the ,
 8,NPC_Titles,86,380,7113,a ,
 8,NPC_Titles,87,384,7116,some ,
-8,NPC_Titles,88,388,7122,Field Marshal Donk,
-8,NPC_Titles,89,392,7141,Field Marshal Donk,
+8,NPC_Titles,88,388,7122,Field Marshal Donk,จอมพลดองค์
+8,NPC_Titles,89,392,7141,Field Marshal Donk,จอมพลดองค์
 8,NPC_Titles,90,396,7160,,
-8,NPC_Titles,91,400,7161,Field Marshal Donks,
+8,NPC_Titles,91,400,7161,Field Marshal Donks,เหล่าจอมพลดองค์
 8,NPC_Titles,92,404,7181,,
 8,NPC_Titles,93,408,7182,,
 8,NPC_Titles,94,412,7183,,
 8,NPC_Titles,95,416,7184,,
-8,NPC_Titles,96,420,7185,Major Domo,
-8,NPC_Titles,97,424,7196,Major Domo,
+8,NPC_Titles,96,420,7185,Major Domo,เมเจอร์ดอโม
+8,NPC_Titles,97,424,7196,Major Domo,เมเจอร์ดอโม
 8,NPC_Titles,98,428,7207,,
-8,NPC_Titles,99,432,7208,Major Domos,
+8,NPC_Titles,99,432,7208,Major Domos,เหล่าเมเจอร์ดอโม
 8,NPC_Titles,100,436,7220,,
 8,NPC_Titles,101,440,7221,,
 8,NPC_Titles,102,444,7222,,
 8,NPC_Titles,103,448,7223,,
-8,NPC_Titles,104,452,7224,Major Arcana,
-8,NPC_Titles,105,456,7237,Major Arcana,
+8,NPC_Titles,104,452,7224,Major Arcana,เมเจอร์อาร์คานา
+8,NPC_Titles,105,456,7237,Major Arcana,เมเจอร์อาร์คานา
 8,NPC_Titles,106,460,7250,,
-8,NPC_Titles,107,464,7251,Major Arcanas,
+8,NPC_Titles,107,464,7251,Major Arcanas,เหล่าเมเจอร์อาร์คานา
 8,NPC_Titles,108,468,7265,,
 8,NPC_Titles,109,472,7266,,
 8,NPC_Titles,110,476,7267,,
 8,NPC_Titles,111,480,7268,,
-8,NPC_Titles,112,484,7269,King of Al-Khazam,
-8,NPC_Titles,113,488,7287,King of Al-Khazam,
+8,NPC_Titles,112,484,7269,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
+8,NPC_Titles,113,488,7287,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
 8,NPC_Titles,114,492,7305,,
-8,NPC_Titles,115,496,7306,Kings of Al-Khazam,
+8,NPC_Titles,115,496,7306,Kings of Al-Khazam,เหล่ากษัตริย์แห่งอัล-คาซาม
 8,NPC_Titles,116,500,7325,the ,
 8,NPC_Titles,117,504,7330,the ,
 8,NPC_Titles,118,508,7335,the ,
 8,NPC_Titles,119,512,7340,the ,
-8,NPC_Titles,120,516,7345,imp,
-8,NPC_Titles,121,520,7349,imp,
+8,NPC_Titles,120,516,7345,imp,อิมพ์
+8,NPC_Titles,121,520,7349,imp,อิมพ์
 8,NPC_Titles,122,524,7353,,
-8,NPC_Titles,123,528,7354,imps,
+8,NPC_Titles,123,528,7354,imps,เหล่าอิมพ์
 8,NPC_Titles,124,532,7359,the ,
 8,NPC_Titles,125,536,7364,the ,
 8,NPC_Titles,126,540,7369,an ,
 8,NPC_Titles,127,544,7373,some ,
-8,NPC_Titles,128,548,7379,hacksaurus,
-8,NPC_Titles,129,552,7390,hacksaurus,
+8,NPC_Titles,128,548,7379,hacksaurus,แฮ็กซอรัส
+8,NPC_Titles,129,552,7390,hacksaurus,แฮ็กซอรัส
 8,NPC_Titles,130,556,7401,,
-8,NPC_Titles,131,560,7402,hacksauruses,
+8,NPC_Titles,131,560,7402,hacksauruses,เหล่าแฮ็กซอรัส
 8,NPC_Titles,132,564,7415,the ,
 8,NPC_Titles,133,568,7420,the ,
 8,NPC_Titles,134,572,7425,a ,
 8,NPC_Titles,135,576,7428,some ,
-8,NPC_Titles,136,580,7434,slime,
-8,NPC_Titles,137,584,7440,slime,
+8,NPC_Titles,136,580,7434,slime,สไลม์
+8,NPC_Titles,137,584,7440,slime,สไลม์
 8,NPC_Titles,138,588,7446,,
-8,NPC_Titles,139,592,7447,slimes,
+8,NPC_Titles,139,592,7447,slimes,เหล่าสไลม์
 8,NPC_Titles,140,596,7454,the ,
 8,NPC_Titles,141,600,7459,the ,
 8,NPC_Titles,142,604,7464,a ,
 8,NPC_Titles,143,608,7467,some ,
-8,NPC_Titles,144,612,7473,bodkin fletcher,
-8,NPC_Titles,145,616,7489,bodkin fletcher,
+8,NPC_Titles,144,612,7473,bodkin fletcher,บอดกินเฟลตเชอร์
+8,NPC_Titles,145,616,7489,bodkin fletcher,บอดกินเฟลตเชอร์
 8,NPC_Titles,146,620,7505,,
-8,NPC_Titles,147,624,7506,bodkin fletchers,
+8,NPC_Titles,147,624,7506,bodkin fletchers,เหล่าบอดกินเฟลตเชอร์
 8,NPC_Titles,148,628,7523,the ,
 8,NPC_Titles,149,632,7528,the ,
 8,NPC_Titles,150,636,7533,a ,
 8,NPC_Titles,151,640,7536,some ,
-8,NPC_Titles,152,644,7542,Healix,
-8,NPC_Titles,153,648,7549,Healix,
+8,NPC_Titles,152,644,7542,Healix,โฮมิรอน
+8,NPC_Titles,153,648,7549,Healix,โฮมิรอน
 8,NPC_Titles,154,652,7556,,
-8,NPC_Titles,155,656,7557,Healixes,
+8,NPC_Titles,155,656,7557,Healixes,เหล่าโฮมิรอน
 8,NPC_Titles,156,660,7566,,
 8,NPC_Titles,157,664,7567,,
 8,NPC_Titles,158,668,7568,,
@@ -575,26 +575,26 @@
 8,NPC_Titles,173,728,7583,,
 8,NPC_Titles,174,732,7584,,
 8,NPC_Titles,175,736,7585,,
-8,NPC_Titles,176,740,7586,shaman,
-8,NPC_Titles,177,744,7593,shaman,
+8,NPC_Titles,176,740,7586,shaman,ชาแมน
+8,NPC_Titles,177,744,7593,shaman,ชาแมน
 8,NPC_Titles,178,748,7600,,
-8,NPC_Titles,179,752,7601,shamans,
+8,NPC_Titles,179,752,7601,shamans,เหล่าชาแมน
 8,NPC_Titles,180,756,7609,the ,
 8,NPC_Titles,181,760,7614,the ,
 8,NPC_Titles,182,764,7619,a ,
 8,NPC_Titles,183,768,7622,some ,
-8,NPC_Titles,184,772,7628,hood,
-8,NPC_Titles,185,776,7633,hood,
+8,NPC_Titles,184,772,7628,hood,ฮู้ด
+8,NPC_Titles,185,776,7633,hood,ฮู้ด
 8,NPC_Titles,186,780,7638,,
-8,NPC_Titles,187,784,7639,hoods,
+8,NPC_Titles,187,784,7639,hoods,เหล่าฮู้ด
 8,NPC_Titles,188,788,7645,the ,
 8,NPC_Titles,189,792,7650,the ,
 8,NPC_Titles,190,796,7655,a ,
 8,NPC_Titles,191,800,7658,some ,
-8,NPC_Titles,192,804,7664,night clubber,
-8,NPC_Titles,193,808,7678,night clubber,
+8,NPC_Titles,192,804,7664,night clubber,ไนท์คลับเบอร์
+8,NPC_Titles,193,808,7678,night clubber,ไนท์คลับเบอร์
 8,NPC_Titles,194,812,7692,,
-8,NPC_Titles,195,816,7693,night clubbers,
+8,NPC_Titles,195,816,7693,night clubbers,เหล่าไนท์คลับเบอร์
 8,NPC_Titles,196,820,7708,the ,
 8,NPC_Titles,197,824,7713,the ,
 8,NPC_Titles,198,828,7718,a ,
@@ -607,10 +607,10 @@
 8,NPC_Titles,205,856,7732,,
 8,NPC_Titles,206,860,7733,,
 8,NPC_Titles,207,864,7734,,
-8,NPC_Titles,208,868,7735,Gatekeeper,
-8,NPC_Titles,209,872,7746,Gatekeeper,
+8,NPC_Titles,208,868,7735,Gatekeeper,ผู้เฝ้าประตู
+8,NPC_Titles,209,872,7746,Gatekeeper,ผู้เฝ้าประตู
 8,NPC_Titles,210,876,7757,,
-8,NPC_Titles,211,880,7758,Gatekeepers,
+8,NPC_Titles,211,880,7758,Gatekeepers,เหล่าผู้เฝ้าประตู
 8,NPC_Titles,212,884,7770,the ,
 8,NPC_Titles,213,888,7775,the ,
 8,NPC_Titles,214,892,7780,a ,
@@ -663,10 +663,10 @@
 8,NPC_Titles,261,1080,7834,,
 8,NPC_Titles,262,1084,7835,,
 8,NPC_Titles,263,1088,7836,,
-8,NPC_Titles,264,1092,7837,moony milksop,
-8,NPC_Titles,265,1096,7851,moony milksop,
+8,NPC_Titles,264,1092,7837,moony milksop,หนุ่มขี้ขลาดช่างฝัน
+8,NPC_Titles,265,1096,7851,moony milksop,หนุ่มขี้ขลาดช่างฝัน
 8,NPC_Titles,266,1100,7865,,
-8,NPC_Titles,267,1104,7866,moony milksops,
+8,NPC_Titles,267,1104,7866,moony milksops,เหล่าหนุ่มขี้ขลาดช่างฝัน
 8,NPC_Titles,268,1108,7881,the ,
 8,NPC_Titles,269,1112,7886,the ,
 8,NPC_Titles,270,1116,7891,the ,
@@ -4559,128 +4559,128 @@
 15,Monsters,2557,10264,28272,,
 15,Monsters,2558,10268,28273,,
 15,Monsters,2559,10272,28274,,
-22,Heroes_Party,0,36,9636,Alena,
-22,Heroes_Party,1,40,9642,Alena,
+22,Heroes_Party,0,36,9636,Alena,อาลีน่า
+22,Heroes_Party,1,40,9642,Alena,อาลีน่า
 22,Heroes_Party,2,44,9648,,
 22,Heroes_Party,3,48,9649,,
 22,Heroes_Party,4,52,9650,,
 22,Heroes_Party,5,56,9651,,
 22,Heroes_Party,6,60,9652,,
 22,Heroes_Party,7,64,9653,,
-22,Heroes_Party,8,68,9654,Kiryl,
-22,Heroes_Party,9,72,9660,Kiryl,
+22,Heroes_Party,8,68,9654,Kiryl,คริฟต์
+22,Heroes_Party,9,72,9660,Kiryl,คริฟต์
 22,Heroes_Party,10,76,9666,,
 22,Heroes_Party,11,80,9667,,
 22,Heroes_Party,12,84,9668,,
 22,Heroes_Party,13,88,9669,,
 22,Heroes_Party,14,92,9670,,
 22,Heroes_Party,15,96,9671,,
-22,Heroes_Party,16,100,9672,Torneko,
-22,Heroes_Party,17,104,9680,Torneko,
+22,Heroes_Party,16,100,9672,Torneko,ทอร์เนโก้
+22,Heroes_Party,17,104,9680,Torneko,ทอร์เนโก้
 22,Heroes_Party,18,108,9688,,
 22,Heroes_Party,19,112,9689,,
 22,Heroes_Party,20,116,9690,,
 22,Heroes_Party,21,120,9691,,
 22,Heroes_Party,22,124,9692,,
 22,Heroes_Party,23,128,9693,,
-22,Heroes_Party,24,132,9694,Meena,
-22,Heroes_Party,25,136,9700,Meena,
+22,Heroes_Party,24,132,9694,Meena,มีเนีย
+22,Heroes_Party,25,136,9700,Meena,มีเนีย
 22,Heroes_Party,26,140,9706,,
 22,Heroes_Party,27,144,9707,,
 22,Heroes_Party,28,148,9708,,
 22,Heroes_Party,29,152,9709,,
 22,Heroes_Party,30,156,9710,,
 22,Heroes_Party,31,160,9711,,
-22,Heroes_Party,32,164,9712,Maya,
-22,Heroes_Party,33,168,9717,Maya,
+22,Heroes_Party,32,164,9712,Maya,มาเนีย
+22,Heroes_Party,33,168,9717,Maya,มาเนีย
 22,Heroes_Party,34,172,9722,,
 22,Heroes_Party,35,176,9723,,
 22,Heroes_Party,36,180,9724,,
 22,Heroes_Party,37,184,9725,,
 22,Heroes_Party,38,188,9726,,
 22,Heroes_Party,39,192,9727,,
-22,Heroes_Party,40,196,9728,Carver,
-22,Heroes_Party,41,200,9735,Carver,
+22,Heroes_Party,40,196,9728,Carver,ฮัสซัน
+22,Heroes_Party,41,200,9735,Carver,ฮัสซัน
 22,Heroes_Party,42,204,9742,,
 22,Heroes_Party,43,208,9743,,
 22,Heroes_Party,44,212,9744,,
 22,Heroes_Party,45,216,9745,,
 22,Heroes_Party,46,220,9746,,
 22,Heroes_Party,47,224,9747,,
-22,Heroes_Party,48,228,9748,Terry,
-22,Heroes_Party,49,232,9754,Terry,
+22,Heroes_Party,48,228,9748,Terry,เทอร์รี่
+22,Heroes_Party,49,232,9754,Terry,เทอร์รี่
 22,Heroes_Party,50,236,9760,,
 22,Heroes_Party,51,240,9761,,
 22,Heroes_Party,52,244,9762,,
 22,Heroes_Party,53,248,9763,,
 22,Heroes_Party,54,252,9764,,
 22,Heroes_Party,55,256,9765,,
-22,Heroes_Party,56,260,9766,Maribel,
-22,Heroes_Party,57,264,9774,Maribel,
+22,Heroes_Party,56,260,9766,Maribel,มาริเบล
+22,Heroes_Party,57,264,9774,Maribel,มาริเบล
 22,Heroes_Party,58,268,9782,,
 22,Heroes_Party,59,272,9783,,
 22,Heroes_Party,60,276,9784,,
 22,Heroes_Party,61,280,9785,,
 22,Heroes_Party,62,284,9786,,
 22,Heroes_Party,63,288,9787,,
-22,Heroes_Party,64,292,9788,Ruff,
-22,Heroes_Party,65,296,9793,Ruff,
+22,Heroes_Party,64,292,9788,Ruff,กาโบ
+22,Heroes_Party,65,296,9793,Ruff,กาโบ
 22,Heroes_Party,66,300,9798,,
 22,Heroes_Party,67,304,9799,,
 22,Heroes_Party,68,308,9800,,
 22,Heroes_Party,69,312,9801,,
 22,Heroes_Party,70,316,9802,,
 22,Heroes_Party,71,320,9803,,
-22,Heroes_Party,72,324,9804,Angelo,
-22,Heroes_Party,73,328,9811,Angelo,
+22,Heroes_Party,72,324,9804,Angelo,คูเคิล
+22,Heroes_Party,73,328,9811,Angelo,คูเคิล
 22,Heroes_Party,74,332,9818,,
 22,Heroes_Party,75,336,9819,,
 22,Heroes_Party,76,340,9820,,
 22,Heroes_Party,77,344,9821,,
 22,Heroes_Party,78,348,9822,,
 22,Heroes_Party,79,352,9823,,
-22,Heroes_Party,80,356,9824,Jessica,
-22,Heroes_Party,81,360,9832,Jessica,
+22,Heroes_Party,80,356,9824,Jessica,เจสสิก้า
+22,Heroes_Party,81,360,9832,Jessica,เจสสิก้า
 22,Heroes_Party,82,364,9840,,
 22,Heroes_Party,83,368,9841,,
 22,Heroes_Party,84,372,9842,,
 22,Heroes_Party,85,376,9843,,
 22,Heroes_Party,86,380,9844,,
 22,Heroes_Party,87,384,9845,,
-22,Heroes_Party,88,388,9846,Lazarel,
-22,Heroes_Party,89,392,9854,Lazarel,
+22,Heroes_Party,88,388,9846,Lazarel,ราเซล
+22,Heroes_Party,89,392,9854,Lazarel,ราเซล
 22,Heroes_Party,90,396,9862,,
 22,Heroes_Party,91,400,9863,,
 22,Heroes_Party,92,404,9864,,
 22,Heroes_Party,93,408,9865,,
 22,Heroes_Party,94,412,9866,,
 22,Heroes_Party,95,416,9867,,
-22,Heroes_Party,96,420,9868,Teresa,
-22,Heroes_Party,97,424,9875,Teresa,
+22,Heroes_Party,96,420,9868,Teresa,เทเรเซีย
+22,Heroes_Party,97,424,9875,Teresa,เทเรเซีย
 22,Heroes_Party,98,428,9882,,
 22,Heroes_Party,99,432,9883,,
 22,Heroes_Party,100,436,9884,,
 22,Heroes_Party,101,440,9885,,
 22,Heroes_Party,102,444,9886,,
 22,Heroes_Party,103,448,9887,,
-22,Heroes_Party,104,452,9888,Cesar,
-22,Heroes_Party,105,456,9894,Cesar,
+22,Heroes_Party,104,452,9888,Cesar,ซีซาร์
+22,Heroes_Party,105,456,9894,Cesar,ซีซาร์
 22,Heroes_Party,106,460,9900,,
 22,Heroes_Party,107,464,9901,,
 22,Heroes_Party,108,468,9902,,
 22,Heroes_Party,109,472,9903,,
 22,Heroes_Party,110,476,9904,,
 22,Heroes_Party,111,480,9905,,
-22,Heroes_Party,112,484,9906,Desdemona,
-22,Heroes_Party,113,488,9916,Desdemona,
+22,Heroes_Party,112,484,9906,Desdemona,เดสเดโมน่า
+22,Heroes_Party,113,488,9916,Desdemona,เดสเดโมน่า
 22,Heroes_Party,114,492,9926,,
 22,Heroes_Party,115,496,9927,,
 22,Heroes_Party,116,500,9928,,
 22,Heroes_Party,117,504,9929,,
 22,Heroes_Party,118,508,9930,,
 22,Heroes_Party,119,512,9931,,
-22,Heroes_Party,120,516,9932,Nun,
-22,Heroes_Party,121,520,9936,Nun,
+22,Heroes_Party,120,516,9932,Nun,แม่ชี
+22,Heroes_Party,121,520,9936,Nun,แม่ชี
 22,Heroes_Party,122,524,9940,,
 22,Heroes_Party,123,528,9941,,
 22,Heroes_Party,124,532,9942,,
@@ -4727,8 +4727,8 @@
 22,Heroes_Party,165,696,9983,,
 22,Heroes_Party,166,700,9984,,
 22,Heroes_Party,167,704,9985,,
-22,Heroes_Party,168,708,9986,Patty,
-22,Heroes_Party,169,712,9992,Patty,
+22,Heroes_Party,168,708,9986,Patty,แพตตี้
+22,Heroes_Party,169,712,9992,Patty,แพตตี้
 22,Heroes_Party,170,716,9998,,
 22,Heroes_Party,171,720,9999,,
 22,Heroes_Party,172,724,10000,,
@@ -4783,104 +4783,104 @@
 22,Heroes_Party,221,920,10049,,
 22,Heroes_Party,222,924,10050,,
 22,Heroes_Party,223,928,10051,,
-22,Heroes_Party,224,932,10052,Healix,
-22,Heroes_Party,225,936,10059,Healix,
+22,Heroes_Party,224,932,10052,Healix,โฮมิรอน
+22,Heroes_Party,225,936,10059,Healix,โฮมิรอน
 22,Heroes_Party,226,940,10066,,
 22,Heroes_Party,227,944,10067,,
 22,Heroes_Party,228,948,10068,,
 22,Heroes_Party,229,952,10069,,
 22,Heroes_Party,230,956,10070,,
 22,Heroes_Party,231,960,10071,,
-22,Heroes_Party,232,964,10072,King of Harba,
-22,Heroes_Party,233,968,10086,King of Harba,
+22,Heroes_Party,232,964,10072,King of Harba,กษัตริย์แห่งฮาร์บา
+22,Heroes_Party,233,968,10086,King of Harba,กษัตริย์แห่งฮาร์บา
 22,Heroes_Party,234,972,10100,,
 22,Heroes_Party,235,976,10101,,
 22,Heroes_Party,236,980,10102,,
 22,Heroes_Party,237,984,10103,,
 22,Heroes_Party,238,988,10104,,
 22,Heroes_Party,239,992,10105,,
-22,Heroes_Party,240,996,10106,Queen of Ingenia,
-22,Heroes_Party,241,1000,10123,Queen of Ingenia,
+22,Heroes_Party,240,996,10106,Queen of Ingenia,ราชินีแห่งอินจีเนีย
+22,Heroes_Party,241,1000,10123,Queen of Ingenia,ราชินีแห่งอินจีเนีย
 22,Heroes_Party,242,1004,10140,,
 22,Heroes_Party,243,1008,10141,,
 22,Heroes_Party,244,1012,10142,,
 22,Heroes_Party,245,1016,10143,,
 22,Heroes_Party,246,1020,10144,,
 22,Heroes_Party,247,1024,10145,,
-22,Heroes_Party,248,1028,10146,King of Accordia,
-22,Heroes_Party,249,1032,10163,King of Accordia,
+22,Heroes_Party,248,1028,10146,King of Accordia,กษัตริย์แห่งออร์คาเนีย
+22,Heroes_Party,249,1032,10163,King of Accordia,กษัตริย์แห่งออร์คาเนีย
 22,Heroes_Party,250,1036,10180,,
 22,Heroes_Party,251,1040,10181,,
 22,Heroes_Party,252,1044,10182,,
 22,Heroes_Party,253,1048,10183,,
 22,Heroes_Party,254,1052,10184,,
 22,Heroes_Party,255,1056,10185,,
-22,Heroes_Party,256,1060,10186,King of Accordia,
-22,Heroes_Party,257,1064,10203,King of Accordia,
+22,Heroes_Party,256,1060,10186,King of Accordia,กษัตริย์แห่งออร์คาเนีย
+22,Heroes_Party,257,1064,10203,King of Accordia,กษัตริย์แห่งออร์คาเนีย
 22,Heroes_Party,258,1068,10220,,
 22,Heroes_Party,259,1072,10221,,
 22,Heroes_Party,260,1076,10222,,
 22,Heroes_Party,261,1080,10223,,
 22,Heroes_Party,262,1084,10224,,
 22,Heroes_Party,263,1088,10225,,
-22,Heroes_Party,264,1092,10226,Fractos,
-22,Heroes_Party,265,1096,10234,Fractos,
+22,Heroes_Party,264,1092,10226,Fractos,แฟรคทอส
+22,Heroes_Party,265,1096,10234,Fractos,แฟรคทอส
 22,Heroes_Party,266,1100,10242,,
 22,Heroes_Party,267,1104,10243,,
 22,Heroes_Party,268,1108,10244,,
 22,Heroes_Party,269,1112,10245,,
 22,Heroes_Party,270,1116,10246,,
 22,Heroes_Party,271,1120,10247,,
-22,Heroes_Party,272,1124,10248,Fractos,
-22,Heroes_Party,273,1128,10256,Fractos,
+22,Heroes_Party,272,1124,10248,Fractos,แฟรคทอส
+22,Heroes_Party,273,1128,10256,Fractos,แฟรคทอส
 22,Heroes_Party,274,1132,10264,,
 22,Heroes_Party,275,1136,10265,,
 22,Heroes_Party,276,1140,10266,,
 22,Heroes_Party,277,1144,10267,,
 22,Heroes_Party,278,1148,10268,,
 22,Heroes_Party,279,1152,10269,,
-22,Heroes_Party,280,1156,10270,Harban Soldier,
-22,Heroes_Party,281,1160,10285,Harban Soldier,
+22,Heroes_Party,280,1156,10270,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,281,1160,10285,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,282,1164,10300,,
 22,Heroes_Party,283,1168,10301,,
 22,Heroes_Party,284,1172,10302,,
 22,Heroes_Party,285,1176,10303,,
 22,Heroes_Party,286,1180,10304,,
 22,Heroes_Party,287,1184,10305,,
-22,Heroes_Party,288,1188,10306,Dunisian Soldier,
-22,Heroes_Party,289,1192,10323,Dunisian Soldier,
+22,Heroes_Party,288,1188,10306,Dunisian Soldier,ทหารดูนิเซีย
+22,Heroes_Party,289,1192,10323,Dunisian Soldier,ทหารดูนิเซีย
 22,Heroes_Party,290,1196,10340,,
 22,Heroes_Party,291,1200,10341,,
 22,Heroes_Party,292,1204,10342,,
 22,Heroes_Party,293,1208,10343,,
 22,Heroes_Party,294,1212,10344,,
 22,Heroes_Party,295,1216,10345,,
-22,Heroes_Party,296,1220,10346,Dunisian Commander,
-22,Heroes_Party,297,1224,10365,Dunisian Commander,
+22,Heroes_Party,296,1220,10346,Dunisian Commander,ผู้บัญชาการดูนิเซีย
+22,Heroes_Party,297,1224,10365,Dunisian Commander,ผู้บัญชาการดูนิเซีย
 22,Heroes_Party,298,1228,10384,,
 22,Heroes_Party,299,1232,10385,,
 22,Heroes_Party,300,1236,10386,,
 22,Heroes_Party,301,1240,10387,,
 22,Heroes_Party,302,1244,10388,,
 22,Heroes_Party,303,1248,10389,,
-22,Heroes_Party,304,1252,10390,Ingenian Soldier,
-22,Heroes_Party,305,1256,10407,Ingenian Soldier,
+22,Heroes_Party,304,1252,10390,Ingenian Soldier,ทหารอินจีเนีย
+22,Heroes_Party,305,1256,10407,Ingenian Soldier,ทหารอินจีเนีย
 22,Heroes_Party,306,1260,10424,,
 22,Heroes_Party,307,1264,10425,,
 22,Heroes_Party,308,1268,10426,,
 22,Heroes_Party,309,1272,10427,,
 22,Heroes_Party,310,1276,10428,,
 22,Heroes_Party,311,1280,10429,,
-22,Heroes_Party,312,1284,10430,Accordian Soldier,
-22,Heroes_Party,313,1288,10448,Accordian Soldier,
+22,Heroes_Party,312,1284,10430,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,313,1288,10448,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,314,1292,10466,,
 22,Heroes_Party,315,1296,10467,,
 22,Heroes_Party,316,1300,10468,,
 22,Heroes_Party,317,1304,10469,,
 22,Heroes_Party,318,1308,10470,,
 22,Heroes_Party,319,1312,10471,,
-22,Heroes_Party,320,1316,10472,Harban General,
-22,Heroes_Party,321,1320,10487,Harban General,
+22,Heroes_Party,320,1316,10472,Harban General,แม่ทัพฮาร์บา
+22,Heroes_Party,321,1320,10487,Harban General,แม่ทัพฮาร์บา
 22,Heroes_Party,322,1324,10502,,
 22,Heroes_Party,323,1328,10503,,
 22,Heroes_Party,324,1332,10504,,
@@ -4903,8 +4903,8 @@
 22,Heroes_Party,341,1400,10521,,
 22,Heroes_Party,342,1404,10522,,
 22,Heroes_Party,343,1408,10523,,
-22,Heroes_Party,344,1412,10524,Young Man,
-22,Heroes_Party,345,1416,10534,Young Man,
+22,Heroes_Party,344,1412,10524,Young Man,ชายหนุ่ม
+22,Heroes_Party,345,1416,10534,Young Man,ชายหนุ่ม
 22,Heroes_Party,346,1420,10544,,
 22,Heroes_Party,347,1424,10545,,
 22,Heroes_Party,348,1428,10546,,
@@ -4951,128 +4951,128 @@
 22,Heroes_Party,389,1592,10587,,
 22,Heroes_Party,390,1596,10588,,
 22,Heroes_Party,391,1600,10589,,
-22,Heroes_Party,392,1604,10590,Field Marshal Donk,
-22,Heroes_Party,393,1608,10609,Field Marshal Donk,
+22,Heroes_Party,392,1604,10590,Field Marshal Donk,จอมพลดองค์
+22,Heroes_Party,393,1608,10609,Field Marshal Donk,จอมพลดองค์
 22,Heroes_Party,394,1612,10628,,
 22,Heroes_Party,395,1616,10629,,
 22,Heroes_Party,396,1620,10630,,
 22,Heroes_Party,397,1624,10631,,
 22,Heroes_Party,398,1628,10632,,
 22,Heroes_Party,399,1632,10633,,
-22,Heroes_Party,400,1636,10634,Treasure Troll,
-22,Heroes_Party,401,1640,10649,Treasure Troll,
+22,Heroes_Party,400,1636,10634,Treasure Troll,โทรลล์สมบัติ
+22,Heroes_Party,401,1640,10649,Treasure Troll,โทรลล์สมบัติ
 22,Heroes_Party,402,1644,10664,,
 22,Heroes_Party,403,1648,10665,,
 22,Heroes_Party,404,1652,10666,,
 22,Heroes_Party,405,1656,10667,,
 22,Heroes_Party,406,1660,10668,,
 22,Heroes_Party,407,1664,10669,,
-22,Heroes_Party,408,1668,10670,Float-o-Copier,
-22,Heroes_Party,409,1672,10685,Float-o-Copier,
+22,Heroes_Party,408,1668,10670,Float-o-Copier,สไลม์คัดลอกร่าง
+22,Heroes_Party,409,1672,10685,Float-o-Copier,สไลม์คัดลอกร่าง
 22,Heroes_Party,410,1676,10700,,
 22,Heroes_Party,411,1680,10701,,
 22,Heroes_Party,412,1684,10702,,
 22,Heroes_Party,413,1688,10703,,
 22,Heroes_Party,414,1692,10704,,
 22,Heroes_Party,415,1696,10705,,
-22,Heroes_Party,416,1700,10706,Hacksaurus,
-22,Heroes_Party,417,1704,10717,Hacksaurus,
+22,Heroes_Party,416,1700,10706,Hacksaurus,แฮ็กซอรัส
+22,Heroes_Party,417,1704,10717,Hacksaurus,แฮ็กซอรัส
 22,Heroes_Party,418,1708,10728,,
 22,Heroes_Party,419,1712,10729,,
 22,Heroes_Party,420,1716,10730,,
 22,Heroes_Party,421,1720,10731,,
 22,Heroes_Party,422,1724,10732,,
 22,Heroes_Party,423,1728,10733,,
-22,Heroes_Party,424,1732,10734,Major Domo,
-22,Heroes_Party,425,1736,10745,Major Domo,
+22,Heroes_Party,424,1732,10734,Major Domo,เมเจอร์ดอโม
+22,Heroes_Party,425,1736,10745,Major Domo,เมเจอร์ดอโม
 22,Heroes_Party,426,1740,10756,,
 22,Heroes_Party,427,1744,10757,,
 22,Heroes_Party,428,1748,10758,,
 22,Heroes_Party,429,1752,10759,,
 22,Heroes_Party,430,1756,10760,,
 22,Heroes_Party,431,1760,10761,,
-22,Heroes_Party,432,1764,10762,Major Arcana,
-22,Heroes_Party,433,1768,10775,Major Arcana,
+22,Heroes_Party,432,1764,10762,Major Arcana,เมเจอร์อาร์คานา
+22,Heroes_Party,433,1768,10775,Major Arcana,เมเจอร์อาร์คานา
 22,Heroes_Party,434,1772,10788,,
 22,Heroes_Party,435,1776,10789,,
 22,Heroes_Party,436,1780,10790,,
 22,Heroes_Party,437,1784,10791,,
 22,Heroes_Party,438,1788,10792,,
 22,Heroes_Party,439,1792,10793,,
-22,Heroes_Party,440,1796,10794,King of Kadava,
-22,Heroes_Party,441,1800,10809,King of Kadava,
+22,Heroes_Party,440,1796,10794,King of Kadava,กษัตริย์แห่งคาดาวา
+22,Heroes_Party,441,1800,10809,King of Kadava,กษัตริย์แห่งคาดาวา
 22,Heroes_Party,442,1804,10824,,
 22,Heroes_Party,443,1808,10825,,
 22,Heroes_Party,444,1812,10826,,
 22,Heroes_Party,445,1816,10827,,
 22,Heroes_Party,446,1820,10828,,
 22,Heroes_Party,447,1824,10829,,
-22,Heroes_Party,448,1828,10830,King of Klor,
-22,Heroes_Party,449,1832,10843,King of Klor,
+22,Heroes_Party,448,1828,10830,King of Klor,กษัตริย์แห่งคลอร์
+22,Heroes_Party,449,1832,10843,King of Klor,กษัตริย์แห่งคลอร์
 22,Heroes_Party,450,1836,10856,,
 22,Heroes_Party,451,1840,10857,,
 22,Heroes_Party,452,1844,10858,,
 22,Heroes_Party,453,1848,10859,,
 22,Heroes_Party,454,1852,10860,,
 22,Heroes_Party,455,1856,10861,,
-22,Heroes_Party,456,1860,10862,King of Al-Khazam,
-22,Heroes_Party,457,1864,10880,King of Al-Khazam,
+22,Heroes_Party,456,1860,10862,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
+22,Heroes_Party,457,1864,10880,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
 22,Heroes_Party,458,1868,10898,,
 22,Heroes_Party,459,1872,10899,,
 22,Heroes_Party,460,1876,10900,,
 22,Heroes_Party,461,1880,10901,,
 22,Heroes_Party,462,1884,10902,,
 22,Heroes_Party,463,1888,10903,,
-22,Heroes_Party,464,1892,10904,Gragwort,
-22,Heroes_Party,465,1896,10913,Gragwort,
+22,Heroes_Party,464,1892,10904,Gragwort,แกรกเวิร์ต
+22,Heroes_Party,465,1896,10913,Gragwort,แกรกเวิร์ต
 22,Heroes_Party,466,1900,10922,,
 22,Heroes_Party,467,1904,10923,,
 22,Heroes_Party,468,1908,10924,,
 22,Heroes_Party,469,1912,10925,,
 22,Heroes_Party,470,1916,10926,,
 22,Heroes_Party,471,1920,10927,,
-22,Heroes_Party,472,1924,10928,Atlas,
-22,Heroes_Party,473,1928,10934,Atlas,
+22,Heroes_Party,472,1924,10928,Atlas,แอตลาส
+22,Heroes_Party,473,1928,10934,Atlas,แอตลาส
 22,Heroes_Party,474,1932,10940,,
 22,Heroes_Party,475,1936,10941,,
 22,Heroes_Party,476,1940,10942,,
 22,Heroes_Party,477,1944,10943,,
 22,Heroes_Party,478,1948,10944,,
 22,Heroes_Party,479,1952,10945,,
-22,Heroes_Party,480,1956,10946,Pazuzu,
-22,Heroes_Party,481,1960,10953,Pazuzu,
+22,Heroes_Party,480,1956,10946,Pazuzu,ปาซูซู
+22,Heroes_Party,481,1960,10953,Pazuzu,ปาซูซู
 22,Heroes_Party,482,1964,10960,,
 22,Heroes_Party,483,1968,10961,,
 22,Heroes_Party,484,1972,10962,,
 22,Heroes_Party,485,1976,10963,,
 22,Heroes_Party,486,1980,10964,,
 22,Heroes_Party,487,1984,10965,,
-22,Heroes_Party,488,1988,10966,Belial,
-22,Heroes_Party,489,1992,10973,Belial,
+22,Heroes_Party,488,1988,10966,Belial,เบลิอัล
+22,Heroes_Party,489,1992,10973,Belial,เบลิอัล
 22,Heroes_Party,490,1996,10980,,
 22,Heroes_Party,491,2000,10981,,
 22,Heroes_Party,492,2004,10982,,
 22,Heroes_Party,493,2008,10983,,
 22,Heroes_Party,494,2012,10984,,
 22,Heroes_Party,495,2016,10985,,
-22,Heroes_Party,496,2020,10986,Marquis de Léon,
-22,Heroes_Party,497,2024,11003,Marquis de Léon,
+22,Heroes_Party,496,2020,10986,Marquis de Léon,มาร์ควิส เด เลออน
+22,Heroes_Party,497,2024,11003,Marquis de Léon,มาร์ควิส เด เลออน
 22,Heroes_Party,498,2028,11020,,
 22,Heroes_Party,499,2032,11021,,
 22,Heroes_Party,500,2036,11022,,
 22,Heroes_Party,501,2040,11023,,
 22,Heroes_Party,502,2044,11024,,
 22,Heroes_Party,503,2048,11025,,
-22,Heroes_Party,504,2052,11026,Robbin' 'Ood,
-22,Heroes_Party,505,2056,11039,Robbin' 'Ood,
+22,Heroes_Party,504,2052,11026,Robbin' 'Ood,แคนด็อก
+22,Heroes_Party,505,2056,11039,Robbin' 'Ood,แคนด็อก
 22,Heroes_Party,506,2060,11052,,
 22,Heroes_Party,507,2064,11053,,
 22,Heroes_Party,508,2068,11054,,
 22,Heroes_Party,509,2072,11055,,
 22,Heroes_Party,510,2076,11056,,
 22,Heroes_Party,511,2080,11057,,
-22,Heroes_Party,512,2084,11058,Merry Man,
-22,Heroes_Party,513,2088,11068,Merry Man,
+22,Heroes_Party,512,2084,11058,Merry Man,สมุนจอมโจร
+22,Heroes_Party,513,2088,11068,Merry Man,สมุนจอมโจร
 22,Heroes_Party,514,2092,11078,,
 22,Heroes_Party,515,2096,11079,,
 22,Heroes_Party,516,2100,11080,,
@@ -5087,168 +5087,168 @@
 22,Heroes_Party,525,2136,11089,,
 22,Heroes_Party,526,2140,11090,,
 22,Heroes_Party,527,2144,11091,,
-22,Heroes_Party,528,2148,11092,Bridgekeeper,
-22,Heroes_Party,529,2152,11105,Bridgekeeper,
+22,Heroes_Party,528,2148,11092,Bridgekeeper,ผู้เฝ้าสะพาน
+22,Heroes_Party,529,2152,11105,Bridgekeeper,ผู้เฝ้าสะพาน
 22,Heroes_Party,530,2156,11118,,
 22,Heroes_Party,531,2160,11119,,
 22,Heroes_Party,532,2164,11120,,
 22,Heroes_Party,533,2168,11121,,
 22,Heroes_Party,534,2172,11122,,
 22,Heroes_Party,535,2176,11123,,
-22,Heroes_Party,536,2180,11124,Dhuran,
-22,Heroes_Party,537,2184,11131,Dhuran,
+22,Heroes_Party,536,2180,11124,Dhuran,ดูรัน
+22,Heroes_Party,537,2184,11131,Dhuran,ดูรัน
 22,Heroes_Party,538,2188,11138,,
 22,Heroes_Party,539,2192,11139,,
 22,Heroes_Party,540,2196,11140,,
 22,Heroes_Party,541,2200,11141,,
 22,Heroes_Party,542,2204,11142,,
 22,Heroes_Party,543,2208,11143,,
-22,Heroes_Party,544,2212,11144,Dunis I,
-22,Heroes_Party,545,2216,11152,Dunis I,
+22,Heroes_Party,544,2212,11144,Dunis I,ดูนิสที่ 1
+22,Heroes_Party,545,2216,11152,Dunis I,ดูนิสที่ 1
 22,Heroes_Party,546,2220,11160,,
 22,Heroes_Party,547,2224,11161,,
 22,Heroes_Party,548,2228,11162,,
 22,Heroes_Party,549,2232,11163,,
 22,Heroes_Party,550,2236,11164,,
 22,Heroes_Party,551,2240,11165,,
-22,Heroes_Party,552,2244,11166,Master Moosifer,
-22,Heroes_Party,553,2248,11182,Master Moosifer,
+22,Heroes_Party,552,2244,11166,Master Moosifer,ปรมาจารย์มูซิเฟอร์
+22,Heroes_Party,553,2248,11182,Master Moosifer,ปรมาจารย์มูซิเฟอร์
 22,Heroes_Party,554,2252,11198,,
 22,Heroes_Party,555,2256,11199,,
 22,Heroes_Party,556,2260,11200,,
 22,Heroes_Party,557,2264,11201,,
 22,Heroes_Party,558,2268,11202,,
 22,Heroes_Party,559,2272,11203,,
-22,Heroes_Party,560,2276,11204,Lionidas,
-22,Heroes_Party,561,2280,11213,Lionidas,
+22,Heroes_Party,560,2276,11204,Lionidas,ไลโอนิดาส
+22,Heroes_Party,561,2280,11213,Lionidas,ไลโอนิดาส
 22,Heroes_Party,562,2284,11222,,
 22,Heroes_Party,563,2288,11223,,
 22,Heroes_Party,564,2292,11224,,
 22,Heroes_Party,565,2296,11225,,
 22,Heroes_Party,566,2300,11226,,
 22,Heroes_Party,567,2304,11227,,
-22,Heroes_Party,568,2308,11228,Pruslas,
-22,Heroes_Party,569,2312,11236,Pruslas,
+22,Heroes_Party,568,2308,11228,Pruslas,พลัสลาส
+22,Heroes_Party,569,2312,11236,Pruslas,พลัสลาส
 22,Heroes_Party,570,2316,11244,,
 22,Heroes_Party,571,2320,11245,,
 22,Heroes_Party,572,2324,11246,,
 22,Heroes_Party,573,2328,11247,,
 22,Heroes_Party,574,2332,11248,,
 22,Heroes_Party,575,2336,11249,,
-22,Heroes_Party,576,2340,11250,Ingenian Commander,
-22,Heroes_Party,577,2344,11269,Ingenian Commander,
+22,Heroes_Party,576,2340,11250,Ingenian Commander,ผู้บัญชาการอินจีเนีย
+22,Heroes_Party,577,2344,11269,Ingenian Commander,ผู้บัญชาการอินจีเนีย
 22,Heroes_Party,578,2348,11288,,
 22,Heroes_Party,579,2352,11289,,
 22,Heroes_Party,580,2356,11290,,
 22,Heroes_Party,581,2360,11291,,
 22,Heroes_Party,582,2364,11292,,
 22,Heroes_Party,583,2368,11293,,
-22,Heroes_Party,584,2372,11294,Slime,
-22,Heroes_Party,585,2376,11300,Slime,
+22,Heroes_Party,584,2372,11294,Slime,สไลม์
+22,Heroes_Party,585,2376,11300,Slime,สไลม์
 22,Heroes_Party,586,2380,11306,,
 22,Heroes_Party,587,2384,11307,,
 22,Heroes_Party,588,2388,11308,,
 22,Heroes_Party,589,2392,11309,,
 22,Heroes_Party,590,2396,11310,,
 22,Heroes_Party,591,2400,11311,,
-22,Heroes_Party,592,2404,11312,Imp,
-22,Heroes_Party,593,2408,11316,Imp,
+22,Heroes_Party,592,2404,11312,Imp,อิมพ์
+22,Heroes_Party,593,2408,11316,Imp,อิมพ์
 22,Heroes_Party,594,2412,11320,,
 22,Heroes_Party,595,2416,11321,,
 22,Heroes_Party,596,2420,11322,,
 22,Heroes_Party,597,2424,11323,,
 22,Heroes_Party,598,2428,11324,,
 22,Heroes_Party,599,2432,11325,,
-22,Heroes_Party,600,2436,11326,Bodkin Fletcher,
-22,Heroes_Party,601,2440,11342,Bodkin Fletcher,
+22,Heroes_Party,600,2436,11326,Bodkin Fletcher,บอดกินเฟลตเชอร์
+22,Heroes_Party,601,2440,11342,Bodkin Fletcher,บอดกินเฟลตเชอร์
 22,Heroes_Party,602,2444,11358,,
 22,Heroes_Party,603,2448,11359,,
 22,Heroes_Party,604,2452,11360,,
 22,Heroes_Party,605,2456,11361,,
 22,Heroes_Party,606,2460,11362,,
 22,Heroes_Party,607,2464,11363,,
-22,Heroes_Party,608,2468,11364,Merry Minnow,
-22,Heroes_Party,609,2472,11377,Merry Minnow,
+22,Heroes_Party,608,2468,11364,Merry Minnow,โจรสมุนปลาน้อย
+22,Heroes_Party,609,2472,11377,Merry Minnow,โจรสมุนปลาน้อย
 22,Heroes_Party,610,2476,11390,,
 22,Heroes_Party,611,2480,11391,,
 22,Heroes_Party,612,2484,11392,,
 22,Heroes_Party,613,2488,11393,,
 22,Heroes_Party,614,2492,11394,,
 22,Heroes_Party,615,2496,11395,,
-22,Heroes_Party,616,2500,11396,Merry Mugger,
-22,Heroes_Party,617,2504,11409,Merry Mugger,
+22,Heroes_Party,616,2500,11396,Merry Mugger,โจรสมุนปล้นชิง
+22,Heroes_Party,617,2504,11409,Merry Mugger,โจรสมุนปล้นชิง
 22,Heroes_Party,618,2508,11422,,
 22,Heroes_Party,619,2512,11423,,
 22,Heroes_Party,620,2516,11424,,
 22,Heroes_Party,621,2520,11425,,
 22,Heroes_Party,622,2524,11426,,
 22,Heroes_Party,623,2528,11427,,
-22,Heroes_Party,624,2532,11428,Merry Mobster,
-22,Heroes_Party,625,2536,11442,Merry Mobster,
+22,Heroes_Party,624,2532,11428,Merry Mobster,โจรสมุนนักเลง
+22,Heroes_Party,625,2536,11442,Merry Mobster,โจรสมุนนักเลง
 22,Heroes_Party,626,2540,11456,,
 22,Heroes_Party,627,2544,11457,,
 22,Heroes_Party,628,2548,11458,,
 22,Heroes_Party,629,2552,11459,,
 22,Heroes_Party,630,2556,11460,,
 22,Heroes_Party,631,2560,11461,,
-22,Heroes_Party,632,2564,11462,Merry Master-Thief,
-22,Heroes_Party,633,2568,11481,Merry Master-Thief,
+22,Heroes_Party,632,2564,11462,Merry Master-Thief,หัวหน้าโจรสมุน
+22,Heroes_Party,633,2568,11481,Merry Master-Thief,หัวหน้าโจรสมุน
 22,Heroes_Party,634,2572,11500,,
 22,Heroes_Party,635,2576,11501,,
 22,Heroes_Party,636,2580,11502,,
 22,Heroes_Party,637,2584,11503,,
 22,Heroes_Party,638,2588,11504,,
 22,Heroes_Party,639,2592,11505,,
-22,Heroes_Party,640,2596,11506,Samson Knight,
-22,Heroes_Party,641,2600,11520,Samson Knight,
+22,Heroes_Party,640,2596,11506,Samson Knight,แซมสันไนท์
+22,Heroes_Party,641,2600,11520,Samson Knight,แซมสันไนท์
 22,Heroes_Party,642,2604,11534,,
 22,Heroes_Party,643,2608,11535,,
 22,Heroes_Party,644,2612,11536,,
 22,Heroes_Party,645,2616,11537,,
 22,Heroes_Party,646,2620,11538,,
 22,Heroes_Party,647,2624,11539,,
-22,Heroes_Party,648,2628,11540,Knight Aberrant,
-22,Heroes_Party,649,2632,11556,Knight Aberrant,
+22,Heroes_Party,648,2628,11540,Knight Aberrant,ไนท์อะเบอร์แรนต์
+22,Heroes_Party,649,2632,11556,Knight Aberrant,ไนท์อะเบอร์แรนต์
 22,Heroes_Party,650,2636,11572,,
 22,Heroes_Party,651,2640,11573,,
 22,Heroes_Party,652,2644,11574,,
 22,Heroes_Party,653,2648,11575,,
 22,Heroes_Party,654,2652,11576,,
 22,Heroes_Party,655,2656,11577,,
-22,Heroes_Party,656,2660,11578,Moosifer,
-22,Heroes_Party,657,2664,11587,Moosifer,
+22,Heroes_Party,656,2660,11578,Moosifer,มูซิเฟอร์
+22,Heroes_Party,657,2664,11587,Moosifer,มูซิเฟอร์
 22,Heroes_Party,658,2668,11596,,
 22,Heroes_Party,659,2672,11597,,
 22,Heroes_Party,660,2676,11598,,
 22,Heroes_Party,661,2680,11599,,
 22,Heroes_Party,662,2684,11600,,
 22,Heroes_Party,663,2688,11601,,
-22,Heroes_Party,664,2692,11602,Kadavan Commander,
-22,Heroes_Party,665,2696,11620,Kadavan Commander,
+22,Heroes_Party,664,2692,11602,Kadavan Commander,ผู้บัญชาการคาดาวา
+22,Heroes_Party,665,2696,11620,Kadavan Commander,ผู้บัญชาการคาดาวา
 22,Heroes_Party,666,2700,11638,,
 22,Heroes_Party,667,2704,11639,,
 22,Heroes_Party,668,2708,11640,,
 22,Heroes_Party,669,2712,11641,,
 22,Heroes_Party,670,2716,11642,,
 22,Heroes_Party,671,2720,11643,,
-22,Heroes_Party,672,2724,11644,Harban Soldier,
-22,Heroes_Party,673,2728,11659,Harban Soldier,
+22,Heroes_Party,672,2724,11644,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,673,2728,11659,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,674,2732,11674,,
 22,Heroes_Party,675,2736,11675,,
 22,Heroes_Party,676,2740,11676,,
 22,Heroes_Party,677,2744,11677,,
 22,Heroes_Party,678,2748,11678,,
 22,Heroes_Party,679,2752,11679,,
-22,Heroes_Party,680,2756,11680,Harban Soldier,
-22,Heroes_Party,681,2760,11695,Harban Soldier,
+22,Heroes_Party,680,2756,11680,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,681,2760,11695,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,682,2764,11710,,
 22,Heroes_Party,683,2768,11711,,
 22,Heroes_Party,684,2772,11712,,
 22,Heroes_Party,685,2776,11713,,
 22,Heroes_Party,686,2780,11714,,
 22,Heroes_Party,687,2784,11715,,
-22,Heroes_Party,688,2788,11716,Travelling Trader,
-22,Heroes_Party,689,2792,11734,Travelling Trader,
+22,Heroes_Party,688,2788,11716,Travelling Trader,พ่อค้าพเนจร
+22,Heroes_Party,689,2792,11734,Travelling Trader,พ่อค้าพเนจร
 22,Heroes_Party,690,2796,11752,,
 22,Heroes_Party,691,2800,11753,,
 22,Heroes_Party,692,2804,11754,,
@@ -5295,8 +5295,8 @@
 22,Heroes_Party,733,2968,11795,,
 22,Heroes_Party,734,2972,11796,,
 22,Heroes_Party,735,2976,11797,,
-22,Heroes_Party,736,2980,11798,Knight Errant,
-22,Heroes_Party,737,2984,11812,Knight Errant,
+22,Heroes_Party,736,2980,11798,Knight Errant,ไนท์เออร์แรนต์
+22,Heroes_Party,737,2984,11812,Knight Errant,ไนท์เออร์แรนต์
 22,Heroes_Party,738,2988,11826,,
 22,Heroes_Party,739,2992,11827,,
 22,Heroes_Party,740,2996,11828,,
@@ -5431,24 +5431,24 @@
 22,Heroes_Party,869,3512,11957,,
 22,Heroes_Party,870,3516,11958,,
 22,Heroes_Party,871,3520,11959,,
-22,Heroes_Party,872,3524,11960,Harban Soldier,
-22,Heroes_Party,873,3528,11975,Harban Soldier,
+22,Heroes_Party,872,3524,11960,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,873,3528,11975,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,874,3532,11990,,
 22,Heroes_Party,875,3536,11991,,
 22,Heroes_Party,876,3540,11992,,
 22,Heroes_Party,877,3544,11993,,
 22,Heroes_Party,878,3548,11994,,
 22,Heroes_Party,879,3552,11995,,
-22,Heroes_Party,880,3556,11996,Harban Soldier,
-22,Heroes_Party,881,3560,12011,Harban Soldier,
+22,Heroes_Party,880,3556,11996,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,881,3560,12011,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,882,3564,12026,,
 22,Heroes_Party,883,3568,12027,,
 22,Heroes_Party,884,3572,12028,,
 22,Heroes_Party,885,3576,12029,,
 22,Heroes_Party,886,3580,12030,,
 22,Heroes_Party,887,3584,12031,,
-22,Heroes_Party,888,3588,12032,Harban Soldier,
-22,Heroes_Party,889,3592,12047,Harban Soldier,
+22,Heroes_Party,888,3588,12032,Harban Soldier,ทหารฮาร์บา
+22,Heroes_Party,889,3592,12047,Harban Soldier,ทหารฮาร์บา
 22,Heroes_Party,890,3596,12062,,
 22,Heroes_Party,891,3600,12063,,
 22,Heroes_Party,892,3604,12064,,
@@ -5591,16 +5591,16 @@
 22,Heroes_Party,1029,4152,12201,,
 22,Heroes_Party,1030,4156,12202,,
 22,Heroes_Party,1031,4160,12203,,
-22,Heroes_Party,1032,4164,12204,Young Man,
-22,Heroes_Party,1033,4168,12214,Young Man,
+22,Heroes_Party,1032,4164,12204,Young Man,ชายหนุ่ม
+22,Heroes_Party,1033,4168,12214,Young Man,ชายหนุ่ม
 22,Heroes_Party,1034,4172,12224,,
 22,Heroes_Party,1035,4176,12225,,
 22,Heroes_Party,1036,4180,12226,,
 22,Heroes_Party,1037,4184,12227,,
 22,Heroes_Party,1038,4188,12228,,
 22,Heroes_Party,1039,4192,12229,,
-22,Heroes_Party,1040,4196,12230,Cursed Aide,
-22,Heroes_Party,1041,4200,12242,Cursed Aide,
+22,Heroes_Party,1040,4196,12230,Cursed Aide,คนสนิทต้องคำสาป
+22,Heroes_Party,1041,4200,12242,Cursed Aide,คนสนิทต้องคำสาป
 22,Heroes_Party,1042,4204,12254,,
 22,Heroes_Party,1043,4208,12255,,
 22,Heroes_Party,1044,4212,12256,,
@@ -5807,8 +5807,8 @@
 22,Heroes_Party,1245,5016,12457,,
 22,Heroes_Party,1246,5020,12458,,
 22,Heroes_Party,1247,5024,12459,,
-22,Heroes_Party,1248,5028,12460,Blacksmith,
-22,Heroes_Party,1249,5032,12471,Blacksmith,
+22,Heroes_Party,1248,5028,12460,Blacksmith,ช่างตีเหล็ก
+22,Heroes_Party,1249,5032,12471,Blacksmith,ช่างตีเหล็ก
 22,Heroes_Party,1250,5036,12482,,
 22,Heroes_Party,1251,5040,12483,,
 22,Heroes_Party,1252,5044,12484,,
@@ -5855,8 +5855,8 @@
 22,Heroes_Party,1293,5208,12525,,
 22,Heroes_Party,1294,5212,12526,,
 22,Heroes_Party,1295,5216,12527,,
-22,Heroes_Party,1296,5220,12528,Young Man,
-22,Heroes_Party,1297,5224,12538,Young Man,
+22,Heroes_Party,1296,5220,12528,Young Man,ชายหนุ่ม
+22,Heroes_Party,1297,5224,12538,Young Man,ชายหนุ่ม
 22,Heroes_Party,1298,5228,12548,,
 22,Heroes_Party,1299,5232,12549,,
 22,Heroes_Party,1300,5236,12550,,
@@ -5879,8 +5879,8 @@
 22,Heroes_Party,1317,5304,12567,,
 22,Heroes_Party,1318,5308,12568,,
 22,Heroes_Party,1319,5312,12569,,
-22,Heroes_Party,1320,5316,12570,Knight of Renown,
-22,Heroes_Party,1321,5320,12587,Knight of Renown,
+22,Heroes_Party,1320,5316,12570,Knight of Renown,อัศวินผู้เลื่องชื่อ
+22,Heroes_Party,1321,5320,12587,Knight of Renown,อัศวินผู้เลื่องชื่อ
 22,Heroes_Party,1322,5324,12604,,
 22,Heroes_Party,1323,5328,12605,,
 22,Heroes_Party,1324,5332,12606,,
@@ -5903,96 +5903,96 @@
 22,Heroes_Party,1341,5400,12623,,
 22,Heroes_Party,1342,5404,12624,,
 22,Heroes_Party,1343,5408,12625,,
-22,Heroes_Party,1344,5412,12626,Young Man,
-22,Heroes_Party,1345,5416,12636,Young Man,
+22,Heroes_Party,1344,5412,12626,Young Man,ชายหนุ่ม
+22,Heroes_Party,1345,5416,12636,Young Man,ชายหนุ่ม
 22,Heroes_Party,1346,5420,12646,,
 22,Heroes_Party,1347,5424,12647,,
 22,Heroes_Party,1348,5428,12648,,
 22,Heroes_Party,1349,5432,12649,,
 22,Heroes_Party,1350,5436,12650,,
 22,Heroes_Party,1351,5440,12651,,
-22,Heroes_Party,1352,5444,12652,Accordian Soldier,
-22,Heroes_Party,1353,5448,12670,Accordian Soldier,
+22,Heroes_Party,1352,5444,12652,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1353,5448,12670,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1354,5452,12688,,
 22,Heroes_Party,1355,5456,12689,,
 22,Heroes_Party,1356,5460,12690,,
 22,Heroes_Party,1357,5464,12691,,
 22,Heroes_Party,1358,5468,12692,,
 22,Heroes_Party,1359,5472,12693,,
-22,Heroes_Party,1360,5476,12694,Travelling Trader,
-22,Heroes_Party,1361,5480,12712,Travelling Trader,
+22,Heroes_Party,1360,5476,12694,Travelling Trader,พ่อค้าพเนจร
+22,Heroes_Party,1361,5480,12712,Travelling Trader,พ่อค้าพเนจร
 22,Heroes_Party,1362,5484,12730,,
 22,Heroes_Party,1363,5488,12731,,
 22,Heroes_Party,1364,5492,12732,,
 22,Heroes_Party,1365,5496,12733,,
 22,Heroes_Party,1366,5500,12734,,
 22,Heroes_Party,1367,5504,12735,,
-22,Heroes_Party,1368,5508,12736,<FH><FH><FH>,
-22,Heroes_Party,1369,5512,12746,<FH><FH><FH>,
+22,Heroes_Party,1368,5508,12736,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1369,5512,12746,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1370,5516,12756,,
 22,Heroes_Party,1371,5520,12757,,
 22,Heroes_Party,1372,5524,12758,,
 22,Heroes_Party,1373,5528,12759,,
 22,Heroes_Party,1374,5532,12760,,
 22,Heroes_Party,1375,5536,12761,,
-22,Heroes_Party,1376,5540,12762,<FH><FH><FH>,
-22,Heroes_Party,1377,5544,12772,<FH><FH><FH>,
+22,Heroes_Party,1376,5540,12762,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1377,5544,12772,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1378,5548,12782,,
 22,Heroes_Party,1379,5552,12783,,
 22,Heroes_Party,1380,5556,12784,,
 22,Heroes_Party,1381,5560,12785,,
 22,Heroes_Party,1382,5564,12786,,
 22,Heroes_Party,1383,5568,12787,,
-22,Heroes_Party,1384,5572,12788,Accordian Soldier,
-22,Heroes_Party,1385,5576,12806,Accordian Soldier,
+22,Heroes_Party,1384,5572,12788,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1385,5576,12806,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1386,5580,12824,,
 22,Heroes_Party,1387,5584,12825,,
 22,Heroes_Party,1388,5588,12826,,
 22,Heroes_Party,1389,5592,12827,,
 22,Heroes_Party,1390,5596,12828,,
 22,Heroes_Party,1391,5600,12829,,
-22,Heroes_Party,1392,5604,12830,<FH><FH><FH>,
-22,Heroes_Party,1393,5608,12840,<FH><FH><FH>,
+22,Heroes_Party,1392,5604,12830,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1393,5608,12840,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1394,5612,12850,,
 22,Heroes_Party,1395,5616,12851,,
 22,Heroes_Party,1396,5620,12852,,
 22,Heroes_Party,1397,5624,12853,,
 22,Heroes_Party,1398,5628,12854,,
 22,Heroes_Party,1399,5632,12855,,
-22,Heroes_Party,1400,5636,12856,Cursed Kid,
-22,Heroes_Party,1401,5640,12867,Cursed Kid,
+22,Heroes_Party,1400,5636,12856,Cursed Kid,เด็กน้อยต้องคำสาป
+22,Heroes_Party,1401,5640,12867,Cursed Kid,เด็กน้อยต้องคำสาป
 22,Heroes_Party,1402,5644,12878,,
 22,Heroes_Party,1403,5648,12879,,
 22,Heroes_Party,1404,5652,12880,,
 22,Heroes_Party,1405,5656,12881,,
 22,Heroes_Party,1406,5660,12882,,
 22,Heroes_Party,1407,5664,12883,,
-22,Heroes_Party,1408,5668,12884,Cursed Officer,
-22,Heroes_Party,1409,5672,12899,Cursed Officer,
+22,Heroes_Party,1408,5668,12884,Cursed Officer,นายทหารต้องคำสาป
+22,Heroes_Party,1409,5672,12899,Cursed Officer,นายทหารต้องคำสาป
 22,Heroes_Party,1410,5676,12914,,
 22,Heroes_Party,1411,5680,12915,,
 22,Heroes_Party,1412,5684,12916,,
 22,Heroes_Party,1413,5688,12917,,
 22,Heroes_Party,1414,5692,12918,,
 22,Heroes_Party,1415,5696,12919,,
-22,Heroes_Party,1416,5700,12920,Cursed Kid Sister,
-22,Heroes_Party,1417,5704,12938,Cursed Kid Sister,
+22,Heroes_Party,1416,5700,12920,Cursed Kid Sister,น้องสาวต้องคำสาป
+22,Heroes_Party,1417,5704,12938,Cursed Kid Sister,น้องสาวต้องคำสาป
 22,Heroes_Party,1418,5708,12956,,
 22,Heroes_Party,1419,5712,12957,,
 22,Heroes_Party,1420,5716,12958,,
 22,Heroes_Party,1421,5720,12959,,
 22,Heroes_Party,1422,5724,12960,,
 22,Heroes_Party,1423,5728,12961,,
-22,Heroes_Party,1424,5732,12962,Cursed Colonel,
-22,Heroes_Party,1425,5736,12977,Cursed Colonel,
+22,Heroes_Party,1424,5732,12962,Cursed Colonel,ผู้พันต้องคำสาป
+22,Heroes_Party,1425,5736,12977,Cursed Colonel,ผู้พันต้องคำสาป
 22,Heroes_Party,1426,5740,12992,,
 22,Heroes_Party,1427,5744,12993,,
 22,Heroes_Party,1428,5748,12994,,
 22,Heroes_Party,1429,5752,12995,,
 22,Heroes_Party,1430,5756,12996,,
 22,Heroes_Party,1431,5760,12997,,
-22,Heroes_Party,1432,5764,12998,Cursed Codger,
-22,Heroes_Party,1433,5768,13012,Cursed Codger,
+22,Heroes_Party,1432,5764,12998,Cursed Codger,ตาเฒ่าต้องคำสาป
+22,Heroes_Party,1433,5768,13012,Cursed Codger,ตาเฒ่าต้องคำสาป
 22,Heroes_Party,1434,5772,13026,,
 22,Heroes_Party,1435,5776,13027,,
 22,Heroes_Party,1436,5780,13028,,
@@ -6007,96 +6007,96 @@
 22,Heroes_Party,1445,5816,13037,,
 22,Heroes_Party,1446,5820,13038,,
 22,Heroes_Party,1447,5824,13039,,
-22,Heroes_Party,1448,5828,13040,Cursed Crone,
-22,Heroes_Party,1449,5832,13053,Cursed Crone,
+22,Heroes_Party,1448,5828,13040,Cursed Crone,ยายเฒ่าต้องคำสาป
+22,Heroes_Party,1449,5832,13053,Cursed Crone,ยายเฒ่าต้องคำสาป
 22,Heroes_Party,1450,5836,13066,,
 22,Heroes_Party,1451,5840,13067,,
 22,Heroes_Party,1452,5844,13068,,
 22,Heroes_Party,1453,5848,13069,,
 22,Heroes_Party,1454,5852,13070,,
 22,Heroes_Party,1455,5856,13071,,
-22,Heroes_Party,1456,5860,13072,Cursed Colleen,
-22,Heroes_Party,1457,5864,13087,Cursed Colleen,
+22,Heroes_Party,1456,5860,13072,Cursed Colleen,เด็กสาวต้องคำสาป
+22,Heroes_Party,1457,5864,13087,Cursed Colleen,เด็กสาวต้องคำสาป
 22,Heroes_Party,1458,5868,13102,,
 22,Heroes_Party,1459,5872,13103,,
 22,Heroes_Party,1460,5876,13104,,
 22,Heroes_Party,1461,5880,13105,,
 22,Heroes_Party,1462,5884,13106,,
 22,Heroes_Party,1463,5888,13107,,
-22,Heroes_Party,1464,5892,13108,Cursed Lady,
-22,Heroes_Party,1465,5896,13120,Cursed Lady,
+22,Heroes_Party,1464,5892,13108,Cursed Lady,หญิงสูงศักดิ์ต้องคำสาป
+22,Heroes_Party,1465,5896,13120,Cursed Lady,หญิงสูงศักดิ์ต้องคำสาป
 22,Heroes_Party,1466,5900,13132,,
 22,Heroes_Party,1467,5904,13133,,
 22,Heroes_Party,1468,5908,13134,,
 22,Heroes_Party,1469,5912,13135,,
 22,Heroes_Party,1470,5916,13136,,
 22,Heroes_Party,1471,5920,13137,,
-22,Heroes_Party,1472,5924,13138,Cursed Kid Brother,
-22,Heroes_Party,1473,5928,13157,Cursed Kid Brother,
+22,Heroes_Party,1472,5924,13138,Cursed Kid Brother,น้องชายต้องคำสาป
+22,Heroes_Party,1473,5928,13157,Cursed Kid Brother,น้องชายต้องคำสาป
 22,Heroes_Party,1474,5932,13176,,
 22,Heroes_Party,1475,5936,13177,,
 22,Heroes_Party,1476,5940,13178,,
 22,Heroes_Party,1477,5944,13179,,
 22,Heroes_Party,1478,5948,13180,,
 22,Heroes_Party,1479,5952,13181,,
-22,Heroes_Party,1480,5956,13182,Cursed Councillor,
-22,Heroes_Party,1481,5960,13200,Cursed Councillor,
+22,Heroes_Party,1480,5956,13182,Cursed Councillor,ที่ปรึกษาต้องคำสาป
+22,Heroes_Party,1481,5960,13200,Cursed Councillor,ที่ปรึกษาต้องคำสาป
 22,Heroes_Party,1482,5964,13218,,
 22,Heroes_Party,1483,5968,13219,,
 22,Heroes_Party,1484,5972,13220,,
 22,Heroes_Party,1485,5976,13221,,
 22,Heroes_Party,1486,5980,13222,,
 22,Heroes_Party,1487,5984,13223,,
-22,Heroes_Party,1488,5988,13224,Cursed Cousin,
-22,Heroes_Party,1489,5992,13238,Cursed Cousin,
+22,Heroes_Party,1488,5988,13224,Cursed Cousin,ลูกพี่ลูกน้องต้องคำสาป
+22,Heroes_Party,1489,5992,13238,Cursed Cousin,ลูกพี่ลูกน้องต้องคำสาป
 22,Heroes_Party,1490,5996,13252,,
 22,Heroes_Party,1491,6000,13253,,
 22,Heroes_Party,1492,6004,13254,,
 22,Heroes_Party,1493,6008,13255,,
 22,Heroes_Party,1494,6012,13256,,
 22,Heroes_Party,1495,6016,13257,,
-22,Heroes_Party,1496,6020,13258,Cursed Lieutenant,
-22,Heroes_Party,1497,6024,13276,Cursed Lieutenant,
+22,Heroes_Party,1496,6020,13258,Cursed Lieutenant,ร้อยโทต้องคำสาป
+22,Heroes_Party,1497,6024,13276,Cursed Lieutenant,ร้อยโทต้องคำสาป
 22,Heroes_Party,1498,6028,13294,,
 22,Heroes_Party,1499,6032,13295,,
 22,Heroes_Party,1500,6036,13296,,
 22,Heroes_Party,1501,6040,13297,,
 22,Heroes_Party,1502,6044,13298,,
 22,Heroes_Party,1503,6048,13299,,
-22,Heroes_Party,1504,6052,13300,Cursed Colonel,
-22,Heroes_Party,1505,6056,13315,Cursed Colonel,
+22,Heroes_Party,1504,6052,13300,Cursed Colonel,ผู้พันต้องคำสาป
+22,Heroes_Party,1505,6056,13315,Cursed Colonel,ผู้พันต้องคำสาป
 22,Heroes_Party,1506,6060,13330,,
 22,Heroes_Party,1507,6064,13331,,
 22,Heroes_Party,1508,6068,13332,,
 22,Heroes_Party,1509,6072,13333,,
 22,Heroes_Party,1510,6076,13334,,
 22,Heroes_Party,1511,6080,13335,,
-22,Heroes_Party,1512,6084,13336,Cursed Officer,
-22,Heroes_Party,1513,6088,13351,Cursed Officer,
+22,Heroes_Party,1512,6084,13336,Cursed Officer,นายทหารต้องคำสาป
+22,Heroes_Party,1513,6088,13351,Cursed Officer,นายทหารต้องคำสาป
 22,Heroes_Party,1514,6092,13366,,
 22,Heroes_Party,1515,6096,13367,,
 22,Heroes_Party,1516,6100,13368,,
 22,Heroes_Party,1517,6104,13369,,
 22,Heroes_Party,1518,6108,13370,,
 22,Heroes_Party,1519,6112,13371,,
-22,Heroes_Party,1520,6116,13372,Cursed Lady,
-22,Heroes_Party,1521,6120,13384,Cursed Lady,
+22,Heroes_Party,1520,6116,13372,Cursed Lady,หญิงสูงศักดิ์ต้องคำสาป
+22,Heroes_Party,1521,6120,13384,Cursed Lady,หญิงสูงศักดิ์ต้องคำสาป
 22,Heroes_Party,1522,6124,13396,,
 22,Heroes_Party,1523,6128,13397,,
 22,Heroes_Party,1524,6132,13398,,
 22,Heroes_Party,1525,6136,13399,,
 22,Heroes_Party,1526,6140,13400,,
 22,Heroes_Party,1527,6144,13401,,
-22,Heroes_Party,1528,6148,13402,Cursed Clever-Clogs,
-22,Heroes_Party,1529,6152,13422,Cursed Clever-Clogs,
+22,Heroes_Party,1528,6148,13402,Cursed Clever-Clogs,คนอวดฉลาดต้องคำสาป
+22,Heroes_Party,1529,6152,13422,Cursed Clever-Clogs,คนอวดฉลาดต้องคำสาป
 22,Heroes_Party,1530,6156,13442,,
 22,Heroes_Party,1531,6160,13443,,
 22,Heroes_Party,1532,6164,13444,,
 22,Heroes_Party,1533,6168,13445,,
 22,Heroes_Party,1534,6172,13446,,
 22,Heroes_Party,1535,6176,13447,,
-22,Heroes_Party,1536,6180,13448,Cursed Codger,
-22,Heroes_Party,1537,6184,13462,Cursed Codger,
+22,Heroes_Party,1536,6180,13448,Cursed Codger,ตาเฒ่าต้องคำสาป
+22,Heroes_Party,1537,6184,13462,Cursed Codger,ตาเฒ่าต้องคำสาป
 22,Heroes_Party,1538,6188,13476,,
 22,Heroes_Party,1539,6192,13477,,
 22,Heroes_Party,1540,6196,13478,,
@@ -6327,24 +6327,24 @@
 22,Heroes_Party,1765,7096,13703,,
 22,Heroes_Party,1766,7100,13704,,
 22,Heroes_Party,1767,7104,13705,,
-22,Heroes_Party,1768,7108,13706,Irritable Inmate,
-22,Heroes_Party,1769,7112,13723,Irritable Inmate,
+22,Heroes_Party,1768,7108,13706,Irritable Inmate,นักโทษขี้หงุดหงิด
+22,Heroes_Party,1769,7112,13723,Irritable Inmate,นักโทษขี้หงุดหงิด
 22,Heroes_Party,1770,7116,13740,,
 22,Heroes_Party,1771,7120,13741,,
 22,Heroes_Party,1772,7124,13742,,
 22,Heroes_Party,1773,7128,13743,,
 22,Heroes_Party,1774,7132,13744,,
 22,Heroes_Party,1775,7136,13745,,
-22,Heroes_Party,1776,7140,13746,Crotchety Captive,
-22,Heroes_Party,1777,7144,13764,Crotchety Captive,
+22,Heroes_Party,1776,7140,13746,Crotchety Captive,เชลยขี้บ่น
+22,Heroes_Party,1777,7144,13764,Crotchety Captive,เชลยขี้บ่น
 22,Heroes_Party,1778,7148,13782,,
 22,Heroes_Party,1779,7152,13783,,
 22,Heroes_Party,1780,7156,13784,,
 22,Heroes_Party,1781,7160,13785,,
 22,Heroes_Party,1782,7164,13786,,
 22,Heroes_Party,1783,7168,13787,,
-22,Heroes_Party,1784,7172,13788,Peevish Prisoner,
-22,Heroes_Party,1785,7176,13805,Peevish Prisoner,
+22,Heroes_Party,1784,7172,13788,Peevish Prisoner,นักโทษอารมณ์ร้าย
+22,Heroes_Party,1785,7176,13805,Peevish Prisoner,นักโทษอารมณ์ร้าย
 22,Heroes_Party,1786,7180,13822,,
 22,Heroes_Party,1787,7184,13823,,
 22,Heroes_Party,1788,7188,13824,,
@@ -6375,64 +6375,64 @@
 22,Heroes_Party,1813,7288,13849,,
 22,Heroes_Party,1814,7292,13850,,
 22,Heroes_Party,1815,7296,13851,,
-22,Heroes_Party,1816,7300,13852,<FH><FH><FH>,
-22,Heroes_Party,1817,7304,13862,<FH><FH><FH>,
+22,Heroes_Party,1816,7300,13852,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1817,7304,13862,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1818,7308,13872,,
 22,Heroes_Party,1819,7312,13873,,
 22,Heroes_Party,1820,7316,13874,,
 22,Heroes_Party,1821,7320,13875,,
 22,Heroes_Party,1822,7324,13876,,
 22,Heroes_Party,1823,7328,13877,,
-22,Heroes_Party,1824,7332,13878,<FH><FH><FH>,
-22,Heroes_Party,1825,7336,13888,<FH><FH><FH>,
+22,Heroes_Party,1824,7332,13878,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1825,7336,13888,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1826,7340,13898,,
 22,Heroes_Party,1827,7344,13899,,
 22,Heroes_Party,1828,7348,13900,,
 22,Heroes_Party,1829,7352,13901,,
 22,Heroes_Party,1830,7356,13902,,
 22,Heroes_Party,1831,7360,13903,,
-22,Heroes_Party,1832,7364,13904,<FH><FH><FH>,
-22,Heroes_Party,1833,7368,13914,<FH><FH><FH>,
+22,Heroes_Party,1832,7364,13904,<FH><FH><FH>,<FH><FH><FH>
+22,Heroes_Party,1833,7368,13914,<FH><FH><FH>,<FH><FH><FH>
 22,Heroes_Party,1834,7372,13924,,
 22,Heroes_Party,1835,7376,13925,,
 22,Heroes_Party,1836,7380,13926,,
 22,Heroes_Party,1837,7384,13927,,
 22,Heroes_Party,1838,7388,13928,,
 22,Heroes_Party,1839,7392,13929,,
-22,Heroes_Party,1840,7396,13930,Moustachioed Merchant,
-22,Heroes_Party,1841,7400,13952,Moustachioed Merchant,
+22,Heroes_Party,1840,7396,13930,Moustachioed Merchant,พ่อค้าไว้หนวด
+22,Heroes_Party,1841,7400,13952,Moustachioed Merchant,พ่อค้าไว้หนวด
 22,Heroes_Party,1842,7404,13974,,
 22,Heroes_Party,1843,7408,13975,,
 22,Heroes_Party,1844,7412,13976,,
 22,Heroes_Party,1845,7416,13977,,
 22,Heroes_Party,1846,7420,13978,,
 22,Heroes_Party,1847,7424,13979,,
-22,Heroes_Party,1848,7428,13980,Accordian Soldier,
-22,Heroes_Party,1849,7432,13998,Accordian Soldier,
+22,Heroes_Party,1848,7428,13980,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1849,7432,13998,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1850,7436,14016,,
 22,Heroes_Party,1851,7440,14017,,
 22,Heroes_Party,1852,7444,14018,,
 22,Heroes_Party,1853,7448,14019,,
 22,Heroes_Party,1854,7452,14020,,
 22,Heroes_Party,1855,7456,14021,,
-22,Heroes_Party,1856,7460,14022,Accordian Soldier,
-22,Heroes_Party,1857,7464,14040,Accordian Soldier,
+22,Heroes_Party,1856,7460,14022,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1857,7464,14040,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1858,7468,14058,,
 22,Heroes_Party,1859,7472,14059,,
 22,Heroes_Party,1860,7476,14060,,
 22,Heroes_Party,1861,7480,14061,,
 22,Heroes_Party,1862,7484,14062,,
 22,Heroes_Party,1863,7488,14063,,
-22,Heroes_Party,1864,7492,14064,Accordian Soldier,
-22,Heroes_Party,1865,7496,14082,Accordian Soldier,
+22,Heroes_Party,1864,7492,14064,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1865,7496,14082,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1866,7500,14100,,
 22,Heroes_Party,1867,7504,14101,,
 22,Heroes_Party,1868,7508,14102,,
 22,Heroes_Party,1869,7512,14103,,
 22,Heroes_Party,1870,7516,14104,,
 22,Heroes_Party,1871,7520,14105,,
-22,Heroes_Party,1872,7524,14106,Accordian Soldier,
-22,Heroes_Party,1873,7528,14124,Accordian Soldier,
+22,Heroes_Party,1872,7524,14106,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1873,7528,14124,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1874,7532,14142,,
 22,Heroes_Party,1875,7536,14143,,
 22,Heroes_Party,1876,7540,14144,,
@@ -6447,24 +6447,24 @@
 22,Heroes_Party,1885,7576,14153,,
 22,Heroes_Party,1886,7580,14154,,
 22,Heroes_Party,1887,7584,14155,,
-22,Heroes_Party,1888,7588,14156,Balzack,
-22,Heroes_Party,1889,7592,14164,Balzack,
+22,Heroes_Party,1888,7588,14156,Balzack,บัลแซก
+22,Heroes_Party,1889,7592,14164,Balzack,บัลแซก
 22,Heroes_Party,1890,7596,14172,,
 22,Heroes_Party,1891,7600,14173,,
 22,Heroes_Party,1892,7604,14174,,
 22,Heroes_Party,1893,7608,14175,,
 22,Heroes_Party,1894,7612,14176,,
 22,Heroes_Party,1895,7616,14177,,
-22,Heroes_Party,1896,7620,14178,Treasure Troll,
-22,Heroes_Party,1897,7624,14193,Treasure Troll,
+22,Heroes_Party,1896,7620,14178,Treasure Troll,โทรลล์สมบัติ
+22,Heroes_Party,1897,7624,14193,Treasure Troll,โทรลล์สมบัติ
 22,Heroes_Party,1898,7628,14208,,
 22,Heroes_Party,1899,7632,14209,,
 22,Heroes_Party,1900,7636,14210,,
 22,Heroes_Party,1901,7640,14211,,
 22,Heroes_Party,1902,7644,14212,,
 22,Heroes_Party,1903,7648,14213,,
-22,Heroes_Party,1904,7652,14214,Hellion,
-22,Heroes_Party,1905,7656,14222,Hellion,
+22,Heroes_Party,1904,7652,14214,Hellion,เฮลเลียน
+22,Heroes_Party,1905,7656,14222,Hellion,เฮลเลียน
 22,Heroes_Party,1906,7660,14230,,
 22,Heroes_Party,1907,7664,14231,,
 22,Heroes_Party,1908,7668,14232,,
@@ -6511,32 +6511,32 @@
 22,Heroes_Party,1949,7832,14273,,
 22,Heroes_Party,1950,7836,14274,,
 22,Heroes_Party,1951,7840,14275,,
-22,Heroes_Party,1952,7844,14276,Mysterious Woman,
-22,Heroes_Party,1953,7848,14293,Mysterious Woman,
+22,Heroes_Party,1952,7844,14276,Mysterious Woman,หญิงสาวปริศนา
+22,Heroes_Party,1953,7848,14293,Mysterious Woman,หญิงสาวปริศนา
 22,Heroes_Party,1954,7852,14310,,
 22,Heroes_Party,1955,7856,14311,,
 22,Heroes_Party,1956,7860,14312,,
 22,Heroes_Party,1957,7864,14313,,
 22,Heroes_Party,1958,7868,14314,,
 22,Heroes_Party,1959,7872,14315,,
-22,Heroes_Party,1960,7876,14316,Mysterious Swordsman,
-22,Heroes_Party,1961,7880,14337,Mysterious Swordsman,
+22,Heroes_Party,1960,7876,14316,Mysterious Swordsman,นักดาบปริศนา
+22,Heroes_Party,1961,7880,14337,Mysterious Swordsman,นักดาบปริศนา
 22,Heroes_Party,1962,7884,14358,,
 22,Heroes_Party,1963,7888,14359,,
 22,Heroes_Party,1964,7892,14360,,
 22,Heroes_Party,1965,7896,14361,,
 22,Heroes_Party,1966,7900,14362,,
 22,Heroes_Party,1967,7904,14363,,
-22,Heroes_Party,1968,7908,14364,Mysterious Martial Artist,
-22,Heroes_Party,1969,7912,14390,Mysterious Martial Artist,
+22,Heroes_Party,1968,7908,14364,Mysterious Martial Artist,นักสู้ปริศนา
+22,Heroes_Party,1969,7912,14390,Mysterious Martial Artist,นักสู้ปริศนา
 22,Heroes_Party,1970,7916,14416,,
 22,Heroes_Party,1971,7920,14417,,
 22,Heroes_Party,1972,7924,14418,,
 22,Heroes_Party,1973,7928,14419,,
 22,Heroes_Party,1974,7932,14420,,
 22,Heroes_Party,1975,7936,14421,,
-22,Heroes_Party,1976,7940,14422,Accordian Soldier,
-22,Heroes_Party,1977,7944,14440,Accordian Soldier,
+22,Heroes_Party,1976,7940,14422,Accordian Soldier,ทหารออร์คาเนีย
+22,Heroes_Party,1977,7944,14440,Accordian Soldier,ทหารออร์คาเนีย
 22,Heroes_Party,1978,7948,14458,,
 22,Heroes_Party,1979,7952,14459,,
 22,Heroes_Party,1980,7956,14460,,
@@ -6703,144 +6703,144 @@
 22,Heroes_Party,2141,8600,14621,,
 22,Heroes_Party,2142,8604,14622,,
 22,Heroes_Party,2143,8608,14623,,
-22,Heroes_Party,2144,8612,14624,Careworn Wife,
-22,Heroes_Party,2145,8616,14638,Careworn Wife,
+22,Heroes_Party,2144,8612,14624,Careworn Wife,ภรรยาผู้วิตกกังวล
+22,Heroes_Party,2145,8616,14638,Careworn Wife,ภรรยาผู้วิตกกังวล
 22,Heroes_Party,2146,8620,14652,,
 22,Heroes_Party,2147,8624,14653,,
 22,Heroes_Party,2148,8628,14654,,
 22,Heroes_Party,2149,8632,14655,,
 22,Heroes_Party,2150,8636,14656,,
 22,Heroes_Party,2151,8640,14657,,
-22,Heroes_Party,2152,8644,14658,Toughie with an 'Eart of Gold,
-22,Heroes_Party,2153,8648,14688,Toughie with an 'Eart of Gold,
+22,Heroes_Party,2152,8644,14658,Toughie with an 'Eart of Gold,ชายกำยำผู้มีใจเปี่ยมเมตตา
+22,Heroes_Party,2153,8648,14688,Toughie with an 'Eart of Gold,ชายกำยำผู้มีใจเปี่ยมเมตตา
 22,Heroes_Party,2154,8652,14718,,
 22,Heroes_Party,2155,8656,14719,,
 22,Heroes_Party,2156,8660,14720,,
 22,Heroes_Party,2157,8664,14721,,
 22,Heroes_Party,2158,8668,14722,,
 22,Heroes_Party,2159,8672,14723,,
-22,Heroes_Party,2160,8676,14724,Worried Mother,
-22,Heroes_Party,2161,8680,14739,Worried Mother,
+22,Heroes_Party,2160,8676,14724,Worried Mother,มารดาผู้วิตกกังวล
+22,Heroes_Party,2161,8680,14739,Worried Mother,มารดาผู้วิตกกังวล
 22,Heroes_Party,2162,8684,14754,,
 22,Heroes_Party,2163,8688,14755,,
 22,Heroes_Party,2164,8692,14756,,
 22,Heroes_Party,2165,8696,14757,,
 22,Heroes_Party,2166,8700,14758,,
 22,Heroes_Party,2167,8704,14759,,
-22,Heroes_Party,2168,8708,14760,Incorrigible Kid,
-22,Heroes_Party,2169,8712,14777,Incorrigible Kid,
+22,Heroes_Party,2168,8708,14760,Incorrigible Kid,เด็กดื้อรั้น
+22,Heroes_Party,2169,8712,14777,Incorrigible Kid,เด็กดื้อรั้น
 22,Heroes_Party,2170,8716,14794,,
 22,Heroes_Party,2171,8720,14795,,
 22,Heroes_Party,2172,8724,14796,,
 22,Heroes_Party,2173,8728,14797,,
 22,Heroes_Party,2174,8732,14798,,
 22,Heroes_Party,2175,8736,14799,,
-22,Heroes_Party,2176,8740,14800,Kid's Companion,
-22,Heroes_Party,2177,8744,14816,Kid's Companion,
+22,Heroes_Party,2176,8740,14800,Kid's Companion,เพื่อนของเด็กน้อย
+22,Heroes_Party,2177,8744,14816,Kid's Companion,เพื่อนของเด็กน้อย
 22,Heroes_Party,2178,8748,14832,,
 22,Heroes_Party,2179,8752,14833,,
 22,Heroes_Party,2180,8756,14834,,
 22,Heroes_Party,2181,8760,14835,,
 22,Heroes_Party,2182,8764,14836,,
 22,Heroes_Party,2183,8768,14837,,
-22,Heroes_Party,2184,8772,14838,Long-Suffering Sibling,
-22,Heroes_Party,2185,8776,14861,Long-Suffering Sibling,
+22,Heroes_Party,2184,8772,14838,Long-Suffering Sibling,พี่น้องผู้อดทน
+22,Heroes_Party,2185,8776,14861,Long-Suffering Sibling,พี่น้องผู้อดทน
 22,Heroes_Party,2186,8780,14884,,
 22,Heroes_Party,2187,8784,14885,,
 22,Heroes_Party,2188,8788,14886,,
 22,Heroes_Party,2189,8792,14887,,
 22,Heroes_Party,2190,8796,14888,,
 22,Heroes_Party,2191,8800,14889,,
-22,Heroes_Party,2192,8804,14890,Runaway Rogue,
-22,Heroes_Party,2193,8808,14904,Runaway Rogue,
+22,Heroes_Party,2192,8804,14890,Runaway Rogue,จอมโจรหลบหนี
+22,Heroes_Party,2193,8808,14904,Runaway Rogue,จอมโจรหลบหนี
 22,Heroes_Party,2194,8812,14918,,
 22,Heroes_Party,2195,8816,14919,,
 22,Heroes_Party,2196,8820,14920,,
 22,Heroes_Party,2197,8824,14921,,
 22,Heroes_Party,2198,8828,14922,,
 22,Heroes_Party,2199,8832,14923,,
-22,Heroes_Party,2200,8836,14924,Moony Milksop,
-22,Heroes_Party,2201,8840,14938,Moony Milksop,
+22,Heroes_Party,2200,8836,14924,Moony Milksop,หนุ่มขี้ขลาดช่างฝัน
+22,Heroes_Party,2201,8840,14938,Moony Milksop,หนุ่มขี้ขลาดช่างฝัน
 22,Heroes_Party,2202,8844,14952,,
 22,Heroes_Party,2203,8848,14953,,
 22,Heroes_Party,2204,8852,14954,,
 22,Heroes_Party,2205,8856,14955,,
 22,Heroes_Party,2206,8860,14956,,
 22,Heroes_Party,2207,8864,14957,,
-22,Heroes_Party,2208,8868,14958,Nervy Nearly-Wed,
-22,Heroes_Party,2209,8872,14975,Nervy Nearly-Wed,
+22,Heroes_Party,2208,8868,14958,Nervy Nearly-Wed,ว่าที่เจ้าบ่าวขี้ตื่น
+22,Heroes_Party,2209,8872,14975,Nervy Nearly-Wed,ว่าที่เจ้าบ่าวขี้ตื่น
 22,Heroes_Party,2210,8876,14992,,
 22,Heroes_Party,2211,8880,14993,,
 22,Heroes_Party,2212,8884,14994,,
 22,Heroes_Party,2213,8888,14995,,
 22,Heroes_Party,2214,8892,14996,,
 22,Heroes_Party,2215,8896,14997,,
-22,Heroes_Party,2216,8900,14998,Beloved Bride-to-Be,
-22,Heroes_Party,2217,8904,15018,Beloved Bride-to-Be,
+22,Heroes_Party,2216,8900,14998,Beloved Bride-to-Be,ว่าที่เจ้าสาวแสนรัก
+22,Heroes_Party,2217,8904,15018,Beloved Bride-to-Be,ว่าที่เจ้าสาวแสนรัก
 22,Heroes_Party,2218,8908,15038,,
 22,Heroes_Party,2219,8912,15039,,
 22,Heroes_Party,2220,8916,15040,,
 22,Heroes_Party,2221,8920,15041,,
 22,Heroes_Party,2222,8924,15042,,
 22,Heroes_Party,2223,8928,15043,,
-22,Heroes_Party,2224,8932,15044,Luceus,
-22,Heroes_Party,2225,8936,15051,Luceus,
+22,Heroes_Party,2224,8932,15044,Luceus,แอคท์
+22,Heroes_Party,2225,8936,15051,Luceus,แอคท์
 22,Heroes_Party,2226,8940,15058,,
 22,Heroes_Party,2227,8944,15059,,
 22,Heroes_Party,2228,8948,15060,,
 22,Heroes_Party,2229,8952,15061,,
 22,Heroes_Party,2230,8956,15062,,
 22,Heroes_Party,2231,8960,15063,,
-22,Heroes_Party,2232,8964,15064,Aurora,
-22,Heroes_Party,2233,8968,15071,Aurora,
+22,Heroes_Party,2232,8964,15064,Aurora,เมียร์
+22,Heroes_Party,2233,8968,15071,Aurora,เมียร์
 22,Heroes_Party,2234,8972,15078,,
 22,Heroes_Party,2235,8976,15079,,
 22,Heroes_Party,2236,8980,15080,,
 22,Heroes_Party,2237,8984,15081,,
 22,Heroes_Party,2238,8988,15082,,
 22,Heroes_Party,2239,8992,15083,,
-22,Heroes_Party,2240,8996,15084,Doric,
-22,Heroes_Party,2241,9000,15090,Doric,
+22,Heroes_Party,2240,8996,15084,Doric,ดิลค์
+22,Heroes_Party,2241,9000,15090,Doric,ดิลค์
 22,Heroes_Party,2242,9004,15096,,
 22,Heroes_Party,2243,9008,15097,,
 22,Heroes_Party,2244,9012,15098,,
 22,Heroes_Party,2245,9016,15099,,
 22,Heroes_Party,2246,9020,15100,,
 22,Heroes_Party,2247,9024,15101,,
-22,Heroes_Party,2248,9028,15102,Isla,
-22,Heroes_Party,2249,9032,15107,Isla,
+22,Heroes_Party,2248,9028,15102,Isla,จูเลียตต้า
+22,Heroes_Party,2249,9032,15107,Isla,จูเลียตต้า
 22,Heroes_Party,2250,9036,15112,,
 22,Heroes_Party,2251,9040,15113,,
 22,Heroes_Party,2252,9044,15114,,
 22,Heroes_Party,2253,9048,15115,,
 22,Heroes_Party,2254,9052,15116,,
 22,Heroes_Party,2255,9056,15117,,
-22,Heroes_Party,2256,9060,15118,Bianca,
-22,Heroes_Party,2257,9064,15125,Bianca,
+22,Heroes_Party,2256,9060,15118,Bianca,เบียงก้า
+22,Heroes_Party,2257,9064,15125,Bianca,เบียงก้า
 22,Heroes_Party,2258,9068,15132,,
 22,Heroes_Party,2259,9072,15133,,
 22,Heroes_Party,2260,9076,15134,,
 22,Heroes_Party,2261,9080,15135,,
 22,Heroes_Party,2262,9084,15136,,
 22,Heroes_Party,2263,9088,15137,,
-22,Heroes_Party,2264,9092,15138,Nera,
-22,Heroes_Party,2265,9096,15143,Nera,
+22,Heroes_Party,2264,9092,15138,Nera,ฟลอร่า
+22,Heroes_Party,2265,9096,15143,Nera,ฟลอร่า
 22,Heroes_Party,2266,9100,15148,,
 22,Heroes_Party,2267,9104,15149,,
 22,Heroes_Party,2268,9108,15150,,
 22,Heroes_Party,2269,9112,15151,,
 22,Heroes_Party,2270,9116,15152,,
 22,Heroes_Party,2271,9120,15153,,
-22,Heroes_Party,2272,9124,15154,Yangus,
-22,Heroes_Party,2273,9128,15161,Yangus,
+22,Heroes_Party,2272,9124,15154,Yangus,ยังกัส
+22,Heroes_Party,2273,9128,15161,Yangus,ยังกัส
 22,Heroes_Party,2274,9132,15168,,
 22,Heroes_Party,2275,9136,15169,,
 22,Heroes_Party,2276,9140,15170,,
 22,Heroes_Party,2277,9144,15171,,
 22,Heroes_Party,2278,9148,15172,,
 22,Heroes_Party,2279,9152,15173,,
-22,Heroes_Party,2280,9156,15174,Psaro,
-22,Heroes_Party,2281,9160,15180,Psaro,
+22,Heroes_Party,2280,9156,15174,Psaro,พิซาโร่
+22,Heroes_Party,2281,9160,15180,Psaro,พิซาโร่
 22,Heroes_Party,2282,9164,15186,,
 22,Heroes_Party,2283,9168,15187,,
 22,Heroes_Party,2284,9172,15188,,
@@ -30351,128 +30351,128 @@
 127,Skill_Types,2397,9624,14044,,
 127,Skill_Types,2398,9628,14045,,
 127,Skill_Types,2399,9632,14046,,
-134,Party_Vocations,0,36,1636,Priestess,
-134,Party_Vocations,1,40,1646,Priestess,
+134,Party_Vocations,0,36,1636,Priestess,นักบวชหญิง
+134,Party_Vocations,1,40,1646,Priestess,นักบวชหญิง
 134,Party_Vocations,2,44,1656,,
 134,Party_Vocations,3,48,1657,,
 134,Party_Vocations,4,52,1658,,
 134,Party_Vocations,5,56,1659,,
 134,Party_Vocations,6,60,1660,,
 134,Party_Vocations,7,64,1661,,
-134,Party_Vocations,8,68,1662,Armourer,
-134,Party_Vocations,9,72,1671,Armourer,
+134,Party_Vocations,8,68,1662,Armourer,ช่างทำเกราะ
+134,Party_Vocations,9,72,1671,Armourer,ช่างทำเกราะ
 134,Party_Vocations,10,76,1680,,
 134,Party_Vocations,11,80,1681,,
 134,Party_Vocations,12,84,1682,,
 134,Party_Vocations,13,88,1683,,
 134,Party_Vocations,14,92,1684,,
 134,Party_Vocations,15,96,1685,,
-134,Party_Vocations,16,100,1686,Orb Seller,
-134,Party_Vocations,17,104,1697,Orb Seller,
+134,Party_Vocations,16,100,1686,Orb Seller,คนขายลูกแก้ว
+134,Party_Vocations,17,104,1697,Orb Seller,คนขายลูกแก้ว
 134,Party_Vocations,18,108,1708,,
 134,Party_Vocations,19,112,1709,,
 134,Party_Vocations,20,116,1710,,
 134,Party_Vocations,21,120,1711,,
 134,Party_Vocations,22,124,1712,,
 134,Party_Vocations,23,128,1713,,
-134,Party_Vocations,24,132,1714,Maxi Malone,
-134,Party_Vocations,25,136,1726,Maxi Malone,
+134,Party_Vocations,24,132,1714,Maxi Malone,แม็กซี่ มาโลน
+134,Party_Vocations,25,136,1726,Maxi Malone,แม็กซี่ มาโลน
 134,Party_Vocations,26,140,1738,,
 134,Party_Vocations,27,144,1739,,
 134,Party_Vocations,28,148,1740,,
 134,Party_Vocations,29,152,1741,,
 134,Party_Vocations,30,156,1742,,
 134,Party_Vocations,31,160,1743,,
-134,Party_Vocations,32,164,1744,Questmistress,
-134,Party_Vocations,33,168,1758,Questmistress,
+134,Party_Vocations,32,164,1744,Questmistress,ผู้ดูแลเควสต์
+134,Party_Vocations,33,168,1758,Questmistress,ผู้ดูแลเควสต์
 134,Party_Vocations,34,172,1772,,
 134,Party_Vocations,35,176,1773,,
 134,Party_Vocations,36,180,1774,,
 134,Party_Vocations,37,184,1775,,
 134,Party_Vocations,38,188,1776,,
 134,Party_Vocations,39,192,1777,,
-134,Party_Vocations,40,196,1778,Auntie Alchemy,
-134,Party_Vocations,41,200,1793,Auntie Alchemy,
+134,Party_Vocations,40,196,1778,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+134,Party_Vocations,41,200,1793,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
 134,Party_Vocations,42,204,1808,,
 134,Party_Vocations,43,208,1809,,
 134,Party_Vocations,44,212,1810,,
 134,Party_Vocations,45,216,1811,,
 134,Party_Vocations,46,220,1812,,
 134,Party_Vocations,47,224,1813,,
-134,Party_Vocations,48,228,1814,Patty,
-134,Party_Vocations,49,232,1820,Patty,
+134,Party_Vocations,48,228,1814,Patty,แพตตี้
+134,Party_Vocations,49,232,1820,Patty,แพตตี้
 134,Party_Vocations,50,236,1826,,
 134,Party_Vocations,51,240,1827,,
 134,Party_Vocations,52,244,1828,,
 134,Party_Vocations,53,248,1829,,
 134,Party_Vocations,54,252,1830,,
 134,Party_Vocations,55,256,1831,,
-134,Party_Vocations,56,260,1832,Erinn,
-134,Party_Vocations,57,264,1838,Erinn,
+134,Party_Vocations,56,260,1832,Erinn,เอรินน์
+134,Party_Vocations,57,264,1838,Erinn,เอรินน์
 134,Party_Vocations,58,268,1844,,
 134,Party_Vocations,59,272,1845,,
 134,Party_Vocations,60,276,1846,,
 134,Party_Vocations,61,280,1847,,
 134,Party_Vocations,62,284,1848,,
 134,Party_Vocations,63,288,1849,,
-134,Party_Vocations,64,292,1850,Abbot of Alltrades,
-134,Party_Vocations,65,296,1869,Abbot of Alltrades,
+134,Party_Vocations,64,292,1850,Abbot of Alltrades,เจ้าอาวาสแห่งวิหารดารุมะ
+134,Party_Vocations,65,296,1869,Abbot of Alltrades,เจ้าอาวาสแห่งวิหารดารุมะ
 134,Party_Vocations,66,300,1888,,
 134,Party_Vocations,67,304,1889,,
 134,Party_Vocations,68,308,1890,,
 134,Party_Vocations,69,312,1891,,
 134,Party_Vocations,70,316,1892,,
 134,Party_Vocations,71,320,1893,,
-134,Party_Vocations,72,324,1894,Clerk of Works,
-134,Party_Vocations,73,328,1909,Clerk of Works,
+134,Party_Vocations,72,324,1894,Clerk of Works,เสมียนฝ่ายโยธา
+134,Party_Vocations,73,328,1909,Clerk of Works,เสมียนฝ่ายโยธา
 134,Party_Vocations,74,332,1924,,
 134,Party_Vocations,75,336,1925,,
 134,Party_Vocations,76,340,1926,,
 134,Party_Vocations,77,344,1927,,
 134,Party_Vocations,78,348,1928,,
 134,Party_Vocations,79,352,1929,,
-134,Party_Vocations,80,356,1930,Sir Pression,
-134,Party_Vocations,81,360,1943,Sir Pression,
+134,Party_Vocations,80,356,1930,Sir Pression,เซอร์เพรสชัน
+134,Party_Vocations,81,360,1943,Sir Pression,เซอร์เพรสชัน
 134,Party_Vocations,82,364,1956,,
 134,Party_Vocations,83,368,1957,,
 134,Party_Vocations,84,372,1958,,
 134,Party_Vocations,85,376,1959,,
 134,Party_Vocations,86,380,1960,,
 134,Party_Vocations,87,384,1961,,
-134,Party_Vocations,88,388,1962,Swapsie,
-134,Party_Vocations,89,392,1970,Swapsie,
+134,Party_Vocations,88,388,1962,Swapsie,สวาปซี่
+134,Party_Vocations,89,392,1970,Swapsie,สวาปซี่
 134,Party_Vocations,90,396,1978,,
 134,Party_Vocations,91,400,1979,,
 134,Party_Vocations,92,404,1980,,
 134,Party_Vocations,93,408,1981,,
 134,Party_Vocations,94,412,1982,,
 134,Party_Vocations,95,416,1983,,
-134,Party_Vocations,96,420,1984,Memory Bank,
-134,Party_Vocations,97,424,1996,Memory Bank,
+134,Party_Vocations,96,420,1984,Memory Bank,ธนาคารความทรงจำ
+134,Party_Vocations,97,424,1996,Memory Bank,ธนาคารความทรงจำ
 134,Party_Vocations,98,428,2008,,
 134,Party_Vocations,99,432,2009,,
 134,Party_Vocations,100,436,2010,,
 134,Party_Vocations,101,440,2011,,
 134,Party_Vocations,102,444,2012,,
 134,Party_Vocations,103,448,2013,,
-134,Party_Vocations,104,452,2014,Martial Master,
-134,Party_Vocations,105,456,2029,Martial Master,
+134,Party_Vocations,104,452,2014,Martial Master,ปรมาจารย์การต่อสู้
+134,Party_Vocations,105,456,2029,Martial Master,ปรมาจารย์การต่อสู้
 134,Party_Vocations,106,460,2044,,
 134,Party_Vocations,107,464,2045,,
 134,Party_Vocations,108,468,2046,,
 134,Party_Vocations,109,472,2047,,
 134,Party_Vocations,110,476,2048,,
 134,Party_Vocations,111,480,2049,,
-134,Party_Vocations,112,484,2050,Float-O-Copier,
-134,Party_Vocations,113,488,2065,Float-O-Copier,
+134,Party_Vocations,112,484,2050,Float-O-Copier,มิมิกฟลูต
+134,Party_Vocations,113,488,2065,Float-O-Copier,มิมิกฟลูต
 134,Party_Vocations,114,492,2080,,
 134,Party_Vocations,115,496,2081,,
 134,Party_Vocations,116,500,2082,,
 134,Party_Vocations,117,504,2083,,
 134,Party_Vocations,118,508,2084,,
 134,Party_Vocations,119,512,2085,,
-134,Party_Vocations,120,516,2086,Gragwort,
-134,Party_Vocations,121,520,2095,Gragwort,
+134,Party_Vocations,120,516,2086,Gragwort,แกรกเวิร์ต
+134,Party_Vocations,121,520,2095,Gragwort,แกรกเวิร์ต
 134,Party_Vocations,122,524,2104,,
 134,Party_Vocations,123,528,2105,,
 134,Party_Vocations,124,532,2106,,
@@ -31551,56 +31551,56 @@
 148,Dungeons_Mazes,397,1624,7685,,
 148,Dungeons_Mazes,398,1628,7686,,
 148,Dungeons_Mazes,399,1632,7687,,
-155,Menu_Categories,0,36,356,Characters,
-155,Menu_Categories,1,40,367,Characters,
+155,Menu_Categories,0,36,356,Characters,ตัวละคร
+155,Menu_Categories,1,40,367,Characters,ตัวละคร
 155,Menu_Categories,2,44,378,,
 155,Menu_Categories,3,48,379,,
 155,Menu_Categories,4,52,380,,
 155,Menu_Categories,5,56,381,,
 155,Menu_Categories,6,60,382,,
 155,Menu_Categories,7,64,383,,
-155,Menu_Categories,8,68,384,Monster Minions,
-155,Menu_Categories,9,72,400,Monster Minions,
+155,Menu_Categories,8,68,384,Monster Minions,สมุนมอนสเตอร์
+155,Menu_Categories,9,72,400,Monster Minions,สมุนมอนสเตอร์
 155,Menu_Categories,10,76,416,,
 155,Menu_Categories,11,80,417,,
 155,Menu_Categories,12,84,418,,
 155,Menu_Categories,13,88,419,,
 155,Menu_Categories,14,92,420,,
 155,Menu_Categories,15,96,421,,
-155,Menu_Categories,16,100,422,Controls,
-155,Menu_Categories,17,104,431,Controls,
+155,Menu_Categories,16,100,422,Controls,การควบคุม
+155,Menu_Categories,17,104,431,Controls,การควบคุม
 155,Menu_Categories,18,108,440,,
 155,Menu_Categories,19,112,441,,
 155,Menu_Categories,20,116,442,,
 155,Menu_Categories,21,120,443,,
 155,Menu_Categories,22,124,444,,
 155,Menu_Categories,23,128,445,,
-155,Menu_Categories,24,132,446,Wild Zones,
-155,Menu_Categories,25,136,457,Wild Zones,
+155,Menu_Categories,24,132,446,Wild Zones,เขตแดนธรรมชาติ
+155,Menu_Categories,25,136,457,Wild Zones,เขตแดนธรรมชาติ
 155,Menu_Categories,26,140,468,,
 155,Menu_Categories,27,144,469,,
 155,Menu_Categories,28,148,470,,
 155,Menu_Categories,29,152,471,,
 155,Menu_Categories,30,156,472,,
 155,Menu_Categories,31,160,473,,
-155,Menu_Categories,32,164,474,War Zones,
-155,Menu_Categories,33,168,484,War Zones,
+155,Menu_Categories,32,164,474,War Zones,สมรภูมิสงคราม
+155,Menu_Categories,33,168,484,War Zones,สมรภูมิสงคราม
 155,Menu_Categories,34,172,494,,
 155,Menu_Categories,35,176,495,,
 155,Menu_Categories,36,180,496,,
 155,Menu_Categories,37,184,497,,
 155,Menu_Categories,38,188,498,,
 155,Menu_Categories,39,192,499,,
-155,Menu_Categories,40,196,500,Multiplayer,
-155,Menu_Categories,41,200,512,Multiplayer,
+155,Menu_Categories,40,196,500,Multiplayer,ผู้เล่นหลายคน
+155,Menu_Categories,41,200,512,Multiplayer,ผู้เล่นหลายคน
 155,Menu_Categories,42,204,524,,
 155,Menu_Categories,43,208,525,,
 155,Menu_Categories,44,212,526,,
 155,Menu_Categories,45,216,527,,
 155,Menu_Categories,46,220,528,,
 155,Menu_Categories,47,224,529,,
-155,Menu_Categories,48,228,530,Misc.,
-155,Menu_Categories,49,232,536,Misc.,
+155,Menu_Categories,48,228,530,Misc.,อื่น ๆ
+155,Menu_Categories,49,232,536,Misc.,อื่น ๆ
 155,Menu_Categories,50,236,542,,
 155,Menu_Categories,51,240,543,,
 155,Menu_Categories,52,244,544,,
@@ -32775,48 +32775,48 @@
 169,Accolades_Trophies,341,1400,5383,,
 169,Accolades_Trophies,342,1404,5384,,
 169,Accolades_Trophies,343,1408,5385,,
-176,Battle_Perks,0,36,996,Double experience<FG>,
-176,Battle_Perks,1,40,1017,Double experience<FG>,
+176,Battle_Perks,0,36,996,Double experience<FG>,ค่าประสบการณ์ 2 เท่า<FG>
+176,Battle_Perks,1,40,1017,Double experience<FG>,ค่าประสบการณ์ 2 เท่า<FG>
 176,Battle_Perks,2,44,1038,,
 176,Battle_Perks,3,48,1039,,
 176,Battle_Perks,4,52,1040,,
 176,Battle_Perks,5,56,1041,,
 176,Battle_Perks,6,60,1042,,
 176,Battle_Perks,7,64,1043,,
-176,Battle_Perks,8,68,1044,Double gold coins<FG>,
-176,Battle_Perks,9,72,1065,Double gold coins<FG>,
+176,Battle_Perks,8,68,1044,Double gold coins<FG>,เหรียญทอง 2 เท่า<FG>
+176,Battle_Perks,9,72,1065,Double gold coins<FG>,เหรียญทอง 2 เท่า<FG>
 176,Battle_Perks,10,76,1086,,
 176,Battle_Perks,11,80,1087,,
 176,Battle_Perks,12,84,1088,,
 176,Battle_Perks,13,88,1089,,
 176,Battle_Perks,14,92,1090,,
 176,Battle_Perks,15,96,1091,,
-176,Battle_Perks,16,100,1092,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,
-176,Battle_Perks,17,104,1151,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,
+176,Battle_Perks,16,100,1092,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,คริติคอลบ้าคลั่ง<FG>\nโอกาสติดคริติคอลเพิ่มขึ้นอย่างมหาศาล<FG>
+176,Battle_Perks,17,104,1151,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,คริติคอลบ้าคลั่ง<FG>\nโอกาสติดคริติคอลเพิ่มขึ้นอย่างมหาศาล<FG>
 176,Battle_Perks,18,108,1210,,
 176,Battle_Perks,19,112,1211,,
 176,Battle_Perks,20,116,1212,,
 176,Battle_Perks,21,120,1213,,
 176,Battle_Perks,22,124,1214,,
 176,Battle_Perks,23,128,1215,,
-176,Battle_Perks,24,132,1216,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,
-176,Battle_Perks,25,136,1273,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,
+176,Battle_Perks,24,132,1216,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,ใช้คาถาและทักษะฟรี<FG>\n0 MP สำหรับทุกทักษะ<FG>
+176,Battle_Perks,25,136,1273,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,ใช้คาถาและทักษะฟรี<FG>\n0 MP สำหรับทุกทักษะ<FG>
 176,Battle_Perks,26,140,1330,,
 176,Battle_Perks,27,144,1331,,
 176,Battle_Perks,28,148,1332,,
 176,Battle_Perks,29,152,1333,,
 176,Battle_Perks,30,156,1334,,
 176,Battle_Perks,31,160,1335,,
-176,Battle_Perks,32,164,1336,Turbo tension<FG>\nTension will build up faster<FG>,
-176,Battle_Perks,33,168,1385,Turbo tension<FG>\nTension will build up faster<FG>,
+176,Battle_Perks,32,164,1336,Turbo tension<FG>\nTension will build up faster<FG>,เทอร์โบเทนชัน<FG>\nเกจเทนชันจะสะสมได้เร็วยิ่งขึ้น<FG>
+176,Battle_Perks,33,168,1385,Turbo tension<FG>\nTension will build up faster<FG>,เทอร์โบเทนชัน<FG>\nเกจเทนชันจะสะสมได้เร็วยิ่งขึ้น<FG>
 176,Battle_Perks,34,172,1434,,
 176,Battle_Perks,35,176,1435,,
 176,Battle_Perks,36,180,1436,,
 176,Battle_Perks,37,184,1437,,
 176,Battle_Perks,38,188,1438,,
 176,Battle_Perks,39,192,1439,,
-176,Battle_Perks,40,196,1440,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,
-176,Battle_Perks,41,200,1503,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,
+176,Battle_Perks,40,196,1440,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,วัตถุดิบหลั่งไหล<FG>\nศัตรูจะดรอปวัตถุดิบเพิ่มขึ้นมากมาย<FG>
+176,Battle_Perks,41,200,1503,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,วัตถุดิบหลั่งไหล<FG>\nศัตรูจะดรอปวัตถุดิบเพิ่มขึ้นมากมาย<FG>
 176,Battle_Perks,42,204,1566,,
 176,Battle_Perks,43,208,1567,,
 176,Battle_Perks,44,212,1568,,
@@ -33215,260 +33215,260 @@
 183,Combat_Tutorials,197,820,2783,,
 183,Combat_Tutorials,198,824,2784,,
 183,Combat_Tutorials,199,828,2785,,
-190,Character_Index,0,32,112,Main Characters,
-190,Character_Index,1,36,128,Main Characters,
-190,Character_Index,2,40,144,Other Characters,
-190,Character_Index,3,44,161,Other Characters,
-190,Character_Index,4,48,178,Returning Characters,
-190,Character_Index,5,52,199,Returning Characters,
-190,Character_Index,6,56,220,Actions and Controls,
-190,Character_Index,7,60,241,Actions and Controls,
-190,Character_Index,8,64,262,Preparing to Venture Forth,
-190,Character_Index,9,68,289,Preparing to Venture Forth,
-190,Character_Index,10,72,316,Shops and Facilities,
-190,Character_Index,11,76,337,Shops and Facilities,
-190,Character_Index,12,80,358,During Battle,
-190,Character_Index,13,84,372,During Battle,
-190,Character_Index,14,88,386,Multiplayer,
-190,Character_Index,15,92,398,Multiplayer,
+190,Character_Index,0,32,112,Main Characters,ตัวละครหลัก
+190,Character_Index,1,36,128,Main Characters,ตัวละครหลัก
+190,Character_Index,2,40,144,Other Characters,ตัวละครอื่น ๆ
+190,Character_Index,3,44,161,Other Characters,ตัวละครอื่น ๆ
+190,Character_Index,4,48,178,Returning Characters,ตัวละครที่หวนคืนมา
+190,Character_Index,5,52,199,Returning Characters,ตัวละครที่หวนคืนมา
+190,Character_Index,6,56,220,Actions and Controls,แอ็กชันและการควบคุม
+190,Character_Index,7,60,241,Actions and Controls,แอ็กชันและการควบคุม
+190,Character_Index,8,64,262,Preparing to Venture Forth,การเตรียมตัวออกเดินทาง
+190,Character_Index,9,68,289,Preparing to Venture Forth,การเตรียมตัวออกเดินทาง
+190,Character_Index,10,72,316,Shops and Facilities,ร้านค้าและสิ่งอำนวยความสะดวก
+190,Character_Index,11,76,337,Shops and Facilities,ร้านค้าและสิ่งอำนวยความสะดวก
+190,Character_Index,12,80,358,During Battle,ระหว่างการต่อสู้
+190,Character_Index,13,84,372,During Battle,ระหว่างการต่อสู้
+190,Character_Index,14,88,386,Multiplayer,ผู้เล่นหลายคน
+190,Character_Index,15,92,398,Multiplayer,ผู้เล่นหลายคน
 190,Character_Index,16,96,410,,
 190,Character_Index,17,100,411,,
 190,Character_Index,18,104,412,,
 190,Character_Index,19,108,413,,
-197,Location_Lore,0,36,3236,Accordia,
-197,Location_Lore,1,40,3245,Accordia,
+197,Location_Lore,0,36,3236,Accordia,ออร์คาเนีย
+197,Location_Lore,1,40,3245,Accordia,ออร์คาเนีย
 197,Location_Lore,2,44,3254,,
 197,Location_Lore,3,48,3255,,
 197,Location_Lore,4,52,3256,,
 197,Location_Lore,5,56,3257,,
 197,Location_Lore,6,60,3258,,
 197,Location_Lore,7,64,3259,,
-197,Location_Lore,8,68,3260,Ad Hoc Encampment,
-197,Location_Lore,9,72,3278,Ad Hoc Encampment,
+197,Location_Lore,8,68,3260,Ad Hoc Encampment,ค่ายพักชั่วคราว
+197,Location_Lore,9,72,3278,Ad Hoc Encampment,ค่ายพักชั่วคราว
 197,Location_Lore,10,76,3296,,
 197,Location_Lore,11,80,3297,,
 197,Location_Lore,12,84,3298,,
 197,Location_Lore,13,88,3299,,
 197,Location_Lore,14,92,3300,,
 197,Location_Lore,15,96,3301,,
-197,Location_Lore,16,100,3302,Gragwort's Grotto,
-197,Location_Lore,17,104,3320,Gragwort's Grotto,
+197,Location_Lore,16,100,3302,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
+197,Location_Lore,17,104,3320,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
 197,Location_Lore,18,108,3338,,
 197,Location_Lore,19,112,3339,,
 197,Location_Lore,20,116,3340,,
 197,Location_Lore,21,120,3341,,
 197,Location_Lore,22,124,3342,,
 197,Location_Lore,23,128,3343,,
-197,Location_Lore,24,132,3344,Harban Outlands,
-197,Location_Lore,25,136,3360,Harban Outlands,
+197,Location_Lore,24,132,3344,Harban Outlands,ชานเมืองฮาร์บา
+197,Location_Lore,25,136,3360,Harban Outlands,ชานเมืองฮาร์บา
 197,Location_Lore,26,140,3376,,
 197,Location_Lore,27,144,3377,,
 197,Location_Lore,28,148,3378,,
 197,Location_Lore,29,152,3379,,
 197,Location_Lore,30,156,3380,,
 197,Location_Lore,31,160,3381,,
-197,Location_Lore,32,164,3382,Western Pastures,
-197,Location_Lore,33,168,3399,Western Pastures,
+197,Location_Lore,32,164,3382,Western Pastures,ทุ่งหญ้าฝั่งตะวันตก
+197,Location_Lore,33,168,3399,Western Pastures,ทุ่งหญ้าฝั่งตะวันตก
 197,Location_Lore,34,172,3416,,
 197,Location_Lore,35,176,3417,,
 197,Location_Lore,36,180,3418,,
 197,Location_Lore,37,184,3419,,
 197,Location_Lore,38,188,3420,,
 197,Location_Lore,39,192,3421,,
-197,Location_Lore,40,196,3422,Dunisian Outlands,
-197,Location_Lore,41,200,3440,Dunisian Outlands,
+197,Location_Lore,40,196,3422,Dunisian Outlands,ชานเมืองดูนิเซีย
+197,Location_Lore,41,200,3440,Dunisian Outlands,ชานเมืองดูนิเซีย
 197,Location_Lore,42,204,3458,,
 197,Location_Lore,43,208,3459,,
 197,Location_Lore,44,212,3460,,
 197,Location_Lore,45,216,3461,,
 197,Location_Lore,46,220,3462,,
 197,Location_Lore,47,224,3463,,
-197,Location_Lore,48,228,3464,Desert Plateau,
-197,Location_Lore,49,232,3479,Desert Plateau,
+197,Location_Lore,48,228,3464,Desert Plateau,ที่ราบสูงทะเลทราย
+197,Location_Lore,49,232,3479,Desert Plateau,ที่ราบสูงทะเลทราย
 197,Location_Lore,50,236,3494,,
 197,Location_Lore,51,240,3495,,
 197,Location_Lore,52,244,3496,,
 197,Location_Lore,53,248,3497,,
 197,Location_Lore,54,252,3498,,
 197,Location_Lore,55,256,3499,,
-197,Location_Lore,56,260,3500,Overgrown Graveyard,
-197,Location_Lore,57,264,3520,Overgrown Graveyard,
+197,Location_Lore,56,260,3500,Overgrown Graveyard,สุสานรกร้าง
+197,Location_Lore,57,264,3520,Overgrown Graveyard,สุสานรกร้าง
 197,Location_Lore,58,268,3540,,
 197,Location_Lore,59,272,3541,,
 197,Location_Lore,60,276,3542,,
 197,Location_Lore,61,280,3543,,
 197,Location_Lore,62,284,3544,,
 197,Location_Lore,63,288,3545,,
-197,Location_Lore,64,292,3546,Ingenian Outskirts,
-197,Location_Lore,65,296,3565,Ingenian Outskirts,
+197,Location_Lore,64,292,3546,Ingenian Outskirts,ชานเมืองอินจีเนีย
+197,Location_Lore,65,296,3565,Ingenian Outskirts,ชานเมืองอินจีเนีย
 197,Location_Lore,66,300,3584,,
 197,Location_Lore,67,304,3585,,
 197,Location_Lore,68,308,3586,,
 197,Location_Lore,69,312,3587,,
 197,Location_Lore,70,316,3588,,
 197,Location_Lore,71,320,3589,,
-197,Location_Lore,72,324,3590,The Lavalands,
-197,Location_Lore,73,328,3604,The Lavalands,
+197,Location_Lore,72,324,3590,The Lavalands,แดนลาวา
+197,Location_Lore,73,328,3604,The Lavalands,แดนลาวา
 197,Location_Lore,74,332,3618,,
 197,Location_Lore,75,336,3619,,
 197,Location_Lore,76,340,3620,,
 197,Location_Lore,77,344,3621,,
 197,Location_Lore,78,348,3622,,
 197,Location_Lore,79,352,3623,,
-197,Location_Lore,80,356,3624,No Man's Land<FI> West,
-197,Location_Lore,81,360,3646,No Man's Land<FI> West,
+197,Location_Lore,80,356,3624,No Man's Land<FI> West,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันตก
+197,Location_Lore,81,360,3646,No Man's Land<FI> West,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันตก
 197,Location_Lore,82,364,3668,,
 197,Location_Lore,83,368,3669,,
 197,Location_Lore,84,372,3670,,
 197,Location_Lore,85,376,3671,,
 197,Location_Lore,86,380,3672,,
 197,Location_Lore,87,384,3673,,
-197,Location_Lore,88,388,3674,No Man's Land<FI> East,
-197,Location_Lore,89,392,3696,No Man's Land<FI> East,
+197,Location_Lore,88,388,3674,No Man's Land<FI> East,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันออก
+197,Location_Lore,89,392,3696,No Man's Land<FI> East,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันออก
 197,Location_Lore,90,396,3718,,
 197,Location_Lore,91,400,3719,,
 197,Location_Lore,92,404,3720,,
 197,Location_Lore,93,408,3721,,
 197,Location_Lore,94,412,3722,,
 197,Location_Lore,95,416,3723,,
-197,Location_Lore,96,420,3724,Redrock Road,
-197,Location_Lore,97,424,3737,Redrock Road,
+197,Location_Lore,96,420,3724,Redrock Road,ถนนหินแดง
+197,Location_Lore,97,424,3737,Redrock Road,ถนนหินแดง
 197,Location_Lore,98,428,3750,,
 197,Location_Lore,99,432,3751,,
 197,Location_Lore,100,436,3752,,
 197,Location_Lore,101,440,3753,,
 197,Location_Lore,102,444,3754,,
 197,Location_Lore,103,448,3755,,
-197,Location_Lore,104,452,3756,Redrock Ravine<FI> North,
-197,Location_Lore,105,456,3780,Redrock Ravine<FI> North,
+197,Location_Lore,104,452,3756,Redrock Ravine<FI> North,หุบผาหินแดงเรดร็อก<FI> เหนือ
+197,Location_Lore,105,456,3780,Redrock Ravine<FI> North,หุบผาหินแดงเรดร็อก<FI> เหนือ
 197,Location_Lore,106,460,3804,,
 197,Location_Lore,107,464,3805,,
 197,Location_Lore,108,468,3806,,
 197,Location_Lore,109,472,3807,,
 197,Location_Lore,110,476,3808,,
 197,Location_Lore,111,480,3809,,
-197,Location_Lore,112,484,3810,Frosty Foothill Ruins,
-197,Location_Lore,113,488,3832,Frosty Foothill Ruins,
+197,Location_Lore,112,484,3810,Frosty Foothill Ruins,ซากโบราณสถานเชิงเขาเยือกแข็ง
+197,Location_Lore,113,488,3832,Frosty Foothill Ruins,ซากโบราณสถานเชิงเขาเยือกแข็ง
 197,Location_Lore,114,492,3854,,
 197,Location_Lore,115,496,3855,,
 197,Location_Lore,116,500,3856,,
 197,Location_Lore,117,504,3857,,
 197,Location_Lore,118,508,3858,,
 197,Location_Lore,119,512,3859,,
-197,Location_Lore,120,516,3860,Mt Neverest<FI> Base,
-197,Location_Lore,121,520,3880,Mt Neverest<FI> Base,
+197,Location_Lore,120,516,3860,Mt Neverest<FI> Base,ภูเขาเนเวอเรสต์<FI> เชิงเขา
+197,Location_Lore,121,520,3880,Mt Neverest<FI> Base,ภูเขาเนเวอเรสต์<FI> เชิงเขา
 197,Location_Lore,122,524,3900,,
 197,Location_Lore,123,528,3901,,
 197,Location_Lore,124,532,3902,,
 197,Location_Lore,125,536,3903,,
 197,Location_Lore,126,540,3904,,
 197,Location_Lore,127,544,3905,,
-197,Location_Lore,128,548,3906,Outer Dunisia,
-197,Location_Lore,129,552,3920,Outer Dunisia,
+197,Location_Lore,128,548,3906,Outer Dunisia,นอกเมืองดูนิเซีย
+197,Location_Lore,129,552,3920,Outer Dunisia,นอกเมืองดูนิเซีย
 197,Location_Lore,130,556,3934,,
 197,Location_Lore,131,560,3935,,
 197,Location_Lore,132,564,3936,,
 197,Location_Lore,133,568,3937,,
 197,Location_Lore,134,572,3938,,
 197,Location_Lore,135,576,3939,,
-197,Location_Lore,136,580,3940,The Wildwood,
-197,Location_Lore,137,584,3953,The Wildwood,
+197,Location_Lore,136,580,3940,The Wildwood,ป่าดงดิบไวลด์วูด
+197,Location_Lore,137,584,3953,The Wildwood,ป่าดงดิบไวลด์วูด
 197,Location_Lore,138,588,3966,,
 197,Location_Lore,139,592,3967,,
 197,Location_Lore,140,596,3968,,
 197,Location_Lore,141,600,3969,,
 197,Location_Lore,142,604,3970,,
 197,Location_Lore,143,608,3971,,
-197,Location_Lore,144,612,3972,Harba,
-197,Location_Lore,145,616,3978,Harba,
+197,Location_Lore,144,612,3972,Harba,ฮาร์บา
+197,Location_Lore,145,616,3978,Harba,ฮาร์บา
 197,Location_Lore,146,620,3984,,
 197,Location_Lore,147,624,3985,,
 197,Location_Lore,148,628,3986,,
 197,Location_Lore,149,632,3987,,
 197,Location_Lore,150,636,3988,,
 197,Location_Lore,151,640,3989,,
-197,Location_Lore,152,644,3990,Ingenia,
-197,Location_Lore,153,648,3998,Ingenia,
+197,Location_Lore,152,644,3990,Ingenia,อินจีเนีย
+197,Location_Lore,153,648,3998,Ingenia,อินจีเนีย
 197,Location_Lore,154,652,4006,,
 197,Location_Lore,155,656,4007,,
 197,Location_Lore,156,660,4008,,
 197,Location_Lore,157,664,4009,,
 197,Location_Lore,158,668,4010,,
 197,Location_Lore,159,672,4011,,
-197,Location_Lore,160,676,4012,The Great Divide,
-197,Location_Lore,161,680,4029,The Great Divide,
+197,Location_Lore,160,676,4012,The Great Divide,เทือกเขาพรมแดนใหญ่
+197,Location_Lore,161,680,4029,The Great Divide,เทือกเขาพรมแดนใหญ่
 197,Location_Lore,162,684,4046,,
 197,Location_Lore,163,688,4047,,
 197,Location_Lore,164,692,4048,,
 197,Location_Lore,165,696,4049,,
 197,Location_Lore,166,700,4050,,
 197,Location_Lore,167,704,4051,,
-197,Location_Lore,168,708,4052,Mt Neverest,
-197,Location_Lore,169,712,4064,Mt Neverest,
+197,Location_Lore,168,708,4052,Mt Neverest,ภูเขาเนเวอเรสต์
+197,Location_Lore,169,712,4064,Mt Neverest,ภูเขาเนเวอเรสต์
 197,Location_Lore,170,716,4076,,
 197,Location_Lore,171,720,4077,,
 197,Location_Lore,172,724,4078,,
 197,Location_Lore,173,728,4079,,
 197,Location_Lore,174,732,4080,,
 197,Location_Lore,175,736,4081,,
-197,Location_Lore,176,740,4082,Accordia,
-197,Location_Lore,177,744,4091,Accordia,
+197,Location_Lore,176,740,4082,Accordia,ออร์คาเนีย
+197,Location_Lore,177,744,4091,Accordia,ออร์คาเนีย
 197,Location_Lore,178,748,4100,,
 197,Location_Lore,179,752,4101,,
 197,Location_Lore,180,756,4102,,
 197,Location_Lore,181,760,4103,,
 197,Location_Lore,182,764,4104,,
 197,Location_Lore,183,768,4105,,
-197,Location_Lore,184,772,4106,The Pinnacle of Peace,
-197,Location_Lore,185,776,4128,The Pinnacle of Peace,
+197,Location_Lore,184,772,4106,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
+197,Location_Lore,185,776,4128,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
 197,Location_Lore,186,780,4150,,
 197,Location_Lore,187,784,4151,,
 197,Location_Lore,188,788,4152,,
 197,Location_Lore,189,792,4153,,
 197,Location_Lore,190,796,4154,,
 197,Location_Lore,191,800,4155,,
-197,Location_Lore,192,804,4156,The Black Manse,
-197,Location_Lore,193,808,4172,The Black Manse,
+197,Location_Lore,192,804,4156,The Black Manse,คฤหาสน์ทมิฬ
+197,Location_Lore,193,808,4172,The Black Manse,คฤหาสน์ทมิฬ
 197,Location_Lore,194,812,4188,,
 197,Location_Lore,195,816,4189,,
 197,Location_Lore,196,820,4190,,
 197,Location_Lore,197,824,4191,,
 197,Location_Lore,198,828,4192,,
 197,Location_Lore,199,832,4193,,
-197,Location_Lore,200,836,4194,Pastures<FI> Eastern Wood,
-197,Location_Lore,201,840,4219,Pastures<FI> Eastern Wood,
+197,Location_Lore,200,836,4194,Pastures<FI> Eastern Wood,ทุ่งหญ้า<FI> ป่าตะวันออก
+197,Location_Lore,201,840,4219,Pastures<FI> Eastern Wood,ทุ่งหญ้า<FI> ป่าตะวันออก
 197,Location_Lore,202,844,4244,,
 197,Location_Lore,203,848,4245,,
 197,Location_Lore,204,852,4246,,
 197,Location_Lore,205,856,4247,,
 197,Location_Lore,206,860,4248,,
 197,Location_Lore,207,864,4249,,
-197,Location_Lore,208,868,4250,The Oasis,
-197,Location_Lore,209,872,4260,The Oasis,
+197,Location_Lore,208,868,4250,The Oasis,โอเอซิส
+197,Location_Lore,209,872,4260,The Oasis,โอเอซิส
 197,Location_Lore,210,876,4270,,
 197,Location_Lore,211,880,4271,,
 197,Location_Lore,212,884,4272,,
 197,Location_Lore,213,888,4273,,
 197,Location_Lore,214,892,4274,,
 197,Location_Lore,215,896,4275,,
-197,Location_Lore,216,900,4276,The Forest Gate,
-197,Location_Lore,217,904,4292,The Forest Gate,
+197,Location_Lore,216,900,4276,The Forest Gate,ประตูป่า
+197,Location_Lore,217,904,4292,The Forest Gate,ประตูป่า
 197,Location_Lore,218,908,4308,,
 197,Location_Lore,219,912,4309,,
 197,Location_Lore,220,916,4310,,
 197,Location_Lore,221,920,4311,,
 197,Location_Lore,222,924,4312,,
 197,Location_Lore,223,928,4313,,
-197,Location_Lore,224,932,4314,Redrock Bridge,
-197,Location_Lore,225,936,4329,Redrock Bridge,
+197,Location_Lore,224,932,4314,Redrock Bridge,สะพานหินแดง
+197,Location_Lore,225,936,4329,Redrock Bridge,สะพานหินแดง
 197,Location_Lore,226,940,4344,,
 197,Location_Lore,227,944,4345,,
 197,Location_Lore,228,948,4346,,
 197,Location_Lore,229,952,4347,,
 197,Location_Lore,230,956,4348,,
 197,Location_Lore,231,960,4349,,
-197,Location_Lore,232,964,4350,Frosty Foothills<FI> South,
-197,Location_Lore,233,968,4376,Frosty Foothills<FI> South,
+197,Location_Lore,232,964,4350,Frosty Foothills<FI> South,เชิงเขาเยือกแข็งฟรอสตี้<FI> ใต้
+197,Location_Lore,233,968,4376,Frosty Foothills<FI> South,เชิงเขาเยือกแข็งฟรอสตี้<FI> ใต้
 197,Location_Lore,234,972,4402,,
 197,Location_Lore,235,976,4403,,
 197,Location_Lore,236,980,4404,,
@@ -34291,7 +34291,7 @@
 204,Menus_UI_Settings,253,1044,28137,How would you like to enhance it<FH>,อยากเสริมพลังแบบไหนดีจ๊ะ<FH>
 204,Menus_UI_Settings,254,1048,28173,"Sorry duckie, but you don't seem to have the right bits and pieces for that. You'll need all the ingredients and enough gold coins...",ขอโทษทีนะจ๊ะคนดี แต่ดูเหมือนเธอจะไม่มีวัตถุดิบและชิ้นส่วนที่ถูกต้องสำหรับทำนะ ต้องมีทั้งวัตถุดิบและเหรียญทองให้ครบด้วยจ้ะ...
 204,Menus_UI_Settings,255,1052,28307,"You've jumped the gun a little there, I'm afraid. That accessory's not ready for that enhancement just yet.",ยายว่าเธอใจร้อนเกินไปหน่อยแล้วล่ะจ้ะ เครื่องประดับชิ้นนั้นยังไม่พร้อมสำหรับการเสริมพลังขั้นนั้นหรอกนะ
-204,Menus_UI_Settings,256,1056,28415,UNUSED,
+204,Menus_UI_Settings,256,1056,28415,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,257,1060,28422,"Well, dearie<FH> Shall we pop those ingredients in the pot and get enhancing<FH>",เอาล่ะ คนดี<FH> เรามาหย่อนวัตถุดิบลงหม้อแล้วเริ่มเสริมพลังกันเลยไหมจ๊ะ<FH>
 204,Menus_UI_Settings,258,1064,28501,There we are<FG> All done<FG>,เรียบร้อยแล้วจ้ะ<FG> เสร็จสมบูรณ์<FG>
 204,Menus_UI_Settings,259,1068,28529,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it any further...,แหม... ดูเหมือนเธอจะได้เครื่องประดับที่ต้องใช้ผงพิเศษของยาย ถ้าอยากจะเสริมพลังมันให้สูงขึ้นไปอีกล่ะนะ...
@@ -34321,13 +34321,13 @@
 204,Menus_UI_Settings,283,1164,31030,"To ask for help with a story battle, simply select the relevant option before the battle begins.",หากต้องการขอความช่วยเหลือในการต่อสู้ตามเนื้อเรื่อง เพียงเลือกตัวเลือกที่เกี่ยวข้องก่อนเริ่มการต่อสู้ค่ะ
 204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,พวกเรารอคอยที่จะได้พบคุณอีกครั้งเมื่อเปิดให้บริการอย่างเป็นทางการนะคะ<FG>
 204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",ขออภัยด้วยนะคะ เรายังจัดเตรียมสถานที่อยู่ค่ะ แต่จะเปิดให้บริการเร็ว ๆ นี้ ไว้แวะมาใหม่เมื่อเราพร้อมให้บริการนะคะ<FG>
-204,Menus_UI_Settings,286,1176,31316,UNUSED,
+204,Menus_UI_Settings,286,1176,31316,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึง 3 คนค่ะ
 204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,การเข้าสู่ดันเจี้ยนมิติจะเริ่มจากห้องที่เรียกว่า 'ล็อบบี้' คุณสามารถเข้าร่วมห้องเหล่านี้ได้สามวิธีค่ะ
 204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล' ค่ะ
 204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล' ค่ะ
 204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",และวิธีสุดท้าย หากคุณต้องการเริ่มลุยให้เร็วที่สุด ก็เพียงเลือก 'ให้เอรินน์จัดการ'แล้วฉันจะช่วยจัดเตรียมทุกอย่างให้คุณเองค่ะ<FG>
-204,Menus_UI_Settings,292,1200,31924,UNUSED,
+204,Menus_UI_Settings,292,1200,31924,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,293,1204,31931,"Okay, that's all the paperwork done<FG> Sit tight while I take you to the world between dimensions<FG>",เอาล่ะ เอกสารทุกอย่างเรียบร้อยแล้วค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะพาคุณไปยังโลกระหว่างมิติค่ะ<FG>
 204,Menus_UI_Settings,294,1208,32032,Select the part of the story you'd like to help with.,เลือกส่วนของเนื้อเรื่องที่คุณต้องการไปช่วยเหลือค่ะ
 204,Menus_UI_Settings,295,1212,32086,"I've found some adventurers looking for people like you<FG> If you want to search again, press the <P3> button.",ฉันพบเหล่านักผจญภัยที่กำลังมองหาคนอย่างคุณแล้วค่ะ<FG> หากต้องการค้นหาใหม่อีกครั้ง ให้กดปุ่ม <P3> นะคะ
@@ -34342,8 +34342,8 @@
 204,Menus_UI_Settings,304,1248,32795,"Oh, I'm sorry<MV>it looks like you're not far enough through the story to help out in that lobby.",โอ้ ขอโทษด้วยนะคะ<MV>ดูเหมือนคุณจะดำเนินเนื้อเรื่องไปไม่ไกลพอที่จะเข้าไปช่วยเหลือในล็อบบี้นั้นได้ค่ะ
 204,Menus_UI_Settings,305,1252,32892,<I0>M1 is looking for help with ‘<I0>M2’.,<I0>M1 กำลังมองหาคนช่วยใน ‘<I0>M2’ ค่ะ
 204,Menus_UI_Settings,306,1256,32936,Do you want to go to this lobby and help out<FH>,ต้องการไปที่ล็อบบี้นี้เพื่อช่วยเหลือหรือไม่คะ<FH>
-204,Menus_UI_Settings,307,1260,32984,UNUSED,
-204,Menus_UI_Settings,308,1264,32991,UNUSED,
+204,Menus_UI_Settings,307,1260,32984,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,308,1264,32991,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,309,1268,32998,"This is your first visit, isn't it<FH> Alright, we just need to do a little paperwork first<FG>",นี่เป็นการมาเยือนครั้งแรกใช่ไหมคะ<FH> เอาล่ะ เราต้องจัดการเอกสารเล็ก ๆ น้อย ๆ กันก่อนนะคะ<FG>
 204,Menus_UI_Settings,310,1272,33092,You'll need to decide what name you want to use when visiting other dimensions. Bear in mind that other people will be able to see it.,คุณต้องตัดสินใจว่าจะใช้ชื่ออะไรในการเดินทางข้ามมิติ โปรดจำไว้ว่าผู้เล่นคนอื่นจะสามารถมองเห็นชื่อนี้ได้นะคะ
 204,Menus_UI_Settings,311,1276,33227,"So that's...<I0>41... Alright, just putting that down... Lovely<FG> Thank you very much<FG>",ชื่อนั้นคือ... <I0>41... ได้เลยค่ะ ขอจดบันทึกไว้ก่อนนะคะ... เรียบร้อยค่ะ<FG> ขอบคุณมากนะคะ<FG>
@@ -34362,7 +34362,7 @@
 204,Menus_UI_Settings,324,1328,33995,"Thanks<FG> Sit tight a moment, and I'll have everything ready in a jiffy.",ขอบคุณค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะเตรียมทุกอย่างให้เสร็จในพริบตาเดียวค่ะ
 204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",<F4><I0>M1 นะคะ<FH> ได้แน่นอนค่ะ เพียงกรอกรายละเอียดอื่น ๆ ที่คุณต้องการแล้วฉันจะเริ่มดำเนินการให้ทันทีค่ะ
 204,Menus_UI_Settings,326,1336,34175,"Alright, that's everything<FG> Let's see if I can find a match for you, shall we<FH>",เอาล่ะ ครบทุกอย่างแล้วค่ะ<FG> มาดูกันนะคะว่าฉันจะค้นหาห้องที่เข้ากับคุณได้ไหม<FH>
-204,Menus_UI_Settings,327,1340,34258,UNUSED,
+204,Menus_UI_Settings,327,1340,34258,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,328,1344,34265,We've sent a request for you to join that lobby. Please wait a moment...,เราได้ส่งคำขอเข้าร่วมล็อบบี้นั้นไปแล้วค่ะ โปรดรอสักครู่...
 204,Menus_UI_Settings,329,1348,34338,"You'd like to change your online name<FH> Not to worry, I have a form for that too. Just jot a name down in the box there.",ต้องการเปลี่ยนชื่อออนไลน์งั้นเหรอคะ<FH> ไม่ต้องกังวลค่ะ ฉันมีแบบฟอร์มให้กรอกเช่นกัน เพียงเขียนชื่อลงในช่องตรงนั้นได้เลยค่ะ
 204,Menus_UI_Settings,330,1352,34460,You haven't chosen a destination yet. You'll need to choose one before you can go off adventuring.,คุณยังไม่ได้เลือกจุดหมายปลายทางเลยค่ะ ต้องเลือกก่อนจึงจะออกไปผจญภัยได้นะคะ
@@ -34764,7 +34764,7 @@
 204,Menus_UI_Settings,726,2936,63459,Would you like to make this battle even easier and attempt it again<FH>\n(This won't use up any more Victory's Secrets.),ต้องการทำให้การต่อสู้นี้ง่ายขึ้นไปอีกและลองสู้อีกครั้งหรือไม่<FH>\n(จะไม่เสียคัมภีร์ลับสู่ชัยชนะเพิ่ม)
 204,Menus_UI_Settings,727,2940,63578,Do you want to start this battle again without making it any easier<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งโดยไม่ปรับให้ง่ายขึ้นหรือไม่<FH>
 204,Menus_UI_Settings,728,2944,63649,"Oh, you want to check the recruitment criteria<FH> Remember, if you're the one looking for people, you can change the criteria as well.",อ๋อ ต้องการตรวจสอบเงื่อนไขการรับสมัครใช่ไหมคะ<FH> จำไว้นะคะว่าหากคุณเป็นคนค้นหาผู้เล่น คุณสามารถเปลี่ยนเงื่อนไขได้เช่นกันค่ะ
-204,Menus_UI_Settings,729,2948,63784,UNUSED,
+204,Menus_UI_Settings,729,2948,63784,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,730,2952,63791,"Alright, I've made the changes you asked for. Just let me know if you'd like to change anything else<FG>",เรียบร้อยค่ะ ฉันทำการเปลี่ยนแปลงตามที่คุณขอให้แล้ว หากต้องการเปลี่ยนสิ่งใดอีกบอกได้เสมอนะคะ<FG>
 204,Menus_UI_Settings,731,2956,63895,I'm ever so sorry<MV>I wasn't able to make the changes you wanted. Would you mind trying again in a little while<FH>,ต้องขออภัยจริง ๆ ค่ะ<MV>ไม่สามารถทำการเปลี่ยนแปลงตามที่คุณต้องการได้ ช่วยลองใหม่อีกครั้งในอีกสักครู่ได้ไหมคะ<FH>
 204,Menus_UI_Settings,732,2960,64010,Setting a secret number lets you make sure only other people who know that number can join you.,การตั้งหมายเลขลับจะช่วยให้มั่นใจได้ว่ามีเพียงคนที่รู้หมายเลขนี้เท่านั้นที่จะเข้าร่วมกับคุณได้ค่ะ
@@ -34785,14 +34785,14 @@
 204,Menus_UI_Settings,747,3020,65233,"Are you sure, duckie<FH> That'll mean grinding down accessories people are using...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่คนอื่นกำลังสวมอยู่นะ...
 204,Menus_UI_Settings,748,3024,65316,"Grinding <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 down will get you <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02. Does that sound good to you, duckie<FH>",การบดสลาย <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 จะได้ <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02 ฟังดูดีไหมจ๊ะคนดี<FH>
 204,Menus_UI_Settings,749,3028,65445,"Are you sure, duckie<FH> That'll mean grinding down accessories you're using for other vocations...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่เธอใช้กับอาชีพอื่นอยู่นะ...
-204,Menus_UI_Settings,750,3032,65544,UNUSED,
-204,Menus_UI_Settings,751,3036,65551,UNUSED,
+204,Menus_UI_Settings,750,3032,65544,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,751,3036,65551,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,752,3040,65558,Attempt this battle again with your current party<FH>,ต้องการลองสู้ในการศึกนี้ใหม่อีกครั้งพร้อมกับปาร์ตี้ปัจจุบันหรือไม่<FH>
 204,Menus_UI_Settings,753,3044,65611,Please wait until all party members have responded.,โปรดรอจนกว่าสมาชิกปาร์ตี้ทุกคนจะตอบกลับ
 204,Menus_UI_Settings,754,3048,65663,Everyone's ready. Setting off again...,ทุกคนพร้อมแล้ว กำลังออกเดินทางอีกครั้ง...
 204,Menus_UI_Settings,755,3052,65702,You declined the interdimensional adventure.,คุณปฏิเสธการผจญภัยข้ามมิติแล้ว
 204,Menus_UI_Settings,756,3056,65747,"Someone has dropped out, so unfortunately you won't be able to try this one again.",มีสมาชิกคนหนึ่งถอนตัวออกไป น่าเสียดายที่คุณจะไม่สามารถลองสู้อีกครั้งได้ค่ะ
-204,Menus_UI_Settings,757,3060,65830,UNUSED,
+204,Menus_UI_Settings,757,3060,65830,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,758,3064,65837,You cannot access competitive mode alone.,คุณไม่สามารถเข้าสู่โหมดแข่งขันเพียงลำพังได้
 204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
 204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
@@ -34812,29 +34812,29 @@
 204,Menus_UI_Settings,774,3128,66617,,
 204,Menus_UI_Settings,775,3132,66618,,
 204,Menus_UI_Settings,776,3136,66619,,
-204,Menus_UI_Settings,777,3140,66620,未使用,
-204,Menus_UI_Settings,778,3144,66630,未使用,
-204,Menus_UI_Settings,779,3148,66640,未使用,
-204,Menus_UI_Settings,780,3152,66650,未使用,
-204,Menus_UI_Settings,781,3156,66660,未使用,
-204,Menus_UI_Settings,782,3160,66670,未使用,
-204,Menus_UI_Settings,783,3164,66680,未使用,
-204,Menus_UI_Settings,784,3168,66690,未使用,
-204,Menus_UI_Settings,785,3172,66700,未使用,
-204,Menus_UI_Settings,786,3176,66710,未使用,
-204,Menus_UI_Settings,787,3180,66720,未使用,
-204,Menus_UI_Settings,788,3184,66730,未使用,
-204,Menus_UI_Settings,789,3188,66740,未使用,
-204,Menus_UI_Settings,790,3192,66750,未使用,
-204,Menus_UI_Settings,791,3196,66760,未使用,
-204,Menus_UI_Settings,792,3200,66770,未使用,
-204,Menus_UI_Settings,793,3204,66780,未使用,
-204,Menus_UI_Settings,794,3208,66790,未使用,
-204,Menus_UI_Settings,795,3212,66800,未使用,
-204,Menus_UI_Settings,796,3216,66810,未使用,
-204,Menus_UI_Settings,797,3220,66820,未使用,
-204,Menus_UI_Settings,798,3224,66830,未使用,
-204,Menus_UI_Settings,799,3228,66840,未使用,
+204,Menus_UI_Settings,777,3140,66620,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,778,3144,66630,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,779,3148,66640,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,780,3152,66650,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,781,3156,66660,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,782,3160,66670,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,783,3164,66680,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,784,3168,66690,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,785,3172,66700,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,786,3176,66710,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,787,3180,66720,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,788,3184,66730,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,789,3188,66740,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,790,3192,66750,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,791,3196,66760,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,792,3200,66770,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,793,3204,66780,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,794,3208,66790,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,795,3212,66800,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,796,3216,66810,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,797,3220,66820,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,798,3224,66830,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,799,3228,66840,未使用,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,800,3232,66850,Lv.,Lv.
 204,Menus_UI_Settings,801,3236,66854,<FI>,<FI>
 204,Menus_UI_Settings,802,3240,66858,/,/
@@ -34844,16 +34844,16 @@
 204,Menus_UI_Settings,806,3256,66883,,
 204,Menus_UI_Settings,807,3260,66884,No. Owned,จำนวนที่มี
 204,Menus_UI_Settings,808,3264,66894,,
-204,Menus_UI_Settings,809,3268,66895,UNUSED,
-204,Menus_UI_Settings,810,3272,66902,UNUSED,
+204,Menus_UI_Settings,809,3268,66895,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,810,3272,66902,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,811,3276,66909,Buy,ซื้อ
 204,Menus_UI_Settings,812,3280,66913,Sell,ขาย
 204,Menus_UI_Settings,813,3284,66918,How many<FH>,จำนวนกี่ชิ้น<FH>
 204,Menus_UI_Settings,814,3288,66930,Total,ราคารวม
 204,Menus_UI_Settings,815,3292,66936,Remaining,คงเหลือ
 204,Menus_UI_Settings,816,3296,66946,Shards,เศษอาวุธ
-204,Menus_UI_Settings,817,3300,66953,UNUSED,
-204,Menus_UI_Settings,818,3304,66960,UNUSED,
+204,Menus_UI_Settings,817,3300,66953,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,818,3304,66960,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,819,3308,66967,Weapons,อาวุธ
 204,Menus_UI_Settings,820,3312,66975,Orbs,ลูกแก้ว
 204,Menus_UI_Settings,821,3316,66980,Accessories,เครื่องประดับ
@@ -34863,7 +34863,7 @@
 204,Menus_UI_Settings,825,3332,67016,<FH>,<FH>
 204,Menus_UI_Settings,826,3336,67020,<FH><FH><FH>,<FH><FH><FH>
 204,Menus_UI_Settings,827,3340,67030,Cannot Sell,ขายไม่ได้
-204,Menus_UI_Settings,828,3344,67042,UNUSED,
+204,Menus_UI_Settings,828,3344,67042,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,829,3348,67049,Members<FI> <GR>1,สมาชิก<FI> <GR>1
 204,Menus_UI_Settings,830,3352,67065,(,(
 204,Menus_UI_Settings,831,3356,67067,),)
@@ -34957,10 +34957,10 @@
 204,Menus_UI_Settings,919,3708,67856,,
 204,Menus_UI_Settings,920,3712,67857,-,-
 204,Menus_UI_Settings,921,3716,67859,Multiplayer Version,เวอร์ชันมัลติเพลเยอร์
-204,Menus_UI_Settings,922,3720,67879,NOT USED,
+204,Menus_UI_Settings,922,3720,67879,NOT USED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,923,3724,67888,Searching for players...,กำลังค้นหาผู้เล่น...
 204,Menus_UI_Settings,924,3728,67913,<P2> Search (All Players),<P2> ค้นหา (ผู้เล่นทุกคน)
-204,Menus_UI_Settings,925,3732,67938,NOT USED,
+204,Menus_UI_Settings,925,3732,67938,NOT USED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,926,3736,67947,Searching using secret number <GR>1...,กำลังค้นหาด้วยหมายเลขลับ <GR>1...
 204,Menus_UI_Settings,927,3740,67985,<P2> Search (Secret Number),<P2> ค้นหา (หมายเลขลับ)
 204,Menus_UI_Settings,928,3744,68012,Rank <GR>1,แรงก์ <GR>1
@@ -34969,72 +34969,72 @@
 204,Menus_UI_Settings,931,3756,68046,Competitive,แข่งขันกัน
 204,Menus_UI_Settings,932,3760,68058,Rank,แรงก์
 204,Menus_UI_Settings,933,3764,68063,To Next Rank,สู่แรงก์ถัดไป
-204,Menus_UI_Settings,934,3768,68076,未使用,
-204,Menus_UI_Settings,935,3772,68086,未使用,
-204,Menus_UI_Settings,936,3776,68096,未使用,
-204,Menus_UI_Settings,937,3780,68106,未使用,
-204,Menus_UI_Settings,938,3784,68116,未使用,
-204,Menus_UI_Settings,939,3788,68126,未使用,
-204,Menus_UI_Settings,940,3792,68136,未使用,
-204,Menus_UI_Settings,941,3796,68146,未使用,
-204,Menus_UI_Settings,942,3800,68156,未使用,
-204,Menus_UI_Settings,943,3804,68166,未使用,
-204,Menus_UI_Settings,944,3808,68176,未使用,
-204,Menus_UI_Settings,945,3812,68186,未使用,
-204,Menus_UI_Settings,946,3816,68196,未使用,
-204,Menus_UI_Settings,947,3820,68206,未使用,
-204,Menus_UI_Settings,948,3824,68216,未使用,
-204,Menus_UI_Settings,949,3828,68226,未使用,
-204,Menus_UI_Settings,950,3832,68236,未使用,
-204,Menus_UI_Settings,951,3836,68246,未使用,
-204,Menus_UI_Settings,952,3840,68256,未使用,
-204,Menus_UI_Settings,953,3844,68266,未使用,
-204,Menus_UI_Settings,954,3848,68276,未使用,
-204,Menus_UI_Settings,955,3852,68286,未使用,
-204,Menus_UI_Settings,956,3856,68296,未使用,
-204,Menus_UI_Settings,957,3860,68306,未使用,
-204,Menus_UI_Settings,958,3864,68316,未使用,
-204,Menus_UI_Settings,959,3868,68326,未使用,
-204,Menus_UI_Settings,960,3872,68336,未使用,
-204,Menus_UI_Settings,961,3876,68346,未使用,
-204,Menus_UI_Settings,962,3880,68356,未使用,
-204,Menus_UI_Settings,963,3884,68366,未使用,
-204,Menus_UI_Settings,964,3888,68376,未使用,
-204,Menus_UI_Settings,965,3892,68386,未使用,
-204,Menus_UI_Settings,966,3896,68396,未使用,
-204,Menus_UI_Settings,967,3900,68406,未使用,
-204,Menus_UI_Settings,968,3904,68416,未使用,
-204,Menus_UI_Settings,969,3908,68426,未使用,
-204,Menus_UI_Settings,970,3912,68436,未使用,
-204,Menus_UI_Settings,971,3916,68446,未使用,
-204,Menus_UI_Settings,972,3920,68456,未使用,
-204,Menus_UI_Settings,973,3924,68466,未使用,
-204,Menus_UI_Settings,974,3928,68476,未使用,
-204,Menus_UI_Settings,975,3932,68486,未使用,
-204,Menus_UI_Settings,976,3936,68496,未使用,
-204,Menus_UI_Settings,977,3940,68506,未使用,
-204,Menus_UI_Settings,978,3944,68516,未使用,
-204,Menus_UI_Settings,979,3948,68526,未使用,
-204,Menus_UI_Settings,980,3952,68536,未使用,
-204,Menus_UI_Settings,981,3956,68546,未使用,
-204,Menus_UI_Settings,982,3960,68556,未使用,
-204,Menus_UI_Settings,983,3964,68566,未使用,
-204,Menus_UI_Settings,984,3968,68576,未使用,
-204,Menus_UI_Settings,985,3972,68586,未使用,
-204,Menus_UI_Settings,986,3976,68596,未使用,
-204,Menus_UI_Settings,987,3980,68606,未使用,
-204,Menus_UI_Settings,988,3984,68616,未使用,
-204,Menus_UI_Settings,989,3988,68626,未使用,
-204,Menus_UI_Settings,990,3992,68636,未使用,
-204,Menus_UI_Settings,991,3996,68646,未使用,
-204,Menus_UI_Settings,992,4000,68656,未使用,
-204,Menus_UI_Settings,993,4004,68666,未使用,
-204,Menus_UI_Settings,994,4008,68676,未使用,
-204,Menus_UI_Settings,995,4012,68686,未使用,
-204,Menus_UI_Settings,996,4016,68696,未使用,
-204,Menus_UI_Settings,997,4020,68706,未使用,
-204,Menus_UI_Settings,998,4024,68716,未使用,
-204,Menus_UI_Settings,999,4028,68726,未使用,
+204,Menus_UI_Settings,934,3768,68076,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,935,3772,68086,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,936,3776,68096,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,937,3780,68106,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,938,3784,68116,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,939,3788,68126,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,940,3792,68136,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,941,3796,68146,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,942,3800,68156,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,943,3804,68166,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,944,3808,68176,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,945,3812,68186,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,946,3816,68196,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,947,3820,68206,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,948,3824,68216,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,949,3828,68226,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,950,3832,68236,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,951,3836,68246,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,952,3840,68256,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,953,3844,68266,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,954,3848,68276,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,955,3852,68286,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,956,3856,68296,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,957,3860,68306,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,958,3864,68316,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,959,3868,68326,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,960,3872,68336,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,961,3876,68346,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,962,3880,68356,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,963,3884,68366,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,964,3888,68376,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,965,3892,68386,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,966,3896,68396,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,967,3900,68406,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,968,3904,68416,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,969,3908,68426,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,970,3912,68436,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,971,3916,68446,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,972,3920,68456,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,973,3924,68466,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,974,3928,68476,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,975,3932,68486,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,976,3936,68496,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,977,3940,68506,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,978,3944,68516,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,979,3948,68526,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,980,3952,68536,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,981,3956,68546,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,982,3960,68556,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,983,3964,68566,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,984,3968,68576,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,985,3972,68586,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,986,3976,68596,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,987,3980,68606,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,988,3984,68616,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,989,3988,68626,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,990,3992,68636,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,991,3996,68646,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,992,4000,68656,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,993,4004,68666,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,994,4008,68676,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,995,4012,68686,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,996,4016,68696,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,997,4020,68706,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,998,4024,68716,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,999,4028,68726,未使用,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1000,4032,68736,Venture Forth,ออกเดินทาง
 204,Menus_UI_Settings,1001,4036,68750,Create Adventure Log,สร้างบันทึกการเดินทาง
 204,Menus_UI_Settings,1002,4040,68771,Delete Adventure Log,ลบบันทึกการเดินทาง
@@ -35042,7 +35042,7 @@
 204,Menus_UI_Settings,1004,4048,68806,Play Time,เวลาเล่น
 204,Menus_UI_Settings,1005,4052,68816,Recorded,บันทึกเมื่อ
 204,Menus_UI_Settings,1006,4056,68825,To Do,สิ่งที่ต้องทำ
-204,Menus_UI_Settings,1007,4060,68831,Unused,
+204,Menus_UI_Settings,1007,4060,68831,Unused,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1008,4064,68838,A hot-headed young knight-in-training who'll stop at nothing to do what's right.,อัศวินฝึกหัดหนุ่มเลือดร้อน ผู้ไม่ยอมให้อะไรมาหยุดยั้งความถูกต้อง
 204,Menus_UI_Settings,1009,4068,68919,"A cool, collected young knight-in-training who leads with natural wit and talent.",อัศวินฝึกหัดสาวผู้สุขุมเยือกเย็น ผู้นำทางด้วยไหวพริบและพรสวรรค์ตามธรรมชาติ
 204,Menus_UI_Settings,1010,4072,69001,Please choose a name for your hero.,โปรดเลือกชื่อสำหรับผู้กล้าของคุณ
@@ -35177,25 +35177,25 @@
 204,Menus_UI_Settings,1139,4588,70980,Autosave,บันทึกอัตโนมัติ
 204,Menus_UI_Settings,1140,4592,70989,Online Features,ฟีเจอร์ออนไลน์
 204,Menus_UI_Settings,1141,4596,71005,Control Type,รูปแบบการควบคุม
-204,Menus_UI_Settings,1142,4600,71018,UNUSED,
+204,Menus_UI_Settings,1142,4600,71018,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1143,4604,71025,<PC>/<PE> Function,ฟังก์ชัน <PC>/<PE>
-204,Menus_UI_Settings,1144,4608,71042,UNUSED,
+204,Menus_UI_Settings,1144,4608,71042,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1145,4612,71049,Vibration Function,ระบบสั่น
 204,Menus_UI_Settings,1146,4616,71068,Coup de Grâce Cutscenes,คัตซีนท่าไม้ตายปิดฉาก
 204,Menus_UI_Settings,1147,4620,71093,Damage Display,แสดงตัวเลขความเสียหาย
 204,Menus_UI_Settings,1148,4624,71108,Show Control Guide,แสดงคำแนะนำการควบคุม
 204,Menus_UI_Settings,1149,4628,71127,Restore Defaults,คืนค่าเริ่มต้น
-204,Menus_UI_Settings,1150,4632,71144,UNUSED,
-204,Menus_UI_Settings,1151,4636,71151,UNUSED,
-204,Menus_UI_Settings,1152,4640,71158,UNUSED,
+204,Menus_UI_Settings,1150,4632,71144,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1151,4636,71151,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1152,4640,71158,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1153,4644,71165,Standard,มาตรฐาน
 204,Menus_UI_Settings,1154,4648,71174,Inverted,กลับทิศทาง
 204,Menus_UI_Settings,1155,4652,71183,"If enabled, your progress will be automatically recorded to the autosave adventure log.",หากเปิดใช้งาน ความก้าวหน้าของคุณจะถูกบันทึกลงในช่องบันทึกอัตโนมัติอย่างสม่ำเสมอ
 204,Menus_UI_Settings,1156,4656,71271,"If enabled, the game will check for news and events.",หากเปิดใช้งาน เกมจะตรวจสอบข่าวสารและกิจกรรมพิเศษ
 204,Menus_UI_Settings,1157,4660,71324,Sets the type of controls to use.,กำหนดรูปแบบการควบคุมที่ต้องการใช้งาน
 204,Menus_UI_Settings,1158,4664,71358,Switches the buttons used to activate skills and evade enemy attacks.,สลับปุ่มที่ใช้สำหรับเปิดใช้สกิลและหลบหลีกการโจมตีของศัตรู
-204,Menus_UI_Settings,1159,4668,71428,UNUSED,
-204,Menus_UI_Settings,1160,4672,71435,UNUSED,
+204,Menus_UI_Settings,1159,4668,71428,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1160,4672,71435,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1161,4676,71442,"If enabled, the wireless controller's vibration function will be activated.",หากเปิดใช้งาน ระบบสั่นของคอนโทรลเลอร์จะทำงาน
 204,Menus_UI_Settings,1162,4680,71518,"If enabled, cutscenes will play for every coup de grâce performed.",หากเปิดใช้งาน คัตซีนจะเล่นทุกครั้งเมื่อใช้ท่าไม้ตายปิดฉาก (Coup de Grâce)
 204,Menus_UI_Settings,1163,4684,71586,"If enabled, the amount of damage inflicted by each attack will be displayed.",หากเปิดใช้งาน ตัวเลขความเสียหายของการโจมตีแต่ละครั้งจะแสดงบนจอ
@@ -35319,11 +35319,11 @@
 204,Menus_UI_Settings,1281,5156,74932,Cancel Multiplayer Registration,ยกเลิกการลงทะเบียนมัลติเพลเยอร์
 204,Menus_UI_Settings,1282,5160,74964,None Set,ไม่ได้ตั้งค่า
 204,Menus_UI_Settings,1283,5164,74973,Sent bothersome baddies to bedevil everyone<FG>,ส่งสัตว์ประหลาดก่อกวนไปป่วนทุกคนแล้ว<FG>
-204,Menus_UI_Settings,1284,5168,75020,UNUSED,
+204,Menus_UI_Settings,1284,5168,75020,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1285,5172,75027,Wiped out<FG>,พ่ายแพ้ราบคาบ<FG>
 204,Menus_UI_Settings,1286,5176,75040,Story Section,บทเนื้อเรื่อง
-204,Menus_UI_Settings,1287,5180,75054,UNUSED,
-204,Menus_UI_Settings,1288,5184,75061,UNUSED,
+204,Menus_UI_Settings,1287,5180,75054,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1288,5184,75061,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1289,5188,75068,Help Out,ไปช่วยเหลือ
 204,Menus_UI_Settings,1290,5192,75077,Withdraw,ถอนตัว
 204,Menus_UI_Settings,1291,5196,75086,All Completed Battles,การต่อสู้ที่เคลียร์แล้วทั้งหมด
@@ -35363,7 +35363,7 @@
 204,Menus_UI_Settings,1325,5332,76285,Blocked a critical hit<FG>,ป้องกันการโจมตีติดคริติคอลได้<FG>
 204,Menus_UI_Settings,1326,5336,76311,Ailments curtailed<FG>,อาการผิดปกติถูกระงับ<FG>
 204,Menus_UI_Settings,1327,5340,76333,You cannot use spells and abilities here<FG>,คุณไม่สามารถใช้คาถาและความสามารถที่นี่ได้<FG>
-204,Menus_UI_Settings,1328,5344,76377,UNUSED,
+204,Menus_UI_Settings,1328,5344,76377,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1329,5348,76384,Skill Points Earned,แต้มสกิลที่ได้รับ
 204,Menus_UI_Settings,1330,5352,76404,Total,รวม
 204,Menus_UI_Settings,1331,5356,76410,Battle Results,ผลลัพธ์การต่อสู้
@@ -35417,7 +35417,7 @@
 204,Menus_UI_Settings,1379,5548,78165,Comment 1,ความคิดเห็น 1
 204,Menus_UI_Settings,1380,5552,78175,Comment 2,ความคิดเห็น 2
 204,Menus_UI_Settings,1381,5556,78185,Comment 3,ความคิดเห็น 3
-204,Menus_UI_Settings,1382,5560,78195,UNUSED,
+204,Menus_UI_Settings,1382,5560,78195,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1383,5564,78202,Any,ใดก็ได้
 204,Menus_UI_Settings,1384,5568,78206,Search Results,ผลการค้นหา
 204,Menus_UI_Settings,1385,5572,78221,Town,เมือง
@@ -35426,7 +35426,7 @@
 204,Menus_UI_Settings,1388,5584,78258,Cancel Kazapple,ยกเลิกมินาดีน
 204,Menus_UI_Settings,1389,5588,78274,Join Kazapple,ร่วมร่ายมินาดีน
 204,Menus_UI_Settings,1390,5592,78288,Cast Kazapple<FG>,ร่ายมินาดีนสำเร็จ<FG>
-204,Menus_UI_Settings,1391,5596,78305,UNUSED,
+204,Menus_UI_Settings,1391,5596,78305,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1392,5600,78312,Not everyone's ready yet<FG>,ทุกคนยังไม่พร้อมนะ<FG>
 204,Menus_UI_Settings,1393,5604,78340,Your tension isn't high enough yet<FG>,พลังเทนชันของคุณยังไม่สูงพอ<FG>
 204,Menus_UI_Settings,1394,5608,78378,Your teammates don't have enough tension<FG>,เพื่อนร่วมทีมของคุณมีพลังเทนชันไม่พอ<FG>
@@ -35445,8 +35445,8 @@
 204,Menus_UI_Settings,1407,5660,78732,Sell Accessories,ขายเครื่องประดับ
 204,Menus_UI_Settings,1408,5664,78749,Sale Value,ราคาขาย
 204,Menus_UI_Settings,1409,5668,78760,Go to a Dungeon (Competitive),ไปดันเจี้ยน (โหมดแข่งขัน)
-204,Menus_UI_Settings,1410,5672,78790,UNUSED,
-204,Menus_UI_Settings,1411,5676,78797,UNUSED,
+204,Menus_UI_Settings,1410,5672,78790,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1411,5676,78797,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1412,5680,78804,1st,อันดับ 1
 204,Menus_UI_Settings,1413,5684,78808,2nd,อันดับ 2
 204,Menus_UI_Settings,1414,5688,78812,3rd,อันดับ 3
@@ -35535,8 +35535,8 @@
 204,Menus_UI_Settings,1497,6020,79329,,
 204,Menus_UI_Settings,1498,6024,79330,,
 204,Menus_UI_Settings,1499,6028,79331,,
-204,Menus_UI_Settings,1500,6032,79332,UNUSED,
-204,Menus_UI_Settings,1501,6036,79339,UNUSED,
+204,Menus_UI_Settings,1500,6032,79332,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1501,6036,79339,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1502,6040,79346,<P2> Reset,<P2> รีเซ็ต
 204,Menus_UI_Settings,1503,6044,79356,<PK> Rotate,<PK> หมุนมุมกล้อง
 204,Menus_UI_Settings,1504,6048,79367,<PB><PC> Zoom Out/In,<PB><PC> ซูมเข้า/ออก
@@ -35550,7 +35550,7 @@
 204,Menus_UI_Settings,1512,6080,79504,<P2> By Type,<P2> ตามประเภท
 204,Menus_UI_Settings,1513,6084,79516,<P3> Change,<P3> เปลี่ยน
 204,Menus_UI_Settings,1514,6088,79527,<P2> By Cost,<P2> ตามแต้มที่ใช้
-204,Menus_UI_Settings,1515,6092,79539,UNUSED,
+204,Menus_UI_Settings,1515,6092,79539,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1516,6096,79546,<PL> Toggle,<PL> สลับ
 204,Menus_UI_Settings,1517,6100,79557,<P3> Disable All,<P3> ปิดใช้งานทั้งหมด
 204,Menus_UI_Settings,1518,6104,79573,<P3> Change Vocation,<P3> เปลี่ยนอาชีพ
@@ -35566,7 +35566,7 @@
 204,Menus_UI_Settings,1528,6144,79705,<P3> Attack 1,<P3> โจมตี 1
 204,Menus_UI_Settings,1529,6148,79718,<P2> Attack 2,<P2> โจมตี 2
 204,Menus_UI_Settings,1530,6152,79731,<PQ> Run,<PQ> วิ่ง
-204,Menus_UI_Settings,1531,6156,79739,UNUSED,
+204,Menus_UI_Settings,1531,6156,79739,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1532,6160,79746,<PB><PC> Switch,<PB><PC> สลับ
 204,Menus_UI_Settings,1533,6164,79760,<P3> Search Again,<P3> ค้นหาใหม่
 204,Menus_UI_Settings,1534,6168,79777,<PC>,<PC>
@@ -35600,17 +35600,17 @@
 204,Menus_UI_Settings,1562,6280,80087,<PB> Defend,<PB> ป้องกัน
 204,Menus_UI_Settings,1563,6284,80098,<PL> Invite,<PL> เชิญ
 204,Menus_UI_Settings,1564,6288,80109,<PL> Cancel Invitation,<PL> ยกเลิกคำเชิญ
-204,Menus_UI_Settings,1565,6292,80131,UNUSED,
-204,Menus_UI_Settings,1566,6296,80138,UNUSED,
-204,Menus_UI_Settings,1567,6300,80145,UNUSED,
-204,Menus_UI_Settings,1568,6304,80152,UNUSED,
-204,Menus_UI_Settings,1569,6308,80159,UNUSED,
-204,Menus_UI_Settings,1570,6312,80166,UNUSED,
-204,Menus_UI_Settings,1571,6316,80173,UNUSED,
-204,Menus_UI_Settings,1572,6320,80180,UNUSED,
+204,Menus_UI_Settings,1565,6292,80131,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1566,6296,80138,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1567,6300,80145,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1568,6304,80152,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1569,6308,80159,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1570,6312,80166,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1571,6316,80173,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1572,6320,80180,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1573,6324,80187,<P0> Heal,<P0> ฟื้นพลัง
-204,Menus_UI_Settings,1574,6328,80196,UNUSED,
-204,Menus_UI_Settings,1575,6332,80203,UNUSED,
+204,Menus_UI_Settings,1574,6328,80196,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1575,6332,80203,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1576,6336,80210,<P2> By Last Used,<P2> ตามที่ใช้ล่าสุด
 204,Menus_UI_Settings,1577,6340,80227,<P3> Select,<P3> เลือก
 204,Menus_UI_Settings,1578,6344,80238,<P2> Use Previous Party,<P2> ใช้ปาร์ตี้ก่อนหน้า
@@ -37959,12 +37959,12 @@
 218,Dungeon_Prompts,16,96,1818,<F4><I6>41 has drawn to a halt<FG>,<F4><I6>41 หยุดชะงักลงแล้ว<FG>
 218,Dungeon_Prompts,17,100,1850,Defeat <I6>51<FG>,จงปราบ <I6>51<FG>
 218,Dungeon_Prompts,18,104,1866,A teleportal has appeared<FG>,ประตูเทเลพอร์ทัลปรากฏขึ้นแล้ว<FG>
-218,Dungeon_Prompts,19,108,1895,Unused,
+218,Dungeon_Prompts,19,108,1895,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,20,112,1902,Oh no<FG> Somebody's being attacked by monsters<FG>,แย่แล้ว<FG> มีคนกำลังถูกพวกมอนสเตอร์โจมตี<FG>
 218,Dungeon_Prompts,21,116,1952,There's a formidable-looking monster nearby<FG>,มีมอนสเตอร์หน้าตาร้ายกาจอยู่ใกล้ ๆ แถวนี้<FG>
 218,Dungeon_Prompts,22,120,1999,Oh no<FG> The monsters have blocked the path<FG>,แย่แล้ว<FG> พวกมอนสเตอร์ได้ปิดกั้นเส้นทางไว้<FG>
 218,Dungeon_Prompts,23,124,2046,A horde of monsters has appeared<FG>,กองทัพมอนสเตอร์ปรากฏตัวขึ้นแล้ว<FG>
-218,Dungeon_Prompts,24,128,2082,Unused,
+218,Dungeon_Prompts,24,128,2082,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,25,132,2089,Three minutes left<FG>,เหลือเวลาอีก 3 นาที<FG>
 218,Dungeon_Prompts,26,136,2111,Two minutes left<FG>,เหลือเวลาอีก 2 นาที<FG>
 218,Dungeon_Prompts,27,140,2131,One minute left<FG>,เหลือเวลาอีก 1 นาที<FG>
@@ -37990,14 +37990,14 @@
 218,Dungeon_Prompts,47,220,2887,The enemy is fleeing<FG>,ศัตรูกำลังหลบหนี<FG>
 218,Dungeon_Prompts,48,224,2911,Make mincemeat of the monsters<FG>,จงบดขยี้พวกมอนสเตอร์ให้แหลกคามือ<FG>
 218,Dungeon_Prompts,49,228,2945,Some <I1>51 have appeared out of nowhere<FG>,มี <I1>51 โผล่พรวดพราดออกมาจากไหนก็ไม่รู้<FG>
-218,Dungeon_Prompts,50,232,2988,Unused,
-218,Dungeon_Prompts,51,236,2995,Unused,
+218,Dungeon_Prompts,50,232,2988,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,51,236,2995,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,52,240,3002,The enemy forces are advancing<FG>,กองทัพศัตรูกำลังรุกคืบเข้ามา<FG>
 218,Dungeon_Prompts,53,244,3036,The Harban forces are advancing<FG>,กองทัพฮาร์บากำลังรุกคืบ<FG>
 218,Dungeon_Prompts,54,248,3071,The Ingenian forces are advancing<FG>,กองทัพอินจีเนียกำลังรุกคืบ<FG>
 218,Dungeon_Prompts,55,252,3108,The Dunisian forces are advancing<FG>,กองทัพแจวาลกำลังรุกคืบ<FG>
-218,Dungeon_Prompts,56,256,3145,Unused,
-218,Dungeon_Prompts,57,260,3152,Unused,
+218,Dungeon_Prompts,56,256,3145,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,57,260,3152,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,58,264,3159,The Klorish forces are beginning to flee<FG>,กองทัพคลอร์เริ่มแตกทัพหลบหนีแล้ว<FG>
 218,Dungeon_Prompts,59,268,3203,A barrier guardian has appeared<FG>,ผู้พิทักษ์ม่านบาเรียปรากฏตัวแล้ว<FG>
 218,Dungeon_Prompts,60,272,3238,<F4><I6>51 has called for reinforcements<FG>,<F4><I6>51 ได้เรียกกำลังเสริมออกมาแล้ว<FG>
@@ -38007,13 +38007,13 @@
 218,Dungeon_Prompts,64,288,3385,The lake has frozen solid<FG>,ทะเลสาบกลายเป็นน้ำแข็งแข็งตัวแล้ว<FG>
 218,Dungeon_Prompts,65,292,3414,Look out<FG> The powie yowies are rolling snowballs at you<FG>,ระวัง<FG> พวกพาววี่เยาวี่กำลังกลิ้งลูกบอลหิมะใส่คุณ<FG>
 218,Dungeon_Prompts,66,296,3475,Clear all the monsters out of the castle<FG>,จงกำจัดมอนสเตอร์ทั้งหมดออกจากปราสาท<FG>
-218,Dungeon_Prompts,67,300,3519,Unused,
+218,Dungeon_Prompts,67,300,3519,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,68,304,3526,Defeat the escapees<FG>,จงปราบพวกที่หลบหนี<FG>
 218,Dungeon_Prompts,69,308,3549,The forces led by <I6>41 are on the move<FG>,กองทัพที่นำโดย <I6>41 กำลังเคลื่อนพลแล้ว<FG>
 218,Dungeon_Prompts,70,312,3592,Dhuran is making a beeline for the Queen of Ingenia<FG>,ดูรันกำลังมุ่งตรงไปหาองค์ราชินีแห่งอินจีเนีย<FG>
 218,Dungeon_Prompts,71,316,3647,Keep <I6>51 at bay<FG>,จงสกัดกั้น <I6>51 ไว้ให้ได้<FG>
 218,Dungeon_Prompts,72,320,3668,Majors Domo and Arcana have been defeated by Dhuran<FG>,เมเจอร์โดโมและเมเจอร์อาร์คานาพ่ายแพ้ให้กับดูรันแล้ว<FG>
-218,Dungeon_Prompts,73,324,3723,Unused,
+218,Dungeon_Prompts,73,324,3723,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,74,328,3730,What luck<FG> <F4><I6>51 dropped the key<FG>,โชคดีจริง ๆ<FG> <F4><I6>51 ดรอปกุญแจออกมาแล้ว<FG>
 218,Dungeon_Prompts,75,332,3771,<F4><I6>51 is defeated<FG>,<F4><I6>51 พ่ายแพ้แล้ว<FG>
 218,Dungeon_Prompts,76,336,3795,But none appear...,แต่ไม่มีอะไรปรากฏขึ้นมา...
@@ -38050,7 +38050,7 @@
 218,Dungeon_Prompts,107,460,5093,Defeat the glade invader's cronies<FG>,จงปราบสมุนของผู้บุกรุกป่าดงพงไพร<FG>
 218,Dungeon_Prompts,108,464,5131,The glade invader has called for reinforcements<FG>,ผู้บุกรุกป่าดงพงไพรได้เรียกกำลังเสริมออกมาแล้ว<FG>
 218,Dungeon_Prompts,109,468,5182,The monsters are beginning to flee<FG>,พวกมอนสเตอร์เริ่มแตกทัพหลบหนีแล้ว<FG>
-218,Dungeon_Prompts,110,472,5220,Unused,
+218,Dungeon_Prompts,110,472,5220,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,111,476,5227,Fill your monster medal holder before the time runs out<FG>,สะสมเหรียญมอนสเตอร์ให้เต็มช่องเก็บก่อนเวลาจะหมดลง<FG>
 218,Dungeon_Prompts,112,480,5286,<F4><I6>51's blood is boiling<FG>,เลือดของ <F4><I6>51 กำลังเดือดพล่าน<FG>
 218,Dungeon_Prompts,113,484,5317,Protect <I6>51 until the time runs out<FG>,จงคุ้มกัน <I6>51 จนกว่าเวลาจะหมดลง<FG>
@@ -38142,15 +38142,15 @@
 218,Dungeon_Prompts,199,828,9388,The love-struck youth opens the doors<FG>,ชายหนุ่มผู้ตกหลุมรักเปิดประตูแล้ว<FG>
 218,Dungeon_Prompts,200,832,9429,Follow the love-struck youth<FG>,จงติดตามชายหนุ่มผู้ตกหลุมรักไป<FG>
 218,Dungeon_Prompts,201,836,9461,The love-struck youth is on the move again<FG>,ชายหนุ่มผู้ตกหลุมรักเริ่มเคลื่อนพลอีกครั้งแล้ว<FG>
-218,Dungeon_Prompts,202,840,9507,Unused,
+218,Dungeon_Prompts,202,840,9507,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,203,844,9514,Uh-oh<FG> A nightmaw has appeared<FG>,แย่แล้ว<FG> ไนท์มอร์ ปรากฏขึ้นแล้ว<FG>
 218,Dungeon_Prompts,204,848,9550,Dhuran and the jamirus are cloaked in the Cover of Darkness<FG>,ดูรันและจามิรัสถูกห่อหุ้มด้วยม่านแห่งความมืด<FG>
-218,Dungeon_Prompts,205,852,9613,Unused,
-218,Dungeon_Prompts,206,856,9620,Unused,
-218,Dungeon_Prompts,207,860,9627,Unused,
-218,Dungeon_Prompts,208,864,9634,Unused,
-218,Dungeon_Prompts,209,868,9641,Unused,
-218,Dungeon_Prompts,210,872,9648,Unused,
+218,Dungeon_Prompts,205,852,9613,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,206,856,9620,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,207,860,9627,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,208,864,9634,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,209,868,9641,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,210,872,9648,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,211,876,9655,<F4><I6>51 is down to half health<FG>,พลังชีวิตของ <F4><I6>51 ลดลงเหลือครึ่งหนึ่งแล้ว<FG>
 218,Dungeon_Prompts,212,880,9690,<F4><I6>51 is on <E0>51his<E1>51her<E2>51its<E4>51 last legs<FG>,<F4><I6>51 อยู่ในสภาพร่อแร่ใกล้พ่ายเต็มทีแล้ว<FG>
 218,Dungeon_Prompts,213,884,9748,<F4><I6>51 has teleported to somewhere else<FG>,<F4><I6>51 เทเลพอร์ตหนีไปที่อื่นแล้ว<FG>
@@ -38240,68 +38240,68 @@
 218,Dungeon_Prompts,297,1220,10053,,
 218,Dungeon_Prompts,298,1224,10054,,
 218,Dungeon_Prompts,299,1228,10055,,
-225,Battle_Announcements,0,32,432,That got their attention<FG>,
-225,Battle_Announcements,1,36,460,The enemy's defence drops<FG>,
-225,Battle_Announcements,2,40,489,Defence increased<FG>,
-225,Battle_Announcements,3,44,510,Tension reduced<FG>,
-225,Battle_Announcements,4,48,529,Unable to heal<FG>,
-225,Battle_Announcements,5,52,547,<F4><I0>41 is frozen<FG>,
-225,Battle_Announcements,6,56,569,<F4><I0>41 is poisoned<FG>,
-225,Battle_Announcements,7,60,593,Tension increased<FG>,
-225,Battle_Announcements,8,64,614,Robbed of MP<FG>,
-225,Battle_Announcements,9,68,630,Attack increased<FG>,
-225,Battle_Announcements,10,72,650,Movement impaired<FG>,
-225,Battle_Announcements,11,76,671,<F4><I0>41 divides<FG>,
-225,Battle_Announcements,12,80,691,Showered with gold coins<FG>,
-225,Battle_Announcements,13,84,719,The enemy are staying well away<FG>,
-225,Battle_Announcements,14,88,754,All helpful effects are erased<FG>,
-225,Battle_Announcements,15,92,788,Unable to use spells or abilities<FG>,
-225,Battle_Announcements,16,96,825,<F4><I0>41 falls asleep<FG>,
-225,Battle_Announcements,17,100,850,<F4><I0>41 is bedazzled<FG>,
-225,Battle_Announcements,18,104,875,Defence reduced<FG>,
-225,Battle_Announcements,19,108,894,<F4><I0>41 can't stop dancing<FG>,
-225,Battle_Announcements,20,112,925,<F4><I0>41 can't move<FG>,
-225,Battle_Announcements,21,116,948,Attack massively increased<FG>,
-225,Battle_Announcements,22,120,978,Tension build speed increased<FG>,
-225,Battle_Announcements,23,124,1011,<F4><I0>41 clones <E0>41himself<E3>41herself<E4>41<FG>,
-225,Battle_Announcements,24,128,1060,Critical hit chance increased<FG>,
-225,Battle_Announcements,25,132,1093,The enemy's speed drops<FG>,
-225,Battle_Announcements,26,136,1120,All helpful effects are erased<FG>,
-225,Battle_Announcements,27,140,1154,Psaro's true power awakens<FG>,
-225,Battle_Announcements,28,144,1184,MP recovery slightly increased<FG>,
-225,Battle_Announcements,29,148,1218,The enemy's defence and speed drop<FG>,
-225,Battle_Announcements,30,152,1256,Gold coin haul increased<FG>,
-225,Battle_Announcements,31,156,1284,Gold coin haul massively increased<FG>,
-225,Battle_Announcements,32,160,1322,MP shared<FG>,
-225,Battle_Announcements,33,164,1335,Unused,
-225,Battle_Announcements,34,168,1342,Unused,
-225,Battle_Announcements,35,172,1349,Mash those monsters<FG>,
-225,Battle_Announcements,36,176,1372,Save that poor person<FG>,
-225,Battle_Announcements,37,180,1397,Time to test your mettle<FG>,
-225,Battle_Announcements,38,184,1425,Beat the baddies and banish the barrier<FG>,
-225,Battle_Announcements,39,188,1468,A barrier blocks the way<FG>,
-225,Battle_Announcements,40,192,1496,Break down that barrier<FG>,
-225,Battle_Announcements,41,196,1523,Protected against poison<FG>,
-225,Battle_Announcements,42,200,1551,Your bag is nearly full<FG>,
-225,Battle_Announcements,43,204,1578,It's locked<FG>,
-225,Battle_Announcements,44,208,1593,Cheer on your allies<FG>,
-225,Battle_Announcements,45,212,1617,Don't let them grind you down<FG>,
-225,Battle_Announcements,46,216,1650,Give them what for<FG>,
-225,Battle_Announcements,47,220,1672,You can't use that now<FG>,
-225,Battle_Announcements,48,224,1698,You're carrying so much you can't move<FG>,
-225,Battle_Announcements,49,228,1740,MP recovery increased<FG>,
-225,Battle_Announcements,50,232,1765,MP recovery massively increased<FG>,
-225,Battle_Announcements,51,236,1800,Defence massively increased<FG>,
-225,Battle_Announcements,52,240,1831,Immune to all attacks<FG>,
-225,Battle_Announcements,53,244,1856,That wasn't the real one<FG>,
-225,Battle_Announcements,54,248,1884,I'm casting Kazapple<FG>,
-225,Battle_Announcements,55,252,1908,I'm with you<FG>,
-225,Battle_Announcements,56,256,1924,Unused,
-225,Battle_Announcements,57,260,1931,Can't use MP<FG>,
-225,Battle_Announcements,58,264,1947,Unused,
-225,Battle_Announcements,59,268,1954,Unused,
-225,Battle_Announcements,60,272,1961,Unused,
-225,Battle_Announcements,61,276,1968,It changed into <I8>M1<FG>,
+225,Battle_Announcements,0,32,432,That got their attention<FG>,ดึงดูดความสนใจของศัตรูสำเร็จแล้ว<FG>
+225,Battle_Announcements,1,36,460,The enemy's defence drops<FG>,พลังป้องกันของศัตรูลดลง<FG>
+225,Battle_Announcements,2,40,489,Defence increased<FG>,พลังป้องกันเพิ่มขึ้น<FG>
+225,Battle_Announcements,3,44,510,Tension reduced<FG>,ค่าความฮึกเหิมลดลง<FG>
+225,Battle_Announcements,4,48,529,Unable to heal<FG>,ไม่สามารถฟื้นฟูพลังชีวิตได้<FG>
+225,Battle_Announcements,5,52,547,<F4><I0>41 is frozen<FG>,<F4><I0>41 ตัวแข็งทื่อ<FG>
+225,Battle_Announcements,6,56,569,<F4><I0>41 is poisoned<FG>,<F4><I0>41 ติดพิษ<FG>
+225,Battle_Announcements,7,60,593,Tension increased<FG>,ค่าความฮึกเหิมเพิ่มขึ้น<FG>
+225,Battle_Announcements,8,64,614,Robbed of MP<FG>,ถูกช่วงชิงพลังเวทไป<FG>
+225,Battle_Announcements,9,68,630,Attack increased<FG>,พลังโจมตีเพิ่มขึ้น<FG>
+225,Battle_Announcements,10,72,650,Movement impaired<FG>,การเคลื่อนไหวติดขัด<FG>
+225,Battle_Announcements,11,76,671,<F4><I0>41 divides<FG>,<F4><I0>41 แยกร่าง<FG>
+225,Battle_Announcements,12,80,691,Showered with gold coins<FG>,เหรียญทองโปรยปรายลงมาราวกับห่าฝน<FG>
+225,Battle_Announcements,13,84,719,The enemy are staying well away<FG>,ศัตรูถอยร่นหนีห่างออกไปไกล<FG>
+225,Battle_Announcements,14,88,754,All helpful effects are erased<FG>,ผลสถานะที่เป็นประโยชน์ทั้งหมดถูกลบล้าง<FG>
+225,Battle_Announcements,15,92,788,Unable to use spells or abilities<FG>,ไม่สามารถใช้คาถาหรือความสามารถได้<FG>
+225,Battle_Announcements,16,96,825,<F4><I0>41 falls asleep<FG>,<F4><I0>41 หลับใหลไป<FG>
+225,Battle_Announcements,17,100,850,<F4><I0>41 is bedazzled<FG>,<F4><I0>41 ตาพร่ามัว<FG>
+225,Battle_Announcements,18,104,875,Defence reduced<FG>,พลังป้องกันลดลง<FG>
+225,Battle_Announcements,19,108,894,<F4><I0>41 can't stop dancing<FG>,<F4><I0>41 เต้นรำไม่ยอมหยุด<FG>
+225,Battle_Announcements,20,112,925,<F4><I0>41 can't move<FG>,<F4><I0>41 ขยับเขยื้อนไม่ได้<FG>
+225,Battle_Announcements,21,116,948,Attack massively increased<FG>,พลังโจมตีเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,22,120,978,Tension build speed increased<FG>,ความเร็วในการสะสมความฮึกเหิมเพิ่มขึ้น<FG>
+225,Battle_Announcements,23,124,1011,<F4><I0>41 clones <E0>41himself<E3>41herself<E4>41<FG>,<F4><I0>41 แยกร่างเงาของ<E0>41 ตนเอง<E3>41 ตนเอง<E4>41<FG>
+225,Battle_Announcements,24,128,1060,Critical hit chance increased<FG>,โอกาสติดคริติคอลเพิ่มขึ้น<FG>
+225,Battle_Announcements,25,132,1093,The enemy's speed drops<FG>,ความเร็วของศัตรูลดลง<FG>
+225,Battle_Announcements,26,136,1120,All helpful effects are erased<FG>,ผลสถานะที่เป็นประโยชน์ทั้งหมดถูกลบล้าง<FG>
+225,Battle_Announcements,27,140,1154,Psaro's true power awakens<FG>,พลังที่แท้จริงของพิซาโร่ตื่นขึ้นแล้ว<FG>
+225,Battle_Announcements,28,144,1184,MP recovery slightly increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้นเล็กน้อย<FG>
+225,Battle_Announcements,29,148,1218,The enemy's defence and speed drop<FG>,พลังป้องกันและความเร็วของศัตรูลดลง<FG>
+225,Battle_Announcements,30,152,1256,Gold coin haul increased<FG>,จำนวนเหรียญทองที่ได้รับเพิ่มขึ้น<FG>
+225,Battle_Announcements,31,156,1284,Gold coin haul massively increased<FG>,จำนวนเหรียญทองที่ได้รับเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,32,160,1322,MP shared<FG>,แบ่งปันพลังเวทแล้ว<FG>
+225,Battle_Announcements,33,164,1335,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,34,168,1342,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,35,172,1349,Mash those monsters<FG>,กำราบมอนสเตอร์พวกนั้นให้สิ้นซาก<FG>
+225,Battle_Announcements,36,176,1372,Save that poor person<FG>,ช่วยชีวิตผู้เคราะห์ร้ายคนนั้นเร็ว<FG>
+225,Battle_Announcements,37,180,1397,Time to test your mettle<FG>,ได้เวลาทดสอบความกล้าหาญแล้ว<FG>
+225,Battle_Announcements,38,184,1425,Beat the baddies and banish the barrier<FG>,เอาชนะพวกคนชั่วเพื่อทำลายบาเรียลง<FG>
+225,Battle_Announcements,39,188,1468,A barrier blocks the way<FG>,มีม่านบาเรียขวางเส้นทางอยู่<FG>
+225,Battle_Announcements,40,192,1496,Break down that barrier<FG>,ทำลายม่านบาเรียลงให้ได้<FG>
+225,Battle_Announcements,41,196,1523,Protected against poison<FG>,ได้รับการคุ้มครองป้องกันพิษแล้ว<FG>
+225,Battle_Announcements,42,200,1551,Your bag is nearly full<FG>,กระเป๋าของคุณใกล้จะเต็มแล้ว<FG>
+225,Battle_Announcements,43,204,1578,It's locked<FG>,มันถูกล็อกอยู่<FG>
+225,Battle_Announcements,44,208,1593,Cheer on your allies<FG>,ส่งเสียงเชียร์ให้กำลังใจพวกพ้อง<FG>
+225,Battle_Announcements,45,212,1617,Don't let them grind you down<FG>,อย่าปล่อยให้พวกมันมาบดขยี้ได้เด็ดขาด<FG>
+225,Battle_Announcements,46,216,1650,Give them what for<FG>,สั่งสอนพวกมันให้สาสม<FG>
+225,Battle_Announcements,47,220,1672,You can't use that now<FG>,ไม่สามารถใช้สิ่งนั้นได้ในตอนนี้<FG>
+225,Battle_Announcements,48,224,1698,You're carrying so much you can't move<FG>,คุณแบกสัมภาระหนักเกินไปจนขยับไม่ได้<FG>
+225,Battle_Announcements,49,228,1740,MP recovery increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้น<FG>
+225,Battle_Announcements,50,232,1765,MP recovery massively increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,51,236,1800,Defence massively increased<FG>,พลังป้องกันเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,52,240,1831,Immune to all attacks<FG>,ต้านทานการโจมตีทุกรูปแบบ<FG>
+225,Battle_Announcements,53,244,1856,That wasn't the real one<FG>,นั่นไม่ใช่ตัวจริง<FG>
+225,Battle_Announcements,54,248,1884,I'm casting Kazapple<FG>,ฉันกำลังร่ายมินาเดอิน<FG>
+225,Battle_Announcements,55,252,1908,I'm with you<FG>,ฉันอยู่เคียงข้างคุณเสมอ<FG>
+225,Battle_Announcements,56,256,1924,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,57,260,1931,Can't use MP<FG>,ไม่สามารถใช้พลังเวทได้<FG>
+225,Battle_Announcements,58,264,1947,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,59,268,1954,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,60,272,1961,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,61,276,1968,It changed into <I8>M1<FG>,มันกลายร่างเป็น <I8>M1<FG>
 225,Battle_Announcements,62,280,1993,,
 225,Battle_Announcements,63,284,1994,,
 225,Battle_Announcements,64,288,1995,,
@@ -38340,15 +38340,15 @@
 225,Battle_Announcements,97,420,2028,,
 225,Battle_Announcements,98,424,2029,,
 225,Battle_Announcements,99,428,2030,,
-232,Boundary_Alerts,0,32,232,You can't go any further<FG>,
-232,Boundary_Alerts,1,36,260,Now's not the time to head into town<FG>,
-232,Boundary_Alerts,2,40,300,Now's not the time to go walkabout<FG>,
-232,Boundary_Alerts,3,44,338,There's no turning back now<FG>,
-232,Boundary_Alerts,4,48,369,There's no escaping now<FG>,
-232,Boundary_Alerts,5,52,396,Now's not the time to go there<FG>,
-232,Boundary_Alerts,6,56,430,Press on<FG>,
-232,Boundary_Alerts,7,60,442,The door is shut tight<FG>,
-232,Boundary_Alerts,8,64,468,You have to help that girl<FG>,
+232,Boundary_Alerts,0,32,232,You can't go any further<FG>,คุณไม่สามารถไปต่อได้อีกแล้ว<FG>
+232,Boundary_Alerts,1,36,260,Now's not the time to head into town<FG>,ตอนนี้ไม่ใช่เวลาจะเข้าไปในเมืองนะ<FG>
+232,Boundary_Alerts,2,40,300,Now's not the time to go walkabout<FG>,ตอนนี้ไม่ใช่เวลาจะออกไปเดินเตร็ดเตร่นะ<FG>
+232,Boundary_Alerts,3,44,338,There's no turning back now<FG>,ตอนนี้ถอยหลังกลับไม่ได้แล้ว<FG>
+232,Boundary_Alerts,4,48,369,There's no escaping now<FG>,ตอนนี้ไม่มีทางหนีรอดแล้ว<FG>
+232,Boundary_Alerts,5,52,396,Now's not the time to go there<FG>,ตอนนี้ไม่ใช่เวลาจะไปที่นั่นนะ<FG>
+232,Boundary_Alerts,6,56,430,Press on<FG>,รุกคืบต่อไป<FG>
+232,Boundary_Alerts,7,60,442,The door is shut tight<FG>,ประตูถูกปิดสนิท<FG>
+232,Boundary_Alerts,8,64,468,You have to help that girl<FG>,คุณต้องไปช่วยเด็กสาวคนนั้นนะ<FG>
 232,Boundary_Alerts,9,68,498,,
 232,Boundary_Alerts,10,72,499,,
 232,Boundary_Alerts,11,76,500,,
@@ -44696,26 +44696,26 @@
 274,Feature_Unlocks,197,820,16604,,
 274,Feature_Unlocks,198,824,16605,,
 274,Feature_Unlocks,199,828,16606,,
-281,Party_Battle_Banter,0,32,632,Let's do this<FG>,
-281,Party_Battle_Banter,1,36,649,Okay<FG>,
-281,Party_Battle_Banter,2,40,657,Nice<FG>,
-281,Party_Battle_Banter,3,44,665,Sorry<FG>,
-281,Party_Battle_Banter,4,48,674,I'm new at this<FG>,
-281,Party_Battle_Banter,5,52,693,Changing character<FG>,
-281,Party_Battle_Banter,6,56,715,Changing vocation<FG>,
-281,Party_Battle_Banter,7,60,736,Just getting ready<FG>,
-281,Party_Battle_Banter,8,64,758,Wait a minute...,
-281,Party_Battle_Banter,9,68,775,Sorry to keep you waiting<FG>,
-281,Party_Battle_Banter,10,72,804,Let's wait for more players to join.,
-281,Party_Battle_Banter,11,76,841,That's enough people<FG> Let's go<FG>,
-281,Party_Battle_Banter,12,80,877,It's up to you.,
-281,Party_Battle_Banter,13,84,893,Ready<FH>,
-281,Party_Battle_Banter,14,88,902,Ready<FG>,
-281,Party_Battle_Banter,15,92,911,Nice work<FG>,
-281,Party_Battle_Banter,16,96,924,Shall we try a different map<FH>,
-281,Party_Battle_Banter,17,100,956,Let's give it another go<FG>,
-281,Party_Battle_Banter,18,104,984,"One more, then I've got to go.",
-281,Party_Battle_Banter,19,108,1015,I'm going to head off.,
+281,Party_Battle_Banter,0,32,632,Let's do this<FG>,ลุยกันเลย<FG>
+281,Party_Battle_Banter,1,36,649,Okay<FG>,เข้าใจแล้ว<FG>
+281,Party_Battle_Banter,2,40,657,Nice<FG>,ยอดเยี่ยม<FG>
+281,Party_Battle_Banter,3,44,665,Sorry<FG>,ขอโทษด้วยนะ<FG>
+281,Party_Battle_Banter,4,48,674,I'm new at this<FG>,ฉันยังมือใหม่อยู่เลย<FG>
+281,Party_Battle_Banter,5,52,693,Changing character<FG>,กำลังเปลี่ยนตัวละคร<FG>
+281,Party_Battle_Banter,6,56,715,Changing vocation<FG>,กำลังเปลี่ยนอาชีพ<FG>
+281,Party_Battle_Banter,7,60,736,Just getting ready<FG>,กำลังเตรียมตัวอยู่<FG>
+281,Party_Battle_Banter,8,64,758,Wait a minute...,รอก่อนนะ...
+281,Party_Battle_Banter,9,68,775,Sorry to keep you waiting<FG>,ขอโทษที่ให้รอนะ<FG>
+281,Party_Battle_Banter,10,72,804,Let's wait for more players to join.,รอให้ผู้เล่นคนอื่นเข้ามาก่อนนะ
+281,Party_Battle_Banter,11,76,841,That's enough people<FG> Let's go<FG>,คนครบแล้ว<FG> ไปกันเลย<FG>
+281,Party_Battle_Banter,12,80,877,It's up to you.,แล้วแต่คุณเลย
+281,Party_Battle_Banter,13,84,893,Ready<FH>,พร้อมหรือยัง<FH>
+281,Party_Battle_Banter,14,88,902,Ready<FG>,พร้อมแล้ว<FG>
+281,Party_Battle_Banter,15,92,911,Nice work<FG>,ทำได้ดีมาก<FG>
+281,Party_Battle_Banter,16,96,924,Shall we try a different map<FH>,เราลองเปลี่ยนแผนที่กันดูไหม<FH>
+281,Party_Battle_Banter,17,100,956,Let's give it another go<FG>,มาลองกันอีกสักตั้งเถอะ<FG>
+281,Party_Battle_Banter,18,104,984,"One more, then I've got to go.",ขออีกรอบเดียว จากนั้นฉันต้องไปแล้วนะ
+281,Party_Battle_Banter,19,108,1015,I'm going to head off.,ฉันขอตัวก่อนนะ
 281,Party_Battle_Banter,20,112,1038,,
 281,Party_Battle_Banter,21,116,1039,,
 281,Party_Battle_Banter,22,120,1040,,
@@ -44727,100 +44727,100 @@
 281,Party_Battle_Banter,28,144,1046,,
 281,Party_Battle_Banter,29,148,1047,,
 281,Party_Battle_Banter,30,152,1048,,
-281,Party_Battle_Banter,31,156,1049,Thanks<FG>,
-281,Party_Battle_Banter,32,160,1059,Go for it<FG>,
-281,Party_Battle_Banter,33,164,1072,Congratulations<FG>,
-281,Party_Battle_Banter,34,168,1091,You're welcome.,
-281,Party_Battle_Banter,35,172,1107,Over here<FG>,
-281,Party_Battle_Banter,36,176,1120,No worries<FG>,
-281,Party_Battle_Banter,37,180,1134,Welcome back<FG>,
-281,Party_Battle_Banter,38,184,1150,Yesss<FG>,
-281,Party_Battle_Banter,39,188,1159,Oops<FG>,
-281,Party_Battle_Banter,40,192,1167,Ha ha ha<FG>,
-281,Party_Battle_Banter,41,196,1179,<FG>,
-281,Party_Battle_Banter,42,200,1183,<FH>,
-281,Party_Battle_Banter,43,204,1187,How embarrassing...,
-281,Party_Battle_Banter,44,208,1207,Let's get out of here<FG>,
-281,Party_Battle_Banter,45,212,1232,"Everyone, attack<FG>",
-281,Party_Battle_Banter,46,216,1252,Help me out<FG>,
-281,Party_Battle_Banter,47,220,1267,I'm in trouble<FG>,
-281,Party_Battle_Banter,48,224,1285,I'm running out of MP<FG>,
-281,Party_Battle_Banter,49,228,1310,Buff me<FG>,
-281,Party_Battle_Banter,50,232,1321,Debuff them<FG>,
-281,Party_Battle_Banter,51,236,1336,With me<FG>,
-281,Party_Battle_Banter,52,240,1347,Don't give up<FG>,
-281,Party_Battle_Banter,53,244,1364,Assigning skill points<FG>,
-281,Party_Battle_Banter,54,248,1390,Changing equipment<FG>,
-281,Party_Battle_Banter,55,252,1412,Changing skills<FG>,
-281,Party_Battle_Banter,56,256,1431,Night night<FG>,
-281,Party_Battle_Banter,57,260,1446,Oh no<FG>,
-281,Party_Battle_Banter,58,264,1455,Show no mercy<FG>,
-281,Party_Battle_Banter,59,268,1472,Fight wisely<FG>,
-281,Party_Battle_Banter,60,272,1488,Mix it up<FG>,
-281,Party_Battle_Banter,61,276,1501,Focus on healing<FG>,
-281,Party_Battle_Banter,62,280,1521,Don't use MP<FG>,
-281,Party_Battle_Banter,63,284,1537,Keep an eye on your HP<FG>,
-281,Party_Battle_Banter,64,288,1563,Keep an eye on your MP<FG>,
-281,Party_Battle_Banter,65,292,1589,Keep an eye on your tension level<FG>,
-281,Party_Battle_Banter,66,296,1626,Full tension<FG>,
-281,Party_Battle_Banter,67,300,1642,Here comes my coup de grâce<FG>,
-281,Party_Battle_Banter,68,304,1674,Let's try again.,
-281,Party_Battle_Banter,69,308,1691,That was gooreat fun<FG>,
-281,Party_Battle_Banter,70,312,1715,Waaaaaagh<FG>,
-281,Party_Battle_Banter,71,316,1728,This was maximally dreamlike<FG>,
-281,Party_Battle_Banter,72,320,1760,Defeat doth ill become thee<FG>,
-281,Party_Battle_Banter,73,324,1791,I have searched for thee high and low<FG>,
-281,Party_Battle_Banter,74,328,1832,Gurrr hurrr hurrr<FG>,
-281,Party_Battle_Banter,75,332,1853,Alriiight<FG> Now we're talking<FG>,
-281,Party_Battle_Banter,76,336,1887,Seriously<FG><FH>,
-281,Party_Battle_Banter,77,340,1903,Hm.,
-281,Party_Battle_Banter,78,344,1907,This is no time to be lying around<FG>,
-281,Party_Battle_Banter,79,348,1945,"'Tis a legendary treasure, so it is<FG>",
-281,Party_Battle_Banter,80,352,1984,Hmph<FG> Really<FH> Do I have to<FH>,
-281,Party_Battle_Banter,81,356,2018,Aooo<FG> I'm staaarving<FG>,
-281,Party_Battle_Banter,82,360,2044,Heh. All I need is my sword.,
-281,Party_Battle_Banter,83,364,2073,"Hey there, little lady<FG>",
-281,Party_Battle_Banter,84,368,2099,Our destiny awaits...,
-281,Party_Battle_Banter,85,372,2121,Hee hee<FG> Let's dance<FG>,
-281,Party_Battle_Banter,86,376,2147,"C'mon, everybody<FG> Hustle, hustle<FG>",
-281,Party_Battle_Banter,87,380,2185,Ladies...,
-281,Party_Battle_Banter,88,384,2195,"Inward, to combat<FG>",
-281,Party_Battle_Banter,89,388,2216,Ts-Tsarevna<FG>,
-281,Party_Battle_Banter,90,392,2231,Hello<FG>,
-281,Party_Battle_Banter,91,396,2240,Stop them<FG>,
-281,Party_Battle_Banter,92,400,2253,Stand back<FG>,
-281,Party_Battle_Banter,93,404,2267,Let us pray.,
-281,Party_Battle_Banter,94,408,2280,To me<FG>,
-281,Party_Battle_Banter,95,412,2289,Now scram<FG>,
-281,Party_Battle_Banter,96,416,2302,Woooooo<FG>,
-281,Party_Battle_Banter,97,420,2313,Go forth<FG>,
-281,Party_Battle_Banter,98,424,2325,I am in your debt<FG>,
-281,Party_Battle_Banter,99,428,2346,"Patience, now<FG>",
-281,Party_Battle_Banter,100,432,2363,Ready to cast Kazapple<FH>,
-281,Party_Battle_Banter,101,436,2389,Go on<MV>cast Kazapple<FG>,
-281,Party_Battle_Banter,102,440,2414,Leave it to me<FG>,
-281,Party_Battle_Banter,103,444,2432,I'm saving Yggdrasil leaves<FG>,
-281,Party_Battle_Banter,104,448,2463,Don't use too many Yggdrasil leaves<FG>,
-281,Party_Battle_Banter,105,452,2502,I'll be back in a bit.,
-281,Party_Battle_Banter,106,456,2525,"Read the room comments, will you<FG><FH>",
-281,Party_Battle_Banter,107,460,2564,Do you need healing<FH>,
-281,Party_Battle_Banter,108,464,2587,What shall we do next<FH>,
-281,Party_Battle_Banter,109,468,2612,Have you got the right equipment<FH>,
-281,Party_Battle_Banter,110,472,2648,"Whaddya want, huh<FH>",
-281,Party_Battle_Banter,111,476,2669,Best of luck<FG>,
-281,Party_Battle_Banter,112,480,2685,I have it... The perfect strategy<FG>,
-281,Party_Battle_Banter,113,484,2722,Ugh<FG> Not another long-winded plan<FG>,
-281,Party_Battle_Banter,114,488,2761,GRRRAAAAAAGH<FG> My blood is aboil<FG>,
-281,Party_Battle_Banter,115,492,2798,Time to put the theory into practice<FG>,
-281,Party_Battle_Banter,116,496,2838,COR BLIMEY<FG>,
-281,Party_Battle_Banter,117,500,2852,Geddon<FG>,
-281,Party_Battle_Banter,118,504,2862,(swoon),
-281,Party_Battle_Banter,119,508,2870,It seems you are in need of succour<FG>,
-281,Party_Battle_Banter,120,512,2909,"Impressive. Brutal, but...impressive...",
-281,Party_Battle_Banter,121,516,2949,Bada bing<FG>,
-281,Party_Battle_Banter,122,520,2962,"I ain't gonna hold back, Mac<FG>",
-281,Party_Battle_Banter,123,524,2994,"We did it, we did it<FG>",
-281,Party_Battle_Banter,124,528,3018,"I won't give up, won't give up<FG>",
+281,Party_Battle_Banter,31,156,1049,Thanks<FG>,ขอบใจนะ<FG>
+281,Party_Battle_Banter,32,160,1059,Go for it<FG>,ลุยให้เต็มที่เลย<FG>
+281,Party_Battle_Banter,33,164,1072,Congratulations<FG>,ยินดีด้วยนะ<FG>
+281,Party_Battle_Banter,34,168,1091,You're welcome.,ด้วยความยินดี
+281,Party_Battle_Banter,35,172,1107,Over here<FG>,ทางนี้เลย<FG>
+281,Party_Battle_Banter,36,176,1120,No worries<FG>,ไม่ต้องกังวลไป<FG>
+281,Party_Battle_Banter,37,180,1134,Welcome back<FG>,ยินดีต้อนรับกลับมา<FG>
+281,Party_Battle_Banter,38,184,1150,Yesss<FG>,สำเร็จแล้ว<FG>
+281,Party_Battle_Banter,39,188,1159,Oops<FG>,อุ๊ย<FG>
+281,Party_Battle_Banter,40,192,1167,Ha ha ha<FG>,ฮะ ฮะ ฮ่า<FG>
+281,Party_Battle_Banter,41,196,1179,<FG>,<FG>
+281,Party_Battle_Banter,42,200,1183,<FH>,<FH>
+281,Party_Battle_Banter,43,204,1187,How embarrassing...,น่าอายจังเลย...
+281,Party_Battle_Banter,44,208,1207,Let's get out of here<FG>,รีบหนีออกจากที่นี่กันเถอะ<FG>
+281,Party_Battle_Banter,45,212,1232,"Everyone, attack<FG>",ทุกคน บุกโจมตี<FG>
+281,Party_Battle_Banter,46,216,1252,Help me out<FG>,ช่วยฉันด้วย<FG>
+281,Party_Battle_Banter,47,220,1267,I'm in trouble<FG>,ฉันแย่แล้ว<FG>
+281,Party_Battle_Banter,48,224,1285,I'm running out of MP<FG>,พลังเวทของฉันใกล้จะหมดแล้ว<FG>
+281,Party_Battle_Banter,49,228,1310,Buff me<FG>,ช่วยบัฟพลังให้ฉันที<FG>
+281,Party_Battle_Banter,50,232,1321,Debuff them<FG>,ช่วยดีบัฟพวกมันที<FG>
+281,Party_Battle_Banter,51,236,1336,With me<FG>,ตามฉันมา<FG>
+281,Party_Battle_Banter,52,240,1347,Don't give up<FG>,อย่ายอมแพ้นะ<FG>
+281,Party_Battle_Banter,53,244,1364,Assigning skill points<FG>,กำลังจัดสรรแต้มสกิล<FG>
+281,Party_Battle_Banter,54,248,1390,Changing equipment<FG>,กำลังเปลี่ยนอุปกรณ์สวมใส่<FG>
+281,Party_Battle_Banter,55,252,1412,Changing skills<FG>,กำลังเปลี่ยนสกิล<FG>
+281,Party_Battle_Banter,56,256,1431,Night night<FG>,ราตรีสวัสดิ์นะ<FG>
+281,Party_Battle_Banter,57,260,1446,Oh no<FG>,แย่แล้ว<FG>
+281,Party_Battle_Banter,58,264,1455,Show no mercy<FG>,บุกตะลุยไม่ปรานี<FG>
+281,Party_Battle_Banter,59,268,1472,Fight wisely<FG>,ต่อสู้อย่างชาญฉลาด<FG>
+281,Party_Battle_Banter,60,272,1488,Mix it up<FG>,ผสมผสานกลยุทธ์<FG>
+281,Party_Battle_Banter,61,276,1501,Focus on healing<FG>,เน้นการฟื้นฟูพลัง<FG>
+281,Party_Battle_Banter,62,280,1521,Don't use MP<FG>,ห้ามใช้พลังเวท<FG>
+281,Party_Battle_Banter,63,284,1537,Keep an eye on your HP<FG>,คอยสังเกตพลังชีวิตไว้ด้วยนะ<FG>
+281,Party_Battle_Banter,64,288,1563,Keep an eye on your MP<FG>,คอยสังเกตพลังเวทไว้ด้วยนะ<FG>
+281,Party_Battle_Banter,65,292,1589,Keep an eye on your tension level<FG>,คอยสังเกตระดับความฮึกเหิมไว้ด้วยนะ<FG>
+281,Party_Battle_Banter,66,296,1626,Full tension<FG>,ความฮึกเหิมเต็มเปี่ยมแล้ว<FG>
+281,Party_Battle_Banter,67,300,1642,Here comes my coup de grâce<FG>,ถึงเวลาท่าไม้ตายเผด็จศึกของฉันแล้ว<FG>
+281,Party_Battle_Banter,68,304,1674,Let's try again.,มาลองใหม่อีกครั้งกันเถอะ
+281,Party_Battle_Banter,69,308,1691,That was gooreat fun<FG>,สไลม์สนุกสุดยอดไปเลยเมือก<FG>
+281,Party_Battle_Banter,70,312,1715,Waaaaaagh<FG>,ว้ากกกกกก<FG>
+281,Party_Battle_Banter,71,316,1728,This was maximally dreamlike<FG>,ช่างงดงามราวกับความฝันจริง ๆ เชียว<FG>
+281,Party_Battle_Banter,72,320,1760,Defeat doth ill become thee<FG>,ความพ่ายแพ้ช่างไม่เหมาะกับท่านเอาเสียเลย<FG>
+281,Party_Battle_Banter,73,324,1791,I have searched for thee high and low<FG>,ข้าตามหาท่านไปทั่วทุกหนแห่งแล้ว<FG>
+281,Party_Battle_Banter,74,328,1832,Gurrr hurrr hurrr<FG>,ก๊าซ ฮ่า ฮ่า ฮ่า<FG>
+281,Party_Battle_Banter,75,332,1853,Alriiight<FG> Now we're talking<FG>,ยอดเยี่ยมไปเลย<FG> มันต้องอย่างนี้สิ<FG>
+281,Party_Battle_Banter,76,336,1887,Seriously<FG><FH>,จริงจังเหรอเนี่ย<FG><FH>
+281,Party_Battle_Banter,77,340,1903,Hm.,หืม
+281,Party_Battle_Banter,78,344,1907,This is no time to be lying around<FG>,นี่ไม่ใช่เวลาที่จะมานอนเอกเขนกอยู่นะ<FG>
+281,Party_Battle_Banter,79,348,1945,"'Tis a legendary treasure, so it is<FG>",นี่คือสมบัติในตำนานอย่างแท้จริงเลยล่ะ<FG>
+281,Party_Battle_Banter,80,352,1984,Hmph<FG> Really<FH> Do I have to<FH>,ฮึ่ม<FG> จริงเหรอเนี่ย<FH> ฉันต้องทำด้วยเหรอ<FH>
+281,Party_Battle_Banter,81,356,2018,Aooo<FG> I'm staaarving<FG>,บรู๊ววว<FG> หิวไส้กิ่วแล้วอ่า<FG>
+281,Party_Battle_Banter,82,360,2044,Heh. All I need is my sword.,หึ มีแค่ดาบเล่มนี้ก็เกินพอแล้ว
+281,Party_Battle_Banter,83,364,2073,"Hey there, little lady<FG>",ไงจ๊ะ แม่สาวน้อย<FG>
+281,Party_Battle_Banter,84,368,2099,Our destiny awaits...,ชะตากรรมกำลังรอคอยพวกเราอยู่...
+281,Party_Battle_Banter,85,372,2121,Hee hee<FG> Let's dance<FG>,ฮิ ฮิ<FG> มาร่ายรำกันเถอะ<FG>
+281,Party_Battle_Banter,86,376,2147,"C'mon, everybody<FG> Hustle, hustle<FG>",เอาล่ะทุกคน<FG> กระฉับกระเฉงเข้าไว้<FG>
+281,Party_Battle_Banter,87,380,2185,Ladies...,คุณสุภาพสตรีทั้งหลาย...
+281,Party_Battle_Banter,88,384,2195,"Inward, to combat<FG>",บุกทะลวงสู่สมรภูมิ<FG>
+281,Party_Battle_Banter,89,388,2216,Ts-Tsarevna<FG>,ท-ท่านเจ้าหญิง<FG>
+281,Party_Battle_Banter,90,392,2231,Hello<FG>,สวัสดีจ้า<FG>
+281,Party_Battle_Banter,91,396,2240,Stop them<FG>,หยุดพวกมันไว้<FG>
+281,Party_Battle_Banter,92,400,2253,Stand back<FG>,ถอยไปอยู่ข้างหลัง<FG>
+281,Party_Battle_Banter,93,404,2267,Let us pray.,มาร่วมสวดภาวนากันเถอะ
+281,Party_Battle_Banter,94,408,2280,To me<FG>,มาหาฉันนี่<FG>
+281,Party_Battle_Banter,95,412,2289,Now scram<FG>,ไสหัวไปได้แล้ว<FG>
+281,Party_Battle_Banter,96,416,2302,Woooooo<FG>,วู้ฮู้ววว<FG>
+281,Party_Battle_Banter,97,420,2313,Go forth<FG>,จงก้าวไปข้างหน้า<FG>
+281,Party_Battle_Banter,98,424,2325,I am in your debt<FG>,ข้าเป็นหนี้บุญคุณท่านแล้ว<FG>
+281,Party_Battle_Banter,99,428,2346,"Patience, now<FG>",อดทนไว้ก่อนนะ<FG>
+281,Party_Battle_Banter,100,432,2363,Ready to cast Kazapple<FH>,พร้อมที่จะร่ายมินาเดอินแล้วหรือยัง<FH>
+281,Party_Battle_Banter,101,436,2389,Go on<MV>cast Kazapple<FG>,เอาเลย<MV>ร่ายมินาเดอินเลย<FG>
+281,Party_Battle_Banter,102,440,2414,Leave it to me<FG>,ปล่อยให้เป็นหน้าที่ของฉันเอง<FG>
+281,Party_Battle_Banter,103,444,2432,I'm saving Yggdrasil leaves<FG>,ฉันกำลังประหยัดใบไม้อิกดราซิลอยู่นะ<FG>
+281,Party_Battle_Banter,104,448,2463,Don't use too many Yggdrasil leaves<FG>,อย่าใช้ใบไม้อิกดราซิลเปลืองเกินไปสิ<FG>
+281,Party_Battle_Banter,105,452,2502,I'll be back in a bit.,เดี๋ยวฉันกลับมานะ
+281,Party_Battle_Banter,106,456,2525,"Read the room comments, will you<FG><FH>",ช่วยอ่านบรรยากาศในห้องหน่อยจะได้ไหม<FG><FH>
+281,Party_Battle_Banter,107,460,2564,Do you need healing<FH>,ต้องการให้ช่วยรักษาไหม<FH>
+281,Party_Battle_Banter,108,464,2587,What shall we do next<FH>,พวกเราจะทำอะไรต่อกันดีล่ะ<FH>
+281,Party_Battle_Banter,109,468,2612,Have you got the right equipment<FH>,เตรียมอุปกรณ์ที่เหมาะสมมาพร้อมแล้วใช่ไหม<FH>
+281,Party_Battle_Banter,110,472,2648,"Whaddya want, huh<FH>",ต้องการอะไรอีกล่ะ หือ<FH>
+281,Party_Battle_Banter,111,476,2669,Best of luck<FG>,ขอให้โชคดีนะ<FG>
+281,Party_Battle_Banter,112,480,2685,I have it... The perfect strategy<FG>,ฉันคิดออกแล้ว... แผนการรบอันไร้ที่ติ<FG>
+281,Party_Battle_Banter,113,484,2722,Ugh<FG> Not another long-winded plan<FG>,โธ่เอ๊ย<FG> แผนการยาวเป็นหางว่าวอีกแล้วเหรอเนี่ย<FG>
+281,Party_Battle_Banter,114,488,2761,GRRRAAAAAAGH<FG> My blood is aboil<FG>,กร๊าซซซซซ<FG> เลือดในกายข้ามันเดือดพล่านไปหมดแล้ว<FG>
+281,Party_Battle_Banter,115,492,2798,Time to put the theory into practice<FG>,ได้เวลานำทฤษฎีมาใช้จริงแล้ว<FG>
+281,Party_Battle_Banter,116,496,2838,COR BLIMEY<FG>,พับผ่าสิพับผ่า<FG>
+281,Party_Battle_Banter,117,500,2852,Geddon<FG>,เอาเลยสิวะ<FG>
+281,Party_Battle_Banter,118,504,2862,(swoon),(จะเป็นลม)
+281,Party_Battle_Banter,119,508,2870,It seems you are in need of succour<FG>,ดูเหมือนท่านจะต้องการความช่วยเหลือแล้วนะ<FG>
+281,Party_Battle_Banter,120,512,2909,"Impressive. Brutal, but...impressive...",น่าประทับใจมาก ดุดันป่าเถื่อน แต่...ก็น่าประทับใจ...
+281,Party_Battle_Banter,121,516,2949,Bada bing<FG>,เป๊ะเลย<FG>
+281,Party_Battle_Banter,122,520,2962,"I ain't gonna hold back, Mac<FG>",ข้าจะไม่ออมมือให้หรอกนะ เจ้าเพื่อนยาก<FG>
+281,Party_Battle_Banter,123,524,2994,"We did it, we did it<FG>",พวกเราทำสำเร็จแล้ว ทำสำเร็จแล้ว<FG>
+281,Party_Battle_Banter,124,528,3018,"I won't give up, won't give up<FG>",ฉันจะไม่ยอมแพ้เด็ดขาด จะไม่ยอมแพ้<FG>
 281,Party_Battle_Banter,125,532,3052,,
 281,Party_Battle_Banter,126,536,3053,,
 281,Party_Battle_Banter,127,540,3054,,
@@ -44846,120 +44846,120 @@
 281,Party_Battle_Banter,147,620,3074,,
 281,Party_Battle_Banter,148,624,3075,,
 281,Party_Battle_Banter,149,628,3076,,
-288,Tavern_Online_Lobby,0,32,632,BEGINNERS WELCOME,
-288,Tavern_Online_Lobby,1,36,650,EXPERIENCED WARRIORS ONLY,
-288,Tavern_Online_Lobby,2,40,676,ANYONE WELCOME,
-288,Tavern_Online_Lobby,3,44,691,I NEED YOUR HELP,
-288,Tavern_Online_Lobby,4,48,708,"JUST ONE DUNGEON, THEN WE'RE DONE",
-288,Tavern_Online_Lobby,5,52,742,LET'S KEEP PLAYING THE SAME DUNGEON,
-288,Tavern_Online_Lobby,6,56,778,LET'S PLAY THROUGH A SET OF DUNGEONS,
-288,Tavern_Online_Lobby,7,60,815,PLAYING FOR ABOUT HALF AN HOUR,
-288,Tavern_Online_Lobby,8,64,846,PLAYING FOR ABOUT AN HOUR,
-288,Tavern_Online_Lobby,9,68,872,PLAYING FOR ABOUT TWO HOURS,
-288,Tavern_Online_Lobby,10,72,900,PLAYING ALL NIGHT LONG,
-288,Tavern_Online_Lobby,11,76,923,SHOW NO MERCY,
-288,Tavern_Online_Lobby,12,80,937,MIX IT UP,
-288,Tavern_Online_Lobby,13,84,947,WATCH MY BACK,
-288,Tavern_Online_Lobby,14,88,961,LEAVE IT TO ME,
-288,Tavern_Online_Lobby,15,92,976,FIGHT WISELY,
-288,Tavern_Online_Lobby,16,96,989,FOCUS ON HEALING,
-288,Tavern_Online_Lobby,17,100,1006,FOLLOW ORDERS,
-288,Tavern_Online_Lobby,18,104,1020,LEVELLING UP,
-288,Tavern_Online_Lobby,19,108,1033,RAISING WEAPON PROFICIENCY,
-288,Tavern_Online_Lobby,20,112,1060,MAKING MONEY,
-288,Tavern_Online_Lobby,21,116,1073,FARMING FOR INGREDIENTS,
-288,Tavern_Online_Lobby,22,120,1097,ACQUIRING ACCESSORIES,
-288,Tavern_Online_Lobby,23,124,1119,BROADCASTING LIVE,
-288,Tavern_Online_Lobby,24,128,1137,LOOKING FOR FRIENDS,
-288,Tavern_Online_Lobby,25,132,1157,KILLING TIME,
-288,Tavern_Online_Lobby,26,136,1170,ANYONE CAN PICK WHERE WE GO,
-288,Tavern_Online_Lobby,27,140,1198,PRACTISING HOW TO PLAY,
-288,Tavern_Online_Lobby,28,144,1221,PLAYING AS LAZAREL,
-288,Tavern_Online_Lobby,29,148,1240,PLAYING AS TERESA,
-288,Tavern_Online_Lobby,30,152,1258,PLAYING AS CESAR,
-288,Tavern_Online_Lobby,31,156,1275,PLAYING AS DESDEMONA,
-288,Tavern_Online_Lobby,32,160,1296,PLAYING AS ALENA,
-288,Tavern_Online_Lobby,33,164,1313,PLAYING AS KIRYL,
-288,Tavern_Online_Lobby,34,168,1330,PLAYING AS TORNEKO,
-288,Tavern_Online_Lobby,35,172,1349,PLAYING AS MEENA,
-288,Tavern_Online_Lobby,36,176,1366,PLAYING AS MAYA,
-288,Tavern_Online_Lobby,37,180,1382,PLAYING AS CARVER,
-288,Tavern_Online_Lobby,38,184,1400,PLAYING AS TERRY,
-288,Tavern_Online_Lobby,39,188,1417,PLAYING AS MARIBEL,
-288,Tavern_Online_Lobby,40,192,1436,PLAYING AS RUFF,
-288,Tavern_Online_Lobby,41,196,1452,PLAYING AS ANGELO,
-288,Tavern_Online_Lobby,42,200,1470,PLAYING AS JESSICA,
-288,Tavern_Online_Lobby,43,204,1489,PLAYING AS LUCEUS,
-288,Tavern_Online_Lobby,44,208,1507,PLAYING AS AURORA,
-288,Tavern_Online_Lobby,45,212,1525,PLAYING AS DORIC,
-288,Tavern_Online_Lobby,46,216,1542,PLAYING AS ISLA,
-288,Tavern_Online_Lobby,47,220,1558,PLAYING AS YANGUS,
-288,Tavern_Online_Lobby,48,224,1576,PLAYING AS BIANCA,
-288,Tavern_Online_Lobby,49,228,1594,PLAYING AS NERA,
-288,Tavern_Online_Lobby,50,232,1610,PLAYING AS PSARO,
-288,Tavern_Online_Lobby,51,236,1627,PLAYING AS WARRIOR,
-288,Tavern_Online_Lobby,52,240,1646,PLAYING AS MARTIAL ARTIST,
-288,Tavern_Online_Lobby,53,244,1672,PLAYING AS MAGE,
-288,Tavern_Online_Lobby,54,248,1688,PLAYING AS PRIEST,
-288,Tavern_Online_Lobby,55,252,1706,PLAYING AS THIEF,
-288,Tavern_Online_Lobby,56,256,1723,PLAYING AS GLADIATOR,
-288,Tavern_Online_Lobby,57,260,1744,PLAYING AS SAGE,
-288,Tavern_Online_Lobby,58,264,1760,LOOKING FOR PLAYERS OF LEVELS 1-10,
-288,Tavern_Online_Lobby,59,268,1795,LOOKING FOR PLAYERS OF LEVELS 10-20,
-288,Tavern_Online_Lobby,60,272,1831,LOOKING FOR PLAYERS OF LEVELS 20-30,
-288,Tavern_Online_Lobby,61,276,1867,LOOKING FOR PLAYERS OF LEVELS 30-40,
-288,Tavern_Online_Lobby,62,280,1903,LOOKING FOR PLAYERS OF LEVELS 40-50,
-288,Tavern_Online_Lobby,63,284,1939,LOOKING FOR PLAYERS OF LEVELS 50-60,
-288,Tavern_Online_Lobby,64,288,1975,LOOKING FOR PLAYERS OF LEVELS 60-70,
-288,Tavern_Online_Lobby,65,292,2011,LOOKING FOR PLAYERS OF LEVELS 70-80,
-288,Tavern_Online_Lobby,66,296,2047,LOOKING FOR PLAYERS OF LEVELS 80-90,
-288,Tavern_Online_Lobby,67,300,2083,LOOKING FOR PLAYERS OF LEVELS 90-99,
-288,Tavern_Online_Lobby,68,304,2119,PLAYERS OF ALL LEVELS WELCOME,
-288,Tavern_Online_Lobby,69,308,2149,LOOKING FOR PLAYERS OF RANKS 1-10,
-288,Tavern_Online_Lobby,70,312,2183,LOOKING FOR PLAYERS OF RANKS 10-20,
-288,Tavern_Online_Lobby,71,316,2218,LOOKING FOR PLAYERS OF RANKS 20-30,
-288,Tavern_Online_Lobby,72,320,2253,PLAYERS OF ALL RANKS WELCOME,
-288,Tavern_Online_Lobby,73,324,2282,FIGHTING WITH TWIN SWORDS,
-288,Tavern_Online_Lobby,74,328,2308,FIGHTING WITH SWORDS,
-288,Tavern_Online_Lobby,75,332,2329,FIGHTING WITH GREATSWORDS,
-288,Tavern_Online_Lobby,76,336,2355,FIGHTING WITH AXES,
-288,Tavern_Online_Lobby,77,340,2374,FIGHTING WITH GAUNTLETS,
-288,Tavern_Online_Lobby,78,344,2398,FIGHTING WITH SPEARS,
-288,Tavern_Online_Lobby,79,348,2419,FIGHTING WITH ABACUSES,
-288,Tavern_Online_Lobby,80,352,2442,FIGHTING WITH TAROT CARDS,
-288,Tavern_Online_Lobby,81,356,2468,FIGHTING WITH FANS,
-288,Tavern_Online_Lobby,82,360,2487,FIGHTING WITH BOOMERANGS,
-288,Tavern_Online_Lobby,83,364,2512,FIGHTING WITH CLAWS,
-288,Tavern_Online_Lobby,84,368,2532,FIGHTING WITH BOWS,
-288,Tavern_Online_Lobby,85,372,2551,FIGHTING WITH WHIPS,
-288,Tavern_Online_Lobby,86,376,2571,FIGHTING WITH WANDS,
-288,Tavern_Online_Lobby,87,380,2591,FIGHTING WITH HEAVY WANDS,
-288,Tavern_Online_Lobby,88,384,2617,FIGHTING WITH STAVES,
-288,Tavern_Online_Lobby,89,388,2638,NO TIME-WASTERS,
-288,Tavern_Online_Lobby,90,392,2654,"NOT TOO SERIOUS, OKAY<FH>",
-288,Tavern_Online_Lobby,91,396,2679,LET'S HAVE FUN,
-288,Tavern_Online_Lobby,92,400,2694,NO ONE LEAVES TILL WE'VE WON THIS,
-288,Tavern_Online_Lobby,93,404,2728,LET'S GET THE ALL-TIME SPEED RECORD,
-288,Tavern_Online_Lobby,94,408,2764,MALE CHARACTERS ONLY,
-288,Tavern_Online_Lobby,95,412,2785,FEMALE CHARACTERS ONLY,
-288,Tavern_Online_Lobby,96,416,2808,SPECIAL EVENT UNDERWAY,
-288,Tavern_Online_Lobby,97,420,2831,LOBBY A,
-288,Tavern_Online_Lobby,98,424,2839,LOBBY B,
-288,Tavern_Online_Lobby,99,428,2847,LOBBY C,
-288,Tavern_Online_Lobby,100,432,2855,LOBBY D,
-288,Tavern_Online_Lobby,101,436,2863,LOBBY E,
-288,Tavern_Online_Lobby,102,440,2871,LOBBY F,
-288,Tavern_Online_Lobby,103,444,2879,LOBBY G,
-288,Tavern_Online_Lobby,104,448,2887,LOBBY H,
-288,Tavern_Online_Lobby,105,452,2895,PLAYING AS LAZAREL AND TERESA,
-288,Tavern_Online_Lobby,106,456,2925,ATTACK-ORIENTED,
-288,Tavern_Online_Lobby,107,460,2941,DEFENCE-ORIENTED,
-288,Tavern_Online_Lobby,108,464,2958,HEALING-ORIENTED,
-288,Tavern_Online_Lobby,109,468,2975,EVERYONE,
-288,Tavern_Online_Lobby,110,472,2984,HOST WILL BE,
-288,Tavern_Online_Lobby,111,476,2997,NOW RECRUITING,
-288,Tavern_Online_Lobby,112,480,3012,NOT ALLOWED,
-288,Tavern_Online_Lobby,113,484,3024,USE LOTS OF CHAT MESSAGES,
+288,Tavern_Online_Lobby,0,32,632,BEGINNERS WELCOME,ยินดีต้อนรับมือใหม่
+288,Tavern_Online_Lobby,1,36,650,EXPERIENCED WARRIORS ONLY,เฉพาะนักรบผู้มีประสบการณ์เท่านั้น
+288,Tavern_Online_Lobby,2,40,676,ANYONE WELCOME,ยินดีต้อนรับทุกคน
+288,Tavern_Online_Lobby,3,44,691,I NEED YOUR HELP,ต้องการความช่วยเหลือ
+288,Tavern_Online_Lobby,4,48,708,"JUST ONE DUNGEON, THEN WE'RE DONE",ขอลงดันเจี้ยนเดียวแล้วพอ
+288,Tavern_Online_Lobby,5,52,742,LET'S KEEP PLAYING THE SAME DUNGEON,มาลงดันเจี้ยนเดิมซ้ำ ๆ กันเถอะ
+288,Tavern_Online_Lobby,6,56,778,LET'S PLAY THROUGH A SET OF DUNGEONS,มาลงดันเจี้ยนต่อเนื่องกันหลายแห่ง
+288,Tavern_Online_Lobby,7,60,815,PLAYING FOR ABOUT HALF AN HOUR,เล่นประมาณครึ่งชั่วโมง
+288,Tavern_Online_Lobby,8,64,846,PLAYING FOR ABOUT AN HOUR,เล่นประมาณ 1 ชั่วโมง
+288,Tavern_Online_Lobby,9,68,872,PLAYING FOR ABOUT TWO HOURS,เล่นประมาณ 2 ชั่วโมง
+288,Tavern_Online_Lobby,10,72,900,PLAYING ALL NIGHT LONG,เล่นกันยาว ๆ ตลอดทั้งคืน
+288,Tavern_Online_Lobby,11,76,923,SHOW NO MERCY,บุกตะลุยไม่ปรานี
+288,Tavern_Online_Lobby,12,80,937,MIX IT UP,ผสมผสานกลยุทธ์
+288,Tavern_Online_Lobby,13,84,947,WATCH MY BACK,ช่วยระวังหลังให้ฉันด้วย
+288,Tavern_Online_Lobby,14,88,961,LEAVE IT TO ME,ปล่อยให้เป็นหน้าที่ฉันเอง
+288,Tavern_Online_Lobby,15,92,976,FIGHT WISELY,ต่อสู้อย่างชาญฉลาด
+288,Tavern_Online_Lobby,16,96,989,FOCUS ON HEALING,เน้นการฟื้นฟูพลัง
+288,Tavern_Online_Lobby,17,100,1006,FOLLOW ORDERS,ปฏิบัติตามคำสั่ง
+288,Tavern_Online_Lobby,18,104,1020,LEVELLING UP,เน้นเก็บเลเวล
+288,Tavern_Online_Lobby,19,108,1033,RAISING WEAPON PROFICIENCY,เน้นเพิ่มความชำนาญอาวุธ
+288,Tavern_Online_Lobby,20,112,1060,MAKING MONEY,เน้นหาเงิน
+288,Tavern_Online_Lobby,21,116,1073,FARMING FOR INGREDIENTS,เน้นฟาร์มวัตถุดิบ
+288,Tavern_Online_Lobby,22,120,1097,ACQUIRING ACCESSORIES,เน้นหาเครื่องประดับ
+288,Tavern_Online_Lobby,23,124,1119,BROADCASTING LIVE,กำลังถ่ายทอดสด
+288,Tavern_Online_Lobby,24,128,1137,LOOKING FOR FRIENDS,กำลังหาเพื่อนร่วมทาง
+288,Tavern_Online_Lobby,25,132,1157,KILLING TIME,เล่นฆ่าเวลา
+288,Tavern_Online_Lobby,26,136,1170,ANYONE CAN PICK WHERE WE GO,ใครจะเลือกไปที่ไหนก็ได้ตามสบาย
+288,Tavern_Online_Lobby,27,140,1198,PRACTISING HOW TO PLAY,กำลังฝึกซ้อมวิธีการเล่น
+288,Tavern_Online_Lobby,28,144,1221,PLAYING AS LAZAREL,เล่นเป็นราเซล
+288,Tavern_Online_Lobby,29,148,1240,PLAYING AS TERESA,เล่นเป็นเทเรเซีย
+288,Tavern_Online_Lobby,30,152,1258,PLAYING AS CESAR,เล่นเป็นซีซาร์
+288,Tavern_Online_Lobby,31,156,1275,PLAYING AS DESDEMONA,เล่นเป็นเดสเดโมน่า
+288,Tavern_Online_Lobby,32,160,1296,PLAYING AS ALENA,เล่นเป็นอาลีน่า
+288,Tavern_Online_Lobby,33,164,1313,PLAYING AS KIRYL,เล่นเป็นคริฟต์
+288,Tavern_Online_Lobby,34,168,1330,PLAYING AS TORNEKO,เล่นเป็นทอร์เนโก้
+288,Tavern_Online_Lobby,35,172,1349,PLAYING AS MEENA,เล่นเป็นมีเนีย
+288,Tavern_Online_Lobby,36,176,1366,PLAYING AS MAYA,เล่นเป็นมาเนีย
+288,Tavern_Online_Lobby,37,180,1382,PLAYING AS CARVER,เล่นเป็นฮัสซัน
+288,Tavern_Online_Lobby,38,184,1400,PLAYING AS TERRY,เล่นเป็นเทอร์รี่
+288,Tavern_Online_Lobby,39,188,1417,PLAYING AS MARIBEL,เล่นเป็นมาริเบล
+288,Tavern_Online_Lobby,40,192,1436,PLAYING AS RUFF,เล่นเป็นกาโบ
+288,Tavern_Online_Lobby,41,196,1452,PLAYING AS ANGELO,เล่นเป็นคูเคิล
+288,Tavern_Online_Lobby,42,200,1470,PLAYING AS JESSICA,เล่นเป็นเจสสิก้า
+288,Tavern_Online_Lobby,43,204,1489,PLAYING AS LUCEUS,เล่นเป็นแอคท์
+288,Tavern_Online_Lobby,44,208,1507,PLAYING AS AURORA,เล่นเป็นเมียร์
+288,Tavern_Online_Lobby,45,212,1525,PLAYING AS DORIC,เล่นเป็นดิลค์
+288,Tavern_Online_Lobby,46,216,1542,PLAYING AS ISLA,เล่นเป็นจูเลียตต้า
+288,Tavern_Online_Lobby,47,220,1558,PLAYING AS YANGUS,เล่นเป็นยังกัส
+288,Tavern_Online_Lobby,48,224,1576,PLAYING AS BIANCA,เล่นเป็นเบียงก้า
+288,Tavern_Online_Lobby,49,228,1594,PLAYING AS NERA,เล่นเป็นฟลอร่า
+288,Tavern_Online_Lobby,50,232,1610,PLAYING AS PSARO,เล่นเป็นพิซาโร่
+288,Tavern_Online_Lobby,51,236,1627,PLAYING AS WARRIOR,เล่นเป็นนักรบ
+288,Tavern_Online_Lobby,52,240,1646,PLAYING AS MARTIAL ARTIST,เล่นเป็นนักสู้
+288,Tavern_Online_Lobby,53,244,1672,PLAYING AS MAGE,เล่นเป็นนักเวท
+288,Tavern_Online_Lobby,54,248,1688,PLAYING AS PRIEST,เล่นเป็นนักบวช
+288,Tavern_Online_Lobby,55,252,1706,PLAYING AS THIEF,เล่นเป็นจอมโจร
+288,Tavern_Online_Lobby,56,256,1723,PLAYING AS GLADIATOR,เล่นเป็นกลาดิเอเตอร์
+288,Tavern_Online_Lobby,57,260,1744,PLAYING AS SAGE,เล่นเป็นปราชญ์
+288,Tavern_Online_Lobby,58,264,1760,LOOKING FOR PLAYERS OF LEVELS 1-10,รับสมัครผู้เล่นเลเวล 1-10
+288,Tavern_Online_Lobby,59,268,1795,LOOKING FOR PLAYERS OF LEVELS 10-20,รับสมัครผู้เล่นเลเวล 10-20
+288,Tavern_Online_Lobby,60,272,1831,LOOKING FOR PLAYERS OF LEVELS 20-30,รับสมัครผู้เล่นเลเวล 20-30
+288,Tavern_Online_Lobby,61,276,1867,LOOKING FOR PLAYERS OF LEVELS 30-40,รับสมัครผู้เล่นเลเวล 30-40
+288,Tavern_Online_Lobby,62,280,1903,LOOKING FOR PLAYERS OF LEVELS 40-50,รับสมัครผู้เล่นเลเวล 40-50
+288,Tavern_Online_Lobby,63,284,1939,LOOKING FOR PLAYERS OF LEVELS 50-60,รับสมัครผู้เล่นเลเวล 50-60
+288,Tavern_Online_Lobby,64,288,1975,LOOKING FOR PLAYERS OF LEVELS 60-70,รับสมัครผู้เล่นเลเวล 60-70
+288,Tavern_Online_Lobby,65,292,2011,LOOKING FOR PLAYERS OF LEVELS 70-80,รับสมัครผู้เล่นเลเวล 70-80
+288,Tavern_Online_Lobby,66,296,2047,LOOKING FOR PLAYERS OF LEVELS 80-90,รับสมัครผู้เล่นเลเวล 80-90
+288,Tavern_Online_Lobby,67,300,2083,LOOKING FOR PLAYERS OF LEVELS 90-99,รับสมัครผู้เล่นเลเวล 90-99
+288,Tavern_Online_Lobby,68,304,2119,PLAYERS OF ALL LEVELS WELCOME,ยินดีต้อนรับผู้เล่นทุกเลเวล
+288,Tavern_Online_Lobby,69,308,2149,LOOKING FOR PLAYERS OF RANKS 1-10,รับสมัครผู้เล่นอันดับ 1-10
+288,Tavern_Online_Lobby,70,312,2183,LOOKING FOR PLAYERS OF RANKS 10-20,รับสมัครผู้เล่นอันดับ 10-20
+288,Tavern_Online_Lobby,71,316,2218,LOOKING FOR PLAYERS OF RANKS 20-30,รับสมัครผู้เล่นอันดับ 20-30
+288,Tavern_Online_Lobby,72,320,2253,PLAYERS OF ALL RANKS WELCOME,ยินดีต้อนรับผู้เล่นทุกอันดับ
+288,Tavern_Online_Lobby,73,324,2282,FIGHTING WITH TWIN SWORDS,ต่อสู้ด้วยดาบคู่
+288,Tavern_Online_Lobby,74,328,2308,FIGHTING WITH SWORDS,ต่อสู้ด้วยดาบ
+288,Tavern_Online_Lobby,75,332,2329,FIGHTING WITH GREATSWORDS,ต่อสู้ด้วยดาบใหญ่
+288,Tavern_Online_Lobby,76,336,2355,FIGHTING WITH AXES,ต่อสู้ด้วยขวาน
+288,Tavern_Online_Lobby,77,340,2374,FIGHTING WITH GAUNTLETS,ต่อสู้ด้วยสนับมือ
+288,Tavern_Online_Lobby,78,344,2398,FIGHTING WITH SPEARS,ต่อสู้ด้วยหอก
+288,Tavern_Online_Lobby,79,348,2419,FIGHTING WITH ABACUSES,ต่อสู้ด้วยลูกคิด
+288,Tavern_Online_Lobby,80,352,2442,FIGHTING WITH TAROT CARDS,ต่อสู้ด้วยไพ่ทาโรต์
+288,Tavern_Online_Lobby,81,356,2468,FIGHTING WITH FANS,ต่อสู้ด้วยพัด
+288,Tavern_Online_Lobby,82,360,2487,FIGHTING WITH BOOMERANGS,ต่อสู้ด้วยบูมเมอแรง
+288,Tavern_Online_Lobby,83,364,2512,FIGHTING WITH CLAWS,ต่อสู้ด้วยกรงเล็บ
+288,Tavern_Online_Lobby,84,368,2532,FIGHTING WITH BOWS,ต่อสู้ด้วยธนู
+288,Tavern_Online_Lobby,85,372,2551,FIGHTING WITH WHIPS,ต่อสู้ด้วยแส้
+288,Tavern_Online_Lobby,86,376,2571,FIGHTING WITH WANDS,ต่อสู้ด้วยคทา
+288,Tavern_Online_Lobby,87,380,2591,FIGHTING WITH HEAVY WANDS,ต่อสู้ด้วยไม้เท้าใหญ่
+288,Tavern_Online_Lobby,88,384,2617,FIGHTING WITH STAVES,ต่อสู้ด้วยกระบอง
+288,Tavern_Online_Lobby,89,388,2638,NO TIME-WASTERS,ห้ามคนป่วนเข้ามากวน
+288,Tavern_Online_Lobby,90,392,2654,"NOT TOO SERIOUS, OKAY<FH>",ไม่ต้องจริงจังกันมากนะ เข้าใจไหม<FH>
+288,Tavern_Online_Lobby,91,396,2679,LET'S HAVE FUN,มาเล่นให้สนุกกันเถอะ
+288,Tavern_Online_Lobby,92,400,2694,NO ONE LEAVES TILL WE'VE WON THIS,ห้ามใครออกจนกว่าพวกเราจะชนะ
+288,Tavern_Online_Lobby,93,404,2728,LET'S GET THE ALL-TIME SPEED RECORD,มาทำลายสถิติความเร็วตลอดกาลกัน
+288,Tavern_Online_Lobby,94,408,2764,MALE CHARACTERS ONLY,เฉพาะตัวละครชายเท่านั้น
+288,Tavern_Online_Lobby,95,412,2785,FEMALE CHARACTERS ONLY,เฉพาะตัวละครหญิงเท่านั้น
+288,Tavern_Online_Lobby,96,416,2808,SPECIAL EVENT UNDERWAY,กิจกรรมพิเศษกำลังดำเนินอยู่
+288,Tavern_Online_Lobby,97,420,2831,LOBBY A,ล็อบบี้ A
+288,Tavern_Online_Lobby,98,424,2839,LOBBY B,ล็อบบี้ B
+288,Tavern_Online_Lobby,99,428,2847,LOBBY C,ล็อบบี้ C
+288,Tavern_Online_Lobby,100,432,2855,LOBBY D,ล็อบบี้ D
+288,Tavern_Online_Lobby,101,436,2863,LOBBY E,ล็อบบี้ E
+288,Tavern_Online_Lobby,102,440,2871,LOBBY F,ล็อบบี้ F
+288,Tavern_Online_Lobby,103,444,2879,LOBBY G,ล็อบบี้ G
+288,Tavern_Online_Lobby,104,448,2887,LOBBY H,ล็อบบี้ H
+288,Tavern_Online_Lobby,105,452,2895,PLAYING AS LAZAREL AND TERESA,เล่นเป็นราเซลและเทเรเซีย
+288,Tavern_Online_Lobby,106,456,2925,ATTACK-ORIENTED,เน้นการโจมตี
+288,Tavern_Online_Lobby,107,460,2941,DEFENCE-ORIENTED,เน้นการป้องกัน
+288,Tavern_Online_Lobby,108,464,2958,HEALING-ORIENTED,เน้นการฟื้นฟู
+288,Tavern_Online_Lobby,109,468,2975,EVERYONE,ทุกคน
+288,Tavern_Online_Lobby,110,472,2984,HOST WILL BE,หัวหน้าห้องจะเป็น
+288,Tavern_Online_Lobby,111,476,2997,NOW RECRUITING,กำลังรับสมัคร
+288,Tavern_Online_Lobby,112,480,3012,NOT ALLOWED,ไม่อนุญาต
+288,Tavern_Online_Lobby,113,484,3024,USE LOTS OF CHAT MESSAGES,โปรดใช้ข้อความแชตบ่อย ๆ
 288,Tavern_Online_Lobby,114,488,3050,,
 288,Tavern_Online_Lobby,115,492,3051,,
 288,Tavern_Online_Lobby,116,496,3052,,
@@ -46676,63 +46676,63 @@
 309,Transformation_Attacks,417,1700,3575,,
 309,Transformation_Attacks,418,1704,3576,,
 309,Transformation_Attacks,419,1708,3577,,
-316,PC_Config_Tool,0,32,432,DRAGON QUEST HEROES II,
-316,PC_Config_Tool,1,36,455,DRAGON QUEST HEROES II Configuration Tool,
-316,PC_Config_Tool,2,40,497,Restore Defaults,
-316,PC_Config_Tool,3,44,514,OK,
-316,PC_Config_Tool,4,48,517,Cancel,
-316,PC_Config_Tool,5,52,524,Game Settings,
-316,PC_Config_Tool,6,56,538,Graphics Settings,
-316,PC_Config_Tool,7,60,556,Full Screen Display,
-316,PC_Config_Tool,8,64,576,Resolution,
-316,PC_Config_Tool,9,68,587,Frame Rate,
-316,PC_Config_Tool,10,72,598,Movies,
-316,PC_Config_Tool,11,76,605,Controller Layout,
-316,PC_Config_Tool,12,80,623,Text Language,
-316,PC_Config_Tool,13,84,637,Quality Settings,
-316,PC_Config_Tool,14,88,654,No. of On-Screen Characters,
-316,PC_Config_Tool,15,92,682,Draw Distance,
-316,PC_Config_Tool,16,96,696,Textures,
-316,PC_Config_Tool,17,100,705,Shadows,
-316,PC_Config_Tool,18,104,713,Ambient Occlusion,
-316,PC_Config_Tool,19,108,731,Reflections,
-316,PC_Config_Tool,20,112,743,Light Shafts,
-316,PC_Config_Tool,21,116,756,Particles,
-316,PC_Config_Tool,22,120,766,Global Illumination,
-316,PC_Config_Tool,23,124,786,20,
-316,PC_Config_Tool,24,128,789,30,
-316,PC_Config_Tool,25,132,792,60,
-316,PC_Config_Tool,26,136,795,On,
-316,PC_Config_Tool,27,140,798,Off,
-316,PC_Config_Tool,28,144,802,High,
-316,PC_Config_Tool,29,148,807,Medium,
-316,PC_Config_Tool,30,152,814,Low,
-316,PC_Config_Tool,31,156,818,Custom,
-316,PC_Config_Tool,32,160,825,640x360,
-316,PC_Config_Tool,33,164,833,800x450,
-316,PC_Config_Tool,34,168,841,1024x576,
-316,PC_Config_Tool,35,172,850,1280x720,
-316,PC_Config_Tool,36,176,859,1360x765,
-316,PC_Config_Tool,37,180,868,1600x900,
-316,PC_Config_Tool,38,184,877,1920x1080,
-316,PC_Config_Tool,39,188,887,English,
-316,PC_Config_Tool,40,192,895,Français,
-316,PC_Config_Tool,41,196,905,Deutsch,
-316,PC_Config_Tool,42,200,913,Italiano,
-316,PC_Config_Tool,43,204,922,한국어‫,
-316,PC_Config_Tool,44,208,935,Español,
-316,PC_Config_Tool,45,212,944,繁體中文,
-316,PC_Config_Tool,46,216,957,"Select with A, Cancel with B",
-316,PC_Config_Tool,47,220,986,"Select with B, Cancel with A",
-316,PC_Config_Tool,48,224,1015,SQUARE ENIX,
-316,PC_Config_Tool,49,228,1027,Settings cannot be changed via the configuration tool while the game is running.,
-316,PC_Config_Tool,50,232,1108,Windows 7 Compatibility Mode,
-316,PC_Config_Tool,51,236,1137,Running the game in Windows 7 compatibility mode can solve stability issues that may occur in systems using Windows 8.1 and NVIDIA graphics cards.,
-316,PC_Config_Tool,52,240,1284,2560x1440,
-316,PC_Config_Tool,53,244,1294,2560x1600,
-316,PC_Config_Tool,54,248,1304,3840x2160,
-316,PC_Config_Tool,55,252,1314,Volumetric Fog,
-316,PC_Config_Tool,56,256,1329,Point Light Shadows,
+316,PC_Config_Tool,0,32,432,DRAGON QUEST HEROES II,DRAGON QUEST HEROES II
+316,PC_Config_Tool,1,36,455,DRAGON QUEST HEROES II Configuration Tool,เครื่องมือกำหนดค่า DRAGON QUEST HEROES II
+316,PC_Config_Tool,2,40,497,Restore Defaults,คืนค่าเริ่มต้น
+316,PC_Config_Tool,3,44,514,OK,ตกลง
+316,PC_Config_Tool,4,48,517,Cancel,ยกเลิก
+316,PC_Config_Tool,5,52,524,Game Settings,การตั้งค่าเกม
+316,PC_Config_Tool,6,56,538,Graphics Settings,การตั้งค่ากราฟิก
+316,PC_Config_Tool,7,60,556,Full Screen Display,แสดงผลเต็มจอ
+316,PC_Config_Tool,8,64,576,Resolution,ความละเอียด
+316,PC_Config_Tool,9,68,587,Frame Rate,เฟรมเรต
+316,PC_Config_Tool,10,72,598,Movies,ฉากคัตซีน
+316,PC_Config_Tool,11,76,605,Controller Layout,ผังปุ่มควบคุม
+316,PC_Config_Tool,12,80,623,Text Language,ภาษาของข้อความ
+316,PC_Config_Tool,13,84,637,Quality Settings,คุณภาพกราฟิก
+316,PC_Config_Tool,14,88,654,No. of On-Screen Characters,จำนวนตัวละครบนหน้าจอ
+316,PC_Config_Tool,15,92,682,Draw Distance,ระยะการเรนเดอร์ภาพ
+316,PC_Config_Tool,16,96,696,Textures,คุณภาพพื้นผิว
+316,PC_Config_Tool,17,100,705,Shadows,คุณภาพเงา
+316,PC_Config_Tool,18,104,713,Ambient Occlusion,การบดบังของแสงเงา
+316,PC_Config_Tool,19,108,731,Reflections,ภาพสะท้อน
+316,PC_Config_Tool,20,112,743,Light Shafts,ลำแสง
+316,PC_Config_Tool,21,116,756,Particles,อนุภาคเอฟเฟกต์
+316,PC_Config_Tool,22,120,766,Global Illumination,แสงกระจายรอบทิศ
+316,PC_Config_Tool,23,124,786,20,20
+316,PC_Config_Tool,24,128,789,30,30
+316,PC_Config_Tool,25,132,792,60,60
+316,PC_Config_Tool,26,136,795,On,เปิด
+316,PC_Config_Tool,27,140,798,Off,ปิด
+316,PC_Config_Tool,28,144,802,High,สูง
+316,PC_Config_Tool,29,148,807,Medium,ปานกลาง
+316,PC_Config_Tool,30,152,814,Low,ต่ำ
+316,PC_Config_Tool,31,156,818,Custom,กำหนดเอง
+316,PC_Config_Tool,32,160,825,640x360,640x360
+316,PC_Config_Tool,33,164,833,800x450,800x450
+316,PC_Config_Tool,34,168,841,1024x576,1024x576
+316,PC_Config_Tool,35,172,850,1280x720,1280x720
+316,PC_Config_Tool,36,176,859,1360x765,1360x765
+316,PC_Config_Tool,37,180,868,1600x900,1600x900
+316,PC_Config_Tool,38,184,877,1920x1080,1920x1080
+316,PC_Config_Tool,39,188,887,English,English
+316,PC_Config_Tool,40,192,895,Français,Français
+316,PC_Config_Tool,41,196,905,Deutsch,Deutsch
+316,PC_Config_Tool,42,200,913,Italiano,Italiano
+316,PC_Config_Tool,43,204,922,한국어‫,한국어
+316,PC_Config_Tool,44,208,935,Español,Español
+316,PC_Config_Tool,45,212,944,繁體中文,繁體中文
+316,PC_Config_Tool,46,216,957,"Select with A, Cancel with B","เลือกด้วย A, ยกเลิกด้วย B"
+316,PC_Config_Tool,47,220,986,"Select with B, Cancel with A","เลือกด้วย B, ยกเลิกด้วย A"
+316,PC_Config_Tool,48,224,1015,SQUARE ENIX,SQUARE ENIX
+316,PC_Config_Tool,49,228,1027,Settings cannot be changed via the configuration tool while the game is running.,ไม่สามารถเปลี่ยนการตั้งค่าผ่านเครื่องมือกำหนดค่าได้ขณะที่เกมกำลังทำงานอยู่
+316,PC_Config_Tool,50,232,1108,Windows 7 Compatibility Mode,โหมดความเข้ากันได้กับ Windows 7
+316,PC_Config_Tool,51,236,1137,Running the game in Windows 7 compatibility mode can solve stability issues that may occur in systems using Windows 8.1 and NVIDIA graphics cards.,การเล่นเกมในโหมดความเข้ากันได้กับ Windows 7 อาจช่วยแก้ปัญหาความเสถียรที่อาจเกิดขึ้นในระบบที่ใช้ Windows 8.1 และการ์ดจอ NVIDIA ได้
+316,PC_Config_Tool,52,240,1284,2560x1440,2560x1440
+316,PC_Config_Tool,53,244,1294,2560x1600,2560x1600
+316,PC_Config_Tool,54,248,1304,3840x2160,3840x2160
+316,PC_Config_Tool,55,252,1314,Volumetric Fog,หมอกมิติแสง
+316,PC_Config_Tool,56,256,1329,Point Light Shadows,เงาแสงเฉพาะจุด
 316,PC_Config_Tool,57,260,1349,,
 316,PC_Config_Tool,58,264,1350,,
 316,PC_Config_Tool,59,268,1351,,
@@ -49041,120 +49041,120 @@
 518,DLC_Epilogue_Stories,2007,8060,80331,"I'm the king of the whole, wide world<FG>",
 518,DLC_Epilogue_Stories,2008,8064,80372,Alllright<FG>,
 518,DLC_Epilogue_Stories,2009,8068,80385,"I'm the queen of the whole, wide world<FG>",
-11652,Adventurer_Arena,0,36,356,Adventurer's Arena,
-11652,Adventurer_Arena,1,40,375,Adventurer's Arena,
-11652,Adventurer_Arena,2,44,394,A battlefield where the finest fighters face off with monster minions at their command in massive monster medal melees<FG>,
-11652,Adventurer_Arena,3,48,516,Adventurer's Arenas,
+11652,Adventurer_Arena,0,36,356,Adventurer's Arena,ลานประลองนักผจญภัย
+11652,Adventurer_Arena,1,40,375,Adventurer's Arena,ลานประลองนักผจญภัย
+11652,Adventurer_Arena,2,44,394,A battlefield where the finest fighters face off with monster minions at their command in massive monster medal melees<FG>,สมรภูมิที่เหล่านักสู้ชั้นยอดประจันหน้ากันด้วยการบัญชาการสมุนมอนสเตอร์ในการตะลุมบอนเหรียญมอนสเตอร์ครั้งยิ่งใหญ่<FG>
+11652,Adventurer_Arena,3,48,516,Adventurer's Arenas,ลานประลองนักผจญภัย
 11652,Adventurer_Arena,4,52,536,,
 11652,Adventurer_Arena,5,56,537,,
 11652,Adventurer_Arena,6,60,538,,
 11652,Adventurer_Arena,7,64,539,,
-11652,Adventurer_Arena,8,68,540,Jailcat Jam,
-11652,Adventurer_Arena,9,72,552,Jailcat Jam,
+11652,Adventurer_Arena,8,68,540,Jailcat Jam,ศึกตะลุมบอนเจลแคท
+11652,Adventurer_Arena,9,72,552,Jailcat Jam,ศึกตะลุมบอนเจลแคท
 11652,Adventurer_Arena,10,76,564,,
-11652,Adventurer_Arena,11,80,565,Jailcat Jams,
+11652,Adventurer_Arena,11,80,565,Jailcat Jams,ศึกตะลุมบอนเจลแคท
 11652,Adventurer_Arena,12,84,578,,
 11652,Adventurer_Arena,13,88,579,,
 11652,Adventurer_Arena,14,92,580,,
 11652,Adventurer_Arena,15,96,581,,
-11652,Adventurer_Arena,16,100,582,Stadium of Sorcerers,
-11652,Adventurer_Arena,17,104,603,Stadium of Sorcerers,
+11652,Adventurer_Arena,16,100,582,Stadium of Sorcerers,สนามกีฬาแห่งจอมเวท
+11652,Adventurer_Arena,17,104,603,Stadium of Sorcerers,สนามกีฬาแห่งจอมเวท
 11652,Adventurer_Arena,18,108,624,,
-11652,Adventurer_Arena,19,112,625,Stadiums of Sorcerers,
+11652,Adventurer_Arena,19,112,625,Stadiums of Sorcerers,สนามกีฬาแห่งจอมเวท
 11652,Adventurer_Arena,20,116,647,,
 11652,Adventurer_Arena,21,120,648,,
 11652,Adventurer_Arena,22,124,649,,
 11652,Adventurer_Arena,23,128,650,,
-11652,Adventurer_Arena,24,132,651,Bodkin Battleground,
-11652,Adventurer_Arena,25,136,671,Bodkin Battleground,
+11652,Adventurer_Arena,24,132,651,Bodkin Battleground,สมรภูมิบ็อดกิน
+11652,Adventurer_Arena,25,136,671,Bodkin Battleground,สมรภูมิบ็อดกิน
 11652,Adventurer_Arena,26,140,691,,
-11652,Adventurer_Arena,27,144,692,Bodkin Battlegrounds,
+11652,Adventurer_Arena,27,144,692,Bodkin Battlegrounds,สมรภูมิบ็อดกิน
 11652,Adventurer_Arena,28,148,713,,
 11652,Adventurer_Arena,29,152,714,,
 11652,Adventurer_Arena,30,156,715,,
 11652,Adventurer_Arena,31,160,716,,
-11652,Adventurer_Arena,32,164,717,War of the Walking Corpses,
-11652,Adventurer_Arena,33,168,744,War of the Walking Corpses,
+11652,Adventurer_Arena,32,164,717,War of the Walking Corpses,สงครามซากศพเดินได้
+11652,Adventurer_Arena,33,168,744,War of the Walking Corpses,สงครามซากศพเดินได้
 11652,Adventurer_Arena,34,172,771,,
-11652,Adventurer_Arena,35,176,772,Wars of the Walking Corpses,
+11652,Adventurer_Arena,35,176,772,Wars of the Walking Corpses,สงครามซากศพเดินได้
 11652,Adventurer_Arena,36,180,800,,
 11652,Adventurer_Arena,37,184,801,,
 11652,Adventurer_Arena,38,188,802,,
 11652,Adventurer_Arena,39,192,803,,
-11652,Adventurer_Arena,40,196,804,Mimic Melee,
-11652,Adventurer_Arena,41,200,816,Mimic Melee,
+11652,Adventurer_Arena,40,196,804,Mimic Melee,ศึกชุลมุนมิมิก
+11652,Adventurer_Arena,41,200,816,Mimic Melee,ศึกชุลมุนมิมิก
 11652,Adventurer_Arena,42,204,828,,
-11652,Adventurer_Arena,43,208,829,Mimic Melees,
+11652,Adventurer_Arena,43,208,829,Mimic Melees,ศึกชุลมุนมิมิก
 11652,Adventurer_Arena,44,212,842,,
 11652,Adventurer_Arena,45,216,843,,
 11652,Adventurer_Arena,46,220,844,,
 11652,Adventurer_Arena,47,224,845,,
-11652,Adventurer_Arena,48,228,846,Muddy Hand Madness,
-11652,Adventurer_Arena,49,232,865,Muddy Hand Madness,
+11652,Adventurer_Arena,48,228,846,Muddy Hand Madness,ความบ้าคลั่งของมือโคลน
+11652,Adventurer_Arena,49,232,865,Muddy Hand Madness,ความบ้าคลั่งของมือโคลน
 11652,Adventurer_Arena,50,236,884,,
-11652,Adventurer_Arena,51,240,885,Muddy Hand Madnesses,
+11652,Adventurer_Arena,51,240,885,Muddy Hand Madnesses,ความบ้าคลั่งของมือโคลน
 11652,Adventurer_Arena,52,244,906,,
 11652,Adventurer_Arena,53,248,907,,
 11652,Adventurer_Arena,54,252,908,,
 11652,Adventurer_Arena,55,256,909,,
-11652,Adventurer_Arena,56,260,910,Battle o' the Bags o' Laughs,
-11652,Adventurer_Arena,57,264,939,Battle o' the Bags o' Laughs,
+11652,Adventurer_Arena,56,260,910,Battle o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
+11652,Adventurer_Arena,57,264,939,Battle o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
 11652,Adventurer_Arena,58,268,968,,
-11652,Adventurer_Arena,59,272,969,Battles o' the Bags o' Laughs,
+11652,Adventurer_Arena,59,272,969,Battles o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
 11652,Adventurer_Arena,60,276,999,,
 11652,Adventurer_Arena,61,280,1000,,
 11652,Adventurer_Arena,62,284,1001,,
 11652,Adventurer_Arena,63,288,1002,,
-11652,Adventurer_Arena,64,292,1003,Ghostly Goings-On,
-11652,Adventurer_Arena,65,296,1021,Ghostly Goings-On,
+11652,Adventurer_Arena,64,292,1003,Ghostly Goings-On,เรื่องลี้ลับของภูตผี
+11652,Adventurer_Arena,65,296,1021,Ghostly Goings-On,เรื่องลี้ลับของภูตผี
 11652,Adventurer_Arena,66,300,1039,,
-11652,Adventurer_Arena,67,304,1040,Ghostly Goings-Ons,
+11652,Adventurer_Arena,67,304,1040,Ghostly Goings-Ons,เรื่องลี้ลับของภูตผี
 11652,Adventurer_Arena,68,308,1059,,
 11652,Adventurer_Arena,69,312,1060,,
 11652,Adventurer_Arena,70,316,1061,,
 11652,Adventurer_Arena,71,320,1062,,
-11652,Adventurer_Arena,72,324,1063,Hammerhood Head-to-Head,
-11652,Adventurer_Arena,73,328,1087,Hammerhood Head-to-Head,
+11652,Adventurer_Arena,72,324,1063,Hammerhood Head-to-Head,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
+11652,Adventurer_Arena,73,328,1087,Hammerhood Head-to-Head,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
 11652,Adventurer_Arena,74,332,1111,,
-11652,Adventurer_Arena,75,336,1112,Hammerhood Head-to-Heads,
+11652,Adventurer_Arena,75,336,1112,Hammerhood Head-to-Heads,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
 11652,Adventurer_Arena,76,340,1137,,
 11652,Adventurer_Arena,77,344,1138,,
 11652,Adventurer_Arena,78,348,1139,,
 11652,Adventurer_Arena,79,352,1140,,
-11666,Dungeon_Master_Prompts,0,36,356,Dungeon master healed<FG>,
-11666,Dungeon_Master_Prompts,1,40,381,Dungeon master healed<FG>,
+11666,Dungeon_Master_Prompts,0,36,356,Dungeon master healed<FG>,ดันเจี้ยนมาสเตอร์ได้รับการฟื้นฟูแล้ว<FG>
+11666,Dungeon_Master_Prompts,1,40,381,Dungeon master healed<FG>,ดันเจี้ยนมาสเตอร์ได้รับการฟื้นฟูแล้ว<FG>
 11666,Dungeon_Master_Prompts,2,44,406,,
 11666,Dungeon_Master_Prompts,3,48,407,,
 11666,Dungeon_Master_Prompts,4,52,408,,
 11666,Dungeon_Master_Prompts,5,56,409,,
 11666,Dungeon_Master_Prompts,6,60,410,,
 11666,Dungeon_Master_Prompts,7,64,411,,
-11666,Dungeon_Master_Prompts,8,68,412,Earning double points<FG>,
-11666,Dungeon_Master_Prompts,9,72,437,Earning double points<FG>,
+11666,Dungeon_Master_Prompts,8,68,412,Earning double points<FG>,ได้รับคะแนน 2 เท่า<FG>
+11666,Dungeon_Master_Prompts,9,72,437,Earning double points<FG>,ได้รับคะแนน 2 เท่า<FG>
 11666,Dungeon_Master_Prompts,10,76,462,,
 11666,Dungeon_Master_Prompts,11,80,463,,
 11666,Dungeon_Master_Prompts,12,84,464,,
 11666,Dungeon_Master_Prompts,13,88,465,,
 11666,Dungeon_Master_Prompts,14,92,466,,
 11666,Dungeon_Master_Prompts,15,96,467,,
-11666,Dungeon_Master_Prompts,16,100,468,Tension maxed out<FG>,
-11666,Dungeon_Master_Prompts,17,104,489,Tension maxed out<FG>,
+11666,Dungeon_Master_Prompts,16,100,468,Tension maxed out<FG>,เกจเทนชันเต็มพิกัด<FG>
+11666,Dungeon_Master_Prompts,17,104,489,Tension maxed out<FG>,เกจเทนชันเต็มพิกัด<FG>
 11666,Dungeon_Master_Prompts,18,108,510,,
 11666,Dungeon_Master_Prompts,19,112,511,,
 11666,Dungeon_Master_Prompts,20,116,512,,
 11666,Dungeon_Master_Prompts,21,120,513,,
 11666,Dungeon_Master_Prompts,22,124,514,,
 11666,Dungeon_Master_Prompts,23,128,515,,
-11666,Dungeon_Master_Prompts,24,132,516,HP reduced to 1<FG>,
-11666,Dungeon_Master_Prompts,25,136,535,HP reduced to 1<FG>,
+11666,Dungeon_Master_Prompts,24,132,516,HP reduced to 1<FG>,HP ลดเหลือ 1<FG>
+11666,Dungeon_Master_Prompts,25,136,535,HP reduced to 1<FG>,HP ลดเหลือ 1<FG>
 11666,Dungeon_Master_Prompts,26,140,554,,
 11666,Dungeon_Master_Prompts,27,144,555,,
 11666,Dungeon_Master_Prompts,28,148,556,,
 11666,Dungeon_Master_Prompts,29,152,557,,
 11666,Dungeon_Master_Prompts,30,156,558,,
 11666,Dungeon_Master_Prompts,31,160,559,,
-11666,Dungeon_Master_Prompts,32,164,560,Kaclang<FG>,
-11666,Dungeon_Master_Prompts,33,168,571,Kaclang<FG>,
+11666,Dungeon_Master_Prompts,32,164,560,Kaclang<FG>,คาถาแอสทรัล<FG>
+11666,Dungeon_Master_Prompts,33,168,571,Kaclang<FG>,คาถาแอสทรัล<FG>
 11666,Dungeon_Master_Prompts,34,172,582,,
 11666,Dungeon_Master_Prompts,35,176,583,,
 11666,Dungeon_Master_Prompts,36,180,584,,
@@ -49201,34 +49201,34 @@
 11666,Dungeon_Master_Prompts,77,344,625,,
 11666,Dungeon_Master_Prompts,78,348,626,,
 11666,Dungeon_Master_Prompts,79,352,627,,
-11673,Hocus_Pocus_Medals,0,36,356,Hocus Pocus medal,
-11673,Hocus_Pocus_Medals,1,40,374,Hocus Pocus medal,
+11673,Hocus_Pocus_Medals,0,36,356,Hocus Pocus medal,เหรียญพัลพุนเต้
+11673,Hocus_Pocus_Medals,1,40,374,Hocus Pocus medal,เหรียญพัลพุนเต้
 11673,Hocus_Pocus_Medals,2,44,392,,
-11673,Hocus_Pocus_Medals,3,48,393,Hocus Pocus medals,
+11673,Hocus_Pocus_Medals,3,48,393,Hocus Pocus medals,เหรียญพัลพุนเต้
 11673,Hocus_Pocus_Medals,4,52,412,the ,
 11673,Hocus_Pocus_Medals,5,56,417,the ,
 11673,Hocus_Pocus_Medals,6,60,422,a ,
 11673,Hocus_Pocus_Medals,7,64,425,some ,
-11673,Hocus_Pocus_Medals,8,68,431,Kaclang medal,
-11673,Hocus_Pocus_Medals,9,72,445,Kaclang medal,
-11673,Hocus_Pocus_Medals,10,76,459,Other players can't move<FG>,
-11673,Hocus_Pocus_Medals,11,80,487,Kaclang medals,
+11673,Hocus_Pocus_Medals,8,68,431,Kaclang medal,เหรียญแอสทรัล
+11673,Hocus_Pocus_Medals,9,72,445,Kaclang medal,เหรียญแอสทรัล
+11673,Hocus_Pocus_Medals,10,76,459,Other players can't move<FG>,ผู้เล่นคนอื่นไม่สามารถเคลื่อนไหวได้<FG>
+11673,Hocus_Pocus_Medals,11,80,487,Kaclang medals,เหรียญแอสทรัล
 11673,Hocus_Pocus_Medals,12,84,502,the ,
 11673,Hocus_Pocus_Medals,13,88,507,the ,
 11673,Hocus_Pocus_Medals,14,92,512,a ,
 11673,Hocus_Pocus_Medals,15,96,515,some ,
-11673,Hocus_Pocus_Medals,16,100,521,Deceleratle medal,
-11673,Hocus_Pocus_Medals,17,104,539,Deceleratle medal,
-11673,Hocus_Pocus_Medals,18,108,557,Other players are moving slower<FG>,
-11673,Hocus_Pocus_Medals,19,112,592,Deceleratle medals,
+11673,Hocus_Pocus_Medals,16,100,521,Deceleratle medal,เหรียญโบมิออส
+11673,Hocus_Pocus_Medals,17,104,539,Deceleratle medal,เหรียญโบมิออส
+11673,Hocus_Pocus_Medals,18,108,557,Other players are moving slower<FG>,ผู้เล่นคนอื่นเคลื่อนที่ช้าลง<FG>
+11673,Hocus_Pocus_Medals,19,112,592,Deceleratle medals,เหรียญโบมิออส
 11673,Hocus_Pocus_Medals,20,116,611,the ,
 11673,Hocus_Pocus_Medals,21,120,616,the ,
 11673,Hocus_Pocus_Medals,22,124,621,a ,
 11673,Hocus_Pocus_Medals,23,128,624,some ,
-11673,Hocus_Pocus_Medals,24,132,630,exploding medal,
-11673,Hocus_Pocus_Medals,25,136,646,exploding medal,
+11673,Hocus_Pocus_Medals,24,132,630,exploding medal,เหรียญระเบิดกัมปนาท
+11673,Hocus_Pocus_Medals,25,136,646,exploding medal,เหรียญระเบิดกัมปนาท
 11673,Hocus_Pocus_Medals,26,140,662,,
-11673,Hocus_Pocus_Medals,27,144,663,exploding medals,
+11673,Hocus_Pocus_Medals,27,144,663,exploding medals,เหรียญระเบิดกัมปนาท
 11673,Hocus_Pocus_Medals,28,148,680,the ,
 11673,Hocus_Pocus_Medals,29,152,685,the ,
 11673,Hocus_Pocus_Medals,30,156,690,an ,

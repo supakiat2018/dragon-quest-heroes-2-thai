@@ -1,66 +1,66 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-225,Battle_Announcements,0,32,432,That got their attention<FG>,
-225,Battle_Announcements,1,36,460,The enemy's defence drops<FG>,
-225,Battle_Announcements,2,40,489,Defence increased<FG>,
-225,Battle_Announcements,3,44,510,Tension reduced<FG>,
-225,Battle_Announcements,4,48,529,Unable to heal<FG>,
-225,Battle_Announcements,5,52,547,<F4><I0>41 is frozen<FG>,
-225,Battle_Announcements,6,56,569,<F4><I0>41 is poisoned<FG>,
-225,Battle_Announcements,7,60,593,Tension increased<FG>,
-225,Battle_Announcements,8,64,614,Robbed of MP<FG>,
-225,Battle_Announcements,9,68,630,Attack increased<FG>,
-225,Battle_Announcements,10,72,650,Movement impaired<FG>,
-225,Battle_Announcements,11,76,671,<F4><I0>41 divides<FG>,
-225,Battle_Announcements,12,80,691,Showered with gold coins<FG>,
-225,Battle_Announcements,13,84,719,The enemy are staying well away<FG>,
-225,Battle_Announcements,14,88,754,All helpful effects are erased<FG>,
-225,Battle_Announcements,15,92,788,Unable to use spells or abilities<FG>,
-225,Battle_Announcements,16,96,825,<F4><I0>41 falls asleep<FG>,
-225,Battle_Announcements,17,100,850,<F4><I0>41 is bedazzled<FG>,
-225,Battle_Announcements,18,104,875,Defence reduced<FG>,
-225,Battle_Announcements,19,108,894,<F4><I0>41 can't stop dancing<FG>,
-225,Battle_Announcements,20,112,925,<F4><I0>41 can't move<FG>,
-225,Battle_Announcements,21,116,948,Attack massively increased<FG>,
-225,Battle_Announcements,22,120,978,Tension build speed increased<FG>,
-225,Battle_Announcements,23,124,1011,<F4><I0>41 clones <E0>41himself<E3>41herself<E4>41<FG>,
-225,Battle_Announcements,24,128,1060,Critical hit chance increased<FG>,
-225,Battle_Announcements,25,132,1093,The enemy's speed drops<FG>,
-225,Battle_Announcements,26,136,1120,All helpful effects are erased<FG>,
-225,Battle_Announcements,27,140,1154,Psaro's true power awakens<FG>,
-225,Battle_Announcements,28,144,1184,MP recovery slightly increased<FG>,
-225,Battle_Announcements,29,148,1218,The enemy's defence and speed drop<FG>,
-225,Battle_Announcements,30,152,1256,Gold coin haul increased<FG>,
-225,Battle_Announcements,31,156,1284,Gold coin haul massively increased<FG>,
-225,Battle_Announcements,32,160,1322,MP shared<FG>,
-225,Battle_Announcements,33,164,1335,Unused,
-225,Battle_Announcements,34,168,1342,Unused,
-225,Battle_Announcements,35,172,1349,Mash those monsters<FG>,
-225,Battle_Announcements,36,176,1372,Save that poor person<FG>,
-225,Battle_Announcements,37,180,1397,Time to test your mettle<FG>,
-225,Battle_Announcements,38,184,1425,Beat the baddies and banish the barrier<FG>,
-225,Battle_Announcements,39,188,1468,A barrier blocks the way<FG>,
-225,Battle_Announcements,40,192,1496,Break down that barrier<FG>,
-225,Battle_Announcements,41,196,1523,Protected against poison<FG>,
-225,Battle_Announcements,42,200,1551,Your bag is nearly full<FG>,
-225,Battle_Announcements,43,204,1578,It's locked<FG>,
-225,Battle_Announcements,44,208,1593,Cheer on your allies<FG>,
-225,Battle_Announcements,45,212,1617,Don't let them grind you down<FG>,
-225,Battle_Announcements,46,216,1650,Give them what for<FG>,
-225,Battle_Announcements,47,220,1672,You can't use that now<FG>,
-225,Battle_Announcements,48,224,1698,You're carrying so much you can't move<FG>,
-225,Battle_Announcements,49,228,1740,MP recovery increased<FG>,
-225,Battle_Announcements,50,232,1765,MP recovery massively increased<FG>,
-225,Battle_Announcements,51,236,1800,Defence massively increased<FG>,
-225,Battle_Announcements,52,240,1831,Immune to all attacks<FG>,
-225,Battle_Announcements,53,244,1856,That wasn't the real one<FG>,
-225,Battle_Announcements,54,248,1884,I'm casting Kazapple<FG>,
-225,Battle_Announcements,55,252,1908,I'm with you<FG>,
-225,Battle_Announcements,56,256,1924,Unused,
-225,Battle_Announcements,57,260,1931,Can't use MP<FG>,
-225,Battle_Announcements,58,264,1947,Unused,
-225,Battle_Announcements,59,268,1954,Unused,
-225,Battle_Announcements,60,272,1961,Unused,
-225,Battle_Announcements,61,276,1968,It changed into <I8>M1<FG>,
+225,Battle_Announcements,0,32,432,That got their attention<FG>,ดึงดูดความสนใจของศัตรูสำเร็จแล้ว<FG>
+225,Battle_Announcements,1,36,460,The enemy's defence drops<FG>,พลังป้องกันของศัตรูลดลง<FG>
+225,Battle_Announcements,2,40,489,Defence increased<FG>,พลังป้องกันเพิ่มขึ้น<FG>
+225,Battle_Announcements,3,44,510,Tension reduced<FG>,ค่าความฮึกเหิมลดลง<FG>
+225,Battle_Announcements,4,48,529,Unable to heal<FG>,ไม่สามารถฟื้นฟูพลังชีวิตได้<FG>
+225,Battle_Announcements,5,52,547,<F4><I0>41 is frozen<FG>,<F4><I0>41 ตัวแข็งทื่อ<FG>
+225,Battle_Announcements,6,56,569,<F4><I0>41 is poisoned<FG>,<F4><I0>41 ติดพิษ<FG>
+225,Battle_Announcements,7,60,593,Tension increased<FG>,ค่าความฮึกเหิมเพิ่มขึ้น<FG>
+225,Battle_Announcements,8,64,614,Robbed of MP<FG>,ถูกช่วงชิงพลังเวทไป<FG>
+225,Battle_Announcements,9,68,630,Attack increased<FG>,พลังโจมตีเพิ่มขึ้น<FG>
+225,Battle_Announcements,10,72,650,Movement impaired<FG>,การเคลื่อนไหวติดขัด<FG>
+225,Battle_Announcements,11,76,671,<F4><I0>41 divides<FG>,<F4><I0>41 แยกร่าง<FG>
+225,Battle_Announcements,12,80,691,Showered with gold coins<FG>,เหรียญทองโปรยปรายลงมาราวกับห่าฝน<FG>
+225,Battle_Announcements,13,84,719,The enemy are staying well away<FG>,ศัตรูถอยร่นหนีห่างออกไปไกล<FG>
+225,Battle_Announcements,14,88,754,All helpful effects are erased<FG>,ผลสถานะที่เป็นประโยชน์ทั้งหมดถูกลบล้าง<FG>
+225,Battle_Announcements,15,92,788,Unable to use spells or abilities<FG>,ไม่สามารถใช้คาถาหรือความสามารถได้<FG>
+225,Battle_Announcements,16,96,825,<F4><I0>41 falls asleep<FG>,<F4><I0>41 หลับใหลไป<FG>
+225,Battle_Announcements,17,100,850,<F4><I0>41 is bedazzled<FG>,<F4><I0>41 ตาพร่ามัว<FG>
+225,Battle_Announcements,18,104,875,Defence reduced<FG>,พลังป้องกันลดลง<FG>
+225,Battle_Announcements,19,108,894,<F4><I0>41 can't stop dancing<FG>,<F4><I0>41 เต้นรำไม่ยอมหยุด<FG>
+225,Battle_Announcements,20,112,925,<F4><I0>41 can't move<FG>,<F4><I0>41 ขยับเขยื้อนไม่ได้<FG>
+225,Battle_Announcements,21,116,948,Attack massively increased<FG>,พลังโจมตีเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,22,120,978,Tension build speed increased<FG>,ความเร็วในการสะสมความฮึกเหิมเพิ่มขึ้น<FG>
+225,Battle_Announcements,23,124,1011,<F4><I0>41 clones <E0>41himself<E3>41herself<E4>41<FG>,<F4><I0>41 แยกร่างเงาของ<E0>41 ตนเอง<E3>41 ตนเอง<E4>41<FG>
+225,Battle_Announcements,24,128,1060,Critical hit chance increased<FG>,โอกาสติดคริติคอลเพิ่มขึ้น<FG>
+225,Battle_Announcements,25,132,1093,The enemy's speed drops<FG>,ความเร็วของศัตรูลดลง<FG>
+225,Battle_Announcements,26,136,1120,All helpful effects are erased<FG>,ผลสถานะที่เป็นประโยชน์ทั้งหมดถูกลบล้าง<FG>
+225,Battle_Announcements,27,140,1154,Psaro's true power awakens<FG>,พลังที่แท้จริงของพิซาโร่ตื่นขึ้นแล้ว<FG>
+225,Battle_Announcements,28,144,1184,MP recovery slightly increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้นเล็กน้อย<FG>
+225,Battle_Announcements,29,148,1218,The enemy's defence and speed drop<FG>,พลังป้องกันและความเร็วของศัตรูลดลง<FG>
+225,Battle_Announcements,30,152,1256,Gold coin haul increased<FG>,จำนวนเหรียญทองที่ได้รับเพิ่มขึ้น<FG>
+225,Battle_Announcements,31,156,1284,Gold coin haul massively increased<FG>,จำนวนเหรียญทองที่ได้รับเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,32,160,1322,MP shared<FG>,แบ่งปันพลังเวทแล้ว<FG>
+225,Battle_Announcements,33,164,1335,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,34,168,1342,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,35,172,1349,Mash those monsters<FG>,กำราบมอนสเตอร์พวกนั้นให้สิ้นซาก<FG>
+225,Battle_Announcements,36,176,1372,Save that poor person<FG>,ช่วยชีวิตผู้เคราะห์ร้ายคนนั้นเร็ว<FG>
+225,Battle_Announcements,37,180,1397,Time to test your mettle<FG>,ได้เวลาทดสอบความกล้าหาญแล้ว<FG>
+225,Battle_Announcements,38,184,1425,Beat the baddies and banish the barrier<FG>,เอาชนะพวกคนชั่วเพื่อทำลายบาเรียลง<FG>
+225,Battle_Announcements,39,188,1468,A barrier blocks the way<FG>,มีม่านบาเรียขวางเส้นทางอยู่<FG>
+225,Battle_Announcements,40,192,1496,Break down that barrier<FG>,ทำลายม่านบาเรียลงให้ได้<FG>
+225,Battle_Announcements,41,196,1523,Protected against poison<FG>,ได้รับการคุ้มครองป้องกันพิษแล้ว<FG>
+225,Battle_Announcements,42,200,1551,Your bag is nearly full<FG>,กระเป๋าของคุณใกล้จะเต็มแล้ว<FG>
+225,Battle_Announcements,43,204,1578,It's locked<FG>,มันถูกล็อกอยู่<FG>
+225,Battle_Announcements,44,208,1593,Cheer on your allies<FG>,ส่งเสียงเชียร์ให้กำลังใจพวกพ้อง<FG>
+225,Battle_Announcements,45,212,1617,Don't let them grind you down<FG>,อย่าปล่อยให้พวกมันมาบดขยี้ได้เด็ดขาด<FG>
+225,Battle_Announcements,46,216,1650,Give them what for<FG>,สั่งสอนพวกมันให้สาสม<FG>
+225,Battle_Announcements,47,220,1672,You can't use that now<FG>,ไม่สามารถใช้สิ่งนั้นได้ในตอนนี้<FG>
+225,Battle_Announcements,48,224,1698,You're carrying so much you can't move<FG>,คุณแบกสัมภาระหนักเกินไปจนขยับไม่ได้<FG>
+225,Battle_Announcements,49,228,1740,MP recovery increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้น<FG>
+225,Battle_Announcements,50,232,1765,MP recovery massively increased<FG>,การฟื้นฟูพลังเวทเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,51,236,1800,Defence massively increased<FG>,พลังป้องกันเพิ่มขึ้นมหาศาล<FG>
+225,Battle_Announcements,52,240,1831,Immune to all attacks<FG>,ต้านทานการโจมตีทุกรูปแบบ<FG>
+225,Battle_Announcements,53,244,1856,That wasn't the real one<FG>,นั่นไม่ใช่ตัวจริง<FG>
+225,Battle_Announcements,54,248,1884,I'm casting Kazapple<FG>,ฉันกำลังร่ายมินาเดอิน<FG>
+225,Battle_Announcements,55,252,1908,I'm with you<FG>,ฉันอยู่เคียงข้างคุณเสมอ<FG>
+225,Battle_Announcements,56,256,1924,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,57,260,1931,Can't use MP<FG>,ไม่สามารถใช้พลังเวทได้<FG>
+225,Battle_Announcements,58,264,1947,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,59,268,1954,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,60,272,1961,Unused,ไม่ได้ใช้งาน
+225,Battle_Announcements,61,276,1968,It changed into <I8>M1<FG>,มันกลายร่างเป็น <I8>M1<FG>
 225,Battle_Announcements,62,280,1993,,
 225,Battle_Announcements,63,284,1994,,
 225,Battle_Announcements,64,288,1995,,

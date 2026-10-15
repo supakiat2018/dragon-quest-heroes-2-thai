@@ -1,118 +1,118 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-288,Tavern_Online_Lobby,0,32,632,BEGINNERS WELCOME,
-288,Tavern_Online_Lobby,1,36,650,EXPERIENCED WARRIORS ONLY,
-288,Tavern_Online_Lobby,2,40,676,ANYONE WELCOME,
-288,Tavern_Online_Lobby,3,44,691,I NEED YOUR HELP,
-288,Tavern_Online_Lobby,4,48,708,"JUST ONE DUNGEON, THEN WE'RE DONE",
-288,Tavern_Online_Lobby,5,52,742,LET'S KEEP PLAYING THE SAME DUNGEON,
-288,Tavern_Online_Lobby,6,56,778,LET'S PLAY THROUGH A SET OF DUNGEONS,
-288,Tavern_Online_Lobby,7,60,815,PLAYING FOR ABOUT HALF AN HOUR,
-288,Tavern_Online_Lobby,8,64,846,PLAYING FOR ABOUT AN HOUR,
-288,Tavern_Online_Lobby,9,68,872,PLAYING FOR ABOUT TWO HOURS,
-288,Tavern_Online_Lobby,10,72,900,PLAYING ALL NIGHT LONG,
-288,Tavern_Online_Lobby,11,76,923,SHOW NO MERCY,
-288,Tavern_Online_Lobby,12,80,937,MIX IT UP,
-288,Tavern_Online_Lobby,13,84,947,WATCH MY BACK,
-288,Tavern_Online_Lobby,14,88,961,LEAVE IT TO ME,
-288,Tavern_Online_Lobby,15,92,976,FIGHT WISELY,
-288,Tavern_Online_Lobby,16,96,989,FOCUS ON HEALING,
-288,Tavern_Online_Lobby,17,100,1006,FOLLOW ORDERS,
-288,Tavern_Online_Lobby,18,104,1020,LEVELLING UP,
-288,Tavern_Online_Lobby,19,108,1033,RAISING WEAPON PROFICIENCY,
-288,Tavern_Online_Lobby,20,112,1060,MAKING MONEY,
-288,Tavern_Online_Lobby,21,116,1073,FARMING FOR INGREDIENTS,
-288,Tavern_Online_Lobby,22,120,1097,ACQUIRING ACCESSORIES,
-288,Tavern_Online_Lobby,23,124,1119,BROADCASTING LIVE,
-288,Tavern_Online_Lobby,24,128,1137,LOOKING FOR FRIENDS,
-288,Tavern_Online_Lobby,25,132,1157,KILLING TIME,
-288,Tavern_Online_Lobby,26,136,1170,ANYONE CAN PICK WHERE WE GO,
-288,Tavern_Online_Lobby,27,140,1198,PRACTISING HOW TO PLAY,
-288,Tavern_Online_Lobby,28,144,1221,PLAYING AS LAZAREL,
-288,Tavern_Online_Lobby,29,148,1240,PLAYING AS TERESA,
-288,Tavern_Online_Lobby,30,152,1258,PLAYING AS CESAR,
-288,Tavern_Online_Lobby,31,156,1275,PLAYING AS DESDEMONA,
-288,Tavern_Online_Lobby,32,160,1296,PLAYING AS ALENA,
-288,Tavern_Online_Lobby,33,164,1313,PLAYING AS KIRYL,
-288,Tavern_Online_Lobby,34,168,1330,PLAYING AS TORNEKO,
-288,Tavern_Online_Lobby,35,172,1349,PLAYING AS MEENA,
-288,Tavern_Online_Lobby,36,176,1366,PLAYING AS MAYA,
-288,Tavern_Online_Lobby,37,180,1382,PLAYING AS CARVER,
-288,Tavern_Online_Lobby,38,184,1400,PLAYING AS TERRY,
-288,Tavern_Online_Lobby,39,188,1417,PLAYING AS MARIBEL,
-288,Tavern_Online_Lobby,40,192,1436,PLAYING AS RUFF,
-288,Tavern_Online_Lobby,41,196,1452,PLAYING AS ANGELO,
-288,Tavern_Online_Lobby,42,200,1470,PLAYING AS JESSICA,
-288,Tavern_Online_Lobby,43,204,1489,PLAYING AS LUCEUS,
-288,Tavern_Online_Lobby,44,208,1507,PLAYING AS AURORA,
-288,Tavern_Online_Lobby,45,212,1525,PLAYING AS DORIC,
-288,Tavern_Online_Lobby,46,216,1542,PLAYING AS ISLA,
-288,Tavern_Online_Lobby,47,220,1558,PLAYING AS YANGUS,
-288,Tavern_Online_Lobby,48,224,1576,PLAYING AS BIANCA,
-288,Tavern_Online_Lobby,49,228,1594,PLAYING AS NERA,
-288,Tavern_Online_Lobby,50,232,1610,PLAYING AS PSARO,
-288,Tavern_Online_Lobby,51,236,1627,PLAYING AS WARRIOR,
-288,Tavern_Online_Lobby,52,240,1646,PLAYING AS MARTIAL ARTIST,
-288,Tavern_Online_Lobby,53,244,1672,PLAYING AS MAGE,
-288,Tavern_Online_Lobby,54,248,1688,PLAYING AS PRIEST,
-288,Tavern_Online_Lobby,55,252,1706,PLAYING AS THIEF,
-288,Tavern_Online_Lobby,56,256,1723,PLAYING AS GLADIATOR,
-288,Tavern_Online_Lobby,57,260,1744,PLAYING AS SAGE,
-288,Tavern_Online_Lobby,58,264,1760,LOOKING FOR PLAYERS OF LEVELS 1-10,
-288,Tavern_Online_Lobby,59,268,1795,LOOKING FOR PLAYERS OF LEVELS 10-20,
-288,Tavern_Online_Lobby,60,272,1831,LOOKING FOR PLAYERS OF LEVELS 20-30,
-288,Tavern_Online_Lobby,61,276,1867,LOOKING FOR PLAYERS OF LEVELS 30-40,
-288,Tavern_Online_Lobby,62,280,1903,LOOKING FOR PLAYERS OF LEVELS 40-50,
-288,Tavern_Online_Lobby,63,284,1939,LOOKING FOR PLAYERS OF LEVELS 50-60,
-288,Tavern_Online_Lobby,64,288,1975,LOOKING FOR PLAYERS OF LEVELS 60-70,
-288,Tavern_Online_Lobby,65,292,2011,LOOKING FOR PLAYERS OF LEVELS 70-80,
-288,Tavern_Online_Lobby,66,296,2047,LOOKING FOR PLAYERS OF LEVELS 80-90,
-288,Tavern_Online_Lobby,67,300,2083,LOOKING FOR PLAYERS OF LEVELS 90-99,
-288,Tavern_Online_Lobby,68,304,2119,PLAYERS OF ALL LEVELS WELCOME,
-288,Tavern_Online_Lobby,69,308,2149,LOOKING FOR PLAYERS OF RANKS 1-10,
-288,Tavern_Online_Lobby,70,312,2183,LOOKING FOR PLAYERS OF RANKS 10-20,
-288,Tavern_Online_Lobby,71,316,2218,LOOKING FOR PLAYERS OF RANKS 20-30,
-288,Tavern_Online_Lobby,72,320,2253,PLAYERS OF ALL RANKS WELCOME,
-288,Tavern_Online_Lobby,73,324,2282,FIGHTING WITH TWIN SWORDS,
-288,Tavern_Online_Lobby,74,328,2308,FIGHTING WITH SWORDS,
-288,Tavern_Online_Lobby,75,332,2329,FIGHTING WITH GREATSWORDS,
-288,Tavern_Online_Lobby,76,336,2355,FIGHTING WITH AXES,
-288,Tavern_Online_Lobby,77,340,2374,FIGHTING WITH GAUNTLETS,
-288,Tavern_Online_Lobby,78,344,2398,FIGHTING WITH SPEARS,
-288,Tavern_Online_Lobby,79,348,2419,FIGHTING WITH ABACUSES,
-288,Tavern_Online_Lobby,80,352,2442,FIGHTING WITH TAROT CARDS,
-288,Tavern_Online_Lobby,81,356,2468,FIGHTING WITH FANS,
-288,Tavern_Online_Lobby,82,360,2487,FIGHTING WITH BOOMERANGS,
-288,Tavern_Online_Lobby,83,364,2512,FIGHTING WITH CLAWS,
-288,Tavern_Online_Lobby,84,368,2532,FIGHTING WITH BOWS,
-288,Tavern_Online_Lobby,85,372,2551,FIGHTING WITH WHIPS,
-288,Tavern_Online_Lobby,86,376,2571,FIGHTING WITH WANDS,
-288,Tavern_Online_Lobby,87,380,2591,FIGHTING WITH HEAVY WANDS,
-288,Tavern_Online_Lobby,88,384,2617,FIGHTING WITH STAVES,
-288,Tavern_Online_Lobby,89,388,2638,NO TIME-WASTERS,
-288,Tavern_Online_Lobby,90,392,2654,"NOT TOO SERIOUS, OKAY<FH>",
-288,Tavern_Online_Lobby,91,396,2679,LET'S HAVE FUN,
-288,Tavern_Online_Lobby,92,400,2694,NO ONE LEAVES TILL WE'VE WON THIS,
-288,Tavern_Online_Lobby,93,404,2728,LET'S GET THE ALL-TIME SPEED RECORD,
-288,Tavern_Online_Lobby,94,408,2764,MALE CHARACTERS ONLY,
-288,Tavern_Online_Lobby,95,412,2785,FEMALE CHARACTERS ONLY,
-288,Tavern_Online_Lobby,96,416,2808,SPECIAL EVENT UNDERWAY,
-288,Tavern_Online_Lobby,97,420,2831,LOBBY A,
-288,Tavern_Online_Lobby,98,424,2839,LOBBY B,
-288,Tavern_Online_Lobby,99,428,2847,LOBBY C,
-288,Tavern_Online_Lobby,100,432,2855,LOBBY D,
-288,Tavern_Online_Lobby,101,436,2863,LOBBY E,
-288,Tavern_Online_Lobby,102,440,2871,LOBBY F,
-288,Tavern_Online_Lobby,103,444,2879,LOBBY G,
-288,Tavern_Online_Lobby,104,448,2887,LOBBY H,
-288,Tavern_Online_Lobby,105,452,2895,PLAYING AS LAZAREL AND TERESA,
-288,Tavern_Online_Lobby,106,456,2925,ATTACK-ORIENTED,
-288,Tavern_Online_Lobby,107,460,2941,DEFENCE-ORIENTED,
-288,Tavern_Online_Lobby,108,464,2958,HEALING-ORIENTED,
-288,Tavern_Online_Lobby,109,468,2975,EVERYONE,
-288,Tavern_Online_Lobby,110,472,2984,HOST WILL BE,
-288,Tavern_Online_Lobby,111,476,2997,NOW RECRUITING,
-288,Tavern_Online_Lobby,112,480,3012,NOT ALLOWED,
-288,Tavern_Online_Lobby,113,484,3024,USE LOTS OF CHAT MESSAGES,
+288,Tavern_Online_Lobby,0,32,632,BEGINNERS WELCOME,ยินดีต้อนรับมือใหม่
+288,Tavern_Online_Lobby,1,36,650,EXPERIENCED WARRIORS ONLY,เฉพาะนักรบผู้มีประสบการณ์เท่านั้น
+288,Tavern_Online_Lobby,2,40,676,ANYONE WELCOME,ยินดีต้อนรับทุกคน
+288,Tavern_Online_Lobby,3,44,691,I NEED YOUR HELP,ต้องการความช่วยเหลือ
+288,Tavern_Online_Lobby,4,48,708,"JUST ONE DUNGEON, THEN WE'RE DONE",ขอลงดันเจี้ยนเดียวแล้วพอ
+288,Tavern_Online_Lobby,5,52,742,LET'S KEEP PLAYING THE SAME DUNGEON,มาลงดันเจี้ยนเดิมซ้ำ ๆ กันเถอะ
+288,Tavern_Online_Lobby,6,56,778,LET'S PLAY THROUGH A SET OF DUNGEONS,มาลงดันเจี้ยนต่อเนื่องกันหลายแห่ง
+288,Tavern_Online_Lobby,7,60,815,PLAYING FOR ABOUT HALF AN HOUR,เล่นประมาณครึ่งชั่วโมง
+288,Tavern_Online_Lobby,8,64,846,PLAYING FOR ABOUT AN HOUR,เล่นประมาณ 1 ชั่วโมง
+288,Tavern_Online_Lobby,9,68,872,PLAYING FOR ABOUT TWO HOURS,เล่นประมาณ 2 ชั่วโมง
+288,Tavern_Online_Lobby,10,72,900,PLAYING ALL NIGHT LONG,เล่นกันยาว ๆ ตลอดทั้งคืน
+288,Tavern_Online_Lobby,11,76,923,SHOW NO MERCY,บุกตะลุยไม่ปรานี
+288,Tavern_Online_Lobby,12,80,937,MIX IT UP,ผสมผสานกลยุทธ์
+288,Tavern_Online_Lobby,13,84,947,WATCH MY BACK,ช่วยระวังหลังให้ฉันด้วย
+288,Tavern_Online_Lobby,14,88,961,LEAVE IT TO ME,ปล่อยให้เป็นหน้าที่ฉันเอง
+288,Tavern_Online_Lobby,15,92,976,FIGHT WISELY,ต่อสู้อย่างชาญฉลาด
+288,Tavern_Online_Lobby,16,96,989,FOCUS ON HEALING,เน้นการฟื้นฟูพลัง
+288,Tavern_Online_Lobby,17,100,1006,FOLLOW ORDERS,ปฏิบัติตามคำสั่ง
+288,Tavern_Online_Lobby,18,104,1020,LEVELLING UP,เน้นเก็บเลเวล
+288,Tavern_Online_Lobby,19,108,1033,RAISING WEAPON PROFICIENCY,เน้นเพิ่มความชำนาญอาวุธ
+288,Tavern_Online_Lobby,20,112,1060,MAKING MONEY,เน้นหาเงิน
+288,Tavern_Online_Lobby,21,116,1073,FARMING FOR INGREDIENTS,เน้นฟาร์มวัตถุดิบ
+288,Tavern_Online_Lobby,22,120,1097,ACQUIRING ACCESSORIES,เน้นหาเครื่องประดับ
+288,Tavern_Online_Lobby,23,124,1119,BROADCASTING LIVE,กำลังถ่ายทอดสด
+288,Tavern_Online_Lobby,24,128,1137,LOOKING FOR FRIENDS,กำลังหาเพื่อนร่วมทาง
+288,Tavern_Online_Lobby,25,132,1157,KILLING TIME,เล่นฆ่าเวลา
+288,Tavern_Online_Lobby,26,136,1170,ANYONE CAN PICK WHERE WE GO,ใครจะเลือกไปที่ไหนก็ได้ตามสบาย
+288,Tavern_Online_Lobby,27,140,1198,PRACTISING HOW TO PLAY,กำลังฝึกซ้อมวิธีการเล่น
+288,Tavern_Online_Lobby,28,144,1221,PLAYING AS LAZAREL,เล่นเป็นราเซล
+288,Tavern_Online_Lobby,29,148,1240,PLAYING AS TERESA,เล่นเป็นเทเรเซีย
+288,Tavern_Online_Lobby,30,152,1258,PLAYING AS CESAR,เล่นเป็นซีซาร์
+288,Tavern_Online_Lobby,31,156,1275,PLAYING AS DESDEMONA,เล่นเป็นเดสเดโมน่า
+288,Tavern_Online_Lobby,32,160,1296,PLAYING AS ALENA,เล่นเป็นอาลีน่า
+288,Tavern_Online_Lobby,33,164,1313,PLAYING AS KIRYL,เล่นเป็นคริฟต์
+288,Tavern_Online_Lobby,34,168,1330,PLAYING AS TORNEKO,เล่นเป็นทอร์เนโก้
+288,Tavern_Online_Lobby,35,172,1349,PLAYING AS MEENA,เล่นเป็นมีเนีย
+288,Tavern_Online_Lobby,36,176,1366,PLAYING AS MAYA,เล่นเป็นมาเนีย
+288,Tavern_Online_Lobby,37,180,1382,PLAYING AS CARVER,เล่นเป็นฮัสซัน
+288,Tavern_Online_Lobby,38,184,1400,PLAYING AS TERRY,เล่นเป็นเทอร์รี่
+288,Tavern_Online_Lobby,39,188,1417,PLAYING AS MARIBEL,เล่นเป็นมาริเบล
+288,Tavern_Online_Lobby,40,192,1436,PLAYING AS RUFF,เล่นเป็นกาโบ
+288,Tavern_Online_Lobby,41,196,1452,PLAYING AS ANGELO,เล่นเป็นคูเคิล
+288,Tavern_Online_Lobby,42,200,1470,PLAYING AS JESSICA,เล่นเป็นเจสสิก้า
+288,Tavern_Online_Lobby,43,204,1489,PLAYING AS LUCEUS,เล่นเป็นแอคท์
+288,Tavern_Online_Lobby,44,208,1507,PLAYING AS AURORA,เล่นเป็นเมียร์
+288,Tavern_Online_Lobby,45,212,1525,PLAYING AS DORIC,เล่นเป็นดิลค์
+288,Tavern_Online_Lobby,46,216,1542,PLAYING AS ISLA,เล่นเป็นจูเลียตต้า
+288,Tavern_Online_Lobby,47,220,1558,PLAYING AS YANGUS,เล่นเป็นยังกัส
+288,Tavern_Online_Lobby,48,224,1576,PLAYING AS BIANCA,เล่นเป็นเบียงก้า
+288,Tavern_Online_Lobby,49,228,1594,PLAYING AS NERA,เล่นเป็นฟลอร่า
+288,Tavern_Online_Lobby,50,232,1610,PLAYING AS PSARO,เล่นเป็นพิซาโร่
+288,Tavern_Online_Lobby,51,236,1627,PLAYING AS WARRIOR,เล่นเป็นนักรบ
+288,Tavern_Online_Lobby,52,240,1646,PLAYING AS MARTIAL ARTIST,เล่นเป็นนักสู้
+288,Tavern_Online_Lobby,53,244,1672,PLAYING AS MAGE,เล่นเป็นนักเวท
+288,Tavern_Online_Lobby,54,248,1688,PLAYING AS PRIEST,เล่นเป็นนักบวช
+288,Tavern_Online_Lobby,55,252,1706,PLAYING AS THIEF,เล่นเป็นจอมโจร
+288,Tavern_Online_Lobby,56,256,1723,PLAYING AS GLADIATOR,เล่นเป็นกลาดิเอเตอร์
+288,Tavern_Online_Lobby,57,260,1744,PLAYING AS SAGE,เล่นเป็นปราชญ์
+288,Tavern_Online_Lobby,58,264,1760,LOOKING FOR PLAYERS OF LEVELS 1-10,รับสมัครผู้เล่นเลเวล 1-10
+288,Tavern_Online_Lobby,59,268,1795,LOOKING FOR PLAYERS OF LEVELS 10-20,รับสมัครผู้เล่นเลเวล 10-20
+288,Tavern_Online_Lobby,60,272,1831,LOOKING FOR PLAYERS OF LEVELS 20-30,รับสมัครผู้เล่นเลเวล 20-30
+288,Tavern_Online_Lobby,61,276,1867,LOOKING FOR PLAYERS OF LEVELS 30-40,รับสมัครผู้เล่นเลเวล 30-40
+288,Tavern_Online_Lobby,62,280,1903,LOOKING FOR PLAYERS OF LEVELS 40-50,รับสมัครผู้เล่นเลเวล 40-50
+288,Tavern_Online_Lobby,63,284,1939,LOOKING FOR PLAYERS OF LEVELS 50-60,รับสมัครผู้เล่นเลเวล 50-60
+288,Tavern_Online_Lobby,64,288,1975,LOOKING FOR PLAYERS OF LEVELS 60-70,รับสมัครผู้เล่นเลเวล 60-70
+288,Tavern_Online_Lobby,65,292,2011,LOOKING FOR PLAYERS OF LEVELS 70-80,รับสมัครผู้เล่นเลเวล 70-80
+288,Tavern_Online_Lobby,66,296,2047,LOOKING FOR PLAYERS OF LEVELS 80-90,รับสมัครผู้เล่นเลเวล 80-90
+288,Tavern_Online_Lobby,67,300,2083,LOOKING FOR PLAYERS OF LEVELS 90-99,รับสมัครผู้เล่นเลเวล 90-99
+288,Tavern_Online_Lobby,68,304,2119,PLAYERS OF ALL LEVELS WELCOME,ยินดีต้อนรับผู้เล่นทุกเลเวล
+288,Tavern_Online_Lobby,69,308,2149,LOOKING FOR PLAYERS OF RANKS 1-10,รับสมัครผู้เล่นอันดับ 1-10
+288,Tavern_Online_Lobby,70,312,2183,LOOKING FOR PLAYERS OF RANKS 10-20,รับสมัครผู้เล่นอันดับ 10-20
+288,Tavern_Online_Lobby,71,316,2218,LOOKING FOR PLAYERS OF RANKS 20-30,รับสมัครผู้เล่นอันดับ 20-30
+288,Tavern_Online_Lobby,72,320,2253,PLAYERS OF ALL RANKS WELCOME,ยินดีต้อนรับผู้เล่นทุกอันดับ
+288,Tavern_Online_Lobby,73,324,2282,FIGHTING WITH TWIN SWORDS,ต่อสู้ด้วยดาบคู่
+288,Tavern_Online_Lobby,74,328,2308,FIGHTING WITH SWORDS,ต่อสู้ด้วยดาบ
+288,Tavern_Online_Lobby,75,332,2329,FIGHTING WITH GREATSWORDS,ต่อสู้ด้วยดาบใหญ่
+288,Tavern_Online_Lobby,76,336,2355,FIGHTING WITH AXES,ต่อสู้ด้วยขวาน
+288,Tavern_Online_Lobby,77,340,2374,FIGHTING WITH GAUNTLETS,ต่อสู้ด้วยสนับมือ
+288,Tavern_Online_Lobby,78,344,2398,FIGHTING WITH SPEARS,ต่อสู้ด้วยหอก
+288,Tavern_Online_Lobby,79,348,2419,FIGHTING WITH ABACUSES,ต่อสู้ด้วยลูกคิด
+288,Tavern_Online_Lobby,80,352,2442,FIGHTING WITH TAROT CARDS,ต่อสู้ด้วยไพ่ทาโรต์
+288,Tavern_Online_Lobby,81,356,2468,FIGHTING WITH FANS,ต่อสู้ด้วยพัด
+288,Tavern_Online_Lobby,82,360,2487,FIGHTING WITH BOOMERANGS,ต่อสู้ด้วยบูมเมอแรง
+288,Tavern_Online_Lobby,83,364,2512,FIGHTING WITH CLAWS,ต่อสู้ด้วยกรงเล็บ
+288,Tavern_Online_Lobby,84,368,2532,FIGHTING WITH BOWS,ต่อสู้ด้วยธนู
+288,Tavern_Online_Lobby,85,372,2551,FIGHTING WITH WHIPS,ต่อสู้ด้วยแส้
+288,Tavern_Online_Lobby,86,376,2571,FIGHTING WITH WANDS,ต่อสู้ด้วยคทา
+288,Tavern_Online_Lobby,87,380,2591,FIGHTING WITH HEAVY WANDS,ต่อสู้ด้วยไม้เท้าใหญ่
+288,Tavern_Online_Lobby,88,384,2617,FIGHTING WITH STAVES,ต่อสู้ด้วยกระบอง
+288,Tavern_Online_Lobby,89,388,2638,NO TIME-WASTERS,ห้ามคนป่วนเข้ามากวน
+288,Tavern_Online_Lobby,90,392,2654,"NOT TOO SERIOUS, OKAY<FH>",ไม่ต้องจริงจังกันมากนะ เข้าใจไหม<FH>
+288,Tavern_Online_Lobby,91,396,2679,LET'S HAVE FUN,มาเล่นให้สนุกกันเถอะ
+288,Tavern_Online_Lobby,92,400,2694,NO ONE LEAVES TILL WE'VE WON THIS,ห้ามใครออกจนกว่าพวกเราจะชนะ
+288,Tavern_Online_Lobby,93,404,2728,LET'S GET THE ALL-TIME SPEED RECORD,มาทำลายสถิติความเร็วตลอดกาลกัน
+288,Tavern_Online_Lobby,94,408,2764,MALE CHARACTERS ONLY,เฉพาะตัวละครชายเท่านั้น
+288,Tavern_Online_Lobby,95,412,2785,FEMALE CHARACTERS ONLY,เฉพาะตัวละครหญิงเท่านั้น
+288,Tavern_Online_Lobby,96,416,2808,SPECIAL EVENT UNDERWAY,กิจกรรมพิเศษกำลังดำเนินอยู่
+288,Tavern_Online_Lobby,97,420,2831,LOBBY A,ล็อบบี้ A
+288,Tavern_Online_Lobby,98,424,2839,LOBBY B,ล็อบบี้ B
+288,Tavern_Online_Lobby,99,428,2847,LOBBY C,ล็อบบี้ C
+288,Tavern_Online_Lobby,100,432,2855,LOBBY D,ล็อบบี้ D
+288,Tavern_Online_Lobby,101,436,2863,LOBBY E,ล็อบบี้ E
+288,Tavern_Online_Lobby,102,440,2871,LOBBY F,ล็อบบี้ F
+288,Tavern_Online_Lobby,103,444,2879,LOBBY G,ล็อบบี้ G
+288,Tavern_Online_Lobby,104,448,2887,LOBBY H,ล็อบบี้ H
+288,Tavern_Online_Lobby,105,452,2895,PLAYING AS LAZAREL AND TERESA,เล่นเป็นราเซลและเทเรเซีย
+288,Tavern_Online_Lobby,106,456,2925,ATTACK-ORIENTED,เน้นการโจมตี
+288,Tavern_Online_Lobby,107,460,2941,DEFENCE-ORIENTED,เน้นการป้องกัน
+288,Tavern_Online_Lobby,108,464,2958,HEALING-ORIENTED,เน้นการฟื้นฟู
+288,Tavern_Online_Lobby,109,468,2975,EVERYONE,ทุกคน
+288,Tavern_Online_Lobby,110,472,2984,HOST WILL BE,หัวหน้าห้องจะเป็น
+288,Tavern_Online_Lobby,111,476,2997,NOW RECRUITING,กำลังรับสมัคร
+288,Tavern_Online_Lobby,112,480,3012,NOT ALLOWED,ไม่อนุญาต
+288,Tavern_Online_Lobby,113,484,3024,USE LOTS OF CHAT MESSAGES,โปรดใช้ข้อความแชตบ่อย ๆ
 288,Tavern_Online_Lobby,114,488,3050,,
 288,Tavern_Online_Lobby,115,492,3051,,
 288,Tavern_Online_Lobby,116,496,3052,,

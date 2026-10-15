@@ -1,238 +1,238 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-197,Location_Lore,0,36,3236,Accordia,
-197,Location_Lore,1,40,3245,Accordia,
+197,Location_Lore,0,36,3236,Accordia,ออร์คาเนีย
+197,Location_Lore,1,40,3245,Accordia,ออร์คาเนีย
 197,Location_Lore,2,44,3254,,
 197,Location_Lore,3,48,3255,,
 197,Location_Lore,4,52,3256,,
 197,Location_Lore,5,56,3257,,
 197,Location_Lore,6,60,3258,,
 197,Location_Lore,7,64,3259,,
-197,Location_Lore,8,68,3260,Ad Hoc Encampment,
-197,Location_Lore,9,72,3278,Ad Hoc Encampment,
+197,Location_Lore,8,68,3260,Ad Hoc Encampment,ค่ายพักชั่วคราว
+197,Location_Lore,9,72,3278,Ad Hoc Encampment,ค่ายพักชั่วคราว
 197,Location_Lore,10,76,3296,,
 197,Location_Lore,11,80,3297,,
 197,Location_Lore,12,84,3298,,
 197,Location_Lore,13,88,3299,,
 197,Location_Lore,14,92,3300,,
 197,Location_Lore,15,96,3301,,
-197,Location_Lore,16,100,3302,Gragwort's Grotto,
-197,Location_Lore,17,104,3320,Gragwort's Grotto,
+197,Location_Lore,16,100,3302,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
+197,Location_Lore,17,104,3320,Gragwort's Grotto,ถ้ำของแกรกเวิร์ต
 197,Location_Lore,18,108,3338,,
 197,Location_Lore,19,112,3339,,
 197,Location_Lore,20,116,3340,,
 197,Location_Lore,21,120,3341,,
 197,Location_Lore,22,124,3342,,
 197,Location_Lore,23,128,3343,,
-197,Location_Lore,24,132,3344,Harban Outlands,
-197,Location_Lore,25,136,3360,Harban Outlands,
+197,Location_Lore,24,132,3344,Harban Outlands,ชานเมืองฮาร์บา
+197,Location_Lore,25,136,3360,Harban Outlands,ชานเมืองฮาร์บา
 197,Location_Lore,26,140,3376,,
 197,Location_Lore,27,144,3377,,
 197,Location_Lore,28,148,3378,,
 197,Location_Lore,29,152,3379,,
 197,Location_Lore,30,156,3380,,
 197,Location_Lore,31,160,3381,,
-197,Location_Lore,32,164,3382,Western Pastures,
-197,Location_Lore,33,168,3399,Western Pastures,
+197,Location_Lore,32,164,3382,Western Pastures,ทุ่งหญ้าฝั่งตะวันตก
+197,Location_Lore,33,168,3399,Western Pastures,ทุ่งหญ้าฝั่งตะวันตก
 197,Location_Lore,34,172,3416,,
 197,Location_Lore,35,176,3417,,
 197,Location_Lore,36,180,3418,,
 197,Location_Lore,37,184,3419,,
 197,Location_Lore,38,188,3420,,
 197,Location_Lore,39,192,3421,,
-197,Location_Lore,40,196,3422,Dunisian Outlands,
-197,Location_Lore,41,200,3440,Dunisian Outlands,
+197,Location_Lore,40,196,3422,Dunisian Outlands,ชานเมืองดูนิเซีย
+197,Location_Lore,41,200,3440,Dunisian Outlands,ชานเมืองดูนิเซีย
 197,Location_Lore,42,204,3458,,
 197,Location_Lore,43,208,3459,,
 197,Location_Lore,44,212,3460,,
 197,Location_Lore,45,216,3461,,
 197,Location_Lore,46,220,3462,,
 197,Location_Lore,47,224,3463,,
-197,Location_Lore,48,228,3464,Desert Plateau,
-197,Location_Lore,49,232,3479,Desert Plateau,
+197,Location_Lore,48,228,3464,Desert Plateau,ที่ราบสูงทะเลทราย
+197,Location_Lore,49,232,3479,Desert Plateau,ที่ราบสูงทะเลทราย
 197,Location_Lore,50,236,3494,,
 197,Location_Lore,51,240,3495,,
 197,Location_Lore,52,244,3496,,
 197,Location_Lore,53,248,3497,,
 197,Location_Lore,54,252,3498,,
 197,Location_Lore,55,256,3499,,
-197,Location_Lore,56,260,3500,Overgrown Graveyard,
-197,Location_Lore,57,264,3520,Overgrown Graveyard,
+197,Location_Lore,56,260,3500,Overgrown Graveyard,สุสานรกร้าง
+197,Location_Lore,57,264,3520,Overgrown Graveyard,สุสานรกร้าง
 197,Location_Lore,58,268,3540,,
 197,Location_Lore,59,272,3541,,
 197,Location_Lore,60,276,3542,,
 197,Location_Lore,61,280,3543,,
 197,Location_Lore,62,284,3544,,
 197,Location_Lore,63,288,3545,,
-197,Location_Lore,64,292,3546,Ingenian Outskirts,
-197,Location_Lore,65,296,3565,Ingenian Outskirts,
+197,Location_Lore,64,292,3546,Ingenian Outskirts,ชานเมืองอินจีเนีย
+197,Location_Lore,65,296,3565,Ingenian Outskirts,ชานเมืองอินจีเนีย
 197,Location_Lore,66,300,3584,,
 197,Location_Lore,67,304,3585,,
 197,Location_Lore,68,308,3586,,
 197,Location_Lore,69,312,3587,,
 197,Location_Lore,70,316,3588,,
 197,Location_Lore,71,320,3589,,
-197,Location_Lore,72,324,3590,The Lavalands,
-197,Location_Lore,73,328,3604,The Lavalands,
+197,Location_Lore,72,324,3590,The Lavalands,แดนลาวา
+197,Location_Lore,73,328,3604,The Lavalands,แดนลาวา
 197,Location_Lore,74,332,3618,,
 197,Location_Lore,75,336,3619,,
 197,Location_Lore,76,340,3620,,
 197,Location_Lore,77,344,3621,,
 197,Location_Lore,78,348,3622,,
 197,Location_Lore,79,352,3623,,
-197,Location_Lore,80,356,3624,No Man's Land<FI> West,
-197,Location_Lore,81,360,3646,No Man's Land<FI> West,
+197,Location_Lore,80,356,3624,No Man's Land<FI> West,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันตก
+197,Location_Lore,81,360,3646,No Man's Land<FI> West,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันตก
 197,Location_Lore,82,364,3668,,
 197,Location_Lore,83,368,3669,,
 197,Location_Lore,84,372,3670,,
 197,Location_Lore,85,376,3671,,
 197,Location_Lore,86,380,3672,,
 197,Location_Lore,87,384,3673,,
-197,Location_Lore,88,388,3674,No Man's Land<FI> East,
-197,Location_Lore,89,392,3696,No Man's Land<FI> East,
+197,Location_Lore,88,388,3674,No Man's Land<FI> East,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันออก
+197,Location_Lore,89,392,3696,No Man's Land<FI> East,แดนร้างไร้ผู้ครอบครอง<FI> ตะวันออก
 197,Location_Lore,90,396,3718,,
 197,Location_Lore,91,400,3719,,
 197,Location_Lore,92,404,3720,,
 197,Location_Lore,93,408,3721,,
 197,Location_Lore,94,412,3722,,
 197,Location_Lore,95,416,3723,,
-197,Location_Lore,96,420,3724,Redrock Road,
-197,Location_Lore,97,424,3737,Redrock Road,
+197,Location_Lore,96,420,3724,Redrock Road,ถนนหินแดง
+197,Location_Lore,97,424,3737,Redrock Road,ถนนหินแดง
 197,Location_Lore,98,428,3750,,
 197,Location_Lore,99,432,3751,,
 197,Location_Lore,100,436,3752,,
 197,Location_Lore,101,440,3753,,
 197,Location_Lore,102,444,3754,,
 197,Location_Lore,103,448,3755,,
-197,Location_Lore,104,452,3756,Redrock Ravine<FI> North,
-197,Location_Lore,105,456,3780,Redrock Ravine<FI> North,
+197,Location_Lore,104,452,3756,Redrock Ravine<FI> North,หุบผาหินแดงเรดร็อก<FI> เหนือ
+197,Location_Lore,105,456,3780,Redrock Ravine<FI> North,หุบผาหินแดงเรดร็อก<FI> เหนือ
 197,Location_Lore,106,460,3804,,
 197,Location_Lore,107,464,3805,,
 197,Location_Lore,108,468,3806,,
 197,Location_Lore,109,472,3807,,
 197,Location_Lore,110,476,3808,,
 197,Location_Lore,111,480,3809,,
-197,Location_Lore,112,484,3810,Frosty Foothill Ruins,
-197,Location_Lore,113,488,3832,Frosty Foothill Ruins,
+197,Location_Lore,112,484,3810,Frosty Foothill Ruins,ซากโบราณสถานเชิงเขาเยือกแข็ง
+197,Location_Lore,113,488,3832,Frosty Foothill Ruins,ซากโบราณสถานเชิงเขาเยือกแข็ง
 197,Location_Lore,114,492,3854,,
 197,Location_Lore,115,496,3855,,
 197,Location_Lore,116,500,3856,,
 197,Location_Lore,117,504,3857,,
 197,Location_Lore,118,508,3858,,
 197,Location_Lore,119,512,3859,,
-197,Location_Lore,120,516,3860,Mt Neverest<FI> Base,
-197,Location_Lore,121,520,3880,Mt Neverest<FI> Base,
+197,Location_Lore,120,516,3860,Mt Neverest<FI> Base,ภูเขาเนเวอเรสต์<FI> เชิงเขา
+197,Location_Lore,121,520,3880,Mt Neverest<FI> Base,ภูเขาเนเวอเรสต์<FI> เชิงเขา
 197,Location_Lore,122,524,3900,,
 197,Location_Lore,123,528,3901,,
 197,Location_Lore,124,532,3902,,
 197,Location_Lore,125,536,3903,,
 197,Location_Lore,126,540,3904,,
 197,Location_Lore,127,544,3905,,
-197,Location_Lore,128,548,3906,Outer Dunisia,
-197,Location_Lore,129,552,3920,Outer Dunisia,
+197,Location_Lore,128,548,3906,Outer Dunisia,นอกเมืองดูนิเซีย
+197,Location_Lore,129,552,3920,Outer Dunisia,นอกเมืองดูนิเซีย
 197,Location_Lore,130,556,3934,,
 197,Location_Lore,131,560,3935,,
 197,Location_Lore,132,564,3936,,
 197,Location_Lore,133,568,3937,,
 197,Location_Lore,134,572,3938,,
 197,Location_Lore,135,576,3939,,
-197,Location_Lore,136,580,3940,The Wildwood,
-197,Location_Lore,137,584,3953,The Wildwood,
+197,Location_Lore,136,580,3940,The Wildwood,ป่าดงดิบไวลด์วูด
+197,Location_Lore,137,584,3953,The Wildwood,ป่าดงดิบไวลด์วูด
 197,Location_Lore,138,588,3966,,
 197,Location_Lore,139,592,3967,,
 197,Location_Lore,140,596,3968,,
 197,Location_Lore,141,600,3969,,
 197,Location_Lore,142,604,3970,,
 197,Location_Lore,143,608,3971,,
-197,Location_Lore,144,612,3972,Harba,
-197,Location_Lore,145,616,3978,Harba,
+197,Location_Lore,144,612,3972,Harba,ฮาร์บา
+197,Location_Lore,145,616,3978,Harba,ฮาร์บา
 197,Location_Lore,146,620,3984,,
 197,Location_Lore,147,624,3985,,
 197,Location_Lore,148,628,3986,,
 197,Location_Lore,149,632,3987,,
 197,Location_Lore,150,636,3988,,
 197,Location_Lore,151,640,3989,,
-197,Location_Lore,152,644,3990,Ingenia,
-197,Location_Lore,153,648,3998,Ingenia,
+197,Location_Lore,152,644,3990,Ingenia,อินจีเนีย
+197,Location_Lore,153,648,3998,Ingenia,อินจีเนีย
 197,Location_Lore,154,652,4006,,
 197,Location_Lore,155,656,4007,,
 197,Location_Lore,156,660,4008,,
 197,Location_Lore,157,664,4009,,
 197,Location_Lore,158,668,4010,,
 197,Location_Lore,159,672,4011,,
-197,Location_Lore,160,676,4012,The Great Divide,
-197,Location_Lore,161,680,4029,The Great Divide,
+197,Location_Lore,160,676,4012,The Great Divide,เทือกเขาพรมแดนใหญ่
+197,Location_Lore,161,680,4029,The Great Divide,เทือกเขาพรมแดนใหญ่
 197,Location_Lore,162,684,4046,,
 197,Location_Lore,163,688,4047,,
 197,Location_Lore,164,692,4048,,
 197,Location_Lore,165,696,4049,,
 197,Location_Lore,166,700,4050,,
 197,Location_Lore,167,704,4051,,
-197,Location_Lore,168,708,4052,Mt Neverest,
-197,Location_Lore,169,712,4064,Mt Neverest,
+197,Location_Lore,168,708,4052,Mt Neverest,ภูเขาเนเวอเรสต์
+197,Location_Lore,169,712,4064,Mt Neverest,ภูเขาเนเวอเรสต์
 197,Location_Lore,170,716,4076,,
 197,Location_Lore,171,720,4077,,
 197,Location_Lore,172,724,4078,,
 197,Location_Lore,173,728,4079,,
 197,Location_Lore,174,732,4080,,
 197,Location_Lore,175,736,4081,,
-197,Location_Lore,176,740,4082,Accordia,
-197,Location_Lore,177,744,4091,Accordia,
+197,Location_Lore,176,740,4082,Accordia,ออร์คาเนีย
+197,Location_Lore,177,744,4091,Accordia,ออร์คาเนีย
 197,Location_Lore,178,748,4100,,
 197,Location_Lore,179,752,4101,,
 197,Location_Lore,180,756,4102,,
 197,Location_Lore,181,760,4103,,
 197,Location_Lore,182,764,4104,,
 197,Location_Lore,183,768,4105,,
-197,Location_Lore,184,772,4106,The Pinnacle of Peace,
-197,Location_Lore,185,776,4128,The Pinnacle of Peace,
+197,Location_Lore,184,772,4106,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
+197,Location_Lore,185,776,4128,The Pinnacle of Peace,วิหารยอดพสุธาสันติภาพ
 197,Location_Lore,186,780,4150,,
 197,Location_Lore,187,784,4151,,
 197,Location_Lore,188,788,4152,,
 197,Location_Lore,189,792,4153,,
 197,Location_Lore,190,796,4154,,
 197,Location_Lore,191,800,4155,,
-197,Location_Lore,192,804,4156,The Black Manse,
-197,Location_Lore,193,808,4172,The Black Manse,
+197,Location_Lore,192,804,4156,The Black Manse,คฤหาสน์ทมิฬ
+197,Location_Lore,193,808,4172,The Black Manse,คฤหาสน์ทมิฬ
 197,Location_Lore,194,812,4188,,
 197,Location_Lore,195,816,4189,,
 197,Location_Lore,196,820,4190,,
 197,Location_Lore,197,824,4191,,
 197,Location_Lore,198,828,4192,,
 197,Location_Lore,199,832,4193,,
-197,Location_Lore,200,836,4194,Pastures<FI> Eastern Wood,
-197,Location_Lore,201,840,4219,Pastures<FI> Eastern Wood,
+197,Location_Lore,200,836,4194,Pastures<FI> Eastern Wood,ทุ่งหญ้า<FI> ป่าตะวันออก
+197,Location_Lore,201,840,4219,Pastures<FI> Eastern Wood,ทุ่งหญ้า<FI> ป่าตะวันออก
 197,Location_Lore,202,844,4244,,
 197,Location_Lore,203,848,4245,,
 197,Location_Lore,204,852,4246,,
 197,Location_Lore,205,856,4247,,
 197,Location_Lore,206,860,4248,,
 197,Location_Lore,207,864,4249,,
-197,Location_Lore,208,868,4250,The Oasis,
-197,Location_Lore,209,872,4260,The Oasis,
+197,Location_Lore,208,868,4250,The Oasis,โอเอซิส
+197,Location_Lore,209,872,4260,The Oasis,โอเอซิส
 197,Location_Lore,210,876,4270,,
 197,Location_Lore,211,880,4271,,
 197,Location_Lore,212,884,4272,,
 197,Location_Lore,213,888,4273,,
 197,Location_Lore,214,892,4274,,
 197,Location_Lore,215,896,4275,,
-197,Location_Lore,216,900,4276,The Forest Gate,
-197,Location_Lore,217,904,4292,The Forest Gate,
+197,Location_Lore,216,900,4276,The Forest Gate,ประตูป่า
+197,Location_Lore,217,904,4292,The Forest Gate,ประตูป่า
 197,Location_Lore,218,908,4308,,
 197,Location_Lore,219,912,4309,,
 197,Location_Lore,220,916,4310,,
 197,Location_Lore,221,920,4311,,
 197,Location_Lore,222,924,4312,,
 197,Location_Lore,223,928,4313,,
-197,Location_Lore,224,932,4314,Redrock Bridge,
-197,Location_Lore,225,936,4329,Redrock Bridge,
+197,Location_Lore,224,932,4314,Redrock Bridge,สะพานหินแดง
+197,Location_Lore,225,936,4329,Redrock Bridge,สะพานหินแดง
 197,Location_Lore,226,940,4344,,
 197,Location_Lore,227,944,4345,,
 197,Location_Lore,228,948,4346,,
 197,Location_Lore,229,952,4347,,
 197,Location_Lore,230,956,4348,,
 197,Location_Lore,231,960,4349,,
-197,Location_Lore,232,964,4350,Frosty Foothills<FI> South,
-197,Location_Lore,233,968,4376,Frosty Foothills<FI> South,
+197,Location_Lore,232,964,4350,Frosty Foothills<FI> South,เชิงเขาเยือกแข็งฟรอสตี้<FI> ใต้
+197,Location_Lore,233,968,4376,Frosty Foothills<FI> South,เชิงเขาเยือกแข็งฟรอสตี้<FI> ใต้
 197,Location_Lore,234,972,4402,,
 197,Location_Lore,235,976,4403,,
 197,Location_Lore,236,980,4404,,

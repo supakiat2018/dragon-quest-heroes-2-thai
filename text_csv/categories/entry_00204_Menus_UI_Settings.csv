@@ -255,7 +255,7 @@
 204,Menus_UI_Settings,253,1044,28137,How would you like to enhance it<FH>,อยากเสริมพลังแบบไหนดีจ๊ะ<FH>
 204,Menus_UI_Settings,254,1048,28173,"Sorry duckie, but you don't seem to have the right bits and pieces for that. You'll need all the ingredients and enough gold coins...",ขอโทษทีนะจ๊ะคนดี แต่ดูเหมือนเธอจะไม่มีวัตถุดิบและชิ้นส่วนที่ถูกต้องสำหรับทำนะ ต้องมีทั้งวัตถุดิบและเหรียญทองให้ครบด้วยจ้ะ...
 204,Menus_UI_Settings,255,1052,28307,"You've jumped the gun a little there, I'm afraid. That accessory's not ready for that enhancement just yet.",ยายว่าเธอใจร้อนเกินไปหน่อยแล้วล่ะจ้ะ เครื่องประดับชิ้นนั้นยังไม่พร้อมสำหรับการเสริมพลังขั้นนั้นหรอกนะ
-204,Menus_UI_Settings,256,1056,28415,UNUSED,
+204,Menus_UI_Settings,256,1056,28415,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,257,1060,28422,"Well, dearie<FH> Shall we pop those ingredients in the pot and get enhancing<FH>",เอาล่ะ คนดี<FH> เรามาหย่อนวัตถุดิบลงหม้อแล้วเริ่มเสริมพลังกันเลยไหมจ๊ะ<FH>
 204,Menus_UI_Settings,258,1064,28501,There we are<FG> All done<FG>,เรียบร้อยแล้วจ้ะ<FG> เสร็จสมบูรณ์<FG>
 204,Menus_UI_Settings,259,1068,28529,Well now... Seems you've got yourself an accessory that'll need some of my special powder if you want to enhance it any further...,แหม... ดูเหมือนเธอจะได้เครื่องประดับที่ต้องใช้ผงพิเศษของยาย ถ้าอยากจะเสริมพลังมันให้สูงขึ้นไปอีกล่ะนะ...
@@ -285,13 +285,13 @@
 204,Menus_UI_Settings,283,1164,31030,"To ask for help with a story battle, simply select the relevant option before the battle begins.",หากต้องการขอความช่วยเหลือในการต่อสู้ตามเนื้อเรื่อง เพียงเลือกตัวเลือกที่เกี่ยวข้องก่อนเริ่มการต่อสู้ค่ะ
 204,Menus_UI_Settings,284,1168,31127,We'll look forward to seeing you again once we've officially opened<FG>,พวกเรารอคอยที่จะได้พบคุณอีกครั้งเมื่อเปิดให้บริการอย่างเป็นทางการนะคะ<FG>
 204,Menus_UI_Settings,285,1172,31198,"I'm sorry, we're still setting things up. We'll be opening soon, though, so do come back once we're up and running<FG>",ขออภัยด้วยนะคะ เรายังจัดเตรียมสถานที่อยู่ค่ะ แต่จะเปิดให้บริการเร็ว ๆ นี้ ไว้แวะมาใหม่เมื่อเราพร้อมให้บริการนะคะ<FG>
-204,Menus_UI_Settings,286,1176,31316,UNUSED,
+204,Menus_UI_Settings,286,1176,31316,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,287,1180,31323,"You'd like to go to a dimensional dungeon<FH> Just so you know, these are special dungeons you can visit with up to three other people.",ต้องการไปดันเจี้ยนมิติงั้นเหรอคะ<FH> ดันเจี้ยนเหล่านี้คือดันเจี้ยนพิเศษที่คุณสามารถร่วมเดินทางไปกับผู้เล่นอื่นได้สูงสุดถึง 3 คนค่ะ
 204,Menus_UI_Settings,288,1184,31458,Dimensional dungeons are entered from rooms called ‘lobbies’. You can join these rooms in three different ways.,การเข้าสู่ดันเจี้ยนมิติจะเริ่มจากห้องที่เรียกว่า 'ล็อบบี้' คุณสามารถเข้าร่วมห้องเหล่านี้ได้สามวิธีค่ะ
 204,Menus_UI_Settings,289,1188,31574,"The first is to set up your own lobby and wait for other players to join you. To do this, select ‘Call to Arms’.",วิธีแรกคือการสร้างล็อบบี้ของคุณเองแล้วรอให้ผู้เล่นคนอื่นมาร่วม โดยเลือก 'ระดมพล' ค่ะ
 204,Menus_UI_Settings,290,1192,31691,"The next is to join someone else's lobby. To do this, select ‘Answer the Call’.",วิธีต่อไปคือการเข้าร่วมล็อบบี้ของคนอื่น โดยเลือก 'ตอบรับการระดมพล' ค่ะ
 204,Menus_UI_Settings,291,1196,31775,"Lastly, if you'd like to get stuck in as quickly as possible, you can just select ‘Leave it to Erinn’, and I'll make the arrangements for you<FG>",และวิธีสุดท้าย หากคุณต้องการเริ่มลุยให้เร็วที่สุด ก็เพียงเลือก 'ให้เอรินน์จัดการ'แล้วฉันจะช่วยจัดเตรียมทุกอย่างให้คุณเองค่ะ<FG>
-204,Menus_UI_Settings,292,1200,31924,UNUSED,
+204,Menus_UI_Settings,292,1200,31924,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,293,1204,31931,"Okay, that's all the paperwork done<FG> Sit tight while I take you to the world between dimensions<FG>",เอาล่ะ เอกสารทุกอย่างเรียบร้อยแล้วค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะพาคุณไปยังโลกระหว่างมิติค่ะ<FG>
 204,Menus_UI_Settings,294,1208,32032,Select the part of the story you'd like to help with.,เลือกส่วนของเนื้อเรื่องที่คุณต้องการไปช่วยเหลือค่ะ
 204,Menus_UI_Settings,295,1212,32086,"I've found some adventurers looking for people like you<FG> If you want to search again, press the <P3> button.",ฉันพบเหล่านักผจญภัยที่กำลังมองหาคนอย่างคุณแล้วค่ะ<FG> หากต้องการค้นหาใหม่อีกครั้ง ให้กดปุ่ม <P3> นะคะ
@@ -306,8 +306,8 @@
 204,Menus_UI_Settings,304,1248,32795,"Oh, I'm sorry<MV>it looks like you're not far enough through the story to help out in that lobby.",โอ้ ขอโทษด้วยนะคะ<MV>ดูเหมือนคุณจะดำเนินเนื้อเรื่องไปไม่ไกลพอที่จะเข้าไปช่วยเหลือในล็อบบี้นั้นได้ค่ะ
 204,Menus_UI_Settings,305,1252,32892,<I0>M1 is looking for help with ‘<I0>M2’.,<I0>M1 กำลังมองหาคนช่วยใน ‘<I0>M2’ ค่ะ
 204,Menus_UI_Settings,306,1256,32936,Do you want to go to this lobby and help out<FH>,ต้องการไปที่ล็อบบี้นี้เพื่อช่วยเหลือหรือไม่คะ<FH>
-204,Menus_UI_Settings,307,1260,32984,UNUSED,
-204,Menus_UI_Settings,308,1264,32991,UNUSED,
+204,Menus_UI_Settings,307,1260,32984,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,308,1264,32991,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,309,1268,32998,"This is your first visit, isn't it<FH> Alright, we just need to do a little paperwork first<FG>",นี่เป็นการมาเยือนครั้งแรกใช่ไหมคะ<FH> เอาล่ะ เราต้องจัดการเอกสารเล็ก ๆ น้อย ๆ กันก่อนนะคะ<FG>
 204,Menus_UI_Settings,310,1272,33092,You'll need to decide what name you want to use when visiting other dimensions. Bear in mind that other people will be able to see it.,คุณต้องตัดสินใจว่าจะใช้ชื่ออะไรในการเดินทางข้ามมิติ โปรดจำไว้ว่าผู้เล่นคนอื่นจะสามารถมองเห็นชื่อนี้ได้นะคะ
 204,Menus_UI_Settings,311,1276,33227,"So that's...<I0>41... Alright, just putting that down... Lovely<FG> Thank you very much<FG>",ชื่อนั้นคือ... <I0>41... ได้เลยค่ะ ขอจดบันทึกไว้ก่อนนะคะ... เรียบร้อยค่ะ<FG> ขอบคุณมากนะคะ<FG>
@@ -326,7 +326,7 @@
 204,Menus_UI_Settings,324,1328,33995,"Thanks<FG> Sit tight a moment, and I'll have everything ready in a jiffy.",ขอบคุณค่ะ<FG> รอสักครู่นะคะ เดี๋ยวฉันจะเตรียมทุกอย่างให้เสร็จในพริบตาเดียวค่ะ
 204,Menus_UI_Settings,325,1332,34068,"<F4><I0>M1<FH> Certainly. Just fill in the details of anything else you're looking for, and I'll get to work.",<F4><I0>M1 นะคะ<FH> ได้แน่นอนค่ะ เพียงกรอกรายละเอียดอื่น ๆ ที่คุณต้องการแล้วฉันจะเริ่มดำเนินการให้ทันทีค่ะ
 204,Menus_UI_Settings,326,1336,34175,"Alright, that's everything<FG> Let's see if I can find a match for you, shall we<FH>",เอาล่ะ ครบทุกอย่างแล้วค่ะ<FG> มาดูกันนะคะว่าฉันจะค้นหาห้องที่เข้ากับคุณได้ไหม<FH>
-204,Menus_UI_Settings,327,1340,34258,UNUSED,
+204,Menus_UI_Settings,327,1340,34258,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,328,1344,34265,We've sent a request for you to join that lobby. Please wait a moment...,เราได้ส่งคำขอเข้าร่วมล็อบบี้นั้นไปแล้วค่ะ โปรดรอสักครู่...
 204,Menus_UI_Settings,329,1348,34338,"You'd like to change your online name<FH> Not to worry, I have a form for that too. Just jot a name down in the box there.",ต้องการเปลี่ยนชื่อออนไลน์งั้นเหรอคะ<FH> ไม่ต้องกังวลค่ะ ฉันมีแบบฟอร์มให้กรอกเช่นกัน เพียงเขียนชื่อลงในช่องตรงนั้นได้เลยค่ะ
 204,Menus_UI_Settings,330,1352,34460,You haven't chosen a destination yet. You'll need to choose one before you can go off adventuring.,คุณยังไม่ได้เลือกจุดหมายปลายทางเลยค่ะ ต้องเลือกก่อนจึงจะออกไปผจญภัยได้นะคะ
@@ -728,7 +728,7 @@
 204,Menus_UI_Settings,726,2936,63459,Would you like to make this battle even easier and attempt it again<FH>\n(This won't use up any more Victory's Secrets.),ต้องการทำให้การต่อสู้นี้ง่ายขึ้นไปอีกและลองสู้อีกครั้งหรือไม่<FH>\n(จะไม่เสียคัมภีร์ลับสู่ชัยชนะเพิ่ม)
 204,Menus_UI_Settings,727,2940,63578,Do you want to start this battle again without making it any easier<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งโดยไม่ปรับให้ง่ายขึ้นหรือไม่<FH>
 204,Menus_UI_Settings,728,2944,63649,"Oh, you want to check the recruitment criteria<FH> Remember, if you're the one looking for people, you can change the criteria as well.",อ๋อ ต้องการตรวจสอบเงื่อนไขการรับสมัครใช่ไหมคะ<FH> จำไว้นะคะว่าหากคุณเป็นคนค้นหาผู้เล่น คุณสามารถเปลี่ยนเงื่อนไขได้เช่นกันค่ะ
-204,Menus_UI_Settings,729,2948,63784,UNUSED,
+204,Menus_UI_Settings,729,2948,63784,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,730,2952,63791,"Alright, I've made the changes you asked for. Just let me know if you'd like to change anything else<FG>",เรียบร้อยค่ะ ฉันทำการเปลี่ยนแปลงตามที่คุณขอให้แล้ว หากต้องการเปลี่ยนสิ่งใดอีกบอกได้เสมอนะคะ<FG>
 204,Menus_UI_Settings,731,2956,63895,I'm ever so sorry<MV>I wasn't able to make the changes you wanted. Would you mind trying again in a little while<FH>,ต้องขออภัยจริง ๆ ค่ะ<MV>ไม่สามารถทำการเปลี่ยนแปลงตามที่คุณต้องการได้ ช่วยลองใหม่อีกครั้งในอีกสักครู่ได้ไหมคะ<FH>
 204,Menus_UI_Settings,732,2960,64010,Setting a secret number lets you make sure only other people who know that number can join you.,การตั้งหมายเลขลับจะช่วยให้มั่นใจได้ว่ามีเพียงคนที่รู้หมายเลขนี้เท่านั้นที่จะเข้าร่วมกับคุณได้ค่ะ
@@ -749,14 +749,14 @@
 204,Menus_UI_Settings,747,3020,65233,"Are you sure, duckie<FH> That'll mean grinding down accessories people are using...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่คนอื่นกำลังสวมอยู่นะ...
 204,Menus_UI_Settings,748,3024,65316,"Grinding <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 down will get you <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02. Does that sound good to you, duckie<FH>",การบดสลาย <E5>R1<I8>E1<E6>01<GR>1 <I1>E1<E7>01 จะได้ <E5>R2<I8>F1<E6>02<GR>2 <I1>F1<E7>02 ฟังดูดีไหมจ๊ะคนดี<FH>
 204,Menus_UI_Settings,749,3028,65445,"Are you sure, duckie<FH> That'll mean grinding down accessories you're using for other vocations...",แน่ใจเหรอจ๊ะคนดี<FH> นั่นหมายถึงการบดสลายเครื่องประดับที่เธอใช้กับอาชีพอื่นอยู่นะ...
-204,Menus_UI_Settings,750,3032,65544,UNUSED,
-204,Menus_UI_Settings,751,3036,65551,UNUSED,
+204,Menus_UI_Settings,750,3032,65544,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,751,3036,65551,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,752,3040,65558,Attempt this battle again with your current party<FH>,ต้องการลองสู้ในการศึกนี้ใหม่อีกครั้งพร้อมกับปาร์ตี้ปัจจุบันหรือไม่<FH>
 204,Menus_UI_Settings,753,3044,65611,Please wait until all party members have responded.,โปรดรอจนกว่าสมาชิกปาร์ตี้ทุกคนจะตอบกลับ
 204,Menus_UI_Settings,754,3048,65663,Everyone's ready. Setting off again...,ทุกคนพร้อมแล้ว กำลังออกเดินทางอีกครั้ง...
 204,Menus_UI_Settings,755,3052,65702,You declined the interdimensional adventure.,คุณปฏิเสธการผจญภัยข้ามมิติแล้ว
 204,Menus_UI_Settings,756,3056,65747,"Someone has dropped out, so unfortunately you won't be able to try this one again.",มีสมาชิกคนหนึ่งถอนตัวออกไป น่าเสียดายที่คุณจะไม่สามารถลองสู้อีกครั้งได้ค่ะ
-204,Menus_UI_Settings,757,3060,65830,UNUSED,
+204,Menus_UI_Settings,757,3060,65830,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,758,3064,65837,You cannot access competitive mode alone.,คุณไม่สามารถเข้าสู่โหมดแข่งขันเพียงลำพังได้
 204,Menus_UI_Settings,759,3068,65879,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
 204,Menus_UI_Settings,760,3072,65974,"Do you want to play on an equal footing with other players, or at your actual level instead<FH>",ต้องการเล่นในระดับความสามารถที่เท่าเทียมกับผู้เล่นอื่นหรือเล่นด้วยเลเวลจริงของคุณเอง<FH>
@@ -776,29 +776,29 @@
 204,Menus_UI_Settings,774,3128,66617,,
 204,Menus_UI_Settings,775,3132,66618,,
 204,Menus_UI_Settings,776,3136,66619,,
-204,Menus_UI_Settings,777,3140,66620,未使用,
-204,Menus_UI_Settings,778,3144,66630,未使用,
-204,Menus_UI_Settings,779,3148,66640,未使用,
-204,Menus_UI_Settings,780,3152,66650,未使用,
-204,Menus_UI_Settings,781,3156,66660,未使用,
-204,Menus_UI_Settings,782,3160,66670,未使用,
-204,Menus_UI_Settings,783,3164,66680,未使用,
-204,Menus_UI_Settings,784,3168,66690,未使用,
-204,Menus_UI_Settings,785,3172,66700,未使用,
-204,Menus_UI_Settings,786,3176,66710,未使用,
-204,Menus_UI_Settings,787,3180,66720,未使用,
-204,Menus_UI_Settings,788,3184,66730,未使用,
-204,Menus_UI_Settings,789,3188,66740,未使用,
-204,Menus_UI_Settings,790,3192,66750,未使用,
-204,Menus_UI_Settings,791,3196,66760,未使用,
-204,Menus_UI_Settings,792,3200,66770,未使用,
-204,Menus_UI_Settings,793,3204,66780,未使用,
-204,Menus_UI_Settings,794,3208,66790,未使用,
-204,Menus_UI_Settings,795,3212,66800,未使用,
-204,Menus_UI_Settings,796,3216,66810,未使用,
-204,Menus_UI_Settings,797,3220,66820,未使用,
-204,Menus_UI_Settings,798,3224,66830,未使用,
-204,Menus_UI_Settings,799,3228,66840,未使用,
+204,Menus_UI_Settings,777,3140,66620,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,778,3144,66630,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,779,3148,66640,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,780,3152,66650,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,781,3156,66660,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,782,3160,66670,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,783,3164,66680,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,784,3168,66690,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,785,3172,66700,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,786,3176,66710,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,787,3180,66720,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,788,3184,66730,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,789,3188,66740,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,790,3192,66750,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,791,3196,66760,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,792,3200,66770,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,793,3204,66780,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,794,3208,66790,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,795,3212,66800,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,796,3216,66810,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,797,3220,66820,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,798,3224,66830,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,799,3228,66840,未使用,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,800,3232,66850,Lv.,Lv.
 204,Menus_UI_Settings,801,3236,66854,<FI>,<FI>
 204,Menus_UI_Settings,802,3240,66858,/,/
@@ -808,16 +808,16 @@
 204,Menus_UI_Settings,806,3256,66883,,
 204,Menus_UI_Settings,807,3260,66884,No. Owned,จำนวนที่มี
 204,Menus_UI_Settings,808,3264,66894,,
-204,Menus_UI_Settings,809,3268,66895,UNUSED,
-204,Menus_UI_Settings,810,3272,66902,UNUSED,
+204,Menus_UI_Settings,809,3268,66895,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,810,3272,66902,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,811,3276,66909,Buy,ซื้อ
 204,Menus_UI_Settings,812,3280,66913,Sell,ขาย
 204,Menus_UI_Settings,813,3284,66918,How many<FH>,จำนวนกี่ชิ้น<FH>
 204,Menus_UI_Settings,814,3288,66930,Total,ราคารวม
 204,Menus_UI_Settings,815,3292,66936,Remaining,คงเหลือ
 204,Menus_UI_Settings,816,3296,66946,Shards,เศษอาวุธ
-204,Menus_UI_Settings,817,3300,66953,UNUSED,
-204,Menus_UI_Settings,818,3304,66960,UNUSED,
+204,Menus_UI_Settings,817,3300,66953,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,818,3304,66960,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,819,3308,66967,Weapons,อาวุธ
 204,Menus_UI_Settings,820,3312,66975,Orbs,ลูกแก้ว
 204,Menus_UI_Settings,821,3316,66980,Accessories,เครื่องประดับ
@@ -827,7 +827,7 @@
 204,Menus_UI_Settings,825,3332,67016,<FH>,<FH>
 204,Menus_UI_Settings,826,3336,67020,<FH><FH><FH>,<FH><FH><FH>
 204,Menus_UI_Settings,827,3340,67030,Cannot Sell,ขายไม่ได้
-204,Menus_UI_Settings,828,3344,67042,UNUSED,
+204,Menus_UI_Settings,828,3344,67042,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,829,3348,67049,Members<FI> <GR>1,สมาชิก<FI> <GR>1
 204,Menus_UI_Settings,830,3352,67065,(,(
 204,Menus_UI_Settings,831,3356,67067,),)
@@ -846,7 +846,7 @@
 204,Menus_UI_Settings,844,3408,67178,Resilience,ความอดทน
 204,Menus_UI_Settings,845,3412,67189,Wisdom,สติปัญญา
 204,Menus_UI_Settings,846,3416,67196,Deftness,ความคล่องแคล่ว
-204,Menus_UI_Settings,847,3420,67205,None,ไม่มี
+204,Menus_UI_Settings,847,3420,67205,,ไม่มี
 204,Menus_UI_Settings,848,3424,67210,<FE>x,<FE>x
 204,Menus_UI_Settings,849,3428,67215,Weapon,อาวุธ
 204,Menus_UI_Settings,850,3432,67222,Shield,โล่
@@ -863,7 +863,7 @@
 204,Menus_UI_Settings,861,3476,67324,Proficiency,ความชำนาญ
 204,Menus_UI_Settings,862,3480,67336,Exp.,Exp.
 204,Menus_UI_Settings,863,3484,67341,To Next Level,สู่เลเวลถัดไป
-204,Menus_UI_Settings,864,3488,67355,None,ไม่มี
+204,Menus_UI_Settings,864,3488,67355,,ไม่มี
 204,Menus_UI_Settings,865,3492,67360,,
 204,Menus_UI_Settings,866,3496,67361,,
 204,Menus_UI_Settings,867,3500,67362,View Details,ดูรายละเอียด
@@ -921,10 +921,10 @@
 204,Menus_UI_Settings,919,3708,67856,,
 204,Menus_UI_Settings,920,3712,67857,-,-
 204,Menus_UI_Settings,921,3716,67859,Multiplayer Version,เวอร์ชันมัลติเพลเยอร์
-204,Menus_UI_Settings,922,3720,67879,NOT USED,
+204,Menus_UI_Settings,922,3720,67879,NOT USED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,923,3724,67888,Searching for players...,กำลังค้นหาผู้เล่น...
 204,Menus_UI_Settings,924,3728,67913,<P2> Search (All Players),<P2> ค้นหา (ผู้เล่นทุกคน)
-204,Menus_UI_Settings,925,3732,67938,NOT USED,
+204,Menus_UI_Settings,925,3732,67938,NOT USED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,926,3736,67947,Searching using secret number <GR>1...,กำลังค้นหาด้วยหมายเลขลับ <GR>1...
 204,Menus_UI_Settings,927,3740,67985,<P2> Search (Secret Number),<P2> ค้นหา (หมายเลขลับ)
 204,Menus_UI_Settings,928,3744,68012,Rank <GR>1,แรงก์ <GR>1
@@ -933,72 +933,72 @@
 204,Menus_UI_Settings,931,3756,68046,Competitive,แข่งขันกัน
 204,Menus_UI_Settings,932,3760,68058,Rank,แรงก์
 204,Menus_UI_Settings,933,3764,68063,To Next Rank,สู่แรงก์ถัดไป
-204,Menus_UI_Settings,934,3768,68076,未使用,
-204,Menus_UI_Settings,935,3772,68086,未使用,
-204,Menus_UI_Settings,936,3776,68096,未使用,
-204,Menus_UI_Settings,937,3780,68106,未使用,
-204,Menus_UI_Settings,938,3784,68116,未使用,
-204,Menus_UI_Settings,939,3788,68126,未使用,
-204,Menus_UI_Settings,940,3792,68136,未使用,
-204,Menus_UI_Settings,941,3796,68146,未使用,
-204,Menus_UI_Settings,942,3800,68156,未使用,
-204,Menus_UI_Settings,943,3804,68166,未使用,
-204,Menus_UI_Settings,944,3808,68176,未使用,
-204,Menus_UI_Settings,945,3812,68186,未使用,
-204,Menus_UI_Settings,946,3816,68196,未使用,
-204,Menus_UI_Settings,947,3820,68206,未使用,
-204,Menus_UI_Settings,948,3824,68216,未使用,
-204,Menus_UI_Settings,949,3828,68226,未使用,
-204,Menus_UI_Settings,950,3832,68236,未使用,
-204,Menus_UI_Settings,951,3836,68246,未使用,
-204,Menus_UI_Settings,952,3840,68256,未使用,
-204,Menus_UI_Settings,953,3844,68266,未使用,
-204,Menus_UI_Settings,954,3848,68276,未使用,
-204,Menus_UI_Settings,955,3852,68286,未使用,
-204,Menus_UI_Settings,956,3856,68296,未使用,
-204,Menus_UI_Settings,957,3860,68306,未使用,
-204,Menus_UI_Settings,958,3864,68316,未使用,
-204,Menus_UI_Settings,959,3868,68326,未使用,
-204,Menus_UI_Settings,960,3872,68336,未使用,
-204,Menus_UI_Settings,961,3876,68346,未使用,
-204,Menus_UI_Settings,962,3880,68356,未使用,
-204,Menus_UI_Settings,963,3884,68366,未使用,
-204,Menus_UI_Settings,964,3888,68376,未使用,
-204,Menus_UI_Settings,965,3892,68386,未使用,
-204,Menus_UI_Settings,966,3896,68396,未使用,
-204,Menus_UI_Settings,967,3900,68406,未使用,
-204,Menus_UI_Settings,968,3904,68416,未使用,
-204,Menus_UI_Settings,969,3908,68426,未使用,
-204,Menus_UI_Settings,970,3912,68436,未使用,
-204,Menus_UI_Settings,971,3916,68446,未使用,
-204,Menus_UI_Settings,972,3920,68456,未使用,
-204,Menus_UI_Settings,973,3924,68466,未使用,
-204,Menus_UI_Settings,974,3928,68476,未使用,
-204,Menus_UI_Settings,975,3932,68486,未使用,
-204,Menus_UI_Settings,976,3936,68496,未使用,
-204,Menus_UI_Settings,977,3940,68506,未使用,
-204,Menus_UI_Settings,978,3944,68516,未使用,
-204,Menus_UI_Settings,979,3948,68526,未使用,
-204,Menus_UI_Settings,980,3952,68536,未使用,
-204,Menus_UI_Settings,981,3956,68546,未使用,
-204,Menus_UI_Settings,982,3960,68556,未使用,
-204,Menus_UI_Settings,983,3964,68566,未使用,
-204,Menus_UI_Settings,984,3968,68576,未使用,
-204,Menus_UI_Settings,985,3972,68586,未使用,
-204,Menus_UI_Settings,986,3976,68596,未使用,
-204,Menus_UI_Settings,987,3980,68606,未使用,
-204,Menus_UI_Settings,988,3984,68616,未使用,
-204,Menus_UI_Settings,989,3988,68626,未使用,
-204,Menus_UI_Settings,990,3992,68636,未使用,
-204,Menus_UI_Settings,991,3996,68646,未使用,
-204,Menus_UI_Settings,992,4000,68656,未使用,
-204,Menus_UI_Settings,993,4004,68666,未使用,
-204,Menus_UI_Settings,994,4008,68676,未使用,
-204,Menus_UI_Settings,995,4012,68686,未使用,
-204,Menus_UI_Settings,996,4016,68696,未使用,
-204,Menus_UI_Settings,997,4020,68706,未使用,
-204,Menus_UI_Settings,998,4024,68716,未使用,
-204,Menus_UI_Settings,999,4028,68726,未使用,
+204,Menus_UI_Settings,934,3768,68076,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,935,3772,68086,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,936,3776,68096,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,937,3780,68106,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,938,3784,68116,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,939,3788,68126,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,940,3792,68136,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,941,3796,68146,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,942,3800,68156,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,943,3804,68166,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,944,3808,68176,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,945,3812,68186,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,946,3816,68196,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,947,3820,68206,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,948,3824,68216,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,949,3828,68226,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,950,3832,68236,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,951,3836,68246,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,952,3840,68256,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,953,3844,68266,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,954,3848,68276,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,955,3852,68286,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,956,3856,68296,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,957,3860,68306,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,958,3864,68316,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,959,3868,68326,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,960,3872,68336,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,961,3876,68346,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,962,3880,68356,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,963,3884,68366,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,964,3888,68376,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,965,3892,68386,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,966,3896,68396,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,967,3900,68406,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,968,3904,68416,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,969,3908,68426,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,970,3912,68436,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,971,3916,68446,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,972,3920,68456,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,973,3924,68466,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,974,3928,68476,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,975,3932,68486,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,976,3936,68496,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,977,3940,68506,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,978,3944,68516,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,979,3948,68526,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,980,3952,68536,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,981,3956,68546,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,982,3960,68556,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,983,3964,68566,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,984,3968,68576,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,985,3972,68586,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,986,3976,68596,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,987,3980,68606,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,988,3984,68616,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,989,3988,68626,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,990,3992,68636,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,991,3996,68646,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,992,4000,68656,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,993,4004,68666,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,994,4008,68676,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,995,4012,68686,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,996,4016,68696,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,997,4020,68706,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,998,4024,68716,未使用,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,999,4028,68726,未使用,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1000,4032,68736,Venture Forth,ออกเดินทาง
 204,Menus_UI_Settings,1001,4036,68750,Create Adventure Log,สร้างบันทึกการเดินทาง
 204,Menus_UI_Settings,1002,4040,68771,Delete Adventure Log,ลบบันทึกการเดินทาง
@@ -1006,7 +1006,7 @@
 204,Menus_UI_Settings,1004,4048,68806,Play Time,เวลาเล่น
 204,Menus_UI_Settings,1005,4052,68816,Recorded,บันทึกเมื่อ
 204,Menus_UI_Settings,1006,4056,68825,To Do,สิ่งที่ต้องทำ
-204,Menus_UI_Settings,1007,4060,68831,Unused,
+204,Menus_UI_Settings,1007,4060,68831,Unused,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1008,4064,68838,A hot-headed young knight-in-training who'll stop at nothing to do what's right.,อัศวินฝึกหัดหนุ่มเลือดร้อน ผู้ไม่ยอมให้อะไรมาหยุดยั้งความถูกต้อง
 204,Menus_UI_Settings,1009,4068,68919,"A cool, collected young knight-in-training who leads with natural wit and talent.",อัศวินฝึกหัดสาวผู้สุขุมเยือกเย็น ผู้นำทางด้วยไหวพริบและพรสวรรค์ตามธรรมชาติ
 204,Menus_UI_Settings,1010,4072,69001,Please choose a name for your hero.,โปรดเลือกชื่อสำหรับผู้กล้าของคุณ
@@ -1141,25 +1141,25 @@
 204,Menus_UI_Settings,1139,4588,70980,Autosave,บันทึกอัตโนมัติ
 204,Menus_UI_Settings,1140,4592,70989,Online Features,ฟีเจอร์ออนไลน์
 204,Menus_UI_Settings,1141,4596,71005,Control Type,รูปแบบการควบคุม
-204,Menus_UI_Settings,1142,4600,71018,UNUSED,
+204,Menus_UI_Settings,1142,4600,71018,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1143,4604,71025,<PC>/<PE> Function,ฟังก์ชัน <PC>/<PE>
-204,Menus_UI_Settings,1144,4608,71042,UNUSED,
+204,Menus_UI_Settings,1144,4608,71042,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1145,4612,71049,Vibration Function,ระบบสั่น
 204,Menus_UI_Settings,1146,4616,71068,Coup de Grâce Cutscenes,คัตซีนท่าไม้ตายปิดฉาก
 204,Menus_UI_Settings,1147,4620,71093,Damage Display,แสดงตัวเลขความเสียหาย
 204,Menus_UI_Settings,1148,4624,71108,Show Control Guide,แสดงคำแนะนำการควบคุม
 204,Menus_UI_Settings,1149,4628,71127,Restore Defaults,คืนค่าเริ่มต้น
-204,Menus_UI_Settings,1150,4632,71144,UNUSED,
-204,Menus_UI_Settings,1151,4636,71151,UNUSED,
-204,Menus_UI_Settings,1152,4640,71158,UNUSED,
+204,Menus_UI_Settings,1150,4632,71144,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1151,4636,71151,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1152,4640,71158,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1153,4644,71165,Standard,มาตรฐาน
 204,Menus_UI_Settings,1154,4648,71174,Inverted,กลับทิศทาง
 204,Menus_UI_Settings,1155,4652,71183,"If enabled, your progress will be automatically recorded to the autosave adventure log.",หากเปิดใช้งาน ความก้าวหน้าของคุณจะถูกบันทึกลงในช่องบันทึกอัตโนมัติอย่างสม่ำเสมอ
 204,Menus_UI_Settings,1156,4656,71271,"If enabled, the game will check for news and events.",หากเปิดใช้งาน เกมจะตรวจสอบข่าวสารและกิจกรรมพิเศษ
 204,Menus_UI_Settings,1157,4660,71324,Sets the type of controls to use.,กำหนดรูปแบบการควบคุมที่ต้องการใช้งาน
 204,Menus_UI_Settings,1158,4664,71358,Switches the buttons used to activate skills and evade enemy attacks.,สลับปุ่มที่ใช้สำหรับเปิดใช้สกิลและหลบหลีกการโจมตีของศัตรู
-204,Menus_UI_Settings,1159,4668,71428,UNUSED,
-204,Menus_UI_Settings,1160,4672,71435,UNUSED,
+204,Menus_UI_Settings,1159,4668,71428,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1160,4672,71435,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1161,4676,71442,"If enabled, the wireless controller's vibration function will be activated.",หากเปิดใช้งาน ระบบสั่นของคอนโทรลเลอร์จะทำงาน
 204,Menus_UI_Settings,1162,4680,71518,"If enabled, cutscenes will play for every coup de grâce performed.",หากเปิดใช้งาน คัตซีนจะเล่นทุกครั้งเมื่อใช้ท่าไม้ตายปิดฉาก (Coup de Grâce)
 204,Menus_UI_Settings,1163,4684,71586,"If enabled, the amount of damage inflicted by each attack will be displayed.",หากเปิดใช้งาน ตัวเลขความเสียหายของการโจมตีแต่ละครั้งจะแสดงบนจอ
@@ -1192,7 +1192,7 @@
 204,Menus_UI_Settings,1190,4792,72582,Adjust the volume of the sound effects.,ปรับระดับเสียงเอฟเฟกต์การต่อสู้และสิ่งแวดล้อม
 204,Menus_UI_Settings,1191,4796,72622,Adjust the volume of character voices and movie sound effects.,ปรับระดับเสียงพากย์ตัวละครและฉากคัตซีน
 204,Menus_UI_Settings,1192,4800,72685,Remove from Party,ถอดออกจากปาร์ตี้
-204,Menus_UI_Settings,1193,4804,72703,None,ไม่มี
+204,Menus_UI_Settings,1193,4804,72703,,ไม่มี
 204,Menus_UI_Settings,1194,4808,72708,None owned.,ไม่มีในครอบครอง
 204,Menus_UI_Settings,1195,4812,72720,Nothing recorded.,ไม่มีข้อมูลบันทึก
 204,Menus_UI_Settings,1196,4816,72738,Discard,ทิ้ง
@@ -1263,7 +1263,7 @@
 204,Menus_UI_Settings,1261,5076,74342,Two,2 คน
 204,Menus_UI_Settings,1262,5080,74346,Anyone,ทุกคน
 204,Menus_UI_Settings,1263,5084,74353,Host Only,หัวหน้าห้องเท่านั้น
-204,Menus_UI_Settings,1264,5088,74363,None,ไม่มี
+204,Menus_UI_Settings,1264,5088,74363,,ไม่มี
 204,Menus_UI_Settings,1265,5092,74368,Choose whether to play with friends or with anyone.,เลือกว่าจะเล่นกับเพื่อนหรือกับผู้เล่นทุกคน
 204,Menus_UI_Settings,1266,5096,74420,Choose whether or not to restrict access to people in your region.,เลือกว่าจะจำกัดเฉพาะผู้เล่นในภูมิภาคของคุณหรือไม่
 204,Menus_UI_Settings,1267,5100,74487,Choose whether or not to check the quality of other players' connections.,เลือกว่าจะตรวจสอบคุณภาพการเชื่อมต่อของผู้เล่นอื่นหรือไม่
@@ -1283,11 +1283,11 @@
 204,Menus_UI_Settings,1281,5156,74932,Cancel Multiplayer Registration,ยกเลิกการลงทะเบียนมัลติเพลเยอร์
 204,Menus_UI_Settings,1282,5160,74964,None Set,ไม่ได้ตั้งค่า
 204,Menus_UI_Settings,1283,5164,74973,Sent bothersome baddies to bedevil everyone<FG>,ส่งสัตว์ประหลาดก่อกวนไปป่วนทุกคนแล้ว<FG>
-204,Menus_UI_Settings,1284,5168,75020,UNUSED,
+204,Menus_UI_Settings,1284,5168,75020,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1285,5172,75027,Wiped out<FG>,พ่ายแพ้ราบคาบ<FG>
 204,Menus_UI_Settings,1286,5176,75040,Story Section,บทเนื้อเรื่อง
-204,Menus_UI_Settings,1287,5180,75054,UNUSED,
-204,Menus_UI_Settings,1288,5184,75061,UNUSED,
+204,Menus_UI_Settings,1287,5180,75054,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1288,5184,75061,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1289,5188,75068,Help Out,ไปช่วยเหลือ
 204,Menus_UI_Settings,1290,5192,75077,Withdraw,ถอนตัว
 204,Menus_UI_Settings,1291,5196,75086,All Completed Battles,การต่อสู้ที่เคลียร์แล้วทั้งหมด
@@ -1327,7 +1327,7 @@
 204,Menus_UI_Settings,1325,5332,76285,Blocked a critical hit<FG>,ป้องกันการโจมตีติดคริติคอลได้<FG>
 204,Menus_UI_Settings,1326,5336,76311,Ailments curtailed<FG>,อาการผิดปกติถูกระงับ<FG>
 204,Menus_UI_Settings,1327,5340,76333,You cannot use spells and abilities here<FG>,คุณไม่สามารถใช้คาถาและความสามารถที่นี่ได้<FG>
-204,Menus_UI_Settings,1328,5344,76377,UNUSED,
+204,Menus_UI_Settings,1328,5344,76377,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1329,5348,76384,Skill Points Earned,แต้มสกิลที่ได้รับ
 204,Menus_UI_Settings,1330,5352,76404,Total,รวม
 204,Menus_UI_Settings,1331,5356,76410,Battle Results,ผลลัพธ์การต่อสู้
@@ -1381,7 +1381,7 @@
 204,Menus_UI_Settings,1379,5548,78165,Comment 1,ความคิดเห็น 1
 204,Menus_UI_Settings,1380,5552,78175,Comment 2,ความคิดเห็น 2
 204,Menus_UI_Settings,1381,5556,78185,Comment 3,ความคิดเห็น 3
-204,Menus_UI_Settings,1382,5560,78195,UNUSED,
+204,Menus_UI_Settings,1382,5560,78195,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1383,5564,78202,Any,ใดก็ได้
 204,Menus_UI_Settings,1384,5568,78206,Search Results,ผลการค้นหา
 204,Menus_UI_Settings,1385,5572,78221,Town,เมือง
@@ -1390,7 +1390,7 @@
 204,Menus_UI_Settings,1388,5584,78258,Cancel Kazapple,ยกเลิกมินาดีน
 204,Menus_UI_Settings,1389,5588,78274,Join Kazapple,ร่วมร่ายมินาดีน
 204,Menus_UI_Settings,1390,5592,78288,Cast Kazapple<FG>,ร่ายมินาดีนสำเร็จ<FG>
-204,Menus_UI_Settings,1391,5596,78305,UNUSED,
+204,Menus_UI_Settings,1391,5596,78305,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1392,5600,78312,Not everyone's ready yet<FG>,ทุกคนยังไม่พร้อมนะ<FG>
 204,Menus_UI_Settings,1393,5604,78340,Your tension isn't high enough yet<FG>,พลังเทนชันของคุณยังไม่สูงพอ<FG>
 204,Menus_UI_Settings,1394,5608,78378,Your teammates don't have enough tension<FG>,เพื่อนร่วมทีมของคุณมีพลังเทนชันไม่พอ<FG>
@@ -1409,8 +1409,8 @@
 204,Menus_UI_Settings,1407,5660,78732,Sell Accessories,ขายเครื่องประดับ
 204,Menus_UI_Settings,1408,5664,78749,Sale Value,ราคาขาย
 204,Menus_UI_Settings,1409,5668,78760,Go to a Dungeon (Competitive),ไปดันเจี้ยน (โหมดแข่งขัน)
-204,Menus_UI_Settings,1410,5672,78790,UNUSED,
-204,Menus_UI_Settings,1411,5676,78797,UNUSED,
+204,Menus_UI_Settings,1410,5672,78790,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1411,5676,78797,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1412,5680,78804,1st,อันดับ 1
 204,Menus_UI_Settings,1413,5684,78808,2nd,อันดับ 2
 204,Menus_UI_Settings,1414,5688,78812,3rd,อันดับ 3
@@ -1499,8 +1499,8 @@
 204,Menus_UI_Settings,1497,6020,79329,,
 204,Menus_UI_Settings,1498,6024,79330,,
 204,Menus_UI_Settings,1499,6028,79331,,
-204,Menus_UI_Settings,1500,6032,79332,UNUSED,
-204,Menus_UI_Settings,1501,6036,79339,UNUSED,
+204,Menus_UI_Settings,1500,6032,79332,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1501,6036,79339,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1502,6040,79346,<P2> Reset,<P2> รีเซ็ต
 204,Menus_UI_Settings,1503,6044,79356,<PK> Rotate,<PK> หมุนมุมกล้อง
 204,Menus_UI_Settings,1504,6048,79367,<PB><PC> Zoom Out/In,<PB><PC> ซูมเข้า/ออก
@@ -1514,7 +1514,7 @@
 204,Menus_UI_Settings,1512,6080,79504,<P2> By Type,<P2> ตามประเภท
 204,Menus_UI_Settings,1513,6084,79516,<P3> Change,<P3> เปลี่ยน
 204,Menus_UI_Settings,1514,6088,79527,<P2> By Cost,<P2> ตามแต้มที่ใช้
-204,Menus_UI_Settings,1515,6092,79539,UNUSED,
+204,Menus_UI_Settings,1515,6092,79539,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1516,6096,79546,<PL> Toggle,<PL> สลับ
 204,Menus_UI_Settings,1517,6100,79557,<P3> Disable All,<P3> ปิดใช้งานทั้งหมด
 204,Menus_UI_Settings,1518,6104,79573,<P3> Change Vocation,<P3> เปลี่ยนอาชีพ
@@ -1530,7 +1530,7 @@
 204,Menus_UI_Settings,1528,6144,79705,<P3> Attack 1,<P3> โจมตี 1
 204,Menus_UI_Settings,1529,6148,79718,<P2> Attack 2,<P2> โจมตี 2
 204,Menus_UI_Settings,1530,6152,79731,<PQ> Run,<PQ> วิ่ง
-204,Menus_UI_Settings,1531,6156,79739,UNUSED,
+204,Menus_UI_Settings,1531,6156,79739,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1532,6160,79746,<PB><PC> Switch,<PB><PC> สลับ
 204,Menus_UI_Settings,1533,6164,79760,<P3> Search Again,<P3> ค้นหาใหม่
 204,Menus_UI_Settings,1534,6168,79777,<PC>,<PC>
@@ -1564,17 +1564,17 @@
 204,Menus_UI_Settings,1562,6280,80087,<PB> Defend,<PB> ป้องกัน
 204,Menus_UI_Settings,1563,6284,80098,<PL> Invite,<PL> เชิญ
 204,Menus_UI_Settings,1564,6288,80109,<PL> Cancel Invitation,<PL> ยกเลิกคำเชิญ
-204,Menus_UI_Settings,1565,6292,80131,UNUSED,
-204,Menus_UI_Settings,1566,6296,80138,UNUSED,
-204,Menus_UI_Settings,1567,6300,80145,UNUSED,
-204,Menus_UI_Settings,1568,6304,80152,UNUSED,
-204,Menus_UI_Settings,1569,6308,80159,UNUSED,
-204,Menus_UI_Settings,1570,6312,80166,UNUSED,
-204,Menus_UI_Settings,1571,6316,80173,UNUSED,
-204,Menus_UI_Settings,1572,6320,80180,UNUSED,
+204,Menus_UI_Settings,1565,6292,80131,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1566,6296,80138,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1567,6300,80145,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1568,6304,80152,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1569,6308,80159,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1570,6312,80166,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1571,6316,80173,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1572,6320,80180,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1573,6324,80187,<P0> Heal,<P0> ฟื้นพลัง
-204,Menus_UI_Settings,1574,6328,80196,UNUSED,
-204,Menus_UI_Settings,1575,6332,80203,UNUSED,
+204,Menus_UI_Settings,1574,6328,80196,UNUSED,ไม่ได้ใช้งาน
+204,Menus_UI_Settings,1575,6332,80203,UNUSED,ไม่ได้ใช้งาน
 204,Menus_UI_Settings,1576,6336,80210,<P2> By Last Used,<P2> ตามที่ใช้ล่าสุด
 204,Menus_UI_Settings,1577,6340,80227,<P3> Select,<P3> เลือก
 204,Menus_UI_Settings,1578,6344,80238,<P2> Use Previous Party,<P2> ใช้ปาร์ตี้ก่อนหน้า

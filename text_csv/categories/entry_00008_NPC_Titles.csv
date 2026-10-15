@@ -1,160 +1,160 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-8,NPC_Titles,0,36,6436,King of Harba,
-8,NPC_Titles,1,40,6450,King of Harba,
+8,NPC_Titles,0,36,6436,King of Harba,กษัตริย์แห่งฮาร์บา
+8,NPC_Titles,1,40,6450,King of Harba,กษัตริย์แห่งฮาร์บา
 8,NPC_Titles,2,44,6464,,
-8,NPC_Titles,3,48,6465,Kings of Harba,
+8,NPC_Titles,3,48,6465,Kings of Harba,เหล่ากษัตริย์แห่งฮาร์บา
 8,NPC_Titles,4,52,6480,the ,
 8,NPC_Titles,5,56,6485,the ,
 8,NPC_Titles,6,60,6490,the ,
 8,NPC_Titles,7,64,6495,the ,
-8,NPC_Titles,8,68,6500,King of Accordia,
-8,NPC_Titles,9,72,6517,King of Accordia,
+8,NPC_Titles,8,68,6500,King of Accordia,กษัตริย์แห่งออร์คาเนีย
+8,NPC_Titles,9,72,6517,King of Accordia,กษัตริย์แห่งออร์คาเนีย
 8,NPC_Titles,10,76,6534,,
-8,NPC_Titles,11,80,6535,Kings of Accordia,
+8,NPC_Titles,11,80,6535,Kings of Accordia,เหล่ากษัตริย์แห่งออร์คาเนีย
 8,NPC_Titles,12,84,6553,the ,
 8,NPC_Titles,13,88,6558,the ,
 8,NPC_Titles,14,92,6563,the ,
 8,NPC_Titles,15,96,6568,the ,
-8,NPC_Titles,16,100,6573,Queen of Ingenia,
-8,NPC_Titles,17,104,6590,Queen of Ingenia,
+8,NPC_Titles,16,100,6573,Queen of Ingenia,ราชินีแห่งอินจีเนีย
+8,NPC_Titles,17,104,6590,Queen of Ingenia,ราชินีแห่งอินจีเนีย
 8,NPC_Titles,18,108,6607,,
-8,NPC_Titles,19,112,6608,Queens of Ingenia,
+8,NPC_Titles,19,112,6608,Queens of Ingenia,เหล่าราชินีแห่งอินจีเนีย
 8,NPC_Titles,20,116,6626,the ,
 8,NPC_Titles,21,120,6631,the ,
 8,NPC_Titles,22,124,6636,the ,
 8,NPC_Titles,23,128,6641,the ,
-8,NPC_Titles,24,132,6646,Healix,
-8,NPC_Titles,25,136,6653,Healix,
+8,NPC_Titles,24,132,6646,Healix,โฮมิรอน
+8,NPC_Titles,25,136,6653,Healix,โฮมิรอน
 8,NPC_Titles,26,140,6660,,
-8,NPC_Titles,27,144,6661,Healixes,
+8,NPC_Titles,27,144,6661,Healixes,เหล่าโฮมิรอน
 8,NPC_Titles,28,148,6670,,
 8,NPC_Titles,29,152,6671,,
 8,NPC_Titles,30,156,6672,,
 8,NPC_Titles,31,160,6673,,
-8,NPC_Titles,32,164,6674,Harban Soldier,
-8,NPC_Titles,33,168,6689,Harban Soldier,
+8,NPC_Titles,32,164,6674,Harban Soldier,ทหารฮาร์บา
+8,NPC_Titles,33,168,6689,Harban Soldier,ทหารฮาร์บา
 8,NPC_Titles,34,172,6704,,
-8,NPC_Titles,35,176,6705,Harban Soldiers,
+8,NPC_Titles,35,176,6705,Harban Soldiers,เหล่าทหารฮาร์บา
 8,NPC_Titles,36,180,6721,the ,
 8,NPC_Titles,37,184,6726,the ,
 8,NPC_Titles,38,188,6731,a ,
 8,NPC_Titles,39,192,6734,some ,
-8,NPC_Titles,40,196,6740,Dunisian Soldier,
-8,NPC_Titles,41,200,6757,Dunisian Soldier,
+8,NPC_Titles,40,196,6740,Dunisian Soldier,ทหารดูนิเซีย
+8,NPC_Titles,41,200,6757,Dunisian Soldier,ทหารดูนิเซีย
 8,NPC_Titles,42,204,6774,,
-8,NPC_Titles,43,208,6775,Dunisian Soldiers,
+8,NPC_Titles,43,208,6775,Dunisian Soldiers,เหล่าทหารดูนิเซีย
 8,NPC_Titles,44,212,6793,the ,
 8,NPC_Titles,45,216,6798,the ,
 8,NPC_Titles,46,220,6803,a ,
 8,NPC_Titles,47,224,6806,some ,
-8,NPC_Titles,48,228,6812,Ingenian Soldier,
-8,NPC_Titles,49,232,6829,Ingenian Soldier,
+8,NPC_Titles,48,228,6812,Ingenian Soldier,ทหารอินจีเนีย
+8,NPC_Titles,49,232,6829,Ingenian Soldier,ทหารอินจีเนีย
 8,NPC_Titles,50,236,6846,,
-8,NPC_Titles,51,240,6847,Ingenian Soldiers,
+8,NPC_Titles,51,240,6847,Ingenian Soldiers,เหล่าทหารอินจีเนีย
 8,NPC_Titles,52,244,6865,the ,
 8,NPC_Titles,53,248,6870,the ,
 8,NPC_Titles,54,252,6875,an ,
 8,NPC_Titles,55,256,6879,some ,
-8,NPC_Titles,56,260,6885,Accordian Soldier,
-8,NPC_Titles,57,264,6903,Accordian Soldier,
+8,NPC_Titles,56,260,6885,Accordian Soldier,ทหารออร์คาเนีย
+8,NPC_Titles,57,264,6903,Accordian Soldier,ทหารออร์คาเนีย
 8,NPC_Titles,58,268,6921,,
-8,NPC_Titles,59,272,6922,Accordian Soldiers,
+8,NPC_Titles,59,272,6922,Accordian Soldiers,เหล่าทหารออร์คาเนีย
 8,NPC_Titles,60,276,6941,the ,
 8,NPC_Titles,61,280,6946,the ,
 8,NPC_Titles,62,284,6951,an ,
 8,NPC_Titles,63,288,6955,some ,
-8,NPC_Titles,64,292,6961,toughie,
-8,NPC_Titles,65,296,6969,toughie,
+8,NPC_Titles,64,292,6961,toughie,ชายกำยำ
+8,NPC_Titles,65,296,6969,toughie,ชายกำยำ
 8,NPC_Titles,66,300,6977,,
-8,NPC_Titles,67,304,6978,toughies,
+8,NPC_Titles,67,304,6978,toughies,เหล่าชายกำยำ
 8,NPC_Titles,68,308,6987,the ,
 8,NPC_Titles,69,312,6992,the ,
 8,NPC_Titles,70,316,6997,a ,
 8,NPC_Titles,71,320,7000,some ,
-8,NPC_Titles,72,324,7006,young man,
-8,NPC_Titles,73,328,7016,young man,
+8,NPC_Titles,72,324,7006,young man,ชายหนุ่ม
+8,NPC_Titles,73,328,7016,young man,ชายหนุ่ม
 8,NPC_Titles,74,332,7026,,
-8,NPC_Titles,75,336,7027,young men,
+8,NPC_Titles,75,336,7027,young men,เหล่าชายหนุ่ม
 8,NPC_Titles,76,340,7037,the ,
 8,NPC_Titles,77,344,7042,the ,
 8,NPC_Titles,78,348,7047,a ,
 8,NPC_Titles,79,352,7050,some ,
-8,NPC_Titles,80,356,7056,Harban General,
-8,NPC_Titles,81,360,7071,Harban General,
+8,NPC_Titles,80,356,7056,Harban General,แม่ทัพฮาร์บา
+8,NPC_Titles,81,360,7071,Harban General,แม่ทัพฮาร์บา
 8,NPC_Titles,82,364,7086,,
-8,NPC_Titles,83,368,7087,Harban Generals,
+8,NPC_Titles,83,368,7087,Harban Generals,เหล่าแม่ทัพฮาร์บา
 8,NPC_Titles,84,372,7103,the ,
 8,NPC_Titles,85,376,7108,the ,
 8,NPC_Titles,86,380,7113,a ,
 8,NPC_Titles,87,384,7116,some ,
-8,NPC_Titles,88,388,7122,Field Marshal Donk,
-8,NPC_Titles,89,392,7141,Field Marshal Donk,
+8,NPC_Titles,88,388,7122,Field Marshal Donk,จอมพลดองค์
+8,NPC_Titles,89,392,7141,Field Marshal Donk,จอมพลดองค์
 8,NPC_Titles,90,396,7160,,
-8,NPC_Titles,91,400,7161,Field Marshal Donks,
+8,NPC_Titles,91,400,7161,Field Marshal Donks,เหล่าจอมพลดองค์
 8,NPC_Titles,92,404,7181,,
 8,NPC_Titles,93,408,7182,,
 8,NPC_Titles,94,412,7183,,
 8,NPC_Titles,95,416,7184,,
-8,NPC_Titles,96,420,7185,Major Domo,
-8,NPC_Titles,97,424,7196,Major Domo,
+8,NPC_Titles,96,420,7185,Major Domo,เมเจอร์ดอโม
+8,NPC_Titles,97,424,7196,Major Domo,เมเจอร์ดอโม
 8,NPC_Titles,98,428,7207,,
-8,NPC_Titles,99,432,7208,Major Domos,
+8,NPC_Titles,99,432,7208,Major Domos,เหล่าเมเจอร์ดอโม
 8,NPC_Titles,100,436,7220,,
 8,NPC_Titles,101,440,7221,,
 8,NPC_Titles,102,444,7222,,
 8,NPC_Titles,103,448,7223,,
-8,NPC_Titles,104,452,7224,Major Arcana,
-8,NPC_Titles,105,456,7237,Major Arcana,
+8,NPC_Titles,104,452,7224,Major Arcana,เมเจอร์อาร์คานา
+8,NPC_Titles,105,456,7237,Major Arcana,เมเจอร์อาร์คานา
 8,NPC_Titles,106,460,7250,,
-8,NPC_Titles,107,464,7251,Major Arcanas,
+8,NPC_Titles,107,464,7251,Major Arcanas,เหล่าเมเจอร์อาร์คานา
 8,NPC_Titles,108,468,7265,,
 8,NPC_Titles,109,472,7266,,
 8,NPC_Titles,110,476,7267,,
 8,NPC_Titles,111,480,7268,,
-8,NPC_Titles,112,484,7269,King of Al-Khazam,
-8,NPC_Titles,113,488,7287,King of Al-Khazam,
+8,NPC_Titles,112,484,7269,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
+8,NPC_Titles,113,488,7287,King of Al-Khazam,กษัตริย์แห่งอัล-คาซาม
 8,NPC_Titles,114,492,7305,,
-8,NPC_Titles,115,496,7306,Kings of Al-Khazam,
+8,NPC_Titles,115,496,7306,Kings of Al-Khazam,เหล่ากษัตริย์แห่งอัล-คาซาม
 8,NPC_Titles,116,500,7325,the ,
 8,NPC_Titles,117,504,7330,the ,
 8,NPC_Titles,118,508,7335,the ,
 8,NPC_Titles,119,512,7340,the ,
-8,NPC_Titles,120,516,7345,imp,
-8,NPC_Titles,121,520,7349,imp,
+8,NPC_Titles,120,516,7345,imp,อิมพ์
+8,NPC_Titles,121,520,7349,imp,อิมพ์
 8,NPC_Titles,122,524,7353,,
-8,NPC_Titles,123,528,7354,imps,
+8,NPC_Titles,123,528,7354,imps,เหล่าอิมพ์
 8,NPC_Titles,124,532,7359,the ,
 8,NPC_Titles,125,536,7364,the ,
 8,NPC_Titles,126,540,7369,an ,
 8,NPC_Titles,127,544,7373,some ,
-8,NPC_Titles,128,548,7379,hacksaurus,
-8,NPC_Titles,129,552,7390,hacksaurus,
+8,NPC_Titles,128,548,7379,hacksaurus,แฮ็กซอรัส
+8,NPC_Titles,129,552,7390,hacksaurus,แฮ็กซอรัส
 8,NPC_Titles,130,556,7401,,
-8,NPC_Titles,131,560,7402,hacksauruses,
+8,NPC_Titles,131,560,7402,hacksauruses,เหล่าแฮ็กซอรัส
 8,NPC_Titles,132,564,7415,the ,
 8,NPC_Titles,133,568,7420,the ,
 8,NPC_Titles,134,572,7425,a ,
 8,NPC_Titles,135,576,7428,some ,
-8,NPC_Titles,136,580,7434,slime,
-8,NPC_Titles,137,584,7440,slime,
+8,NPC_Titles,136,580,7434,slime,สไลม์
+8,NPC_Titles,137,584,7440,slime,สไลม์
 8,NPC_Titles,138,588,7446,,
-8,NPC_Titles,139,592,7447,slimes,
+8,NPC_Titles,139,592,7447,slimes,เหล่าสไลม์
 8,NPC_Titles,140,596,7454,the ,
 8,NPC_Titles,141,600,7459,the ,
 8,NPC_Titles,142,604,7464,a ,
 8,NPC_Titles,143,608,7467,some ,
-8,NPC_Titles,144,612,7473,bodkin fletcher,
-8,NPC_Titles,145,616,7489,bodkin fletcher,
+8,NPC_Titles,144,612,7473,bodkin fletcher,บอดกินเฟลตเชอร์
+8,NPC_Titles,145,616,7489,bodkin fletcher,บอดกินเฟลตเชอร์
 8,NPC_Titles,146,620,7505,,
-8,NPC_Titles,147,624,7506,bodkin fletchers,
+8,NPC_Titles,147,624,7506,bodkin fletchers,เหล่าบอดกินเฟลตเชอร์
 8,NPC_Titles,148,628,7523,the ,
 8,NPC_Titles,149,632,7528,the ,
 8,NPC_Titles,150,636,7533,a ,
 8,NPC_Titles,151,640,7536,some ,
-8,NPC_Titles,152,644,7542,Healix,
-8,NPC_Titles,153,648,7549,Healix,
+8,NPC_Titles,152,644,7542,Healix,โฮมิรอน
+8,NPC_Titles,153,648,7549,Healix,โฮมิรอน
 8,NPC_Titles,154,652,7556,,
-8,NPC_Titles,155,656,7557,Healixes,
+8,NPC_Titles,155,656,7557,Healixes,เหล่าโฮมิรอน
 8,NPC_Titles,156,660,7566,,
 8,NPC_Titles,157,664,7567,,
 8,NPC_Titles,158,668,7568,,
@@ -175,26 +175,26 @@
 8,NPC_Titles,173,728,7583,,
 8,NPC_Titles,174,732,7584,,
 8,NPC_Titles,175,736,7585,,
-8,NPC_Titles,176,740,7586,shaman,
-8,NPC_Titles,177,744,7593,shaman,
+8,NPC_Titles,176,740,7586,shaman,ชาแมน
+8,NPC_Titles,177,744,7593,shaman,ชาแมน
 8,NPC_Titles,178,748,7600,,
-8,NPC_Titles,179,752,7601,shamans,
+8,NPC_Titles,179,752,7601,shamans,เหล่าชาแมน
 8,NPC_Titles,180,756,7609,the ,
 8,NPC_Titles,181,760,7614,the ,
 8,NPC_Titles,182,764,7619,a ,
 8,NPC_Titles,183,768,7622,some ,
-8,NPC_Titles,184,772,7628,hood,
-8,NPC_Titles,185,776,7633,hood,
+8,NPC_Titles,184,772,7628,hood,ฮู้ด
+8,NPC_Titles,185,776,7633,hood,ฮู้ด
 8,NPC_Titles,186,780,7638,,
-8,NPC_Titles,187,784,7639,hoods,
+8,NPC_Titles,187,784,7639,hoods,เหล่าฮู้ด
 8,NPC_Titles,188,788,7645,the ,
 8,NPC_Titles,189,792,7650,the ,
 8,NPC_Titles,190,796,7655,a ,
 8,NPC_Titles,191,800,7658,some ,
-8,NPC_Titles,192,804,7664,night clubber,
-8,NPC_Titles,193,808,7678,night clubber,
+8,NPC_Titles,192,804,7664,night clubber,ไนท์คลับเบอร์
+8,NPC_Titles,193,808,7678,night clubber,ไนท์คลับเบอร์
 8,NPC_Titles,194,812,7692,,
-8,NPC_Titles,195,816,7693,night clubbers,
+8,NPC_Titles,195,816,7693,night clubbers,เหล่าไนท์คลับเบอร์
 8,NPC_Titles,196,820,7708,the ,
 8,NPC_Titles,197,824,7713,the ,
 8,NPC_Titles,198,828,7718,a ,
@@ -207,10 +207,10 @@
 8,NPC_Titles,205,856,7732,,
 8,NPC_Titles,206,860,7733,,
 8,NPC_Titles,207,864,7734,,
-8,NPC_Titles,208,868,7735,Gatekeeper,
-8,NPC_Titles,209,872,7746,Gatekeeper,
+8,NPC_Titles,208,868,7735,Gatekeeper,ผู้เฝ้าประตู
+8,NPC_Titles,209,872,7746,Gatekeeper,ผู้เฝ้าประตู
 8,NPC_Titles,210,876,7757,,
-8,NPC_Titles,211,880,7758,Gatekeepers,
+8,NPC_Titles,211,880,7758,Gatekeepers,เหล่าผู้เฝ้าประตู
 8,NPC_Titles,212,884,7770,the ,
 8,NPC_Titles,213,888,7775,the ,
 8,NPC_Titles,214,892,7780,a ,
@@ -263,10 +263,10 @@
 8,NPC_Titles,261,1080,7834,,
 8,NPC_Titles,262,1084,7835,,
 8,NPC_Titles,263,1088,7836,,
-8,NPC_Titles,264,1092,7837,moony milksop,
-8,NPC_Titles,265,1096,7851,moony milksop,
+8,NPC_Titles,264,1092,7837,moony milksop,หนุ่มขี้ขลาดช่างฝัน
+8,NPC_Titles,265,1096,7851,moony milksop,หนุ่มขี้ขลาดช่างฝัน
 8,NPC_Titles,266,1100,7865,,
-8,NPC_Titles,267,1104,7866,moony milksops,
+8,NPC_Titles,267,1104,7866,moony milksops,เหล่าหนุ่มขี้ขลาดช่างฝัน
 8,NPC_Titles,268,1108,7881,the ,
 8,NPC_Titles,269,1112,7886,the ,
 8,NPC_Titles,270,1116,7891,the ,

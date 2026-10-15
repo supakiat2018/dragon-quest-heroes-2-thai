@@ -1,38 +1,38 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-11666,Dungeon_Master_Prompts,0,36,356,Dungeon master healed<FG>,
-11666,Dungeon_Master_Prompts,1,40,381,Dungeon master healed<FG>,
+11666,Dungeon_Master_Prompts,0,36,356,Dungeon master healed<FG>,ดันเจี้ยนมาสเตอร์ได้รับการฟื้นฟูแล้ว<FG>
+11666,Dungeon_Master_Prompts,1,40,381,Dungeon master healed<FG>,ดันเจี้ยนมาสเตอร์ได้รับการฟื้นฟูแล้ว<FG>
 11666,Dungeon_Master_Prompts,2,44,406,,
 11666,Dungeon_Master_Prompts,3,48,407,,
 11666,Dungeon_Master_Prompts,4,52,408,,
 11666,Dungeon_Master_Prompts,5,56,409,,
 11666,Dungeon_Master_Prompts,6,60,410,,
 11666,Dungeon_Master_Prompts,7,64,411,,
-11666,Dungeon_Master_Prompts,8,68,412,Earning double points<FG>,
-11666,Dungeon_Master_Prompts,9,72,437,Earning double points<FG>,
+11666,Dungeon_Master_Prompts,8,68,412,Earning double points<FG>,ได้รับคะแนน 2 เท่า<FG>
+11666,Dungeon_Master_Prompts,9,72,437,Earning double points<FG>,ได้รับคะแนน 2 เท่า<FG>
 11666,Dungeon_Master_Prompts,10,76,462,,
 11666,Dungeon_Master_Prompts,11,80,463,,
 11666,Dungeon_Master_Prompts,12,84,464,,
 11666,Dungeon_Master_Prompts,13,88,465,,
 11666,Dungeon_Master_Prompts,14,92,466,,
 11666,Dungeon_Master_Prompts,15,96,467,,
-11666,Dungeon_Master_Prompts,16,100,468,Tension maxed out<FG>,
-11666,Dungeon_Master_Prompts,17,104,489,Tension maxed out<FG>,
+11666,Dungeon_Master_Prompts,16,100,468,Tension maxed out<FG>,เกจเทนชันเต็มพิกัด<FG>
+11666,Dungeon_Master_Prompts,17,104,489,Tension maxed out<FG>,เกจเทนชันเต็มพิกัด<FG>
 11666,Dungeon_Master_Prompts,18,108,510,,
 11666,Dungeon_Master_Prompts,19,112,511,,
 11666,Dungeon_Master_Prompts,20,116,512,,
 11666,Dungeon_Master_Prompts,21,120,513,,
 11666,Dungeon_Master_Prompts,22,124,514,,
 11666,Dungeon_Master_Prompts,23,128,515,,
-11666,Dungeon_Master_Prompts,24,132,516,HP reduced to 1<FG>,
-11666,Dungeon_Master_Prompts,25,136,535,HP reduced to 1<FG>,
+11666,Dungeon_Master_Prompts,24,132,516,HP reduced to 1<FG>,HP ลดเหลือ 1<FG>
+11666,Dungeon_Master_Prompts,25,136,535,HP reduced to 1<FG>,HP ลดเหลือ 1<FG>
 11666,Dungeon_Master_Prompts,26,140,554,,
 11666,Dungeon_Master_Prompts,27,144,555,,
 11666,Dungeon_Master_Prompts,28,148,556,,
 11666,Dungeon_Master_Prompts,29,152,557,,
 11666,Dungeon_Master_Prompts,30,156,558,,
 11666,Dungeon_Master_Prompts,31,160,559,,
-11666,Dungeon_Master_Prompts,32,164,560,Kaclang<FG>,
-11666,Dungeon_Master_Prompts,33,168,571,Kaclang<FG>,
+11666,Dungeon_Master_Prompts,32,164,560,Kaclang<FG>,คาถาแอสทรัล<FG>
+11666,Dungeon_Master_Prompts,33,168,571,Kaclang<FG>,คาถาแอสทรัล<FG>
 11666,Dungeon_Master_Prompts,34,172,582,,
 11666,Dungeon_Master_Prompts,35,176,583,,
 11666,Dungeon_Master_Prompts,36,180,584,,

@@ -1,46 +1,46 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-176,Battle_Perks,0,36,996,Double experience<FG>,
-176,Battle_Perks,1,40,1017,Double experience<FG>,
+176,Battle_Perks,0,36,996,Double experience<FG>,ค่าประสบการณ์ 2 เท่า<FG>
+176,Battle_Perks,1,40,1017,Double experience<FG>,ค่าประสบการณ์ 2 เท่า<FG>
 176,Battle_Perks,2,44,1038,,
 176,Battle_Perks,3,48,1039,,
 176,Battle_Perks,4,52,1040,,
 176,Battle_Perks,5,56,1041,,
 176,Battle_Perks,6,60,1042,,
 176,Battle_Perks,7,64,1043,,
-176,Battle_Perks,8,68,1044,Double gold coins<FG>,
-176,Battle_Perks,9,72,1065,Double gold coins<FG>,
+176,Battle_Perks,8,68,1044,Double gold coins<FG>,เหรียญทอง 2 เท่า<FG>
+176,Battle_Perks,9,72,1065,Double gold coins<FG>,เหรียญทอง 2 เท่า<FG>
 176,Battle_Perks,10,76,1086,,
 176,Battle_Perks,11,80,1087,,
 176,Battle_Perks,12,84,1088,,
 176,Battle_Perks,13,88,1089,,
 176,Battle_Perks,14,92,1090,,
 176,Battle_Perks,15,96,1091,,
-176,Battle_Perks,16,100,1092,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,
-176,Battle_Perks,17,104,1151,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,
+176,Battle_Perks,16,100,1092,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,คริติคอลบ้าคลั่ง<FG>\nโอกาสติดคริติคอลเพิ่มขึ้นอย่างมหาศาล<FG>
+176,Battle_Perks,17,104,1151,Critical crazy<FG>\nCritical hit chance greatly increased<FG>,คริติคอลบ้าคลั่ง<FG>\nโอกาสติดคริติคอลเพิ่มขึ้นอย่างมหาศาล<FG>
 176,Battle_Perks,18,108,1210,,
 176,Battle_Perks,19,112,1211,,
 176,Battle_Perks,20,116,1212,,
 176,Battle_Perks,21,120,1213,,
 176,Battle_Perks,22,124,1214,,
 176,Battle_Perks,23,128,1215,,
-176,Battle_Perks,24,132,1216,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,
-176,Battle_Perks,25,136,1273,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,
+176,Battle_Perks,24,132,1216,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,ใช้คาถาและทักษะฟรี<FG>\n0 MP สำหรับทุกทักษะ<FG>
+176,Battle_Perks,25,136,1273,Free spells and abilities<FG>\n0 MP cost for all skills<FG>,ใช้คาถาและทักษะฟรี<FG>\n0 MP สำหรับทุกทักษะ<FG>
 176,Battle_Perks,26,140,1330,,
 176,Battle_Perks,27,144,1331,,
 176,Battle_Perks,28,148,1332,,
 176,Battle_Perks,29,152,1333,,
 176,Battle_Perks,30,156,1334,,
 176,Battle_Perks,31,160,1335,,
-176,Battle_Perks,32,164,1336,Turbo tension<FG>\nTension will build up faster<FG>,
-176,Battle_Perks,33,168,1385,Turbo tension<FG>\nTension will build up faster<FG>,
+176,Battle_Perks,32,164,1336,Turbo tension<FG>\nTension will build up faster<FG>,เทอร์โบเทนชัน<FG>\nเกจเทนชันจะสะสมได้เร็วยิ่งขึ้น<FG>
+176,Battle_Perks,33,168,1385,Turbo tension<FG>\nTension will build up faster<FG>,เทอร์โบเทนชัน<FG>\nเกจเทนชันจะสะสมได้เร็วยิ่งขึ้น<FG>
 176,Battle_Perks,34,172,1434,,
 176,Battle_Perks,35,176,1435,,
 176,Battle_Perks,36,180,1436,,
 176,Battle_Perks,37,184,1437,,
 176,Battle_Perks,38,188,1438,,
 176,Battle_Perks,39,192,1439,,
-176,Battle_Perks,40,196,1440,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,
-176,Battle_Perks,41,200,1503,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,
+176,Battle_Perks,40,196,1440,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,วัตถุดิบหลั่งไหล<FG>\nศัตรูจะดรอปวัตถุดิบเพิ่มขึ้นมากมาย<FG>
+176,Battle_Perks,41,200,1503,Active ingredients<FG>\nFoes will drop loads more ingredients<FG>,วัตถุดิบหลั่งไหล<FG>\nศัตรูจะดรอปวัตถุดิบเพิ่มขึ้นมากมาย<FG>
 176,Battle_Perks,42,204,1566,,
 176,Battle_Perks,43,208,1567,,
 176,Battle_Perks,44,212,1568,,

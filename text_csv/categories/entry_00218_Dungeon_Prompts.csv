@@ -18,12 +18,12 @@
 218,Dungeon_Prompts,16,96,1818,<F4><I6>41 has drawn to a halt<FG>,<F4><I6>41 หยุดชะงักลงแล้ว<FG>
 218,Dungeon_Prompts,17,100,1850,Defeat <I6>51<FG>,จงปราบ <I6>51<FG>
 218,Dungeon_Prompts,18,104,1866,A teleportal has appeared<FG>,ประตูเทเลพอร์ทัลปรากฏขึ้นแล้ว<FG>
-218,Dungeon_Prompts,19,108,1895,Unused,
+218,Dungeon_Prompts,19,108,1895,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,20,112,1902,Oh no<FG> Somebody's being attacked by monsters<FG>,แย่แล้ว<FG> มีคนกำลังถูกพวกมอนสเตอร์โจมตี<FG>
 218,Dungeon_Prompts,21,116,1952,There's a formidable-looking monster nearby<FG>,มีมอนสเตอร์หน้าตาร้ายกาจอยู่ใกล้ ๆ แถวนี้<FG>
 218,Dungeon_Prompts,22,120,1999,Oh no<FG> The monsters have blocked the path<FG>,แย่แล้ว<FG> พวกมอนสเตอร์ได้ปิดกั้นเส้นทางไว้<FG>
 218,Dungeon_Prompts,23,124,2046,A horde of monsters has appeared<FG>,กองทัพมอนสเตอร์ปรากฏตัวขึ้นแล้ว<FG>
-218,Dungeon_Prompts,24,128,2082,Unused,
+218,Dungeon_Prompts,24,128,2082,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,25,132,2089,Three minutes left<FG>,เหลือเวลาอีก 3 นาที<FG>
 218,Dungeon_Prompts,26,136,2111,Two minutes left<FG>,เหลือเวลาอีก 2 นาที<FG>
 218,Dungeon_Prompts,27,140,2131,One minute left<FG>,เหลือเวลาอีก 1 นาที<FG>
@@ -49,14 +49,14 @@
 218,Dungeon_Prompts,47,220,2887,The enemy is fleeing<FG>,ศัตรูกำลังหลบหนี<FG>
 218,Dungeon_Prompts,48,224,2911,Make mincemeat of the monsters<FG>,จงบดขยี้พวกมอนสเตอร์ให้แหลกคามือ<FG>
 218,Dungeon_Prompts,49,228,2945,Some <I1>51 have appeared out of nowhere<FG>,มี <I1>51 โผล่พรวดพราดออกมาจากไหนก็ไม่รู้<FG>
-218,Dungeon_Prompts,50,232,2988,Unused,
-218,Dungeon_Prompts,51,236,2995,Unused,
+218,Dungeon_Prompts,50,232,2988,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,51,236,2995,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,52,240,3002,The enemy forces are advancing<FG>,กองทัพศัตรูกำลังรุกคืบเข้ามา<FG>
 218,Dungeon_Prompts,53,244,3036,The Harban forces are advancing<FG>,กองทัพฮาร์บากำลังรุกคืบ<FG>
 218,Dungeon_Prompts,54,248,3071,The Ingenian forces are advancing<FG>,กองทัพอินจีเนียกำลังรุกคืบ<FG>
 218,Dungeon_Prompts,55,252,3108,The Dunisian forces are advancing<FG>,กองทัพแจวาลกำลังรุกคืบ<FG>
-218,Dungeon_Prompts,56,256,3145,Unused,
-218,Dungeon_Prompts,57,260,3152,Unused,
+218,Dungeon_Prompts,56,256,3145,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,57,260,3152,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,58,264,3159,The Klorish forces are beginning to flee<FG>,กองทัพคลอร์เริ่มแตกทัพหลบหนีแล้ว<FG>
 218,Dungeon_Prompts,59,268,3203,A barrier guardian has appeared<FG>,ผู้พิทักษ์ม่านบาเรียปรากฏตัวแล้ว<FG>
 218,Dungeon_Prompts,60,272,3238,<F4><I6>51 has called for reinforcements<FG>,<F4><I6>51 ได้เรียกกำลังเสริมออกมาแล้ว<FG>
@@ -66,13 +66,13 @@
 218,Dungeon_Prompts,64,288,3385,The lake has frozen solid<FG>,ทะเลสาบกลายเป็นน้ำแข็งแข็งตัวแล้ว<FG>
 218,Dungeon_Prompts,65,292,3414,Look out<FG> The powie yowies are rolling snowballs at you<FG>,ระวัง<FG> พวกพาววี่เยาวี่กำลังกลิ้งลูกบอลหิมะใส่คุณ<FG>
 218,Dungeon_Prompts,66,296,3475,Clear all the monsters out of the castle<FG>,จงกำจัดมอนสเตอร์ทั้งหมดออกจากปราสาท<FG>
-218,Dungeon_Prompts,67,300,3519,Unused,
+218,Dungeon_Prompts,67,300,3519,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,68,304,3526,Defeat the escapees<FG>,จงปราบพวกที่หลบหนี<FG>
 218,Dungeon_Prompts,69,308,3549,The forces led by <I6>41 are on the move<FG>,กองทัพที่นำโดย <I6>41 กำลังเคลื่อนพลแล้ว<FG>
 218,Dungeon_Prompts,70,312,3592,Dhuran is making a beeline for the Queen of Ingenia<FG>,ดูรันกำลังมุ่งตรงไปหาองค์ราชินีแห่งอินจีเนีย<FG>
 218,Dungeon_Prompts,71,316,3647,Keep <I6>51 at bay<FG>,จงสกัดกั้น <I6>51 ไว้ให้ได้<FG>
 218,Dungeon_Prompts,72,320,3668,Majors Domo and Arcana have been defeated by Dhuran<FG>,เมเจอร์โดโมและเมเจอร์อาร์คานาพ่ายแพ้ให้กับดูรันแล้ว<FG>
-218,Dungeon_Prompts,73,324,3723,Unused,
+218,Dungeon_Prompts,73,324,3723,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,74,328,3730,What luck<FG> <F4><I6>51 dropped the key<FG>,โชคดีจริง ๆ<FG> <F4><I6>51 ดรอปกุญแจออกมาแล้ว<FG>
 218,Dungeon_Prompts,75,332,3771,<F4><I6>51 is defeated<FG>,<F4><I6>51 พ่ายแพ้แล้ว<FG>
 218,Dungeon_Prompts,76,336,3795,But none appear...,แต่ไม่มีอะไรปรากฏขึ้นมา...
@@ -109,7 +109,7 @@
 218,Dungeon_Prompts,107,460,5093,Defeat the glade invader's cronies<FG>,จงปราบสมุนของผู้บุกรุกป่าดงพงไพร<FG>
 218,Dungeon_Prompts,108,464,5131,The glade invader has called for reinforcements<FG>,ผู้บุกรุกป่าดงพงไพรได้เรียกกำลังเสริมออกมาแล้ว<FG>
 218,Dungeon_Prompts,109,468,5182,The monsters are beginning to flee<FG>,พวกมอนสเตอร์เริ่มแตกทัพหลบหนีแล้ว<FG>
-218,Dungeon_Prompts,110,472,5220,Unused,
+218,Dungeon_Prompts,110,472,5220,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,111,476,5227,Fill your monster medal holder before the time runs out<FG>,สะสมเหรียญมอนสเตอร์ให้เต็มช่องเก็บก่อนเวลาจะหมดลง<FG>
 218,Dungeon_Prompts,112,480,5286,<F4><I6>51's blood is boiling<FG>,เลือดของ <F4><I6>51 กำลังเดือดพล่าน<FG>
 218,Dungeon_Prompts,113,484,5317,Protect <I6>51 until the time runs out<FG>,จงคุ้มกัน <I6>51 จนกว่าเวลาจะหมดลง<FG>
@@ -201,15 +201,15 @@
 218,Dungeon_Prompts,199,828,9388,The love-struck youth opens the doors<FG>,ชายหนุ่มผู้ตกหลุมรักเปิดประตูแล้ว<FG>
 218,Dungeon_Prompts,200,832,9429,Follow the love-struck youth<FG>,จงติดตามชายหนุ่มผู้ตกหลุมรักไป<FG>
 218,Dungeon_Prompts,201,836,9461,The love-struck youth is on the move again<FG>,ชายหนุ่มผู้ตกหลุมรักเริ่มเคลื่อนพลอีกครั้งแล้ว<FG>
-218,Dungeon_Prompts,202,840,9507,Unused,
+218,Dungeon_Prompts,202,840,9507,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,203,844,9514,Uh-oh<FG> A nightmaw has appeared<FG>,แย่แล้ว<FG> ไนท์มอร์ ปรากฏขึ้นแล้ว<FG>
 218,Dungeon_Prompts,204,848,9550,Dhuran and the jamirus are cloaked in the Cover of Darkness<FG>,ดูรันและจามิรัสถูกห่อหุ้มด้วยม่านแห่งความมืด<FG>
-218,Dungeon_Prompts,205,852,9613,Unused,
-218,Dungeon_Prompts,206,856,9620,Unused,
-218,Dungeon_Prompts,207,860,9627,Unused,
-218,Dungeon_Prompts,208,864,9634,Unused,
-218,Dungeon_Prompts,209,868,9641,Unused,
-218,Dungeon_Prompts,210,872,9648,Unused,
+218,Dungeon_Prompts,205,852,9613,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,206,856,9620,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,207,860,9627,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,208,864,9634,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,209,868,9641,Unused,ไม่ได้ใช้งาน
+218,Dungeon_Prompts,210,872,9648,Unused,ไม่ได้ใช้งาน
 218,Dungeon_Prompts,211,876,9655,<F4><I6>51 is down to half health<FG>,พลังชีวิตของ <F4><I6>51 ลดลงเหลือครึ่งหนึ่งแล้ว<FG>
 218,Dungeon_Prompts,212,880,9690,<F4><I6>51 is on <E0>51his<E1>51her<E2>51its<E4>51 last legs<FG>,<F4><I6>51 อยู่ในสภาพร่อแร่ใกล้พ่ายเต็มทีแล้ว<FG>
 218,Dungeon_Prompts,213,884,9748,<F4><I6>51 has teleported to somewhere else<FG>,<F4><I6>51 เทเลพอร์ตหนีไปที่อื่นแล้ว<FG>

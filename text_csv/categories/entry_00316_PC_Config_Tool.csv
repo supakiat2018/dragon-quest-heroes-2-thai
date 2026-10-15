@@ -1,61 +1,61 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-316,PC_Config_Tool,0,32,432,DRAGON QUEST HEROES II,
-316,PC_Config_Tool,1,36,455,DRAGON QUEST HEROES II Configuration Tool,
-316,PC_Config_Tool,2,40,497,Restore Defaults,
-316,PC_Config_Tool,3,44,514,OK,
-316,PC_Config_Tool,4,48,517,Cancel,
-316,PC_Config_Tool,5,52,524,Game Settings,
-316,PC_Config_Tool,6,56,538,Graphics Settings,
-316,PC_Config_Tool,7,60,556,Full Screen Display,
-316,PC_Config_Tool,8,64,576,Resolution,
-316,PC_Config_Tool,9,68,587,Frame Rate,
-316,PC_Config_Tool,10,72,598,Movies,
-316,PC_Config_Tool,11,76,605,Controller Layout,
-316,PC_Config_Tool,12,80,623,Text Language,
-316,PC_Config_Tool,13,84,637,Quality Settings,
-316,PC_Config_Tool,14,88,654,No. of On-Screen Characters,
-316,PC_Config_Tool,15,92,682,Draw Distance,
-316,PC_Config_Tool,16,96,696,Textures,
-316,PC_Config_Tool,17,100,705,Shadows,
-316,PC_Config_Tool,18,104,713,Ambient Occlusion,
-316,PC_Config_Tool,19,108,731,Reflections,
-316,PC_Config_Tool,20,112,743,Light Shafts,
-316,PC_Config_Tool,21,116,756,Particles,
-316,PC_Config_Tool,22,120,766,Global Illumination,
-316,PC_Config_Tool,23,124,786,20,
-316,PC_Config_Tool,24,128,789,30,
-316,PC_Config_Tool,25,132,792,60,
-316,PC_Config_Tool,26,136,795,On,
-316,PC_Config_Tool,27,140,798,Off,
-316,PC_Config_Tool,28,144,802,High,
-316,PC_Config_Tool,29,148,807,Medium,
-316,PC_Config_Tool,30,152,814,Low,
-316,PC_Config_Tool,31,156,818,Custom,
-316,PC_Config_Tool,32,160,825,640x360,
-316,PC_Config_Tool,33,164,833,800x450,
-316,PC_Config_Tool,34,168,841,1024x576,
-316,PC_Config_Tool,35,172,850,1280x720,
-316,PC_Config_Tool,36,176,859,1360x765,
-316,PC_Config_Tool,37,180,868,1600x900,
-316,PC_Config_Tool,38,184,877,1920x1080,
-316,PC_Config_Tool,39,188,887,English,
-316,PC_Config_Tool,40,192,895,Français,
-316,PC_Config_Tool,41,196,905,Deutsch,
-316,PC_Config_Tool,42,200,913,Italiano,
-316,PC_Config_Tool,43,204,922,한국어‫,
-316,PC_Config_Tool,44,208,935,Español,
-316,PC_Config_Tool,45,212,944,繁體中文,
-316,PC_Config_Tool,46,216,957,"Select with A, Cancel with B",
-316,PC_Config_Tool,47,220,986,"Select with B, Cancel with A",
-316,PC_Config_Tool,48,224,1015,SQUARE ENIX,
-316,PC_Config_Tool,49,228,1027,Settings cannot be changed via the configuration tool while the game is running.,
-316,PC_Config_Tool,50,232,1108,Windows 7 Compatibility Mode,
-316,PC_Config_Tool,51,236,1137,Running the game in Windows 7 compatibility mode can solve stability issues that may occur in systems using Windows 8.1 and NVIDIA graphics cards.,
-316,PC_Config_Tool,52,240,1284,2560x1440,
-316,PC_Config_Tool,53,244,1294,2560x1600,
-316,PC_Config_Tool,54,248,1304,3840x2160,
-316,PC_Config_Tool,55,252,1314,Volumetric Fog,
-316,PC_Config_Tool,56,256,1329,Point Light Shadows,
+316,PC_Config_Tool,0,32,432,DRAGON QUEST HEROES II,DRAGON QUEST HEROES II
+316,PC_Config_Tool,1,36,455,DRAGON QUEST HEROES II Configuration Tool,เครื่องมือกำหนดค่า DRAGON QUEST HEROES II
+316,PC_Config_Tool,2,40,497,Restore Defaults,คืนค่าเริ่มต้น
+316,PC_Config_Tool,3,44,514,OK,ตกลง
+316,PC_Config_Tool,4,48,517,Cancel,ยกเลิก
+316,PC_Config_Tool,5,52,524,Game Settings,การตั้งค่าเกม
+316,PC_Config_Tool,6,56,538,Graphics Settings,การตั้งค่ากราฟิก
+316,PC_Config_Tool,7,60,556,Full Screen Display,แสดงผลเต็มจอ
+316,PC_Config_Tool,8,64,576,Resolution,ความละเอียด
+316,PC_Config_Tool,9,68,587,Frame Rate,เฟรมเรต
+316,PC_Config_Tool,10,72,598,Movies,ฉากคัตซีน
+316,PC_Config_Tool,11,76,605,Controller Layout,ผังปุ่มควบคุม
+316,PC_Config_Tool,12,80,623,Text Language,ภาษาของข้อความ
+316,PC_Config_Tool,13,84,637,Quality Settings,คุณภาพกราฟิก
+316,PC_Config_Tool,14,88,654,No. of On-Screen Characters,จำนวนตัวละครบนหน้าจอ
+316,PC_Config_Tool,15,92,682,Draw Distance,ระยะการเรนเดอร์ภาพ
+316,PC_Config_Tool,16,96,696,Textures,คุณภาพพื้นผิว
+316,PC_Config_Tool,17,100,705,Shadows,คุณภาพเงา
+316,PC_Config_Tool,18,104,713,Ambient Occlusion,การบดบังของแสงเงา
+316,PC_Config_Tool,19,108,731,Reflections,ภาพสะท้อน
+316,PC_Config_Tool,20,112,743,Light Shafts,ลำแสง
+316,PC_Config_Tool,21,116,756,Particles,อนุภาคเอฟเฟกต์
+316,PC_Config_Tool,22,120,766,Global Illumination,แสงกระจายรอบทิศ
+316,PC_Config_Tool,23,124,786,20,20
+316,PC_Config_Tool,24,128,789,30,30
+316,PC_Config_Tool,25,132,792,60,60
+316,PC_Config_Tool,26,136,795,On,เปิด
+316,PC_Config_Tool,27,140,798,Off,ปิด
+316,PC_Config_Tool,28,144,802,High,สูง
+316,PC_Config_Tool,29,148,807,Medium,ปานกลาง
+316,PC_Config_Tool,30,152,814,Low,ต่ำ
+316,PC_Config_Tool,31,156,818,Custom,กำหนดเอง
+316,PC_Config_Tool,32,160,825,640x360,640x360
+316,PC_Config_Tool,33,164,833,800x450,800x450
+316,PC_Config_Tool,34,168,841,1024x576,1024x576
+316,PC_Config_Tool,35,172,850,1280x720,1280x720
+316,PC_Config_Tool,36,176,859,1360x765,1360x765
+316,PC_Config_Tool,37,180,868,1600x900,1600x900
+316,PC_Config_Tool,38,184,877,1920x1080,1920x1080
+316,PC_Config_Tool,39,188,887,English,English
+316,PC_Config_Tool,40,192,895,Français,Français
+316,PC_Config_Tool,41,196,905,Deutsch,Deutsch
+316,PC_Config_Tool,42,200,913,Italiano,Italiano
+316,PC_Config_Tool,43,204,922,한국어‫,한국어
+316,PC_Config_Tool,44,208,935,Español,Español
+316,PC_Config_Tool,45,212,944,繁體中文,繁體中文
+316,PC_Config_Tool,46,216,957,"Select with A, Cancel with B","เลือกด้วย A, ยกเลิกด้วย B"
+316,PC_Config_Tool,47,220,986,"Select with B, Cancel with A","เลือกด้วย B, ยกเลิกด้วย A"
+316,PC_Config_Tool,48,224,1015,SQUARE ENIX,SQUARE ENIX
+316,PC_Config_Tool,49,228,1027,Settings cannot be changed via the configuration tool while the game is running.,ไม่สามารถเปลี่ยนการตั้งค่าผ่านเครื่องมือกำหนดค่าได้ขณะที่เกมกำลังทำงานอยู่
+316,PC_Config_Tool,50,232,1108,Windows 7 Compatibility Mode,โหมดความเข้ากันได้กับ Windows 7
+316,PC_Config_Tool,51,236,1137,Running the game in Windows 7 compatibility mode can solve stability issues that may occur in systems using Windows 8.1 and NVIDIA graphics cards.,การเล่นเกมในโหมดความเข้ากันได้กับ Windows 7 อาจช่วยแก้ปัญหาความเสถียรที่อาจเกิดขึ้นในระบบที่ใช้ Windows 8.1 และการ์ดจอ NVIDIA ได้
+316,PC_Config_Tool,52,240,1284,2560x1440,2560x1440
+316,PC_Config_Tool,53,244,1294,2560x1600,2560x1600
+316,PC_Config_Tool,54,248,1304,3840x2160,3840x2160
+316,PC_Config_Tool,55,252,1314,Volumetric Fog,หมอกมิติแสง
+316,PC_Config_Tool,56,256,1329,Point Light Shadows,เงาแสงเฉพาะจุด
 316,PC_Config_Tool,57,260,1349,,
 316,PC_Config_Tool,58,264,1350,,
 316,PC_Config_Tool,59,268,1351,,

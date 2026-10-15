@@ -1,20 +1,20 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-190,Character_Index,0,32,112,Main Characters,
-190,Character_Index,1,36,128,Main Characters,
-190,Character_Index,2,40,144,Other Characters,
-190,Character_Index,3,44,161,Other Characters,
-190,Character_Index,4,48,178,Returning Characters,
-190,Character_Index,5,52,199,Returning Characters,
-190,Character_Index,6,56,220,Actions and Controls,
-190,Character_Index,7,60,241,Actions and Controls,
-190,Character_Index,8,64,262,Preparing to Venture Forth,
-190,Character_Index,9,68,289,Preparing to Venture Forth,
-190,Character_Index,10,72,316,Shops and Facilities,
-190,Character_Index,11,76,337,Shops and Facilities,
-190,Character_Index,12,80,358,During Battle,
-190,Character_Index,13,84,372,During Battle,
-190,Character_Index,14,88,386,Multiplayer,
-190,Character_Index,15,92,398,Multiplayer,
+190,Character_Index,0,32,112,Main Characters,ตัวละครหลัก
+190,Character_Index,1,36,128,Main Characters,ตัวละครหลัก
+190,Character_Index,2,40,144,Other Characters,ตัวละครอื่น ๆ
+190,Character_Index,3,44,161,Other Characters,ตัวละครอื่น ๆ
+190,Character_Index,4,48,178,Returning Characters,ตัวละครที่หวนคืนมา
+190,Character_Index,5,52,199,Returning Characters,ตัวละครที่หวนคืนมา
+190,Character_Index,6,56,220,Actions and Controls,แอ็กชันและการควบคุม
+190,Character_Index,7,60,241,Actions and Controls,แอ็กชันและการควบคุม
+190,Character_Index,8,64,262,Preparing to Venture Forth,การเตรียมตัวออกเดินทาง
+190,Character_Index,9,68,289,Preparing to Venture Forth,การเตรียมตัวออกเดินทาง
+190,Character_Index,10,72,316,Shops and Facilities,ร้านค้าและสิ่งอำนวยความสะดวก
+190,Character_Index,11,76,337,Shops and Facilities,ร้านค้าและสิ่งอำนวยความสะดวก
+190,Character_Index,12,80,358,During Battle,ระหว่างการต่อสู้
+190,Character_Index,13,84,372,During Battle,ระหว่างการต่อสู้
+190,Character_Index,14,88,386,Multiplayer,ผู้เล่นหลายคน
+190,Character_Index,15,92,398,Multiplayer,ผู้เล่นหลายคน
 190,Character_Index,16,96,410,,
 190,Character_Index,17,100,411,,
 190,Character_Index,18,104,412,,

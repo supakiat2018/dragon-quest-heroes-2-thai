@@ -1,80 +1,80 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-11652,Adventurer_Arena,0,36,356,Adventurer's Arena,
-11652,Adventurer_Arena,1,40,375,Adventurer's Arena,
-11652,Adventurer_Arena,2,44,394,A battlefield where the finest fighters face off with monster minions at their command in massive monster medal melees<FG>,
-11652,Adventurer_Arena,3,48,516,Adventurer's Arenas,
+11652,Adventurer_Arena,0,36,356,Adventurer's Arena,ลานประลองนักผจญภัย
+11652,Adventurer_Arena,1,40,375,Adventurer's Arena,ลานประลองนักผจญภัย
+11652,Adventurer_Arena,2,44,394,A battlefield where the finest fighters face off with monster minions at their command in massive monster medal melees<FG>,สมรภูมิที่เหล่านักสู้ชั้นยอดประจันหน้ากันด้วยการบัญชาการสมุนมอนสเตอร์ในการตะลุมบอนเหรียญมอนสเตอร์ครั้งยิ่งใหญ่<FG>
+11652,Adventurer_Arena,3,48,516,Adventurer's Arenas,ลานประลองนักผจญภัย
 11652,Adventurer_Arena,4,52,536,,
 11652,Adventurer_Arena,5,56,537,,
 11652,Adventurer_Arena,6,60,538,,
 11652,Adventurer_Arena,7,64,539,,
-11652,Adventurer_Arena,8,68,540,Jailcat Jam,
-11652,Adventurer_Arena,9,72,552,Jailcat Jam,
+11652,Adventurer_Arena,8,68,540,Jailcat Jam,ศึกตะลุมบอนเจลแคท
+11652,Adventurer_Arena,9,72,552,Jailcat Jam,ศึกตะลุมบอนเจลแคท
 11652,Adventurer_Arena,10,76,564,,
-11652,Adventurer_Arena,11,80,565,Jailcat Jams,
+11652,Adventurer_Arena,11,80,565,Jailcat Jams,ศึกตะลุมบอนเจลแคท
 11652,Adventurer_Arena,12,84,578,,
 11652,Adventurer_Arena,13,88,579,,
 11652,Adventurer_Arena,14,92,580,,
 11652,Adventurer_Arena,15,96,581,,
-11652,Adventurer_Arena,16,100,582,Stadium of Sorcerers,
-11652,Adventurer_Arena,17,104,603,Stadium of Sorcerers,
+11652,Adventurer_Arena,16,100,582,Stadium of Sorcerers,สนามกีฬาแห่งจอมเวท
+11652,Adventurer_Arena,17,104,603,Stadium of Sorcerers,สนามกีฬาแห่งจอมเวท
 11652,Adventurer_Arena,18,108,624,,
-11652,Adventurer_Arena,19,112,625,Stadiums of Sorcerers,
+11652,Adventurer_Arena,19,112,625,Stadiums of Sorcerers,สนามกีฬาแห่งจอมเวท
 11652,Adventurer_Arena,20,116,647,,
 11652,Adventurer_Arena,21,120,648,,
 11652,Adventurer_Arena,22,124,649,,
 11652,Adventurer_Arena,23,128,650,,
-11652,Adventurer_Arena,24,132,651,Bodkin Battleground,
-11652,Adventurer_Arena,25,136,671,Bodkin Battleground,
+11652,Adventurer_Arena,24,132,651,Bodkin Battleground,สมรภูมิบ็อดกิน
+11652,Adventurer_Arena,25,136,671,Bodkin Battleground,สมรภูมิบ็อดกิน
 11652,Adventurer_Arena,26,140,691,,
-11652,Adventurer_Arena,27,144,692,Bodkin Battlegrounds,
+11652,Adventurer_Arena,27,144,692,Bodkin Battlegrounds,สมรภูมิบ็อดกิน
 11652,Adventurer_Arena,28,148,713,,
 11652,Adventurer_Arena,29,152,714,,
 11652,Adventurer_Arena,30,156,715,,
 11652,Adventurer_Arena,31,160,716,,
-11652,Adventurer_Arena,32,164,717,War of the Walking Corpses,
-11652,Adventurer_Arena,33,168,744,War of the Walking Corpses,
+11652,Adventurer_Arena,32,164,717,War of the Walking Corpses,สงครามซากศพเดินได้
+11652,Adventurer_Arena,33,168,744,War of the Walking Corpses,สงครามซากศพเดินได้
 11652,Adventurer_Arena,34,172,771,,
-11652,Adventurer_Arena,35,176,772,Wars of the Walking Corpses,
+11652,Adventurer_Arena,35,176,772,Wars of the Walking Corpses,สงครามซากศพเดินได้
 11652,Adventurer_Arena,36,180,800,,
 11652,Adventurer_Arena,37,184,801,,
 11652,Adventurer_Arena,38,188,802,,
 11652,Adventurer_Arena,39,192,803,,
-11652,Adventurer_Arena,40,196,804,Mimic Melee,
-11652,Adventurer_Arena,41,200,816,Mimic Melee,
+11652,Adventurer_Arena,40,196,804,Mimic Melee,ศึกชุลมุนมิมิก
+11652,Adventurer_Arena,41,200,816,Mimic Melee,ศึกชุลมุนมิมิก
 11652,Adventurer_Arena,42,204,828,,
-11652,Adventurer_Arena,43,208,829,Mimic Melees,
+11652,Adventurer_Arena,43,208,829,Mimic Melees,ศึกชุลมุนมิมิก
 11652,Adventurer_Arena,44,212,842,,
 11652,Adventurer_Arena,45,216,843,,
 11652,Adventurer_Arena,46,220,844,,
 11652,Adventurer_Arena,47,224,845,,
-11652,Adventurer_Arena,48,228,846,Muddy Hand Madness,
-11652,Adventurer_Arena,49,232,865,Muddy Hand Madness,
+11652,Adventurer_Arena,48,228,846,Muddy Hand Madness,ความบ้าคลั่งของมือโคลน
+11652,Adventurer_Arena,49,232,865,Muddy Hand Madness,ความบ้าคลั่งของมือโคลน
 11652,Adventurer_Arena,50,236,884,,
-11652,Adventurer_Arena,51,240,885,Muddy Hand Madnesses,
+11652,Adventurer_Arena,51,240,885,Muddy Hand Madnesses,ความบ้าคลั่งของมือโคลน
 11652,Adventurer_Arena,52,244,906,,
 11652,Adventurer_Arena,53,248,907,,
 11652,Adventurer_Arena,54,252,908,,
 11652,Adventurer_Arena,55,256,909,,
-11652,Adventurer_Arena,56,260,910,Battle o' the Bags o' Laughs,
-11652,Adventurer_Arena,57,264,939,Battle o' the Bags o' Laughs,
+11652,Adventurer_Arena,56,260,910,Battle o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
+11652,Adventurer_Arena,57,264,939,Battle o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
 11652,Adventurer_Arena,58,268,968,,
-11652,Adventurer_Arena,59,272,969,Battles o' the Bags o' Laughs,
+11652,Adventurer_Arena,59,272,969,Battles o' the Bags o' Laughs,ศึกแห่งถุงหัวเราะ
 11652,Adventurer_Arena,60,276,999,,
 11652,Adventurer_Arena,61,280,1000,,
 11652,Adventurer_Arena,62,284,1001,,
 11652,Adventurer_Arena,63,288,1002,,
-11652,Adventurer_Arena,64,292,1003,Ghostly Goings-On,
-11652,Adventurer_Arena,65,296,1021,Ghostly Goings-On,
+11652,Adventurer_Arena,64,292,1003,Ghostly Goings-On,เรื่องลี้ลับของภูตผี
+11652,Adventurer_Arena,65,296,1021,Ghostly Goings-On,เรื่องลี้ลับของภูตผี
 11652,Adventurer_Arena,66,300,1039,,
-11652,Adventurer_Arena,67,304,1040,Ghostly Goings-Ons,
+11652,Adventurer_Arena,67,304,1040,Ghostly Goings-Ons,เรื่องลี้ลับของภูตผี
 11652,Adventurer_Arena,68,308,1059,,
 11652,Adventurer_Arena,69,312,1060,,
 11652,Adventurer_Arena,70,316,1061,,
 11652,Adventurer_Arena,71,320,1062,,
-11652,Adventurer_Arena,72,324,1063,Hammerhood Head-to-Head,
-11652,Adventurer_Arena,73,328,1087,Hammerhood Head-to-Head,
+11652,Adventurer_Arena,72,324,1063,Hammerhood Head-to-Head,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
+11652,Adventurer_Arena,73,328,1087,Hammerhood Head-to-Head,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
 11652,Adventurer_Arena,74,332,1111,,
-11652,Adventurer_Arena,75,336,1112,Hammerhood Head-to-Heads,
+11652,Adventurer_Arena,75,336,1112,Hammerhood Head-to-Heads,การดวลตัวต่อตัวของแฮมเมอร์ฮู้ด
 11652,Adventurer_Arena,76,340,1137,,
 11652,Adventurer_Arena,77,344,1138,,
 11652,Adventurer_Arena,78,348,1139,,

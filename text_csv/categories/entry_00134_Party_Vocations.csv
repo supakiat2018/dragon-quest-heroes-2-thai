@@ -1,126 +1,126 @@
 ﻿EntryID,Category,StringIndex,PointerOffset,StringOffset,OriginalEnglish,ThaiTranslation
-134,Party_Vocations,0,36,1636,Priestess,
-134,Party_Vocations,1,40,1646,Priestess,
+134,Party_Vocations,0,36,1636,Priestess,นักบวชหญิง
+134,Party_Vocations,1,40,1646,Priestess,นักบวชหญิง
 134,Party_Vocations,2,44,1656,,
 134,Party_Vocations,3,48,1657,,
 134,Party_Vocations,4,52,1658,,
 134,Party_Vocations,5,56,1659,,
 134,Party_Vocations,6,60,1660,,
 134,Party_Vocations,7,64,1661,,
-134,Party_Vocations,8,68,1662,Armourer,
-134,Party_Vocations,9,72,1671,Armourer,
+134,Party_Vocations,8,68,1662,Armourer,ช่างทำเกราะ
+134,Party_Vocations,9,72,1671,Armourer,ช่างทำเกราะ
 134,Party_Vocations,10,76,1680,,
 134,Party_Vocations,11,80,1681,,
 134,Party_Vocations,12,84,1682,,
 134,Party_Vocations,13,88,1683,,
 134,Party_Vocations,14,92,1684,,
 134,Party_Vocations,15,96,1685,,
-134,Party_Vocations,16,100,1686,Orb Seller,
-134,Party_Vocations,17,104,1697,Orb Seller,
+134,Party_Vocations,16,100,1686,Orb Seller,คนขายลูกแก้ว
+134,Party_Vocations,17,104,1697,Orb Seller,คนขายลูกแก้ว
 134,Party_Vocations,18,108,1708,,
 134,Party_Vocations,19,112,1709,,
 134,Party_Vocations,20,116,1710,,
 134,Party_Vocations,21,120,1711,,
 134,Party_Vocations,22,124,1712,,
 134,Party_Vocations,23,128,1713,,
-134,Party_Vocations,24,132,1714,Maxi Malone,
-134,Party_Vocations,25,136,1726,Maxi Malone,
+134,Party_Vocations,24,132,1714,Maxi Malone,แม็กซี่ มาโลน
+134,Party_Vocations,25,136,1726,Maxi Malone,แม็กซี่ มาโลน
 134,Party_Vocations,26,140,1738,,
 134,Party_Vocations,27,144,1739,,
 134,Party_Vocations,28,148,1740,,
 134,Party_Vocations,29,152,1741,,
 134,Party_Vocations,30,156,1742,,
 134,Party_Vocations,31,160,1743,,
-134,Party_Vocations,32,164,1744,Questmistress,
-134,Party_Vocations,33,168,1758,Questmistress,
+134,Party_Vocations,32,164,1744,Questmistress,ผู้ดูแลเควสต์
+134,Party_Vocations,33,168,1758,Questmistress,ผู้ดูแลเควสต์
 134,Party_Vocations,34,172,1772,,
 134,Party_Vocations,35,176,1773,,
 134,Party_Vocations,36,180,1774,,
 134,Party_Vocations,37,184,1775,,
 134,Party_Vocations,38,188,1776,,
 134,Party_Vocations,39,192,1777,,
-134,Party_Vocations,40,196,1778,Auntie Alchemy,
-134,Party_Vocations,41,200,1793,Auntie Alchemy,
+134,Party_Vocations,40,196,1778,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
+134,Party_Vocations,41,200,1793,Auntie Alchemy,คุณป้าเล่นแร่แปรธาตุ
 134,Party_Vocations,42,204,1808,,
 134,Party_Vocations,43,208,1809,,
 134,Party_Vocations,44,212,1810,,
 134,Party_Vocations,45,216,1811,,
 134,Party_Vocations,46,220,1812,,
 134,Party_Vocations,47,224,1813,,
-134,Party_Vocations,48,228,1814,Patty,
-134,Party_Vocations,49,232,1820,Patty,
+134,Party_Vocations,48,228,1814,Patty,แพตตี้
+134,Party_Vocations,49,232,1820,Patty,แพตตี้
 134,Party_Vocations,50,236,1826,,
 134,Party_Vocations,51,240,1827,,
 134,Party_Vocations,52,244,1828,,
 134,Party_Vocations,53,248,1829,,
 134,Party_Vocations,54,252,1830,,
 134,Party_Vocations,55,256,1831,,
-134,Party_Vocations,56,260,1832,Erinn,
-134,Party_Vocations,57,264,1838,Erinn,
+134,Party_Vocations,56,260,1832,Erinn,เอรินน์
+134,Party_Vocations,57,264,1838,Erinn,เอรินน์
 134,Party_Vocations,58,268,1844,,
 134,Party_Vocations,59,272,1845,,
 134,Party_Vocations,60,276,1846,,
 134,Party_Vocations,61,280,1847,,
 134,Party_Vocations,62,284,1848,,
 134,Party_Vocations,63,288,1849,,
-134,Party_Vocations,64,292,1850,Abbot of Alltrades,
-134,Party_Vocations,65,296,1869,Abbot of Alltrades,
+134,Party_Vocations,64,292,1850,Abbot of Alltrades,เจ้าอาวาสแห่งวิหารดารุมะ
+134,Party_Vocations,65,296,1869,Abbot of Alltrades,เจ้าอาวาสแห่งวิหารดารุมะ
 134,Party_Vocations,66,300,1888,,
 134,Party_Vocations,67,304,1889,,
 134,Party_Vocations,68,308,1890,,
 134,Party_Vocations,69,312,1891,,
 134,Party_Vocations,70,316,1892,,
 134,Party_Vocations,71,320,1893,,
-134,Party_Vocations,72,324,1894,Clerk of Works,
-134,Party_Vocations,73,328,1909,Clerk of Works,
+134,Party_Vocations,72,324,1894,Clerk of Works,เสมียนฝ่ายโยธา
+134,Party_Vocations,73,328,1909,Clerk of Works,เสมียนฝ่ายโยธา
 134,Party_Vocations,74,332,1924,,
 134,Party_Vocations,75,336,1925,,
 134,Party_Vocations,76,340,1926,,
 134,Party_Vocations,77,344,1927,,
 134,Party_Vocations,78,348,1928,,
 134,Party_Vocations,79,352,1929,,
-134,Party_Vocations,80,356,1930,Sir Pression,
-134,Party_Vocations,81,360,1943,Sir Pression,
+134,Party_Vocations,80,356,1930,Sir Pression,เซอร์เพรสชัน
+134,Party_Vocations,81,360,1943,Sir Pression,เซอร์เพรสชัน
 134,Party_Vocations,82,364,1956,,
 134,Party_Vocations,83,368,1957,,
 134,Party_Vocations,84,372,1958,,
 134,Party_Vocations,85,376,1959,,
 134,Party_Vocations,86,380,1960,,
 134,Party_Vocations,87,384,1961,,
-134,Party_Vocations,88,388,1962,Swapsie,
-134,Party_Vocations,89,392,1970,Swapsie,
+134,Party_Vocations,88,388,1962,Swapsie,สวาปซี่
+134,Party_Vocations,89,392,1970,Swapsie,สวาปซี่
 134,Party_Vocations,90,396,1978,,
 134,Party_Vocations,91,400,1979,,
 134,Party_Vocations,92,404,1980,,
 134,Party_Vocations,93,408,1981,,
 134,Party_Vocations,94,412,1982,,
 134,Party_Vocations,95,416,1983,,
-134,Party_Vocations,96,420,1984,Memory Bank,
-134,Party_Vocations,97,424,1996,Memory Bank,
+134,Party_Vocations,96,420,1984,Memory Bank,ธนาคารความทรงจำ
+134,Party_Vocations,97,424,1996,Memory Bank,ธนาคารความทรงจำ
 134,Party_Vocations,98,428,2008,,
 134,Party_Vocations,99,432,2009,,
 134,Party_Vocations,100,436,2010,,
 134,Party_Vocations,101,440,2011,,
 134,Party_Vocations,102,444,2012,,
 134,Party_Vocations,103,448,2013,,
-134,Party_Vocations,104,452,2014,Martial Master,
-134,Party_Vocations,105,456,2029,Martial Master,
+134,Party_Vocations,104,452,2014,Martial Master,ปรมาจารย์การต่อสู้
+134,Party_Vocations,105,456,2029,Martial Master,ปรมาจารย์การต่อสู้
 134,Party_Vocations,106,460,2044,,
 134,Party_Vocations,107,464,2045,,
 134,Party_Vocations,108,468,2046,,
 134,Party_Vocations,109,472,2047,,
 134,Party_Vocations,110,476,2048,,
 134,Party_Vocations,111,480,2049,,
-134,Party_Vocations,112,484,2050,Float-O-Copier,
-134,Party_Vocations,113,488,2065,Float-O-Copier,
+134,Party_Vocations,112,484,2050,Float-O-Copier,มิมิกฟลูต
+134,Party_Vocations,113,488,2065,Float-O-Copier,มิมิกฟลูต
 134,Party_Vocations,114,492,2080,,
 134,Party_Vocations,115,496,2081,,
 134,Party_Vocations,116,500,2082,,
 134,Party_Vocations,117,504,2083,,
 134,Party_Vocations,118,508,2084,,
 134,Party_Vocations,119,512,2085,,
-134,Party_Vocations,120,516,2086,Gragwort,
-134,Party_Vocations,121,520,2095,Gragwort,
+134,Party_Vocations,120,516,2086,Gragwort,แกรกเวิร์ต
+134,Party_Vocations,121,520,2095,Gragwort,แกรกเวิร์ต
 134,Party_Vocations,122,524,2104,,
 134,Party_Vocations,123,528,2105,,
 134,Party_Vocations,124,532,2106,,
