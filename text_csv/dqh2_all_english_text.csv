@@ -1999,1754 +1999,1754 @@
 8,NPC_Titles,1597,6424,9227,,
 8,NPC_Titles,1598,6428,9228,,
 8,NPC_Titles,1599,6432,9229,,
-15,Monsters,0,36,10276,slime,
-15,Monsters,1,40,10282,slime,
+15,Monsters,0,36,10276,slime,สไลม์
+15,Monsters,1,40,10282,slime,สไลม์
 15,Monsters,2,44,10288,,
-15,Monsters,3,48,10289,slimes,
+15,Monsters,3,48,10289,slimes,สไลม์
 15,Monsters,4,52,10296,the ,
 15,Monsters,5,56,10301,the ,
 15,Monsters,6,60,10306,a ,
 15,Monsters,7,64,10309,some ,
-15,Monsters,8,68,10315,dracky,
-15,Monsters,9,72,10322,dracky,
+15,Monsters,8,68,10315,dracky,ดรากี้
+15,Monsters,9,72,10322,dracky,ดรากี้
 15,Monsters,10,76,10329,,
-15,Monsters,11,80,10330,drackies,
+15,Monsters,11,80,10330,drackies,ดรากี้
 15,Monsters,12,84,10339,the ,
 15,Monsters,13,88,10344,the ,
 15,Monsters,14,92,10349,a ,
 15,Monsters,15,96,10352,some ,
-15,Monsters,16,100,10358,walking corpse,
-15,Monsters,17,104,10373,walking corpse,
+15,Monsters,16,100,10358,walking corpse,ซากศพเดินได้
+15,Monsters,17,104,10373,walking corpse,ซากศพเดินได้
 15,Monsters,18,108,10388,,
-15,Monsters,19,112,10389,walking corpses,
+15,Monsters,19,112,10389,walking corpses,ซากศพเดินได้
 15,Monsters,20,116,10405,the ,
 15,Monsters,21,120,10410,the ,
 15,Monsters,22,124,10415,a ,
 15,Monsters,23,128,10418,some ,
-15,Monsters,24,132,10424,chimaera,
-15,Monsters,25,136,10433,chimaera,
+15,Monsters,24,132,10424,chimaera,คิเมร่า
+15,Monsters,25,136,10433,chimaera,คิเมร่า
 15,Monsters,26,140,10442,,
-15,Monsters,27,144,10443,chimaeras,
+15,Monsters,27,144,10443,chimaeras,คิเมร่า
 15,Monsters,28,148,10453,the ,
 15,Monsters,29,152,10458,the ,
 15,Monsters,30,156,10463,a ,
 15,Monsters,31,160,10466,some ,
-15,Monsters,32,164,10472,imp,
-15,Monsters,33,168,10476,imp,
+15,Monsters,32,164,10472,imp,อิมป์
+15,Monsters,33,168,10476,imp,อิมป์
 15,Monsters,34,172,10480,,
-15,Monsters,35,176,10481,imps,
+15,Monsters,35,176,10481,imps,อิมป์
 15,Monsters,36,180,10486,the ,
 15,Monsters,37,184,10491,the ,
 15,Monsters,38,188,10496,an ,
 15,Monsters,39,192,10500,some ,
-15,Monsters,40,196,10506,hammerhood,
-15,Monsters,41,200,10517,hammerhood,
+15,Monsters,40,196,10506,hammerhood,แฮมเมอร์ฮูด
+15,Monsters,41,200,10517,hammerhood,แฮมเมอร์ฮูด
 15,Monsters,42,204,10528,,
-15,Monsters,43,208,10529,hammerhoods,
+15,Monsters,43,208,10529,hammerhoods,แฮมเมอร์ฮูด
 15,Monsters,44,212,10541,the ,
 15,Monsters,45,216,10546,the ,
 15,Monsters,46,220,10551,a ,
 15,Monsters,47,224,10554,some ,
-15,Monsters,48,228,10560,restless armour,
-15,Monsters,49,232,10576,restless armour,
+15,Monsters,48,228,10560,restless armour,เกราะพเนจร
+15,Monsters,49,232,10576,restless armour,เกราะพเนจร
 15,Monsters,50,236,10592,,
-15,Monsters,51,240,10593,restless armours,
+15,Monsters,51,240,10593,restless armours,เกราะพเนจร
 15,Monsters,52,244,10610,the ,
 15,Monsters,53,248,10615,the ,
 15,Monsters,54,252,10620,a ,
 15,Monsters,55,256,10623,some ,
-15,Monsters,56,260,10629,healslime,
-15,Monsters,57,264,10639,healslime,
+15,Monsters,56,260,10629,healslime,ฮีลสไลม์
+15,Monsters,57,264,10639,healslime,ฮีลสไลม์
 15,Monsters,58,268,10649,,
-15,Monsters,59,272,10650,healslimes,
+15,Monsters,59,272,10650,healslimes,ฮีลสไลม์
 15,Monsters,60,276,10661,the ,
 15,Monsters,61,280,10666,the ,
 15,Monsters,62,284,10671,a ,
 15,Monsters,63,288,10674,some ,
-15,Monsters,64,292,10680,rockbomb,
-15,Monsters,65,296,10689,rockbomb,
+15,Monsters,64,292,10680,rockbomb,ร็อคบอมบ์
+15,Monsters,65,296,10689,rockbomb,ร็อคบอมบ์
 15,Monsters,66,300,10698,,
-15,Monsters,67,304,10699,rockbombs,
+15,Monsters,67,304,10699,rockbombs,ร็อคบอมบ์
 15,Monsters,68,308,10709,the ,
 15,Monsters,69,312,10714,the ,
 15,Monsters,70,316,10719,a ,
 15,Monsters,71,320,10722,some ,
-15,Monsters,72,324,10728,goodybag,
-15,Monsters,73,328,10737,goodybag,
+15,Monsters,72,324,10728,goodybag,ถุงสมบัติ
+15,Monsters,73,328,10737,goodybag,ถุงสมบัติ
 15,Monsters,74,332,10746,,
-15,Monsters,75,336,10747,goodybags,
+15,Monsters,75,336,10747,goodybags,ถุงสมบัติ
 15,Monsters,76,340,10757,the ,
 15,Monsters,77,344,10762,the ,
 15,Monsters,78,348,10767,a ,
 15,Monsters,79,352,10770,some ,
-15,Monsters,80,356,10776,mummy,
-15,Monsters,81,360,10782,mummy,
+15,Monsters,80,356,10776,mummy,มัมมี่
+15,Monsters,81,360,10782,mummy,มัมมี่
 15,Monsters,82,364,10788,,
-15,Monsters,83,368,10789,mummies,
+15,Monsters,83,368,10789,mummies,มัมมี่
 15,Monsters,84,372,10797,the ,
 15,Monsters,85,376,10802,the ,
 15,Monsters,86,380,10807,a ,
 15,Monsters,87,384,10810,some ,
-15,Monsters,88,388,10816,golem,
-15,Monsters,89,392,10822,golem,
+15,Monsters,88,388,10816,golem,โกเลม
+15,Monsters,89,392,10822,golem,โกเลม
 15,Monsters,90,396,10828,,
-15,Monsters,91,400,10829,golems,
+15,Monsters,91,400,10829,golems,โกเลม
 15,Monsters,92,404,10836,the ,
 15,Monsters,93,408,10841,the ,
 15,Monsters,94,412,10846,a ,
 15,Monsters,95,416,10849,some ,
-15,Monsters,96,420,10855,killing machine,
-15,Monsters,97,424,10871,killing machine,
+15,Monsters,96,420,10855,killing machine,คิลเลอร์แมชชีน
+15,Monsters,97,424,10871,killing machine,คิลเลอร์แมชชีน
 15,Monsters,98,428,10887,,
-15,Monsters,99,432,10888,killing machines,
+15,Monsters,99,432,10888,killing machines,คิลเลอร์แมชชีน
 15,Monsters,100,436,10905,the ,
 15,Monsters,101,440,10910,the ,
 15,Monsters,102,444,10915,a ,
 15,Monsters,103,448,10918,some ,
-15,Monsters,104,452,10924,platypunk,
-15,Monsters,105,456,10934,platypunk,
+15,Monsters,104,452,10924,platypunk,โมมอนจา
+15,Monsters,105,456,10934,platypunk,โมมอนจา
 15,Monsters,106,460,10944,,
-15,Monsters,107,464,10945,platypunks,
+15,Monsters,107,464,10945,platypunks,โมมอนจา
 15,Monsters,108,468,10956,the ,
 15,Monsters,109,472,10961,the ,
 15,Monsters,110,476,10966,a ,
 15,Monsters,111,480,10969,some ,
-15,Monsters,112,484,10975,agoomulator,
-15,Monsters,113,488,10987,agoomulator,
+15,Monsters,112,484,10975,agoomulator,สไลม์รวมร่าง
+15,Monsters,113,488,10987,agoomulator,สไลม์รวมร่าง
 15,Monsters,114,492,10999,,
-15,Monsters,115,496,11000,agoomulators,
+15,Monsters,115,496,11000,agoomulators,สไลม์รวมร่าง
 15,Monsters,116,500,11013,the ,
 15,Monsters,117,504,11018,the ,
 15,Monsters,118,508,11023,an ,
 15,Monsters,119,512,11027,some ,
-15,Monsters,120,516,11033,jailcat,
-15,Monsters,121,520,11041,jailcat,
+15,Monsters,120,516,11033,jailcat,แมวลายคุก
+15,Monsters,121,520,11041,jailcat,แมวลายคุก
 15,Monsters,122,524,11049,,
-15,Monsters,123,528,11050,jailcats,
+15,Monsters,123,528,11050,jailcats,แมวลายคุก
 15,Monsters,124,532,11059,the ,
 15,Monsters,125,536,11064,the ,
 15,Monsters,126,540,11069,a ,
 15,Monsters,127,544,11072,some ,
-15,Monsters,128,548,11078,Merry Man,
-15,Monsters,129,552,11088,Merry Man,
+15,Monsters,128,548,11078,Merry Man,สมุนโจร
+15,Monsters,129,552,11088,Merry Man,สมุนโจร
 15,Monsters,130,556,11098,,
-15,Monsters,131,560,11099,Merry Men,
+15,Monsters,131,560,11099,Merry Men,สมุนโจร
 15,Monsters,132,564,11109,the ,
 15,Monsters,133,568,11114,the ,
 15,Monsters,134,572,11119,a ,
 15,Monsters,135,576,11122,some ,
-15,Monsters,136,580,11128,bodkin archer,
-15,Monsters,137,584,11142,bodkin archer,
+15,Monsters,136,580,11128,bodkin archer,บ็อดกินอาร์เชอร์
+15,Monsters,137,584,11142,bodkin archer,บ็อดกินอาร์เชอร์
 15,Monsters,138,588,11156,,
-15,Monsters,139,592,11157,bodkin archers,
+15,Monsters,139,592,11157,bodkin archers,บ็อดกินอาร์เชอร์
 15,Monsters,140,596,11172,the ,
 15,Monsters,141,600,11177,the ,
 15,Monsters,142,604,11182,a ,
 15,Monsters,143,608,11185,some ,
-15,Monsters,144,612,11191,troll,
-15,Monsters,145,616,11197,troll,
+15,Monsters,144,612,11191,troll,โทรลล์
+15,Monsters,145,616,11197,troll,โทรลล์
 15,Monsters,146,620,11203,,
-15,Monsters,147,624,11204,trolls,
+15,Monsters,147,624,11204,trolls,โทรลล์
 15,Monsters,148,628,11211,the ,
 15,Monsters,149,632,11216,the ,
 15,Monsters,150,636,11221,a ,
 15,Monsters,151,640,11224,some ,
-15,Monsters,152,644,11230,king slime,
-15,Monsters,153,648,11241,king slime,
+15,Monsters,152,644,11230,king slime,คิงสไลม์
+15,Monsters,153,648,11241,king slime,คิงสไลม์
 15,Monsters,154,652,11252,,
-15,Monsters,155,656,11253,king slimes,
+15,Monsters,155,656,11253,king slimes,คิงสไลม์
 15,Monsters,156,660,11265,the ,
 15,Monsters,157,664,11270,the ,
 15,Monsters,158,668,11275,a ,
 15,Monsters,159,672,11278,some ,
-15,Monsters,160,676,11284,roseguardin,
-15,Monsters,161,680,11296,roseguardin,
+15,Monsters,160,676,11284,roseguardin,โรสการ์เดียน
+15,Monsters,161,680,11296,roseguardin,โรสการ์เดียน
 15,Monsters,162,684,11308,,
-15,Monsters,163,688,11309,roseguardins,
+15,Monsters,163,688,11309,roseguardins,โรสการ์เดียน
 15,Monsters,164,692,11322,the ,
 15,Monsters,165,696,11327,the ,
 15,Monsters,166,700,11332,a ,
 15,Monsters,167,704,11335,some ,
-15,Monsters,168,708,11341,hacksaurus,
-15,Monsters,169,712,11352,hacksaurus,
+15,Monsters,168,708,11341,hacksaurus,แฮ็กซอรัส
+15,Monsters,169,712,11352,hacksaurus,แฮ็กซอรัส
 15,Monsters,170,716,11363,,
-15,Monsters,171,720,11364,hacksauruses,
+15,Monsters,171,720,11364,hacksauruses,แฮ็กซอรัส
 15,Monsters,172,724,11377,the ,
 15,Monsters,173,728,11382,the ,
 15,Monsters,174,732,11387,a ,
 15,Monsters,175,736,11390,some ,
-15,Monsters,176,740,11396,living statue,
-15,Monsters,177,744,11410,living statue,
+15,Monsters,176,740,11396,living statue,รูปปั้นมีชีวิต
+15,Monsters,177,744,11410,living statue,รูปปั้นมีชีวิต
 15,Monsters,178,748,11424,,
-15,Monsters,179,752,11425,living statues,
+15,Monsters,179,752,11425,living statues,รูปปั้นมีชีวิต
 15,Monsters,180,756,11440,the ,
 15,Monsters,181,760,11445,the ,
 15,Monsters,182,764,11450,a ,
 15,Monsters,183,768,11453,some ,
-15,Monsters,184,772,11459,gargoyle,
-15,Monsters,185,776,11468,gargoyle,
+15,Monsters,184,772,11459,gargoyle,การ์กอยล์
+15,Monsters,185,776,11468,gargoyle,การ์กอยล์
 15,Monsters,186,780,11477,,
-15,Monsters,187,784,11478,gargoyles,
+15,Monsters,187,784,11478,gargoyles,การ์กอยล์
 15,Monsters,188,788,11488,the ,
 15,Monsters,189,792,11493,the ,
 15,Monsters,190,796,11498,a ,
 15,Monsters,191,800,11501,some ,
-15,Monsters,192,804,11507,liquid metal slime,
-15,Monsters,193,808,11526,liquid metal slime,
+15,Monsters,192,804,11507,liquid metal slime,ฮากุเรเมทัล
+15,Monsters,193,808,11526,liquid metal slime,ฮากุเรเมทัล
 15,Monsters,194,812,11545,,
-15,Monsters,195,816,11546,liquid metal slimes,
+15,Monsters,195,816,11546,liquid metal slimes,ฮากุเรเมทัล
 15,Monsters,196,820,11566,the ,
 15,Monsters,197,824,11571,the ,
 15,Monsters,198,828,11576,a ,
 15,Monsters,199,832,11579,some ,
-15,Monsters,200,836,11585,mimic,
-15,Monsters,201,840,11591,mimic,
+15,Monsters,200,836,11585,mimic,มิมิก
+15,Monsters,201,840,11591,mimic,มิมิก
 15,Monsters,202,844,11597,,
-15,Monsters,203,848,11598,mimics,
+15,Monsters,203,848,11598,mimics,มิมิก
 15,Monsters,204,852,11605,the ,
 15,Monsters,205,856,11610,the ,
 15,Monsters,206,860,11615,a ,
 15,Monsters,207,864,11618,some ,
-15,Monsters,208,868,11624,gigantes,
-15,Monsters,209,872,11633,gigantes,
+15,Monsters,208,868,11624,gigantes,กิกันเตส
+15,Monsters,209,872,11633,gigantes,กิกันเตส
 15,Monsters,210,876,11642,,
-15,Monsters,211,880,11643,gigantes,
+15,Monsters,211,880,11643,gigantes,กิกันเตส
 15,Monsters,212,884,11652,the ,
 15,Monsters,213,888,11657,the ,
 15,Monsters,214,892,11662,a ,
 15,Monsters,215,896,11665,some ,
-15,Monsters,216,900,11671,archdemon,
-15,Monsters,217,904,11681,archdemon,
+15,Monsters,216,900,11671,archdemon,อาร์ชเดมอน
+15,Monsters,217,904,11681,archdemon,อาร์ชเดมอน
 15,Monsters,218,908,11691,,
-15,Monsters,219,912,11692,archdemons,
+15,Monsters,219,912,11692,archdemons,อาร์ชเดมอน
 15,Monsters,220,916,11703,the ,
 15,Monsters,221,920,11708,the ,
 15,Monsters,222,924,11713,an ,
 15,Monsters,223,928,11717,some ,
-15,Monsters,224,932,11723,silvapithecus,
-15,Monsters,225,936,11737,silvapithecus,
+15,Monsters,224,932,11723,silvapithecus,ซิลวาพิเทคัส
+15,Monsters,225,936,11737,silvapithecus,ซิลวาพิเทคัส
 15,Monsters,226,940,11751,,
-15,Monsters,227,944,11752,silvapithecuses,
+15,Monsters,227,944,11752,silvapithecuses,ซิลวาพิเทคัส
 15,Monsters,228,948,11768,the ,
 15,Monsters,229,952,11773,the ,
 15,Monsters,230,956,11778,a ,
 15,Monsters,231,960,11781,some ,
-15,Monsters,232,964,11787,great sabrecat,
-15,Monsters,233,968,11802,great sabrecat,
+15,Monsters,232,964,11787,great sabrecat,เกรตเซเบอร์แคท
+15,Monsters,233,968,11802,great sabrecat,เกรตเซเบอร์แคท
 15,Monsters,234,972,11817,,
-15,Monsters,235,976,11818,great sabrecats,
+15,Monsters,235,976,11818,great sabrecats,เกรตเซเบอร์แคท
 15,Monsters,236,980,11834,the ,
 15,Monsters,237,984,11839,the ,
 15,Monsters,238,988,11844,a ,
 15,Monsters,239,992,11847,some ,
-15,Monsters,240,996,11853,slime knight,
-15,Monsters,241,1000,11866,slime knight,
+15,Monsters,240,996,11853,slime knight,สไลม์ไนท์
+15,Monsters,241,1000,11866,slime knight,สไลม์ไนท์
 15,Monsters,242,1004,11879,,
-15,Monsters,243,1008,11880,slime knights,
+15,Monsters,243,1008,11880,slime knights,สไลม์ไนท์
 15,Monsters,244,1012,11894,the ,
 15,Monsters,245,1016,11899,the ,
 15,Monsters,246,1020,11904,a ,
 15,Monsters,247,1024,11907,some ,
-15,Monsters,248,1028,11913,muddy hand,
-15,Monsters,249,1032,11924,muddy hand,
+15,Monsters,248,1028,11913,muddy hand,มือโคลน
+15,Monsters,249,1032,11924,muddy hand,มือโคลน
 15,Monsters,250,1036,11935,,
-15,Monsters,251,1040,11936,muddy hands,
+15,Monsters,251,1040,11936,muddy hands,มือโคลน
 15,Monsters,252,1044,11948,the ,
 15,Monsters,253,1048,11953,the ,
 15,Monsters,254,1052,11958,a ,
 15,Monsters,255,1056,11961,some ,
-15,Monsters,256,1060,11967,obstrocktion,
-15,Monsters,257,1064,11980,obstrocktion,
+15,Monsters,256,1060,11967,obstrocktion,ออบสตร็อคชัน
+15,Monsters,257,1064,11980,obstrocktion,ออบสตร็อคชัน
 15,Monsters,258,1068,11993,,
-15,Monsters,259,1072,11994,obstrocktions,
+15,Monsters,259,1072,11994,obstrocktions,ออบสตร็อคชัน
 15,Monsters,260,1076,12008,the ,
 15,Monsters,261,1080,12013,the ,
 15,Monsters,262,1084,12018,an ,
 15,Monsters,263,1088,12022,some ,
-15,Monsters,264,1092,12028,mawkeeper,
-15,Monsters,265,1096,12038,mawkeeper,
+15,Monsters,264,1092,12028,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,265,1096,12038,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,266,1100,12048,,
-15,Monsters,267,1104,12049,mawkeepers,
+15,Monsters,267,1104,12049,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,268,1108,12060,the ,
 15,Monsters,269,1112,12065,the ,
 15,Monsters,270,1116,12070,a ,
 15,Monsters,271,1120,12073,some ,
-15,Monsters,272,1124,12079,float-o-copier,
-15,Monsters,273,1128,12094,float-o-copier,
+15,Monsters,272,1124,12079,float-o-copier,เครื่องจำลองลอยฟ้า
+15,Monsters,273,1128,12094,float-o-copier,เครื่องจำลองลอยฟ้า
 15,Monsters,274,1132,12109,,
-15,Monsters,275,1136,12110,float-o-copiers,
+15,Monsters,275,1136,12110,float-o-copiers,เครื่องจำลองลอยฟ้า
 15,Monsters,276,1140,12126,the ,
 15,Monsters,277,1144,12131,the ,
 15,Monsters,278,1148,12136,a ,
 15,Monsters,279,1152,12139,some ,
-15,Monsters,280,1156,12145,ghost,
-15,Monsters,281,1160,12151,ghost,
+15,Monsters,280,1156,12145,ghost,ผีโกสต์
+15,Monsters,281,1160,12151,ghost,ผีโกสต์
 15,Monsters,282,1164,12157,,
-15,Monsters,283,1168,12158,ghosts,
+15,Monsters,283,1168,12158,ghosts,ผีโกสต์
 15,Monsters,284,1172,12165,the ,
 15,Monsters,285,1176,12170,the ,
 15,Monsters,286,1180,12175,a ,
 15,Monsters,287,1184,12178,some ,
-15,Monsters,288,1188,12184,mud mannequin,
-15,Monsters,289,1192,12198,mud mannequin,
+15,Monsters,288,1188,12184,mud mannequin,หุ่นโคลน
+15,Monsters,289,1192,12198,mud mannequin,หุ่นโคลน
 15,Monsters,290,1196,12212,,
-15,Monsters,291,1200,12213,mud mannequins,
+15,Monsters,291,1200,12213,mud mannequins,หุ่นโคลน
 15,Monsters,292,1204,12228,the ,
 15,Monsters,293,1208,12233,the ,
 15,Monsters,294,1212,12238,a ,
 15,Monsters,295,1216,12241,some ,
-15,Monsters,296,1220,12247,ice sculpture,
-15,Monsters,297,1224,12261,ice sculpture,
+15,Monsters,296,1220,12247,ice sculpture,ประติมากรรมน้ำแข็ง
+15,Monsters,297,1224,12261,ice sculpture,ประติมากรรมน้ำแข็ง
 15,Monsters,298,1228,12275,,
-15,Monsters,299,1232,12276,ice sculptures,
+15,Monsters,299,1232,12276,ice sculptures,ประติมากรรมน้ำแข็ง
 15,Monsters,300,1236,12291,the ,
 15,Monsters,301,1240,12296,the ,
 15,Monsters,302,1244,12301,an ,
 15,Monsters,303,1248,12305,some ,
-15,Monsters,304,1252,12311,cumaulus,
-15,Monsters,305,1256,12320,cumaulus,
+15,Monsters,304,1252,12311,cumaulus,คิวมูลัส
+15,Monsters,305,1256,12320,cumaulus,คิวมูลัส
 15,Monsters,306,1260,12329,,
-15,Monsters,307,1264,12330,cumauluses,
+15,Monsters,307,1264,12330,cumauluses,คิวมูลัส
 15,Monsters,308,1268,12341,the ,
 15,Monsters,309,1272,12346,the ,
 15,Monsters,310,1276,12351,a ,
 15,Monsters,311,1280,12354,some ,
-15,Monsters,312,1284,12360,hunter mech,
-15,Monsters,313,1288,12372,hunter mech,
+15,Monsters,312,1284,12360,hunter mech,ฮันเตอร์เมค
+15,Monsters,313,1288,12372,hunter mech,ฮันเตอร์เมค
 15,Monsters,314,1292,12384,,
-15,Monsters,315,1296,12385,hunter mechs,
+15,Monsters,315,1296,12385,hunter mechs,ฮันเตอร์เมค
 15,Monsters,316,1300,12398,the ,
 15,Monsters,317,1304,12403,the ,
 15,Monsters,318,1308,12408,a ,
 15,Monsters,319,1312,12411,some ,
-15,Monsters,320,1316,12417,hocus chimaera,
-15,Monsters,321,1320,12432,hocus chimaera,
+15,Monsters,320,1316,12417,hocus chimaera,โฮคัสคิเมร่า
+15,Monsters,321,1320,12432,hocus chimaera,โฮคัสคิเมร่า
 15,Monsters,322,1324,12447,,
-15,Monsters,323,1328,12448,hocus chimaeras,
+15,Monsters,323,1328,12448,hocus chimaeras,โฮคัสคิเมร่า
 15,Monsters,324,1332,12464,the ,
 15,Monsters,325,1336,12469,the ,
 15,Monsters,326,1340,12474,a ,
 15,Monsters,327,1344,12477,some ,
-15,Monsters,328,1348,12483,Robbin' 'Ood,
-15,Monsters,329,1352,12496,Robbin' 'Ood,
+15,Monsters,328,1348,12483,Robbin' 'Ood,คานดาทะ
+15,Monsters,329,1352,12496,Robbin' 'Ood,คานดาทะ
 15,Monsters,330,1356,12509,,
-15,Monsters,331,1360,12510,Robbin' 'Oods,
+15,Monsters,331,1360,12510,Robbin' 'Oods,คานดาทะ
 15,Monsters,332,1364,12524,,
 15,Monsters,333,1368,12525,,
 15,Monsters,334,1372,12526,,
 15,Monsters,335,1376,12527,,
-15,Monsters,336,1380,12528,she-slime,
-15,Monsters,337,1384,12538,she-slime,
+15,Monsters,336,1380,12528,she-slime,ชีสไลม์
+15,Monsters,337,1384,12538,she-slime,ชีสไลม์
 15,Monsters,338,1388,12548,,
-15,Monsters,339,1392,12549,she-slimes,
+15,Monsters,339,1392,12549,she-slimes,ชีสไลม์
 15,Monsters,340,1396,12560,the ,
 15,Monsters,341,1400,12565,the ,
 15,Monsters,342,1404,12570,a ,
 15,Monsters,343,1408,12573,some ,
-15,Monsters,344,1412,12579,dancing flame,
-15,Monsters,345,1416,12593,dancing flame,
+15,Monsters,344,1412,12579,dancing flame,เปลวเพลิงเริงระบำ
+15,Monsters,345,1416,12593,dancing flame,เปลวเพลิงเริงระบำ
 15,Monsters,346,1420,12607,,
-15,Monsters,347,1424,12608,dancing flames,
+15,Monsters,347,1424,12608,dancing flames,เปลวเพลิงเริงระบำ
 15,Monsters,348,1428,12623,the ,
 15,Monsters,349,1432,12628,the ,
 15,Monsters,350,1436,12633,a ,
 15,Monsters,351,1440,12636,some ,
-15,Monsters,352,1444,12642,metal king slime,
-15,Monsters,353,1448,12659,metal king slime,
+15,Monsters,352,1444,12642,metal king slime,เมทัลคิงสไลม์
+15,Monsters,353,1448,12659,metal king slime,เมทัลคิงสไลม์
 15,Monsters,354,1452,12676,,
-15,Monsters,355,1456,12677,metal king slimes,
+15,Monsters,355,1456,12677,metal king slimes,เมทัลคิงสไลม์
 15,Monsters,356,1460,12695,the ,
 15,Monsters,357,1464,12700,the ,
 15,Monsters,358,1468,12705,a ,
 15,Monsters,359,1472,12708,some ,
-15,Monsters,360,1476,12714,cureslime,
-15,Monsters,361,1480,12724,cureslime,
+15,Monsters,360,1476,12714,cureslime,เคียวร์สไลม์
+15,Monsters,361,1480,12724,cureslime,เคียวร์สไลม์
 15,Monsters,362,1484,12734,,
-15,Monsters,363,1488,12735,cureslimes,
+15,Monsters,363,1488,12735,cureslimes,เคียวร์สไลม์
 15,Monsters,364,1492,12746,the ,
 15,Monsters,365,1496,12751,the ,
 15,Monsters,366,1500,12756,a ,
 15,Monsters,367,1504,12759,some ,
-15,Monsters,368,1508,12765,stone golem,
-15,Monsters,369,1512,12777,stone golem,
+15,Monsters,368,1508,12765,stone golem,สโตนโกเลม
+15,Monsters,369,1512,12777,stone golem,สโตนโกเลม
 15,Monsters,370,1516,12789,,
-15,Monsters,371,1520,12790,stone golems,
+15,Monsters,371,1520,12790,stone golems,สโตนโกเลม
 15,Monsters,372,1524,12803,the ,
 15,Monsters,373,1528,12808,the ,
 15,Monsters,374,1532,12813,a ,
 15,Monsters,375,1536,12816,some ,
-15,Monsters,376,1540,12822,minidemon,
-15,Monsters,377,1544,12832,minidemon,
+15,Monsters,376,1540,12822,minidemon,มินิเดมอน
+15,Monsters,377,1544,12832,minidemon,มินิเดมอน
 15,Monsters,378,1548,12842,,
-15,Monsters,379,1552,12843,minidemons,
+15,Monsters,379,1552,12843,minidemons,มินิเดมอน
 15,Monsters,380,1556,12854,the ,
 15,Monsters,381,1560,12859,the ,
 15,Monsters,382,1564,12864,a ,
 15,Monsters,383,1568,12867,some ,
-15,Monsters,384,1572,12873,corpse corporal,
-15,Monsters,385,1576,12889,corpse corporal,
+15,Monsters,384,1572,12873,corpse corporal,คอร์ปส์คอร์ปอรัล
+15,Monsters,385,1576,12889,corpse corporal,คอร์ปส์คอร์ปอรัล
 15,Monsters,386,1580,12905,,
-15,Monsters,387,1584,12906,corpse corporals,
+15,Monsters,387,1584,12906,corpse corporals,คอร์ปส์คอร์ปอรัล
 15,Monsters,388,1588,12923,the ,
 15,Monsters,389,1592,12928,the ,
 15,Monsters,390,1596,12933,a ,
 15,Monsters,391,1600,12936,some ,
-15,Monsters,392,1604,12942,bomboulder,
-15,Monsters,393,1608,12953,bomboulder,
+15,Monsters,392,1604,12942,bomboulder,บอมโบลเดอร์
+15,Monsters,393,1608,12953,bomboulder,บอมโบลเดอร์
 15,Monsters,394,1612,12964,,
-15,Monsters,395,1616,12965,bomboulders,
+15,Monsters,395,1616,12965,bomboulders,บอมโบลเดอร์
 15,Monsters,396,1620,12977,the ,
 15,Monsters,397,1624,12982,the ,
 15,Monsters,398,1628,12987,a ,
 15,Monsters,399,1632,12990,some ,
-15,Monsters,400,1636,12996,tyrantosaurus,
-15,Monsters,401,1640,13010,tyrantosaurus,
+15,Monsters,400,1636,12996,tyrantosaurus,ไทรันโตซอรัส
+15,Monsters,401,1640,13010,tyrantosaurus,ไทรันโตซอรัส
 15,Monsters,402,1644,13024,,
-15,Monsters,403,1648,13025,tyrantosauruses,
+15,Monsters,403,1648,13025,tyrantosauruses,ไทรันโตซอรัส
 15,Monsters,404,1652,13041,the ,
 15,Monsters,405,1656,13046,the ,
 15,Monsters,406,1660,13051,a ,
 15,Monsters,407,1664,13054,some ,
-15,Monsters,408,1668,13060,shadow,
-15,Monsters,409,1672,13067,shadow,
+15,Monsters,408,1668,13060,shadow,แชโดว์
+15,Monsters,409,1672,13067,shadow,แชโดว์
 15,Monsters,410,1676,13074,,
-15,Monsters,411,1680,13075,shadows,
+15,Monsters,411,1680,13075,shadows,แชโดว์
 15,Monsters,412,1684,13083,the ,
 15,Monsters,413,1688,13088,the ,
 15,Monsters,414,1692,13093,a ,
 15,Monsters,415,1696,13096,some ,
-15,Monsters,416,1700,13102,hawk man,
-15,Monsters,417,1704,13111,hawk man,
+15,Monsters,416,1700,13102,hawk man,ฮอว์กแมน
+15,Monsters,417,1704,13111,hawk man,ฮอว์กแมน
 15,Monsters,418,1708,13120,,
-15,Monsters,419,1712,13121,hawk men,
+15,Monsters,419,1712,13121,hawk men,ฮอว์กแมน
 15,Monsters,420,1716,13130,the ,
 15,Monsters,421,1720,13135,the ,
 15,Monsters,422,1724,13140,a ,
 15,Monsters,423,1728,13143,some ,
-15,Monsters,424,1732,13149,powie yowie,
-15,Monsters,425,1736,13161,powie yowie,
+15,Monsters,424,1732,13149,powie yowie,โพวี่โยวี่
+15,Monsters,425,1736,13161,powie yowie,โพวี่โยวี่
 15,Monsters,426,1740,13173,,
-15,Monsters,427,1744,13174,powie yowies,
+15,Monsters,427,1744,13174,powie yowies,โพวี่โยวี่
 15,Monsters,428,1748,13187,the ,
 15,Monsters,429,1752,13192,the ,
 15,Monsters,430,1756,13197,a ,
 15,Monsters,431,1760,13200,some ,
-15,Monsters,432,1764,13206,metal slime,
-15,Monsters,433,1768,13218,metal slime,
+15,Monsters,432,1764,13206,metal slime,เมทัลสไลม์
+15,Monsters,433,1768,13218,metal slime,เมทัลสไลม์
 15,Monsters,434,1772,13230,,
-15,Monsters,435,1776,13231,metal slimes,
+15,Monsters,435,1776,13231,metal slimes,เมทัลสไลม์
 15,Monsters,436,1780,13244,the ,
 15,Monsters,437,1784,13249,the ,
 15,Monsters,438,1788,13254,a ,
 15,Monsters,439,1792,13257,some ,
-15,Monsters,440,1796,13263,king cureslime,
-15,Monsters,441,1800,13278,king cureslime,
+15,Monsters,440,1796,13263,king cureslime,คิงเคียวร์สไลม์
+15,Monsters,441,1800,13278,king cureslime,คิงเคียวร์สไลม์
 15,Monsters,442,1804,13293,,
-15,Monsters,443,1808,13294,king cureslimes,
+15,Monsters,443,1808,13294,king cureslimes,คิงเคียวร์สไลม์
 15,Monsters,444,1812,13310,the ,
 15,Monsters,445,1816,13315,the ,
 15,Monsters,446,1820,13320,a ,
 15,Monsters,447,1824,13323,some ,
-15,Monsters,448,1828,13329,man o' war,
-15,Monsters,449,1832,13340,man o' war,
+15,Monsters,448,1828,13329,man o' war,แมงกะพรุนพิษ
+15,Monsters,449,1832,13340,man o' war,แมงกะพรุนพิษ
 15,Monsters,450,1836,13351,,
-15,Monsters,451,1840,13352,men o' war,
+15,Monsters,451,1840,13352,men o' war,แมงกะพรุนพิษ
 15,Monsters,452,1844,13363,the ,
 15,Monsters,453,1848,13368,the ,
 15,Monsters,454,1852,13373,a ,
 15,Monsters,455,1856,13376,some ,
-15,Monsters,456,1860,13382,gold golem,
-15,Monsters,457,1864,13393,gold golem,
+15,Monsters,456,1860,13382,gold golem,โกลด์โกเลม
+15,Monsters,457,1864,13393,gold golem,โกลด์โกเลม
 15,Monsters,458,1868,13404,,
-15,Monsters,459,1872,13405,gold golems,
+15,Monsters,459,1872,13405,gold golems,โกลด์โกเลม
 15,Monsters,460,1876,13417,the ,
 15,Monsters,461,1880,13422,the ,
 15,Monsters,462,1884,13427,a ,
 15,Monsters,463,1888,13430,some ,
-15,Monsters,464,1892,13436,lethal armour,
-15,Monsters,465,1896,13450,lethal armour,
+15,Monsters,464,1892,13436,lethal armour,เกราะสังหาร
+15,Monsters,465,1896,13450,lethal armour,เกราะสังหาร
 15,Monsters,466,1900,13464,,
-15,Monsters,467,1904,13465,lethal armours,
+15,Monsters,467,1904,13465,lethal armours,เกราะสังหาร
 15,Monsters,468,1908,13480,the ,
 15,Monsters,469,1912,13485,the ,
 15,Monsters,470,1916,13490,a ,
 15,Monsters,471,1920,13493,some ,
-15,Monsters,472,1924,13499,toxic zombie,
-15,Monsters,473,1928,13512,toxic zombie,
+15,Monsters,472,1924,13499,toxic zombie,ซอมบี้พิษ
+15,Monsters,473,1928,13512,toxic zombie,ซอมบี้พิษ
 15,Monsters,474,1932,13525,,
-15,Monsters,475,1936,13526,toxic zombies,
+15,Monsters,475,1936,13526,toxic zombies,ซอมบี้พิษ
 15,Monsters,476,1940,13540,the ,
 15,Monsters,477,1944,13545,the ,
 15,Monsters,478,1948,13550,a ,
 15,Monsters,479,1952,13553,some ,
-15,Monsters,480,1956,13559,bubble slime,
-15,Monsters,481,1960,13572,bubble slime,
+15,Monsters,480,1956,13559,bubble slime,บับเบิ้ลสไลม์
+15,Monsters,481,1960,13572,bubble slime,บับเบิ้ลสไลม์
 15,Monsters,482,1964,13585,,
-15,Monsters,483,1968,13586,bubble slimes,
+15,Monsters,483,1968,13586,bubble slimes,บับเบิ้ลสไลม์
 15,Monsters,484,1972,13600,the ,
 15,Monsters,485,1976,13605,the ,
 15,Monsters,486,1980,13610,a ,
 15,Monsters,487,1984,13613,some ,
-15,Monsters,488,1988,13619,drackyma,
-15,Monsters,489,1992,13628,drackyma,
+15,Monsters,488,1988,13619,drackyma,ดรากี้ม่า
+15,Monsters,489,1992,13628,drackyma,ดรากี้ม่า
 15,Monsters,490,1996,13637,,
-15,Monsters,491,2000,13638,drackymas,
+15,Monsters,491,2000,13638,drackymas,ดรากี้ม่า
 15,Monsters,492,2004,13648,the ,
 15,Monsters,493,2008,13653,the ,
 15,Monsters,494,2012,13658,a ,
 15,Monsters,495,2016,13661,some ,
-15,Monsters,496,2020,13667,cannibox,
-15,Monsters,497,2024,13676,cannibox,
+15,Monsters,496,2020,13667,cannibox,หีบกินคน
+15,Monsters,497,2024,13676,cannibox,หีบกินคน
 15,Monsters,498,2028,13685,,
-15,Monsters,499,2032,13686,canniboxes,
+15,Monsters,499,2032,13686,canniboxes,หีบกินคน
 15,Monsters,500,2036,13697,the ,
 15,Monsters,501,2040,13702,the ,
 15,Monsters,502,2044,13707,a ,
 15,Monsters,503,2048,13710,some ,
-15,Monsters,504,2052,13716,bag o' laughs,
-15,Monsters,505,2056,13730,bag o' laughs,
+15,Monsters,504,2052,13716,bag o' laughs,ถุงหัวเราะ
+15,Monsters,505,2056,13730,bag o' laughs,ถุงหัวเราะ
 15,Monsters,506,2060,13744,,
-15,Monsters,507,2064,13745,bags o' laughs,
+15,Monsters,507,2064,13745,bags o' laughs,ถุงหัวเราะ
 15,Monsters,508,2068,13760,the ,
 15,Monsters,509,2072,13765,the ,
 15,Monsters,510,2076,13770,a ,
 15,Monsters,511,2080,13773,some ,
-15,Monsters,512,2084,13779,Atlas,
-15,Monsters,513,2088,13785,Atlas,
+15,Monsters,512,2084,13779,Atlas,แอตลาส
+15,Monsters,513,2088,13785,Atlas,แอตลาส
 15,Monsters,514,2092,13791,,
-15,Monsters,515,2096,13792,Atlases,
+15,Monsters,515,2096,13792,Atlases,แอตลาส
 15,Monsters,516,2100,13800,,
 15,Monsters,517,2104,13801,,
 15,Monsters,518,2108,13802,,
 15,Monsters,519,2112,13803,,
-15,Monsters,520,2116,13804,treeface,
-15,Monsters,521,2120,13813,treeface,
+15,Monsters,520,2116,13804,treeface,หน้าต้นไม้
+15,Monsters,521,2120,13813,treeface,หน้าต้นไม้
 15,Monsters,522,2124,13822,,
-15,Monsters,523,2128,13823,treefaces,
+15,Monsters,523,2128,13823,treefaces,หน้าต้นไม้
 15,Monsters,524,2132,13833,the ,
 15,Monsters,525,2136,13838,the ,
 15,Monsters,526,2140,13843,a ,
 15,Monsters,527,2144,13846,some ,
-15,Monsters,528,2148,13852,hoodlum,
-15,Monsters,529,2152,13860,hoodlum,
+15,Monsters,528,2148,13852,hoodlum,ฮูดลัม
+15,Monsters,529,2152,13860,hoodlum,ฮูดลัม
 15,Monsters,530,2156,13868,,
-15,Monsters,531,2160,13869,hoodlums,
+15,Monsters,531,2160,13869,hoodlums,ฮูดลัม
 15,Monsters,532,2164,13878,the ,
 15,Monsters,533,2168,13883,the ,
 15,Monsters,534,2172,13888,a ,
 15,Monsters,535,2176,13891,some ,
-15,Monsters,536,2180,13897,metal slime knight,
-15,Monsters,537,2184,13916,metal slime knight,
+15,Monsters,536,2180,13897,metal slime knight,เมทัลสไลม์ไนท์
+15,Monsters,537,2184,13916,metal slime knight,เมทัลสไลม์ไนท์
 15,Monsters,538,2188,13935,,
-15,Monsters,539,2192,13936,metal slime knights,
+15,Monsters,539,2192,13936,metal slime knights,เมทัลสไลม์ไนท์
 15,Monsters,540,2196,13956,the ,
 15,Monsters,541,2200,13961,the ,
 15,Monsters,542,2204,13966,a ,
 15,Monsters,543,2208,13969,some ,
-15,Monsters,544,2212,13975,bloody hand,
-15,Monsters,545,2216,13987,bloody hand,
+15,Monsters,544,2212,13975,bloody hand,มือโลหิต
+15,Monsters,545,2216,13987,bloody hand,มือโลหิต
 15,Monsters,546,2220,13999,,
-15,Monsters,547,2224,14000,bloody hands,
+15,Monsters,547,2224,14000,bloody hands,มือโลหิต
 15,Monsters,548,2228,14013,the ,
 15,Monsters,549,2232,14018,the ,
 15,Monsters,550,2236,14023,a ,
 15,Monsters,551,2240,14026,some ,
-15,Monsters,552,2244,14032,green dragon,
-15,Monsters,553,2248,14045,green dragon,
+15,Monsters,552,2244,14032,green dragon,มังกรเขียว
+15,Monsters,553,2248,14045,green dragon,มังกรเขียว
 15,Monsters,554,2252,14058,,
-15,Monsters,555,2256,14059,green dragons,
+15,Monsters,555,2256,14059,green dragons,มังกรเขียว
 15,Monsters,556,2260,14073,the ,
 15,Monsters,557,2264,14078,the ,
 15,Monsters,558,2268,14083,a ,
 15,Monsters,559,2272,14086,some ,
-15,Monsters,560,2276,14092,mandrake major,
-15,Monsters,561,2280,14107,mandrake major,
+15,Monsters,560,2276,14092,mandrake major,แมนเดรกเมเจอร์
+15,Monsters,561,2280,14107,mandrake major,แมนเดรกเมเจอร์
 15,Monsters,562,2284,14122,,
-15,Monsters,563,2288,14123,mandrake majors,
+15,Monsters,563,2288,14123,mandrake majors,แมนเดรกเมเจอร์
 15,Monsters,564,2292,14139,the ,
 15,Monsters,565,2296,14144,the ,
 15,Monsters,566,2300,14149,a ,
 15,Monsters,567,2304,14152,some ,
-15,Monsters,568,2308,14158,drackmage,
-15,Monsters,569,2312,14168,drackmage,
+15,Monsters,568,2308,14158,drackmage,ดราคเมจ
+15,Monsters,569,2312,14168,drackmage,ดราคเมจ
 15,Monsters,570,2316,14178,,
-15,Monsters,571,2320,14179,drackmages,
+15,Monsters,571,2320,14179,drackmages,ดราคเมจ
 15,Monsters,572,2324,14190,the ,
 15,Monsters,573,2328,14195,the ,
 15,Monsters,574,2332,14200,a ,
 15,Monsters,575,2336,14203,some ,
-15,Monsters,576,2340,14209,Pandora's box,
-15,Monsters,577,2344,14223,Pandora's box,
+15,Monsters,576,2340,14209,Pandora's box,กล่องแพนโดร่า
+15,Monsters,577,2344,14223,Pandora's box,กล่องแพนโดร่า
 15,Monsters,578,2348,14237,,
-15,Monsters,579,2352,14238,Pandora's boxes,
+15,Monsters,579,2352,14238,Pandora's boxes,กล่องแพนโดร่า
 15,Monsters,580,2356,14254,the ,
 15,Monsters,581,2360,14259,the ,
 15,Monsters,582,2364,14264,a ,
 15,Monsters,583,2368,14267,some ,
-15,Monsters,584,2372,14273,bone baron,
-15,Monsters,585,2376,14284,bone baron,
+15,Monsters,584,2372,14273,bone baron,บอนบารอน
+15,Monsters,585,2376,14284,bone baron,บอนบารอน
 15,Monsters,586,2380,14295,,
-15,Monsters,587,2384,14296,bone barons,
+15,Monsters,587,2384,14296,bone barons,บอนบารอน
 15,Monsters,588,2388,14308,the ,
 15,Monsters,589,2392,14313,the ,
 15,Monsters,590,2396,14318,a ,
 15,Monsters,591,2400,14321,some ,
-15,Monsters,592,2404,14327,Type G0,
-15,Monsters,593,2408,14335,Type G0,
+15,Monsters,592,2404,14327,Type G0,ไทป์ G0
+15,Monsters,593,2408,14335,Type G0,ไทป์ G0
 15,Monsters,594,2412,14343,,
-15,Monsters,595,2416,14344,Type G0s,
+15,Monsters,595,2416,14344,Type G0s,ไทป์ G0
 15,Monsters,596,2420,14353,the ,
 15,Monsters,597,2424,14358,the ,
 15,Monsters,598,2428,14363,a ,
 15,Monsters,599,2432,14366,some ,
-15,Monsters,600,2436,14372,dread dragon,
-15,Monsters,601,2440,14385,dread dragon,
+15,Monsters,600,2436,14372,dread dragon,มังกรทมิฬ
+15,Monsters,601,2440,14385,dread dragon,มังกรทมิฬ
 15,Monsters,602,2444,14398,,
-15,Monsters,603,2448,14399,dread dragons,
+15,Monsters,603,2448,14399,dread dragons,มังกรทมิฬ
 15,Monsters,604,2452,14413,the ,
 15,Monsters,605,2456,14418,the ,
 15,Monsters,606,2460,14423,a ,
 15,Monsters,607,2464,14426,some ,
-15,Monsters,608,2468,14432,gryphon,
-15,Monsters,609,2472,14440,gryphon,
+15,Monsters,608,2468,14432,gryphon,กริฟฟอน
+15,Monsters,609,2472,14440,gryphon,กริฟฟอน
 15,Monsters,610,2476,14448,,
-15,Monsters,611,2480,14449,gryphons,
+15,Monsters,611,2480,14449,gryphons,กริฟฟอน
 15,Monsters,612,2484,14458,the ,
 15,Monsters,613,2488,14463,the ,
 15,Monsters,614,2492,14468,a ,
 15,Monsters,615,2496,14471,some ,
-15,Monsters,616,2500,14477,hellion,
-15,Monsters,617,2504,14485,hellion,
+15,Monsters,616,2500,14477,hellion,เฮลเลียน
+15,Monsters,617,2504,14485,hellion,เฮลเลียน
 15,Monsters,618,2508,14493,,
-15,Monsters,619,2512,14494,hellions,
+15,Monsters,619,2512,14494,hellions,เฮลเลียน
 15,Monsters,620,2516,14503,the ,
 15,Monsters,621,2520,14508,the ,
 15,Monsters,622,2524,14513,a ,
 15,Monsters,623,2528,14516,some ,
-15,Monsters,624,2532,14522,cosmic chimaera,
-15,Monsters,625,2536,14538,cosmic chimaera,
+15,Monsters,624,2532,14522,cosmic chimaera,คอสมิกคิเมร่า
+15,Monsters,625,2536,14538,cosmic chimaera,คอสมิกคิเมร่า
 15,Monsters,626,2540,14554,,
-15,Monsters,627,2544,14555,cosmic chimaeras,
+15,Monsters,627,2544,14555,cosmic chimaeras,คอสมิกคิเมร่า
 15,Monsters,628,2548,14572,the ,
 15,Monsters,629,2552,14577,the ,
 15,Monsters,630,2556,14582,a ,
 15,Monsters,631,2560,14585,some ,
-15,Monsters,632,2564,14591,teeny sanguini,
-15,Monsters,633,2568,14606,teeny sanguini,
+15,Monsters,632,2564,14591,teeny sanguini,ทีนี่แซงกวินี่
+15,Monsters,633,2568,14606,teeny sanguini,ทีนี่แซงกวินี่
 15,Monsters,634,2572,14621,,
-15,Monsters,635,2576,14622,teeny sanguinis,
+15,Monsters,635,2576,14622,teeny sanguinis,ทีนี่แซงกวินี่
 15,Monsters,636,2580,14638,the ,
 15,Monsters,637,2584,14643,the ,
 15,Monsters,638,2588,14648,a ,
 15,Monsters,639,2592,14651,some ,
-15,Monsters,640,2596,14657,skeleton soldier,
-15,Monsters,641,2600,14674,skeleton soldier,
+15,Monsters,640,2596,14657,skeleton soldier,ทหารโครงกระดูก
+15,Monsters,641,2600,14674,skeleton soldier,ทหารโครงกระดูก
 15,Monsters,642,2604,14691,,
-15,Monsters,643,2608,14692,skeleton soldiers,
+15,Monsters,643,2608,14692,skeleton soldiers,ทหารโครงกระดูก
 15,Monsters,644,2612,14710,the ,
 15,Monsters,645,2616,14715,the ,
 15,Monsters,646,2620,14720,a ,
 15,Monsters,647,2624,14723,some ,
-15,Monsters,648,2628,14729,boss troll,
-15,Monsters,649,2632,14740,boss troll,
+15,Monsters,648,2628,14729,boss troll,บอสโทรลล์
+15,Monsters,649,2632,14740,boss troll,บอสโทรลล์
 15,Monsters,650,2636,14751,,
-15,Monsters,651,2640,14752,boss trolls,
+15,Monsters,651,2640,14752,boss trolls,บอสโทรลล์
 15,Monsters,652,2644,14764,the ,
 15,Monsters,653,2648,14769,the ,
 15,Monsters,654,2652,14774,a ,
 15,Monsters,655,2656,14777,some ,
-15,Monsters,656,2660,14783,sorcerer,
-15,Monsters,657,2664,14792,sorcerer,
+15,Monsters,656,2660,14783,sorcerer,ซอร์เซอเรอร์
+15,Monsters,657,2664,14792,sorcerer,ซอร์เซอเรอร์
 15,Monsters,658,2668,14801,,
-15,Monsters,659,2672,14802,sorcerers,
+15,Monsters,659,2672,14802,sorcerers,ซอร์เซอเรอร์
 15,Monsters,660,2676,14812,the ,
 15,Monsters,661,2680,14817,the ,
 15,Monsters,662,2684,14822,a ,
 15,Monsters,663,2688,14825,some ,
-15,Monsters,664,2692,14831,pink sanguini,
-15,Monsters,665,2696,14845,pink sanguini,
+15,Monsters,664,2692,14831,pink sanguini,พิงค์แซงกวินี่
+15,Monsters,665,2696,14845,pink sanguini,พิงค์แซงกวินี่
 15,Monsters,666,2700,14859,,
-15,Monsters,667,2704,14860,pink sanguinis,
+15,Monsters,667,2704,14860,pink sanguinis,พิงค์แซงกวินี่
 15,Monsters,668,2708,14875,the ,
 15,Monsters,669,2712,14880,the ,
 15,Monsters,670,2716,14885,a ,
 15,Monsters,671,2720,14888,some ,
-15,Monsters,672,2724,14894,skeleton,
-15,Monsters,673,2728,14903,skeleton,
+15,Monsters,672,2724,14894,skeleton,โครงกระดูก
+15,Monsters,673,2728,14903,skeleton,โครงกระดูก
 15,Monsters,674,2732,14912,,
-15,Monsters,675,2736,14913,skeletons,
+15,Monsters,675,2736,14913,skeletons,โครงกระดูก
 15,Monsters,676,2740,14923,the ,
 15,Monsters,677,2744,14928,the ,
 15,Monsters,678,2748,14933,a ,
 15,Monsters,679,2752,14936,some ,
-15,Monsters,680,2756,14942,wight king,
-15,Monsters,681,2760,14953,wight king,
+15,Monsters,680,2756,14942,wight king,ไวท์คิง
+15,Monsters,681,2760,14953,wight king,ไวท์คิง
 15,Monsters,682,2764,14964,,
-15,Monsters,683,2768,14965,wight kings,
+15,Monsters,683,2768,14965,wight kings,ไวท์คิง
 15,Monsters,684,2772,14977,the ,
 15,Monsters,685,2776,14982,the ,
 15,Monsters,686,2780,14987,a ,
 15,Monsters,687,2784,14990,some ,
-15,Monsters,688,2788,14996,shaman,
-15,Monsters,689,2792,15003,shaman,
+15,Monsters,688,2788,14996,shaman,ชาแมน
+15,Monsters,689,2792,15003,shaman,ชาแมน
 15,Monsters,690,2796,15010,,
-15,Monsters,691,2800,15011,shamans,
+15,Monsters,691,2800,15011,shamans,ชาแมน
 15,Monsters,692,2804,15019,the ,
 15,Monsters,693,2808,15024,the ,
 15,Monsters,694,2812,15029,a ,
 15,Monsters,695,2816,15032,some ,
-15,Monsters,696,2820,15038,genie sanguini,
-15,Monsters,697,2824,15053,genie sanguini,
+15,Monsters,696,2820,15038,genie sanguini,จีนี่แซงกวินี่
+15,Monsters,697,2824,15053,genie sanguini,จีนี่แซงกวินี่
 15,Monsters,698,2828,15068,,
-15,Monsters,699,2832,15069,genie sanguinis,
+15,Monsters,699,2832,15069,genie sanguinis,จีนี่แซงกวินี่
 15,Monsters,700,2836,15085,the ,
 15,Monsters,701,2840,15090,the ,
 15,Monsters,702,2844,15095,a ,
 15,Monsters,703,2848,15098,some ,
-15,Monsters,704,2852,15104,dark skeleton,
-15,Monsters,705,2856,15118,dark skeleton,
+15,Monsters,704,2852,15104,dark skeleton,โครงกระดูกทมิฬ
+15,Monsters,705,2856,15118,dark skeleton,โครงกระดูกทมิฬ
 15,Monsters,706,2860,15132,,
-15,Monsters,707,2864,15133,dark skeletons,
+15,Monsters,707,2864,15133,dark skeletons,โครงกระดูกทมิฬ
 15,Monsters,708,2868,15148,the ,
 15,Monsters,709,2872,15153,the ,
 15,Monsters,710,2876,15158,a ,
 15,Monsters,711,2880,15161,some ,
-15,Monsters,712,2884,15167,stone guardian,
-15,Monsters,713,2888,15182,stone guardian,
+15,Monsters,712,2884,15167,stone guardian,สโตนการ์เดียน
+15,Monsters,713,2888,15182,stone guardian,สโตนการ์เดียน
 15,Monsters,714,2892,15197,,
-15,Monsters,715,2896,15198,stone guardians,
+15,Monsters,715,2896,15198,stone guardians,สโตนการ์เดียน
 15,Monsters,716,2900,15214,the ,
 15,Monsters,717,2904,15219,the ,
 15,Monsters,718,2908,15224,a ,
 15,Monsters,719,2912,15227,some ,
-15,Monsters,720,2916,15233,magus,
-15,Monsters,721,2920,15239,magus,
+15,Monsters,720,2916,15233,magus,เมกัส
+15,Monsters,721,2920,15239,magus,เมกัส
 15,Monsters,722,2924,15245,,
-15,Monsters,723,2928,15246,magi,
+15,Monsters,723,2928,15246,magi,เมกัส
 15,Monsters,724,2932,15251,the ,
 15,Monsters,725,2936,15256,the ,
 15,Monsters,726,2940,15261,a ,
 15,Monsters,727,2944,15264,some ,
-15,Monsters,728,2948,15270,moosifer,
-15,Monsters,729,2952,15279,moosifer,
+15,Monsters,728,2948,15270,moosifer,มูซิเฟอร์
+15,Monsters,729,2952,15279,moosifer,มูซิเฟอร์
 15,Monsters,730,2956,15288,,
-15,Monsters,731,2960,15289,moosifers,
+15,Monsters,731,2960,15289,moosifers,มูซิเฟอร์
 15,Monsters,732,2964,15299,the ,
 15,Monsters,733,2968,15304,the ,
 15,Monsters,734,2972,15309,a ,
 15,Monsters,735,2976,15312,some ,
-15,Monsters,736,2980,15318,night clubber,
-15,Monsters,737,2984,15332,night clubber,
+15,Monsters,736,2980,15318,night clubber,ไนท์คลับเบอร์
+15,Monsters,737,2984,15332,night clubber,ไนท์คลับเบอร์
 15,Monsters,738,2988,15346,,
-15,Monsters,739,2992,15347,night clubbers,
+15,Monsters,739,2992,15347,night clubbers,ไนท์คลับเบอร์
 15,Monsters,740,2996,15362,the ,
 15,Monsters,741,3000,15367,the ,
 15,Monsters,742,3004,15372,a ,
 15,Monsters,743,3008,15375,some ,
-15,Monsters,744,3012,15381,drakulard,
-15,Monsters,745,3016,15391,drakulard,
+15,Monsters,744,3012,15381,drakulard,ดราคูลาร์ด
+15,Monsters,745,3016,15391,drakulard,ดราคูลาร์ด
 15,Monsters,746,3020,15401,,
-15,Monsters,747,3024,15402,drakulards,
+15,Monsters,747,3024,15402,drakulards,ดราคูลาร์ด
 15,Monsters,748,3028,15413,the ,
 15,Monsters,749,3032,15418,the ,
 15,Monsters,750,3036,15423,a ,
 15,Monsters,751,3040,15426,some ,
-15,Monsters,752,3044,15432,knight aberrant,
-15,Monsters,753,3048,15448,knight aberrant,
+15,Monsters,752,3044,15432,knight aberrant,ไนท์แอบเบอร์แรนต์
+15,Monsters,753,3048,15448,knight aberrant,ไนท์แอบเบอร์แรนต์
 15,Monsters,754,3052,15464,,
-15,Monsters,755,3056,15465,knights aberrant,
+15,Monsters,755,3056,15465,knights aberrant,ไนท์แอบเบอร์แรนต์
 15,Monsters,756,3060,15482,the ,
 15,Monsters,757,3064,15487,the ,
 15,Monsters,758,3068,15492,a ,
 15,Monsters,759,3072,15495,some ,
-15,Monsters,760,3076,15501,grinade,
-15,Monsters,761,3080,15509,grinade,
+15,Monsters,760,3076,15501,grinade,กรีเนด
+15,Monsters,761,3080,15509,grinade,กรีเนด
 15,Monsters,762,3084,15517,,
-15,Monsters,763,3088,15518,grinades,
+15,Monsters,763,3088,15518,grinades,กรีเนด
 15,Monsters,764,3092,15527,the ,
 15,Monsters,765,3096,15532,the ,
 15,Monsters,766,3100,15537,a ,
 15,Monsters,767,3104,15540,some ,
-15,Monsters,768,3108,15546,stout troll,
-15,Monsters,769,3112,15558,stout troll,
+15,Monsters,768,3108,15546,stout troll,สเตาต์โทรลล์
+15,Monsters,769,3112,15558,stout troll,สเตาต์โทรลล์
 15,Monsters,770,3116,15570,,
-15,Monsters,771,3120,15571,stout trolls,
+15,Monsters,771,3120,15571,stout trolls,สเตาต์โทรลล์
 15,Monsters,772,3124,15584,the ,
 15,Monsters,773,3128,15589,the ,
 15,Monsters,774,3132,15594,a ,
 15,Monsters,775,3136,15597,some ,
-15,Monsters,776,3140,15603,brownie,
-15,Monsters,777,3144,15611,brownie,
+15,Monsters,776,3140,15603,brownie,บราวนี่
+15,Monsters,777,3144,15611,brownie,บราวนี่
 15,Monsters,778,3148,15619,,
-15,Monsters,779,3152,15620,brownies,
+15,Monsters,779,3152,15620,brownies,บราวนี่
 15,Monsters,780,3156,15629,the ,
 15,Monsters,781,3160,15634,the ,
 15,Monsters,782,3164,15639,a ,
 15,Monsters,783,3168,15642,some ,
-15,Monsters,784,3172,15648,missing lynx,
-15,Monsters,785,3176,15661,missing lynx,
+15,Monsters,784,3172,15648,missing lynx,ลิงซ์ล่องหน
+15,Monsters,785,3176,15661,missing lynx,ลิงซ์ล่องหน
 15,Monsters,786,3180,15674,,
-15,Monsters,787,3184,15675,missing lynxes,
+15,Monsters,787,3184,15675,missing lynxes,ลิงซ์ล่องหน
 15,Monsters,788,3188,15690,the ,
 15,Monsters,789,3192,15695,the ,
 15,Monsters,790,3196,15700,a ,
 15,Monsters,791,3200,15703,some ,
-15,Monsters,792,3204,15709,zombie gladiator,
-15,Monsters,793,3208,15726,zombie gladiator,
+15,Monsters,792,3204,15709,zombie gladiator,ซอมบี้กลาดิเอเตอร์
+15,Monsters,793,3208,15726,zombie gladiator,ซอมบี้กลาดิเอเตอร์
 15,Monsters,794,3212,15743,,
-15,Monsters,795,3216,15744,zombie gladiators,
+15,Monsters,795,3216,15744,zombie gladiators,ซอมบี้กลาดิเอเตอร์
 15,Monsters,796,3220,15762,the ,
 15,Monsters,797,3224,15767,the ,
 15,Monsters,798,3228,15772,a ,
 15,Monsters,799,3232,15775,some ,
-15,Monsters,800,3236,15781,hell gladiator,
-15,Monsters,801,3240,15796,hell gladiator,
+15,Monsters,800,3236,15781,hell gladiator,เฮลกลาดิเอเตอร์
+15,Monsters,801,3240,15796,hell gladiator,เฮลกลาดิเอเตอร์
 15,Monsters,802,3244,15811,,
-15,Monsters,803,3248,15812,hell gladiators,
+15,Monsters,803,3248,15812,hell gladiators,เฮลกลาดิเอเตอร์
 15,Monsters,804,3252,15828,the ,
 15,Monsters,805,3256,15833,the ,
 15,Monsters,806,3260,15838,a ,
 15,Monsters,807,3264,15841,some ,
-15,Monsters,808,3268,15847,King of Klor,
-15,Monsters,809,3272,15860,King of Klor,
+15,Monsters,808,3268,15847,King of Klor,กษัตริย์แห่งคลอร์
+15,Monsters,809,3272,15860,King of Klor,กษัตริย์แห่งคลอร์
 15,Monsters,810,3276,15873,,
-15,Monsters,811,3280,15874,Kings of Klor,
+15,Monsters,811,3280,15874,Kings of Klor,กษัตริย์แห่งคลอร์
 15,Monsters,812,3284,15888,the ,
 15,Monsters,813,3288,15893,the ,
 15,Monsters,814,3292,15898,the ,
 15,Monsters,815,3296,15903,the ,
-15,Monsters,816,3300,15908,overkilling machine,
-15,Monsters,817,3304,15928,overkilling machine,
+15,Monsters,816,3300,15908,overkilling machine,โอเวอร์คิลเลอร์แมชชีน
+15,Monsters,817,3304,15928,overkilling machine,โอเวอร์คิลเลอร์แมชชีน
 15,Monsters,818,3308,15948,,
-15,Monsters,819,3312,15949,overkilling machines,
+15,Monsters,819,3312,15949,overkilling machines,โอเวอร์คิลเลอร์แมชชีน
 15,Monsters,820,3316,15970,the ,
 15,Monsters,821,3320,15975,the ,
 15,Monsters,822,3324,15980,an ,
 15,Monsters,823,3328,15984,some ,
-15,Monsters,824,3332,15990,low djinks,
-15,Monsters,825,3336,16001,low djinks,
+15,Monsters,824,3332,15990,low djinks,ยักษ์จินนี่น้อย
+15,Monsters,825,3336,16001,low djinks,ยักษ์จินนี่น้อย
 15,Monsters,826,3340,16012,,
-15,Monsters,827,3344,16013,low djinks,
+15,Monsters,827,3344,16013,low djinks,ยักษ์จินนี่น้อย
 15,Monsters,828,3348,16024,the ,
 15,Monsters,829,3352,16029,the ,
 15,Monsters,830,3356,16034,a ,
 15,Monsters,831,3360,16037,some ,
-15,Monsters,832,3364,16043,blood mummy,
-15,Monsters,833,3368,16055,blood mummy,
+15,Monsters,832,3364,16043,blood mummy,บลัดมัมมี่
+15,Monsters,833,3368,16055,blood mummy,บลัดมัมมี่
 15,Monsters,834,3372,16067,,
-15,Monsters,835,3376,16068,blood mummies,
+15,Monsters,835,3376,16068,blood mummies,บลัดมัมมี่
 15,Monsters,836,3380,16082,the ,
 15,Monsters,837,3384,16087,the ,
 15,Monsters,838,3388,16092,a ,
 15,Monsters,839,3392,16095,some ,
-15,Monsters,840,3396,16101,Crack-billed platypunk,
-15,Monsters,841,3400,16124,Crack-billed platypunk,
+15,Monsters,840,3396,16101,Crack-billed platypunk,โมมอนจาปากน้ำแข็ง
+15,Monsters,841,3400,16124,Crack-billed platypunk,โมมอนจาปากน้ำแข็ง
 15,Monsters,842,3404,16147,,
-15,Monsters,843,3408,16148,Crack-billed platypunks,
+15,Monsters,843,3408,16148,Crack-billed platypunks,โมมอนจาปากน้ำแข็ง
 15,Monsters,844,3412,16172,the ,
 15,Monsters,845,3416,16177,the ,
 15,Monsters,846,3420,16182,a ,
 15,Monsters,847,3424,16185,some ,
-15,Monsters,848,3428,16191,candy cat,
-15,Monsters,849,3432,16201,candy cat,
+15,Monsters,848,3428,16191,candy cat,แคนดี้แคท
+15,Monsters,849,3432,16201,candy cat,แคนดี้แคท
 15,Monsters,850,3436,16211,,
-15,Monsters,851,3440,16212,candy cats,
+15,Monsters,851,3440,16212,candy cats,แคนดี้แคท
 15,Monsters,852,3444,16223,the ,
 15,Monsters,853,3448,16228,the ,
 15,Monsters,854,3452,16233,a ,
 15,Monsters,855,3456,16236,some ,
-15,Monsters,856,3460,16242,Marquis de Léon,
-15,Monsters,857,3464,16259,Marquis de Léon,
+15,Monsters,856,3460,16242,Marquis de Léon,มาร์ควิส เดอ เลออน
+15,Monsters,857,3464,16259,Marquis de Léon,มาร์ควิส เดอ เลออน
 15,Monsters,858,3468,16276,,
-15,Monsters,859,3472,16277,Marquises de Léon,
+15,Monsters,859,3472,16277,Marquises de Léon,มาร์ควิส เดอ เลออน
 15,Monsters,860,3476,16296,the ,
 15,Monsters,861,3480,16301,the ,
 15,Monsters,862,3484,16306,the ,
 15,Monsters,863,3488,16311,some ,
-15,Monsters,864,3492,16317,barbatos,
-15,Monsters,865,3496,16326,barbatos,
+15,Monsters,864,3492,16317,barbatos,บาร์บาทอส
+15,Monsters,865,3496,16326,barbatos,บาร์บาทอส
 15,Monsters,866,3500,16335,,
-15,Monsters,867,3504,16336,barbatoses,
+15,Monsters,867,3504,16336,barbatoses,บาร์บาทอส
 15,Monsters,868,3508,16347,the ,
 15,Monsters,869,3512,16352,the ,
 15,Monsters,870,3516,16357,a ,
 15,Monsters,871,3520,16360,some ,
-15,Monsters,872,3524,16366,demon-at-arms,
-15,Monsters,873,3528,16380,demon-at-arms,
+15,Monsters,872,3524,16366,demon-at-arms,เดมอนแอทอาร์มส์
+15,Monsters,873,3528,16380,demon-at-arms,เดมอนแอทอาร์มส์
 15,Monsters,874,3532,16394,,
-15,Monsters,875,3536,16395,demons-at-arms,
+15,Monsters,875,3536,16395,demons-at-arms,เดมอนแอทอาร์มส์
 15,Monsters,876,3540,16410,the ,
 15,Monsters,877,3544,16415,the ,
 15,Monsters,878,3548,16420,a ,
 15,Monsters,879,3552,16423,some ,
-15,Monsters,880,3556,16429,pazuzu,
-15,Monsters,881,3560,16436,pazuzu,
+15,Monsters,880,3556,16429,pazuzu,พาซูซู
+15,Monsters,881,3560,16436,pazuzu,พาซูซู
 15,Monsters,882,3564,16443,,
-15,Monsters,883,3568,16444,pazuzus,
+15,Monsters,883,3568,16444,pazuzus,พาซูซู
 15,Monsters,884,3572,16452,the ,
 15,Monsters,885,3576,16457,the ,
 15,Monsters,886,3580,16462,a ,
 15,Monsters,887,3584,16465,some ,
-15,Monsters,888,3588,16471,überkilling machine,
-15,Monsters,889,3592,16492,überkilling machine,
+15,Monsters,888,3588,16471,überkilling machine,อูเบอร์คิลเลอร์แมชชีน
+15,Monsters,889,3592,16492,überkilling machine,อูเบอร์คิลเลอร์แมชชีน
 15,Monsters,890,3596,16513,,
-15,Monsters,891,3600,16514,überkilling machines,
+15,Monsters,891,3600,16514,überkilling machines,อูเบอร์คิลเลอร์แมชชีน
 15,Monsters,892,3604,16536,the ,
 15,Monsters,893,3608,16541,the ,
 15,Monsters,894,3612,16546,an ,
 15,Monsters,895,3616,16550,some ,
-15,Monsters,896,3620,16556,belial,
-15,Monsters,897,3624,16563,belial,
+15,Monsters,896,3620,16556,belial,เบลิอัล
+15,Monsters,897,3624,16563,belial,เบลิอัล
 15,Monsters,898,3628,16570,,
-15,Monsters,899,3632,16571,belials,
+15,Monsters,899,3632,16571,belials,เบลิอัล
 15,Monsters,900,3636,16579,the ,
 15,Monsters,901,3640,16584,the ,
 15,Monsters,902,3644,16589,a ,
 15,Monsters,903,3648,16592,some ,
-15,Monsters,904,3652,16598,bodkin fletcher,
-15,Monsters,905,3656,16614,bodkin fletcher,
+15,Monsters,904,3652,16598,bodkin fletcher,บ็อดกินเฟลตเชอร์
+15,Monsters,905,3656,16614,bodkin fletcher,บ็อดกินเฟลตเชอร์
 15,Monsters,906,3660,16630,,
-15,Monsters,907,3664,16631,bodkin fletchers,
+15,Monsters,907,3664,16631,bodkin fletchers,บ็อดกินเฟลตเชอร์
 15,Monsters,908,3668,16648,the ,
 15,Monsters,909,3672,16653,the ,
 15,Monsters,910,3676,16658,a ,
 15,Monsters,911,3680,16661,some ,
-15,Monsters,912,3684,16667,mawkeeper,
-15,Monsters,913,3688,16677,mawkeeper,
+15,Monsters,912,3684,16667,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,913,3688,16677,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,914,3692,16687,,
-15,Monsters,915,3696,16688,mawkeepers,
+15,Monsters,915,3696,16688,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,916,3700,16699,the ,
 15,Monsters,917,3704,16704,the ,
 15,Monsters,918,3708,16709,a ,
 15,Monsters,919,3712,16712,some ,
-15,Monsters,920,3716,16718,mawkeeper,
-15,Monsters,921,3720,16728,mawkeeper,
+15,Monsters,920,3716,16718,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,921,3720,16728,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,922,3724,16738,,
-15,Monsters,923,3728,16739,mawkeepers,
+15,Monsters,923,3728,16739,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,924,3732,16750,the ,
 15,Monsters,925,3736,16755,the ,
 15,Monsters,926,3740,16760,a ,
 15,Monsters,927,3744,16763,some ,
-15,Monsters,928,3748,16769,mawkeeper,
-15,Monsters,929,3752,16779,mawkeeper,
+15,Monsters,928,3748,16769,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,929,3752,16779,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,930,3756,16789,,
-15,Monsters,931,3760,16790,mawkeepers,
+15,Monsters,931,3760,16790,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,932,3764,16801,the ,
 15,Monsters,933,3768,16806,the ,
 15,Monsters,934,3772,16811,a ,
 15,Monsters,935,3776,16814,some ,
-15,Monsters,936,3780,16820,mawkeeper,
-15,Monsters,937,3784,16830,mawkeeper,
+15,Monsters,936,3780,16820,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,937,3784,16830,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,938,3788,16840,,
-15,Monsters,939,3792,16841,mawkeepers,
+15,Monsters,939,3792,16841,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,940,3796,16852,the ,
 15,Monsters,941,3800,16857,the ,
 15,Monsters,942,3804,16862,a ,
 15,Monsters,943,3808,16865,some ,
-15,Monsters,944,3812,16871,mawkeeper,
-15,Monsters,945,3816,16881,mawkeeper,
+15,Monsters,944,3812,16871,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,945,3816,16881,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,946,3820,16891,,
-15,Monsters,947,3824,16892,mawkeepers,
+15,Monsters,947,3824,16892,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,948,3828,16903,the ,
 15,Monsters,949,3832,16908,the ,
 15,Monsters,950,3836,16913,a ,
 15,Monsters,951,3840,16916,some ,
-15,Monsters,952,3844,16922,lost soul,
-15,Monsters,953,3848,16932,lost soul,
+15,Monsters,952,3844,16922,lost soul,วิญญาณหลงทาง
+15,Monsters,953,3848,16932,lost soul,วิญญาณหลงทาง
 15,Monsters,954,3852,16942,,
-15,Monsters,955,3856,16943,lost souls,
+15,Monsters,955,3856,16943,lost souls,วิญญาณหลงทาง
 15,Monsters,956,3860,16954,the ,
 15,Monsters,957,3864,16959,the ,
 15,Monsters,958,3868,16964,a ,
 15,Monsters,959,3872,16967,some ,
-15,Monsters,960,3876,16973,spitegeist,
-15,Monsters,961,3880,16984,spitegeist,
+15,Monsters,960,3876,16973,spitegeist,สไปท์ไกสต์
+15,Monsters,961,3880,16984,spitegeist,สไปท์ไกสต์
 15,Monsters,962,3884,16995,,
-15,Monsters,963,3888,16996,spitegeists,
+15,Monsters,963,3888,16996,spitegeists,สไปท์ไกสต์
 15,Monsters,964,3892,17008,the ,
 15,Monsters,965,3896,17013,the ,
 15,Monsters,966,3900,17018,a ,
 15,Monsters,967,3904,17021,some ,
-15,Monsters,968,3908,17027,magic marionette,
-15,Monsters,969,3912,17044,magic marionette,
+15,Monsters,968,3908,17027,magic marionette,หุ่นเชิดมนตรา
+15,Monsters,969,3912,17044,magic marionette,หุ่นเชิดมนตรา
 15,Monsters,970,3916,17061,,
-15,Monsters,971,3920,17062,magic marionettes,
+15,Monsters,971,3920,17062,magic marionettes,หุ่นเชิดมนตรา
 15,Monsters,972,3924,17080,the ,
 15,Monsters,973,3928,17085,the ,
 15,Monsters,974,3932,17090,a ,
 15,Monsters,975,3936,17093,some ,
-15,Monsters,976,3940,17099,King of Kadava,
-15,Monsters,977,3944,17114,King of Kadava,
+15,Monsters,976,3940,17099,King of Kadava,กษัตริย์แห่งคาดาวา
+15,Monsters,977,3944,17114,King of Kadava,กษัตริย์แห่งคาดาวา
 15,Monsters,978,3948,17129,,
-15,Monsters,979,3952,17130,Kings of Kadava,
+15,Monsters,979,3952,17130,Kings of Kadava,กษัตริย์แห่งคาดาวา
 15,Monsters,980,3956,17146,the ,
 15,Monsters,981,3960,17151,the ,
 15,Monsters,982,3964,17156,the ,
 15,Monsters,983,3968,17161,some ,
-15,Monsters,984,3972,17167,hell niño,
-15,Monsters,985,3976,17178,hell niño,
+15,Monsters,984,3972,17167,hell niño,เฮลนีโญ
+15,Monsters,985,3976,17178,hell niño,เฮลนีโญ
 15,Monsters,986,3980,17189,,
-15,Monsters,987,3984,17190,hell niños,
+15,Monsters,987,3984,17190,hell niños,เฮลนีโญ
 15,Monsters,988,3988,17202,the ,
 15,Monsters,989,3992,17207,the ,
 15,Monsters,990,3996,17212,a ,
 15,Monsters,991,4000,17215,some ,
-15,Monsters,992,4004,17221,frostburn,
-15,Monsters,993,4008,17231,frostburn,
+15,Monsters,992,4004,17221,frostburn,ฟรอสต์เบิร์น
+15,Monsters,993,4008,17231,frostburn,ฟรอสต์เบิร์น
 15,Monsters,994,4012,17241,,
-15,Monsters,995,4016,17242,frostburns,
+15,Monsters,995,4016,17242,frostburns,ฟรอสต์เบิร์น
 15,Monsters,996,4020,17253,the ,
 15,Monsters,997,4024,17258,the ,
 15,Monsters,998,4028,17263,a ,
 15,Monsters,999,4032,17266,some ,
-15,Monsters,1000,4036,17272,shade,
-15,Monsters,1001,4040,17278,shade,
+15,Monsters,1000,4036,17272,shade,เฉด
+15,Monsters,1001,4040,17278,shade,เฉด
 15,Monsters,1002,4044,17284,,
-15,Monsters,1003,4048,17285,shades,
+15,Monsters,1003,4048,17285,shades,เฉด
 15,Monsters,1004,4052,17292,the ,
 15,Monsters,1005,4056,17297,the ,
 15,Monsters,1006,4060,17302,a ,
 15,Monsters,1007,4064,17305,some ,
-15,Monsters,1008,4068,17311,sasquash,
-15,Monsters,1009,4072,17320,sasquash,
+15,Monsters,1008,4068,17311,sasquash,ซาสควอช
+15,Monsters,1009,4072,17320,sasquash,ซาสควอช
 15,Monsters,1010,4076,17329,,
-15,Monsters,1011,4080,17330,sasquashes,
+15,Monsters,1011,4080,17330,sasquashes,ซาสควอช
 15,Monsters,1012,4084,17341,the ,
 15,Monsters,1013,4088,17346,the ,
 15,Monsters,1014,4092,17351,a ,
 15,Monsters,1015,4096,17354,some ,
-15,Monsters,1016,4100,17360,treevil,
-15,Monsters,1017,4104,17368,treevil,
+15,Monsters,1016,4100,17360,treevil,ต้นไม้ปีศาจ
+15,Monsters,1017,4104,17368,treevil,ต้นไม้ปีศาจ
 15,Monsters,1018,4108,17376,,
-15,Monsters,1019,4112,17377,treevils,
+15,Monsters,1019,4112,17377,treevils,ต้นไม้ปีศาจ
 15,Monsters,1020,4116,17386,the ,
 15,Monsters,1021,4120,17391,the ,
 15,Monsters,1022,4124,17396,a ,
 15,Monsters,1023,4128,17399,some ,
-15,Monsters,1024,4132,17405,hood,
-15,Monsters,1025,4136,17410,hood,
+15,Monsters,1024,4132,17405,hood,จอมโจรมีฮู้ด
+15,Monsters,1025,4136,17410,hood,จอมโจรมีฮู้ด
 15,Monsters,1026,4140,17415,,
-15,Monsters,1027,4144,17416,hoods,
+15,Monsters,1027,4144,17416,hoods,จอมโจรมีฮู้ด
 15,Monsters,1028,4148,17422,the ,
 15,Monsters,1029,4152,17427,the ,
 15,Monsters,1030,4156,17432,a ,
 15,Monsters,1031,4160,17435,some ,
-15,Monsters,1032,4164,17441,mandrake marauder,
-15,Monsters,1033,4168,17459,mandrake marauder,
+15,Monsters,1032,4164,17441,mandrake marauder,แมนเดรกมารอเดอร์
+15,Monsters,1033,4168,17459,mandrake marauder,แมนเดรกมารอเดอร์
 15,Monsters,1034,4172,17477,,
-15,Monsters,1035,4176,17478,mandrake marauders,
+15,Monsters,1035,4176,17478,mandrake marauders,แมนเดรกมารอเดอร์
 15,Monsters,1036,4180,17497,the ,
 15,Monsters,1037,4184,17502,the ,
 15,Monsters,1038,4188,17507,a ,
 15,Monsters,1039,4192,17510,some ,
-15,Monsters,1040,4196,17516,grim rider,
-15,Monsters,1041,4200,17527,grim rider,
+15,Monsters,1040,4196,17516,grim rider,กริมไรเดอร์
+15,Monsters,1041,4200,17527,grim rider,กริมไรเดอร์
 15,Monsters,1042,4204,17538,,
-15,Monsters,1043,4208,17539,grim riders,
+15,Monsters,1043,4208,17539,grim riders,กริมไรเดอร์
 15,Monsters,1044,4212,17551,the ,
 15,Monsters,1045,4216,17556,the ,
 15,Monsters,1046,4220,17561,a ,
 15,Monsters,1047,4224,17564,some ,
-15,Monsters,1048,4228,17570,war gryphon,
-15,Monsters,1049,4232,17582,war gryphon,
+15,Monsters,1048,4228,17570,war gryphon,วอร์กริฟฟอน
+15,Monsters,1049,4232,17582,war gryphon,วอร์กริฟฟอน
 15,Monsters,1050,4236,17594,,
-15,Monsters,1051,4240,17595,war gryphons,
+15,Monsters,1051,4240,17595,war gryphons,วอร์กริฟฟอน
 15,Monsters,1052,4244,17608,the ,
 15,Monsters,1053,4248,17613,the ,
 15,Monsters,1054,4252,17618,a ,
 15,Monsters,1055,4256,17621,some ,
-15,Monsters,1056,4260,17627,tortured soul,
-15,Monsters,1057,4264,17641,tortured soul,
+15,Monsters,1056,4260,17627,tortured soul,วิญญาณทุกข์ทรมาน
+15,Monsters,1057,4264,17641,tortured soul,วิญญาณทุกข์ทรมาน
 15,Monsters,1058,4268,17655,,
-15,Monsters,1059,4272,17656,tortured souls,
+15,Monsters,1059,4272,17656,tortured souls,วิญญาณทุกข์ทรมาน
 15,Monsters,1060,4276,17671,the ,
 15,Monsters,1061,4280,17676,the ,
 15,Monsters,1062,4284,17681,a ,
 15,Monsters,1063,4288,17684,some ,
-15,Monsters,1064,4292,17690,Balzack,
-15,Monsters,1065,4296,17698,Balzack,
+15,Monsters,1064,4292,17690,Balzack,บัลแซค
+15,Monsters,1065,4296,17698,Balzack,บัลแซค
 15,Monsters,1066,4300,17706,,
-15,Monsters,1067,4304,17707,Balzacks,
+15,Monsters,1067,4304,17707,Balzacks,บัลแซค
 15,Monsters,1068,4308,17716,,
 15,Monsters,1069,4312,17717,,
 15,Monsters,1070,4316,17718,,
 15,Monsters,1071,4320,17719,,
-15,Monsters,1072,4324,17720,knight errant,
-15,Monsters,1073,4328,17734,knight errant,
+15,Monsters,1072,4324,17720,knight errant,อัศวินพเนจร
+15,Monsters,1073,4328,17734,knight errant,อัศวินพเนจร
 15,Monsters,1074,4332,17748,,
-15,Monsters,1075,4336,17749,knights errant,
+15,Monsters,1075,4336,17749,knights errant,อัศวินพเนจร
 15,Monsters,1076,4340,17764,the ,
 15,Monsters,1077,4344,17769,the ,
 15,Monsters,1078,4348,17774,a ,
 15,Monsters,1079,4352,17777,some ,
-15,Monsters,1080,4356,17783,winged sabrecat,
-15,Monsters,1081,4360,17799,winged sabrecat,
+15,Monsters,1080,4356,17783,winged sabrecat,เซเบอร์แคทติดปีก
+15,Monsters,1081,4360,17799,winged sabrecat,เซเบอร์แคทติดปีก
 15,Monsters,1082,4364,17815,,
-15,Monsters,1083,4368,17816,winged sabrecats,
+15,Monsters,1083,4368,17816,winged sabrecats,เซเบอร์แคทติดปีก
 15,Monsters,1084,4372,17833,the ,
 15,Monsters,1085,4376,17838,the ,
 15,Monsters,1086,4380,17843,a ,
 15,Monsters,1087,4384,17846,some ,
-15,Monsters,1088,4388,17852,King of Al-Khazam,
-15,Monsters,1089,4392,17870,King of Al-Khazam,
+15,Monsters,1088,4388,17852,King of Al-Khazam,กษัตริย์แห่งอัลคาซัม
+15,Monsters,1089,4392,17870,King of Al-Khazam,กษัตริย์แห่งอัลคาซัม
 15,Monsters,1090,4396,17888,,
-15,Monsters,1091,4400,17889,Kings of Al-Khazam,
+15,Monsters,1091,4400,17889,Kings of Al-Khazam,กษัตริย์แห่งอัลคาซัม
 15,Monsters,1092,4404,17908,the ,
 15,Monsters,1093,4408,17913,the ,
 15,Monsters,1094,4412,17918,the ,
 15,Monsters,1095,4416,17923,some ,
-15,Monsters,1096,4420,17929,cloud surfer,
-15,Monsters,1097,4424,17942,cloud surfer,
+15,Monsters,1096,4420,17929,cloud surfer,ผู้ท่องเมฆา
+15,Monsters,1097,4424,17942,cloud surfer,ผู้ท่องเมฆา
 15,Monsters,1098,4428,17955,,
-15,Monsters,1099,4432,17956,cloud surfers,
+15,Monsters,1099,4432,17956,cloud surfers,ผู้ท่องเมฆา
 15,Monsters,1100,4436,17970,the ,
 15,Monsters,1101,4440,17975,the ,
 15,Monsters,1102,4444,17980,a ,
 15,Monsters,1103,4448,17983,some ,
-15,Monsters,1104,4452,17989,mummy boy,
-15,Monsters,1105,4456,17999,mummy boy,
+15,Monsters,1104,4452,17989,mummy boy,มัมมี่บอย
+15,Monsters,1105,4456,17999,mummy boy,มัมมี่บอย
 15,Monsters,1106,4460,18009,,
-15,Monsters,1107,4464,18010,mummy boys,
+15,Monsters,1107,4464,18010,mummy boys,มัมมี่บอย
 15,Monsters,1108,4468,18021,the ,
 15,Monsters,1109,4472,18026,the ,
 15,Monsters,1110,4476,18031,a ,
 15,Monsters,1111,4480,18034,some ,
-15,Monsters,1112,4484,18040,splatypunk,
-15,Monsters,1113,4488,18051,splatypunk,
+15,Monsters,1112,4484,18040,splatypunk,สแปลทิพังก์
+15,Monsters,1113,4488,18051,splatypunk,สแปลทิพังก์
 15,Monsters,1114,4492,18062,,
-15,Monsters,1115,4496,18063,splatypunks,
+15,Monsters,1115,4496,18063,splatypunks,สแปลทิพังก์
 15,Monsters,1116,4500,18075,the ,
 15,Monsters,1117,4504,18080,the ,
 15,Monsters,1118,4508,18085,a ,
 15,Monsters,1119,4512,18088,some ,
-15,Monsters,1120,4516,18094,terror tabby,
-15,Monsters,1121,4520,18107,terror tabby,
+15,Monsters,1120,4516,18094,terror tabby,แมวลายคลั่ง
+15,Monsters,1121,4520,18107,terror tabby,แมวลายคลั่ง
 15,Monsters,1122,4524,18120,,
-15,Monsters,1123,4528,18121,terror tabbies,
+15,Monsters,1123,4528,18121,terror tabbies,แมวลายคลั่ง
 15,Monsters,1124,4532,18136,the ,
 15,Monsters,1125,4536,18141,the ,
 15,Monsters,1126,4540,18146,a ,
 15,Monsters,1127,4544,18149,some ,
-15,Monsters,1128,4548,18155,bodkin bowyer,
-15,Monsters,1129,4552,18169,bodkin bowyer,
+15,Monsters,1128,4548,18155,bodkin bowyer,บ็อดกินโบว์เยอร์
+15,Monsters,1129,4552,18169,bodkin bowyer,บ็อดกินโบว์เยอร์
 15,Monsters,1130,4556,18183,,
-15,Monsters,1131,4560,18184,bodkin bowyers,
+15,Monsters,1131,4560,18184,bodkin bowyers,บ็อดกินโบว์เยอร์
 15,Monsters,1132,4564,18199,the ,
 15,Monsters,1133,4568,18204,the ,
 15,Monsters,1134,4572,18209,a ,
 15,Monsters,1135,4576,18212,some ,
-15,Monsters,1136,4580,18218,firespirit,
-15,Monsters,1137,4584,18229,firespirit,
+15,Monsters,1136,4580,18218,firespirit,จิตวิญญาณแห่งไฟ
+15,Monsters,1137,4584,18229,firespirit,จิตวิญญาณแห่งไฟ
 15,Monsters,1138,4588,18240,,
-15,Monsters,1139,4592,18241,firespirits,
+15,Monsters,1139,4592,18241,firespirits,จิตวิญญาณแห่งไฟ
 15,Monsters,1140,4596,18253,the ,
 15,Monsters,1141,4600,18258,the ,
 15,Monsters,1142,4604,18263,a ,
 15,Monsters,1143,4608,18266,some ,
-15,Monsters,1144,4612,18272,fightgeist,
-15,Monsters,1145,4616,18283,fightgeist,
+15,Monsters,1144,4612,18272,fightgeist,ไฟต์ไกสต์
+15,Monsters,1145,4616,18283,fightgeist,ไฟต์ไกสต์
 15,Monsters,1146,4620,18294,,
-15,Monsters,1147,4624,18295,fightgeists,
+15,Monsters,1147,4624,18295,fightgeists,ไฟต์ไกสต์
 15,Monsters,1148,4628,18307,the ,
 15,Monsters,1149,4632,18312,the ,
 15,Monsters,1150,4636,18317,a ,
 15,Monsters,1151,4640,18320,some ,
-15,Monsters,1152,4644,18326,multicolour mannequin,
-15,Monsters,1153,4648,18348,multicolour mannequin,
+15,Monsters,1152,4644,18326,multicolour mannequin,หุ่นหลากสี
+15,Monsters,1153,4648,18348,multicolour mannequin,หุ่นหลากสี
 15,Monsters,1154,4652,18370,,
-15,Monsters,1155,4656,18371,multicolour mannequins,
+15,Monsters,1155,4656,18371,multicolour mannequins,หุ่นหลากสี
 15,Monsters,1156,4660,18394,the ,
 15,Monsters,1157,4664,18399,the ,
 15,Monsters,1158,4668,18404,a ,
 15,Monsters,1159,4672,18407,some ,
-15,Monsters,1160,4676,18413,hellcaster,
-15,Monsters,1161,4680,18424,hellcaster,
+15,Monsters,1160,4676,18413,hellcaster,เฮลคาสเตอร์
+15,Monsters,1161,4680,18424,hellcaster,เฮลคาสเตอร์
 15,Monsters,1162,4684,18435,,
-15,Monsters,1163,4688,18436,hellcasters,
+15,Monsters,1163,4688,18436,hellcasters,เฮลคาสเตอร์
 15,Monsters,1164,4692,18448,the ,
 15,Monsters,1165,4696,18453,the ,
 15,Monsters,1166,4700,18458,a ,
 15,Monsters,1167,4704,18461,some ,
-15,Monsters,1168,4708,18467,freezing fog,
-15,Monsters,1169,4712,18480,freezing fog,
+15,Monsters,1168,4708,18467,freezing fog,สายหมอกเยือกแข็ง
+15,Monsters,1169,4712,18480,freezing fog,สายหมอกเยือกแข็ง
 15,Monsters,1170,4716,18493,,
-15,Monsters,1171,4720,18494,freezing fogs,
+15,Monsters,1171,4720,18494,freezing fogs,สายหมอกเยือกแข็ง
 15,Monsters,1172,4724,18508,the ,
 15,Monsters,1173,4728,18513,the ,
 15,Monsters,1174,4732,18518,a ,
 15,Monsters,1175,4736,18521,some ,
-15,Monsters,1176,4740,18527,silhouette,
-15,Monsters,1177,4744,18538,silhouette,
+15,Monsters,1176,4740,18527,silhouette,ซิลูเอท
+15,Monsters,1177,4744,18538,silhouette,ซิลูเอท
 15,Monsters,1178,4748,18549,,
-15,Monsters,1179,4752,18550,silhouettes,
+15,Monsters,1179,4752,18550,silhouettes,ซิลูเอท
 15,Monsters,1180,4756,18562,the ,
 15,Monsters,1181,4760,18567,the ,
 15,Monsters,1182,4764,18572,a ,
 15,Monsters,1183,4768,18575,some ,
-15,Monsters,1184,4772,18581,sweaty yeti,
-15,Monsters,1185,4776,18593,sweaty yeti,
+15,Monsters,1184,4772,18581,sweaty yeti,สเว็ตตี้เยติ
+15,Monsters,1185,4776,18593,sweaty yeti,สเว็ตตี้เยติ
 15,Monsters,1186,4780,18605,,
-15,Monsters,1187,4784,18606,sweaty yetis,
+15,Monsters,1187,4784,18606,sweaty yetis,สเว็ตตี้เยติ
 15,Monsters,1188,4788,18619,the ,
 15,Monsters,1189,4792,18624,the ,
 15,Monsters,1190,4796,18629,a ,
 15,Monsters,1191,4800,18632,some ,
-15,Monsters,1192,4804,18638,antiquitree,
-15,Monsters,1193,4808,18650,antiquitree,
+15,Monsters,1192,4804,18638,antiquitree,พฤกษาโบราณ
+15,Monsters,1193,4808,18650,antiquitree,พฤกษาโบราณ
 15,Monsters,1194,4812,18662,,
-15,Monsters,1195,4816,18663,antiquitrees,
+15,Monsters,1195,4816,18663,antiquitrees,พฤกษาโบราณ
 15,Monsters,1196,4820,18676,the ,
 15,Monsters,1197,4824,18681,the ,
 15,Monsters,1198,4828,18686,an ,
 15,Monsters,1199,4832,18690,some ,
-15,Monsters,1200,4836,18696,heavy hood,
-15,Monsters,1201,4840,18707,heavy hood,
+15,Monsters,1200,4836,18696,heavy hood,เฮฟวี่ฮูด
+15,Monsters,1201,4840,18707,heavy hood,เฮฟวี่ฮูด
 15,Monsters,1202,4844,18718,,
-15,Monsters,1203,4848,18719,heavy hoods,
+15,Monsters,1203,4848,18719,heavy hoods,เฮฟวี่ฮูด
 15,Monsters,1204,4852,18731,the ,
 15,Monsters,1205,4856,18736,the ,
 15,Monsters,1206,4860,18741,a ,
 15,Monsters,1207,4864,18744,some ,
-15,Monsters,1208,4868,18750,mandrake marshal,
-15,Monsters,1209,4872,18767,mandrake marshal,
+15,Monsters,1208,4868,18750,mandrake marshal,แมนเดรกมาร์แชล
+15,Monsters,1209,4872,18767,mandrake marshal,แมนเดรกมาร์แชล
 15,Monsters,1210,4876,18784,,
-15,Monsters,1211,4880,18785,mandrake marshals,
+15,Monsters,1211,4880,18785,mandrake marshals,แมนเดรกมาร์แชล
 15,Monsters,1212,4884,18803,the ,
 15,Monsters,1213,4888,18808,the ,
 15,Monsters,1214,4892,18813,a ,
 15,Monsters,1215,4896,18816,some ,
-15,Monsters,1216,4900,18822,night rider,
-15,Monsters,1217,4904,18834,night rider,
+15,Monsters,1216,4900,18822,night rider,ไนท์ไรเดอร์
+15,Monsters,1217,4904,18834,night rider,ไนท์ไรเดอร์
 15,Monsters,1218,4908,18846,,
-15,Monsters,1219,4912,18847,night riders,
+15,Monsters,1219,4912,18847,night riders,ไนท์ไรเดอร์
 15,Monsters,1220,4916,18860,the ,
 15,Monsters,1221,4920,18865,the ,
 15,Monsters,1222,4924,18870,a ,
 15,Monsters,1223,4928,18873,some ,
-15,Monsters,1224,4932,18879,jamirus,
-15,Monsters,1225,4936,18887,jamirus,
+15,Monsters,1224,4932,18879,jamirus,จามิรัส
+15,Monsters,1225,4936,18887,jamirus,จามิรัส
 15,Monsters,1226,4940,18895,,
-15,Monsters,1227,4944,18896,jamiruses,
+15,Monsters,1227,4944,18896,jamiruses,จามิรัส
 15,Monsters,1228,4948,18906,the ,
 15,Monsters,1229,4952,18911,the ,
 15,Monsters,1230,4956,18916,a ,
 15,Monsters,1231,4960,18919,some ,
-15,Monsters,1232,4964,18925,wight priest,
-15,Monsters,1233,4968,18938,wight priest,
+15,Monsters,1232,4964,18925,wight priest,ไวท์พรีสต์
+15,Monsters,1233,4968,18938,wight priest,ไวท์พรีสต์
 15,Monsters,1234,4972,18951,,
-15,Monsters,1235,4976,18952,wight priests,
+15,Monsters,1235,4976,18952,wight priests,ไวท์พรีสต์
 15,Monsters,1236,4980,18966,the ,
 15,Monsters,1237,4984,18971,the ,
 15,Monsters,1238,4988,18976,a ,
 15,Monsters,1239,4992,18979,some ,
-15,Monsters,1240,4996,18985,pruslas,
-15,Monsters,1241,5000,18993,pruslas,
+15,Monsters,1240,4996,18985,pruslas,พรุสลาส
+15,Monsters,1241,5000,18993,pruslas,พรุสลาส
 15,Monsters,1242,5004,19001,,
-15,Monsters,1243,5008,19002,pruslases,
+15,Monsters,1243,5008,19002,pruslases,พรุสลาส
 15,Monsters,1244,5012,19012,the ,
 15,Monsters,1245,5016,19017,the ,
 15,Monsters,1246,5020,19022,a ,
 15,Monsters,1247,5024,19025,some ,
-15,Monsters,1248,5028,19031,knight abhorrent,
-15,Monsters,1249,5032,19048,knight abhorrent,
+15,Monsters,1248,5028,19031,knight abhorrent,ไนท์แอบฮอร์เรนต์
+15,Monsters,1249,5032,19048,knight abhorrent,ไนท์แอบฮอร์เรนต์
 15,Monsters,1250,5036,19065,,
-15,Monsters,1251,5040,19066,knights abhorrent,
+15,Monsters,1251,5040,19066,knights abhorrent,ไนท์แอบฮอร์เรนต์
 15,Monsters,1252,5044,19084,the ,
 15,Monsters,1253,5048,19089,the ,
 15,Monsters,1254,5052,19094,a ,
 15,Monsters,1255,5056,19097,some ,
-15,Monsters,1256,5060,19103,draguar,
-15,Monsters,1257,5064,19111,draguar,
+15,Monsters,1256,5060,19103,draguar,จากัวร์มังกร
+15,Monsters,1257,5064,19111,draguar,จากัวร์มังกร
 15,Monsters,1258,5068,19119,,
-15,Monsters,1259,5072,19120,draguars,
+15,Monsters,1259,5072,19120,draguars,จากัวร์มังกร
 15,Monsters,1260,5076,19129,the ,
 15,Monsters,1261,5080,19134,the ,
 15,Monsters,1262,5084,19139,a ,
 15,Monsters,1263,5088,19142,some ,
-15,Monsters,1264,5092,19148,killing machine,
-15,Monsters,1265,5096,19164,killing machine,
+15,Monsters,1264,5092,19148,killing machine,คิลเลอร์แมชชีน
+15,Monsters,1265,5096,19164,killing machine,คิลเลอร์แมชชีน
 15,Monsters,1266,5100,19180,,
-15,Monsters,1267,5104,19181,killing machines,
+15,Monsters,1267,5104,19181,killing machines,คิลเลอร์แมชชีน
 15,Monsters,1268,5108,19198,the ,
 15,Monsters,1269,5112,19203,the ,
 15,Monsters,1270,5116,19208,a ,
 15,Monsters,1271,5120,19211,some ,
-15,Monsters,1272,5124,19217,high djinks,
-15,Monsters,1273,5128,19229,high djinks,
+15,Monsters,1272,5124,19217,high djinks,ยักษ์จินนี่ใหญ่
+15,Monsters,1273,5128,19229,high djinks,ยักษ์จินนี่ใหญ่
 15,Monsters,1274,5132,19241,,
-15,Monsters,1275,5136,19242,high djinkses,
+15,Monsters,1275,5136,19242,high djinkses,ยักษ์จินนี่ใหญ่
 15,Monsters,1276,5140,19256,the ,
 15,Monsters,1277,5144,19261,the ,
 15,Monsters,1278,5148,19266,a ,
 15,Monsters,1279,5152,19269,some ,
-15,Monsters,1280,5156,19275,bodkin bloodbow,
-15,Monsters,1281,5160,19291,bodkin bloodbow,
+15,Monsters,1280,5156,19275,bodkin bloodbow,บ็อดกินบลัดโบว์
+15,Monsters,1281,5160,19291,bodkin bloodbow,บ็อดกินบลัดโบว์
 15,Monsters,1282,5164,19307,,
-15,Monsters,1283,5168,19308,bodkin bloodbows,
+15,Monsters,1283,5168,19308,bodkin bloodbows,บ็อดกินบลัดโบว์
 15,Monsters,1284,5172,19325,the ,
 15,Monsters,1285,5176,19330,the ,
 15,Monsters,1286,5180,19335,a ,
 15,Monsters,1287,5184,19338,some ,
-15,Monsters,1288,5188,19344,zamtasm,
-15,Monsters,1289,5192,19352,zamtasm,
+15,Monsters,1288,5188,19344,zamtasm,แซมแทสซึม
+15,Monsters,1289,5192,19352,zamtasm,แซมแทสซึม
 15,Monsters,1290,5196,19360,,
-15,Monsters,1291,5200,19361,zamtasms,
+15,Monsters,1291,5200,19361,zamtasms,แซมแทสซึม
 15,Monsters,1292,5204,19370,the ,
 15,Monsters,1293,5208,19375,the ,
 15,Monsters,1294,5212,19380,a ,
 15,Monsters,1295,5216,19383,some ,
-15,Monsters,1296,5220,19389,dungeon master,
-15,Monsters,1297,5224,19404,dungeon master,
+15,Monsters,1296,5220,19389,dungeon master,ผู้คุมดันเจียน
+15,Monsters,1297,5224,19404,dungeon master,ผู้คุมดันเจียน
 15,Monsters,1298,5228,19419,,
-15,Monsters,1299,5232,19420,dungeon masters,
+15,Monsters,1299,5232,19420,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,1300,5236,19436,the ,
 15,Monsters,1301,5240,19441,the ,
 15,Monsters,1302,5244,19446,a ,
 15,Monsters,1303,5248,19449,some ,
-15,Monsters,1304,5252,19455,Fractos,
-15,Monsters,1305,5256,19463,Fractos,
+15,Monsters,1304,5252,19455,Fractos,ฟรักทอส
+15,Monsters,1305,5256,19463,Fractos,ฟรักทอส
 15,Monsters,1306,5260,19471,,
-15,Monsters,1307,5264,19472,Fractoses,
+15,Monsters,1307,5264,19472,Fractoses,ฟรักทอส
 15,Monsters,1308,5268,19482,,
 15,Monsters,1309,5272,19483,,
 15,Monsters,1310,5276,19484,,
 15,Monsters,1311,5280,19485,,
-15,Monsters,1312,5284,19486,blue dragon,
-15,Monsters,1313,5288,19498,blue dragon,
+15,Monsters,1312,5284,19486,blue dragon,มังกรฟ้า
+15,Monsters,1313,5288,19498,blue dragon,มังกรฟ้า
 15,Monsters,1314,5292,19510,,
-15,Monsters,1315,5296,19511,blue dragons,
+15,Monsters,1315,5296,19511,blue dragons,มังกรฟ้า
 15,Monsters,1316,5300,19524,the ,
 15,Monsters,1317,5304,19529,the ,
 15,Monsters,1318,5308,19534,a ,
 15,Monsters,1319,5312,19537,some ,
-15,Monsters,1320,5316,19543,master moosifer,
-15,Monsters,1321,5320,19559,master moosifer,
+15,Monsters,1320,5316,19543,master moosifer,มาสเตอร์มูซิเฟอร์
+15,Monsters,1321,5320,19559,master moosifer,มาสเตอร์มูซิเฟอร์
 15,Monsters,1322,5324,19575,,
-15,Monsters,1323,5328,19576,master moosifers,
+15,Monsters,1323,5328,19576,master moosifers,มาสเตอร์มูซิเฟอร์
 15,Monsters,1324,5332,19593,the ,
 15,Monsters,1325,5336,19598,the ,
 15,Monsters,1326,5340,19603,a ,
 15,Monsters,1327,5344,19606,some ,
-15,Monsters,1328,5348,19612,Dhuran,
-15,Monsters,1329,5352,19619,Dhuran,
+15,Monsters,1328,5348,19612,Dhuran,ดูรัน
+15,Monsters,1329,5352,19619,Dhuran,ดูรัน
 15,Monsters,1330,5356,19626,,
-15,Monsters,1331,5360,19627,Dhurans,
+15,Monsters,1331,5360,19627,Dhurans,ดูรัน
 15,Monsters,1332,5364,19635,,
 15,Monsters,1333,5368,19636,,
 15,Monsters,1334,5372,19637,,
 15,Monsters,1335,5376,19638,,
-15,Monsters,1336,5380,19639,dark brownie,
-15,Monsters,1337,5384,19652,dark brownie,
+15,Monsters,1336,5380,19639,dark brownie,ดาร์กบราวนี่
+15,Monsters,1337,5384,19652,dark brownie,ดาร์กบราวนี่
 15,Monsters,1338,5388,19665,,
-15,Monsters,1339,5392,19666,dark brownies,
+15,Monsters,1339,5392,19666,dark brownies,ดาร์กบราวนี่
 15,Monsters,1340,5396,19680,the ,
 15,Monsters,1341,5400,19685,the ,
 15,Monsters,1342,5404,19690,a ,
 15,Monsters,1343,5408,19693,some ,
-15,Monsters,1344,5412,19699,great troll,
-15,Monsters,1345,5416,19711,great troll,
+15,Monsters,1344,5412,19699,great troll,เกรตโทรลล์
+15,Monsters,1345,5416,19711,great troll,เกรตโทรลล์
 15,Monsters,1346,5420,19723,,
-15,Monsters,1347,5424,19724,great trolls,
+15,Monsters,1347,5424,19724,great trolls,เกรตโทรลล์
 15,Monsters,1348,5428,19737,the ,
 15,Monsters,1349,5432,19742,the ,
 15,Monsters,1350,5436,19747,a ,
 15,Monsters,1351,5440,19750,some ,
-15,Monsters,1352,5444,19756,axesaurus,
-15,Monsters,1353,5448,19766,axesaurus,
+15,Monsters,1352,5444,19756,axesaurus,แอ็กซ์ซอรัส
+15,Monsters,1353,5448,19766,axesaurus,แอ็กซ์ซอรัส
 15,Monsters,1354,5452,19776,,
-15,Monsters,1355,5456,19777,axesauruses,
+15,Monsters,1355,5456,19777,axesauruses,แอ็กซ์ซอรัส
 15,Monsters,1356,5460,19789,the ,
 15,Monsters,1357,5464,19794,the ,
 15,Monsters,1358,5468,19799,an ,
 15,Monsters,1359,5472,19803,some ,
-15,Monsters,1360,5476,19809,Fractos Unfettered,
-15,Monsters,1361,5480,19828,Fractos Unfettered,
+15,Monsters,1360,5476,19809,Fractos Unfettered,ฟรักทอส ร่างปลดปล่อย
+15,Monsters,1361,5480,19828,Fractos Unfettered,ฟรักทอส ร่างปลดปล่อย
 15,Monsters,1362,5484,19847,,
-15,Monsters,1363,5488,19848,Fractoses Unfettered,
+15,Monsters,1363,5488,19848,Fractoses Unfettered,ฟรักทอส ร่างปลดปล่อย
 15,Monsters,1364,5492,19869,,
 15,Monsters,1365,5496,19870,,
 15,Monsters,1366,5500,19871,,
 15,Monsters,1367,5504,19872,,
-15,Monsters,1368,5508,19873,ghoul,
-15,Monsters,1369,5512,19879,ghoul,
+15,Monsters,1368,5508,19873,ghoul,กูล
+15,Monsters,1369,5512,19879,ghoul,กูล
 15,Monsters,1370,5516,19885,,
-15,Monsters,1371,5520,19886,ghouls,
+15,Monsters,1371,5520,19886,ghouls,กูล
 15,Monsters,1372,5524,19893,the ,
 15,Monsters,1373,5528,19898,the ,
 15,Monsters,1374,5532,19903,a ,
 15,Monsters,1375,5536,19906,some ,
-15,Monsters,1376,5540,19912,infernal armour,
-15,Monsters,1377,5544,19928,infernal armour,
+15,Monsters,1376,5540,19912,infernal armour,เกราะนรก
+15,Monsters,1377,5544,19928,infernal armour,เกราะนรก
 15,Monsters,1378,5548,19944,,
-15,Monsters,1379,5552,19945,infernal armours,
+15,Monsters,1379,5552,19945,infernal armours,เกราะนรก
 15,Monsters,1380,5556,19962,the ,
 15,Monsters,1381,5560,19967,the ,
 15,Monsters,1382,5564,19972,an ,
 15,Monsters,1383,5568,19976,some ,
-15,Monsters,1384,5572,19982,batmandrill,
-15,Monsters,1385,5576,19994,batmandrill,
+15,Monsters,1384,5572,19982,batmandrill,แบทแมนดริลล์
+15,Monsters,1385,5576,19994,batmandrill,แบทแมนดริลล์
 15,Monsters,1386,5580,20006,,
-15,Monsters,1387,5584,20007,batmandrills,
+15,Monsters,1387,5584,20007,batmandrills,แบทแมนดริลล์
 15,Monsters,1388,5588,20020,the ,
 15,Monsters,1389,5592,20025,the ,
 15,Monsters,1390,5596,20030,a ,
 15,Monsters,1391,5600,20033,some ,
-15,Monsters,1392,5604,20039,bullion,
-15,Monsters,1393,5608,20047,bullion,
+15,Monsters,1392,5604,20039,bullion,บูลเลียน
+15,Monsters,1393,5608,20047,bullion,บูลเลียน
 15,Monsters,1394,5612,20055,,
-15,Monsters,1395,5616,20056,bullions,
+15,Monsters,1395,5616,20056,bullions,บูลเลียน
 15,Monsters,1396,5620,20065,the ,
 15,Monsters,1397,5624,20070,the ,
 15,Monsters,1398,5628,20075,a ,
 15,Monsters,1399,5632,20078,some ,
-15,Monsters,1400,5636,20084,loss leader,
-15,Monsters,1401,5640,20096,loss leader,
+15,Monsters,1400,5636,20084,loss leader,ลอสลีดเดอร์
+15,Monsters,1401,5640,20096,loss leader,ลอสลีดเดอร์
 15,Monsters,1402,5644,20108,,
-15,Monsters,1403,5648,20109,loss leaders,
+15,Monsters,1403,5648,20109,loss leaders,ลอสลีดเดอร์
 15,Monsters,1404,5652,20122,the ,
 15,Monsters,1405,5656,20127,the ,
 15,Monsters,1406,5660,20132,a ,
 15,Monsters,1407,5664,20135,some ,
-15,Monsters,1408,5668,20141,Lazarel,
-15,Monsters,1409,5672,20149,Lazarel,
+15,Monsters,1408,5668,20141,Lazarel,ราเซล
+15,Monsters,1409,5672,20149,Lazarel,ราเซล
 15,Monsters,1410,5676,20157,,
-15,Monsters,1411,5680,20158,Lazarels,
+15,Monsters,1411,5680,20158,Lazarels,ราเซล
 15,Monsters,1412,5684,20167,,
 15,Monsters,1413,5688,20168,,
 15,Monsters,1414,5692,20169,,
 15,Monsters,1415,5696,20170,,
-15,Monsters,1416,5700,20171,Teresa,
-15,Monsters,1417,5704,20178,Teresa,
+15,Monsters,1416,5700,20171,Teresa,เทเรเซีย
+15,Monsters,1417,5704,20178,Teresa,เทเรเซีย
 15,Monsters,1418,5708,20185,,
-15,Monsters,1419,5712,20186,Teresas,
+15,Monsters,1419,5712,20186,Teresas,เทเรเซีย
 15,Monsters,1420,5716,20194,,
 15,Monsters,1421,5720,20195,,
 15,Monsters,1422,5724,20196,,
 15,Monsters,1423,5728,20197,,
-15,Monsters,1424,5732,20198,Cesar,
-15,Monsters,1425,5736,20204,Cesar,
+15,Monsters,1424,5732,20198,Cesar,ซีซาร์
+15,Monsters,1425,5736,20204,Cesar,ซีซาร์
 15,Monsters,1426,5740,20210,,
-15,Monsters,1427,5744,20211,Cesars,
+15,Monsters,1427,5744,20211,Cesars,ซีซาร์
 15,Monsters,1428,5748,20218,,
 15,Monsters,1429,5752,20219,,
 15,Monsters,1430,5756,20220,,
 15,Monsters,1431,5760,20221,,
-15,Monsters,1432,5764,20222,mysterious swordsman,
-15,Monsters,1433,5768,20243,mysterious swordsman,
+15,Monsters,1432,5764,20222,mysterious swordsman,นักดาบลึกลับ
+15,Monsters,1433,5768,20243,mysterious swordsman,นักดาบลึกลับ
 15,Monsters,1434,5772,20264,,
-15,Monsters,1435,5776,20265,mysterious swordsmen,
+15,Monsters,1435,5776,20265,mysterious swordsmen,นักดาบลึกลับ
 15,Monsters,1436,5780,20286,the ,
 15,Monsters,1437,5784,20291,the ,
 15,Monsters,1438,5788,20296,a ,
 15,Monsters,1439,5792,20299,some ,
-15,Monsters,1440,5796,20305,mysterious martial artist,
-15,Monsters,1441,5800,20331,mysterious martial artist,
+15,Monsters,1440,5796,20305,mysterious martial artist,นักสู้ลึกลับ
+15,Monsters,1441,5800,20331,mysterious martial artist,นักสู้ลึกลับ
 15,Monsters,1442,5804,20357,,
-15,Monsters,1443,5808,20358,mysterious martial artists,
+15,Monsters,1443,5808,20358,mysterious martial artists,นักสู้ลึกลับ
 15,Monsters,1444,5812,20385,the ,
 15,Monsters,1445,5816,20390,the ,
 15,Monsters,1446,5820,20395,a ,
 15,Monsters,1447,5824,20398,some ,
-15,Monsters,1448,5828,20404,Maya,
-15,Monsters,1449,5832,20409,Maya,
+15,Monsters,1448,5828,20404,Maya,มาเนีย
+15,Monsters,1449,5832,20409,Maya,มาเนีย
 15,Monsters,1450,5836,20414,,
-15,Monsters,1451,5840,20415,Mayas,
+15,Monsters,1451,5840,20415,Mayas,มาเนีย
 15,Monsters,1452,5844,20421,,
 15,Monsters,1453,5848,20422,,
 15,Monsters,1454,5852,20423,,
 15,Monsters,1455,5856,20424,,
-15,Monsters,1456,5860,20425,Sinister Cesar,
-15,Monsters,1457,5864,20440,Sinister Cesar,
+15,Monsters,1456,5860,20425,Sinister Cesar,ซีซาร์แห่งความมืด
+15,Monsters,1457,5864,20440,Sinister Cesar,ซีซาร์แห่งความมืด
 15,Monsters,1458,5868,20455,,
-15,Monsters,1459,5872,20456,Sinister Cesars,
+15,Monsters,1459,5872,20456,Sinister Cesars,ซีซาร์แห่งความมืด
 15,Monsters,1460,5876,20472,,
 15,Monsters,1461,5880,20473,,
 15,Monsters,1462,5884,20474,,
 15,Monsters,1463,5888,20475,,
-15,Monsters,1464,5892,20476,Demonic Desdemona,
-15,Monsters,1465,5896,20494,Demonic Desdemona,
+15,Monsters,1464,5892,20476,Demonic Desdemona,เดสเดโมน่าปีศาจ
+15,Monsters,1465,5896,20494,Demonic Desdemona,เดสเดโมน่าปีศาจ
 15,Monsters,1466,5900,20512,,
-15,Monsters,1467,5904,20513,Demonic Desdemonas,
+15,Monsters,1467,5904,20513,Demonic Desdemonas,เดสเดโมน่าปีศาจ
 15,Monsters,1468,5908,20532,,
 15,Monsters,1469,5912,20533,,
 15,Monsters,1470,5916,20534,,
 15,Monsters,1471,5920,20535,,
-15,Monsters,1472,5924,20536,Evil Alena,
-15,Monsters,1473,5928,20547,Evil Alena,
+15,Monsters,1472,5924,20536,Evil Alena,อาลีน่าปีศาจ
+15,Monsters,1473,5928,20547,Evil Alena,อาลีน่าปีศาจ
 15,Monsters,1474,5932,20558,,
-15,Monsters,1475,5936,20559,Evil Alenas,
+15,Monsters,1475,5936,20559,Evil Alenas,อาลีน่าปีศาจ
 15,Monsters,1476,5940,20571,,
 15,Monsters,1477,5944,20572,,
 15,Monsters,1478,5948,20573,,
 15,Monsters,1479,5952,20574,,
-15,Monsters,1480,5956,20575,Cruel Kiryl,
-15,Monsters,1481,5960,20587,Cruel Kiryl,
+15,Monsters,1480,5956,20575,Cruel Kiryl,คริฟต์ใจร้าย
+15,Monsters,1481,5960,20587,Cruel Kiryl,คริฟต์ใจร้าย
 15,Monsters,1482,5964,20599,,
-15,Monsters,1483,5968,20600,Cruel Kiryls,
+15,Monsters,1483,5968,20600,Cruel Kiryls,คริฟต์ใจร้าย
 15,Monsters,1484,5972,20613,,
 15,Monsters,1485,5976,20614,,
 15,Monsters,1486,5980,20615,,
 15,Monsters,1487,5984,20616,,
-15,Monsters,1488,5988,20617,Malign Maya,
-15,Monsters,1489,5992,20629,Malign Maya,
+15,Monsters,1488,5988,20617,Malign Maya,มาเนียปีศาจ
+15,Monsters,1489,5992,20629,Malign Maya,มาเนียปีศาจ
 15,Monsters,1490,5996,20641,,
-15,Monsters,1491,6000,20642,Malign Mayas,
+15,Monsters,1491,6000,20642,Malign Mayas,มาเนียปีศาจ
 15,Monsters,1492,6004,20655,,
 15,Monsters,1493,6008,20656,,
 15,Monsters,1494,6012,20657,,
 15,Monsters,1495,6016,20658,,
-15,Monsters,1496,6020,20659,Malicious Meena,
-15,Monsters,1497,6024,20675,Malicious Meena,
+15,Monsters,1496,6020,20659,Malicious Meena,มีเนียปีศาจ
+15,Monsters,1497,6024,20675,Malicious Meena,มีเนียปีศาจ
 15,Monsters,1498,6028,20691,,
-15,Monsters,1499,6032,20692,Malicious Meenas,
+15,Monsters,1499,6032,20692,Malicious Meenas,มีเนียปีศาจ
 15,Monsters,1500,6036,20709,,
 15,Monsters,1501,6040,20710,,
 15,Monsters,1502,6044,20711,,
 15,Monsters,1503,6048,20712,,
-15,Monsters,1504,6052,20713,Tainted Torneko,
-15,Monsters,1505,6056,20729,Tainted Torneko,
+15,Monsters,1504,6052,20713,Tainted Torneko,ทอร์เนโก้ต้องมนตร์
+15,Monsters,1505,6056,20729,Tainted Torneko,ทอร์เนโก้ต้องมนตร์
 15,Monsters,1506,6060,20745,,
-15,Monsters,1507,6064,20746,Tainted Tornekos,
+15,Monsters,1507,6064,20746,Tainted Tornekos,ทอร์เนโก้ต้องมนตร์
 15,Monsters,1508,6068,20763,,
 15,Monsters,1509,6072,20764,,
 15,Monsters,1510,6076,20765,,
 15,Monsters,1511,6080,20766,,
-15,Monsters,1512,6084,20767,Tainted Terry,
-15,Monsters,1513,6088,20781,Tainted Terry,
+15,Monsters,1512,6084,20767,Tainted Terry,เทอร์รี่ต้องมนตร์
+15,Monsters,1513,6088,20781,Tainted Terry,เทอร์รี่ต้องมนตร์
 15,Monsters,1514,6092,20795,,
-15,Monsters,1515,6096,20796,Tainted Terrys,
+15,Monsters,1515,6096,20796,Tainted Terrys,เทอร์รี่ต้องมนตร์
 15,Monsters,1516,6100,20811,,
 15,Monsters,1517,6104,20812,,
 15,Monsters,1518,6108,20813,,
 15,Monsters,1519,6112,20814,,
-15,Monsters,1520,6116,20815,Callous Carver,
-15,Monsters,1521,6120,20830,Callous Carver,
+15,Monsters,1520,6116,20815,Callous Carver,ฮัสซันไร้ปรานี
+15,Monsters,1521,6120,20830,Callous Carver,ฮัสซันไร้ปรานี
 15,Monsters,1522,6124,20845,,
-15,Monsters,1523,6128,20846,Callous Carvers,
+15,Monsters,1523,6128,20846,Callous Carvers,ฮัสซันไร้ปรานี
 15,Monsters,1524,6132,20862,,
 15,Monsters,1525,6136,20863,,
 15,Monsters,1526,6140,20864,,
 15,Monsters,1527,6144,20865,,
-15,Monsters,1528,6148,20866,Malevolent Maribel,
-15,Monsters,1529,6152,20885,Malevolent Maribel,
+15,Monsters,1528,6148,20866,Malevolent Maribel,มาริเบลใจร้าย
+15,Monsters,1529,6152,20885,Malevolent Maribel,มาริเบลใจร้าย
 15,Monsters,1530,6156,20904,,
-15,Monsters,1531,6160,20905,Malevolent Maribels,
+15,Monsters,1531,6160,20905,Malevolent Maribels,มาริเบลใจร้าย
 15,Monsters,1532,6164,20925,,
 15,Monsters,1533,6168,20926,,
 15,Monsters,1534,6172,20927,,
 15,Monsters,1535,6176,20928,,
-15,Monsters,1536,6180,20929,Gruff Ruff,
-15,Monsters,1537,6184,20940,Gruff Ruff,
+15,Monsters,1536,6180,20929,Gruff Ruff,กาโบผู้ดุร้าย
+15,Monsters,1537,6184,20940,Gruff Ruff,กาโบผู้ดุร้าย
 15,Monsters,1538,6188,20951,,
-15,Monsters,1539,6192,20952,Gruff Ruffs,
+15,Monsters,1539,6192,20952,Gruff Ruffs,กาโบผู้ดุร้าย
 15,Monsters,1540,6196,20964,,
 15,Monsters,1541,6200,20965,,
 15,Monsters,1542,6204,20966,,
 15,Monsters,1543,6208,20967,,
-15,Monsters,1544,6212,20968,Jaundiced Jessica,
-15,Monsters,1545,6216,20986,Jaundiced Jessica,
+15,Monsters,1544,6212,20968,Jaundiced Jessica,เจสสิก้าผู้เคียดแค้น
+15,Monsters,1545,6216,20986,Jaundiced Jessica,เจสสิก้าผู้เคียดแค้น
 15,Monsters,1546,6220,21004,,
-15,Monsters,1547,6224,21005,Jaundiced Jessicas,
+15,Monsters,1547,6224,21005,Jaundiced Jessicas,เจสสิก้าผู้เคียดแค้น
 15,Monsters,1548,6228,21024,,
 15,Monsters,1549,6232,21025,,
 15,Monsters,1550,6236,21026,,
 15,Monsters,1551,6240,21027,,
-15,Monsters,1552,6244,21028,Unpleasant Angelo,
-15,Monsters,1553,6248,21046,Unpleasant Angelo,
+15,Monsters,1552,6244,21028,Unpleasant Angelo,คูเคิลผู้ร้ายกาจ
+15,Monsters,1553,6248,21046,Unpleasant Angelo,คูเคิลผู้ร้ายกาจ
 15,Monsters,1554,6252,21064,,
-15,Monsters,1555,6256,21065,Unpleasant Angelos,
+15,Monsters,1555,6256,21065,Unpleasant Angelos,คูเคิลผู้ร้ายกาจ
 15,Monsters,1556,6260,21084,,
 15,Monsters,1557,6264,21085,,
 15,Monsters,1558,6268,21086,,
 15,Monsters,1559,6272,21087,,
-15,Monsters,1560,6276,21088,Hard-Hearted Healix,
-15,Monsters,1561,6280,21108,Hard-Hearted Healix,
+15,Monsters,1560,6276,21088,Hard-Hearted Healix,โฮมิรอนใจหิน
+15,Monsters,1561,6280,21108,Hard-Hearted Healix,โฮมิรอนใจหิน
 15,Monsters,1562,6284,21128,,
-15,Monsters,1563,6288,21129,Hard-Hearted Healixes,
+15,Monsters,1563,6288,21129,Hard-Hearted Healixes,โฮมิรอนใจหิน
 15,Monsters,1564,6292,21151,,
 15,Monsters,1565,6296,21152,,
 15,Monsters,1566,6300,21153,,
 15,Monsters,1567,6304,21154,,
-15,Monsters,1568,6308,21155,Dunisian soldier,
-15,Monsters,1569,6312,21172,Dunisian soldier,
+15,Monsters,1568,6308,21155,Dunisian soldier,ทหารดูนีเซีย
+15,Monsters,1569,6312,21172,Dunisian soldier,ทหารดูนีเซีย
 15,Monsters,1570,6316,21189,,
-15,Monsters,1571,6320,21190,Dunisian soldiers,
+15,Monsters,1571,6320,21190,Dunisian soldiers,ทหารดูนีเซีย
 15,Monsters,1572,6324,21208,the ,
 15,Monsters,1573,6328,21213,the ,
 15,Monsters,1574,6332,21218,a ,
 15,Monsters,1575,6336,21221,some ,
-15,Monsters,1576,6340,21227,Ingenian soldier,
-15,Monsters,1577,6344,21244,Ingenian soldier,
+15,Monsters,1576,6340,21227,Ingenian soldier,ทหารอินเกเนีย
+15,Monsters,1577,6344,21244,Ingenian soldier,ทหารอินเกเนีย
 15,Monsters,1578,6348,21261,,
-15,Monsters,1579,6352,21262,Ingenian soldiers,
+15,Monsters,1579,6352,21262,Ingenian soldiers,ทหารอินเกเนีย
 15,Monsters,1580,6356,21280,the ,
 15,Monsters,1581,6360,21285,the ,
 15,Monsters,1582,6364,21290,an ,
 15,Monsters,1583,6368,21294,some ,
-15,Monsters,1584,6372,21300,knight aberrant,
-15,Monsters,1585,6376,21316,knight aberrant,
+15,Monsters,1584,6372,21300,knight aberrant,ไนท์แอบเบอร์แรนต์
+15,Monsters,1585,6376,21316,knight aberrant,ไนท์แอบเบอร์แรนต์
 15,Monsters,1586,6380,21332,,
-15,Monsters,1587,6384,21333,knights aberrant,
+15,Monsters,1587,6384,21333,knights aberrant,ไนท์แอบเบอร์แรนต์
 15,Monsters,1588,6388,21350,the ,
 15,Monsters,1589,6392,21355,the ,
 15,Monsters,1590,6396,21360,a ,
 15,Monsters,1591,6400,21363,some ,
-15,Monsters,1592,6404,21369,night clubber,
-15,Monsters,1593,6408,21383,night clubber,
+15,Monsters,1592,6404,21369,night clubber,ไนท์คลับเบอร์
+15,Monsters,1593,6408,21383,night clubber,ไนท์คลับเบอร์
 15,Monsters,1594,6412,21397,,
-15,Monsters,1595,6416,21398,night clubbers,
+15,Monsters,1595,6416,21398,night clubbers,ไนท์คลับเบอร์
 15,Monsters,1596,6420,21413,the ,
 15,Monsters,1597,6424,21418,the ,
 15,Monsters,1598,6428,21423,a ,
 15,Monsters,1599,6432,21426,some ,
-15,Monsters,1600,6436,21432,hood,
-15,Monsters,1601,6440,21437,hood,
+15,Monsters,1600,6436,21432,hood,จอมโจรมีฮู้ด
+15,Monsters,1601,6440,21437,hood,จอมโจรมีฮู้ด
 15,Monsters,1602,6444,21442,,
-15,Monsters,1603,6448,21443,hoods,
+15,Monsters,1603,6448,21443,hoods,จอมโจรมีฮู้ด
 15,Monsters,1604,6452,21449,the ,
 15,Monsters,1605,6456,21454,the ,
 15,Monsters,1606,6460,21459,a ,
 15,Monsters,1607,6464,21462,some ,
-15,Monsters,1608,6468,21468,Field Marshal Donk,
-15,Monsters,1609,6472,21487,Field Marshal Donk,
+15,Monsters,1608,6468,21468,Field Marshal Donk,จอมพล ดองค์
+15,Monsters,1609,6472,21487,Field Marshal Donk,จอมพล ดองค์
 15,Monsters,1610,6476,21506,,
-15,Monsters,1611,6480,21507,Field Marshal Donks,
+15,Monsters,1611,6480,21507,Field Marshal Donks,จอมพล ดองค์
 15,Monsters,1612,6484,21527,,
 15,Monsters,1613,6488,21528,,
 15,Monsters,1614,6492,21529,,
 15,Monsters,1615,6496,21530,,
-15,Monsters,1616,6500,21531,infernal armour,
-15,Monsters,1617,6504,21547,infernal armour,
+15,Monsters,1616,6500,21531,infernal armour,เกราะนรก
+15,Monsters,1617,6504,21547,infernal armour,เกราะนรก
 15,Monsters,1618,6508,21563,,
-15,Monsters,1619,6512,21564,infernal armours,
+15,Monsters,1619,6512,21564,infernal armours,เกราะนรก
 15,Monsters,1620,6516,21581,the ,
 15,Monsters,1621,6520,21586,the ,
 15,Monsters,1622,6524,21591,an ,
 15,Monsters,1623,6528,21595,some ,
-15,Monsters,1624,6532,21601,hacksaurus,
-15,Monsters,1625,6536,21612,hacksaurus,
+15,Monsters,1624,6532,21601,hacksaurus,แฮ็กซอรัส
+15,Monsters,1625,6536,21612,hacksaurus,แฮ็กซอรัส
 15,Monsters,1626,6540,21623,,
-15,Monsters,1627,6544,21624,hacksauruses,
+15,Monsters,1627,6544,21624,hacksauruses,แฮ็กซอรัส
 15,Monsters,1628,6548,21637,the ,
 15,Monsters,1629,6552,21642,the ,
 15,Monsters,1630,6556,21647,a ,
 15,Monsters,1631,6560,21650,some ,
-15,Monsters,1632,6564,21656,mandrake major,
-15,Monsters,1633,6568,21671,mandrake major,
+15,Monsters,1632,6564,21656,mandrake major,แมนเดรกเมเจอร์
+15,Monsters,1633,6568,21671,mandrake major,แมนเดรกเมเจอร์
 15,Monsters,1634,6572,21686,,
-15,Monsters,1635,6576,21687,mandrake majors,
+15,Monsters,1635,6576,21687,mandrake majors,แมนเดรกเมเจอร์
 15,Monsters,1636,6580,21703,the ,
 15,Monsters,1637,6584,21708,the ,
 15,Monsters,1638,6588,21713,a ,
 15,Monsters,1639,6592,21716,some ,
-15,Monsters,1640,6596,21722,powie yowie,
-15,Monsters,1641,6600,21734,powie yowie,
+15,Monsters,1640,6596,21722,powie yowie,โพวี่โยวี่
+15,Monsters,1641,6600,21734,powie yowie,โพวี่โยวี่
 15,Monsters,1642,6604,21746,,
-15,Monsters,1643,6608,21747,powie yowies,
+15,Monsters,1643,6608,21747,powie yowies,โพวี่โยวี่
 15,Monsters,1644,6612,21760,the ,
 15,Monsters,1645,6616,21765,the ,
 15,Monsters,1646,6620,21770,a ,
 15,Monsters,1647,6624,21773,some ,
-15,Monsters,1648,6628,21779,blue dragon,
-15,Monsters,1649,6632,21791,blue dragon,
+15,Monsters,1648,6628,21779,blue dragon,มังกรฟ้า
+15,Monsters,1649,6632,21791,blue dragon,มังกรฟ้า
 15,Monsters,1650,6636,21803,,
-15,Monsters,1651,6640,21804,blue dragons,
+15,Monsters,1651,6640,21804,blue dragons,มังกรฟ้า
 15,Monsters,1652,6644,21817,the ,
 15,Monsters,1653,6648,21822,the ,
 15,Monsters,1654,6652,21827,a ,
 15,Monsters,1655,6656,21830,some ,
-15,Monsters,1656,6660,21836,Abominable Showman,
-15,Monsters,1657,6664,21855,Abominable Showman,
+15,Monsters,1656,6660,21836,Abominable Showman,นักแสดงสุดสะพรึง
+15,Monsters,1657,6664,21855,Abominable Showman,นักแสดงสุดสะพรึง
 15,Monsters,1658,6668,21874,,
-15,Monsters,1659,6672,21875,Abominable Showmen,
+15,Monsters,1659,6672,21875,Abominable Showmen,นักแสดงสุดสะพรึง
 15,Monsters,1660,6676,21894,the ,
 15,Monsters,1661,6680,21899,the ,
 15,Monsters,1662,6684,21904,the ,
 15,Monsters,1663,6688,21909,some ,
-15,Monsters,1664,6692,21915,missing lynx,
-15,Monsters,1665,6696,21928,missing lynx,
+15,Monsters,1664,6692,21915,missing lynx,ลิงซ์ล่องหน
+15,Monsters,1665,6696,21928,missing lynx,ลิงซ์ล่องหน
 15,Monsters,1666,6700,21941,,
-15,Monsters,1667,6704,21942,missing lynxes,
+15,Monsters,1667,6704,21942,missing lynxes,ลิงซ์ล่องหน
 15,Monsters,1668,6708,21957,the ,
 15,Monsters,1669,6712,21962,the ,
 15,Monsters,1670,6716,21967,a ,
 15,Monsters,1671,6720,21970,some ,
-15,Monsters,1672,6724,21976,Whameses,
-15,Monsters,1673,6728,21985,Whameses,
+15,Monsters,1672,6724,21976,Whameses,วาเมเซส
+15,Monsters,1673,6728,21985,Whameses,วาเมเซส
 15,Monsters,1674,6732,21994,,
-15,Monsters,1675,6736,21995,Whameseses,
+15,Monsters,1675,6736,21995,Whameseses,วาเมเซส
 15,Monsters,1676,6740,22006,,
 15,Monsters,1677,6744,22007,,
 15,Monsters,1678,6748,22008,,
 15,Monsters,1679,6752,22009,,
-15,Monsters,1680,6756,22010,float-o-copier,
-15,Monsters,1681,6760,22025,float-o-copier,
+15,Monsters,1680,6756,22010,float-o-copier,เครื่องจำลองลอยฟ้า
+15,Monsters,1681,6760,22025,float-o-copier,เครื่องจำลองลอยฟ้า
 15,Monsters,1682,6764,22040,,
-15,Monsters,1683,6768,22041,float-o-copiers,
+15,Monsters,1683,6768,22041,float-o-copiers,เครื่องจำลองลอยฟ้า
 15,Monsters,1684,6772,22057,the ,
 15,Monsters,1685,6776,22062,the ,
 15,Monsters,1686,6780,22067,a ,
 15,Monsters,1687,6784,22070,some ,
-15,Monsters,1688,6788,22076,float-o-copier,
-15,Monsters,1689,6792,22091,float-o-copier,
+15,Monsters,1688,6788,22076,float-o-copier,เครื่องจำลองลอยฟ้า
+15,Monsters,1689,6792,22091,float-o-copier,เครื่องจำลองลอยฟ้า
 15,Monsters,1690,6796,22106,,
-15,Monsters,1691,6800,22107,float-o-copiers,
+15,Monsters,1691,6800,22107,float-o-copiers,เครื่องจำลองลอยฟ้า
 15,Monsters,1692,6804,22123,the ,
 15,Monsters,1693,6808,22128,the ,
 15,Monsters,1694,6812,22133,a ,
 15,Monsters,1695,6816,22136,some ,
-15,Monsters,1696,6820,22142,Dhuran,
-15,Monsters,1697,6824,22149,Dhuran,
+15,Monsters,1696,6820,22142,Dhuran,ดูรัน
+15,Monsters,1697,6824,22149,Dhuran,ดูรัน
 15,Monsters,1698,6828,22156,,
-15,Monsters,1699,6832,22157,Dhuran,
+15,Monsters,1699,6832,22157,Dhuran,ดูรัน
 15,Monsters,1700,6836,22164,,
 15,Monsters,1701,6840,22165,,
 15,Monsters,1702,6844,22166,,
 15,Monsters,1703,6848,22167,,
-15,Monsters,1704,6852,22168,Dhuran,
-15,Monsters,1705,6856,22175,Dhuran,
+15,Monsters,1704,6852,22168,Dhuran,ดูรัน
+15,Monsters,1705,6856,22175,Dhuran,ดูรัน
 15,Monsters,1706,6860,22182,,
-15,Monsters,1707,6864,22183,Dhuran,
+15,Monsters,1707,6864,22183,Dhuran,ดูรัน
 15,Monsters,1708,6868,22190,,
 15,Monsters,1709,6872,22191,,
 15,Monsters,1710,6876,22192,,
 15,Monsters,1711,6880,22193,,
-15,Monsters,1712,6884,22194,master moosifer,
-15,Monsters,1713,6888,22210,master moosifer,
+15,Monsters,1712,6884,22194,master moosifer,มาสเตอร์มูซิเฟอร์
+15,Monsters,1713,6888,22210,master moosifer,มาสเตอร์มูซิเฟอร์
 15,Monsters,1714,6892,22226,,
-15,Monsters,1715,6896,22227,master moosifers,
+15,Monsters,1715,6896,22227,master moosifers,มาสเตอร์มูซิเฟอร์
 15,Monsters,1716,6900,22244,the ,
 15,Monsters,1717,6904,22249,the ,
 15,Monsters,1718,6908,22254,a ,
 15,Monsters,1719,6912,22257,some ,
-15,Monsters,1720,6916,22263,Lionidas,
-15,Monsters,1721,6920,22272,Lionidas,
+15,Monsters,1720,6916,22263,Lionidas,ไลโอนิดาส
+15,Monsters,1721,6920,22272,Lionidas,ไลโอนิดาส
 15,Monsters,1722,6924,22281,,
-15,Monsters,1723,6928,22282,Lionidas,
+15,Monsters,1723,6928,22282,Lionidas,ไลโอนิดาส
 15,Monsters,1724,6932,22291,,
 15,Monsters,1725,6936,22292,,
 15,Monsters,1726,6940,22293,,
 15,Monsters,1727,6944,22294,,
-15,Monsters,1728,6948,22295,pruslas,
-15,Monsters,1729,6952,22303,pruslas,
+15,Monsters,1728,6948,22295,pruslas,พรุสลาส
+15,Monsters,1729,6952,22303,pruslas,พรุสลาส
 15,Monsters,1730,6956,22311,,
-15,Monsters,1731,6960,22312,pruslases,
+15,Monsters,1731,6960,22312,pruslases,พรุสลาส
 15,Monsters,1732,6964,22322,the ,
 15,Monsters,1733,6968,22327,the ,
 15,Monsters,1734,6972,22332,a ,
 15,Monsters,1735,6976,22335,some ,
-15,Monsters,1736,6980,22341,Marquis de Léon,
-15,Monsters,1737,6984,22358,Marquis de Léon,
+15,Monsters,1736,6980,22341,Marquis de Léon,มาร์ควิส เดอ เลออน
+15,Monsters,1737,6984,22358,Marquis de Léon,มาร์ควิส เดอ เลออน
 15,Monsters,1738,6988,22375,,
-15,Monsters,1739,6992,22376,Marquises de Léon,
+15,Monsters,1739,6992,22376,Marquises de Léon,มาร์ควิส เดอ เลออน
 15,Monsters,1740,6996,22395,the ,
 15,Monsters,1741,7000,22400,the ,
 15,Monsters,1742,7004,22405,the ,
 15,Monsters,1743,7008,22410,some ,
-15,Monsters,1744,7012,22416,mandrake major,
-15,Monsters,1745,7016,22431,mandrake major,
+15,Monsters,1744,7012,22416,mandrake major,แมนเดรกเมเจอร์
+15,Monsters,1745,7016,22431,mandrake major,แมนเดรกเมเจอร์
 15,Monsters,1746,7020,22446,,
-15,Monsters,1747,7024,22447,mandrake majors,
+15,Monsters,1747,7024,22447,mandrake majors,แมนเดรกเมเจอร์
 15,Monsters,1748,7028,22463,the ,
 15,Monsters,1749,7032,22468,the ,
 15,Monsters,1750,7036,22473,a ,
@@ -3783,202 +3783,202 @@
 15,Monsters,1781,7160,22511,,
 15,Monsters,1782,7164,22512,,
 15,Monsters,1783,7168,22513,,
-15,Monsters,1784,7172,22514,veteran knight aberrant,
-15,Monsters,1785,7176,22538,veteran knight aberrant,
+15,Monsters,1784,7172,22514,veteran knight aberrant,สุดยอดไนท์แอบเบอร์แรนต์
+15,Monsters,1785,7176,22538,veteran knight aberrant,สุดยอดไนท์แอบเบอร์แรนต์
 15,Monsters,1786,7180,22562,,
-15,Monsters,1787,7184,22563,veteran knights aberrant,
+15,Monsters,1787,7184,22563,veteran knights aberrant,สุดยอดไนท์แอบเบอร์แรนต์
 15,Monsters,1788,7188,22588,the ,
 15,Monsters,1789,7192,22593,the ,
 15,Monsters,1790,7196,22598,a ,
 15,Monsters,1791,7200,22601,some ,
-15,Monsters,1792,7204,22607,tomb terror,
-15,Monsters,1793,7208,22619,tomb terror,
+15,Monsters,1792,7204,22607,tomb terror,ความสะพรึงแห่งสุสาน
+15,Monsters,1793,7208,22619,tomb terror,ความสะพรึงแห่งสุสาน
 15,Monsters,1794,7212,22631,,
-15,Monsters,1795,7216,22632,tomb terrors,
+15,Monsters,1795,7216,22632,tomb terrors,ความสะพรึงแห่งสุสาน
 15,Monsters,1796,7220,22645,the ,
 15,Monsters,1797,7224,22650,the ,
 15,Monsters,1798,7228,22655,a ,
 15,Monsters,1799,7232,22658,some ,
-15,Monsters,1800,7236,22664,tomb bowyer,
-15,Monsters,1801,7240,22676,tomb bowyer,
+15,Monsters,1800,7236,22664,tomb bowyer,พลธนูสุสาน
+15,Monsters,1801,7240,22676,tomb bowyer,พลธนูสุสาน
 15,Monsters,1802,7244,22688,,
-15,Monsters,1803,7248,22689,tomb bowyers,
+15,Monsters,1803,7248,22689,tomb bowyers,พลธนูสุสาน
 15,Monsters,1804,7252,22702,the ,
 15,Monsters,1805,7256,22707,the ,
 15,Monsters,1806,7260,22712,a ,
 15,Monsters,1807,7264,22715,some ,
-15,Monsters,1808,7268,22721,treasure troll,
-15,Monsters,1809,7272,22736,treasure troll,
+15,Monsters,1808,7268,22721,treasure troll,เทรเชอร์โทรลล์
+15,Monsters,1809,7272,22736,treasure troll,เทรเชอร์โทรลล์
 15,Monsters,1810,7276,22751,,
-15,Monsters,1811,7280,22752,treasure trolls,
+15,Monsters,1811,7280,22752,treasure trolls,เทรเชอร์โทรลล์
 15,Monsters,1812,7284,22768,the ,
 15,Monsters,1813,7288,22773,the ,
 15,Monsters,1814,7292,22778,a ,
 15,Monsters,1815,7296,22781,some ,
-15,Monsters,1816,7300,22787,autombaton,
-15,Monsters,1817,7304,22798,autombaton,
+15,Monsters,1816,7300,22787,autombaton,หุ่นกลอัตโนมัติ
+15,Monsters,1817,7304,22798,autombaton,หุ่นกลอัตโนมัติ
 15,Monsters,1818,7308,22809,,
-15,Monsters,1819,7312,22810,autombata,
+15,Monsters,1819,7312,22810,autombata,หุ่นกลอัตโนมัติ
 15,Monsters,1820,7316,22820,the ,
 15,Monsters,1821,7320,22825,the ,
 15,Monsters,1822,7324,22830,an ,
 15,Monsters,1823,7328,22834,some ,
-15,Monsters,1824,7332,22840,tombinator,
-15,Monsters,1825,7336,22851,tombinator,
+15,Monsters,1824,7332,22840,tombinator,ทอมบิเนเตอร์
+15,Monsters,1825,7336,22851,tombinator,ทอมบิเนเตอร์
 15,Monsters,1826,7340,22862,,
-15,Monsters,1827,7344,22863,tombinators,
+15,Monsters,1827,7344,22863,tombinators,ทอมบิเนเตอร์
 15,Monsters,1828,7348,22875,the ,
 15,Monsters,1829,7352,22880,the ,
 15,Monsters,1830,7356,22885,a ,
 15,Monsters,1831,7360,22888,some ,
-15,Monsters,1832,7364,22894,silver sabrecat,
-15,Monsters,1833,7368,22910,silver sabrecat,
+15,Monsters,1832,7364,22894,silver sabrecat,ซิลเวอร์เซเบอร์แคท
+15,Monsters,1833,7368,22910,silver sabrecat,ซิลเวอร์เซเบอร์แคท
 15,Monsters,1834,7372,22926,,
-15,Monsters,1835,7376,22927,silver sabrecats,
+15,Monsters,1835,7376,22927,silver sabrecats,ซิลเวอร์เซเบอร์แคท
 15,Monsters,1836,7380,22944,the ,
 15,Monsters,1837,7384,22949,the ,
 15,Monsters,1838,7388,22954,a ,
 15,Monsters,1839,7392,22957,some ,
-15,Monsters,1840,7396,22963,mawkeeper,
-15,Monsters,1841,7400,22973,mawkeeper,
+15,Monsters,1840,7396,22963,mawkeeper,ผู้พิทักษ์ประตูมิติ
+15,Monsters,1841,7400,22973,mawkeeper,ผู้พิทักษ์ประตูมิติ
 15,Monsters,1842,7404,22983,,
-15,Monsters,1843,7408,22984,mawkeepers,
+15,Monsters,1843,7408,22984,mawkeepers,ผู้พิทักษ์ประตูมิติ
 15,Monsters,1844,7412,22995,the ,
 15,Monsters,1845,7416,23000,the ,
 15,Monsters,1846,7420,23005,a ,
 15,Monsters,1847,7424,23008,some ,
-15,Monsters,1848,7428,23014,sand sniper,
-15,Monsters,1849,7432,23026,sand sniper,
+15,Monsters,1848,7428,23014,sand sniper,สไนเปอร์ทะเลทราย
+15,Monsters,1849,7432,23026,sand sniper,สไนเปอร์ทะเลทราย
 15,Monsters,1850,7436,23038,,
-15,Monsters,1851,7440,23039,sand snipers,
+15,Monsters,1851,7440,23039,sand snipers,สไนเปอร์ทะเลทราย
 15,Monsters,1852,7444,23052,the ,
 15,Monsters,1853,7448,23057,the ,
 15,Monsters,1854,7452,23062,a ,
 15,Monsters,1855,7456,23065,some ,
-15,Monsters,1856,7460,23071,Queen of Ingenia,
-15,Monsters,1857,7464,23088,Queen of Ingenia,
+15,Monsters,1856,7460,23071,Queen of Ingenia,ราชินีแห่งอินเกเนีย
+15,Monsters,1857,7464,23088,Queen of Ingenia,ราชินีแห่งอินเกเนีย
 15,Monsters,1858,7468,23105,,
-15,Monsters,1859,7472,23106,Queens of Ingenia,
+15,Monsters,1859,7472,23106,Queens of Ingenia,ราชินีแห่งอินเกเนีย
 15,Monsters,1860,7476,23124,the ,
 15,Monsters,1861,7480,23129,the ,
 15,Monsters,1862,7484,23134,the ,
 15,Monsters,1863,7488,23139,the ,
-15,Monsters,1864,7492,23144,drakulard,
-15,Monsters,1865,7496,23154,drakulard,
+15,Monsters,1864,7492,23144,drakulard,ดราคูลาร์ด
+15,Monsters,1865,7496,23154,drakulard,ดราคูลาร์ด
 15,Monsters,1866,7500,23164,,
-15,Monsters,1867,7504,23165,drakulards,
+15,Monsters,1867,7504,23165,drakulards,ดราคูลาร์ด
 15,Monsters,1868,7508,23176,the ,
 15,Monsters,1869,7512,23181,the ,
 15,Monsters,1870,7516,23186,a ,
 15,Monsters,1871,7520,23189,some ,
-15,Monsters,1872,7524,23195,Abominable Showman,
-15,Monsters,1873,7528,23214,Abominable Showman,
+15,Monsters,1872,7524,23195,Abominable Showman,นักแสดงสุดสะพรึง
+15,Monsters,1873,7528,23214,Abominable Showman,นักแสดงสุดสะพรึง
 15,Monsters,1874,7532,23233,,
-15,Monsters,1875,7536,23234,Abominable Showmen,
+15,Monsters,1875,7536,23234,Abominable Showmen,นักแสดงสุดสะพรึง
 15,Monsters,1876,7540,23253,the ,
 15,Monsters,1877,7544,23258,the ,
 15,Monsters,1878,7548,23263,the ,
 15,Monsters,1879,7552,23268,the ,
-15,Monsters,1880,7556,23273,King of Accordia,
-15,Monsters,1881,7560,23290,King of Accordia,
+15,Monsters,1880,7556,23273,King of Accordia,กษัตริย์แห่งออร์คาเนีย
+15,Monsters,1881,7560,23290,King of Accordia,กษัตริย์แห่งออร์คาเนีย
 15,Monsters,1882,7564,23307,,
-15,Monsters,1883,7568,23308,Kings of Accordia,
+15,Monsters,1883,7568,23308,Kings of Accordia,กษัตริย์แห่งออร์คาเนีย
 15,Monsters,1884,7572,23326,the ,
 15,Monsters,1885,7576,23331,the ,
 15,Monsters,1886,7580,23336,the ,
 15,Monsters,1887,7584,23341,the ,
-15,Monsters,1888,7588,23346,Atlas,
-15,Monsters,1889,7592,23352,Atlas,
+15,Monsters,1888,7588,23346,Atlas,แอตลาส
+15,Monsters,1889,7592,23352,Atlas,แอตลาส
 15,Monsters,1890,7596,23358,,
-15,Monsters,1891,7600,23359,Atlases,
+15,Monsters,1891,7600,23359,Atlases,แอตลาส
 15,Monsters,1892,7604,23367,,
 15,Monsters,1893,7608,23368,,
 15,Monsters,1894,7612,23369,,
 15,Monsters,1895,7616,23370,,
-15,Monsters,1896,7620,23371,veteran night clubber,
-15,Monsters,1897,7624,23393,veteran night clubber,
+15,Monsters,1896,7620,23371,veteran night clubber,สุดยอดไนท์คลับเบอร์
+15,Monsters,1897,7624,23393,veteran night clubber,สุดยอดไนท์คลับเบอร์
 15,Monsters,1898,7628,23415,,
-15,Monsters,1899,7632,23416,veteran night clubbers,
+15,Monsters,1899,7632,23416,veteran night clubbers,สุดยอดไนท์คลับเบอร์
 15,Monsters,1900,7636,23439,the ,
 15,Monsters,1901,7640,23444,the ,
 15,Monsters,1902,7644,23449,a ,
 15,Monsters,1903,7648,23452,some ,
-15,Monsters,1904,7652,23458,hood,
-15,Monsters,1905,7656,23463,hood,
+15,Monsters,1904,7652,23458,hood,จอมโจรมีฮู้ด
+15,Monsters,1905,7656,23463,hood,จอมโจรมีฮู้ด
 15,Monsters,1906,7660,23468,,
-15,Monsters,1907,7664,23469,hoods,
+15,Monsters,1907,7664,23469,hoods,จอมโจรมีฮู้ด
 15,Monsters,1908,7668,23475,the ,
 15,Monsters,1909,7672,23480,the ,
 15,Monsters,1910,7676,23485,a ,
 15,Monsters,1911,7680,23488,some ,
-15,Monsters,1912,7684,23494,glade invader,
-15,Monsters,1913,7688,23508,glade invader,
+15,Monsters,1912,7684,23494,glade invader,ผู้รุกรานพงไพร
+15,Monsters,1913,7688,23508,glade invader,ผู้รุกรานพงไพร
 15,Monsters,1914,7692,23522,,
-15,Monsters,1915,7696,23523,glade invaders,
+15,Monsters,1915,7696,23523,glade invaders,ผู้รุกรานพงไพร
 15,Monsters,1916,7700,23538,the ,
 15,Monsters,1917,7704,23543,the ,
 15,Monsters,1918,7708,23548,the ,
 15,Monsters,1919,7712,23553,some ,
-15,Monsters,1920,7716,23559,crimson killing machine,
-15,Monsters,1921,7720,23583,crimson killing machine,
+15,Monsters,1920,7716,23559,crimson killing machine,คิลเลอร์แมชชีนสีชาด
+15,Monsters,1921,7720,23583,crimson killing machine,คิลเลอร์แมชชีนสีชาด
 15,Monsters,1922,7724,23607,,
-15,Monsters,1923,7728,23608,crimson killing machines,
+15,Monsters,1923,7728,23608,crimson killing machines,คิลเลอร์แมชชีนสีชาด
 15,Monsters,1924,7732,23633,the ,
 15,Monsters,1925,7736,23638,the ,
 15,Monsters,1926,7740,23643,a ,
 15,Monsters,1927,7744,23646,some ,
-15,Monsters,1928,7748,23652,Ingenian royal guard,
-15,Monsters,1929,7752,23673,Ingenian royal guard,
+15,Monsters,1928,7748,23652,Ingenian royal guard,องครักษ์หลวงอินเกเนีย
+15,Monsters,1929,7752,23673,Ingenian royal guard,องครักษ์หลวงอินเกเนีย
 15,Monsters,1930,7756,23694,,
-15,Monsters,1931,7760,23695,Ingenian royal guard,
+15,Monsters,1931,7760,23695,Ingenian royal guard,องครักษ์หลวงอินเกเนีย
 15,Monsters,1932,7764,23716,the ,
 15,Monsters,1933,7768,23721,the ,
 15,Monsters,1934,7772,23726,an ,
 15,Monsters,1935,7776,23730,some ,
-15,Monsters,1936,7780,23736,Kadavan commander,
-15,Monsters,1937,7784,23754,Kadavan commander,
+15,Monsters,1936,7780,23736,Kadavan commander,ผู้บัญชาการคาดาวา
+15,Monsters,1937,7784,23754,Kadavan commander,ผู้บัญชาการคาดาวา
 15,Monsters,1938,7788,23772,,
-15,Monsters,1939,7792,23773,Kadavan commanders,
+15,Monsters,1939,7792,23773,Kadavan commanders,ผู้บัญชาการคาดาวา
 15,Monsters,1940,7796,23792,the ,
 15,Monsters,1941,7800,23797,the ,
 15,Monsters,1942,7804,23802,the ,
 15,Monsters,1943,7808,23807,some ,
-15,Monsters,1944,7812,23813,corpse corporal,
-15,Monsters,1945,7816,23829,corpse corporal,
+15,Monsters,1944,7812,23813,corpse corporal,คอร์ปส์คอร์ปอรัล
+15,Monsters,1945,7816,23829,corpse corporal,คอร์ปส์คอร์ปอรัล
 15,Monsters,1946,7820,23845,,
-15,Monsters,1947,7824,23846,corpse corporals,
+15,Monsters,1947,7824,23846,corpse corporals,คอร์ปส์คอร์ปอรัล
 15,Monsters,1948,7828,23863,the ,
 15,Monsters,1949,7832,23868,the ,
 15,Monsters,1950,7836,23873,a ,
 15,Monsters,1951,7840,23876,some ,
-15,Monsters,1952,7844,23882,Atlas,
-15,Monsters,1953,7848,23888,Atlas,
+15,Monsters,1952,7844,23882,Atlas,แอตลาส
+15,Monsters,1953,7848,23888,Atlas,แอตลาส
 15,Monsters,1954,7852,23894,,
-15,Monsters,1955,7856,23895,Atlases,
+15,Monsters,1955,7856,23895,Atlases,แอตลาส
 15,Monsters,1956,7860,23903,,
 15,Monsters,1957,7864,23904,,
 15,Monsters,1958,7868,23905,,
 15,Monsters,1959,7872,23906,,
-15,Monsters,1960,7876,23907,King of Kadava,
-15,Monsters,1961,7880,23922,King of Kadava,
+15,Monsters,1960,7876,23907,King of Kadava,กษัตริย์แห่งคาดาวา
+15,Monsters,1961,7880,23922,King of Kadava,กษัตริย์แห่งคาดาวา
 15,Monsters,1962,7884,23937,,
-15,Monsters,1963,7888,23938,Kings of Kadava,
+15,Monsters,1963,7888,23938,Kings of Kadava,กษัตริย์แห่งคาดาวา
 15,Monsters,1964,7892,23954,the ,
 15,Monsters,1965,7896,23959,the ,
 15,Monsters,1966,7900,23964,the ,
 15,Monsters,1967,7904,23969,the ,
-15,Monsters,1968,7908,23974,King of Klor,
-15,Monsters,1969,7912,23987,King of Klor,
+15,Monsters,1968,7908,23974,King of Klor,กษัตริย์แห่งคลอร์
+15,Monsters,1969,7912,23987,King of Klor,กษัตริย์แห่งคลอร์
 15,Monsters,1970,7916,24000,,
-15,Monsters,1971,7920,24001,Kings of Klor,
+15,Monsters,1971,7920,24001,Kings of Klor,กษัตริย์แห่งคลอร์
 15,Monsters,1972,7924,24015,the ,
 15,Monsters,1973,7928,24020,the ,
 15,Monsters,1974,7932,24025,the ,
 15,Monsters,1975,7936,24030,the ,
-15,Monsters,1976,7940,24035,Balzack,
-15,Monsters,1977,7944,24043,Balzack,
+15,Monsters,1976,7940,24035,Balzack,บัลแซค
+15,Monsters,1977,7944,24043,Balzack,บัลแซค
 15,Monsters,1978,7948,24051,,
-15,Monsters,1979,7952,24052,Balzacks,
+15,Monsters,1979,7952,24052,Balzacks,บัลแซค
 15,Monsters,1980,7956,24061,,
 15,Monsters,1981,7960,24062,,
 15,Monsters,1982,7964,24063,,
@@ -3991,266 +3991,266 @@
 15,Monsters,1989,7992,24070,,
 15,Monsters,1990,7996,24071,,
 15,Monsters,1991,8000,24072,,
-15,Monsters,1992,8004,24073,Cranked-Up King of Kadava,
-15,Monsters,1993,8008,24099,Cranked-Up King of Kadava,
+15,Monsters,1992,8004,24073,Cranked-Up King of Kadava,กษัตริย์คาดาวาคลุ้มคลั่ง
+15,Monsters,1993,8008,24099,Cranked-Up King of Kadava,กษัตริย์คาดาวาคลุ้มคลั่ง
 15,Monsters,1994,8012,24125,,
-15,Monsters,1995,8016,24126,Cranked-Up Kings of Kadava,
+15,Monsters,1995,8016,24126,Cranked-Up Kings of Kadava,กษัตริย์คาดาวาคลุ้มคลั่ง
 15,Monsters,1996,8020,24153,the ,
 15,Monsters,1997,8024,24158,the ,
 15,Monsters,1998,8028,24163,the ,
 15,Monsters,1999,8032,24168,the ,
-15,Monsters,2000,8036,24173,Cranked-Up King of Klor,
-15,Monsters,2001,8040,24197,Cranked-Up King of Klor,
+15,Monsters,2000,8036,24173,Cranked-Up King of Klor,กษัตริย์คลอร์คลุ้มคลั่ง
+15,Monsters,2001,8040,24197,Cranked-Up King of Klor,กษัตริย์คลอร์คลุ้มคลั่ง
 15,Monsters,2002,8044,24221,,
-15,Monsters,2003,8048,24222,Cranked-Up Kings of Klor,
+15,Monsters,2003,8048,24222,Cranked-Up Kings of Klor,กษัตริย์คลอร์คลุ้มคลั่ง
 15,Monsters,2004,8052,24247,the ,
 15,Monsters,2005,8056,24252,the ,
 15,Monsters,2006,8060,24257,the ,
 15,Monsters,2007,8064,24262,the ,
-15,Monsters,2008,8068,24267,Absolutely Abominable Showman,
-15,Monsters,2009,8072,24297,Absolutely Abominable Showman,
+15,Monsters,2008,8068,24267,Absolutely Abominable Showman,ยอดนักแสดงสุดสะพรึง
+15,Monsters,2009,8072,24297,Absolutely Abominable Showman,ยอดนักแสดงสุดสะพรึง
 15,Monsters,2010,8076,24327,,
-15,Monsters,2011,8080,24328,Absolutely Abominable Showmen,
+15,Monsters,2011,8080,24328,Absolutely Abominable Showmen,ยอดนักแสดงสุดสะพรึง
 15,Monsters,2012,8084,24358,the ,
 15,Monsters,2013,8088,24363,the ,
 15,Monsters,2014,8092,24368,the ,
 15,Monsters,2015,8096,24373,some ,
-15,Monsters,2016,8100,24379,Ultimate Atlas,
-15,Monsters,2017,8104,24394,Ultimate Atlas,
+15,Monsters,2016,8100,24379,Ultimate Atlas,อัลติเมทแอตลาส
+15,Monsters,2017,8104,24394,Ultimate Atlas,อัลติเมทแอตลาส
 15,Monsters,2018,8108,24409,,
-15,Monsters,2019,8112,24410,Ultimate Atlases,
+15,Monsters,2019,8112,24410,Ultimate Atlases,อัลติเมทแอตลาส
 15,Monsters,2020,8116,24427,,
 15,Monsters,2021,8120,24428,,
 15,Monsters,2022,8124,24429,,
 15,Monsters,2023,8128,24430,,
-15,Monsters,2024,8132,24431,veteran pazuzu,
-15,Monsters,2025,8136,24446,veteran pazuzu,
+15,Monsters,2024,8132,24431,veteran pazuzu,สุดยอดพาซูซู
+15,Monsters,2025,8136,24446,veteran pazuzu,สุดยอดพาซูซู
 15,Monsters,2026,8140,24461,,
-15,Monsters,2027,8144,24462,veteran pazuzus,
+15,Monsters,2027,8144,24462,veteran pazuzus,สุดยอดพาซูซู
 15,Monsters,2028,8148,24478,the ,
 15,Monsters,2029,8152,24483,the ,
 15,Monsters,2030,8156,24488,a ,
 15,Monsters,2031,8160,24491,some ,
-15,Monsters,2032,8164,24497,veteran belial,
-15,Monsters,2033,8168,24512,veteran belial,
+15,Monsters,2032,8164,24497,veteran belial,สุดยอดเบลิอัล
+15,Monsters,2033,8168,24512,veteran belial,สุดยอดเบลิอัล
 15,Monsters,2034,8172,24527,,
-15,Monsters,2035,8176,24528,veteran belials,
+15,Monsters,2035,8176,24528,veteran belials,สุดยอดเบลิอัล
 15,Monsters,2036,8180,24544,the ,
 15,Monsters,2037,8184,24549,the ,
 15,Monsters,2038,8188,24554,a ,
 15,Monsters,2039,8192,24557,some ,
-15,Monsters,2040,8196,24563,Cranked-Up King of Al-Khazam,
-15,Monsters,2041,8200,24592,Cranked-Up King of Al-Khazam,
+15,Monsters,2040,8196,24563,Cranked-Up King of Al-Khazam,กษัตริย์อัลคาซัมคลุ้มคลั่ง
+15,Monsters,2041,8200,24592,Cranked-Up King of Al-Khazam,กษัตริย์อัลคาซัมคลุ้มคลั่ง
 15,Monsters,2042,8204,24621,,
-15,Monsters,2043,8208,24622,Cranked-Up Kings of Al-Khazam,
+15,Monsters,2043,8208,24622,Cranked-Up Kings of Al-Khazam,กษัตริย์อัลคาซัมคลุ้มคลั่ง
 15,Monsters,2044,8212,24652,the ,
 15,Monsters,2045,8216,24657,the ,
 15,Monsters,2046,8220,24662,the ,
 15,Monsters,2047,8224,24667,some ,
-15,Monsters,2048,8228,24673,Cranked-Up King of Accordia,
-15,Monsters,2049,8232,24701,Cranked-Up King of Accordia,
+15,Monsters,2048,8228,24673,Cranked-Up King of Accordia,กษัตริย์ออร์คาเนียคลุ้มคลั่ง
+15,Monsters,2049,8232,24701,Cranked-Up King of Accordia,กษัตริย์ออร์คาเนียคลุ้มคลั่ง
 15,Monsters,2050,8236,24729,,
-15,Monsters,2051,8240,24730,Cranked-Up Kings of Accordia,
+15,Monsters,2051,8240,24730,Cranked-Up Kings of Accordia,กษัตริย์ออร์คาเนียคลุ้มคลั่ง
 15,Monsters,2052,8244,24759,the ,
 15,Monsters,2053,8248,24764,the ,
 15,Monsters,2054,8252,24769,the ,
 15,Monsters,2055,8256,24774,the ,
-15,Monsters,2056,8260,24779,Lord Lionidas,
-15,Monsters,2057,8264,24793,Lord Lionidas,
+15,Monsters,2056,8260,24779,Lord Lionidas,ลอร์ดไลโอนิดาส
+15,Monsters,2057,8264,24793,Lord Lionidas,ลอร์ดไลโอนิดาส
 15,Monsters,2058,8268,24807,,
-15,Monsters,2059,8272,24808,Lord Lionidas,
+15,Monsters,2059,8272,24808,Lord Lionidas,ลอร์ดไลโอนิดาส
 15,Monsters,2060,8276,24822,,
 15,Monsters,2061,8280,24823,,
 15,Monsters,2062,8284,24824,,
 15,Monsters,2063,8288,24825,,
-15,Monsters,2064,8292,24826,veteran master moosifer,
-15,Monsters,2065,8296,24850,veteran master moosifer,
+15,Monsters,2064,8292,24826,veteran master moosifer,สุดยอดมาสเตอร์มูซิเฟอร์
+15,Monsters,2065,8296,24850,veteran master moosifer,สุดยอดมาสเตอร์มูซิเฟอร์
 15,Monsters,2066,8300,24874,,
-15,Monsters,2067,8304,24875,veteran master moosifers,
+15,Monsters,2067,8304,24875,veteran master moosifers,สุดยอดมาสเตอร์มูซิเฟอร์
 15,Monsters,2068,8308,24900,the ,
 15,Monsters,2069,8312,24905,the ,
 15,Monsters,2070,8316,24910,a ,
 15,Monsters,2071,8320,24913,some ,
-15,Monsters,2072,8324,24919,veteran pruslas ,
-15,Monsters,2073,8328,24936,veteran pruslas ,
+15,Monsters,2072,8324,24919,veteran pruslas ,สุดยอดพรุสลาส
+15,Monsters,2073,8328,24936,veteran pruslas ,สุดยอดพรุสลาส
 15,Monsters,2074,8332,24953,,
-15,Monsters,2075,8336,24954,veteran pruslas ,
+15,Monsters,2075,8336,24954,veteran pruslas ,สุดยอดพรุสลาส
 15,Monsters,2076,8340,24971,the ,
 15,Monsters,2077,8344,24976,the ,
 15,Monsters,2078,8348,24981,a ,
 15,Monsters,2079,8352,24984,some ,
-15,Monsters,2080,8356,24990,Full-On Fractos,
-15,Monsters,2081,8360,25006,Full-On Fractos,
+15,Monsters,2080,8356,24990,Full-On Fractos,ฟรักทอส ร่างแท้จริง
+15,Monsters,2081,8360,25006,Full-On Fractos,ฟรักทอส ร่างแท้จริง
 15,Monsters,2082,8364,25022,,
-15,Monsters,2083,8368,25023,Full-On Fractoses,
+15,Monsters,2083,8368,25023,Full-On Fractoses,ฟรักทอส ร่างแท้จริง
 15,Monsters,2084,8372,25041,,
 15,Monsters,2085,8376,25042,,
 15,Monsters,2086,8380,25043,,
 15,Monsters,2087,8384,25044,,
-15,Monsters,2088,8388,25045,Full-On Fractos Unfettered,
-15,Monsters,2089,8392,25072,Full-On Fractos Unfettered,
+15,Monsters,2088,8388,25045,Full-On Fractos Unfettered,ฟรักทอส ร่างแท้จริงปลดปล่อย
+15,Monsters,2089,8392,25072,Full-On Fractos Unfettered,ฟรักทอส ร่างแท้จริงปลดปล่อย
 15,Monsters,2090,8396,25099,,
-15,Monsters,2091,8400,25100,Full-On Fractoses Unfettered,
+15,Monsters,2091,8400,25100,Full-On Fractoses Unfettered,ฟรักทอส ร่างแท้จริงปลดปล่อย
 15,Monsters,2092,8404,25129,,
 15,Monsters,2093,8408,25130,,
 15,Monsters,2094,8412,25131,,
 15,Monsters,2095,8416,25132,,
-15,Monsters,2096,8420,25133,veteran drakulard,
-15,Monsters,2097,8424,25151,veteran drakulard,
+15,Monsters,2096,8420,25133,veteran drakulard,สุดยอดดราคูลาร์ด
+15,Monsters,2097,8424,25151,veteran drakulard,สุดยอดดราคูลาร์ด
 15,Monsters,2098,8428,25169,,
-15,Monsters,2099,8432,25170,veteran drakulards,
+15,Monsters,2099,8432,25170,veteran drakulards,สุดยอดดราคูลาร์ด
 15,Monsters,2100,8436,25189,the ,
 15,Monsters,2101,8440,25194,the ,
 15,Monsters,2102,8444,25199,a ,
 15,Monsters,2103,8448,25202,some ,
-15,Monsters,2104,8452,25208,veteran hood,
-15,Monsters,2105,8456,25221,veteran hood,
+15,Monsters,2104,8452,25208,veteran hood,สุดยอดจอมโจรมีฮู้ด
+15,Monsters,2105,8456,25221,veteran hood,สุดยอดจอมโจรมีฮู้ด
 15,Monsters,2106,8460,25234,,
-15,Monsters,2107,8464,25235,veteran hoods,
+15,Monsters,2107,8464,25235,veteran hoods,สุดยอดจอมโจรมีฮู้ด
 15,Monsters,2108,8468,25249,the ,
 15,Monsters,2109,8472,25254,the ,
 15,Monsters,2110,8476,25259,a ,
 15,Monsters,2111,8480,25262,some ,
-15,Monsters,2112,8484,25268,Big Bad Balzack,
-15,Monsters,2113,8488,25284,Big Bad Balzack,
+15,Monsters,2112,8484,25268,Big Bad Balzack,จอมมารบัลแซค
+15,Monsters,2113,8488,25284,Big Bad Balzack,จอมมารบัลแซค
 15,Monsters,2114,8492,25300,,
-15,Monsters,2115,8496,25301,Big Bad Balzacks,
+15,Monsters,2115,8496,25301,Big Bad Balzacks,จอมมารบัลแซค
 15,Monsters,2116,8500,25318,,
 15,Monsters,2117,8504,25319,,
 15,Monsters,2118,8508,25320,,
 15,Monsters,2119,8512,25321,,
-15,Monsters,2120,8516,25322,dungeon master,
-15,Monsters,2121,8520,25337,dungeon master,
+15,Monsters,2120,8516,25322,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2121,8520,25337,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2122,8524,25352,,
-15,Monsters,2123,8528,25353,dungeon masters,
+15,Monsters,2123,8528,25353,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2124,8532,25369,the ,
 15,Monsters,2125,8536,25374,the ,
 15,Monsters,2126,8540,25379,a ,
 15,Monsters,2127,8544,25382,some ,
-15,Monsters,2128,8548,25388,dungeon master,
-15,Monsters,2129,8552,25403,dungeon master,
+15,Monsters,2128,8548,25388,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2129,8552,25403,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2130,8556,25418,,
-15,Monsters,2131,8560,25419,dungeon masters,
+15,Monsters,2131,8560,25419,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2132,8564,25435,the ,
 15,Monsters,2133,8568,25440,the ,
 15,Monsters,2134,8572,25445,a ,
 15,Monsters,2135,8576,25448,some ,
-15,Monsters,2136,8580,25454,dungeon master,
-15,Monsters,2137,8584,25469,dungeon master,
+15,Monsters,2136,8580,25454,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2137,8584,25469,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2138,8588,25484,,
-15,Monsters,2139,8592,25485,dungeon masters,
+15,Monsters,2139,8592,25485,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2140,8596,25501,the ,
 15,Monsters,2141,8600,25506,the ,
 15,Monsters,2142,8604,25511,a ,
 15,Monsters,2143,8608,25514,some ,
-15,Monsters,2144,8612,25520,dungeon master,
-15,Monsters,2145,8616,25535,dungeon master,
+15,Monsters,2144,8612,25520,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2145,8616,25535,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2146,8620,25550,,
-15,Monsters,2147,8624,25551,dungeon masters,
+15,Monsters,2147,8624,25551,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2148,8628,25567,the ,
 15,Monsters,2149,8632,25572,the ,
 15,Monsters,2150,8636,25577,a ,
 15,Monsters,2151,8640,25580,some ,
-15,Monsters,2152,8644,25586,dungeon master,
-15,Monsters,2153,8648,25601,dungeon master,
+15,Monsters,2152,8644,25586,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2153,8648,25601,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2154,8652,25616,,
-15,Monsters,2155,8656,25617,dungeon masters,
+15,Monsters,2155,8656,25617,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2156,8660,25633,the ,
 15,Monsters,2157,8664,25638,the ,
 15,Monsters,2158,8668,25643,a ,
 15,Monsters,2159,8672,25646,some ,
-15,Monsters,2160,8676,25652,dungeon master,
-15,Monsters,2161,8680,25667,dungeon master,
+15,Monsters,2160,8676,25652,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2161,8680,25667,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2162,8684,25682,,
-15,Monsters,2163,8688,25683,dungeon masters,
+15,Monsters,2163,8688,25683,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2164,8692,25699,the ,
 15,Monsters,2165,8696,25704,the ,
 15,Monsters,2166,8700,25709,a ,
 15,Monsters,2167,8704,25712,some ,
-15,Monsters,2168,8708,25718,dungeon master,
-15,Monsters,2169,8712,25733,dungeon master,
+15,Monsters,2168,8708,25718,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2169,8712,25733,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2170,8716,25748,,
-15,Monsters,2171,8720,25749,dungeon masters,
+15,Monsters,2171,8720,25749,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2172,8724,25765,the ,
 15,Monsters,2173,8728,25770,the ,
 15,Monsters,2174,8732,25775,a ,
 15,Monsters,2175,8736,25778,some ,
-15,Monsters,2176,8740,25784,dungeon master,
-15,Monsters,2177,8744,25799,dungeon master,
+15,Monsters,2176,8740,25784,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2177,8744,25799,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2178,8748,25814,,
-15,Monsters,2179,8752,25815,dungeon masters,
+15,Monsters,2179,8752,25815,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2180,8756,25831,the ,
 15,Monsters,2181,8760,25836,the ,
 15,Monsters,2182,8764,25841,a ,
 15,Monsters,2183,8768,25844,some ,
-15,Monsters,2184,8772,25850,dungeon master,
-15,Monsters,2185,8776,25865,dungeon master,
+15,Monsters,2184,8772,25850,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2185,8776,25865,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2186,8780,25880,,
-15,Monsters,2187,8784,25881,dungeon masters,
+15,Monsters,2187,8784,25881,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2188,8788,25897,the ,
 15,Monsters,2189,8792,25902,the ,
 15,Monsters,2190,8796,25907,a ,
 15,Monsters,2191,8800,25910,some ,
-15,Monsters,2192,8804,25916,dungeon master,
-15,Monsters,2193,8808,25931,dungeon master,
+15,Monsters,2192,8804,25916,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2193,8808,25931,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2194,8812,25946,,
-15,Monsters,2195,8816,25947,dungeon masters,
+15,Monsters,2195,8816,25947,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2196,8820,25963,the ,
 15,Monsters,2197,8824,25968,the ,
 15,Monsters,2198,8828,25973,a ,
 15,Monsters,2199,8832,25976,some ,
-15,Monsters,2200,8836,25982,dungeon master,
-15,Monsters,2201,8840,25997,dungeon master,
+15,Monsters,2200,8836,25982,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2201,8840,25997,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2202,8844,26012,,
-15,Monsters,2203,8848,26013,dungeon masters,
+15,Monsters,2203,8848,26013,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2204,8852,26029,the ,
 15,Monsters,2205,8856,26034,the ,
 15,Monsters,2206,8860,26039,a ,
 15,Monsters,2207,8864,26042,some ,
-15,Monsters,2208,8868,26048,dungeon master,
-15,Monsters,2209,8872,26063,dungeon master,
+15,Monsters,2208,8868,26048,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2209,8872,26063,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2210,8876,26078,,
-15,Monsters,2211,8880,26079,dungeon masters,
+15,Monsters,2211,8880,26079,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2212,8884,26095,the ,
 15,Monsters,2213,8888,26100,the ,
 15,Monsters,2214,8892,26105,a ,
 15,Monsters,2215,8896,26108,some ,
-15,Monsters,2216,8900,26114,dungeon master,
-15,Monsters,2217,8904,26129,dungeon master,
+15,Monsters,2216,8900,26114,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2217,8904,26129,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2218,8908,26144,,
-15,Monsters,2219,8912,26145,dungeon masters,
+15,Monsters,2219,8912,26145,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2220,8916,26161,the ,
 15,Monsters,2221,8920,26166,the ,
 15,Monsters,2222,8924,26171,a ,
 15,Monsters,2223,8928,26174,some ,
-15,Monsters,2224,8932,26180,veteran platypunk,
-15,Monsters,2225,8936,26198,veteran platypunk,
+15,Monsters,2224,8932,26180,veteran platypunk,สุดยอดโมมอนจา
+15,Monsters,2225,8936,26198,veteran platypunk,สุดยอดโมมอนจา
 15,Monsters,2226,8940,26216,,
-15,Monsters,2227,8944,26217,veteran platypunk,
+15,Monsters,2227,8944,26217,veteran platypunk,สุดยอดโมมอนจา
 15,Monsters,2228,8948,26235,the ,
 15,Monsters,2229,8952,26240,the ,
 15,Monsters,2230,8956,26245,a ,
 15,Monsters,2231,8960,26248,some ,
-15,Monsters,2232,8964,26254,veteran candy cat,
-15,Monsters,2233,8968,26272,veteran candy cat,
+15,Monsters,2232,8964,26254,veteran candy cat,สุดยอดแคนดี้แคท
+15,Monsters,2233,8968,26272,veteran candy cat,สุดยอดแคนดี้แคท
 15,Monsters,2234,8972,26290,,
-15,Monsters,2235,8976,26291,veteran candy cat,
+15,Monsters,2235,8976,26291,veteran candy cat,สุดยอดแคนดี้แคท
 15,Monsters,2236,8980,26309,the ,
 15,Monsters,2237,8984,26314,the ,
 15,Monsters,2238,8988,26319,a ,
 15,Monsters,2239,8992,26322,some ,
-15,Monsters,2240,8996,26328,veteran great sabrecat,
-15,Monsters,2241,9000,26351,veteran great sabrecat,
+15,Monsters,2240,8996,26328,veteran great sabrecat,สุดยอดเกรตเซเบอร์แคท
+15,Monsters,2241,9000,26351,veteran great sabrecat,สุดยอดเกรตเซเบอร์แคท
 15,Monsters,2242,9004,26374,,
-15,Monsters,2243,9008,26375,veteran great sabrecat,
+15,Monsters,2243,9008,26375,veteran great sabrecat,สุดยอดเกรตเซเบอร์แคท
 15,Monsters,2244,9012,26398,the ,
 15,Monsters,2245,9016,26403,the ,
 15,Monsters,2246,9020,26408,a ,
 15,Monsters,2247,9024,26411,some ,
-15,Monsters,2248,9028,26417,mimic,
-15,Monsters,2249,9032,26423,mimic,
+15,Monsters,2248,9028,26417,mimic,มิมิก
+15,Monsters,2249,9032,26423,mimic,มิมิก
 15,Monsters,2250,9036,26429,,
-15,Monsters,2251,9040,26430,mimics,
+15,Monsters,2251,9040,26430,mimics,มิมิก
 15,Monsters,2252,9044,26437,the ,
 15,Monsters,2253,9048,26442,the ,
 15,Monsters,2254,9052,26447,a ,
@@ -4303,82 +4303,82 @@
 15,Monsters,2301,9240,26501,,
 15,Monsters,2302,9244,26502,,
 15,Monsters,2303,9248,26503,,
-15,Monsters,2304,9252,26504,veteran missing lynx,
-15,Monsters,2305,9256,26525,veteran missing lynx,
+15,Monsters,2304,9252,26504,veteran missing lynx,สุดยอดลิงซ์ล่องหน
+15,Monsters,2305,9256,26525,veteran missing lynx,สุดยอดลิงซ์ล่องหน
 15,Monsters,2306,9260,26546,,
-15,Monsters,2307,9264,26547,veteran missing lynxes,
+15,Monsters,2307,9264,26547,veteran missing lynxes,สุดยอดลิงซ์ล่องหน
 15,Monsters,2308,9268,26570,the ,
 15,Monsters,2309,9272,26575,the ,
 15,Monsters,2310,9276,26580,a ,
 15,Monsters,2311,9280,26583,some ,
-15,Monsters,2312,9284,26589,veteran wight priest,
-15,Monsters,2313,9288,26610,veteran wight priest,
+15,Monsters,2312,9284,26589,veteran wight priest,สุดยอดไวท์พรีสต์
+15,Monsters,2313,9288,26610,veteran wight priest,สุดยอดไวท์พรีสต์
 15,Monsters,2314,9292,26631,,
-15,Monsters,2315,9296,26632,veteran wight priests,
+15,Monsters,2315,9296,26632,veteran wight priests,สุดยอดไวท์พรีสต์
 15,Monsters,2316,9300,26654,the ,
 15,Monsters,2317,9304,26659,the ,
 15,Monsters,2318,9308,26664,a ,
 15,Monsters,2319,9312,26667,some ,
-15,Monsters,2320,9316,26673,dungeon master,
-15,Monsters,2321,9320,26688,dungeon master,
+15,Monsters,2320,9316,26673,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2321,9320,26688,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2322,9324,26703,,
-15,Monsters,2323,9328,26704,dungeon masters,
+15,Monsters,2323,9328,26704,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2324,9332,26720,the ,
 15,Monsters,2325,9336,26725,the ,
 15,Monsters,2326,9340,26730,a ,
 15,Monsters,2327,9344,26733,some ,
-15,Monsters,2328,9348,26739,Estark,
-15,Monsters,2329,9352,26746,Estark,
+15,Monsters,2328,9348,26739,Estark,เอสทาร์ก
+15,Monsters,2329,9352,26746,Estark,เอสทาร์ก
 15,Monsters,2330,9356,26753,,
-15,Monsters,2331,9360,26754,Estarks,
+15,Monsters,2331,9360,26754,Estarks,เอสทาร์ก
 15,Monsters,2332,9364,26762,,
 15,Monsters,2333,9368,26763,,
 15,Monsters,2334,9372,26764,,
 15,Monsters,2335,9376,26765,,
-15,Monsters,2336,9380,26766,Dragonlord,
-15,Monsters,2337,9384,26777,Dragonlord,
+15,Monsters,2336,9380,26766,Dragonlord,ราชามังกร
+15,Monsters,2337,9384,26777,Dragonlord,ราชามังกร
 15,Monsters,2338,9388,26788,,
-15,Monsters,2339,9392,26789,Dragonlords,
+15,Monsters,2339,9392,26789,Dragonlords,ราชามังกร
 15,Monsters,2340,9396,26801,the ,
 15,Monsters,2341,9400,26806,the ,
 15,Monsters,2342,9404,26811,the ,
 15,Monsters,2343,9408,26816,some ,
-15,Monsters,2344,9412,26822,Dragonlord,
-15,Monsters,2345,9416,26833,Dragonlord,
+15,Monsters,2344,9412,26822,Dragonlord,ราชามังกร
+15,Monsters,2345,9416,26833,Dragonlord,ราชามังกร
 15,Monsters,2346,9420,26844,,
-15,Monsters,2347,9424,26845,Dragonlords,
+15,Monsters,2347,9424,26845,Dragonlords,ราชามังกร
 15,Monsters,2348,9428,26857,the ,
 15,Monsters,2349,9432,26862,the ,
 15,Monsters,2350,9436,26867,the ,
 15,Monsters,2351,9440,26872,some ,
-15,Monsters,2352,9444,26878,Samson Knight,
-15,Monsters,2353,9448,26892,Samson Knight,
+15,Monsters,2352,9444,26878,Samson Knight,อัศวินแซมสัน
+15,Monsters,2353,9448,26892,Samson Knight,อัศวินแซมสัน
 15,Monsters,2354,9452,26906,,
-15,Monsters,2355,9456,26907,Samson Knights,
+15,Monsters,2355,9456,26907,Samson Knights,อัศวินแซมสัน
 15,Monsters,2356,9460,26922,,
 15,Monsters,2357,9464,26923,,
 15,Monsters,2358,9468,26924,,
 15,Monsters,2359,9472,26925,,
-15,Monsters,2360,9476,26926,Abominable Showman,
-15,Monsters,2361,9480,26945,Abominable Showman,
+15,Monsters,2360,9476,26926,Abominable Showman,นักแสดงสุดสะพรึง
+15,Monsters,2361,9480,26945,Abominable Showman,นักแสดงสุดสะพรึง
 15,Monsters,2362,9484,26964,,
-15,Monsters,2363,9488,26965,Abominable Showmen,
+15,Monsters,2363,9488,26965,Abominable Showmen,นักแสดงสุดสะพรึง
 15,Monsters,2364,9492,26984,the ,
 15,Monsters,2365,9496,26989,the ,
 15,Monsters,2366,9500,26994,the ,
 15,Monsters,2367,9504,26999,some ,
-15,Monsters,2368,9508,27005,Estark Extreme,
-15,Monsters,2369,9512,27020,Estark Extreme,
+15,Monsters,2368,9508,27005,Estark Extreme,เอสทาร์ก เอ็กซ์ตรีม
+15,Monsters,2369,9512,27020,Estark Extreme,เอสทาร์ก เอ็กซ์ตรีม
 15,Monsters,2370,9516,27035,,
-15,Monsters,2371,9520,27036,Estark Extremes,
+15,Monsters,2371,9520,27036,Estark Extremes,เอสทาร์ก เอ็กซ์ตรีม
 15,Monsters,2372,9524,27052,,
 15,Monsters,2373,9528,27053,,
 15,Monsters,2374,9532,27054,,
 15,Monsters,2375,9536,27055,,
-15,Monsters,2376,9540,27056,Dread Dragonlord,
-15,Monsters,2377,9544,27073,Dread Dragonlord,
+15,Monsters,2376,9540,27056,Dread Dragonlord,ราชามังกรผู้น่าสะพรึง
+15,Monsters,2377,9544,27073,Dread Dragonlord,ราชามังกรผู้น่าสะพรึง
 15,Monsters,2378,9548,27090,,
-15,Monsters,2379,9552,27091,Dread Dragonlords,
+15,Monsters,2379,9552,27091,Dread Dragonlords,ราชามังกรผู้น่าสะพรึง
 15,Monsters,2380,9556,27109,the ,
 15,Monsters,2381,9560,27114,the ,
 15,Monsters,2382,9564,27119,the ,
@@ -4391,82 +4391,82 @@
 15,Monsters,2389,9592,27135,,
 15,Monsters,2390,9596,27136,,
 15,Monsters,2391,9600,27137,,
-15,Monsters,2392,9604,27138,Devastating Dragonlord,
-15,Monsters,2393,9608,27161,Devastating Dragonlord,
+15,Monsters,2392,9604,27138,Devastating Dragonlord,ราชามังกรผู้ทำลายล้าง
+15,Monsters,2393,9608,27161,Devastating Dragonlord,ราชามังกรผู้ทำลายล้าง
 15,Monsters,2394,9612,27184,,
-15,Monsters,2395,9616,27185,Devastating Dragonlords,
+15,Monsters,2395,9616,27185,Devastating Dragonlords,ราชามังกรผู้ทำลายล้าง
 15,Monsters,2396,9620,27209,the ,
 15,Monsters,2397,9624,27214,the ,
 15,Monsters,2398,9628,27219,the ,
 15,Monsters,2399,9632,27224,some ,
-15,Monsters,2400,9636,27230,dungeon master,
-15,Monsters,2401,9640,27245,dungeon master,
+15,Monsters,2400,9636,27230,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2401,9640,27245,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2402,9644,27260,,
-15,Monsters,2403,9648,27261,dungeon masters,
+15,Monsters,2403,9648,27261,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2404,9652,27277,the ,
 15,Monsters,2405,9656,27282,the ,
 15,Monsters,2406,9660,27287,a ,
 15,Monsters,2407,9664,27290,some ,
-15,Monsters,2408,9668,27296,dungeon master,
-15,Monsters,2409,9672,27311,dungeon master,
+15,Monsters,2408,9668,27296,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2409,9672,27311,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2410,9676,27326,,
-15,Monsters,2411,9680,27327,dungeon masters,
+15,Monsters,2411,9680,27327,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2412,9684,27343,the ,
 15,Monsters,2413,9688,27348,the ,
 15,Monsters,2414,9692,27353,a ,
 15,Monsters,2415,9696,27356,some ,
-15,Monsters,2416,9700,27362,dungeon master,
-15,Monsters,2417,9704,27377,dungeon master,
+15,Monsters,2416,9700,27362,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2417,9704,27377,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2418,9708,27392,,
-15,Monsters,2419,9712,27393,dungeon masters,
+15,Monsters,2419,9712,27393,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2420,9716,27409,the ,
 15,Monsters,2421,9720,27414,the ,
 15,Monsters,2422,9724,27419,a ,
 15,Monsters,2423,9728,27422,some ,
-15,Monsters,2424,9732,27428,dungeon master,
-15,Monsters,2425,9736,27443,dungeon master,
+15,Monsters,2424,9732,27428,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2425,9736,27443,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2426,9740,27458,,
-15,Monsters,2427,9744,27459,dungeon masters,
+15,Monsters,2427,9744,27459,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2428,9748,27475,the ,
 15,Monsters,2429,9752,27480,the ,
 15,Monsters,2430,9756,27485,a ,
 15,Monsters,2431,9760,27488,some ,
-15,Monsters,2432,9764,27494,dungeon master,
-15,Monsters,2433,9768,27509,dungeon master,
+15,Monsters,2432,9764,27494,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2433,9768,27509,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2434,9772,27524,,
-15,Monsters,2435,9776,27525,dungeon masters,
+15,Monsters,2435,9776,27525,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2436,9780,27541,the ,
 15,Monsters,2437,9784,27546,the ,
 15,Monsters,2438,9788,27551,a ,
 15,Monsters,2439,9792,27554,some ,
-15,Monsters,2440,9796,27560,dungeon master,
-15,Monsters,2441,9800,27575,dungeon master,
+15,Monsters,2440,9796,27560,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2441,9800,27575,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2442,9804,27590,,
-15,Monsters,2443,9808,27591,dungeon masters,
+15,Monsters,2443,9808,27591,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2444,9812,27607,the ,
 15,Monsters,2445,9816,27612,the ,
 15,Monsters,2446,9820,27617,a ,
 15,Monsters,2447,9824,27620,some ,
-15,Monsters,2448,9828,27626,dungeon master,
-15,Monsters,2449,9832,27641,dungeon master,
+15,Monsters,2448,9828,27626,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2449,9832,27641,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2450,9836,27656,,
-15,Monsters,2451,9840,27657,dungeon masters,
+15,Monsters,2451,9840,27657,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2452,9844,27673,the ,
 15,Monsters,2453,9848,27678,the ,
 15,Monsters,2454,9852,27683,a ,
 15,Monsters,2455,9856,27686,some ,
-15,Monsters,2456,9860,27692,dungeon master,
-15,Monsters,2457,9864,27707,dungeon master,
+15,Monsters,2456,9860,27692,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2457,9864,27707,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2458,9868,27722,,
-15,Monsters,2459,9872,27723,dungeon masters,
+15,Monsters,2459,9872,27723,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2460,9876,27739,the ,
 15,Monsters,2461,9880,27744,the ,
 15,Monsters,2462,9884,27749,a ,
 15,Monsters,2463,9888,27752,some ,
-15,Monsters,2464,9892,27758,dungeon master,
-15,Monsters,2465,9896,27773,dungeon master,
+15,Monsters,2464,9892,27758,dungeon master,ผู้คุมดันเจียน
+15,Monsters,2465,9896,27773,dungeon master,ผู้คุมดันเจียน
 15,Monsters,2466,9900,27788,,
-15,Monsters,2467,9904,27789,dungeon masters,
+15,Monsters,2467,9904,27789,dungeon masters,ผู้คุมดันเจียน
 15,Monsters,2468,9908,27805,the ,
 15,Monsters,2469,9912,27810,the ,
 15,Monsters,2470,9916,27815,a ,
@@ -4479,66 +4479,66 @@
 15,Monsters,2477,9944,27829,,
 15,Monsters,2478,9948,27830,,
 15,Monsters,2479,9952,27831,,
-15,Monsters,2480,9956,27832,slime,
-15,Monsters,2481,9960,27838,slime,
+15,Monsters,2480,9956,27832,slime,สไลม์
+15,Monsters,2481,9960,27838,slime,สไลม์
 15,Monsters,2482,9964,27844,,
-15,Monsters,2483,9968,27845,slimes,
+15,Monsters,2483,9968,27845,slimes,สไลม์
 15,Monsters,2484,9972,27852,the ,
 15,Monsters,2485,9976,27857,the ,
 15,Monsters,2486,9980,27862,a ,
 15,Monsters,2487,9984,27865,some ,
-15,Monsters,2488,9988,27871,dracky,
-15,Monsters,2489,9992,27878,dracky,
+15,Monsters,2488,9988,27871,dracky,ดรากี้
+15,Monsters,2489,9992,27878,dracky,ดรากี้
 15,Monsters,2490,9996,27885,,
-15,Monsters,2491,10000,27886,drackies,
+15,Monsters,2491,10000,27886,drackies,ดรากี้
 15,Monsters,2492,10004,27895,the ,
 15,Monsters,2493,10008,27900,the ,
 15,Monsters,2494,10012,27905,a ,
 15,Monsters,2495,10016,27908,some ,
-15,Monsters,2496,10020,27914,skeleton,
-15,Monsters,2497,10024,27923,skeleton,
+15,Monsters,2496,10020,27914,skeleton,โครงกระดูก
+15,Monsters,2497,10024,27923,skeleton,โครงกระดูก
 15,Monsters,2498,10028,27932,,
-15,Monsters,2499,10032,27933,skeletons,
+15,Monsters,2499,10032,27933,skeletons,โครงกระดูก
 15,Monsters,2500,10036,27943,the ,
 15,Monsters,2501,10040,27948,the ,
 15,Monsters,2502,10044,27953,a ,
 15,Monsters,2503,10048,27956,some ,
-15,Monsters,2504,10052,27962,ghost,
-15,Monsters,2505,10056,27968,ghost,
+15,Monsters,2504,10052,27962,ghost,ผีโกสต์
+15,Monsters,2505,10056,27968,ghost,ผีโกสต์
 15,Monsters,2506,10060,27974,,
-15,Monsters,2507,10064,27975,ghosts,
+15,Monsters,2507,10064,27975,ghosts,ผีโกสต์
 15,Monsters,2508,10068,27982,the ,
 15,Monsters,2509,10072,27987,the ,
 15,Monsters,2510,10076,27992,a ,
 15,Monsters,2511,10080,27995,some ,
-15,Monsters,2512,10084,28001,dread dragon,
-15,Monsters,2513,10088,28014,dread dragon,
+15,Monsters,2512,10084,28001,dread dragon,มังกรทมิฬ
+15,Monsters,2513,10088,28014,dread dragon,มังกรทมิฬ
 15,Monsters,2514,10092,28027,,
-15,Monsters,2515,10096,28028,dread dragons,
+15,Monsters,2515,10096,28028,dread dragons,มังกรทมิฬ
 15,Monsters,2516,10100,28042,the ,
 15,Monsters,2517,10104,28047,the ,
 15,Monsters,2518,10108,28052,a ,
 15,Monsters,2519,10112,28055,some ,
-15,Monsters,2520,10116,28061,stone golem,
-15,Monsters,2521,10120,28073,stone golem,
+15,Monsters,2520,10116,28061,stone golem,สโตนโกเลม
+15,Monsters,2521,10120,28073,stone golem,สโตนโกเลม
 15,Monsters,2522,10124,28085,,
-15,Monsters,2523,10128,28086,stone golems,
+15,Monsters,2523,10128,28086,stone golems,สโตนโกเลม
 15,Monsters,2524,10132,28099,the ,
 15,Monsters,2525,10136,28104,the ,
 15,Monsters,2526,10140,28109,a ,
 15,Monsters,2527,10144,28112,some ,
-15,Monsters,2528,10148,28118,knight abhorrent,
-15,Monsters,2529,10152,28135,knight abhorrent,
+15,Monsters,2528,10148,28118,knight abhorrent,ไนท์แอบฮอร์เรนต์
+15,Monsters,2529,10152,28135,knight abhorrent,ไนท์แอบฮอร์เรนต์
 15,Monsters,2530,10156,28152,,
-15,Monsters,2531,10160,28153,knight abhorrents,
+15,Monsters,2531,10160,28153,knight abhorrents,ไนท์แอบฮอร์เรนต์
 15,Monsters,2532,10164,28171,the ,
 15,Monsters,2533,10168,28176,the ,
 15,Monsters,2534,10172,28181,a ,
 15,Monsters,2535,10176,28184,some ,
-15,Monsters,2536,10180,28190,cosmic chimaera,
-15,Monsters,2537,10184,28206,cosmic chimaera,
+15,Monsters,2536,10180,28190,cosmic chimaera,คอสมิกคิเมร่า
+15,Monsters,2537,10184,28206,cosmic chimaera,คอสมิกคิเมร่า
 15,Monsters,2538,10188,28222,,
-15,Monsters,2539,10192,28223,cosmic chimaeras,
+15,Monsters,2539,10192,28223,cosmic chimaeras,คอสมิกคิเมร่า
 15,Monsters,2540,10196,28240,the ,
 15,Monsters,2541,10200,28245,the ,
 15,Monsters,2542,10204,28250,a ,
