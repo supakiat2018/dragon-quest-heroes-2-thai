@@ -140,58 +140,25 @@ struct CharInfo {
 typedef const char* (*tGetNextCharAndWidth)(void* mgr, const char* str, CharInfo* out_info);
 static tGetNextCharAndWidth oGetNextCharAndWidth = nullptr;
 
-float GetThaiCharWidth(uint32_t code)
-{
-    switch (code) {
-        // Standard Thai characters (100% individual natural characters, tight proportional kerning):
-        case 0xD0B3: return 11.0f; // เ (г)
-        case 0xD0B5: return 15.0f; // า (е)
-        case 0xD18C: return 16.0f; // ร (ь)
-        case 0xD181: return 17.0f; // ร้ (с)
-        case 0xD182: return 17.0f; // ร์ (т)
-        case 0xD0B2: return 17.0f; // จ (в)
-        case 0xD0B0: return 19.0f; // ก (а)
-        case 0xD0BE: return 19.0f; // ม (о)
-        case 0xD0B8: return 19.0f; // น (и)
-        case 0xD180: return 19.0f; // ส (р)
-        case 0xD0B1: return 17.0f; // ง (б)
-        case 0xD0BA: return 19.0f; // ด (к)
-        case 0xD0BD: return 19.0f; // ท (н)
-        case 0xD0BB: return 18.0f; // ล (л)
-        case 0xD0B4: return 19.0f; // บ (д)
-        case 0xD183: return 18.0f; // อ (у)
-        case 0xD091: return 19.0f; // ดิ (Б)
-        case 0xD093: return 19.0f; // ค่ (Г)
-        case 0xD092: return 19.0f; // คี (В)
-        case 0xD095: return 19.0f; // ฟิ (Е)
-        case 0xD18D: return 16.0f; // ริ่ (э)
-        case 0xD187: return 19.0f; // ทึ (ч)
-        case 0xD18A: return 20.0f; // ตั้ (ъ)
-        case 0xD0A0: return 20.0f; // บั (Р)
-        case 0xD090: return 20.0f; // ย์ (А)
-        case 0xD188: return 20.0f; // ส์ (ш)
-        case 0xD185: return 19.0f; // ต้ (х)
-        case 0xD191: return 18.0f; // ช่ (ё)
-        case 0xD0B7: return 14.0f; // ใ (з)
-
-        default:
-            return -1.0f;
-    }
-}
+#include "thai_char_widths.inl"
 
 const char* hkGetNextCharAndWidth(void* mgr, const char* str, CharInfo* out_info)
 {
     const char* ret = oGetNextCharAndWidth(mgr, str, out_info);
-    if (out_info && out_info->byte_len == 2) {
+    if (out_info && (out_info->byte_len == 2 || out_info->byte_len == 3)) {
         float custom_w = GetThaiCharWidth(out_info->char_code);
         if (custom_w > 0.0f) {
             float orig_w = out_info->advance_width;
             out_info->advance_width = custom_w;
-            static bool logged[65536] = { false };
-            uint16_t key = (uint16_t)out_info->char_code;
-            if (!logged[key]) {
-                logged[key] = true;
-                Log("[FONT WIDTH HOOK] char_code: 0x%04X, glyph: %u, width: %.1f -> %.1f",
+            static uint32_t logged_keys[256] = { 0 };
+            static int logged_count = 0;
+            bool found = false;
+            for (int k = 0; k < logged_count; k++) {
+                if (logged_keys[k] == out_info->char_code) { found = true; break; }
+            }
+            if (!found && logged_count < 256) {
+                logged_keys[logged_count++] = out_info->char_code;
+                Log("[FONT WIDTH HOOK] char_code: 0x%06X, glyph: %u, width: %.1f -> %.1f",
                     out_info->char_code, out_info->glyph_index, orig_w, custom_w);
             }
         }
@@ -270,6 +237,7 @@ BOOL WINAPI hkReadFile(HANDLE hFile, LPVOID lpBuffer, DWORD nNumberOfBytesToRead
 
     BOOL ret = oReadFile(hFile, lpBuffer, nNumberOfBytesToRead, lpNumberOfBytesRead, lpOverlapped);
 
+    // Patch LINKDATA.BIN reads in RAM
     if (ret && isLinkData && lpNumberOfBytesRead && *lpNumberOfBytesRead > 0) {
         uint64_t read_start = off;
         uint64_t read_end = off + *lpNumberOfBytesRead;
