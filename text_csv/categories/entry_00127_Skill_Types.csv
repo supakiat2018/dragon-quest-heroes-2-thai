@@ -47,9 +47,9 @@
 127,Skill_Types,45,216,9681,,
 127,Skill_Types,46,220,9682,,
 127,Skill_Types,47,224,9683,,
-127,Skill_Types,48,228,9684,Bang-Based,
-127,Skill_Types,49,232,9695,Bang-Based,
-127,Skill_Types,50,236,9706,Blasts enemies in front with an intense explosion.,
+127,Skill_Types,48,228,9684,Bang-Based,สายอิโอ
+127,Skill_Types,49,232,9695,Bang-Based,สายอิโอ
+127,Skill_Types,50,236,9706,Blasts enemies in front with an intense explosion.,ระเบิดศัตรูเบื้องหน้าด้วยแรงระเบิดอันรุนแรง
 127,Skill_Types,51,240,9757,,
 127,Skill_Types,52,244,9758,,
 127,Skill_Types,53,248,9759,,
@@ -167,9 +167,9 @@
 127,Skill_Types,165,696,9871,,
 127,Skill_Types,166,700,9872,,
 127,Skill_Types,167,704,9873,,
-127,Skill_Types,168,708,9874,Flame Breath,
-127,Skill_Types,169,712,9887,Flame Breath,
-127,Skill_Types,170,716,9900,Belches blazing hot\nbreath all over enemies\nin front.,
+127,Skill_Types,168,708,9874,Flame Breath,ลมหายใจเพลิง
+127,Skill_Types,169,712,9887,Flame Breath,ลมหายใจเพลิง
+127,Skill_Types,170,716,9900,Belches blazing hot\nbreath all over enemies\nin front.,พ่นลมหายใจร้อนระอุ\nใส่ศัตรูทั้งหมด\nที่อยู่เบื้องหน้า
 127,Skill_Types,171,720,9954,,
 127,Skill_Types,172,724,9955,,
 127,Skill_Types,173,728,9956,,
@@ -231,17 +231,17 @@
 127,Skill_Types,229,952,10012,,
 127,Skill_Types,230,956,10013,,
 127,Skill_Types,231,960,10014,,
-127,Skill_Types,232,964,10015,Sizz-Based,
-127,Skill_Types,233,968,10026,Sizz-Based,
-127,Skill_Types,234,972,10037,An ancient incantation that fires forth a racing pillar of flame.,
+127,Skill_Types,232,964,10015,Sizz-Based,สายกิระ
+127,Skill_Types,233,968,10026,Sizz-Based,สายกิระ
+127,Skill_Types,234,972,10037,An ancient incantation that fires forth a racing pillar of flame.,คาถาโบราณที่ยิงเสาเพลิงพุ่งทะยานไปข้างหน้า
 127,Skill_Types,235,976,10103,,
 127,Skill_Types,236,980,10104,,
 127,Skill_Types,237,984,10105,,
 127,Skill_Types,238,988,10106,,
 127,Skill_Types,239,992,10107,,
-127,Skill_Types,240,996,10108,Chain Sickle,
-127,Skill_Types,241,1000,10121,Chain Sickle,
-127,Skill_Types,242,1004,10134,Swings a slicing device on a long chain in a lethal lacerating arc.,
+127,Skill_Types,240,996,10108,Chain Sickle,โซ่เคียว
+127,Skill_Types,241,1000,10121,Chain Sickle,โซ่เคียว
+127,Skill_Types,242,1004,10134,Swings a slicing device on a long chain in a lethal lacerating arc.,กวัดแกว่งโซ่ติดใบเคียวสังหารเป็นวงกว้างเพื่อเฉือนศัตรู
 127,Skill_Types,243,1008,10202,,
 127,Skill_Types,244,1012,10203,,
 127,Skill_Types,245,1016,10204,,
@@ -319,9 +319,9 @@
 127,Skill_Types,317,1304,10276,,
 127,Skill_Types,318,1308,10277,,
 127,Skill_Types,319,1312,10278,,
-127,Skill_Types,320,1316,10279,Cutting Edge,
-127,Skill_Types,321,1320,10292,Cutting Edge,
-127,Skill_Types,322,1324,10305,"Increases the size of the sword, then swings down with serious force.",
+127,Skill_Types,320,1316,10279,Cutting Edge,คมดาบขยายใหญ่
+127,Skill_Types,321,1320,10292,Cutting Edge,คมดาบขยายใหญ่
+127,Skill_Types,322,1324,10305,"Increases the size of the sword, then swings down with serious force.",ขยายขนาดของดาบให้ใหญ่ยักษ์ แล้วฟาดฟันลงมาด้วยพละกำลังมหาศาล
 127,Skill_Types,323,1328,10375,,
 127,Skill_Types,324,1332,10376,,
 127,Skill_Types,325,1336,10377,,
@@ -335,9 +335,9 @@
 127,Skill_Types,333,1368,10385,,
 127,Skill_Types,334,1372,10386,,
 127,Skill_Types,335,1376,10387,,
-127,Skill_Types,336,1380,10388,Whack-Based,
-127,Skill_Types,337,1384,10400,Whack-Based,
-127,Skill_Types,338,1388,10412,A cursed incantation that sends an enemy to the hereafter.,
+127,Skill_Types,336,1380,10388,Whack-Based,สายซาคิ
+127,Skill_Types,337,1384,10400,Whack-Based,สายซาคิ
+127,Skill_Types,338,1388,10412,A cursed incantation that sends an enemy to the hereafter.,คาถาต้องสาปที่จะส่งศัตรูไปสู่ยมโลกในทันที
 127,Skill_Types,339,1392,10471,,
 127,Skill_Types,340,1396,10472,,
 127,Skill_Types,341,1400,10473,,
@@ -423,9 +423,9 @@
 127,Skill_Types,421,1720,10553,,
 127,Skill_Types,422,1724,10554,,
 127,Skill_Types,423,1728,10555,,
-127,Skill_Types,424,1732,10556,Rubblerouser-Based,
-127,Skill_Types,425,1736,10575,Rubblerouser-Based,
-127,Skill_Types,426,1740,10594,Draws a secret sigil on the ground that sends stone spikes springing up after a slight delay.,
+127,Skill_Types,424,1732,10556,Rubblerouser-Based,สายจิบาริอา
+127,Skill_Types,425,1736,10575,Rubblerouser-Based,สายจิบาริอา
+127,Skill_Types,426,1740,10594,Draws a secret sigil on the ground that sends stone spikes springing up after a slight delay.,สลักอักขระลับลงบนพื้นดินเพื่อเรียกเสาหินหนามพุ่งแทงขึ้นมาหลังจากหน่วงเวลาชั่วครู่
 127,Skill_Types,427,1744,10688,,
 127,Skill_Types,428,1748,10689,,
 127,Skill_Types,429,1752,10690,,
@@ -487,9 +487,9 @@
 127,Skill_Types,485,1976,10746,,
 127,Skill_Types,486,1980,10747,,
 127,Skill_Types,487,1984,10748,,
-127,Skill_Types,488,1988,10749,Knuckle Sandwich,
-127,Skill_Types,489,1992,10766,Knuckle Sandwich,
-127,Skill_Types,490,1996,10783,A powerful punch produced by focusing force into the fist.,
+127,Skill_Types,488,1988,10749,Knuckle Sandwich,หมัดตรงทรงพลัง
+127,Skill_Types,489,1992,10766,Knuckle Sandwich,หมัดตรงทรงพลัง
+127,Skill_Types,490,1996,10783,A powerful punch produced by focusing force into the fist.,รวมสมาธิและพละกำลังทั้งหมดไว้ที่กำปั้นแล้วปล่อยหมัดอันทรงพลังออกไป
 127,Skill_Types,491,2000,10842,,
 127,Skill_Types,492,2004,10843,,
 127,Skill_Types,493,2008,10844,,
@@ -527,9 +527,9 @@
 127,Skill_Types,525,2136,10876,,
 127,Skill_Types,526,2140,10877,,
 127,Skill_Types,527,2144,10878,,
-127,Skill_Types,528,2148,10879,Parallax,
-127,Skill_Types,529,2152,10888,Parallax,
-127,Skill_Types,530,2156,10897,A strike that sends a shockwave shuddering through the earth.,
+127,Skill_Types,528,2148,10879,Parallax,คลื่นสั่นสะเทือนปฐพี
+127,Skill_Types,529,2152,10888,Parallax,คลื่นสั่นสะเทือนปฐพี
+127,Skill_Types,530,2156,10897,A strike that sends a shockwave shuddering through the earth.,ฟาดโจมตีส่งคลื่นกระแทกให้พื้นปฐพีสั่นสะเทือน
 127,Skill_Types,531,2160,10959,,
 127,Skill_Types,532,2164,10960,,
 127,Skill_Types,533,2168,10961,,
@@ -615,9 +615,9 @@
 127,Skill_Types,613,2488,11041,,
 127,Skill_Types,614,2492,11042,,
 127,Skill_Types,615,2496,11043,,
-127,Skill_Types,616,2500,11044,Zap-Based,
-127,Skill_Types,617,2504,11054,Zap-Based,
-127,Skill_Types,618,2508,11064,A bolt from the blue that strikes foes in front.,
+127,Skill_Types,616,2500,11044,Zap-Based,สายไรเดอิน
+127,Skill_Types,617,2504,11054,Zap-Based,สายไรเดอิน
+127,Skill_Types,618,2508,11064,A bolt from the blue that strikes foes in front.,สายฟ้าฟาดจากฟากฟ้าผ่าลงใส่ศัตรูเบื้องหน้า
 127,Skill_Types,619,2512,11113,,
 127,Skill_Types,620,2516,11114,,
 127,Skill_Types,621,2520,11115,,
@@ -679,9 +679,9 @@
 127,Skill_Types,677,2744,11171,,
 127,Skill_Types,678,2748,11172,,
 127,Skill_Types,679,2752,11173,,
-127,Skill_Types,680,2756,11174,Flying Knee,
-127,Skill_Types,681,2760,11186,Flying Knee,
-127,Skill_Types,682,2764,11198,Dives forward to deliver a bent-legged blow.,
+127,Skill_Types,680,2756,11174,Flying Knee,เข่าลอย
+127,Skill_Types,681,2760,11186,Flying Knee,เข่าลอย
+127,Skill_Types,682,2764,11198,Dives forward to deliver a bent-legged blow.,พุ่งตัวไปข้างหน้าแล้วกระโดดแทงเข่าเข้าใส่อย่างจัง
 127,Skill_Types,683,2768,11243,,
 127,Skill_Types,684,2772,11244,,
 127,Skill_Types,685,2776,11245,,
@@ -695,17 +695,17 @@
 127,Skill_Types,693,2808,11253,,
 127,Skill_Types,694,2812,11254,,
 127,Skill_Types,695,2816,11255,,
-127,Skill_Types,696,2820,11256,Zam-Based,
-127,Skill_Types,697,2824,11266,Zam-Based,
-127,Skill_Types,698,2828,11276,Fires forth bullet-like blobs of black energy.,
+127,Skill_Types,696,2820,11256,Zam-Based,สายดอลม่า
+127,Skill_Types,697,2824,11266,Zam-Based,สายดอลม่า
+127,Skill_Types,698,2828,11276,Fires forth bullet-like blobs of black energy.,ยิงกระสุนพลังงานด้านมืดพุ่งเข้าใส่ศัตรู
 127,Skill_Types,699,2832,11323,,
 127,Skill_Types,700,2836,11324,,
 127,Skill_Types,701,2840,11325,,
 127,Skill_Types,702,2844,11326,,
 127,Skill_Types,703,2848,11327,,
-127,Skill_Types,704,2852,11328,Needle Shot,
-127,Skill_Types,705,2856,11340,Needle Shot,
-127,Skill_Types,706,2860,11352,An advanced arrow attack with a high chance of a critical hit.,
+127,Skill_Types,704,2852,11328,Needle Shot,ศรเข็มพิษ
+127,Skill_Types,705,2856,11340,Needle Shot,ศรเข็มพิษ
+127,Skill_Types,706,2860,11352,An advanced arrow attack with a high chance of a critical hit.,การยิงธนูขั้นสูงที่มีโอกาสติดคริติคอลสูงเป็นพิเศษ
 127,Skill_Types,707,2864,11415,,
 127,Skill_Types,708,2868,11416,,
 127,Skill_Types,709,2872,11417,,
@@ -751,9 +751,9 @@
 127,Skill_Types,749,3032,11457,,
 127,Skill_Types,750,3036,11458,,
 127,Skill_Types,751,3040,11459,,
-127,Skill_Types,752,3044,11460,Woosh-Based,
-127,Skill_Types,753,3048,11472,Woosh-Based,
-127,Skill_Types,754,3052,11484,Stirs up a wicked whirlwind that damages foes in front.,
+127,Skill_Types,752,3044,11460,Woosh-Based,สายบากิ
+127,Skill_Types,753,3048,11472,Woosh-Based,สายบากิ
+127,Skill_Types,754,3052,11484,Stirs up a wicked whirlwind that damages foes in front.,เรียกพายุหมุนอันรุนแรงขึ้นมาสร้างความเสียหายแก่ศัตรูเบื้องหน้า
 127,Skill_Types,755,3056,11540,,
 127,Skill_Types,756,3060,11541,,
 127,Skill_Types,757,3064,11542,,
@@ -799,9 +799,9 @@
 127,Skill_Types,797,3224,11582,,
 127,Skill_Types,798,3228,11583,,
 127,Skill_Types,799,3232,11584,,
-127,Skill_Types,800,3236,11585,Quickfire Caster,
-127,Skill_Types,801,3240,11602,Quickfire Caster,
-127,Skill_Types,802,3244,11619,Allows attack spells to be cast without any waiting time at all.,
+127,Skill_Types,800,3236,11585,Quickfire Caster,ร่ายมนตร์ฉับไว
+127,Skill_Types,801,3240,11602,Quickfire Caster,ร่ายมนตร์ฉับไว
+127,Skill_Types,802,3244,11619,Allows attack spells to be cast without any waiting time at all.,ช่วยให้สามารถร่ายคาถาโจมตีได้โดยไม่มีเวลาหน่วงเลยแม้แต่น้อย
 127,Skill_Types,803,3248,11684,,
 127,Skill_Types,804,3252,11685,,
 127,Skill_Types,805,3256,11686,,
@@ -823,9 +823,9 @@
 127,Skill_Types,821,3320,11702,,
 127,Skill_Types,822,3324,11703,,
 127,Skill_Types,823,3328,11704,,
-127,Skill_Types,824,3332,11705,Power Throw,
-127,Skill_Types,825,3336,11717,Power Throw,
-127,Skill_Types,826,3340,11729,Mows down foes in your path with a shining boomerang.,
+127,Skill_Types,824,3332,11705,Power Throw,ขว้างพลัง
+127,Skill_Types,825,3336,11717,Power Throw,ขว้างพลัง
+127,Skill_Types,826,3340,11729,Mows down foes in your path with a shining boomerang.,กวาดล้างศัตรูในเส้นทางด้วยบูมเมอแรงอันเจิดจ้า
 127,Skill_Types,827,3344,11783,,
 127,Skill_Types,828,3348,11784,,
 127,Skill_Types,829,3352,11785,,
@@ -847,17 +847,17 @@
 127,Skill_Types,845,3416,11801,,
 127,Skill_Types,846,3420,11802,,
 127,Skill_Types,847,3424,11803,,
-127,Skill_Types,848,3428,11804,Flying Fist,
-127,Skill_Types,849,3432,11816,Flying Fist,
-127,Skill_Types,850,3436,11828,An uplifting uppercut that sends enemies skyward.,
+127,Skill_Types,848,3428,11804,Flying Fist,หมัดบิน
+127,Skill_Types,849,3432,11816,Flying Fist,หมัดบิน
+127,Skill_Types,850,3436,11828,An uplifting uppercut that sends enemies skyward.,อัปเปอร์คัตเสยขึ้นฟ้าส่งศัตรูลอยละลิ่วขึ้นสู่อากาศ
 127,Skill_Types,851,3440,11878,,
 127,Skill_Types,852,3444,11879,,
 127,Skill_Types,853,3448,11880,,
 127,Skill_Types,854,3452,11881,,
 127,Skill_Types,855,3456,11882,,
-127,Skill_Types,856,3460,11883,Crack-Based,
-127,Skill_Types,857,3464,11895,Crack-Based,
-127,Skill_Types,858,3468,11907,Flings forth a flurry of ice balls that can freeze foes solid.,
+127,Skill_Types,856,3460,11883,Crack-Based,สายเฮียโดะ
+127,Skill_Types,857,3464,11895,Crack-Based,สายเฮียโดะ
+127,Skill_Types,858,3468,11907,Flings forth a flurry of ice balls that can freeze foes solid.,ซัดก้อนน้ำแข็งรัวใส่ศัตรูซึ่งสามารถแช่แข็งเป้าหมายให้หยุดนิ่งได้
 127,Skill_Types,859,3472,11970,,
 127,Skill_Types,860,3476,11971,,
 127,Skill_Types,861,3480,11972,,
@@ -1023,9 +1023,9 @@
 127,Skill_Types,1021,4120,12132,,
 127,Skill_Types,1022,4124,12133,,
 127,Skill_Types,1023,4128,12134,,
-127,Skill_Types,1024,4132,12135,Miracle Moon,
-127,Skill_Types,1025,4136,12148,Miracle Moon,
-127,Skill_Types,1026,4140,12161,Chops chumps into chunks with a storm of spinning sickles.,
+127,Skill_Types,1024,4132,12135,Miracle Moon,จันทราปาฏิหาริย์
+127,Skill_Types,1025,4136,12148,Miracle Moon,จันทราปาฏิหาริย์
+127,Skill_Types,1026,4140,12161,Chops chumps into chunks with a storm of spinning sickles.,ฟันสับศัตรูให้ขาดเป็นชิ้นๆ ด้วยพายุเคียวหมุนสังหาร
 127,Skill_Types,1027,4144,12220,,
 127,Skill_Types,1028,4148,12221,,
 127,Skill_Types,1029,4152,12222,,
@@ -1047,9 +1047,9 @@
 127,Skill_Types,1045,4216,12238,,
 127,Skill_Types,1046,4220,12239,,
 127,Skill_Types,1047,4224,12240,,
-127,Skill_Types,1048,4228,12241,Maelstrom,
-127,Skill_Types,1049,4232,12251,Maelstrom,
-127,Skill_Types,1050,4236,12261,Creates a vast vortex that sucks in surrounding monsters.,
+127,Skill_Types,1048,4228,12241,Maelstrom,วังวนพายุ
+127,Skill_Types,1049,4232,12251,Maelstrom,วังวนพายุ
+127,Skill_Types,1050,4236,12261,Creates a vast vortex that sucks in surrounding monsters.,สร้างวังวนพายุขนาดยักษ์ที่ดูดมอนสเตอร์โดยรอบเข้ามา
 127,Skill_Types,1051,4240,12319,,
 127,Skill_Types,1052,4244,12320,,
 127,Skill_Types,1053,4248,12321,,
@@ -1071,9 +1071,9 @@
 127,Skill_Types,1069,4312,12337,,
 127,Skill_Types,1070,4316,12338,,
 127,Skill_Types,1071,4320,12339,,
-127,Skill_Types,1072,4324,12340,Frizz-Based,
-127,Skill_Types,1073,4328,12352,Frizz-Based,
-127,Skill_Types,1074,4332,12364,Flings forth a ball of fire.,
+127,Skill_Types,1072,4324,12340,Frizz-Based,สายเมร่า
+127,Skill_Types,1073,4328,12352,Frizz-Based,สายเมร่า
+127,Skill_Types,1074,4332,12364,Flings forth a ball of fire.,ยิงลูกไฟเพลิงเข้าใส่ศัตรู
 127,Skill_Types,1075,4336,12393,,
 127,Skill_Types,1076,4340,12394,,
 127,Skill_Types,1077,4344,12395,,
@@ -1151,17 +1151,17 @@
 127,Skill_Types,1149,4632,12467,,
 127,Skill_Types,1150,4636,12468,,
 127,Skill_Types,1151,4640,12469,,
-127,Skill_Types,1152,4644,12470,Crackerwhack,
-127,Skill_Types,1153,4648,12483,Crackerwhack,
-127,Skill_Types,1154,4652,12496,Swings the axe down from overhead with earth-shattering strength.,
+127,Skill_Types,1152,4644,12470,Crackerwhack,ขวานผ่าปฐพี
+127,Skill_Types,1153,4648,12483,Crackerwhack,ขวานผ่าปฐพี
+127,Skill_Types,1154,4652,12496,Swings the axe down from overhead with earth-shattering strength.,เงื้อขวานเหนือศีรษะแล้วจามลงมาด้วยพละกำลังถล่มพสุธา
 127,Skill_Types,1155,4656,12562,,
 127,Skill_Types,1156,4660,12563,,
 127,Skill_Types,1157,4664,12564,,
 127,Skill_Types,1158,4668,12565,,
 127,Skill_Types,1159,4672,12566,,
-127,Skill_Types,1160,4676,12567,Reheal-Based,
-127,Skill_Types,1161,4680,12580,Reheal-Based,
-127,Skill_Types,1162,4684,12593,Inscribes an ephemeral circle which heals all allies within it for a while.,
+127,Skill_Types,1160,4676,12567,Reheal-Based,สายรีโฮอิมี่
+127,Skill_Types,1161,4680,12580,Reheal-Based,สายรีโฮอิมี่
+127,Skill_Types,1162,4684,12593,Inscribes an ephemeral circle which heals all allies within it for a while.,สลักวงแหวนเวทมนตร์ที่จะช่วยฟื้นฟูพลังชีวิตให้เพื่อนร่วมทีมทุกคนที่อยู่ภายในเป็นระยะเวลาหนึ่ง
 127,Skill_Types,1163,4688,12669,,
 127,Skill_Types,1164,4692,12670,,
 127,Skill_Types,1165,4696,12671,,
@@ -1191,9 +1191,9 @@
 127,Skill_Types,1189,4792,12695,,
 127,Skill_Types,1190,4796,12696,,
 127,Skill_Types,1191,4800,12697,,
-127,Skill_Types,1192,4804,12698,Maulstrom,
-127,Skill_Types,1193,4808,12708,Maulstrom,
-127,Skill_Types,1194,4812,12718,"A short, sharp shockwave that shreds foes over a wide area.",
+127,Skill_Types,1192,4804,12698,Maulstrom,คลื่นสลายพายุ
+127,Skill_Types,1193,4808,12708,Maulstrom,คลื่นสลายพายุ
+127,Skill_Types,1194,4812,12718,"A short, sharp shockwave that shreds foes over a wide area.",คลื่นกระแทกสั้นๆ แต่เฉียบคมที่จะฉีกร่างศัตรูเป็นวงกว้าง
 127,Skill_Types,1195,4816,12778,,
 127,Skill_Types,1196,4820,12779,,
 127,Skill_Types,1197,4824,12780,,
@@ -1399,9 +1399,9 @@
 127,Skill_Types,1397,5624,12980,,
 127,Skill_Types,1398,5628,12981,,
 127,Skill_Types,1399,5632,12982,,
-127,Skill_Types,1400,5636,12983,Zam-Based,
-127,Skill_Types,1401,5640,12993,Zam-Based,
-127,Skill_Types,1402,5644,13003,Fires forth bullet-like blobs of black energy.,
+127,Skill_Types,1400,5636,12983,Zam-Based,สายดอลม่า
+127,Skill_Types,1401,5640,12993,Zam-Based,สายดอลม่า
+127,Skill_Types,1402,5644,13003,Fires forth bullet-like blobs of black energy.,ยิงกระสุนพลังงานด้านมืดพุ่งเข้าใส่ศัตรู
 127,Skill_Types,1403,5648,13050,,
 127,Skill_Types,1404,5652,13051,,
 127,Skill_Types,1405,5656,13052,,
