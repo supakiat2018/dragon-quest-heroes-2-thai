@@ -400,256 +400,256 @@
 204,Menus_UI_Settings,398,1624,39649,"I'm terribly sorry, but there aren't any bonus balls waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีโบนัสบอลรอคุณอยู่เลยค่ะ
 204,Menus_UI_Settings,399,1628,39719,"I'm terribly sorry, but there aren't any quicksilver keys waiting for you.",ต้องขออภัยจริง ๆ ค่ะ แต่ไม่มีกุญแจควิกซิลเวอร์คีย์รอคุณอยู่เลยค่ะ
 204,Menus_UI_Settings,400,1632,39794,It looks like we've got <E5>R1one bonus ball<E6>01<GR>1 bonus balls<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1โบนัสบอล 1 ลูก<E6>01โบนัสบอล <GR>1 ลูก<E7>01 นะคะ
-204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",
-204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,
-204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",
-204,Menus_UI_Settings,404,1648,40270,Here you go<FG>,
-204,Menus_UI_Settings,405,1652,40285,<F4><I0>00 receives a bonus ball<FG>,
-204,Menus_UI_Settings,406,1656,40319,<F4><I0>00 receives a quicksilver key<FG>,
-204,Menus_UI_Settings,407,1660,40358,Visiting this dungeon will reduce your stock of quicksilver keys from <GR>1 to <GR>2. Are you sure<FH>,
-204,Menus_UI_Settings,408,1664,40458,"Hmm... I'm ever so sorry, but I wasn't able to check your items for you...",
-204,Menus_UI_Settings,409,1668,40533,"Hmm... I'm ever so sorry, but there was a problem getting your item for you...",
-204,Menus_UI_Settings,410,1672,40612,It looks like you've got the Online Features option turned off in the Settings menu. Would you mind turning it on and coming back again<FH>,
-204,Menus_UI_Settings,411,1676,40751,The Online Features option is turned off in the Settings menu. Please turn it on and try again.,
-204,Menus_UI_Settings,412,1680,40847,Help <I0>M1 with the ‘<I0>M2’ battle<FH>,
-204,Menus_UI_Settings,413,1684,40889,Do you want to withdraw your offer of help<FH>,
-204,Menus_UI_Settings,414,1688,40935,Are you sure you want to withdraw<FH>,
-204,Menus_UI_Settings,415,1692,40972,Listening for answers to your call to arms...\nPlease wait.,
-204,Menus_UI_Settings,416,1696,41031,There are still players we haven't heard back from. Are you sure you want to start the battle<FH>,
-204,Menus_UI_Settings,417,1700,41128,There are still players we haven't heard back from. Are you sure you want to cancel<FH>,
-204,Menus_UI_Settings,418,1704,41215,It looks like everyone's ready<FG> Let battle commence<FG>,
-204,Menus_UI_Settings,419,1708,41272,"When everyone's ready, please select ‘Venture Forth with this Party’.",
-204,Menus_UI_Settings,420,1712,41346,Please wait a moment while the battle begins...,
-204,Menus_UI_Settings,421,1716,41394,Ask for help from other players<FH>,
-204,Menus_UI_Settings,422,1720,41429,Cancel your call to arms<FH>,
-204,Menus_UI_Settings,423,1724,41457,Choose which offers of help to accept.,
-204,Menus_UI_Settings,424,1728,41496,Venture into battle with this party<FH>,
-204,Menus_UI_Settings,425,1732,41535,"I am sorry, my child, but we are not ready to begin our work quite yet. Have patience, and return anon.",
-204,Menus_UI_Settings,426,1736,41639,"Welcome, my child<FG> I am finally ready to receive you. I can assist you in changing your vocation whenever you wish to do so.",
-204,Menus_UI_Settings,427,1740,41766,"I am also able to reassign your skill points, should you require such a service.",
-204,Menus_UI_Settings,428,1744,41847,Call upon my aid whenever you have need of it. I am always here and willing to help.,
-204,Menus_UI_Settings,429,1748,41932,"Now, let us begin.",
-204,Menus_UI_Settings,430,1752,41951,"Welcome. I am a humble servant of Alltrades, charged with assisting all those who wish to pursue a new path in life.",
-204,Menus_UI_Settings,431,1756,42068,Welcome<FG> It is an honour indeed to aid such an accomplished hero in finding <E0>00his<E3>00her<E4>00 true calling.,
-204,Menus_UI_Settings,432,1760,42182,And how might I help you today<FH>,
-204,Menus_UI_Settings,433,1764,42216,"Is there anything else I can assist you with, my child<FH>",
-204,Menus_UI_Settings,434,1768,42274,Which of you seeks a new path in life<FH>,
-204,Menus_UI_Settings,435,1772,42315,And what vocation would <F4><I0>41 like to undertake<FH>,
-204,Menus_UI_Settings,436,1776,42369,So <F4><I0>41 would like to pursue the path of the %s. Is this correct<FH>,
-204,Menus_UI_Settings,437,1780,42441,"Very well<FG> <F4><I0>41, fill your heart with visions of becoming <E8>61an<E9>61a<EA>61 %s, and join me in prayer<FG>",
-204,Menus_UI_Settings,438,1784,42553,O mighty arbiter of occupations<FG> Permit your servant <F4><I0>41 to tread a new path in life<FG>,
-204,Menus_UI_Settings,439,1788,42648,It is done. Henceforth shall <F4><I0>41 follow the way of the %s.,
-204,Menus_UI_Settings,440,1792,42712,Now begins a new chapter in your life. You must ensure that you are appropriately equipped for the challenges to come.,
-204,Menus_UI_Settings,441,1796,42831,Does anyone else wish to pursue a new path in life<FH>,
-204,Menus_UI_Settings,442,1800,42885,"Hm<FH> <E8>61An<E9>61A<EA>61 %s<FH> But <F4><I0>41 already treads the path of that particular profession, my child.",
-204,Menus_UI_Settings,443,1804,42994,"Let us pray to the arbiter of occupations, and ask that you be permitted to redistribute the skill points you have earned thus far.",
-204,Menus_UI_Settings,444,1808,43126,Who among you wishes to reallocate their skill points<FH>,
-204,Menus_UI_Settings,445,1812,43183,Does anyone else wish to reallocate their skill points<FH>,
-204,Menus_UI_Settings,446,1816,43241,"<F4><I0>41, hm<FH> Very well. I must ask for a small donation of <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that seem acceptable<FH>",
-204,Menus_UI_Settings,447,1820,43375,O mighty arbiter of occupations<FG> Permit your servant <F4><I0>41 to redistribute the gifts you have so generously given<FG>,
-204,Menus_UI_Settings,448,1824,43497,It is done. May <F4><I0>41's reassignment of the gifts received from on high propel <E0>41him<E3>41her<E4>41 to newer and greater heights<FG>,
-204,Menus_UI_Settings,449,1828,43633,"Hm<FH> But <F4><I0>41 has no skill points to reassign, my child<FG>",
-204,Menus_UI_Settings,450,1832,43697,"I am deeply sorry, my child, but without a sufficient donation, I am unable to help you.",
-204,Menus_UI_Settings,451,1836,43786,May you be set upon the path to future prosperity.,
-204,Menus_UI_Settings,452,1840,43837,Very well. I wish you good fortune. May the arbiter of occupations watch over you<FG>,
-204,Menus_UI_Settings,453,1844,43922,It is truly a pleasure to offer guidance to one so accomplished. May the arbiter of occupations watch over you<FG>,
-204,Menus_UI_Settings,454,1848,44036,"Hello<FG> I'm afraid I haven't finished setting up just yet<MV>come by later, maybe<FH>",
-204,Menus_UI_Settings,455,1852,44121,"Hello<FG> This is the Swap Shop, where you can trade items with the townspeople<FG>",
-204,Menus_UI_Settings,456,1856,44203,"Well, if it isn't the infamous <F4><I0>00<FG> Have you come to see the latest offers<FH>",
-204,Menus_UI_Settings,457,1860,44288,"Hello, <F4><I0>00<FG> We've been bombarded with requests to trade with you<FG> You're quite the celebrity<FG>",
-204,Menus_UI_Settings,458,1864,44393,"Welcome, <F4><I0>00<FG> I can't keep the townspeople away, you know<FG> They're all itching to trade with a hero like you<FG>",
-204,Menus_UI_Settings,459,1868,44514,Do you like trading items<FH> Then you'll love the Swap Shop<FG> It's where people come to barter for the best deals going<FG>,
-204,Menus_UI_Settings,460,1872,44638,"The items on offer change all the time, so be sure to pop by regularly and see if someone's got what you want<FG>",
-204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",
-204,Menus_UI_Settings,462,1880,44887,Do any of our other offers take your fancy<FH>,
-204,Menus_UI_Settings,463,1884,44933,Come back soon<FG>,
-204,Menus_UI_Settings,464,1888,44951,Customers of your calibre are always welcome<FG> Come back soon<FG>,
-204,Menus_UI_Settings,465,1892,45017,The townspeople can't seem to get enough of swapping items with a real celebrity<FG> Come back soon<FG>,
-204,Menus_UI_Settings,466,1896,45119,"It's a real honour to have a hero like you come here to trade<FG> Come back soon, okay<FH>",
-204,Menus_UI_Settings,467,1900,45208,Who would you like to trade with<FH>,
-204,Menus_UI_Settings,468,1904,45244,Here's the details of the trade again. Is this alright<FH>,
-204,Menus_UI_Settings,469,1908,45302,"Alright, done<FG> Nice doing business with you<FG>",
-204,Menus_UI_Settings,470,1912,45351,"Oh, it looks like you're a bit short there. I'm sorry, but I can't make the trade unless you have the right amount of items...",
-204,Menus_UI_Settings,471,1916,45478,"Alright, let's save that offer for later, shall we<FH>",
-204,Menus_UI_Settings,472,1920,45532,"I'm sorry, but you can only save one offer at a time.",
-204,Menus_UI_Settings,473,1924,45586,"Alright, let's cancel that, shall we<FH>",
-204,Menus_UI_Settings,474,1928,45626,"I'm sorry, but I don't have any more trades to offer you right now. Check in again later, okay<FH>",
-204,Menus_UI_Settings,475,1932,45724,"I'm sorry, but I don't have any more trades to offer you right now. Check in again later, okay<FH>",
-204,Menus_UI_Settings,476,1936,45822,Greetings<FG> We have yet to conclude our preparations here. Please return later to submit your report.,
-204,Menus_UI_Settings,477,1940,45925,"Well met, brave warrior<FG> It is my duty to remunerate those who assist the realm in suppressing rogue monsters.",
-204,Menus_UI_Settings,478,1944,46038,"Remuneration will be offered in the form of gold coins, which are awarded when quotas for each monster type are met.",
-204,Menus_UI_Settings,479,1948,46155,"And when all quotas for a given monster have been fulfilled, you will receive a magnificent mini medal<FG> Now, go forth and conquer<FG>",
-204,Menus_UI_Settings,480,1952,46290,Behold<MV>your current monster suppression record.,
-204,Menus_UI_Settings,481,1956,46340,"Zounds<FG> Every quota has been filled, every rogue beast bested<FG> I have no further reward to offer save my respect and admiration<FG>",
-204,Menus_UI_Settings,482,1960,46475,"The realm thanks you for your continued service. Let us peruse your current monster suppression record, brave warrior.",
-204,Menus_UI_Settings,483,1964,46594,"Well met, noble <F4><I0>00<FG> Let us peruse your current monster suppression record, O knight of renown.",
-204,Menus_UI_Settings,484,1968,46697,"Hail <F4><I0>00<FG> Let us peruse your current monster suppression record, storied hero of the realm<FG>",
-204,Menus_UI_Settings,485,1972,46798,Oh-ho<FG> It seems you have met a monster suppression quota<FG> Allow me to present you with your reward<FG>,
-204,Menus_UI_Settings,486,1976,46904,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,
-204,Menus_UI_Settings,487,1980,46967,Magnificent<FG> You have met all suppression quotas for a given monster type<FG> Allow me to present you with your reward<FG>,
-204,Menus_UI_Settings,488,1984,47090,<F4><I0>00 receives <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,
-204,Menus_UI_Settings,489,1988,47153,The rogue monsters must be suppressed<FG> The realm is relying on you<FG>,
-204,Menus_UI_Settings,490,1992,47225,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, brave warrior<FG>",
-204,Menus_UI_Settings,491,1996,47326,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, O knight of renown<FG>",
-204,Menus_UI_Settings,492,2000,47432,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, O hero of the realm<FG>",
-204,Menus_UI_Settings,493,2004,47539,You honour the realm with your service<FG> Here<FG> A reward for your continued efforts<FG> May you continue to fight the good fight<FG>,
-204,Menus_UI_Settings,494,2008,47672,"Hello<FG> This is the quest counter. I'm afraid I don't have any quests for you right now, but I'm sure I'll have some soon. Come back in a bit<FG>",
-204,Menus_UI_Settings,495,2012,47818,"Welcome, <F4><I0>00<FG> This is the quest counter, where you can aid people from across the realm.",
-204,Menus_UI_Settings,496,2016,47914,"The client for each quest will offer a reward upon completion, so it's well worth your while. I hope we can count on your assistance<FG>",
-204,Menus_UI_Settings,497,2020,48050,Why not have a quick look at what we've got available<FH>,
-204,Menus_UI_Settings,498,2024,48107,"Welcome, <F4><I0>00<FG> In search of a new quest, are you<FH> Well then, how can I help<FH>",
-204,Menus_UI_Settings,499,2028,48194,"Welcome back, <F4><I0>00<FG> Why, this is amazing<FG> You've completed every quest I had to offer<FG>",
-204,Menus_UI_Settings,500,2032,48291,"Welcome, <F4><I0>00<FG> The town's abuzz with talk about you. How can I help you today<FH>",
-204,Menus_UI_Settings,501,2036,48378,"Welcome back, <F4><I0>00<FG> It's a pleasure to welcome such an upstanding servant of the realm. How can I help you<FH>",
-204,Menus_UI_Settings,502,2040,48494,"Welcome back, <F4><I0>00<FG> It's an honour to have the realm's knight in shining armour to help with these quests<FG>",
-204,Menus_UI_Settings,503,2044,48609,How else can I be of service<FH>,
-204,Menus_UI_Settings,504,2048,48641,"I'm afraid my work here is done, but do drop by if you'd ever like to chat.",
-204,Menus_UI_Settings,505,2052,48717,"Well, would you look at that<FH> I don't have any quests at all for you right now. I'm sorry, but you'll have to check in again later.",
-204,Menus_UI_Settings,506,2056,48851,"That's all the quests I have for you right now. I'm sorry, but you'll have to check in again later.",
-204,Menus_UI_Settings,507,2060,48951,Which quest do you want to take on<FH>,
-204,Menus_UI_Settings,508,2064,48989,Are you sure you want to accept this quest<FH>,
-204,Menus_UI_Settings,509,2068,49035,It seems this particular quest has to be completed within a <C9>time limit<R.> Are you sure you want to accept it<FH>,
-204,Menus_UI_Settings,510,2072,49150,"You can only accept one time-limited quest at a time, I'm afraid. Good luck with the current one<FG>",
-204,Menus_UI_Settings,511,2076,49250,<F4><I0>00 accepted the ‘<I0>L1’ quest<FG>,
-204,Menus_UI_Settings,512,2080,49293,"Sorry, I'm afraid you can only accept up to eight quests at a time. You'll need to report a completed quest or cancel one first.",
-204,Menus_UI_Settings,513,2084,49422,<F4><I0>00 reports successful completion of the ‘%s’ quest<FG>,
-204,Menus_UI_Settings,514,2088,49486,And here's your reward<FG> Enjoy<FG>,
-204,Menus_UI_Settings,515,2092,49521,"Oh, it looks like your inventory's full<FG> We can't have your reward falling out of your bag now, can we<FH> Make some room and drop by again<FG>",
-204,Menus_UI_Settings,516,2096,49665,<F4><I0>00 receives <I8>M1<FG>,
-204,Menus_UI_Settings,517,2100,49692,<F4><I0>00 receives <I8>M1 and <I8>M2<FG>,
-204,Menus_UI_Settings,518,2104,49729,More weapons are now available at the weapon shop<FG>,
-204,Menus_UI_Settings,519,2108,49782,The number of uses per Healstone has been increased<FG>,
-204,Menus_UI_Settings,520,2112,49837,The effectiveness of Healstones has been improved<FG>,
-204,Menus_UI_Settings,521,2116,49890,The capacity of the monster medal holder has been increased<FG>,
-204,Menus_UI_Settings,522,2120,49953,The weapon proficiency limit has been raised<FG>,
-204,Menus_UI_Settings,523,2124,50001,The %s vocation is now available<FG>,
-204,Menus_UI_Settings,524,2128,50037,A new area is now accessible in Greena Pastures<FG>,
-204,Menus_UI_Settings,525,2132,50088,A new area is now accessible at the Grand Dunes<FG>,
-204,Menus_UI_Settings,526,2136,50139,A new area is now accessible in the Lumberlands<FG>,
-204,Menus_UI_Settings,527,2140,50190,A new area is now accessible in No Man's Land<FG>,
-204,Menus_UI_Settings,528,2144,50239,A new area is now accessible at Redrock Ravine<FG>,
-204,Menus_UI_Settings,529,2148,50289,The white barrier in the Frosty Foothills has been dispelled<FG>,
-204,Menus_UI_Settings,530,2152,50353,The bridge connecting Greena Pastures and the Grand Dunes has been repaired<FG>,
-204,Menus_UI_Settings,531,2156,50432,The rockfall separating Greena Pastures and the Frosty Foothills has been cleared<FG>,
-204,Menus_UI_Settings,532,2160,50517,The rockfall in the woods to the east of Greena Pastures has been cleared<FG>,
-204,Menus_UI_Settings,533,2164,50594,The white barrier at Redrock Ravine has been dispelled<FG>,
-204,Menus_UI_Settings,534,2168,50652,The white barrier in No Man's Land has been dispelled<FG>,
-204,Menus_UI_Settings,535,2172,50709,Which quest would you like to report as completed<FH>,
-204,Menus_UI_Settings,536,2176,50762,Report this quest as completed<FH>,
-204,Menus_UI_Settings,537,2180,50796,"But you've completed that quest<MV>there's no point cancelling it now<FG> Could you report it, just to make things official<FH>",
-204,Menus_UI_Settings,538,2184,50921,You don't seem to have any quests on the go right now.,
-204,Menus_UI_Settings,539,2188,50976,"I think that's probably for the best, you know. Let's take another look at your current quests.",
-204,Menus_UI_Settings,540,2192,51072,Here's the list of your current quests.,
-204,Menus_UI_Settings,541,2196,51112,Would you like to accept any other quests<FH>,
-204,Menus_UI_Settings,542,2200,51157,Good luck to you<FG> Are there any other quests you'd like to take on while you're here<FH>,
-204,Menus_UI_Settings,543,2204,51247,Goodness me<FG> I don't have any more quests to give you<FG> Is there anything else I can help you with<FH>,
-204,Menus_UI_Settings,544,2208,51352,Do you have any other completed quests to report<FH>,
-204,Menus_UI_Settings,545,2212,51404,Do you have any more completed quests to report<FH>,
-204,Menus_UI_Settings,546,2216,51455,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,
-204,Menus_UI_Settings,547,2220,51518,<F4><I0>00 receives %d <E5>P1mini medal<E6>01mini medals<E7>01<FG>,
-204,Menus_UI_Settings,548,2224,51579,"Congratulations<FG> Thanks to your untiring efforts, every single one of our clients' requests has been fulfilled<FG>",
-204,Menus_UI_Settings,549,2228,51695,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",
-204,Menus_UI_Settings,550,2232,51833,"I can see you're eager, but you don't seem to have any completed quests to report right now. Come back when you've finished one.",
-204,Menus_UI_Settings,551,2236,51962,"Are you sure you want to cancel this quest<FH> If you do, you'll have to start from square one next time.",
-204,Menus_UI_Settings,552,2240,52067,The ‘<I0>L1’ quest has been cancelled.,
-204,Menus_UI_Settings,553,2244,52109,Please feel free to come and visit any time<FG>,
-204,Menus_UI_Settings,554,2248,52156,Please feel free to come and visit any time. It's always nice to have a well-respected adventurer like yourself drop by<FG>,
-204,Menus_UI_Settings,555,2252,52279,"It's always a pleasure to have a celebrity like yourself drop by, <F4><I0>00. Come again soon<FG>",
-204,Menus_UI_Settings,556,2256,52374,It's such an honour to have the hero of the realm drop by<FG> Feel free to come and visit any time<FG>,
-204,Menus_UI_Settings,557,2260,52475,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",
-204,Menus_UI_Settings,558,2264,52613,"This aura<FG> Truly it is the aura of a warrior<FG> I am the Martial Master, and I have waited for one such as you<FG> You shall be my disciple<FG>",
-204,Menus_UI_Settings,559,2268,52757,"If you are to walk the path of prowess, you must grow proficient in the ways of weaponry. Do so, and I will have much to teach you.",
-204,Menus_UI_Settings,560,2272,52889,But have no fear<MV>you need not master all the weapons at once. Begin by training in those you favour.,
-204,Menus_UI_Settings,561,2276,52992,"Ah, so you have found friends who also aspire to the lofty peak of martial mastery<FG> I will be happy to welcome them, too, as disciples<FG>",
-204,Menus_UI_Settings,562,2280,53132,"Bring them to me, and I shall assess the progress of their training.",
-204,Menus_UI_Settings,563,2284,53201,And never forget<MV>allies who are not in your party will not gain in proficiency.,
-204,Menus_UI_Settings,564,2288,53283,"Welcome, honoured disciple<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",
-204,Menus_UI_Settings,565,2292,53390,"Welcome, honoured disciple<FG> I hear many great things about you of late. Now, present yourself to me, and I will evaluate your progress<FG>",
-204,Menus_UI_Settings,566,2296,53530,"It brings a tear to my eye to see my disciple come so far<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",
-204,Menus_UI_Settings,567,2300,53668,"Oh-ho<FG> Your training progresses apace, I see<FG> Now, close your eyes, breathe deeply, and contemplate the mysteries of the martial arts<FG>",
-204,Menus_UI_Settings,568,2304,53809,Hmmm... HAIYA<FG><FG><FG>,
-204,Menus_UI_Settings,569,2308,53832,<F4><I0>41 learned <I0>M1<FG>,
-204,Menus_UI_Settings,570,2312,53858,...Hm<FG><FH> Hmmm<FG><FH> Your aura<MV>how it has grown<FG> Fine progress indeed<FG> It is time for me to relate to you the secret art of...party powers<FG>,
-204,Menus_UI_Settings,571,2316,54008,"These powers allow for unique possibilities, and great care must be exercised to wield them appropriately. Now, open your mind<FG>",
-204,Menus_UI_Settings,572,2320,54138,Hmmm... HAIYA<FG><FG><FG>,
-204,Menus_UI_Settings,573,2324,54161,The party learn the ‘<I0>M1’ party power<FG>,
-204,Menus_UI_Settings,574,2328,54208,"Hm<FG><FH> You<MV> You bear a bondstone<FG> Say no more, honoured disciple<FG> Give it to me<FG> Now, breathe deeply, and open your mind...",
-204,Menus_UI_Settings,575,2332,54342,Hmmm... HAIYA<FG><FG><FG>,
-204,Menus_UI_Settings,576,2336,54365,Your party power capacity increased by <GR>1<FG>,
-204,Menus_UI_Settings,577,2340,54412,"Hmm... None among you are currently ready to learn the deeper mysteries of the martial arts. Train, and grow yet more proficient<FG>",
-204,Menus_UI_Settings,578,2344,54544,"Hm<FG><FH> Incredible<FG> You have learned every mystery of the martial arts<FG> Now you, too, are a Martial Master<FG>",
-204,Menus_UI_Settings,579,2348,54659,"Never forget your training, my young disciple. Focus. Always.",
-204,Menus_UI_Settings,580,2352,54721,"Your efforts are starting to bear fruit, but do not grow complacent. Never forget your training, my disciple. Focus. Always.",
-204,Menus_UI_Settings,581,2356,54846,"You are truly the greatest of all my disciples<FG> Go now, and never forget your training. Focus. Always.",
-204,Menus_UI_Settings,582,2360,54951,"Alas, your party power capacity is already at maximum.",
-204,Menus_UI_Settings,583,2364,55006,Hm<FG><FH> How can this be<FH> You have already grasped the mysteries of party powers... Very well. Continue your training.,
-204,Menus_UI_Settings,584,2368,55127,"What's this, what's this<FH> You've got a costume, got a costume<FG> You can change clothes here, change clothes here<FG>",
-204,Menus_UI_Settings,585,2372,55246,"Woooooo<FG> This is the copy shop, copy shop<FG>",
-204,Menus_UI_Settings,586,2376,55293,"I can make your current weapons look just like weapons you've owned before, owned before<FG>",
-204,Menus_UI_Settings,587,2380,55385,"Let's get started, get started<FG>",
-204,Menus_UI_Settings,588,2384,55419,"Woooooo-elcome<FG> What do you want, what do you want<FH>",
-204,Menus_UI_Settings,589,2388,55475,"It's the hero of the realm, hero of the realm<FG> What do you want, what do you want<FH>",
-204,Menus_UI_Settings,590,2392,55562,"Welcome, welcome<FG> Whose weapon do you want to transform, want to transform<FH>",
-204,Menus_UI_Settings,591,2396,55642,"It's the hero of the realm, hero of the realm<FG> Whose weapon do you want to transform, want to transform<FH>",
-204,Menus_UI_Settings,592,2400,55751,"Anything else, anything else<FH>",
-204,Menus_UI_Settings,593,2404,55783,"Whose weapon do you want to transform, want to transform<FH>",
-204,Menus_UI_Settings,594,2408,55843,"Which weapon do you want it to look like, want it to look like<FH>",
-204,Menus_UI_Settings,595,2412,55909,"So when you equip <I8>B1, you want <EH>B1them<EI>01it<EJ>01 to look like <I8>A1, do you, do you<FH> You sure, you sure<FH>",
-204,Menus_UI_Settings,596,2416,56025,"I'll undo my magic for you, then, undo my magic<FG> That's what you want, right<FH> That's what you want<FH>",
-204,Menus_UI_Settings,597,2420,56131,"Roger, roger<FG> Here goes nothing, here goes nothing<FG>",
-204,Menus_UI_Settings,598,2424,56187,"Woooooo<FG> Copycadabra, copycadabra<FG><FG><FG>",
-204,Menus_UI_Settings,599,2428,56232,"There we go, there we go<FG> I've transformed it for you, transformed it for you<FG>",
-204,Menus_UI_Settings,600,2432,56315,"Whose costume do you want to change, want to change<FH>",
-204,Menus_UI_Settings,601,2436,56370,"Which costume do you want to wear, want to wear<FH>",
-204,Menus_UI_Settings,602,2440,56421,"You want the <I0>M1 costume, do you, do you<FH> You're sure, right<FH> Sure, right<FH>",
-204,Menus_UI_Settings,603,2444,56504,"Come again, come again<FG>",
-204,Menus_UI_Settings,604,2448,56530,"Always a pleasure, your heroship<FG> Always a pleasure<FG> Come again, come again<FG>",
-204,Menus_UI_Settings,605,2452,56613,Do you want to change the music that plays when you're in Accordia<FH>,
-204,Menus_UI_Settings,606,2456,56683,The music that plays when you're in Accordia has been changed. You can hear the new music once you go outside.,
-204,Menus_UI_Settings,607,2460,56794,Continue to the next battle<FH>,
-204,Menus_UI_Settings,608,2464,56825,This will take you straight to the next battle. Are you sure<FH>,
-204,Menus_UI_Settings,609,2468,56889,Do you want to put this battle on hold and return to Accordia<FH>,
-204,Menus_UI_Settings,610,2472,56954,Do you want to put this battle on hold and return to the ad hoc encampment<FH>,
-204,Menus_UI_Settings,611,2476,57032,Do you want to return to the Wild Zone you were in<FH>,
-204,Menus_UI_Settings,612,2480,57086,Do you want to return to Gragwort's Grotto<FH>,
-204,Menus_UI_Settings,613,2484,57132,Do you want to cast Evac and return to your own world<FH>,
-204,Menus_UI_Settings,614,2488,57189,Do you want to start this battle again from the beginning<FH>,
-204,Menus_UI_Settings,615,2492,57250,<F4><I0>M1 has died<FG>,
-204,Menus_UI_Settings,616,2496,57271,The party have been wiped out<FG>,
-204,Menus_UI_Settings,617,2500,57304,Failed to properly protect <I6>41<FG>,
-204,Menus_UI_Settings,618,2504,57340,<F4><I0>41 has failed<FG>,
-204,Menus_UI_Settings,619,2508,57363,The party have failed<FG>,
-204,Menus_UI_Settings,620,2512,57388,You have completed a quest<FG> Go to the quest counter to collect your reward<FG>,
-204,Menus_UI_Settings,621,2516,57468,You have failed a quest<FG> Go back to the quest counter to try again.,
-204,Menus_UI_Settings,622,2520,57538,This establishment is closed.,
-204,Menus_UI_Settings,623,2524,57568,You are now attuned to the following Zoomstone<FI>\n‘<I0>M1’<FG>,
-204,Menus_UI_Settings,624,2528,57633,Cast Zoom<FH>,
-204,Menus_UI_Settings,625,2532,57646,Zoom to <I0>M1<FH>,
-204,Menus_UI_Settings,626,2536,57663,Begin the ‘<I0>M1’ battle<FH>,
-204,Menus_UI_Settings,627,2540,57695,<F4><I0>41 casts Zoom<FG>,
-204,Menus_UI_Settings,628,2544,57718,Begin the next battle<FH>,
-204,Menus_UI_Settings,629,2548,57743,But you'd only bump your head on the ceiling<FG>,
-204,Menus_UI_Settings,630,2552,57791,It's empty.,
-204,Menus_UI_Settings,631,2556,57803,Make a record of your adventure so far<FH>,
-204,Menus_UI_Settings,632,2560,57845,"You can't change equipment right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",
-204,Menus_UI_Settings,633,2564,57973,You can't cast Evac right now<FG> It will become available when you're able to use spells and abilities again.,
-204,Menus_UI_Settings,634,2568,58083,"You can't change skills right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",
-204,Menus_UI_Settings,635,2572,58208,You can't cast Zoom right now<FG> It will become available when you are out of battle and able to use spells and abilities again.,
-204,Menus_UI_Settings,636,2576,58337,Select the character whose skill points you wish to allocate.,
-204,Menus_UI_Settings,637,2580,58399,Select a skill to learn.,
-204,Menus_UI_Settings,638,2584,58424,Skill already learned.,
-204,Menus_UI_Settings,639,2588,58447,You do not currently meet the requirements for this skill.,
-204,Menus_UI_Settings,640,2592,58506,You do not have enough skill points to learn this skill.,
-204,Menus_UI_Settings,641,2596,58563,You can only equip one of each kind of accessory.,
-204,Menus_UI_Settings,642,2600,58613,<F4><I6>C1 was cursed<FG>,
-204,Menus_UI_Settings,643,2604,58636,Use a bonus ball<FH>,
-204,Menus_UI_Settings,644,2608,58656,You can't use bonus balls right now<FG> They will become available when you're able to use spells and abilities again.,
-204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,
-204,Menus_UI_Settings,646,2616,58845,Discard this piece of equipment<FH>,
-204,Menus_UI_Settings,647,2620,58880,You can't possibly discard that<FG> It's currently equipped<FG>,
-204,Menus_UI_Settings,648,2624,58942,You can't possibly discard that<FG> It's far too important<FG>,
-204,Menus_UI_Settings,649,2628,59003,Which button do you want to assign a spell or ability to<FH>,
-204,Menus_UI_Settings,650,2632,59063,Which spell or ability do you want to assign to this button<FH>,
+204,Menus_UI_Settings,401,1636,39873,"Do you want to claim one<FH>\n(This will leave <E5>R1one bonus ball<E6>01a total of <GR>1 bonus balls<E7>01, which can be claimed from any adventure log.)",ต้องการรับหนึ่งลูกหรือไม่<FH>\n(จะเหลือโบนัสบอล <E5>R1หนึ่งลูก<E6>01ทั้งหมด <GR>1 ลูก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,402,1640,40022,It looks like we've got <E5>R1one quicksilver key<E6>01<GR>1 quicksilver keys<E7>01 for you.,ดูเหมือนว่าเราจะมี <E5>R1กุญแจควิกซิลเวอร์คีย์ 1 ดอก<E6>01กุญแจควิกซิลเวอร์คีย์ <GR>1 ดอก<E7>01 สำหรับคุณนะคะ
+204,Menus_UI_Settings,403,1644,40111,"Do you want to claim one<FH>\n(This will leave <E5>R1one quicksilver key<E6>01a total of <GR>1 quicksilver keys<E7>01, which can be claimed from any adventure log.)",ต้องการรับหนึ่งดอกหรือไม่<FH>\n(จะเหลือกุญแจควิกซิลเวอร์คีย์ <E5>R1หนึ่งดอก<E6>01ทั้งหมด <GR>1 ดอก<E7>01 ซึ่งสามารถรับได้จากบันทึกการเดินทางใดก็ได้)
+204,Menus_UI_Settings,404,1648,40270,Here you go<FG>,นี่ค่ะ<FG>
+204,Menus_UI_Settings,405,1652,40285,<F4><I0>00 receives a bonus ball<FG>,<F4><I0>00 ได้รับโบนัสบอล<FG>
+204,Menus_UI_Settings,406,1656,40319,<F4><I0>00 receives a quicksilver key<FG>,<F4><I0>00 ได้รับกุญแจควิกซิลเวอร์คีย์<FG>
+204,Menus_UI_Settings,407,1660,40358,Visiting this dungeon will reduce your stock of quicksilver keys from <GR>1 to <GR>2. Are you sure<FH>,การเข้าสู่ดันเจี้ยนนี้จะลดจำนวนกุญแจควิกซิลเวอร์คีย์ของคุณจาก <GR>1 เหลือ <GR>2 ดอก แน่ใจหรือไม่คะ<FH>
+204,Menus_UI_Settings,408,1664,40458,"Hmm... I'm ever so sorry, but I wasn't able to check your items for you...",หืม... ขออภัยด้วยนะคะ แต่ฉันไม่สามารถตรวจสอบไอเทมของคุณได้ในขณะนี้...
+204,Menus_UI_Settings,409,1668,40533,"Hmm... I'm ever so sorry, but there was a problem getting your item for you...",หืม... ขออภัยด้วยนะคะ เกิดปัญหาในการรับไอเทมของคุณค่ะ...
+204,Menus_UI_Settings,410,1672,40612,It looks like you've got the Online Features option turned off in the Settings menu. Would you mind turning it on and coming back again<FH>,ดูเหมือนว่าคุณจะปิดตัวเลือก ฟีเจอร์ออนไลน์ ในเมนูตั้งค่าอยู่นะคะ ช่วยเปิดใช้งานแล้วแวะมาใหม่อีกครั้งได้ไหมคะ<FH>
+204,Menus_UI_Settings,411,1676,40751,The Online Features option is turned off in the Settings menu. Please turn it on and try again.,ตัวเลือก ฟีเจอร์ออนไลน์ ถูกปิดอยู่ในเมนูตั้งค่า โปรดเปิดใช้งานแล้วลองใหม่อีกครั้งค่ะ
+204,Menus_UI_Settings,412,1680,40847,Help <I0>M1 with the ‘<I0>M2’ battle<FH>,ต้องการช่วย <I0>M1 ในการต่อสู้ ‘<I0>M2’ หรือไม่คะ<FH>
+204,Menus_UI_Settings,413,1684,40889,Do you want to withdraw your offer of help<FH>,ต้องการถอนข้อเสนอช่วยเหลือหรือไม่คะ<FH>
+204,Menus_UI_Settings,414,1688,40935,Are you sure you want to withdraw<FH>,แน่ใจหรือไม่คะว่าต้องการถอนตัว<FH>
+204,Menus_UI_Settings,415,1692,40972,Listening for answers to your call to arms...\nPlease wait.,กำลังรอการตอบรับการระดมพลของคุณ...\nโปรดรอสักครู่
+204,Menus_UI_Settings,416,1696,41031,There are still players we haven't heard back from. Are you sure you want to start the battle<FH>,ยังมีผู้เล่นที่เรายังไม่ได้รับการตอบกลับ แน่ใจหรือไม่ว่าต้องการเริ่มการต่อสู้เลย<FH>
+204,Menus_UI_Settings,417,1700,41128,There are still players we haven't heard back from. Are you sure you want to cancel<FH>,ยังมีผู้เล่นที่เรายังไม่ได้รับการตอบกลับ แน่ใจหรือไม่ว่าต้องการยกเลิก<FH>
+204,Menus_UI_Settings,418,1704,41215,It looks like everyone's ready<FG> Let battle commence<FG>,ดูเหมือนทุกคนจะพร้อมแล้วนะคะ<FG> เริ่มการต่อสู้ได้เลยค่ะ<FG>
+204,Menus_UI_Settings,419,1708,41272,"When everyone's ready, please select ‘Venture Forth with this Party’.",เมื่อทุกคนพร้อมแล้ว โปรดเลือก 'ออกเดินทางรบพร้อมปาร์ตี้นี้'
+204,Menus_UI_Settings,420,1712,41346,Please wait a moment while the battle begins...,โปรดรอสักครู่ในขณะที่การต่อสู้กำลังจะเริ่มขึ้น...
+204,Menus_UI_Settings,421,1716,41394,Ask for help from other players<FH>,ต้องการขอความช่วยเหลือจากผู้เล่นคนอื่นหรือไม่<FH>
+204,Menus_UI_Settings,422,1720,41429,Cancel your call to arms<FH>,ต้องการยกเลิกการระดมพลของคุณหรือไม่<FH>
+204,Menus_UI_Settings,423,1724,41457,Choose which offers of help to accept.,เลือกข้อเสนอช่วยเหลือที่คุณต้องการตอบรับค่ะ
+204,Menus_UI_Settings,424,1728,41496,Venture into battle with this party<FH>,ต้องการออกศึกพร้อมกับปาร์ตี้นี้หรือไม่<FH>
+204,Menus_UI_Settings,425,1732,41535,"I am sorry, my child, but we are not ready to begin our work quite yet. Have patience, and return anon.",ขออภัยด้วยนะ บุตรเอ๋ย แต่พวกเรายังไม่พร้อมเริ่มงานในตอนนี้ จงอดทนรอและกลับมาใหม่ในไม่ช้าเถิด
+204,Menus_UI_Settings,426,1736,41639,"Welcome, my child<FG> I am finally ready to receive you. I can assist you in changing your vocation whenever you wish to do so.",ยินดีต้อนรับ บุตรเอ๋ย<FG> ในที่สุดข้าก็พร้อมรับรองเจ้าแล้ว ข้าสามารถช่วยเจ้าเปลี่ยนอาชีพได้เมื่อใดก็ตามที่เจ้าต้องการ
+204,Menus_UI_Settings,427,1740,41766,"I am also able to reassign your skill points, should you require such a service.",นอกจากนี้ ข้ายังสามารถจัดสรรแต้มสกิลของเจ้าใหม่ได้ด้วย หากเจ้าต้องการบริการเช่นนั้น
+204,Menus_UI_Settings,428,1744,41847,Call upon my aid whenever you have need of it. I am always here and willing to help.,เรียกหาความช่วยเหลือจากข้าได้เสมอเมื่อเจ้าต้องการ ข้าอยู่ที่นี่และพร้อมช่วยเหลือเสมอ
+204,Menus_UI_Settings,429,1748,41932,"Now, let us begin.",เอาล่ะ เรามาเริ่มกันเถิด
+204,Menus_UI_Settings,430,1752,41951,"Welcome. I am a humble servant of Alltrades, charged with assisting all those who wish to pursue a new path in life.",ยินดีต้อนรับ ข้าคือผู้รับใช้ผู้ถ่อมตนแห่งวิหารดาร์ม่า มีหน้าที่คอยช่วยเหลือผู้ที่ปรารถนาจะก้าวเดินสู่เส้นทางชีวิตสายใหม่
+204,Menus_UI_Settings,431,1756,42068,Welcome<FG> It is an honour indeed to aid such an accomplished hero in finding <E0>00his<E3>00her<E4>00 true calling.,ยินดีต้อนรับ<FG> ช่างเป็นเกียรติจริง ๆ ที่ได้ช่วยผู้กล้าผู้เก่งกาจเช่นนี้ในการค้นหาเสียงเรียกร้องที่แท้จริงของตนเอง
+204,Menus_UI_Settings,432,1760,42182,And how might I help you today<FH>,และมีสิ่งใดที่ข้าพอจะช่วยเจ้าได้ในวันนี้หรือ<FH>
+204,Menus_UI_Settings,433,1764,42216,"Is there anything else I can assist you with, my child<FH>",มีสิ่งใดอื่นที่ข้าจะช่วยเจ้าได้อีกหรือไม่ บุตรเอ๋ย<FH>
+204,Menus_UI_Settings,434,1768,42274,Which of you seeks a new path in life<FH>,ผู้ใดในหมู่พวกเจ้าที่แสวงหาเส้นทางชีวิตสายใหม่หรือ<FH>
+204,Menus_UI_Settings,435,1772,42315,And what vocation would <F4><I0>41 like to undertake<FH>,และอาชีพใดที่ <F4><I0>41 ปรารถนาจะประกอบการหรือ<FH>
+204,Menus_UI_Settings,436,1776,42369,So <F4><I0>41 would like to pursue the path of the %s. Is this correct<FH>,เช่นนั้น <F4><I0>41 ปรารถนาจะก้าวเดินในวิถีแห่ง %s ถูกต้องหรือไม่<FH>
+204,Menus_UI_Settings,437,1780,42441,"Very well<FG> <F4><I0>41, fill your heart with visions of becoming <E8>61an<E9>61a<EA>61 %s, and join me in prayer<FG>",ดีเยี่ยม<FG> <F4><I0>41 จงเติมเต็มหัวใจของเจ้าด้วยนิมิตแห่งการเป็น %s และร่วมสวดภาวนาไปพร้อมกับข้าเถิด<FG>
+204,Menus_UI_Settings,438,1784,42553,O mighty arbiter of occupations<FG> Permit your servant <F4><I0>41 to tread a new path in life<FG>,ข้าแต่องค์ผู้ตัดสินแห่งสายอาชีพผู้ยิ่งใหญ่<FG> โปรดอนุญาตให้ผู้รับใช้ <F4><I0>41 ได้ก้าวเดินบนเส้นทางชีวิตสายใหม่ด้วยเถิด<FG>
+204,Menus_UI_Settings,439,1788,42648,It is done. Henceforth shall <F4><I0>41 follow the way of the %s.,สัมฤทธิ์ผลแล้ว นับจากนี้เป็นต้นไป <F4><I0>41 จะก้าวเดินในวิถีแห่ง %s
+204,Menus_UI_Settings,440,1792,42712,Now begins a new chapter in your life. You must ensure that you are appropriately equipped for the challenges to come.,บัดนี้บทใหม่ในชีวิตของเจ้าได้เริ่มต้นขึ้นแล้ว เจ้าต้องตรวจดูให้แน่ใจว่าได้ติดตั้งอุปกรณ์ที่เหมาะสมสำหรับความท้าทายเบื้องหน้า
+204,Menus_UI_Settings,441,1796,42831,Does anyone else wish to pursue a new path in life<FH>,มีผู้ใดอื่นปรารถนาจะก้าวเดินสู่เส้นทางชีวิตสายใหม่อีกหรือไม่<FH>
+204,Menus_UI_Settings,442,1800,42885,"Hm<FH> <E8>61An<E9>61A<EA>61 %s<FH> But <F4><I0>41 already treads the path of that particular profession, my child.",หืม<FH> อาชีพ %s งั้นหรือ<FH> แต่ <F4><I0>41 ก้าวเดินอยู่ในวิถีแห่งสายอาชีพนั้นอยู่แล้วนะ บุตรเอ๋ย
+204,Menus_UI_Settings,443,1804,42994,"Let us pray to the arbiter of occupations, and ask that you be permitted to redistribute the skill points you have earned thus far.",เรามาร่วมสวดภาวนาต่อองค์ผู้ตัดสินแห่งสายอาชีพ และขออนุญาตจัดสรรแต้มสกิลที่เจ้าได้รับมาทั้งหมดเสียใหม่เถิด
+204,Menus_UI_Settings,444,1808,43126,Who among you wishes to reallocate their skill points<FH>,ผู้ใดในหมู่พวกเจ้าที่ประสงค์จะจัดสรรแต้มสกิลของตนใหม่หรือ<FH>
+204,Menus_UI_Settings,445,1812,43183,Does anyone else wish to reallocate their skill points<FH>,มีผู้ใดอื่นประสงค์จะจัดสรรแต้มสกิลของตนใหม่อีกหรือไม่<FH>
+204,Menus_UI_Settings,446,1816,43241,"<F4><I0>41, hm<FH> Very well. I must ask for a small donation of <E5>O1one gold coin<E6>01%d gold coins<E7>01. Does that seem acceptable<FH>",<F4><I0>41 สินะ หืม<FH> ได้เลย ข้าจำเป็นต้องขอรับเงินบริจาคเล็กน้อยจำนวน <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01 ยินยอมตามนี้หรือไม่<FH>
+204,Menus_UI_Settings,447,1820,43375,O mighty arbiter of occupations<FG> Permit your servant <F4><I0>41 to redistribute the gifts you have so generously given<FG>,ข้าแต่องค์ผู้ตัดสินแห่งสายอาชีพผู้ยิ่งใหญ่<FG> โปรดอนุญาตให้ผู้รับใช้ <F4><I0>41 ได้จัดสรรพรที่พระองค์มอบให้อย่างโอบอ้อมอารีนี้ใหม่อีกคราด้วยเถิด<FG>
+204,Menus_UI_Settings,448,1824,43497,It is done. May <F4><I0>41's reassignment of the gifts received from on high propel <E0>41him<E3>41her<E4>41 to newer and greater heights<FG>,สัมฤทธิ์ผลแล้ว ขอให้การจัดสรรพรที่ได้รับจากเบื้องบนใหม่นี้ ช่วยผลักดันให้ <F4><I0>41 ก้าวไปสู่จุดสูงสุดครั้งใหม่ที่ยิ่งใหญ่กว่าเดิมด้วยเถิด<FG>
+204,Menus_UI_Settings,449,1828,43633,"Hm<FH> But <F4><I0>41 has no skill points to reassign, my child<FG>",หืม<FH> แต่ <F4><I0>41 ไม่มีแต้มสกิลให้จัดสรรใหม่เลยนะ บุตรเอ๋ย<FG>
+204,Menus_UI_Settings,450,1832,43697,"I am deeply sorry, my child, but without a sufficient donation, I am unable to help you.",ข้าต้องขออภัยอย่างยิ่ง บุตรเอ๋ย แต่หากปราศจากเงินบริจาคที่เพียงพอ ข้าก็มิอาจช่วยเจ้าได้
+204,Menus_UI_Settings,451,1836,43786,May you be set upon the path to future prosperity.,ขอให้เจ้าได้รับการชี้นำสู่เส้นทางแห่งความรุ่งเรืองในอนาคต
+204,Menus_UI_Settings,452,1840,43837,Very well. I wish you good fortune. May the arbiter of occupations watch over you<FG>,ดีแล้ว ข้าขออวยพรให้เจ้าโชคดี ขอให้องค์ผู้ตัดสินแห่งสายอาชีพคุ้มครองเจ้า<FG>
+204,Menus_UI_Settings,453,1844,43922,It is truly a pleasure to offer guidance to one so accomplished. May the arbiter of occupations watch over you<FG>,เป็นความยินดีอย่างแท้จริงที่ได้ให้คำชี้แนะแก่ผู้ที่ประสบความสำเร็จเช่นนี้ ขอให้องค์ผู้ตัดสินแห่งสายอาชีพคุ้มครองเจ้า<FG>
+204,Menus_UI_Settings,454,1848,44036,"Hello<FG> I'm afraid I haven't finished setting up just yet<MV>come by later, maybe<FH>",สวัสดีครับ<FG> พอดีผมยังเตรียมร้านไม่เสร็จเลยครับ<MV>ไว้ค่อยแวะมาใหม่ทีหลังนะครับ<FH>
+204,Menus_UI_Settings,455,1852,44121,"Hello<FG> This is the Swap Shop, where you can trade items with the townspeople<FG>",สวัสดีครับ<FG> ที่นี่คือร้านแลกเปลี่ยน (Swap Shop) ที่ที่คุณสามารถแลกเปลี่ยนไอเทมกับชาวเมืองได้ครับ<FG>
+204,Menus_UI_Settings,456,1856,44203,"Well, if it isn't the infamous <F4><I0>00<FG> Have you come to see the latest offers<FH>",แหม นี่มันท่าน <F4><I0>00 ผู้เลื่องชื่อนี่นา<FG> แวะมาดูข้อเสนอแลกเปลี่ยนล่าสุดใช่ไหมครับ<FH>
+204,Menus_UI_Settings,457,1860,44288,"Hello, <F4><I0>00<FG> We've been bombarded with requests to trade with you<FG> You're quite the celebrity<FG>",สวัสดีครับ คุณ <F4><I0>00<FG> มีคนส่งคำขอแลกเปลี่ยนของกับคุณเข้ามาเพียบเลยครับ<FG> คุณนี่ดังจริง ๆ เลยนะเนี่ย<FG>
+204,Menus_UI_Settings,458,1864,44393,"Welcome, <F4><I0>00<FG> I can't keep the townspeople away, you know<FG> They're all itching to trade with a hero like you<FG>",ยินดีต้อนรับครับ คุณ <F4><I0>00<FG> ชาวเมืองตื่นเต้นกันใหญ่เลยครับ<FG> ทุกคนต่างอยากแลกของกับผู้กล้าอย่างคุณทั้งนั้นเลยครับ<FG>
+204,Menus_UI_Settings,459,1868,44514,Do you like trading items<FH> Then you'll love the Swap Shop<FG> It's where people come to barter for the best deals going<FG>,คุณชอบแลกเปลี่ยนไอเทมไหมครับ<FH> ถ้าชอบล่ะก็ คุณจะต้องหลงรักร้าน Swap Shop แน่นอนครับ<FG> ที่นี่คือที่ที่ผู้คนมาร่วมแลกเปลี่ยนดีลที่ดีที่สุดกันครับ<FG>
+204,Menus_UI_Settings,460,1872,44638,"The items on offer change all the time, so be sure to pop by regularly and see if someone's got what you want<FG>",ไอเทมที่เปิดรับแลกจะเปลี่ยนไปตลอดเวลา ดังนั้นอย่าลืมแวะมาบ่อย ๆ เพื่อดูว่ามีใครเสนอของที่คุณต้องการไหมนะครับ<FG>
+204,Menus_UI_Settings,461,1876,44751,"And if there's something you want but you don't have the right items to trade, don't despair<MV>you can save a single offer for later<FG>",และถ้ามีของที่คุณอยากได้ แต่ยังไม่มีไอเทมที่ต้องใช้แลก ก็อย่าเพิ่งหมดหวังนะครับ<MV>คุณสามารถบันทึกข้อเสนอไว้ได้หนึ่งข้อเสนอเพื่อมาแลกทีหลังได้ครับ<FG>
+204,Menus_UI_Settings,462,1880,44887,Do any of our other offers take your fancy<FH>,มีข้อเสนออื่น ๆ ของเราที่ถูกใจคุณอีกไหมครับ<FH>
+204,Menus_UI_Settings,463,1884,44933,Come back soon<FG>,ไว้แวะมาใหม่นะครับ<FG>
+204,Menus_UI_Settings,464,1888,44951,Customers of your calibre are always welcome<FG> Come back soon<FG>,ลูกค้าระดับคุณ ยินดีต้อนรับเสมอครับ<FG> ไว้แวะมาใหม่นะครับ<FG>
+204,Menus_UI_Settings,465,1892,45017,The townspeople can't seem to get enough of swapping items with a real celebrity<FG> Come back soon<FG>,ชาวเมืองดูเหมือนจะตื่นเต้นไม่หยุดกับการได้แลกของกับคนดังตัวจริงเสียงจริงครับ<FG> ไว้แวะมาใหม่นะครับ<FG>
+204,Menus_UI_Settings,466,1896,45119,"It's a real honour to have a hero like you come here to trade<FG> Come back soon, okay<FH>",เป็นเกียรติจริง ๆ ที่มีผู้กล้าอย่างคุณแวะมาแลกของที่นี่<FG> ไว้แวะมาใหม่นะครับ ตกลงไหมครับ<FH>
+204,Menus_UI_Settings,467,1900,45208,Who would you like to trade with<FH>,ต้องการแลกเปลี่ยนกับใครดีครับ<FH>
+204,Menus_UI_Settings,468,1904,45244,Here's the details of the trade again. Is this alright<FH>,นี่คือรายละเอียดของการแลกเปลี่ยนอีกครั้ง ถูกต้องตามนี้ไหมครับ<FH>
+204,Menus_UI_Settings,469,1908,45302,"Alright, done<FG> Nice doing business with you<FG>",เรียบร้อยครับ ตกลงตามนี้<FG> ยินดีที่ได้แลกเปลี่ยนกับคุณนะครับ<FG>
+204,Menus_UI_Settings,470,1912,45351,"Oh, it looks like you're a bit short there. I'm sorry, but I can't make the trade unless you have the right amount of items...",โอ๊ะ ดูเหมือนของที่คุณมีจะไม่พอนะครับ ขอโทษด้วยจริง ๆ แต่ผมทำการแลกเปลี่ยนให้ไม่ได้จนกว่าคุณจะมีไอเทมครบตามจำนวนที่กำหนดครับ...
+204,Menus_UI_Settings,471,1916,45478,"Alright, let's save that offer for later, shall we<FH>",ได้เลยครับ งั้นเราบันทึกข้อเสนอนี้ไว้แลกคราวหน้ากันดีกว่านะครับ<FH>
+204,Menus_UI_Settings,472,1920,45532,"I'm sorry, but you can only save one offer at a time.",ขอโทษด้วยนะครับ แต่คุณสามารถบันทึกข้อเสนอไว้ได้เพียงครั้งละหนึ่งรายการเท่านั้นครับ
+204,Menus_UI_Settings,473,1924,45586,"Alright, let's cancel that, shall we<FH>",ได้เลยครับ งั้นยกเลิกรายการนี้นะครับ<FH>
+204,Menus_UI_Settings,474,1928,45626,"I'm sorry, but I don't have any more trades to offer you right now. Check in again later, okay<FH>",ขอโทษด้วยนะครับ ตอนนี้ไม่มีข้อเสนอแลกเปลี่ยนอื่นให้คุณแล้ว ไว้แวะมาเช็กใหม่ทีหลังนะครับ ตกลงไหมครับ<FH>
+204,Menus_UI_Settings,475,1932,45724,"I'm sorry, but I don't have any more trades to offer you right now. Check in again later, okay<FH>",ขอโทษด้วยนะครับ ตอนนี้ไม่มีข้อเสนอแลกเปลี่ยนอื่นให้คุณแล้ว ไว้แวะมาเช็กใหม่ทีหลังนะครับ ตกลงไหมครับ<FH>
+204,Menus_UI_Settings,476,1936,45822,Greetings<FG> We have yet to conclude our preparations here. Please return later to submit your report.,ขอคารวะ<FG> พวกเรายังเตรียมการไม่เสร็จสิ้น โปรดกลับมาส่งรายงานในภายหลัง
+204,Menus_UI_Settings,477,1940,45925,"Well met, brave warrior<FG> It is my duty to remunerate those who assist the realm in suppressing rogue monsters.",ยินดีที่ได้พบ นักรบผู้กล้าหาญ<FG> หน้าที่ของข้าคือการมอบเงินรางวัลตอบแทนแก่ผู้ที่ช่วยอาณาจักรปราบปรามสัตว์ประหลาดที่ดุร้าย
+204,Menus_UI_Settings,478,1944,46038,"Remuneration will be offered in the form of gold coins, which are awarded when quotas for each monster type are met.",เงินรางวัลจะมอบให้ในรูปของเหรียญทอง ซึ่งจะมอบให้เมื่อบรรลุเป้าหมายการกำจัดของสัตว์ประหลาดแต่ละชนิด
+204,Menus_UI_Settings,479,1948,46155,"And when all quotas for a given monster have been fulfilled, you will receive a magnificent mini medal<FG> Now, go forth and conquer<FG>",และเมื่อบรรลุเป้าหมายทั้งหมดของสัตว์ประหลาดชนิดนั้น เจ้าจะได้รับมินิเมดัลอันทรงคุณค่า<FG> เอาล่ะ จงออกไปพิชิตพวกมันเถิด<FG>
+204,Menus_UI_Settings,480,1952,46290,Behold<MV>your current monster suppression record.,จงดูนี่เถิด<MV>บันทึกการปราบปรามสัตว์ประหลาดในปัจจุบันของเจ้า
+204,Menus_UI_Settings,481,1956,46340,"Zounds<FG> Every quota has been filled, every rogue beast bested<FG> I have no further reward to offer save my respect and admiration<FG>",ยอดเยี่ยมยิ่งนัก<FG> เจ้าบรรลุเป้าหมายการกำจัดครบทุกชนิด ปราบสัตว์ประหลาดดุร้ายหมดสิ้นแล้ว<FG> ข้าไม่มีรางวัลใดจะมอบให้นอกจากความเคารพและความชื่นชมจากใจจริง<FG>
+204,Menus_UI_Settings,482,1960,46475,"The realm thanks you for your continued service. Let us peruse your current monster suppression record, brave warrior.",อาณาจักรขอขอบคุณสำหรับการปฏิบัติหน้าที่อย่างต่อเนื่องของเจ้า เรามาตรวจสอบบันทึกการปราบสัตว์ประหลาดของเจ้ากันเถิด นักรบผู้กล้าหาญ
+204,Menus_UI_Settings,483,1964,46594,"Well met, noble <F4><I0>00<FG> Let us peruse your current monster suppression record, O knight of renown.",ยินดีที่ได้พบ ท่าน <F4><I0>00 ผู้สูงส่ง<FG> เรามาตรวจสอบบันทึกการปราบสัตว์ประหลาดของเจ้ากันเถิด อัศวินผู้เลื่องชื่อ
+204,Menus_UI_Settings,484,1968,46697,"Hail <F4><I0>00<FG> Let us peruse your current monster suppression record, storied hero of the realm<FG>",ขอคารวะท่าน <F4><I0>00<FG> เรามาตรวจสอบบันทึกการปราบสัตว์ประหลาดของเจ้ากันเถิด ท่านผู้กล้าในตำนานแห่งอาณาจักร<FG>
+204,Menus_UI_Settings,485,1972,46798,Oh-ho<FG> It seems you have met a monster suppression quota<FG> Allow me to present you with your reward<FG>,โอ้โฮ<FG> ดูเหมือนเจ้าจะบรรลุเป้าหมายการปราบปรามสัตว์ประหลาดแล้วนะ<FG> ขอมอบรางวัลตอบแทนให้แก่เจ้า<FG>
+204,Menus_UI_Settings,486,1976,46904,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
+204,Menus_UI_Settings,487,1980,46967,Magnificent<FG> You have met all suppression quotas for a given monster type<FG> Allow me to present you with your reward<FG>,สุดยอดมาก<FG> เจ้าบรรลุเป้าหมายการกำจัดสัตว์ประหลาดชนิดนี้ได้ครบถ้วนแล้ว<FG> ขอมอบรางวัลตอบแทนให้แก่เจ้า<FG>
+204,Menus_UI_Settings,488,1984,47090,<F4><I0>00 receives <E5>P1a mini medal<E6>01%d mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล <E5>P1หนึ่งเหรียญ<E6>01%d เหรียญ<E7>01<FG>
+204,Menus_UI_Settings,489,1988,47153,The rogue monsters must be suppressed<FG> The realm is relying on you<FG>,สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> อาณาจักรหวังพึ่งพาเจ้าอยู่นะ<FG>
+204,Menus_UI_Settings,490,1992,47225,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, brave warrior<FG>",สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> เจ้าต้องต่อสู้ในการศึกอันทรงเกียรติต่อไปนะ นักรบผู้กล้าหาญ<FG>
+204,Menus_UI_Settings,491,1996,47326,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, O knight of renown<FG>",สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> เจ้าต้องต่อสู้ในการศึกอันทรงเกียรติต่อไปนะ อัศวินผู้เลื่องชื่อ<FG>
+204,Menus_UI_Settings,492,2000,47432,"The rogue monsters must be suppressed<FG> You must continue to fight the good fight, O hero of the realm<FG>",สัตว์ประหลาดดุร้ายจะต้องถูกปราบปรามให้หมดสิ้น<FG> เจ้าต้องต่อสู้ในการศึกอันทรงเกียรติต่อไปนะ ท่านผู้กล้าแห่งอาณาจักร<FG>
+204,Menus_UI_Settings,493,2004,47539,You honour the realm with your service<FG> Here<FG> A reward for your continued efforts<FG> May you continue to fight the good fight<FG>,เจ้าได้สร้างเกียรติยศแก่อาณาจักรด้วยหน้าที่ของเจ้า<FG> เอ้านี่<FG> รางวัลตอบแทนสำหรับความพยายามอย่างต่อเนื่อง ขอให้สู้ต่อไปในการศึกอันทรงเกียรตินะ<FG>
+204,Menus_UI_Settings,494,2008,47672,"Hello<FG> This is the quest counter. I'm afraid I don't have any quests for you right now, but I'm sure I'll have some soon. Come back in a bit<FG>",สวัสดีค่ะ<FG> ที่นี่คือเคาน์เตอร์เควสต์ ตอนนี้ฉันยังไม่มีเควสต์ให้คุณเลยค่ะ แต่เดี๋ยวก็จะมีเข้ามาในไม่ช้าแน่นอน ไว้แวะมาใหม่นะคะ<FG>
+204,Menus_UI_Settings,495,2012,47818,"Welcome, <F4><I0>00<FG> This is the quest counter, where you can aid people from across the realm.",ยินดีต้อนรับค่ะ คุณ <F4><I0>00<FG> ที่นี่คือเคาน์เตอร์เควสต์ สถานที่ที่คุณสามารถช่วยเหลือผู้คนจากทั่วทุกสารทิศในอาณาจักรได้ค่ะ
+204,Menus_UI_Settings,496,2016,47914,"The client for each quest will offer a reward upon completion, so it's well worth your while. I hope we can count on your assistance<FG>",ผู้ว่าจ้างของแต่ละเควสต์จะมอบรางวัลตอบแทนเมื่อคุณทำภารกิจสำเร็จ ดังนั้นคุ้มค่าเหนื่อยแน่นอนค่ะ หวังว่าพวกเราจะพึ่งพาความช่วยเหลือจากคุณได้นะคะ<FG>
+204,Menus_UI_Settings,497,2020,48050,Why not have a quick look at what we've got available<FH>,ลองดูเควสต์ที่เรามีอยู่ตอนนี้หน่อยดีไหมคะ<FH>
+204,Menus_UI_Settings,498,2024,48107,"Welcome, <F4><I0>00<FG> In search of a new quest, are you<FH> Well then, how can I help<FH>",ยินดีต้อนรับค่ะ คุณ <F4><I0>00<FG> กำลังมองหาเควสต์ใหม่อยู่ใช่ไหมคะ<FH> มีอะไรให้ฉันช่วยดีคะ<FH>
+204,Menus_UI_Settings,499,2028,48194,"Welcome back, <F4><I0>00<FG> Why, this is amazing<FG> You've completed every quest I had to offer<FG>",ยินดีต้อนรับกลับมาค่ะ คุณ <F4><I0>00<FG> แหม ยอดเยี่ยมจริง ๆ เลยค่ะ<FG> คุณทำเควสต์ทั้งหมดที่ฉันมีให้สำเร็จครบถ้วนแล้วนะคะเนี่ย<FG>
+204,Menus_UI_Settings,500,2032,48291,"Welcome, <F4><I0>00<FG> The town's abuzz with talk about you. How can I help you today<FH>",ยินดีต้อนรับค่ะ คุณ <F4><I0>00<FG> ผู้คนทั้งเมืองกำลังพูดถึงคุณกันยกใหญ่เลยค่ะ วันนี้มีอะไรให้ฉันช่วยเหลือดีคะ<FH>
+204,Menus_UI_Settings,501,2036,48378,"Welcome back, <F4><I0>00<FG> It's a pleasure to welcome such an upstanding servant of the realm. How can I help you<FH>",ยินดีต้อนรับกลับมาค่ะ คุณ <F4><I0>00<FG> เป็นความยินดียิ่งที่ได้ต้อนรับผู้รับใช้ที่ทรงเกียรติแห่งอาณาจักร มีอะไรให้ฉันช่วยดีคะ<FH>
+204,Menus_UI_Settings,502,2040,48494,"Welcome back, <F4><I0>00<FG> It's an honour to have the realm's knight in shining armour to help with these quests<FG>",ยินดีต้อนรับกลับมาค่ะ คุณ <F4><I0>00<FG> เป็นเกียรติอย่างยิ่งที่ได้อัศวินม้าขาวแห่งอาณาจักรมาช่วยทำเควสต์เหล่านี้นะคะ<FG>
+204,Menus_UI_Settings,503,2044,48609,How else can I be of service<FH>,มีสิ่งใดอื่นให้ฉันรับใช้อีกไหมคะ<FH>
+204,Menus_UI_Settings,504,2048,48641,"I'm afraid my work here is done, but do drop by if you'd ever like to chat.",หน้าที่ของฉันตรงนี้เสร็จสิ้นแล้วค่ะ แต่แวะมาคุยกันได้เสมอนะคะ
+204,Menus_UI_Settings,505,2052,48717,"Well, would you look at that<FH> I don't have any quests at all for you right now. I'm sorry, but you'll have to check in again later.",แหม ดูสิคะ<FH> ตอนนี้ฉันไม่มีเควสต์เหลือให้คุณทำเลยค่ะ ขอโทษด้วยนะคะ ไว้แวะมาเช็กใหม่ทีหลังนะคะ
+204,Menus_UI_Settings,506,2056,48851,"That's all the quests I have for you right now. I'm sorry, but you'll have to check in again later.",นั่นคือเควสต์ทั้งหมดที่ฉันมีให้คุณในตอนนี้แล้วค่ะ ไว้แวะมาเช็กใหม่ทีหลังนะคะ
+204,Menus_UI_Settings,507,2060,48951,Which quest do you want to take on<FH>,ต้องการรับเควสต์ใดดีคะ<FH>
+204,Menus_UI_Settings,508,2064,48989,Are you sure you want to accept this quest<FH>,แน่ใจหรือไม่คะว่าต้องการรับเควสต์นี้<FH>
+204,Menus_UI_Settings,509,2068,49035,It seems this particular quest has to be completed within a <C9>time limit<R.> Are you sure you want to accept it<FH>,ดูเหมือนว่าเควสต์นี้จะต้องทำให้เสร็จภายใน <C9>เวลาที่กำหนด<R.> นะคะ แน่ใจหรือไม่คะว่าต้องการรับเควสต์นี้<FH>
+204,Menus_UI_Settings,510,2072,49150,"You can only accept one time-limited quest at a time, I'm afraid. Good luck with the current one<FG>",คุณสามารถรับเควสต์ที่มีการจำกัดเวลาได้เพียงครั้งละหนึ่งเควสต์เท่านั้นค่ะ ขอให้โชคดีกับเควสต์ปัจจุบันนะคะ<FG>
+204,Menus_UI_Settings,511,2076,49250,<F4><I0>00 accepted the ‘<I0>L1’ quest<FG>,<F4><I0>00 ตอบรับเควสต์ ‘<I0>L1’ แล้ว<FG>
+204,Menus_UI_Settings,512,2080,49293,"Sorry, I'm afraid you can only accept up to eight quests at a time. You'll need to report a completed quest or cancel one first.",ขออภัยด้วยนะคะ คุณสามารถรับเควสต์ได้สูงสุดเพียงแปดเควสต์ในเวลาเดียวกันค่ะ คุณต้องส่งรายงานเควสต์ที่เสร็จแล้วหรือยกเลิกเควสต์เก่าก่อนนะคะ
+204,Menus_UI_Settings,513,2084,49422,<F4><I0>00 reports successful completion of the ‘%s’ quest<FG>,<F4><I0>00 ส่งรายงานผลสำเร็จของเควสต์ ‘%s’ เรียบร้อยแล้ว<FG>
+204,Menus_UI_Settings,514,2088,49486,And here's your reward<FG> Enjoy<FG>,และนี่คือรางวัลตอบแทนของคุณค่ะ<FG> ยินดีด้วยนะคะ<FG>
+204,Menus_UI_Settings,515,2092,49521,"Oh, it looks like your inventory's full<FG> We can't have your reward falling out of your bag now, can we<FH> Make some room and drop by again<FG>",โอ๊ะ ดูเหมือนกระเป๋าของคุณจะเต็มนะคะ<FG> เดี๋ยวรางวัลจะหล่นหายจากกระเป๋าเอานะคะ ไปเคลียร์ที่ว่างแล้วแวะมาใหม่นะคะ<FG>
+204,Menus_UI_Settings,516,2096,49665,<F4><I0>00 receives <I8>M1<FG>,<F4><I0>00 ได้รับ <I8>M1<FG>
+204,Menus_UI_Settings,517,2100,49692,<F4><I0>00 receives <I8>M1 and <I8>M2<FG>,<F4><I0>00 ได้รับ <I8>M1 และ <I8>M2<FG>
+204,Menus_UI_Settings,518,2104,49729,More weapons are now available at the weapon shop<FG>,มีอาวุธเพิ่มขึ้นที่ร้านขายอาวุธแล้ว<FG>
+204,Menus_UI_Settings,519,2108,49782,The number of uses per Healstone has been increased<FG>,จำนวนครั้งที่ใช้หินฮีลสโตนได้เพิ่มขึ้นแล้ว<FG>
+204,Menus_UI_Settings,520,2112,49837,The effectiveness of Healstones has been improved<FG>,ประสิทธิภาพของหินฮีลสโตนได้รับการปรับปรุงแล้ว<FG>
+204,Menus_UI_Settings,521,2116,49890,The capacity of the monster medal holder has been increased<FG>,ความจุของที่เก็บเหรียญมอนสเตอร์เพิ่มขึ้นแล้ว<FG>
+204,Menus_UI_Settings,522,2120,49953,The weapon proficiency limit has been raised<FG>,ขีดจำกัดความชำนาญอาวุธได้รับการปลดล็อกเพิ่มขึ้นแล้ว<FG>
+204,Menus_UI_Settings,523,2124,50001,The %s vocation is now available<FG>,สามารถเลือกประกอบอาชีพ %s ได้แล้ว<FG>
+204,Menus_UI_Settings,524,2128,50037,A new area is now accessible in Greena Pastures<FG>,สามารถเข้าถึงพื้นที่ใหม่ในทุ่งหญ้ากรีน่าได้แล้ว<FG>
+204,Menus_UI_Settings,525,2132,50088,A new area is now accessible at the Grand Dunes<FG>,สามารถเข้าถึงพื้นที่ใหม่ในทะเลทรายแกรนด์ดูนส์ได้แล้ว<FG>
+204,Menus_UI_Settings,526,2136,50139,A new area is now accessible in the Lumberlands<FG>,สามารถเข้าถึงพื้นที่ใหม่ในพงไพรลัมเบอร์แลนด์ได้แล้ว<FG>
+204,Menus_UI_Settings,527,2140,50190,A new area is now accessible in No Man's Land<FG>,สามารถเข้าถึงพื้นที่ใหม่ในแดนรกร้างไร้เจ้าของได้แล้ว<FG>
+204,Menus_UI_Settings,528,2144,50239,A new area is now accessible at Redrock Ravine<FG>,สามารถเข้าถึงพื้นที่ใหม่ในหุบผาหินแดงเรดร็อคได้แล้ว<FG>
+204,Menus_UI_Settings,529,2148,50289,The white barrier in the Frosty Foothills has been dispelled<FG>,ม่านบาเรียสีขาวในเนินเขาเยือกแข็งฟรอสตี้ถูกสลายแล้ว<FG>
+204,Menus_UI_Settings,530,2152,50353,The bridge connecting Greena Pastures and the Grand Dunes has been repaired<FG>,สะพานเชื่อมระหว่างทุ่งหญ้ากรีน่ากับทะเลทรายแกรนด์ดูนส์ได้รับการซ่อมแซมแล้ว<FG>
+204,Menus_UI_Settings,531,2156,50432,The rockfall separating Greena Pastures and the Frosty Foothills has been cleared<FG>,หินถล่มที่ขวางระหว่างทุ่งหญ้ากรีน่ากับเนินเขาเยือกแข็งฟรอสตี้ถูกเคลียร์แล้ว<FG>
+204,Menus_UI_Settings,532,2160,50517,The rockfall in the woods to the east of Greena Pastures has been cleared<FG>,หินถล่มในป่าทางตะวันออกของทุ่งหญ้ากรีน่าถูกเคลียร์แล้ว<FG>
+204,Menus_UI_Settings,533,2164,50594,The white barrier at Redrock Ravine has been dispelled<FG>,ม่านบาเรียสีขาวที่หุบผาหินแดงเรดร็อคถูกสลายแล้ว<FG>
+204,Menus_UI_Settings,534,2168,50652,The white barrier in No Man's Land has been dispelled<FG>,ม่านบาเรียสีขาวในแดนรกร้างไร้เจ้าของถูกสลายแล้ว<FG>
+204,Menus_UI_Settings,535,2172,50709,Which quest would you like to report as completed<FH>,ต้องการส่งรายงานเควสต์ใดที่เสร็จสมบูรณ์แล้วคะ<FH>
+204,Menus_UI_Settings,536,2176,50762,Report this quest as completed<FH>,ต้องการส่งรายงานเควสต์นี้หรือไม่คะ<FH>
+204,Menus_UI_Settings,537,2180,50796,"But you've completed that quest<MV>there's no point cancelling it now<FG> Could you report it, just to make things official<FH>",แต่คุณทำเควสต์นี้สำเร็จแล้วนะคะ<MV>ไม่มีเหตุผลที่จะต้องยกเลิกตอนนี้เลยค่ะ ช่วยส่งรายงานเพื่อให้เป็นทางการหน่อยได้ไหมคะ<FH>
+204,Menus_UI_Settings,538,2184,50921,You don't seem to have any quests on the go right now.,ดูเหมือนคุณจะไม่มีเควสต์ที่กำลังดำเนินอยู่เลยในตอนนี้นะคะ
+204,Menus_UI_Settings,539,2188,50976,"I think that's probably for the best, you know. Let's take another look at your current quests.",ฉันคิดว่าทำแบบนั้นน่าจะดีที่สุดแล้วล่ะค่ะ เรามาดูรายการเควสต์ปัจจุบันของคุณกันอีกครั้งนะคะ
+204,Menus_UI_Settings,540,2192,51072,Here's the list of your current quests.,นี่คือรายการเควสต์ปัจจุบันของคุณค่ะ
+204,Menus_UI_Settings,541,2196,51112,Would you like to accept any other quests<FH>,ต้องการรับเควสต์อื่นเพิ่มอีกไหมคะ<FH>
+204,Menus_UI_Settings,542,2200,51157,Good luck to you<FG> Are there any other quests you'd like to take on while you're here<FH>,ขอให้โชคดีนะคะ<FG> มีเควสต์อื่นที่คุณอยากรับไปทำระหว่างที่อยู่ที่นี่อีกไหมคะ<FH>
+204,Menus_UI_Settings,543,2204,51247,Goodness me<FG> I don't have any more quests to give you<FG> Is there anything else I can help you with<FH>,แหม คุณพระช่วย<FG> ฉันไม่มีเควสต์อื่นเหลือจะให้คุณทำแล้วค่ะ<FG> มีสิ่งใดอื่นให้ฉันช่วยเหลืออีกไหมคะ<FH>
+204,Menus_UI_Settings,544,2208,51352,Do you have any other completed quests to report<FH>,มีรายงานเควสต์ที่สำเร็จแล้วอื่น ๆ อีกไหมคะ<FH>
+204,Menus_UI_Settings,545,2212,51404,Do you have any more completed quests to report<FH>,มีรายงานเควสต์ที่สำเร็จแล้วอื่น ๆ อีกไหมคะ<FH>
+204,Menus_UI_Settings,546,2216,51455,<F4><I0>00 receives <E5>O1one gold coin<E6>01%d gold coins<E7>01<FG>,<F4><I0>00 ได้รับ <E5>O1หนึ่งเหรียญทอง<E6>01%d เหรียญทอง<E7>01<FG>
+204,Menus_UI_Settings,547,2220,51518,<F4><I0>00 receives %d <E5>P1mini medal<E6>01mini medals<E7>01<FG>,<F4><I0>00 ได้รับมินิเมดัล %d เหรียญ<FG>
+204,Menus_UI_Settings,548,2224,51579,"Congratulations<FG> Thanks to your untiring efforts, every single one of our clients' requests has been fulfilled<FG>",ขอแสดงความยินดีด้วยค่ะ<FG> ด้วยความพยายามอย่างไม่ย่อท้อของคุณ คำขอร้องจากผู้ว่าจ้างทุกคนได้รับการตอบสนองจนครบถ้วนแล้วค่ะ<FG>
+204,Menus_UI_Settings,549,2228,51695,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",ฉันรู้สึกใจหายนิดหน่อยที่หน้าที่ของฉันตรงนี้จบลงแล้ว แต่ว่า... โอ้ ฉันพูดอะไรออกไปเนี่ย<FH> พวกเราทุกคนซาบซึ้งในความช่วยเหลือของคุณมากนะคะ ไว้แวะมาทักทายกันใหม่นะ<FG>
+204,Menus_UI_Settings,550,2232,51833,"I can see you're eager, but you don't seem to have any completed quests to report right now. Come back when you've finished one.",ฉันรู้ว่าคุณกระตือรือร้นนะคะ แต่ตอนนี้ยังไม่มีรายงานเควสต์ที่ทำเสร็จแล้วเลยค่ะ ไว้ทำเสร็จแล้วค่อยแวะมาส่งรายงานนะคะ
+204,Menus_UI_Settings,551,2236,51962,"Are you sure you want to cancel this quest<FH> If you do, you'll have to start from square one next time.",แน่ใจหรือไม่คะว่าต้องการยกเลิกเควสต์นี้<FH> หากยกเลิก คุณจะต้องเริ่มทำใหม่ตั้งแต่ต้นในครั้งต่อไปนะคะ
+204,Menus_UI_Settings,552,2240,52067,The ‘<I0>L1’ quest has been cancelled.,เควสต์ ‘<I0>L1’ ถูกยกเลิกแล้วค่ะ
+204,Menus_UI_Settings,553,2244,52109,Please feel free to come and visit any time<FG>,แวะมาทักทายได้เสมอทุกเวลาเลยนะคะ<FG>
+204,Menus_UI_Settings,554,2248,52156,Please feel free to come and visit any time. It's always nice to have a well-respected adventurer like yourself drop by<FG>,แวะมาทักทายได้เสมอทุกเวลาเลยนะคะ ดีใจเสมอที่มีนักผจญภัยที่ทุกคนเคารพนับถืออย่างคุณแวะมาหาค่ะ<FG>
+204,Menus_UI_Settings,555,2252,52279,"It's always a pleasure to have a celebrity like yourself drop by, <F4><I0>00. Come again soon<FG>",เป็นความยินดีเสมอที่มีคนดังอย่างคุณแวะมาหา คุณ <F4><I0>00 ไว้แวะมาใหม่เร็ว ๆ นี้นะคะ<FG>
+204,Menus_UI_Settings,556,2256,52374,It's such an honour to have the hero of the realm drop by<FG> Feel free to come and visit any time<FG>,เป็นเกียรติอย่างยิ่งที่ท่านผู้กล้าแห่งอาณาจักรแวะมาเยือน<FG> แวะมาหาได้ตลอดเวลาเลยนะคะ<FG>
+204,Menus_UI_Settings,557,2260,52475,"I feel a little sad that my work here is done, but... Oh, what am I saying<FH> We're all grateful for your help. Drop by again sometime<FG>",ฉันรู้สึกใจหายนิดหน่อยที่หน้าที่ของฉันตรงนี้จบลงแล้ว แต่ว่า... โอ้ ฉันพูดอะไรออกไปเนี่ย<FH> พวกเราทุกคนซาบซึ้งในความช่วยเหลือของคุณมากนะคะ ไว้แวะมาทักทายกันใหม่นะ<FG>
+204,Menus_UI_Settings,558,2264,52613,"This aura<FG> Truly it is the aura of a warrior<FG> I am the Martial Master, and I have waited for one such as you<FG> You shall be my disciple<FG>",ออร่านี้มัน<FG> นี่คือออร่าของนักรบที่แท้จริง<FG> ข้าคือปรมาจารย์แห่งยุทธภพ และข้าเฝ้ารอคนเช่นเจ้ามาเนิ่นนานแล้ว<FG> เจ้าจะต้องมาเป็นศิษย์ของข้า<FG>
+204,Menus_UI_Settings,559,2268,52757,"If you are to walk the path of prowess, you must grow proficient in the ways of weaponry. Do so, and I will have much to teach you.",หากเจ้าคิดจะก้าวเดินบนเส้นทางแห่งยอดฝีมือ เจ้าจะต้องฝึกฝนความชำนาญในวิถีแห่งอาวุธให้เชี่ยวชาญ จงทำเช่นนั้น แล้วข้าจะมีสิ่งต่าง ๆ สั่งสอนเจ้ามากมาย
+204,Menus_UI_Settings,560,2272,52889,But have no fear<MV>you need not master all the weapons at once. Begin by training in those you favour.,แต่อย่าได้กังวลไป<MV>เจ้าไม่จำเป็นต้องเชี่ยวชาญอาวุธทุกชนิดพร้อมกันหรอก เริ่มต้นฝึกฝนจากอาวุธที่เจ้าโปรดปรานก่อนเถิด
+204,Menus_UI_Settings,561,2276,52992,"Ah, so you have found friends who also aspire to the lofty peak of martial mastery<FG> I will be happy to welcome them, too, as disciples<FG>",อา เจ้าพบสหายที่ปรารถนาจะก้าวขึ้นสู่จุดสูงสุดแห่งยุทธภพด้วยแล้วสินะ<FG> ข้ายินดียิ่งที่จะต้อนรับพวกเขามาเป็นศิษย์ด้วยเช่นกัน<FG>
+204,Menus_UI_Settings,562,2280,53132,"Bring them to me, and I shall assess the progress of their training.",พาพวกเขามาหาข้าสิ แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของพวกเขาให้
+204,Menus_UI_Settings,563,2284,53201,And never forget<MV>allies who are not in your party will not gain in proficiency.,และอย่าได้ลืมเป็นอันขาด<MV>สหายที่ไม่ได้อยู่ในปาร์ตี้ของเจ้า จะไม่ได้รับความชำนาญในอาวุธนะ
+204,Menus_UI_Settings,564,2288,53283,"Welcome, honoured disciple<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> จงก้าวเข้ามา แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
+204,Menus_UI_Settings,565,2292,53390,"Welcome, honoured disciple<FG> I hear many great things about you of late. Now, present yourself to me, and I will evaluate your progress<FG>",ยินดีต้อนรับ ศิษย์รัก<FG> ช่วงนี้ข้าได้ยินเรื่องราวอันยอดเยี่ยมเกี่ยวกับเจ้ามามากมายทีเดียว ก้าวเข้ามาสิ แล้วข้าจะประเมินความก้าวหน้าของเจ้าให้<FG>
+204,Menus_UI_Settings,566,2296,53530,"It brings a tear to my eye to see my disciple come so far<FG> Present yourself to me, and I will evaluate the progress of your training<FG>",น้ำตาข้าแทบจะไหลเมื่อเห็นศิษย์รักก้าวหน้ามาได้ไกลถึงเพียงนี้<FG> ก้าวเข้ามาสิ แล้วข้าจะประเมินความก้าวหน้าในการฝึกฝนของเจ้าให้<FG>
+204,Menus_UI_Settings,567,2300,53668,"Oh-ho<FG> Your training progresses apace, I see<FG> Now, close your eyes, breathe deeply, and contemplate the mysteries of the martial arts<FG>",โอ้โฮ<FG> การฝึกฝนของเจ้ารุดหน้าไปอย่างรวดเร็วเลยนี่<FG> เอาล่ะ จงหลับตา หายใจเข้าลึก ๆ และเพ่งสมาธิสู่ความลี้ลับแห่งศิลปะการต่อสู้เถิด<FG>
+204,Menus_UI_Settings,568,2304,53809,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
+204,Menus_UI_Settings,569,2308,53832,<F4><I0>41 learned <I0>M1<FG>,<F4><I0>41 ได้เรียนรู้ <I0>M1<FG>
+204,Menus_UI_Settings,570,2312,53858,...Hm<FG><FH> Hmmm<FG><FH> Your aura<MV>how it has grown<FG> Fine progress indeed<FG> It is time for me to relate to you the secret art of...party powers<FG>,...หืม<FG><FH> ฮืมมม<FG><FH> ออร่าของเจ้า<MV>มันเติบโตขึ้นถึงเพียงนี้เชียวหรือ<FG> ก้าวหน้าอย่างงดงามจริง ๆ<FG> ถึงเวลาแล้วที่ข้าจะถ่ายทอดวิชาลับแห่ง... พลังปาร์ตี้ (Party Powers) ให้แก่เจ้า<FG>
+204,Menus_UI_Settings,571,2316,54008,"These powers allow for unique possibilities, and great care must be exercised to wield them appropriately. Now, open your mind<FG>",พลังเหล่านี้จะเปิดประตูสู่ความเป็นไปได้อันไร้ขีดจำกัด และต้องใช้ความระมัดระวังอย่างยิ่งยวดในการควบคุม เอาล่ะ จงเปิดจิตใจของเจ้าออกเถิด<FG>
+204,Menus_UI_Settings,572,2320,54138,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
+204,Menus_UI_Settings,573,2324,54161,The party learn the ‘<I0>M1’ party power<FG>,ปาร์ตี้ได้เรียนรู้พลังปาร์ตี้ ‘<I0>M1’ แล้ว<FG>
+204,Menus_UI_Settings,574,2328,54208,"Hm<FG><FH> You<MV> You bear a bondstone<FG> Say no more, honoured disciple<FG> Give it to me<FG> Now, breathe deeply, and open your mind...",หืม<FG><FH> เจ้า... เจ้ามีหินบอนด์สโตน (Bondstone) ติดตัวมาด้วยงั้นหรือ<FG> ไม่ต้องพูดอะไรแล้ว ศิษย์รัก<FG> ส่งมันมาให้ข้า<FG> เอาล่ะ หายใจลึก ๆ แล้วเปิดจิตใจของเจ้าออก...
+204,Menus_UI_Settings,575,2332,54342,Hmmm... HAIYA<FG><FG><FG>,ฮืมมม... ฮัยย่า<FG><FG><FG>
+204,Menus_UI_Settings,576,2336,54365,Your party power capacity increased by <GR>1<FG>,ความจุพลังปาร์ตี้ของคุณเพิ่มขึ้นอีก <GR>1 ช่อง<FG>
+204,Menus_UI_Settings,577,2340,54412,"Hmm... None among you are currently ready to learn the deeper mysteries of the martial arts. Train, and grow yet more proficient<FG>",หืม... ยังไม่มีใครในหมู่พวกเจ้าที่พร้อมจะเรียนรู้ความลี้ลับขั้นลึกซึ้งแห่งศิลปะการต่อสู้ในตอนนี้ จงฝึกฝนและเพิ่มความชำนาญให้มากกว่านี้เถิด<FG>
+204,Menus_UI_Settings,578,2344,54544,"Hm<FG><FH> Incredible<FG> You have learned every mystery of the martial arts<FG> Now you, too, are a Martial Master<FG>",หืม<FG><FH> น่าเหลือเชื่อจริง ๆ<FG> เจ้าได้เรียนรู้ทุกความลี้ลับแห่งศิลปะการต่อสู้จนหมดสิ้นแล้ว<FG> บัดนี้เจ้าเองก็เป็นปรมาจารย์แห่งยุทธภพแล้วเช่นกัน<FG>
+204,Menus_UI_Settings,579,2348,54659,"Never forget your training, my young disciple. Focus. Always.",อย่าได้ลืมการฝึกฝนของเจ้าล่ะ ศิษย์น้อย จงมีสมาธิ มุ่งมั่นเสมอ
+204,Menus_UI_Settings,580,2352,54721,"Your efforts are starting to bear fruit, but do not grow complacent. Never forget your training, my disciple. Focus. Always.",ความพยายามของเจ้าเริ่มผลิดอกออกผลแล้ว แต่อย่าได้ชะล่าใจไป อย่าลืมการฝึกฝนของเจ้าล่ะศิษย์รัก มีสมาธิ มุ่งมั่นเสมอ
+204,Menus_UI_Settings,581,2356,54846,"You are truly the greatest of all my disciples<FG> Go now, and never forget your training. Focus. Always.",เจ้าคือศิษย์ที่ยอดเยี่ยมที่สุดในบรรดาศิษย์ทั้งหมดของข้าอย่างแท้จริง<FG> ไปเถิด และอย่าลืมการฝึกฝนของเจ้า จงมีสมาธิ มุ่งมั่นเสมอ
+204,Menus_UI_Settings,582,2360,54951,"Alas, your party power capacity is already at maximum.",อนิจจา ความจุพลังปาร์ตี้ของเจ้าเต็มขีดจำกัดสูงสุดแล้ว
+204,Menus_UI_Settings,583,2364,55006,Hm<FG><FH> How can this be<FH> You have already grasped the mysteries of party powers... Very well. Continue your training.,หืม<FG><FH> เป็นไปได้อย่างไรกัน<FH> เจ้าได้เข้าใจความลี้ลับแห่งพลังปาร์ตี้หมดแล้วนี่... เอาเถิด จงฝึกฝนต่อไปนะ
+204,Menus_UI_Settings,584,2368,55127,"What's this, what's this<FH> You've got a costume, got a costume<FG> You can change clothes here, change clothes here<FG>",นี่อะไรกัน นี่อะไรกันเนี่ย<FH> เธอมีชุดคอสตูม มีชุดคอสตูมมาด้วยนี่นา<FG> เปลี่ยนเสื้อผ้าที่นี่ได้นะ เปลี่ยนเสื้อผ้าที่นี่ได้นะ<FG>
+204,Menus_UI_Settings,585,2372,55246,"Woooooo<FG> This is the copy shop, copy shop<FG>",วู้วววว<FG> ที่นี่คือร้านก๊อปปี้ ร้านก๊อปปี้จ้า<FG>
+204,Menus_UI_Settings,586,2376,55293,"I can make your current weapons look just like weapons you've owned before, owned before<FG>",ฉันสามารถเสกให้อาวุธปัจจุบันของเธอดูเหมือนกับอาวุธที่เธอเคยครอบครองมาก่อนได้นะ เคยมีมาก่อนได้นะ<FG>
+204,Menus_UI_Settings,587,2380,55385,"Let's get started, get started<FG>",มาเริ่มกันเลยดีกว่า เริ่มกันเลยดีกว่า<FG>
+204,Menus_UI_Settings,588,2384,55419,"Woooooo-elcome<FG> What do you want, what do you want<FH>",ยินดียินดีต้อนรับจ้า<FG> อยากได้อะไร อยากได้อะไรเหรอจ๊ะ<FH>
+204,Menus_UI_Settings,589,2388,55475,"It's the hero of the realm, hero of the realm<FG> What do you want, what do you want<FH>",ท่านผู้กล้าแห่งอาณาจักรนี่นา ผู้กล้าแห่งอาณาจักรนี่นา<FG> อยากได้อะไร อยากได้อะไรเหรอจ๊ะ<FH>
+204,Menus_UI_Settings,590,2392,55562,"Welcome, welcome<FG> Whose weapon do you want to transform, want to transform<FH>",ยินดีต้อนรับ ยินดีต้อนรับ<FG> อยากแปลงโฉมอาวุธของใคร แปลงโฉมอาวุธของใครดีจ๊ะ<FH>
+204,Menus_UI_Settings,591,2396,55642,"It's the hero of the realm, hero of the realm<FG> Whose weapon do you want to transform, want to transform<FH>",ท่านผู้กล้าแห่งอาณาจักรนี่นา ผู้กล้าแห่งอาณาจักรนี่นา<FG> อยากแปลงโฉมอาวุธของใคร แปลงโฉมอาวุธของใครดีจ๊ะ<FH>
+204,Menus_UI_Settings,592,2400,55751,"Anything else, anything else<FH>",มีอะไรอีกไหม มีอะไรอีกไหมจ๊ะ<FH>
+204,Menus_UI_Settings,593,2404,55783,"Whose weapon do you want to transform, want to transform<FH>",อยากแปลงโฉมอาวุธของใคร แปลงโฉมอาวุธของใครดีจ๊ะ<FH>
+204,Menus_UI_Settings,594,2408,55843,"Which weapon do you want it to look like, want it to look like<FH>",อยากให้มันดูเหมือนอาวุธชิ้นไหน ดูเหมือนชิ้นไหนดีจ๊ะ<FH>
+204,Menus_UI_Settings,595,2412,55909,"So when you equip <I8>B1, you want <EH>B1them<EI>01it<EJ>01 to look like <I8>A1, do you, do you<FH> You sure, you sure<FH>",ดังนั้นเวลาที่เธอสวมใส่ <I8>B1 เธออยากให้มันดูเหมือน <I8>A1 ใช่ไหมจ๊ะ ใช่ไหมจ๊ะ<FH> แน่ใจนะ แน่ใจนะ<FH>
+204,Menus_UI_Settings,596,2416,56025,"I'll undo my magic for you, then, undo my magic<FG> That's what you want, right<FH> That's what you want<FH>",งั้นฉันจะถอนเวทมนตร์ให้เธอนะ ถอนเวทมนตร์ออกให้<FG> นั่นคือสิ่งที่เธอต้องการใช่ไหมจ๊ะ<FH> ต้องการแบบนั้นใช่ไหม<FH>
+204,Menus_UI_Settings,597,2420,56131,"Roger, roger<FG> Here goes nothing, here goes nothing<FG>",รับทราบ รับทราบจ้า<FG> เอาล่ะนะ เอาล่ะนะ<FG>
+204,Menus_UI_Settings,598,2424,56187,"Woooooo<FG> Copycadabra, copycadabra<FG><FG><FG>",วู้วววว<FG> ก๊อปปี้คาดาบรา ก๊อปปี้คาดาบรา<FG><FG><FG>
+204,Menus_UI_Settings,599,2428,56232,"There we go, there we go<FG> I've transformed it for you, transformed it for you<FG>",เรียบร้อยจ้า เรียบร้อยจ้า<FG> ฉันแปลงโฉมให้เธอเรียบร้อยแล้ว แปลงโฉมให้เรียบร้อยแล้วจ้า<FG>
+204,Menus_UI_Settings,600,2432,56315,"Whose costume do you want to change, want to change<FH>",อยากเปลี่ยนชุดคอสตูมของใคร อยากเปลี่ยนของใครดีจ๊ะ<FH>
+204,Menus_UI_Settings,601,2436,56370,"Which costume do you want to wear, want to wear<FH>",อยากสวมชุดคอสตูมไหน อยากสวมชุดไหนดีจ๊ะ<FH>
+204,Menus_UI_Settings,602,2440,56421,"You want the <I0>M1 costume, do you, do you<FH> You're sure, right<FH> Sure, right<FH>",เธอต้องการชุด <I0>M1 ใช่ไหมจ๊ะ ใช่ไหมจ๊ะ<FH> แน่ใจนะ แน่ใจนะ<FH>
+204,Menus_UI_Settings,603,2444,56504,"Come again, come again<FG>",ไว้แวะมาใหม่นะ ไว้แวะมาใหม่นะจ๊ะ<FG>
+204,Menus_UI_Settings,604,2448,56530,"Always a pleasure, your heroship<FG> Always a pleasure<FG> Come again, come again<FG>",ยินดีรับใช้เสมอจ้า ท่านผู้กล้า<FG> ยินดีเสมอจ้า<FG> ไว้แวะมาใหม่นะ ไว้แวะมาใหม่นะจ๊ะ<FG>
+204,Menus_UI_Settings,605,2452,56613,Do you want to change the music that plays when you're in Accordia<FH>,ต้องการเปลี่ยนเพลงประกอบที่เล่นตอนอยู่ในออร์คาเนียหรือไม่<FH>
+204,Menus_UI_Settings,606,2456,56683,The music that plays when you're in Accordia has been changed. You can hear the new music once you go outside.,เพลงประกอบที่เล่นตอนอยู่ในออร์คาเนียถูกเปลี่ยนแล้ว คุณจะได้ยินเพลงใหม่เมื่อเดินออกไปข้างนอก
+204,Menus_UI_Settings,607,2460,56794,Continue to the next battle<FH>,ต้องการไปสู่การต่อสู้ถัดไปเลยหรือไม่<FH>
+204,Menus_UI_Settings,608,2464,56825,This will take you straight to the next battle. Are you sure<FH>,สิ่งนี้จะพาคุณตรงไปสู่การต่อสู้ถัดไปทันที แน่ใจหรือไม่<FH>
+204,Menus_UI_Settings,609,2468,56889,Do you want to put this battle on hold and return to Accordia<FH>,ต้องการพักการต่อสู้นี้ไว้ชั่วคราวและกลับสู่ออร์คาเนียหรือไม่<FH>
+204,Menus_UI_Settings,610,2472,56954,Do you want to put this battle on hold and return to the ad hoc encampment<FH>,ต้องการพักการต่อสู้นี้ไว้ชั่วคราวและกลับสู่ค่ายพักชั่วคราวหรือไม่<FH>
+204,Menus_UI_Settings,611,2476,57032,Do you want to return to the Wild Zone you were in<FH>,ต้องการกลับสู่เขตแดนรกร้าง (Wild Zone) ที่คุณเคยอยู่หรือไม่<FH>
+204,Menus_UI_Settings,612,2480,57086,Do you want to return to Gragwort's Grotto<FH>,ต้องการกลับสู่ถ้ำของแกรกเวิร์ตหรือไม่<FH>
+204,Menus_UI_Settings,613,2484,57132,Do you want to cast Evac and return to your own world<FH>,ต้องการร่ายคาถาริเรมิต (Evac) เพื่อกลับสู่โลกของคุณหรือไม่<FH>
+204,Menus_UI_Settings,614,2488,57189,Do you want to start this battle again from the beginning<FH>,ต้องการเริ่มการต่อสู้นี้ใหม่อีกครั้งตั้งแต่ต้นหรือไม่<FH>
+204,Menus_UI_Settings,615,2492,57250,<F4><I0>M1 has died<FG>,<F4><I0>M1 เสียชีวิตแล้ว<FG>
+204,Menus_UI_Settings,616,2496,57271,The party have been wiped out<FG>,ปาร์ตี้พ่ายแพ้ราบคาบแล้ว<FG>
+204,Menus_UI_Settings,617,2500,57304,Failed to properly protect <I6>41<FG>,ไม่สามารถปกป้อง <I6>41 ได้สำเร็จ<FG>
+204,Menus_UI_Settings,618,2504,57340,<F4><I0>41 has failed<FG>,<F4><I0>41 ล้มเหลวในภารกิจ<FG>
+204,Menus_UI_Settings,619,2508,57363,The party have failed<FG>,ปาร์ตี้ล้มเหลวในภารกิจ<FG>
+204,Menus_UI_Settings,620,2512,57388,You have completed a quest<FG> Go to the quest counter to collect your reward<FG>,คุณทำเควสต์สำเร็จแล้ว<FG> ไปที่เคาน์เตอร์เควสต์เพื่อรับรางวัลตอบแทนได้เลย<FG>
+204,Menus_UI_Settings,621,2516,57468,You have failed a quest<FG> Go back to the quest counter to try again.,คุณทำเควสต์ล้มเหลว<FG> กลับไปที่เคาน์เตอร์เควสต์เพื่อลองใหม่อีกครั้ง
+204,Menus_UI_Settings,622,2520,57538,This establishment is closed.,สถานที่แห่งนี้ปิดทำการ
+204,Menus_UI_Settings,623,2524,57568,You are now attuned to the following Zoomstone<FI>\n‘<I0>M1’<FG>,ตอนนี้คุณจูนจิตเชื่อมต่อกับศิลารูล่าต่อไปนี้แล้ว<FI>\n‘<I0>M1’<FG>
+204,Menus_UI_Settings,624,2528,57633,Cast Zoom<FH>,ต้องการร่ายคาถารูล่า (Zoom) หรือไม่<FH>
+204,Menus_UI_Settings,625,2532,57646,Zoom to <I0>M1<FH>,ต้องการรูล่าไปยัง <I0>M1 หรือไม่<FH>
+204,Menus_UI_Settings,626,2536,57663,Begin the ‘<I0>M1’ battle<FH>,ต้องการเริ่มการต่อสู้ ‘<I0>M1’ หรือไม่<FH>
+204,Menus_UI_Settings,627,2540,57695,<F4><I0>41 casts Zoom<FG>,<F4><I0>41 ร่ายคาถารูล่า (Zoom)<FG>
+204,Menus_UI_Settings,628,2544,57718,Begin the next battle<FH>,ต้องการเริ่มการต่อสู้ถัดไปหรือไม่<FH>
+204,Menus_UI_Settings,629,2548,57743,But you'd only bump your head on the ceiling<FG>,แต่หัวของคุณจะโขกเพดานเอานะ<FG>
+204,Menus_UI_Settings,630,2552,57791,It's empty.,มันว่างเปล่า
+204,Menus_UI_Settings,631,2556,57803,Make a record of your adventure so far<FH>,ต้องการบันทึกการเดินทางที่ผ่านมาหรือไม่<FH>
+204,Menus_UI_Settings,632,2560,57845,"You can't change equipment right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",ไม่สามารถเปลี่ยนอุปกรณ์ในตอนนี้ได้<FG> คุณต้องอยู่นอกการต่อสู้ เก็บอาวุธเข้าฝัก และสมาชิกปาร์ตี้ทุกคนยังมีชีวิตอยู่ จึงจะเปลี่ยนได้
+204,Menus_UI_Settings,633,2564,57973,You can't cast Evac right now<FG> It will become available when you're able to use spells and abilities again.,ไม่สามารถร่ายคาถาริเรมิต (Evac) ในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
+204,Menus_UI_Settings,634,2568,58083,"You can't change skills right now<FG> To do so, you must be out of battle, with weapons sheathed and all party members alive.",ไม่สามารถเปลี่ยนสกิลในตอนนี้ได้<FG> คุณต้องอยู่นอกการต่อสู้ เก็บอาวุธเข้าฝัก และสมาชิกปาร์ตี้ทุกคนยังมีชีวิตอยู่ จึงจะเปลี่ยนได้
+204,Menus_UI_Settings,635,2572,58208,You can't cast Zoom right now<FG> It will become available when you are out of battle and able to use spells and abilities again.,ไม่สามารถร่ายคาถารูล่า (Zoom) ในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณอยู่นอกการต่อสู้และสามารถใช้คาถาและความสามารถได้
+204,Menus_UI_Settings,636,2576,58337,Select the character whose skill points you wish to allocate.,เลือกตัวละครที่คุณต้องการจัดสรรแต้มสกิล
+204,Menus_UI_Settings,637,2580,58399,Select a skill to learn.,เลือกสกิลที่ต้องการเรียนรู้
+204,Menus_UI_Settings,638,2584,58424,Skill already learned.,เรียนรู้สกิลนี้ไปแล้ว
+204,Menus_UI_Settings,639,2588,58447,You do not currently meet the requirements for this skill.,ตอนนี้คุณยังมีคุณสมบัติไม่ตรงตามเงื่อนไขของสกิลนี้
+204,Menus_UI_Settings,640,2592,58506,You do not have enough skill points to learn this skill.,คุณมีแต้มสกิลไม่เพียงพอที่จะเรียนรู้สกิลนี้
+204,Menus_UI_Settings,641,2596,58563,You can only equip one of each kind of accessory.,คุณสามารถติดตั้งเครื่องประดับชนิดเดียวกันได้เพียงชิ้นเดียวเท่านั้น
+204,Menus_UI_Settings,642,2600,58613,<F4><I6>C1 was cursed<FG>,<F4><I6>C1 ถูกคำสาป<FG>
+204,Menus_UI_Settings,643,2604,58636,Use a bonus ball<FH>,ต้องการใช้โบนัสบอลหรือไม่<FH>
+204,Menus_UI_Settings,644,2608,58656,You can't use bonus balls right now<FG> They will become available when you're able to use spells and abilities again.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> จะใช้งานได้อีกครั้งเมื่อคุณสามารถใช้คาถาและความสามารถได้
+204,Menus_UI_Settings,645,2612,58774,You can't use bonus balls right now<FG> You can only use one at a time.,ไม่สามารถใช้โบนัสบอลในตอนนี้ได้<FG> คุณสามารถใช้งานได้ครั้งละหนึ่งลูกเท่านั้น
+204,Menus_UI_Settings,646,2616,58845,Discard this piece of equipment<FH>,ต้องการทิ้งอุปกรณ์สวมใส่ชิ้นนี้หรือไม่<FH>
+204,Menus_UI_Settings,647,2620,58880,You can't possibly discard that<FG> It's currently equipped<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันกำลังถูกสวมใส่อยู่<FG>
+204,Menus_UI_Settings,648,2624,58942,You can't possibly discard that<FG> It's far too important<FG>,คุณไม่สามารถทิ้งของชิ้นนั้นได้เด็ดขาด<FG> มันเป็นของสำคัญเกินกว่าจะทิ้งได้<FG>
+204,Menus_UI_Settings,649,2628,59003,Which button do you want to assign a spell or ability to<FH>,ต้องการกำหนดคาถาหรือท่าไม้ตายให้กับปุ่มใด<FH>
+204,Menus_UI_Settings,650,2632,59063,Which spell or ability do you want to assign to this button<FH>,ต้องการเรียนรู้สกิลนี้หรือไม่<FH>
 204,Menus_UI_Settings,651,2636,59126,%s assigned to <P3>.,
 204,Menus_UI_Settings,652,2640,59146,%s assigned to <P2>.,
 204,Menus_UI_Settings,653,2644,59166,%s assigned to <P0>.,
