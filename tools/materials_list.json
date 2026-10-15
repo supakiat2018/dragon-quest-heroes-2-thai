@@ -1,0 +1,1244 @@
+[
+  {
+    "slot": 0,
+    "start_row": 0,
+    "name": "horse manure",
+    "desc": "An equine extra that exudes a pungent perfume."
+  },
+  {
+    "slot": 1,
+    "start_row": 8,
+    "name": "salt of the earth",
+    "desc": "A superb seasoning that lends any food a fine flavour."
+  },
+  {
+    "slot": 2,
+    "start_row": 16,
+    "name": "iron nails",
+    "desc": "Seriously sharp, rust-resistant iron nails."
+  },
+  {
+    "slot": 3,
+    "start_row": 24,
+    "name": "butterfly wing",
+    "desc": "The light, lustrous wing of a fluttering thing."
+  },
+  {
+    "slot": 4,
+    "start_row": 32,
+    "name": "cruel claw",
+    "desc": "A curved claw that comes in differing dimensions."
+  },
+  {
+    "slot": 5,
+    "start_row": 40,
+    "name": "nectar",
+    "desc": "The sweet-smelling essence of a flower in bloom."
+  },
+  {
+    "slot": 6,
+    "start_row": 48,
+    "name": "manky mud",
+    "desc": "Dangerous dirt that's totally toxic. Do not touch."
+  },
+  {
+    "slot": 7,
+    "start_row": 56,
+    "name": "kitty litter",
+    "desc": "A peculiar powder that purring pets apparently prefer."
+  },
+  {
+    "slot": 8,
+    "start_row": 64,
+    "name": "narspicious",
+    "desc": "A peculiar plant with an untrustworthy air."
+  },
+  {
+    "slot": 9,
+    "start_row": 72,
+    "name": "lava lump",
+    "desc": "A pyroclastic rock flung from a fiery volcano."
+  },
+  {
+    "slot": 10,
+    "start_row": 80,
+    "name": "thinkincense",
+    "desc": "A peculiar plant with an enlightening odour."
+  },
+  {
+    "slot": 11,
+    "start_row": 88,
+    "name": "flintstone",
+    "desc": "A rock that's just right for setting off sparks."
+  },
+  {
+    "slot": 12,
+    "start_row": 96,
+    "name": "glass frit",
+    "desc": "Gentle grit that's perfect for polishing."
+  },
+  {
+    "slot": 13,
+    "start_row": 104,
+    "name": "fresh milk",
+    "desc": "Freshly squeezed cow's milk, straight from the udder."
+  },
+  {
+    "slot": 14,
+    "start_row": 112,
+    "name": "sturdy stick",
+    "desc": "A gnarled and knotty tree branch found in the forest."
+  },
+  {
+    "slot": 15,
+    "start_row": 120,
+    "name": "wing of bat",
+    "desc": "The big black wing of a big black bat."
+  },
+  {
+    "slot": 16,
+    "start_row": 128,
+    "name": "grubby bandage",
+    "desc": "A slightly soiled dressing much loved by mummies."
+  },
+  {
+    "slot": 17,
+    "start_row": 136,
+    "name": "iron ore",
+    "desc": "A ferrous fragment that can be melted to make metal."
+  },
+  {
+    "slot": 18,
+    "start_row": 144,
+    "name": "slipweed",
+    "desc": "A plant so slippery it's problematic to pick up."
+  },
+  {
+    "slot": 19,
+    "start_row": 152,
+    "name": "mirrorstone",
+    "desc": "A resplendent rock that reflects light like a mirror."
+  },
+  {
+    "slot": 20,
+    "start_row": 160,
+    "name": "sizeable seashell",
+    "desc": "A seashell a seashell-seller saw on the seashore."
+  },
+  {
+    "slot": 21,
+    "start_row": 168,
+    "name": "emerald moss",
+    "desc": "A vividly verdant mass of moist moss."
+  },
+  {
+    "slot": 22,
+    "start_row": 176,
+    "name": "magic beast bone",
+    "desc": "A misshapen bone dropped by a barbaric beast."
+  },
+  {
+    "slot": 23,
+    "start_row": 184,
+    "name": "fisticup",
+    "desc": "A funny fungus in the form of a fist."
+  },
+  {
+    "slot": 24,
+    "start_row": 192,
+    "name": "slimedrop",
+    "desc": "A gooey gumdrop shaped like a lovely little slime."
+  },
+  {
+    "slot": 25,
+    "start_row": 200,
+    "name": "fresh water",
+    "desc": "Wondrous water of perfect purity."
+  },
+  {
+    "slot": 26,
+    "start_row": 208,
+    "name": "snakeskin",
+    "desc": "The sloughed-off skin of a slithering serpent."
+  },
+  {
+    "slot": 27,
+    "start_row": 216,
+    "name": "royal soil",
+    "desc": "A mass of mud with magical characteristics."
+  },
+  {
+    "slot": 28,
+    "start_row": 224,
+    "name": "belle cap",
+    "desc": "A mysterious mushroom that looks pretty lethal."
+  },
+  {
+    "slot": 29,
+    "start_row": 232,
+    "name": "flurry feather",
+    "desc": "A pretty plume plucked from a great big bird."
+  },
+  {
+    "slot": 30,
+    "start_row": 240,
+    "name": "ice crystal",
+    "desc": "A captivating crystal with cryogenic powers."
+  },
+  {
+    "slot": 31,
+    "start_row": 248,
+    "name": "toad oil",
+    "desc": "The greasy excretion of a warty amphibian."
+  },
+  {
+    "slot": 32,
+    "start_row": 256,
+    "name": "magic beast hide",
+    "desc": "Stiff, spiny skin sloughed off by a brutal beast."
+  },
+  {
+    "slot": 33,
+    "start_row": 264,
+    "name": "magic beast horn",
+    "desc": "A hard horn harvested from a brutal beast."
+  },
+  {
+    "slot": 34,
+    "start_row": 272,
+    "name": "evencloth",
+    "desc": "Coal-black cloth cloaked in the deepest darkness."
+  },
+  {
+    "slot": 35,
+    "start_row": 280,
+    "name": "lambswool",
+    "desc": "A fluffy fleece of ovine origins."
+  },
+  {
+    "slot": 36,
+    "start_row": 288,
+    "name": "dragon hide",
+    "desc": "Scaly skin dropped by a dragon. Utterly incombustible."
+  },
+  {
+    "slot": 37,
+    "start_row": 296,
+    "name": "thunderball",
+    "desc": "A chunk of rock charged with electrical energy."
+  },
+  {
+    "slot": 38,
+    "start_row": 304,
+    "name": "giant tortoise shell",
+    "desc": "The colossal carapace of a titanic tortoise."
+  },
+  {
+    "slot": 39,
+    "start_row": 312,
+    "name": "warmaline",
+    "desc": "A glowing stone that emits a welcoming warmth."
+  },
+  {
+    "slot": 40,
+    "start_row": 320,
+    "name": "birdsong nectar",
+    "desc": "A queer concoction that confers a sweet singing voice."
+  },
+  {
+    "slot": 41,
+    "start_row": 328,
+    "name": "faerie flame",
+    "desc": "The cold, quivering candle of a secretive sprite."
+  },
+  {
+    "slot": 42,
+    "start_row": 336,
+    "name": "technicolour dreamcloth",
+    "desc": "Colourful cloth that glows like a rainbow."
+  },
+  {
+    "slot": 43,
+    "start_row": 344,
+    "name": "saint's ashes",
+    "desc": "An urnful of abrasive ash that cleans off curses."
+  },
+  {
+    "slot": 44,
+    "start_row": 352,
+    "name": "royal ruby",
+    "desc": "A radiant red rock filled with fervour."
+  },
+  {
+    "slot": 45,
+    "start_row": 360,
+    "name": "faerie fluff",
+    "desc": "A flyaway flock of cotton with an other-worldly aura."
+  },
+  {
+    "slot": 46,
+    "start_row": 368,
+    "name": "finessence",
+    "desc": "A concoction of condensed combat capabilities."
+  },
+  {
+    "slot": 47,
+    "start_row": 376,
+    "name": "dragon horn",
+    "desc": "A horn hacked from the head of a deadly dragon."
+  },
+  {
+    "slot": 48,
+    "start_row": 384,
+    "name": "not-colossal fossil",
+    "desc": "The fossilised remains of a small sea creature."
+  },
+  {
+    "slot": 49,
+    "start_row": 392,
+    "name": "ethereal stone",
+    "desc": "A paranormal pebble possessed by a phantom spirit."
+  },
+  {
+    "slot": 50,
+    "start_row": 400,
+    "name": "platinum ore",
+    "desc": "A costly rock containing a high proportion of platinum."
+  },
+  {
+    "slot": 51,
+    "start_row": 408,
+    "name": "pitch pearl",
+    "desc": "An ink-black pearl beloved of ladies who live for the night."
+  },
+  {
+    "slot": 52,
+    "start_row": 416,
+    "name": "gold bar",
+    "desc": "A piece of pure gold that's heart-warmingly heavy."
+  },
+  {
+    "slot": 53,
+    "start_row": 424,
+    "name": "celestial skein",
+    "desc": "Strange cerulean string within which water flows."
+  },
+  {
+    "slot": 54,
+    "start_row": 432,
+    "name": "pale pearl",
+    "desc": "A pure white pearl, popular with prim and proper ladies."
+  },
+  {
+    "slot": 55,
+    "start_row": 440,
+    "name": "lucida shard",
+    "desc": "A fragment formed from some heavenly fallout."
+  },
+  {
+    "slot": 56,
+    "start_row": 448,
+    "name": "molten globules",
+    "desc": "These liquid lumps are a blacksmith's worst nightmare."
+  },
+  {
+    "slot": 57,
+    "start_row": 456,
+    "name": "sainted soma",
+    "desc": "An incredible liquid infused with an angelic essence."
+  },
+  {
+    "slot": 58,
+    "start_row": 464,
+    "name": "densinium",
+    "desc": "A drastically dense mass of mysterious metal."
+  },
+  {
+    "slot": 59,
+    "start_row": 472,
+    "name": "sparkly sap",
+    "desc": "The shining sap of a tree that twinkles on moonlit nights."
+  },
+  {
+    "slot": 60,
+    "start_row": 480,
+    "name": "enchanted stone",
+    "desc": "A polished pebble possessed by a departed soul."
+  },
+  {
+    "slot": 61,
+    "start_row": 488,
+    "name": "spellbound bough",
+    "desc": "The branch of an enchanted tree that pulses with magic."
+  },
+  {
+    "slot": 62,
+    "start_row": 496,
+    "name": "chronocrystal",
+    "desc": "A crystal created over countless millennia."
+  },
+  {
+    "slot": 63,
+    "start_row": 504,
+    "name": "kaleidoskin",
+    "desc": "A coat of many colours borne on a beast's back."
+  },
+  {
+    "slot": 64,
+    "start_row": 512,
+    "name": "gold nuglet",
+    "desc": "A small piece of gold to exchange for gold pieces."
+  },
+  {
+    "slot": 65,
+    "start_row": 520,
+    "name": "silver nugget",
+    "desc": "A precious piece of purest silver."
+  },
+  {
+    "slot": 66,
+    "start_row": 528,
+    "name": "gold nugget",
+    "desc": "A highly priced hunk of glittering gold."
+  },
+  {
+    "slot": 67,
+    "start_row": 536,
+    "name": "silver bar",
+    "desc": "A bulky brick of shining silver."
+  },
+  {
+    "slot": 68,
+    "start_row": 544,
+    "name": "hardy hide",
+    "desc": "Sturdy yet supple skin dropped by beasts when beaten."
+  },
+  {
+    "slot": 69,
+    "start_row": 552,
+    "name": "twisted talons",
+    "desc": "Don't catch yourself on one of these<MV>it'll hurt like heck<FG>"
+  },
+  {
+    "slot": 70,
+    "start_row": 560,
+    "name": "itty-bitty bone",
+    "desc": "A small but sturdy section of a monster's skeleton."
+  },
+  {
+    "slot": 71,
+    "start_row": 568,
+    "name": "small scale",
+    "desc": "A fragile, fingernail-sized flake from a fish or reptile."
+  },
+  {
+    "slot": 72,
+    "start_row": 576,
+    "name": "permasnow",
+    "desc": "Soft snow that strangely doesn't seem to melt."
+  },
+  {
+    "slot": 73,
+    "start_row": 584,
+    "name": "colossal cactus",
+    "desc": "Even the spines on this prickly plant are seriously big."
+  },
+  {
+    "slot": 74,
+    "start_row": 592,
+    "name": "waveweed",
+    "desc": "A plant that smells ever so slightly of the sea."
+  },
+  {
+    "slot": 75,
+    "start_row": 600,
+    "name": "bendy branch",
+    "desc": "A supple stick that could serve as a makeshift whip."
+  },
+  {
+    "slot": 76,
+    "start_row": 608,
+    "name": "deadwood",
+    "desc": "Peculiar lumber with an ominous aura."
+  },
+  {
+    "slot": 77,
+    "start_row": 616,
+    "name": "malicite",
+    "desc": "A spiteful stone steeped in endless aeons of animosity."
+  },
+  {
+    "slot": 78,
+    "start_row": 624,
+    "name": "flaxen thread",
+    "desc": "Fibres of flax spun into strong string."
+  },
+  {
+    "slot": 79,
+    "start_row": 632,
+    "name": "cottontop",
+    "desc": "A peculiar plant with a soft, fluffy substance on top."
+  },
+  {
+    "slot": 80,
+    "start_row": 640,
+    "name": "silkblossom",
+    "desc": "A precious plant that produces fine fibres."
+  },
+  {
+    "slot": 81,
+    "start_row": 648,
+    "name": "glimmergrass",
+    "desc": "Mysterious and mesmerising grass that glows."
+  },
+  {
+    "slot": 82,
+    "start_row": 656,
+    "name": "colourful cocoon",
+    "desc": "A pretty pupa in all the colours of the rainbow."
+  },
+  {
+    "slot": 83,
+    "start_row": 664,
+    "name": "silver ore",
+    "desc": "All silver is made from this marvellous mineral."
+  },
+  {
+    "slot": 84,
+    "start_row": 672,
+    "name": "darkonium",
+    "desc": "A beautiful crystal with a creepy crimson glow."
+  },
+  {
+    "slot": 85,
+    "start_row": 680,
+    "name": "orichalcum",
+    "desc": "A rare metal said to be more durable than any other."
+  },
+  {
+    "slot": 86,
+    "start_row": 688,
+    "name": "fine fur",
+    "desc": "A piece of the pelt of a pretty fluffy creature."
+  },
+  {
+    "slot": 87,
+    "start_row": 696,
+    "name": "odd clod",
+    "desc": "An ugly but extremely adhesive mass of mud."
+  },
+  {
+    "slot": 88,
+    "start_row": 704,
+    "name": "red eye",
+    "desc": "A precious stone that burns with a blood-red glow."
+  },
+  {
+    "slot": 89,
+    "start_row": 712,
+    "name": "blue eye",
+    "desc": "A precious stone that beams out a brilliant blue light."
+  },
+  {
+    "slot": 90,
+    "start_row": 720,
+    "name": "savvy sapphire",
+    "desc": "A bright blue gem said to sharpen the senses."
+  },
+  {
+    "slot": 91,
+    "start_row": 728,
+    "name": "large scale",
+    "desc": "A fair-sized flake from a fish or reptile."
+  },
+  {
+    "slot": 92,
+    "start_row": 736,
+    "name": "big bone",
+    "desc": "A sizeable section of...something's skeleton."
+  },
+  {
+    "slot": 93,
+    "start_row": 744,
+    "name": "colossal fossil",
+    "desc": "The remains of a rare creature dug up from deep down."
+  },
+  {
+    "slot": 94,
+    "start_row": 752,
+    "name": "mythic beast bone",
+    "desc": "Believed to be the remnant of an incredible creature."
+  },
+  {
+    "slot": 95,
+    "start_row": 760,
+    "name": "powdered slime earrings",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 96,
+    "start_row": 768,
+    "name": "powdered restless heart",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 97,
+    "start_row": 776,
+    "name": "powdered monocle",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 98,
+    "start_row": 784,
+    "name": "powdered gold ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 99,
+    "start_row": 792,
+    "name": "powdered bunny tail",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 100,
+    "start_row": 800,
+    "name": "powdered mechanical monocle",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 101,
+    "start_row": 808,
+    "name": "powdered gold bracer",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 102,
+    "start_row": 816,
+    "name": "powdered champion's choker",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 103,
+    "start_row": 824,
+    "name": "powdered earthwyrm's eye",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 104,
+    "start_row": 832,
+    "name": "powdered scholar's specs",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 105,
+    "start_row": 840,
+    "name": "powdered Kamikazee bracer",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 106,
+    "start_row": 848,
+    "name": "powdered ring of riddance",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 107,
+    "start_row": 856,
+    "name": "powdered tough guy tattoo",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 108,
+    "start_row": 864,
+    "name": "powdered strength ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 109,
+    "start_row": 872,
+    "name": "powdered meteorite bracer",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 110,
+    "start_row": 880,
+    "name": "powdered agility ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 111,
+    "start_row": 888,
+    "name": "powdered raging ruby",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 112,
+    "start_row": 896,
+    "name": "powdered ruby of protection",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 113,
+    "start_row": 904,
+    "name": "powdered prayer ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 114,
+    "start_row": 912,
+    "name": "powdered gold rosary",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 115,
+    "start_row": 920,
+    "name": "powdered beckoning bell",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 116,
+    "start_row": 928,
+    "name": "powdered titan belt",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 117,
+    "start_row": 936,
+    "name": "powdered life ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 118,
+    "start_row": 944,
+    "name": "powdered elevating shoes",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 119,
+    "start_row": 952,
+    "name": "powdered über ace of spoils",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 120,
+    "start_row": 960,
+    "name": "powdered sorcerer's ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 121,
+    "start_row": 968,
+    "name": "powdered lucky dragon's wing",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 122,
+    "start_row": 976,
+    "name": "powdered ace of spoils",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 123,
+    "start_row": 984,
+    "name": "powdered catholicon ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 124,
+    "start_row": 992,
+    "name": "powdered wrecklace",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 125,
+    "start_row": 1000,
+    "name": "powdered loin-girder",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 126,
+    "start_row": 1008,
+    "name": "powdered care ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 127,
+    "start_row": 1016,
+    "name": "powdered dogged collar",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 128,
+    "start_row": 1024,
+    "name": "powdered Venus' tear",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 129,
+    "start_row": 1032,
+    "name": "powdered adamant pendant",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 130,
+    "start_row": 1040,
+    "name": "powdered rousing ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 131,
+    "start_row": 1048,
+    "name": "powdered papillon pendant",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 132,
+    "start_row": 1056,
+    "name": "powdered allure ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 133,
+    "start_row": 1064,
+    "name": "powdered monarchic mark",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 134,
+    "start_row": 1072,
+    "name": "powdered endure ring",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 135,
+    "start_row": 1080,
+    "name": "powdered ring of truth",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 136,
+    "start_row": 1088,
+    "name": "powdered ring of immunity",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 137,
+    "start_row": 1096,
+    "name": "powdered sock-it locket",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 138,
+    "start_row": 1104,
+    "name": "powdered block-it locket",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 139,
+    "start_row": 1112,
+    "name": "powdered nacreous necromonocle",
+    "desc": "An accessory that has been reduced to dust."
+  },
+  {
+    "slot": 140,
+    "start_row": 1120,
+    "name": "twin sword shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 141,
+    "start_row": 1128,
+    "name": "sword shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 142,
+    "start_row": 1136,
+    "name": "broadsword shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 143,
+    "start_row": 1144,
+    "name": "greatsword shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 144,
+    "start_row": 1152,
+    "name": "axe shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 145,
+    "start_row": 1160,
+    "name": "boomerang shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 146,
+    "start_row": 1168,
+    "name": "glove shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 147,
+    "start_row": 1176,
+    "name": "gauntlet shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 148,
+    "start_row": 1184,
+    "name": "claw shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 149,
+    "start_row": 1192,
+    "name": "abacus shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 150,
+    "start_row": 1200,
+    "name": "card shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 151,
+    "start_row": 1208,
+    "name": "spear shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 152,
+    "start_row": 1216,
+    "name": "whip shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 153,
+    "start_row": 1224,
+    "name": "bow shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 154,
+    "start_row": 1232,
+    "name": "fan shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 155,
+    "start_row": 1240,
+    "name": "wand shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 156,
+    "start_row": 1248,
+    "name": "staff shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 157,
+    "start_row": 1256,
+    "name": "heavy wand shards",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 158,
+    "start_row": 1264,
+    "name": "twin sword essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 159,
+    "start_row": 1272,
+    "name": "sword essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 160,
+    "start_row": 1280,
+    "name": "broadsword essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 161,
+    "start_row": 1288,
+    "name": "greatsword essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 162,
+    "start_row": 1296,
+    "name": "axe essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 163,
+    "start_row": 1304,
+    "name": "boomerang essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 164,
+    "start_row": 1312,
+    "name": "glove essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 165,
+    "start_row": 1320,
+    "name": "gauntlet essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 166,
+    "start_row": 1328,
+    "name": "claw essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 167,
+    "start_row": 1336,
+    "name": "abacus essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 168,
+    "start_row": 1344,
+    "name": "card essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 169,
+    "start_row": 1352,
+    "name": "spear essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 170,
+    "start_row": 1360,
+    "name": "whip essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 171,
+    "start_row": 1368,
+    "name": "bow essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 172,
+    "start_row": 1376,
+    "name": "fan essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 173,
+    "start_row": 1384,
+    "name": "wand essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 174,
+    "start_row": 1392,
+    "name": "staff essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 175,
+    "start_row": 1400,
+    "name": "heavy wand essence",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 176,
+    "start_row": 1408,
+    "name": "bondstone",
+    "desc": "A strange gem that strengthens the bonds of friendship."
+  },
+  {
+    "slot": 177,
+    "start_row": 1416,
+    "name": "remedial rock",
+    "desc": "An odd ore. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 178,
+    "start_row": 1424,
+    "name": "walking stick",
+    "desc": "An old man's lost property. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 179,
+    "start_row": 1432,
+    "name": "monsterium ore",
+    "desc": "A peculiar powder. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 180,
+    "start_row": 1440,
+    "name": "cracking egg",
+    "desc": "An uplifting ovum. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 181,
+    "start_row": 1448,
+    "name": "true lovage",
+    "desc": "A secret ingredient. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 182,
+    "start_row": 1456,
+    "name": "curative crystal",
+    "desc": "A peculiar precious stone. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 183,
+    "start_row": 1464,
+    "name": "monsterium nugget",
+    "desc": "A strange stone. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 184,
+    "start_row": 1472,
+    "name": "frozen fire",
+    "desc": "Burns curiously coolly. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 185,
+    "start_row": 1480,
+    "name": "rejuvenating jewel",
+    "desc": "A glowing golden gem. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 186,
+    "start_row": 1488,
+    "name": "monsterium ingot",
+    "desc": "A malevolent lump. Take it to the quest counter<FG>"
+  },
+  {
+    "slot": 187,
+    "start_row": 1496,
+    "name": "broadsword fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 188,
+    "start_row": 1504,
+    "name": "rapier fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 189,
+    "start_row": 1512,
+    "name": "staff fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 190,
+    "start_row": 1520,
+    "name": "boomerang fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 191,
+    "start_row": 1528,
+    "name": "bow fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 192,
+    "start_row": 1536,
+    "name": "wand fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 193,
+    "start_row": 1544,
+    "name": "axe fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 194,
+    "start_row": 1552,
+    "name": "greatsword fragments",
+    "desc": "With enough of these, you could create a weapon."
+  },
+  {
+    "slot": 195,
+    "start_row": 1560,
+    "name": "broadsword extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 196,
+    "start_row": 1568,
+    "name": "rapier extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 197,
+    "start_row": 1576,
+    "name": "staff extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 198,
+    "start_row": 1584,
+    "name": "boomerang extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 199,
+    "start_row": 1592,
+    "name": "bow extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 200,
+    "start_row": 1600,
+    "name": "wand extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 201,
+    "start_row": 1608,
+    "name": "axe extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 202,
+    "start_row": 1616,
+    "name": "greatsword extract",
+    "desc": "Have this appraised to see what weapon it can become."
+  },
+  {
+    "slot": 203,
+    "start_row": 1624,
+    "name": "Victory's Secret",
+    "desc": "An excellent extract that enables one to win with ease."
+  },
+  {
+    "slot": 204,
+    "start_row": 1632,
+    "name": "would-be weapon",
+    "desc": "Have this appraised\\nto see what weapon\\nit can become."
+  },
+  {
+    "slot": 205,
+    "start_row": 1640,
+    "name": "would-be weapon of worth",
+    "desc": "Have this appraised\\nto see what weapon\\nit can become."
+  },
+  {
+    "slot": 206,
+    "start_row": 1648,
+    "name": "would-be weapon of wonder",
+    "desc": "Have this appraised\\nto see what weapon\\nit can become."
+  }
+]

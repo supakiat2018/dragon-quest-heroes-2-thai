@@ -1,0 +1,3194 @@
+[
+  {
+    "slot": 0,
+    "start_row": 0,
+    "name": "M-Pathy",
+    "desc": "Shares MP with allies."
+  },
+  {
+    "slot": 1,
+    "start_row": 8,
+    "name": "The Devil",
+    "desc": "Damages all marked enemies and decreases their defence."
+  },
+  {
+    "slot": 2,
+    "start_row": 16,
+    "name": "Butterfly Ballet",
+    "desc": "Summons a circle of butterflies to batter nearby enemies."
+  },
+  {
+    "slot": 3,
+    "start_row": 24,
+    "name": "Assassin's Dagger",
+    "desc": "Sends a flurry of knives flying forward, the odd one of which can cause instant death."
+  },
+  {
+    "slot": 4,
+    "start_row": 32,
+    "name": "Leg Sweep",
+    "desc": "A below-the-belt blow that can knock enemies off balance."
+  },
+  {
+    "slot": 5,
+    "start_row": 40,
+    "name": "Kaclang",
+    "desc": "Temporarily turns the user's body to iron, making them impervious to all attacks."
+  },
+  {
+    "slot": 6,
+    "start_row": 48,
+    "name": "Bang",
+    "desc": "Blasts enemies in front with an intense explosion."
+  },
+  {
+    "slot": 7,
+    "start_row": 56,
+    "name": "Boom",
+    "desc": "Blasts enemies all around with an enormous explosion."
+  },
+  {
+    "slot": 8,
+    "start_row": 64,
+    "name": "Kaboom",
+    "desc": "Blasts enemies over a huge area with an insane explosion."
+  },
+  {
+    "slot": 9,
+    "start_row": 72,
+    "name": "Stone's Throw",
+    "desc": "Slings several small stones that can stagger enemies."
+  },
+  {
+    "slot": 10,
+    "start_row": 80,
+    "name": "Roaring Tirade",
+    "desc": "Blasts beasts backwards with unstoppable force."
+  },
+  {
+    "slot": 11,
+    "start_row": 88,
+    "name": "Power Cut",
+    "desc": "Swings the sword high above the head, then brings it slamming straight down."
+  },
+  {
+    "slot": 12,
+    "start_row": 96,
+    "name": "Disruptive Wave",
+    "desc": "A short, sharp shockwave that erases enemies' stat boosts."
+  },
+  {
+    "slot": 13,
+    "start_row": 104,
+    "name": "Lightning Strike",
+    "desc": "A swift sword swing that summons a thunderbolt."
+  },
+  {
+    "slot": 14,
+    "start_row": 112,
+    "name": "Right as Rain",
+    "desc": "Calls forth a curative downpour that heals wounds for a while."
+  },
+  {
+    "slot": 15,
+    "start_row": 120,
+    "name": "Crash and Burn",
+    "desc": "Leaps high into the air, then brings the axe crashing down to earth with a bang."
+  },
+  {
+    "slot": 16,
+    "start_row": 128,
+    "name": "Elementalism",
+    "desc": "Causes any elemental energies with which a blade is imbued to last a little longer."
+  },
+  {
+    "slot": 17,
+    "start_row": 136,
+    "name": "Spinferno",
+    "desc": "A red-hot revolving sword strike."
+  },
+  {
+    "slot": 18,
+    "start_row": 144,
+    "name": "Fan Dango",
+    "desc": "A fabulous fan dance that deals damage to unlucky onlookers."
+  },
+  {
+    "slot": 19,
+    "start_row": 152,
+    "name": "Hissy Fit",
+    "desc": "Sends out an ear-splitting scream that can stagger any enemies nearby."
+  },
+  {
+    "slot": 20,
+    "start_row": 160,
+    "name": "Flash Stance",
+    "desc": "A positive posture that promotes the production of critical hits."
+  },
+  {
+    "slot": 21,
+    "start_row": 168,
+    "name": "Disco Inferno",
+    "desc": "A series of speedy somersaults that strike foes in swift succession."
+  },
+  {
+    "slot": 22,
+    "start_row": 176,
+    "name": "Flame Slash",
+    "desc": "Forces gouts of flame from the ground to blast enemies away."
+  },
+  {
+    "slot": 23,
+    "start_row": 184,
+    "name": "Flame Breath",
+    "desc": "Belches blazing hot breath all over enemies in front."
+  },
+  {
+    "slot": 24,
+    "start_row": 192,
+    "name": "Inferno",
+    "desc": "Blasts blisteringly hot breath all over enemies in front."
+  },
+  {
+    "slot": 25,
+    "start_row": 200,
+    "name": "Scorch",
+    "desc": "Exhales an insane inferno that incinerates all enemies in front."
+  },
+  {
+    "slot": 26,
+    "start_row": 208,
+    "name": "Wildfire",
+    "desc": "A series of sizeable swings with a searing-hot axe."
+  },
+  {
+    "slot": 27,
+    "start_row": 216,
+    "name": "Helm Splitter",
+    "desc": "A furious overhead smash that decreases enemies' defence."
+  },
+  {
+    "slot": 28,
+    "start_row": 224,
+    "name": "Wind Sickles",
+    "desc": "Whips foes with blades of wild wind. Keep pressing the button to continue attacking."
+  },
+  {
+    "slot": 29,
+    "start_row": 232,
+    "name": "Boulder Toss",
+    "desc": "Grabs a great big rock from underground, then leaps up to launch it down from above."
+  },
+  {
+    "slot": 30,
+    "start_row": 240,
+    "name": "Vimstone",
+    "desc": "Uses a rare rock to cause allies to rack up tension more rapidly."
+  },
+  {
+    "slot": 31,
+    "start_row": 248,
+    "name": "Gigathrow",
+    "desc": "Bungs a breathtakingly powerful boomerang that deals repeated damage."
+  },
+  {
+    "slot": 32,
+    "start_row": 256,
+    "name": "Pressure Pointer",
+    "desc": "The user leaps into the air, then lets loose a blow upon landing that can cause instant death."
+  },
+  {
+    "slot": 33,
+    "start_row": 264,
+    "name": "Sizz",
+    "desc": "An ancient incantation that fires forth a racing pillar of flame."
+  },
+  {
+    "slot": 34,
+    "start_row": 272,
+    "name": "Sizzle",
+    "desc": "Sends a snaking pillar of flame flying forth from the ground."
+  },
+  {
+    "slot": 35,
+    "start_row": 280,
+    "name": "Kasizz",
+    "desc": "Sends two snaking pillars of flame flying forth from the ground."
+  },
+  {
+    "slot": 36,
+    "start_row": 288,
+    "name": "Chain Sickle",
+    "desc": "Swings a slicing device on a long chain in a lethal lacerating arc."
+  },
+  {
+    "slot": 37,
+    "start_row": 296,
+    "name": "Super Chain Sickle",
+    "desc": "Swings a slicing device on a long chain in a large, lethal lacerating arc."
+  },
+  {
+    "slot": 38,
+    "start_row": 304,
+    "name": "Über Chain Sickle",
+    "desc": "Swings a slicing device on a long chain in an enormous arc, causing carnage left and right."
+  },
+  {
+    "slot": 39,
+    "start_row": 312,
+    "name": "The Fool",
+    "desc": "Deals damage to all marked enemies and can poison them too."
+  },
+  {
+    "slot": 40,
+    "start_row": 320,
+    "name": "Whistle",
+    "desc": "An ear-splitting whistle that attracts the enemy's attention."
+  },
+  {
+    "slot": 41,
+    "start_row": 328,
+    "name": "Solar Flair",
+    "desc": "Blasts enemies with breathtaking pillars of light, blowing them away."
+  },
+  {
+    "slot": 42,
+    "start_row": 336,
+    "name": "Crosscutter Throw",
+    "desc": "Takes a backward step while bunging the boomerang."
+  },
+  {
+    "slot": 43,
+    "start_row": 344,
+    "name": "X-Calibur",
+    "desc": "Leaps high into the sky, then sends a shockwave flying forwards."
+  },
+  {
+    "slot": 44,
+    "start_row": 352,
+    "name": "Hunter's Bow",
+    "desc": "Produces a pair of powerful crossbows and lets loose repeatedly into the air."
+  },
+  {
+    "slot": 45,
+    "start_row": 360,
+    "name": "Sage's Stone",
+    "desc": "Restores all allies' HP using an ancient artefact."
+  },
+  {
+    "slot": 46,
+    "start_row": 368,
+    "name": "Coral Grief",
+    "desc": "Calls up a furious torrent of water, washing away enemies in front."
+  },
+  {
+    "slot": 47,
+    "start_row": 376,
+    "name": "Royal Wrath",
+    "desc": "A massive meteorite falls from the sky at the King's command."
+  },
+  {
+    "slot": 48,
+    "start_row": 384,
+    "name": "Cutting Edge",
+    "desc": "Increases the size of the sword, then swings down with serious force."
+  },
+  {
+    "slot": 49,
+    "start_row": 392,
+    "name": "Super Cutting Edge",
+    "desc": "Greatly increases the size of the sword, then swings down with stunning force."
+  },
+  {
+    "slot": 50,
+    "start_row": 400,
+    "name": "Über Cutting Edge",
+    "desc": "Enormously increases the size of the sword, then swings down with stupendous force."
+  },
+  {
+    "slot": 51,
+    "start_row": 408,
+    "name": "Air Raiser",
+    "desc": "Pulls in enemies with a powerful punch that whips up a whirlwind."
+  },
+  {
+    "slot": 52,
+    "start_row": 416,
+    "name": "Whack",
+    "desc": "A cursed incantation that sends an enemy to the hereafter."
+  },
+  {
+    "slot": 53,
+    "start_row": 424,
+    "name": "Thwack",
+    "desc": "A curse that sends a group of enemies to the hereafter."
+  },
+  {
+    "slot": 54,
+    "start_row": 432,
+    "name": "Sultry Dance",
+    "desc": "A lascivious dance that lulls enemies into dropping their defences."
+  },
+  {
+    "slot": 55,
+    "start_row": 440,
+    "name": "Bolt from the Blue",
+    "desc": "The user vanishes very briefly, before reappearing to unleash an attack."
+  },
+  {
+    "slot": 56,
+    "start_row": 448,
+    "name": "Rain of Pain",
+    "desc": "Sends off several arrows that slam into a single enemy."
+  },
+  {
+    "slot": 57,
+    "start_row": 456,
+    "name": "Multislash",
+    "desc": "Unleashes a series of slicing strikes on nearby enemies."
+  },
+  {
+    "slot": 58,
+    "start_row": 464,
+    "name": "Plasma Dome",
+    "desc": "A shocking shaft that sends out a hemisphere of hectic electric shocks."
+  },
+  {
+    "slot": 59,
+    "start_row": 472,
+    "name": "Mercurial Thrust",
+    "desc": "A swift, stabbing strike."
+  },
+  {
+    "slot": 60,
+    "start_row": 480,
+    "name": "Dancing Dragons",
+    "desc": "A duo of drakes fly forth, fuelling a furious firestorm."
+  },
+  {
+    "slot": 61,
+    "start_row": 488,
+    "name": "Whipcrackle",
+    "desc": "A thunderous crack of the whip that strikes like lightning."
+  },
+  {
+    "slot": 62,
+    "start_row": 496,
+    "name": "Smackback",
+    "desc": "A swift sidestep before a stinging slap that sends enemies scattering."
+  },
+  {
+    "slot": 63,
+    "start_row": 504,
+    "name": "Death",
+    "desc": "Deals damage to all marked enemies, and can also cause instant death."
+  },
+  {
+    "slot": 64,
+    "start_row": 512,
+    "name": "Rubblerouser",
+    "desc": "Draws a secret sigil on the ground that sends stone spikes springing up after a slight delay."
+  },
+  {
+    "slot": 65,
+    "start_row": 520,
+    "name": "Boulderbringer",
+    "desc": "A secret sigil on the ground causes craggy columns to come flying up after a slight delay."
+  },
+  {
+    "slot": 66,
+    "start_row": 528,
+    "name": "Mountainmover",
+    "desc": "A secret sigil on the ground makes massive monoliths fly up after a slight delay."
+  },
+  {
+    "slot": 67,
+    "start_row": 536,
+    "name": "Shining Shot",
+    "desc": "Sends a salvo of celestial arrows soaring down onto a selected spot."
+  },
+  {
+    "slot": 70,
+    "start_row": 560,
+    "name": "Staff of Salvation",
+    "desc": "Summons a surge of mending magic that heals the user."
+  },
+  {
+    "slot": 71,
+    "start_row": 568,
+    "name": "Uplifting Downpour",
+    "desc": "Calls down a refreshing rain that alleviates all status afflictions."
+  },
+  {
+    "slot": 72,
+    "start_row": 576,
+    "name": "Vacuum Slash",
+    "desc": "A storming sword swing that whips up a whirlwind."
+  },
+  {
+    "slot": 73,
+    "start_row": 584,
+    "name": "Kabuff",
+    "desc": "A strengthening spell that increases all allies' defence."
+  },
+  {
+    "slot": 74,
+    "start_row": 592,
+    "name": "Starstrike",
+    "desc": "Dazzles nearby enemies with a whirlwind of whip strikes."
+  },
+  {
+    "slot": 75,
+    "start_row": 600,
+    "name": "Soaring Slash",
+    "desc": "A quick jump forward followed by a spinning strike."
+  },
+  {
+    "slot": 76,
+    "start_row": 608,
+    "name": "Knuckle Sandwich",
+    "desc": "A powerful punch produced by focusing force into the fist."
+  },
+  {
+    "slot": 77,
+    "start_row": 616,
+    "name": "Super Knuckle Sandwich",
+    "desc": "An even more powerful punch produced by focusing further force into the fist."
+  },
+  {
+    "slot": 78,
+    "start_row": 624,
+    "name": "Über Knuckle Sandwich",
+    "desc": "A supremely powerful punch produced by fully focusing all force into the fist."
+  },
+  {
+    "slot": 79,
+    "start_row": 632,
+    "name": "Glove Bomb",
+    "desc": "Leaps into the air to perform a powerful plummeting punch."
+  },
+  {
+    "slot": 80,
+    "start_row": 640,
+    "name": "Saint's Song",
+    "desc": "A divine ditty that soothes all status ailments."
+  },
+  {
+    "slot": 81,
+    "start_row": 648,
+    "name": "Holy Water",
+    "desc": "Applies liberal amounts of a sacred substance that keeps enemies at bay for a while."
+  },
+  {
+    "slot": 82,
+    "start_row": 656,
+    "name": "Sexy Beam",
+    "desc": "An intensely amorous assault that can mesmerise monsters."
+  },
+  {
+    "slot": 83,
+    "start_row": 664,
+    "name": "Parallax",
+    "desc": "A strike that sends a shockwave shuddering through the earth."
+  },
+  {
+    "slot": 84,
+    "start_row": 672,
+    "name": "Super Parallax",
+    "desc": "Sends a serious shockwave shuddering through the earth."
+  },
+  {
+    "slot": 85,
+    "start_row": 680,
+    "name": "Über Parallax",
+    "desc": "Sends a stupendous shockwave shuddering through the earth."
+  },
+  {
+    "slot": 86,
+    "start_row": 688,
+    "name": "Body Slam",
+    "desc": "Staggers enemies by walloping into them with all one's body weight."
+  },
+  {
+    "slot": 87,
+    "start_row": 696,
+    "name": "Hardclaw",
+    "desc": "Savage swipes aimed at foes in front. Keep pressing the button to continue attacking."
+  },
+  {
+    "slot": 88,
+    "start_row": 704,
+    "name": "Defending Champion",
+    "desc": "A defensive stance that can stave off enemy attacks entirely."
+  },
+  {
+    "slot": 89,
+    "start_row": 712,
+    "name": "Cold Fission",
+    "desc": "Calls forth a freezing tornado that sweeps enemies skyward."
+  },
+  {
+    "slot": 90,
+    "start_row": 720,
+    "name": "Wild Cards",
+    "desc": "Catapults countless cards at nearby enemies."
+  },
+  {
+    "slot": 91,
+    "start_row": 728,
+    "name": "Muster Strength",
+    "desc": "Focuses the user's fighting force in order to hit harder for a little while."
+  },
+  {
+    "slot": 92,
+    "start_row": 736,
+    "name": "The Moon",
+    "desc": "Damages and dazzles all marked enemies."
+  },
+  {
+    "slot": 93,
+    "start_row": 744,
+    "name": "Chilling Chuckle",
+    "desc": "A laugh as cold as ice that freezes nearby foes."
+  },
+  {
+    "slot": 94,
+    "start_row": 752,
+    "name": "Sword Dance",
+    "desc": "A swirling, whirling onslaught of slicing that assails all nearby enemies."
+  },
+  {
+    "slot": 95,
+    "start_row": 760,
+    "name": "Cheer Leader",
+    "desc": "A wand-waving dance that helps all allies to build tension faster."
+  },
+  {
+    "slot": 96,
+    "start_row": 768,
+    "name": "Zap",
+    "desc": "A bolt from the blue that strikes foes in front."
+  },
+  {
+    "slot": 97,
+    "start_row": 776,
+    "name": "Zapple",
+    "desc": "A striking flash of lightning that zaps any enemy nearby."
+  },
+  {
+    "slot": 98,
+    "start_row": 784,
+    "name": "Kazap",
+    "desc": "A supercharged surge of lightning that assails enemies over a wide area."
+  },
+  {
+    "slot": 99,
+    "start_row": 792,
+    "name": "Scrap Mettle",
+    "desc": "Attacks with an axe that can absolutely decimate an enemy's agility and defence."
+  },
+  {
+    "slot": 100,
+    "start_row": 800,
+    "name": "A Cut Above",
+    "desc": "A stupendous storm of sweeping slashes."
+  },
+  {
+    "slot": 101,
+    "start_row": 808,
+    "name": "Nature's Fury",
+    "desc": "Summons a meteor from space that smashes into all enemies in the area."
+  },
+  {
+    "slot": 102,
+    "start_row": 816,
+    "name": "Counter Wait",
+    "desc": "A defensive stance that parries attacks from the front and strikes back decisively."
+  },
+  {
+    "slot": 103,
+    "start_row": 824,
+    "name": "The Tower",
+    "desc": "Calls down lightning to lay mercilessly into all marked enemies."
+  },
+  {
+    "slot": 104,
+    "start_row": 832,
+    "name": "Call of the Wild",
+    "desc": "A primal howl that summons a pack of vicious wolves to attack the enemy."
+  },
+  {
+    "slot": 105,
+    "start_row": 840,
+    "name": "Dream Dagger",
+    "desc": "A series of swift slashes with a slumber-inducing knife."
+  },
+  {
+    "slot": 106,
+    "start_row": 848,
+    "name": "Flying Knee",
+    "desc": "Dives forward to deliver a bent-legged blow."
+  },
+  {
+    "slot": 107,
+    "start_row": 856,
+    "name": "Super Flying Knee",
+    "desc": "Dives forward fast to deliver a blistering bent-legged blow."
+  },
+  {
+    "slot": 108,
+    "start_row": 864,
+    "name": "Über Flying Knee",
+    "desc": "Dives ferociously forward to deliver a devastating bent-legged blow."
+  },
+  {
+    "slot": 109,
+    "start_row": 872,
+    "name": "Whirlwind Reaper",
+    "desc": "Bungs the user's blade like a boomerang and whips up a whirlwind that pulls enemies in."
+  },
+  {
+    "slot": 110,
+    "start_row": 880,
+    "name": "Zam",
+    "desc": "Fires forth bullet-like blobs of black energy."
+  },
+  {
+    "slot": 111,
+    "start_row": 888,
+    "name": "Zammle",
+    "desc": "Unleashes an umbral explosion that assails nearby enemies."
+  },
+  {
+    "slot": 112,
+    "start_row": 896,
+    "name": "Kazammle",
+    "desc": "Damages enemies over a wide area with a huge eldritch explosion."
+  },
+  {
+    "slot": 113,
+    "start_row": 904,
+    "name": "Needle Shot",
+    "desc": "An advanced arrow attack with a high chance of a critical hit."
+  },
+  {
+    "slot": 114,
+    "start_row": 912,
+    "name": "Needle Rain",
+    "desc": "An extremely advanced arrow attack with a very high chance of a critical hit."
+  },
+  {
+    "slot": 115,
+    "start_row": 920,
+    "name": "Forbearance",
+    "desc": "Strikes a powerful pose that protects others from harm while pumping up defence."
+  },
+  {
+    "slot": 116,
+    "start_row": 928,
+    "name": "Heart Breaker",
+    "desc": "A strong, stunning strike that staggers enemies."
+  },
+  {
+    "slot": 117,
+    "start_row": 936,
+    "name": "Firebird Throw",
+    "desc": "Sends out a flaming firebird that swoops on unsuspecting enemies."
+  },
+  {
+    "slot": 118,
+    "start_row": 944,
+    "name": "Oomph",
+    "desc": "A spell that adds a little extra <C9>Oomph<R >to allies' attacks."
+  },
+  {
+    "slot": 119,
+    "start_row": 952,
+    "name": "Flail of Destruction",
+    "desc": "Swings a destructive sphere that smashes into everything around it."
+  },
+  {
+    "slot": 120,
+    "start_row": 960,
+    "name": "Woosh",
+    "desc": "Stirs up a wicked whirlwind that damages foes in front."
+  },
+  {
+    "slot": 121,
+    "start_row": 968,
+    "name": "Swoosh",
+    "desc": "Stirs up a terrible tornado that tears into foes over a wide area."
+  },
+  {
+    "slot": 122,
+    "start_row": 976,
+    "name": "Kaswoosh",
+    "desc": "Stirs up a hard-hitting hurricane that blows all foes away."
+  },
+  {
+    "slot": 123,
+    "start_row": 984,
+    "name": "Multifists",
+    "desc": "A flurry of fists that sends foes flying. Keep pressing the button to continue attacking."
+  },
+  {
+    "slot": 124,
+    "start_row": 992,
+    "name": "Cry Wolf",
+    "desc": "The call of the wild brings a wolf running, dealing damage to all enemies ahead."
+  },
+  {
+    "slot": 125,
+    "start_row": 1000,
+    "name": "Bazoom",
+    "desc": "Sends enemies in front flying with a massive burst of magical force."
+  },
+  {
+    "slot": 126,
+    "start_row": 1008,
+    "name": "Hustle Dance",
+    "desc": "An invigorating jig that restores allies' HP."
+  },
+  {
+    "slot": 127,
+    "start_row": 1016,
+    "name": "Falcon Slash",
+    "desc": "A slash attack so fast it even splits the user in two."
+  },
+  {
+    "slot": 128,
+    "start_row": 1024,
+    "name": "Quickfire Caster",
+    "desc": "Allows attack spells to be cast without any waiting time at all."
+  },
+  {
+    "slot": 129,
+    "start_row": 1032,
+    "name": "Super Quickfire Caster",
+    "desc": "Allows advanced attack spells to be cast without any waiting time at all."
+  },
+  {
+    "slot": 130,
+    "start_row": 1040,
+    "name": "Über Quickfire Caster",
+    "desc": "Allows extremely advanced attack spells to be cast without any waiting time at all."
+  },
+  {
+    "slot": 131,
+    "start_row": 1048,
+    "name": "Jolly Rager",
+    "desc": "Whips up a storm with axe swings alone."
+  },
+  {
+    "slot": 132,
+    "start_row": 1056,
+    "name": "Hyper Sniper",
+    "desc": "Draws a bow to the absolute limit to let loose an arrow with remarkable results."
+  },
+  {
+    "slot": 133,
+    "start_row": 1064,
+    "name": "Super Hyper Sniper",
+    "desc": ""
+  },
+  {
+    "slot": 134,
+    "start_row": 1072,
+    "name": "Über Hyper Sniper",
+    "desc": ""
+  },
+  {
+    "slot": 135,
+    "start_row": 1080,
+    "name": "Power Throw",
+    "desc": "Mows down foes in your path with a shining boomerang."
+  },
+  {
+    "slot": 136,
+    "start_row": 1088,
+    "name": "Super Power Throw",
+    "desc": "Mows down foes in your path with a giant shining boomerang."
+  },
+  {
+    "slot": 137,
+    "start_row": 1096,
+    "name": "Über Power Throw",
+    "desc": "Mows down foes in your path with an enormous shining boomerang."
+  },
+  {
+    "slot": 138,
+    "start_row": 1104,
+    "name": "Wonderwand",
+    "desc": "Employs an incredible magic item to cure your allies of all afflictions."
+  },
+  {
+    "slot": 139,
+    "start_row": 1112,
+    "name": "Soaring Slice",
+    "desc": "A spinning slash unleashed while leaping forward."
+  },
+  {
+    "slot": 140,
+    "start_row": 1120,
+    "name": "Flying Fist",
+    "desc": "An uplifting uppercut that sends enemies skyward."
+  },
+  {
+    "slot": 141,
+    "start_row": 1128,
+    "name": "Super Flying Fist",
+    "desc": "An unrestrained uppercut that sends foes flying even further."
+  },
+  {
+    "slot": 142,
+    "start_row": 1136,
+    "name": "Über Flying Fist",
+    "desc": "An ultimate uppercut that ejects enemies into the atmosphere."
+  },
+  {
+    "slot": 143,
+    "start_row": 1144,
+    "name": "Crack",
+    "desc": "Flings forth a flurry of ice balls that can freeze foes solid."
+  },
+  {
+    "slot": 144,
+    "start_row": 1152,
+    "name": "Crackle",
+    "desc": "Freezes foes with a big blast of ice."
+  },
+  {
+    "slot": 145,
+    "start_row": 1160,
+    "name": "Kacrack",
+    "desc": "Freezes foes with an enormous blast of ice."
+  },
+  {
+    "slot": 146,
+    "start_row": 1168,
+    "name": "Glacier Strike",
+    "desc": "A super-chilled sword strike that leaves the weapon imbued with ice."
+  },
+  {
+    "slot": 147,
+    "start_row": 1176,
+    "name": "Frost Slash",
+    "desc": "Bashes bits of ice up from the ground to blast enemies away."
+  },
+  {
+    "slot": 148,
+    "start_row": 1184,
+    "name": "Crushed Ice",
+    "desc": "A swift sequence of clouts with an ice-coated club."
+  },
+  {
+    "slot": 149,
+    "start_row": 1192,
+    "name": "Pink Typhoon",
+    "desc": "Summons a swirling spiral of energy that damages enemies and sends the user skyward."
+  },
+  {
+    "slot": 150,
+    "start_row": 1200,
+    "name": "Timbrel of Tension",
+    "desc": "Calls on an incredible instrument that can cause all allies' tension to increase."
+  },
+  {
+    "slot": 151,
+    "start_row": 1208,
+    "name": "Frost Fangs",
+    "desc": "Summons spires of ice that send nearby enemies soaring."
+  },
+  {
+    "slot": 152,
+    "start_row": 1216,
+    "name": "Divide and Conquer",
+    "desc": "Creates two copies of the caster in order to cause triple trouble."
+  },
+  {
+    "slot": 153,
+    "start_row": 1224,
+    "name": "Twister Fists",
+    "desc": "A spinning strike with outstretched arms that clobbers close-by foes."
+  },
+  {
+    "slot": 154,
+    "start_row": 1232,
+    "name": "Red Mist",
+    "desc": "Temporarily increases attack power and ramps up the rapidity of <C9>Rampage<R.>"
+  },
+  {
+    "slot": 155,
+    "start_row": 1240,
+    "name": "Omniheal",
+    "desc": "Magnificent magic that completely heals all allies."
+  },
+  {
+    "slot": 156,
+    "start_row": 1248,
+    "name": "Multiheal",
+    "desc": "A superior spell that heals all allies."
+  },
+  {
+    "slot": 157,
+    "start_row": 1256,
+    "name": "Poison Arrow",
+    "desc": "A blighted bolt that envenomates all enemies in the affected area."
+  },
+  {
+    "slot": 158,
+    "start_row": 1264,
+    "name": "Ring of Ruin",
+    "desc": "Draws a spectral circle that assists spellcasters in clinching critical casts."
+  },
+  {
+    "slot": 159,
+    "start_row": 1272,
+    "name": "War Cry",
+    "desc": "Summons a wolf, along with which the user will unleash a staggering war cry."
+  },
+  {
+    "slot": 160,
+    "start_row": 1280,
+    "name": "Meaty Treat",
+    "desc": "A hearty haunch that heals wounds and increases attack power."
+  },
+  {
+    "slot": 161,
+    "start_row": 1288,
+    "name": "Deceleratle",
+    "desc": "A spell that slows all enemies in an area."
+  },
+  {
+    "slot": 162,
+    "start_row": 1296,
+    "name": "Wonder Wall",
+    "desc": "Brings forth a magical barrier that drives back enemies and their spells."
+  },
+  {
+    "slot": 163,
+    "start_row": 1304,
+    "name": "Liberation",
+    "desc": "An ancient incantation that brings out the beast within."
+  },
+  {
+    "slot": 164,
+    "start_row": 1312,
+    "name": "Miracle Slash",
+    "desc": "An intriguing enchantment that heals the user's own wounds with each strike."
+  },
+  {
+    "slot": 165,
+    "start_row": 1320,
+    "name": "Hurt Converter",
+    "desc": "A curious conjuration that causes all the user's attacks to heal them."
+  },
+  {
+    "slot": 166,
+    "start_row": 1328,
+    "name": "Miracle Moon",
+    "desc": "Chops chumps into chunks with a storm of spinning sickles."
+  },
+  {
+    "slot": 167,
+    "start_row": 1336,
+    "name": "Blind Man's Biff",
+    "desc": "Empties the user's mind and sends a single supreme strike straight forward."
+  },
+  {
+    "slot": 168,
+    "start_row": 1344,
+    "name": "Meditation",
+    "desc": "Mindfulness with actual medical effects. Can cure wounds."
+  },
+  {
+    "slot": 169,
+    "start_row": 1352,
+    "name": "Maelstrom",
+    "desc": "Creates a vast vortex that sucks in surrounding monsters."
+  },
+  {
+    "slot": 170,
+    "start_row": 1360,
+    "name": "Spear of Influence",
+    "desc": "Invokes the grace of the Goddess to extend the area over which spear attacks have effect."
+  },
+  {
+    "slot": 171,
+    "start_row": 1368,
+    "name": "Furious Flurry",
+    "desc": "A series of strikes with a staff that smash into enemies ceaselessly."
+  },
+  {
+    "slot": 172,
+    "start_row": 1376,
+    "name": "Frizz",
+    "desc": "Flings forth a ball of fire."
+  },
+  {
+    "slot": 173,
+    "start_row": 1384,
+    "name": "Frizzle",
+    "desc": "Flings forth a great ball of fire."
+  },
+  {
+    "slot": 174,
+    "start_row": 1392,
+    "name": "Kafrizz",
+    "desc": "Flings forth a massive fireball that bursts in a flurry of flames."
+  },
+  {
+    "slot": 175,
+    "start_row": 1400,
+    "name": "Double-Edged Slash",
+    "desc": "Sacrifices some of the user's health to unleash an insanely intense attack."
+  },
+  {
+    "slot": 176,
+    "start_row": 1408,
+    "name": "Arcane Echo",
+    "desc": "An interesting aura that causes spells to be cast in duplicate for a little while."
+  },
+  {
+    "slot": 177,
+    "start_row": 1416,
+    "name": "Magma Strike",
+    "desc": "Blasts of molten stone surround the user and leave the weapon imbued with fire."
+  },
+  {
+    "slot": 178,
+    "start_row": 1424,
+    "name": "Deliverance",
+    "desc": "Projects a portal that sucks enemies in, then sends them flying."
+  },
+  {
+    "slot": 179,
+    "start_row": 1432,
+    "name": "Ruff Rider",
+    "desc": "The user hops atop a wild wolf and ravages the enemy repeatedly."
+  },
+  {
+    "slot": 180,
+    "start_row": 1440,
+    "name": "Thunder Strike",
+    "desc": "A crackling attack that leaves the weapon imbued with lightning."
+  },
+  {
+    "slot": 181,
+    "start_row": 1448,
+    "name": "Chain Lightning",
+    "desc": "A super-charged series of spear strikes. Keep pressing the button to continue attacking."
+  },
+  {
+    "slot": 182,
+    "start_row": 1456,
+    "name": "Lightning Conductor",
+    "desc": "A lightning-powered lance attack that blasts enemies away."
+  },
+  {
+    "slot": 183,
+    "start_row": 1464,
+    "name": "Snooze",
+    "desc": "A soporific spell that sends foes to sleep."
+  },
+  {
+    "slot": 184,
+    "start_row": 1472,
+    "name": "Crackerwhack",
+    "desc": "Swings the axe down from overhead with earth-shattering strength."
+  },
+  {
+    "slot": 185,
+    "start_row": 1480,
+    "name": "Super Crackerwhack",
+    "desc": "Swings the axe down from overhead with even more earth-shattering strength."
+  },
+  {
+    "slot": 186,
+    "start_row": 1488,
+    "name": "Über Crackerwhack",
+    "desc": "Swings the axe down from overhead with inconceivably earth-shattering strength."
+  },
+  {
+    "slot": 187,
+    "start_row": 1496,
+    "name": "Reheal",
+    "desc": "Inscribes an ephemeral circle which heals all allies within it for a while."
+  },
+  {
+    "slot": 188,
+    "start_row": 1504,
+    "name": "Remidheal",
+    "desc": "Inscribes an ephemeral circle which rapidly heals all allies within it for a while."
+  },
+  {
+    "slot": 189,
+    "start_row": 1512,
+    "name": "Remoreheal",
+    "desc": "Inscribes an ephemeral circle which very rapidly heals all allies within it for a while."
+  },
+  {
+    "slot": 190,
+    "start_row": 1520,
+    "name": "Kasap",
+    "desc": "A spell that drains the defences of all enemies in an area."
+  },
+  {
+    "slot": 191,
+    "start_row": 1528,
+    "name": "Steel Splitter",
+    "desc": "A rising uppercut with a lightning-infused fist."
+  },
+  {
+    "slot": 192,
+    "start_row": 1536,
+    "name": "Inferno Slash",
+    "desc": "Summons a fiery tornado that sweeps enemies skyward."
+  },
+  {
+    "slot": 193,
+    "start_row": 1544,
+    "name": "Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes over a wide area."
+  },
+  {
+    "slot": 194,
+    "start_row": 1552,
+    "name": "Super Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes near and far."
+  },
+  {
+    "slot": 195,
+    "start_row": 1560,
+    "name": "Über Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes over an enormous area."
+  },
+  {
+    "slot": 196,
+    "start_row": 1568,
+    "name": "Morale Masher",
+    "desc": "A blast of energy that blows away enemy status embellishments."
+  },
+  {
+    "slot": 197,
+    "start_row": 1576,
+    "name": "Strength +5",
+    "desc": "Increases strength by five points."
+  },
+  {
+    "slot": 198,
+    "start_row": 1584,
+    "name": "Strength +10",
+    "desc": "Increases strength by ten points."
+  },
+  {
+    "slot": 199,
+    "start_row": 1592,
+    "name": "Resilience +5",
+    "desc": "Increases resilience by five points."
+  },
+  {
+    "slot": 200,
+    "start_row": 1600,
+    "name": "Resilience +10",
+    "desc": "Increases resilience by ten points."
+  },
+  {
+    "slot": 201,
+    "start_row": 1608,
+    "name": "Wisdom +5",
+    "desc": "Increases wisdom by five points."
+  },
+  {
+    "slot": 202,
+    "start_row": 1616,
+    "name": "Wisdom +10",
+    "desc": "Increases wisdom by ten points."
+  },
+  {
+    "slot": 203,
+    "start_row": 1624,
+    "name": "Deftness +5",
+    "desc": "Increases deftness by five points."
+  },
+  {
+    "slot": 204,
+    "start_row": 1632,
+    "name": "Deftness +10",
+    "desc": "Increases deftness by ten points."
+  },
+  {
+    "slot": 205,
+    "start_row": 1640,
+    "name": "Maximum HP +5",
+    "desc": "Increases maximum HP by five."
+  },
+  {
+    "slot": 206,
+    "start_row": 1648,
+    "name": "Maximum HP +10",
+    "desc": "Increases maximum HP by ten."
+  },
+  {
+    "slot": 207,
+    "start_row": 1656,
+    "name": "Maximum HP +20",
+    "desc": "Increases maximum HP by twenty."
+  },
+  {
+    "slot": 208,
+    "start_row": 1664,
+    "name": "Maximum MP +5",
+    "desc": "Increases maximum MP by five."
+  },
+  {
+    "slot": 209,
+    "start_row": 1672,
+    "name": "Maximum MP +10",
+    "desc": "Increases maximum MP by ten."
+  },
+  {
+    "slot": 210,
+    "start_row": 1680,
+    "name": "Maximum MP +20",
+    "desc": "Increases maximum MP by twenty."
+  },
+  {
+    "slot": 211,
+    "start_row": 1688,
+    "name": "Good In Tension",
+    "desc": "Increases rate of tension gain."
+  },
+  {
+    "slot": 212,
+    "start_row": 1696,
+    "name": "Best In Tension",
+    "desc": "Significantly increases rate of tension gain."
+  },
+  {
+    "slot": 213,
+    "start_row": 1704,
+    "name": "Fuel for the Fire",
+    "desc": "Occasionally earns you extra tension when defeating foes."
+  },
+  {
+    "slot": 214,
+    "start_row": 1712,
+    "name": "Tension Extension",
+    "desc": "Extends high tension by two seconds."
+  },
+  {
+    "slot": 215,
+    "start_row": 1720,
+    "name": "Tension Extension Turbo",
+    "desc": "Extends high tension by four seconds."
+  },
+  {
+    "slot": 216,
+    "start_row": 1728,
+    "name": "Tension Extension Extreme",
+    "desc": "Extends high tension by eight seconds."
+  },
+  {
+    "slot": 217,
+    "start_row": 1736,
+    "name": "Feel the Burn",
+    "desc": "Turns up the tension when you take damage."
+  },
+  {
+    "slot": 218,
+    "start_row": 1744,
+    "name": "Powersaver Lite",
+    "desc": "Causes 2% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 219,
+    "start_row": 1752,
+    "name": "Powersaver",
+    "desc": "Causes 5% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 220,
+    "start_row": 1760,
+    "name": "Powersaver Plus",
+    "desc": "Causes 10% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 221,
+    "start_row": 1768,
+    "name": "Saving Grace",
+    "desc": "Brings the user back to life with 50% HP when beaten in battle once in a while."
+  },
+  {
+    "slot": 222,
+    "start_row": 1776,
+    "name": "Amazing Grace",
+    "desc": "Brings the user back to life with 50% HP when beaten in battle reasonably often."
+  },
+  {
+    "slot": 223,
+    "start_row": 1784,
+    "name": "Leafless Lifeline",
+    "desc": "Occasionally revives an ally without consuming an Yggdrasil leaf."
+  },
+  {
+    "slot": 224,
+    "start_row": 1792,
+    "name": "Sweet Spot Swatter",
+    "desc": "Increases critical hit chance when attacking an enemy's weak spot."
+  },
+  {
+    "slot": 225,
+    "start_row": 1800,
+    "name": "Knack of Kazapple",
+    "desc": "Allows the use of the incredible Kazapple spell."
+  },
+  {
+    "slot": 226,
+    "start_row": 1808,
+    "name": "Experience +5<FK>",
+    "desc": "Increases experience earned when defeating enemies by 5%."
+  },
+  {
+    "slot": 227,
+    "start_row": 1816,
+    "name": "Experience +10<FK>",
+    "desc": "Increases experience earned when defeating enemies by 10%."
+  },
+  {
+    "slot": 228,
+    "start_row": 1824,
+    "name": "Critical Bump",
+    "desc": "Slightly increases critical hit chance."
+  },
+  {
+    "slot": 229,
+    "start_row": 1832,
+    "name": "Critical Jump",
+    "desc": "Substantially increases critical hit chance."
+  },
+  {
+    "slot": 230,
+    "start_row": 1840,
+    "name": "Spell Surge",
+    "desc": "Slightly increases critical spell chance."
+  },
+  {
+    "slot": 231,
+    "start_row": 1848,
+    "name": "Spell Splurge",
+    "desc": "Substantially increases critical spell chance."
+  },
+  {
+    "slot": 232,
+    "start_row": 1856,
+    "name": "Spell Resistance +10<FK>",
+    "desc": "Reduces damage from enemy spells by 10%."
+  },
+  {
+    "slot": 233,
+    "start_row": 1864,
+    "name": "Breath Resistance +5<FK>",
+    "desc": "Reduces damage from enemy breath attacks by 10%."
+  },
+  {
+    "slot": 234,
+    "start_row": 1872,
+    "name": "Coup de Grâce Damage +3<FK>",
+    "desc": "Increases coup de grâce damage by 3%."
+  },
+  {
+    "slot": 235,
+    "start_row": 1880,
+    "name": "Coup de Grâce Damage +7<FK>",
+    "desc": "Increases coup de grâce damage by 7%."
+  },
+  {
+    "slot": 236,
+    "start_row": 1888,
+    "name": "Attack +5",
+    "desc": "Increases attack power by five points."
+  },
+  {
+    "slot": 237,
+    "start_row": 1896,
+    "name": "Attack +10",
+    "desc": "Increases attack power by ten points."
+  },
+  {
+    "slot": 238,
+    "start_row": 1904,
+    "name": "Attack +15",
+    "desc": "Increases attack power by fifteen points."
+  },
+  {
+    "slot": 239,
+    "start_row": 1912,
+    "name": "Attack +20",
+    "desc": "Increases attack power by twenty points."
+  },
+  {
+    "slot": 240,
+    "start_row": 1920,
+    "name": "Defence +5",
+    "desc": "Increases defence by five points."
+  },
+  {
+    "slot": 241,
+    "start_row": 1928,
+    "name": "Defence +10",
+    "desc": "Increases defence by ten points."
+  },
+  {
+    "slot": 242,
+    "start_row": 1936,
+    "name": "Defence +15",
+    "desc": "Increases defence by fifteen points."
+  },
+  {
+    "slot": 243,
+    "start_row": 1944,
+    "name": "Defence +20",
+    "desc": "Increases defence by twenty points."
+  },
+  {
+    "slot": 244,
+    "start_row": 1952,
+    "name": "Fighting Fit I",
+    "desc": "Increases maximum HP by four."
+  },
+  {
+    "slot": 245,
+    "start_row": 1960,
+    "name": "Refined Mind I",
+    "desc": "Increases maximum MP by two."
+  },
+  {
+    "slot": 246,
+    "start_row": 1968,
+    "name": "Sage's Spirit I",
+    "desc": "Increases magical might by six points."
+  },
+  {
+    "slot": 247,
+    "start_row": 1976,
+    "name": "Strong Arm I",
+    "desc": "Increases strength by two points."
+  },
+  {
+    "slot": 248,
+    "start_row": 1984,
+    "name": "Thick-Skinned I",
+    "desc": "Increases resilience by two points."
+  },
+  {
+    "slot": 249,
+    "start_row": 1992,
+    "name": "Critical Faculties I",
+    "desc": "Slightly increases critical hit chance."
+  },
+  {
+    "slot": 250,
+    "start_row": 2000,
+    "name": "Boogie Knights",
+    "desc": "Slowly gain tension when dancing."
+  },
+  {
+    "slot": 251,
+    "start_row": 2008,
+    "name": "Magic Touch I",
+    "desc": "Slightly increases critical spell chance."
+  },
+  {
+    "slot": 252,
+    "start_row": 2016,
+    "name": "Fighting Fit II",
+    "desc": "Increases maximum HP by ten."
+  },
+  {
+    "slot": 253,
+    "start_row": 2024,
+    "name": "Refined Mind II",
+    "desc": "Increases maximum MP by five."
+  },
+  {
+    "slot": 254,
+    "start_row": 2032,
+    "name": "Sage's Spirit II",
+    "desc": "Increases magical might by fourteen points."
+  },
+  {
+    "slot": 255,
+    "start_row": 2040,
+    "name": "Strong Arm II",
+    "desc": "Increases strength by five points."
+  },
+  {
+    "slot": 256,
+    "start_row": 2048,
+    "name": "Thick-Skinned II",
+    "desc": "Increases resilience by five points."
+  },
+  {
+    "slot": 257,
+    "start_row": 2056,
+    "name": "Critical Faculties II",
+    "desc": "Substantially increases critical hit chance."
+  },
+  {
+    "slot": 258,
+    "start_row": 2064,
+    "name": "Sweet Dreams",
+    "desc": "Slowly recover HP when sleeping."
+  },
+  {
+    "slot": 259,
+    "start_row": 2072,
+    "name": "Magic Touch II",
+    "desc": "Substantially increases critical spell chance."
+  },
+  {
+    "slot": 260,
+    "start_row": 2080,
+    "name": "Fighting Fit III",
+    "desc": "Increases maximum HP by sixteen."
+  },
+  {
+    "slot": 261,
+    "start_row": 2088,
+    "name": "Refined Mind III",
+    "desc": "Increases maximum MP by eight."
+  },
+  {
+    "slot": 262,
+    "start_row": 2096,
+    "name": "Sage's Spirit III",
+    "desc": "Increases magical might by twenty-two points."
+  },
+  {
+    "slot": 263,
+    "start_row": 2104,
+    "name": "Strong Arm III",
+    "desc": "Increases strength by eight points."
+  },
+  {
+    "slot": 264,
+    "start_row": 2112,
+    "name": "Thick-Skinned III",
+    "desc": "Increases resilience by eight points."
+  },
+  {
+    "slot": 265,
+    "start_row": 2120,
+    "name": "Critical Faculties III",
+    "desc": "Significantly increases critical hit chance."
+  },
+  {
+    "slot": 266,
+    "start_row": 2128,
+    "name": "Fighting Dirty",
+    "desc": "Increases critical hit chance when attacking an enemy's weak spot."
+  },
+  {
+    "slot": 267,
+    "start_row": 2136,
+    "name": "Magic Touch III",
+    "desc": "Significantly increases critical spell chance."
+  },
+  {
+    "slot": 268,
+    "start_row": 2144,
+    "name": "Stunning Revelation",
+    "desc": "Increases chance of staggering enemies when attacking."
+  },
+  {
+    "slot": 269,
+    "start_row": 2152,
+    "name": "Cheap Tricks",
+    "desc": "Reduces the MP cost of using tag tricks."
+  },
+  {
+    "slot": 270,
+    "start_row": 2160,
+    "name": "Dead Wringer",
+    "desc": "Increases the chance of defeated enemies dropping magic water."
+  },
+  {
+    "slot": 271,
+    "start_row": 2168,
+    "name": "The Emperor",
+    "desc": "Increases experience earned at the price of proficiency."
+  },
+  {
+    "slot": 272,
+    "start_row": 2176,
+    "name": "Speculate to Accumulate",
+    "desc": "Increases experience earned, but gets you less gold."
+  },
+  {
+    "slot": 273,
+    "start_row": 2184,
+    "name": "Vim for Vendetta",
+    "desc": "Increases tension when an ally is defeated."
+  },
+  {
+    "slot": 274,
+    "start_row": 2192,
+    "name": "Wild at Heart",
+    "desc": "Increases the strength of the creatures you become when using monster medals."
+  },
+  {
+    "slot": 275,
+    "start_row": 2200,
+    "name": "Ragin' Contagion",
+    "desc": "Occasionally inflicts the ailments affecting you on attacking enemies."
+  },
+  {
+    "slot": 276,
+    "start_row": 2208,
+    "name": "Back-Foot Brawler",
+    "desc": "Increases damage inflicted on enemies when afflicted with status ailments."
+  },
+  {
+    "slot": 277,
+    "start_row": 2216,
+    "name": "Power at a Price",
+    "desc": "Increases magical might at the expense of HP."
+  },
+  {
+    "slot": 278,
+    "start_row": 2224,
+    "name": "Herbal Supplement",
+    "desc": "Increases the chance of defeated enemies dropping medicinal herbs."
+  },
+  {
+    "slot": 279,
+    "start_row": 2232,
+    "name": "Adventure Capitalists",
+    "desc": "Increases gold earned at the expense of experience."
+  },
+  {
+    "slot": 280,
+    "start_row": 2240,
+    "name": "Weaver of Wards",
+    "desc": "Increases magical resistance by 5%."
+  },
+  {
+    "slot": 281,
+    "start_row": 2248,
+    "name": "Wizard of Wards",
+    "desc": "Increases magical resistance by 10%."
+  },
+  {
+    "slot": 282,
+    "start_row": 2256,
+    "name": "Breath Freshener",
+    "desc": "Increases breath resistance by 5%."
+  },
+  {
+    "slot": 283,
+    "start_row": 2264,
+    "name": "Breath Banisher",
+    "desc": "Increases breath resistance by 10%."
+  },
+  {
+    "slot": 284,
+    "start_row": 2272,
+    "name": "Hysterical Strength",
+    "desc": "Increases attack power when low on HP."
+  },
+  {
+    "slot": 285,
+    "start_row": 2280,
+    "name": "Last Hurrah",
+    "desc": "Increases critical hit chance when low on HP."
+  },
+  {
+    "slot": 286,
+    "start_row": 2288,
+    "name": "Last Stand",
+    "desc": "Increases defence when low on HP."
+  },
+  {
+    "slot": 287,
+    "start_row": 2296,
+    "name": "Hypercritical",
+    "desc": "Increases damage dealt by critical hits."
+  },
+  {
+    "slot": 288,
+    "start_row": 2304,
+    "name": "Criticaster",
+    "desc": "Increases damage dealt by critical spells."
+  },
+  {
+    "slot": 289,
+    "start_row": 2312,
+    "name": "Phalanx",
+    "desc": "Significantly reduces damage taken when successfully defending."
+  },
+  {
+    "slot": 290,
+    "start_row": 2320,
+    "name": "Paladin's Palisade",
+    "desc": "Occasionally completely cancels out damage done by enemies."
+  },
+  {
+    "slot": 291,
+    "start_row": 2328,
+    "name": "Psychosoma",
+    "desc": "Regain HP when damaged while MP is full."
+  },
+  {
+    "slot": 292,
+    "start_row": 2336,
+    "name": "Divine Intervention",
+    "desc": "Occasionally survive a fatal strike with a single HP to spare."
+  },
+  {
+    "slot": 293,
+    "start_row": 2344,
+    "name": "Ailment Curtailment",
+    "desc": "Occasionally ignore status ailments."
+  },
+  {
+    "slot": 294,
+    "start_row": 2352,
+    "name": "Firm-Footed",
+    "desc": "Makes it harder for enemy attacks to knock you back."
+  },
+  {
+    "slot": 295,
+    "start_row": 2360,
+    "name": "Free Spirit",
+    "desc": "Causes 4% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 296,
+    "start_row": 2368,
+    "name": "Wing Clipper",
+    "desc": "Increases damage against flying enemies."
+  },
+  {
+    "slot": 297,
+    "start_row": 2376,
+    "name": "Special Effects Artist",
+    "desc": "Increases the chance of inflicting status ailments on enemies."
+  },
+  {
+    "slot": 298,
+    "start_row": 2384,
+    "name": "Monster Wrangler",
+    "desc": "Increases the strength of monster minions."
+  },
+  {
+    "slot": 299,
+    "start_row": 2392,
+    "name": "Animal Instinct",
+    "desc": "Increases the duration of substitute-type monster medals."
+  },
+  {
+    "slot": 300,
+    "start_row": 2400,
+    "name": "Concrete Block",
+    "desc": "Slightly reduces damage taken when successfully defending."
+  },
+  {
+    "slot": 301,
+    "start_row": 2408,
+    "name": "Good Grief",
+    "desc": "Temporarily increases attack power when an ally is defeated."
+  },
+  {
+    "slot": 302,
+    "start_row": 2416,
+    "name": "Brains Over Brawn",
+    "desc": "Increases MP at the expense of HP."
+  },
+  {
+    "slot": 303,
+    "start_row": 2424,
+    "name": "Immune to Criticism",
+    "desc": "Occasionally disregards damage taken from enemy critical hits."
+  },
+  {
+    "slot": 304,
+    "start_row": 2432,
+    "name": "Double Dose",
+    "desc": "Doubles the effect of medicinal herbs and magic water."
+  },
+  {
+    "slot": 305,
+    "start_row": 2440,
+    "name": "Good Mourning",
+    "desc": "Temporarily increases defence when an ally is defeated."
+  },
+  {
+    "slot": 306,
+    "start_row": 2448,
+    "name": "Schizofanic",
+    "desc": "Slightly increases evasion."
+  },
+  {
+    "slot": 307,
+    "start_row": 2456,
+    "name": "Attack +5 with Twin Swords",
+    "desc": "Increases attack power by five points when wielding twin swords."
+  },
+  {
+    "slot": 308,
+    "start_row": 2464,
+    "name": "Attack +5 with Swords",
+    "desc": "Increases attack power by five points when wielding swords."
+  },
+  {
+    "slot": 309,
+    "start_row": 2472,
+    "name": "Attack +5 with Greatswords",
+    "desc": "Increases attack power by five points when wielding greatswords."
+  },
+  {
+    "slot": 310,
+    "start_row": 2480,
+    "name": "Attack +5 with Axes",
+    "desc": "Increases attack power by five points when wielding axes."
+  },
+  {
+    "slot": 311,
+    "start_row": 2488,
+    "name": "Attack +5 with Gauntlets",
+    "desc": "Increases attack power by five points when wielding gauntlets."
+  },
+  {
+    "slot": 312,
+    "start_row": 2496,
+    "name": "Attack +5 with Spears",
+    "desc": "Increases attack power by five points when wielding spears."
+  },
+  {
+    "slot": 313,
+    "start_row": 2504,
+    "name": "Attack +5 with Abacuses",
+    "desc": "Increases attack power by five points when wielding abacuses."
+  },
+  {
+    "slot": 314,
+    "start_row": 2512,
+    "name": "Attack +5 with Cards",
+    "desc": "Increases attack power by five points when wielding cards."
+  },
+  {
+    "slot": 315,
+    "start_row": 2520,
+    "name": "Attack +5 with Fans",
+    "desc": "Increases attack power by five points when wielding fans."
+  },
+  {
+    "slot": 316,
+    "start_row": 2528,
+    "name": "Attack +5 with Boomerangs",
+    "desc": "Increases attack power by five points when wielding boomerangs."
+  },
+  {
+    "slot": 317,
+    "start_row": 2536,
+    "name": "Attack +5 with Claws",
+    "desc": "Increases attack power by five points when wielding claws."
+  },
+  {
+    "slot": 318,
+    "start_row": 2544,
+    "name": "Attack +5 with Bows",
+    "desc": "Increases attack power by five points when wielding bows."
+  },
+  {
+    "slot": 319,
+    "start_row": 2552,
+    "name": "Attack +5 with Whips",
+    "desc": "Increases attack power by five points when wielding whips."
+  },
+  {
+    "slot": 320,
+    "start_row": 2560,
+    "name": "Magic +10 with Wands",
+    "desc": "Increases magical might by ten points when wielding wands."
+  },
+  {
+    "slot": 321,
+    "start_row": 2568,
+    "name": "Magic +10 with Heavy Wands",
+    "desc": "Increases magical might by ten points when wielding heavy wands."
+  },
+  {
+    "slot": 322,
+    "start_row": 2576,
+    "name": "Attack +5 with Staves",
+    "desc": "Increases attack power by five points when wielding staves."
+  },
+  {
+    "slot": 323,
+    "start_row": 2584,
+    "name": "Block Bonus with Swords",
+    "desc": "Slightly increases block effectiveness when wielding swords."
+  },
+  {
+    "slot": 324,
+    "start_row": 2592,
+    "name": "Quickfire Frizz",
+    "desc": ""
+  },
+  {
+    "slot": 325,
+    "start_row": 2600,
+    "name": "Improved Block Effectivess",
+    "desc": "Slightly increases block effectiveness."
+  },
+  {
+    "slot": 326,
+    "start_row": 2608,
+    "name": "Attack +20 with Twin Swords",
+    "desc": "Increases attack power by twenty points when wielding twin swords."
+  },
+  {
+    "slot": 327,
+    "start_row": 2616,
+    "name": "Evasion Bonus with Twin Swords",
+    "desc": "Slightly increases evasion when wielding twin swords."
+  },
+  {
+    "slot": 328,
+    "start_row": 2624,
+    "name": "Deftness +10 with Twin Swords",
+    "desc": "Increases deftness by ten points when wielding twin swords."
+  },
+  {
+    "slot": 329,
+    "start_row": 2632,
+    "name": "Attack +20 with Swords",
+    "desc": "Increases attack power by twenty points when wielding swords."
+  },
+  {
+    "slot": 330,
+    "start_row": 2640,
+    "name": "Deftness +10 with Swords",
+    "desc": "Increases deftness by ten points when wielding swords."
+  },
+  {
+    "slot": 331,
+    "start_row": 2648,
+    "name": "Endless Miracle Moon",
+    "desc": "Summons a storm of sickles that lasts for a long, long time."
+  },
+  {
+    "slot": 332,
+    "start_row": 2656,
+    "name": "Endless Maelstrom",
+    "desc": "Creates a vast vortex that sucks in surrounding monsters indefinitely."
+  },
+  {
+    "slot": 333,
+    "start_row": 2664,
+    "name": "Quickfire Frizzle",
+    "desc": ""
+  },
+  {
+    "slot": 334,
+    "start_row": 2672,
+    "name": "Quickfire Kafrizz",
+    "desc": ""
+  },
+  {
+    "slot": 335,
+    "start_row": 2680,
+    "name": "Quickfire Sizz",
+    "desc": ""
+  },
+  {
+    "slot": 336,
+    "start_row": 2688,
+    "name": "Quickfire Sizzle",
+    "desc": ""
+  },
+  {
+    "slot": 337,
+    "start_row": 2696,
+    "name": "Quickfire Kasizz",
+    "desc": ""
+  },
+  {
+    "slot": 338,
+    "start_row": 2704,
+    "name": "Quickfire Woosh",
+    "desc": ""
+  },
+  {
+    "slot": 339,
+    "start_row": 2712,
+    "name": "Quickfire Swoosh",
+    "desc": ""
+  },
+  {
+    "slot": 340,
+    "start_row": 2720,
+    "name": "Quickfire Kaswoosh",
+    "desc": ""
+  },
+  {
+    "slot": 341,
+    "start_row": 2728,
+    "name": "Quickfire Zam",
+    "desc": ""
+  },
+  {
+    "slot": 342,
+    "start_row": 2736,
+    "name": "Quickfire Zammle",
+    "desc": ""
+  },
+  {
+    "slot": 343,
+    "start_row": 2744,
+    "name": "Quickfire Kazammle",
+    "desc": ""
+  },
+  {
+    "slot": 344,
+    "start_row": 2752,
+    "name": "Quickfire Zap",
+    "desc": ""
+  },
+  {
+    "slot": 345,
+    "start_row": 2760,
+    "name": "Quickfire Zapple",
+    "desc": ""
+  },
+  {
+    "slot": 346,
+    "start_row": 2768,
+    "name": "Quickfire Kazap",
+    "desc": ""
+  },
+  {
+    "slot": 347,
+    "start_row": 2776,
+    "name": "Cancel Quickfire",
+    "desc": ""
+  },
+  {
+    "slot": 348,
+    "start_row": 2784,
+    "name": "Hatchet Man Hardener",
+    "desc": "Extends the area of effect of <C9>Hatchet Man<R.>"
+  },
+  {
+    "slot": 349,
+    "start_row": 2792,
+    "name": "Rampage Refiner",
+    "desc": "Enables you to evade attacks while using <C9>Rampage<R.>"
+  },
+  {
+    "slot": 350,
+    "start_row": 2800,
+    "name": "Scrap Mettle Extender",
+    "desc": "Increases the duration of <C9>Scrap Mettle<R.>"
+  },
+  {
+    "slot": 351,
+    "start_row": 2808,
+    "name": "Jolly Rager Jumpstarter",
+    "desc": "Extends the area of effect of <C9>Jolly Rager<R.>"
+  },
+  {
+    "slot": 352,
+    "start_row": 2816,
+    "name": "Knuckle Sandwich Filler",
+    "desc": "Enables you to unleash a more powerful <C9>Knuckle Sandwich<R >by holding down <P2>."
+  },
+  {
+    "slot": 353,
+    "start_row": 2824,
+    "name": "Knuckle Sandwich Spreader",
+    "desc": "Enables you to evade attacks even while holding <P2> to charge up a <C9>Knuckle Sandwich<R.>"
+  },
+  {
+    "slot": 354,
+    "start_row": 2832,
+    "name": "Divide Booster",
+    "desc": "Increases the chance that <C9>Divide<R >will activate."
+  },
+  {
+    "slot": 355,
+    "start_row": 2840,
+    "name": "Counter-Productive",
+    "desc": "Receive a tension boost every time you execute <C9>Counterstriker<R >perfectly."
+  },
+  {
+    "slot": 356,
+    "start_row": 2848,
+    "name": "Quick Kick Quickener",
+    "desc": "Enables you to extend <C9>Quick Kick<R >to include more attacks by using <P2>."
+  },
+  {
+    "slot": 357,
+    "start_row": 2856,
+    "name": "Multifists Multiplier",
+    "desc": "Enables you to have <C9>Multifists<R >inflict more hits by repeatedly bashing the button."
+  },
+  {
+    "slot": 358,
+    "start_row": 2864,
+    "name": "Multifists Maximiser",
+    "desc": "Enables you to have <C9>Multifists<R >inflict even more hits by repeatedly bashing the button."
+  },
+  {
+    "slot": 359,
+    "start_row": 2872,
+    "name": "Divide and Conquer Booster",
+    "desc": "Makes the doubles produced by <C9>Divide and Conquer<R >last even longer."
+  },
+  {
+    "slot": 360,
+    "start_row": 2880,
+    "name": "Air Raiser Extender",
+    "desc": "Extends the area of effect of <C9>Air Raiser<R.>"
+  },
+  {
+    "slot": 361,
+    "start_row": 2888,
+    "name": "Bubble Burster",
+    "desc": "Causes <C9>Bang<R->type spells to make <C9>Hubble Bubble<R'>s bubbles explode."
+  },
+  {
+    "slot": 362,
+    "start_row": 2896,
+    "name": "Hubble Bubble Booster",
+    "desc": "Makes <C9>Hubble Bubble<R'>s bubbles bigger."
+  },
+  {
+    "slot": 363,
+    "start_row": 2904,
+    "name": "Hubble Bubble Extender",
+    "desc": "Makes <C9>Hubble Bubble<R'>s bubbles last longer."
+  },
+  {
+    "slot": 364,
+    "start_row": 2912,
+    "name": "Magic Mirror",
+    "desc": "Defend at just the right moment to reflect enemy spells."
+  },
+  {
+    "slot": 365,
+    "start_row": 2920,
+    "name": "Maelstrom Extender",
+    "desc": "Extends the area of effect of <C9>Maelstrom<R.>"
+  },
+  {
+    "slot": 366,
+    "start_row": 2928,
+    "name": "Cheer Leader Lengthener",
+    "desc": "Increases the duration of <C9>Cheer Leader<R.>"
+  },
+  {
+    "slot": 367,
+    "start_row": 2936,
+    "name": "Serpent's Bite Sharpener",
+    "desc": "Extends the area of effect of <C9>Serpent's Bite<R.>"
+  },
+  {
+    "slot": 368,
+    "start_row": 2944,
+    "name": "Hexorcism",
+    "desc": "Defend at just the right moment to reflect enemy spells."
+  },
+  {
+    "slot": 369,
+    "start_row": 2952,
+    "name": "Whipcrackle Extender",
+    "desc": "Extends the area of effect of <C9>Whipcrackle<R.>"
+  },
+  {
+    "slot": 370,
+    "start_row": 2960,
+    "name": "Wonder Wall Widener",
+    "desc": "Extends the area of effect of <C9>Wonder Wall<R.>"
+  },
+  {
+    "slot": 371,
+    "start_row": 2968,
+    "name": "Thunder Thrust Thickener",
+    "desc": "Hold <P2> to charge up <C9>Thunder Thrust<R >to an even more powerful attack."
+  },
+  {
+    "slot": 372,
+    "start_row": 2976,
+    "name": "Multithrust Multiplier",
+    "desc": "Increases the number of times <C9>Multithrust<R >strikes."
+  },
+  {
+    "slot": 373,
+    "start_row": 2984,
+    "name": "Stepping Up",
+    "desc": "Allows you to <C9>backstep<R >and <C9>sidestep<R >more times in succession."
+  },
+  {
+    "slot": 374,
+    "start_row": 2992,
+    "name": "Stepping Out",
+    "desc": "Allows you to <C9>backstep<R >and <C9>sidestep<R >many more times in succession."
+  },
+  {
+    "slot": 375,
+    "start_row": 3000,
+    "name": "A Step Ahead",
+    "desc": "Allows forward steps in addition to sidesteps."
+  },
+  {
+    "slot": 376,
+    "start_row": 3008,
+    "name": "Bigger Backsteps",
+    "desc": "Enables you to increase your backstepping distance by holding <PJ>."
+  },
+  {
+    "slot": 377,
+    "start_row": 3016,
+    "name": "Lightning Conductor Booster",
+    "desc": "Extends the area of effect of <C9>Lightning Conductor<R.>"
+  },
+  {
+    "slot": 378,
+    "start_row": 3024,
+    "name": "Spear of Influence Extender",
+    "desc": "Increases the duration of <C9>Spear of Influence<R.>"
+  },
+  {
+    "slot": 379,
+    "start_row": 3032,
+    "name": "Vicious Volley Extender",
+    "desc": "Extends the effective range of <C9>Vicious Volley<R.>"
+  },
+  {
+    "slot": 380,
+    "start_row": 3040,
+    "name": "Explosive Arrow Enhancer",
+    "desc": "Enhances the intensity of <C9>Explosive Arrow<R.>"
+  },
+  {
+    "slot": 381,
+    "start_row": 3048,
+    "name": "Turbo Shaft",
+    "desc": "Hold <P3> even longer to fire a mighty magic arrow."
+  },
+  {
+    "slot": 382,
+    "start_row": 3056,
+    "name": "Turbo Shaft Extender",
+    "desc": "Extends the effective range of <C9>Turbo Shaft<R.>"
+  },
+  {
+    "slot": 383,
+    "start_row": 3064,
+    "name": "Harvest Moon Enhancer",
+    "desc": "Hold <P3> after using <C9>Harvest Moon<R >to fire arrows while landing."
+  },
+  {
+    "slot": 384,
+    "start_row": 3072,
+    "name": "Shining Shot Sharpener",
+    "desc": "Extends the area of effect of <C9>Shining Shot<R.>"
+  },
+  {
+    "slot": 385,
+    "start_row": 3080,
+    "name": "Hyper Sniper Hyper",
+    "desc": "Extends the area of effect of <C9>Hyper Sniper<R.>"
+  },
+  {
+    "slot": 386,
+    "start_row": 3088,
+    "name": "Rain of Pain Redux",
+    "desc": "Hold <P2> during <C9>Rain of Pain<R >to target multiple monsters."
+  },
+  {
+    "slot": 387,
+    "start_row": 3096,
+    "name": "Skyward Slash",
+    "desc": "Hold <P2> after using <C9>Rising Slice<R >to jump upwards."
+  },
+  {
+    "slot": 388,
+    "start_row": 3104,
+    "name": "Blizzard Slash Strengthener",
+    "desc": "Hold <P2> after using <C9>Blizzard Slash<R >to increase the number of attacks."
+  },
+  {
+    "slot": 389,
+    "start_row": 3112,
+    "name": "Blizzard Slash Supercharger",
+    "desc": "Hold <P2> after using <C9>Blizzard Slash<R >to increase the number of attacks even more."
+  },
+  {
+    "slot": 390,
+    "start_row": 3120,
+    "name": "Cold Fission Extender",
+    "desc": "Extends the area of effect of <C9>Cold Fission<R.>"
+  },
+  {
+    "slot": 391,
+    "start_row": 3128,
+    "name": "Frost Fang Frenzifier",
+    "desc": "Hold down the button when using <C9>Frost Fang<R >to hit monsters multiple times."
+  },
+  {
+    "slot": 392,
+    "start_row": 3136,
+    "name": "Skyward Slice",
+    "desc": "Hold <P2> during <C9>Rising Slice<R >to unleash a jumping attack."
+  },
+  {
+    "slot": 393,
+    "start_row": 3144,
+    "name": "Somersault Slice",
+    "desc": "Hold <P3> in mid-air to bounce off enemies in a spinning flip."
+  },
+  {
+    "slot": 394,
+    "start_row": 3152,
+    "name": "Robust Thrust Plus",
+    "desc": "Enables you to deflect enemy attacks during the beginning of <C9>Robust Thrust<R.>"
+  },
+  {
+    "slot": 395,
+    "start_row": 3160,
+    "name": "Searing Slash Strengthener",
+    "desc": "Hold <P2> during <C9>Searing Slash<R >to deal more damage."
+  },
+  {
+    "slot": 396,
+    "start_row": 3168,
+    "name": "Rebuttal",
+    "desc": "Block a blow at the right moment to send the attack back where it came from."
+  },
+  {
+    "slot": 397,
+    "start_row": 3176,
+    "name": "Stinging Rebuttal",
+    "desc": "Earn a tension boost every time you execute a perfect <C9>Rebuttal<R.>"
+  },
+  {
+    "slot": 398,
+    "start_row": 3184,
+    "name": "Inferno Slash Extender",
+    "desc": "Extends the area of effect of <C9>Inferno Slash<R.>"
+  },
+  {
+    "slot": 399,
+    "start_row": 3192,
+    "name": "Flame Slash Fueller",
+    "desc": "Hold <P2> during <C9>Flame Slash<R >to attack multiple times."
+  },
+  {
+    "slot": 400,
+    "start_row": 3200,
+    "name": "Drain Magic Deepener",
+    "desc": "Increases the amount of MP purloined by <C9>Drain Magic<R.>"
+  },
+  {
+    "slot": 401,
+    "start_row": 3208,
+    "name": "Magic Bullet Burnisher",
+    "desc": "Extends the area of effect of <C9>Magic Bullet<R.>"
+  },
+  {
+    "slot": 402,
+    "start_row": 3216,
+    "name": "Magic Bullet Bolsterer",
+    "desc": "Extends the range of <C9>Magic Bullet<R.>"
+  },
+  {
+    "slot": 403,
+    "start_row": 3224,
+    "name": "Whirlier Burlier",
+    "desc": "Allows you to unleash <C9>Whirly Burly<R >three times in succession."
+  },
+  {
+    "slot": 404,
+    "start_row": 3232,
+    "name": "Whirliest Burliest",
+    "desc": "Allows you to unleash <C9>Whirly Burly<R >four times in succession."
+  },
+  {
+    "slot": 405,
+    "start_row": 3240,
+    "name": "Throwdown",
+    "desc": "Press <P2> or <P3> to perform a <C9>Throwdown<R.>"
+  },
+  {
+    "slot": 406,
+    "start_row": 3248,
+    "name": "Party Pooper",
+    "desc": "Press <P3> after unleashing <C9>Whirly Burly<R >to blow foes away."
+  },
+  {
+    "slot": 407,
+    "start_row": 3256,
+    "name": "Nature's Fury Furtherer",
+    "desc": "Makes the meteor-fall longer when unleashing <C9>Nature's Fury<R.>"
+  },
+  {
+    "slot": 408,
+    "start_row": 3264,
+    "name": "Kabuff Extender",
+    "desc": "Makes the effect of <C9>Kabuff<R >last even longer."
+  },
+  {
+    "slot": 409,
+    "start_row": 3272,
+    "name": "Meditation Magnifier",
+    "desc": "Increases the amount of HP healed by <C9>Meditation<R.>"
+  },
+  {
+    "slot": 410,
+    "start_row": 3280,
+    "name": "Oomph Extender",
+    "desc": "Makes the effect of <C9>Oomph<R >last longer."
+  },
+  {
+    "slot": 411,
+    "start_row": 3288,
+    "name": "Go-Go Dancer",
+    "desc": "Makes it easier to continue a combo after inflicting 100 hits."
+  },
+  {
+    "slot": 412,
+    "start_row": 3296,
+    "name": "Charm-Cha-Cha",
+    "desc": "Increases evasion when a combo of 100 hits or more is achieved."
+  },
+  {
+    "slot": 413,
+    "start_row": 3304,
+    "name": "Aerial Evader",
+    "desc": "Allows dodging in mid-air when a combo of 100 hits or more is achieved."
+  },
+  {
+    "slot": 414,
+    "start_row": 3312,
+    "name": "Sultry Dance Extender",
+    "desc": "Extends the area of effect of <C9>Sultry Dance<R.>"
+  },
+  {
+    "slot": 415,
+    "start_row": 3320,
+    "name": "Hustle Dance Bolsterer",
+    "desc": "Slightly increases the amount of HP restored by <C9>Hustle Dance<R.>"
+  },
+  {
+    "slot": 416,
+    "start_row": 3328,
+    "name": "Hustle Dance Booster",
+    "desc": "Greatly increases the amount of HP restored by <C9>Hustle Dance<R.>"
+  },
+  {
+    "slot": 417,
+    "start_row": 3336,
+    "name": "Vacuum Slash Extender",
+    "desc": "Extends the area of effect of <C9>Vacuum Slash<R.>"
+  },
+  {
+    "slot": 418,
+    "start_row": 3344,
+    "name": "Falcon Slash Strengthener",
+    "desc": "Increases the number of doubles created by <C9>Falcon Slash<R.>"
+  },
+  {
+    "slot": 419,
+    "start_row": 3352,
+    "name": "Firebird Throw Extender",
+    "desc": "Makes <C9>Firebird Throw<R >last longer."
+  },
+  {
+    "slot": 420,
+    "start_row": 3360,
+    "name": "Punchier Punches",
+    "desc": "Increases the chance of a critical hit when holding <P3> to attack."
+  },
+  {
+    "slot": 421,
+    "start_row": 3368,
+    "name": "Kick Thickener",
+    "desc": "Increases the chance of a critical hit when holding <P2> to attack."
+  },
+  {
+    "slot": 422,
+    "start_row": 3376,
+    "name": "Air Raiser Extender",
+    "desc": "Extends the area of effect of <C9>Air Raiser<R.>"
+  },
+  {
+    "slot": 423,
+    "start_row": 3384,
+    "name": "Muster Strength Multiplier",
+    "desc": "Increases the duration of <C9>Muster Strength<R.>"
+  },
+  {
+    "slot": 424,
+    "start_row": 3392,
+    "name": "Charge Extender",
+    "desc": "Extends the distance covered when performing a <C9>Charge<R.>"
+  },
+  {
+    "slot": 425,
+    "start_row": 3400,
+    "name": "Charge Enlarger",
+    "desc": "Extends the area of effect of <C9>Charge<R.>"
+  },
+  {
+    "slot": 426,
+    "start_row": 3408,
+    "name": "Charge Changer",
+    "desc": "Press <P2> while performing a <C9>Charge<R >to bust out a\\n<C9>Belly Barge<R.>"
+  },
+  {
+    "slot": 427,
+    "start_row": 3416,
+    "name": "Sage's Stone Strengthener",
+    "desc": "Increases the amount of HP healed by <C9>Sage's Stone<R.>"
+  },
+  {
+    "slot": 428,
+    "start_row": 3424,
+    "name": "Sage's Stone Supercharger",
+    "desc": "Further increases the amount of HP healed by <C9>Sage's Stone<R.>"
+  },
+  {
+    "slot": 429,
+    "start_row": 3432,
+    "name": "More Cross Claw",
+    "desc": "Hold <P2> after using <C9>Cross Claw<R >to perform even more attacks."
+  },
+  {
+    "slot": 430,
+    "start_row": 3440,
+    "name": "More Claw Combo",
+    "desc": "Hold <P2> after using <C9>Claw Combo<R >to perform even more attacks."
+  },
+  {
+    "slot": 431,
+    "start_row": 3448,
+    "name": "Doggy Dash Doubler",
+    "desc": "Hold <P2> after using <C9>Doggy Dash<R >to extend the distance covered."
+  },
+  {
+    "slot": 432,
+    "start_row": 3456,
+    "name": "Doggy Dash Redoubler",
+    "desc": "Hold <P2> after using <C9>Doggy Dash<R >to further extend the distance covered."
+  },
+  {
+    "slot": 433,
+    "start_row": 3464,
+    "name": "Ruff Rider Roughener",
+    "desc": "Increases the number of attacks in <C9>Ruff Rider<R.>"
+  },
+  {
+    "slot": 434,
+    "start_row": 3472,
+    "name": "Hardclaw Enhancer",
+    "desc": "Press the button repeatedly to perform more attacks when using <C9>Hardclaw<R.>"
+  },
+  {
+    "slot": 435,
+    "start_row": 3480,
+    "name": "Whistle Widener",
+    "desc": "Extends the area of effect of <C9>Whistle<R.>"
+  },
+  {
+    "slot": 436,
+    "start_row": 3488,
+    "name": "Tarot Throw Extender",
+    "desc": "Extends the range of <C9>Tarot Throw<R.>"
+  },
+  {
+    "slot": 437,
+    "start_row": 3496,
+    "name": "Tarot Throw Expander",
+    "desc": "Extends the area of effect of <C9>Tarot Throw<R.>"
+  },
+  {
+    "slot": 438,
+    "start_row": 3504,
+    "name": "Aerial Tarot Throw Extender",
+    "desc": "Extends the area of effect of <C9>Aerial Tarot Throw<R.>"
+  },
+  {
+    "slot": 439,
+    "start_row": 3512,
+    "name": "Empress Enhancer",
+    "desc": "Extends the area of effect of <C9>The Empress<R.>"
+  },
+  {
+    "slot": 440,
+    "start_row": 3520,
+    "name": "Fissure Slice Extender",
+    "desc": "Extends the area of effect of <C9>Fissure Slice<R.>"
+  },
+  {
+    "slot": 441,
+    "start_row": 3528,
+    "name": "Enchantment Enhancer",
+    "desc": "Extends the duration of elemental enchantments on weapons."
+  },
+  {
+    "slot": 442,
+    "start_row": 3536,
+    "name": "Artful Dodger",
+    "desc": "Slightly increases the period of invincibility after a successful evasion."
+  },
+  {
+    "slot": 443,
+    "start_row": 3544,
+    "name": "Ace Evader",
+    "desc": "Greatly increases the period of invincibility after a successful evasion."
+  },
+  {
+    "slot": 444,
+    "start_row": 3552,
+    "name": "Better Defence Boosts",
+    "desc": "Increases the effect of defence-boosting spells and abilities such as <C9>Kabuff<R.>"
+  },
+  {
+    "slot": 445,
+    "start_row": 3560,
+    "name": "Better Blocker",
+    "desc": "Slightly improves block effectiveness."
+  },
+  {
+    "slot": 446,
+    "start_row": 3568,
+    "name": "Occasional Auto-Block",
+    "desc": "Occasionally blocks enemy attacks automatically."
+  },
+  {
+    "slot": 447,
+    "start_row": 3576,
+    "name": "Death Defier",
+    "desc": "Occasionally resists instant death."
+  },
+  {
+    "slot": 448,
+    "start_row": 3584,
+    "name": "Grace Under Fire",
+    "desc": "Slowly restores MP when low on HP."
+  },
+  {
+    "slot": 449,
+    "start_row": 3592,
+    "name": "More Medicinal Herbs Dropped",
+    "desc": "Increases the chance of defeated enemies dropping medicinal herbs."
+  },
+  {
+    "slot": 450,
+    "start_row": 3600,
+    "name": "More Magic Water Dropped",
+    "desc": "Increases the chance of defeated enemies dropping magic water."
+  },
+  {
+    "slot": 451,
+    "start_row": 3608,
+    "name": "Longer Attack and Defence Boosts",
+    "desc": "Increases the duration of effects that increase defence or attack power."
+  },
+  {
+    "slot": 452,
+    "start_row": 3616,
+    "name": "Deftness +10 with Axes",
+    "desc": "Increases deftness by ten points when wielding axes."
+  },
+  {
+    "slot": 453,
+    "start_row": 3624,
+    "name": "Attack +20 with Axes",
+    "desc": "Increases attack power by twenty points when wielding axes."
+  },
+  {
+    "slot": 454,
+    "start_row": 3632,
+    "name": "Attack +20 with Spears",
+    "desc": "Increases attack power by twenty points when wielding spears."
+  },
+  {
+    "slot": 455,
+    "start_row": 3640,
+    "name": "Deftness +10 with Spears",
+    "desc": "Increases deftness by ten points when wielding spears."
+  },
+  {
+    "slot": 456,
+    "start_row": 3648,
+    "name": "Deftness +10 with Claws",
+    "desc": "Increases deftness by ten points when wielding claws."
+  },
+  {
+    "slot": 457,
+    "start_row": 3656,
+    "name": "Attack +20 with Claws",
+    "desc": "Increases attack power by twenty points when wielding claws."
+  },
+  {
+    "slot": 458,
+    "start_row": 3664,
+    "name": "Deftness +10 with Bows",
+    "desc": "Increases deftness by ten points when wielding bows."
+  },
+  {
+    "slot": 459,
+    "start_row": 3672,
+    "name": "Better Evasion with Bows",
+    "desc": "Slightly increases evasion when wielding bows."
+  },
+  {
+    "slot": 460,
+    "start_row": 3680,
+    "name": "Attack +20 with Bows",
+    "desc": "Increases attack power by twenty points when wielding bows."
+  },
+  {
+    "slot": 461,
+    "start_row": 3688,
+    "name": "Magic +10 with Whips",
+    "desc": "Increases magical might by ten points when wielding whips."
+  },
+  {
+    "slot": 462,
+    "start_row": 3696,
+    "name": "Magic +20 with Whips",
+    "desc": "Increases magical might by twenty points when wielding whips."
+  },
+  {
+    "slot": 463,
+    "start_row": 3704,
+    "name": "Attack +20 with Whips",
+    "desc": "Increases attack power by twenty points when wielding whips."
+  },
+  {
+    "slot": 464,
+    "start_row": 3712,
+    "name": "Max. MP +25 with Wands",
+    "desc": "Increases maximum MP by twenty-five when wielding wands."
+  },
+  {
+    "slot": 465,
+    "start_row": 3720,
+    "name": "Deftness +10 with Heavy Wands",
+    "desc": "Increases deftness by ten points when wielding heavy wands."
+  },
+  {
+    "slot": 466,
+    "start_row": 3728,
+    "name": "Occasional Auto-Block with Staves",
+    "desc": "Occasionally blocks enemy attacks automatically when wielding staves."
+  },
+  {
+    "slot": 467,
+    "start_row": 3736,
+    "name": "Defensive Effects Boosted with Staves",
+    "desc": "Slightly increases block effectiveness when wielding staves."
+  },
+  {
+    "slot": 468,
+    "start_row": 3744,
+    "name": "Attack +20 with Staves",
+    "desc": "Increases attack power by twenty points when wielding staves."
+  },
+  {
+    "slot": 469,
+    "start_row": 3752,
+    "name": "Max. HP +10 with Gauntlets",
+    "desc": "Increases maximum HP by ten when wielding gauntlets."
+  },
+  {
+    "slot": 470,
+    "start_row": 3760,
+    "name": "Deftness +10 with Gauntlets",
+    "desc": "Increases deftness by ten points when wielding gauntlets."
+  },
+  {
+    "slot": 471,
+    "start_row": 3768,
+    "name": "Attack +20 with Gauntlets",
+    "desc": "Increases attack power by twenty points when wielding gauntlets."
+  },
+  {
+    "slot": 472,
+    "start_row": 3776,
+    "name": "Magic +10 with Fans",
+    "desc": "Increases magical might by ten points when wielding fans."
+  },
+  {
+    "slot": 473,
+    "start_row": 3784,
+    "name": "Increased Evasion with Fans",
+    "desc": "Slightly increases evasion when wielding fans."
+  },
+  {
+    "slot": 474,
+    "start_row": 3792,
+    "name": "Deftness +10 with Fans",
+    "desc": "Increases deftness by ten points when wielding fans."
+  },
+  {
+    "slot": 475,
+    "start_row": 3800,
+    "name": "Attack +20 with Fans",
+    "desc": "Increases attack power by twenty points when wielding fans."
+  },
+  {
+    "slot": 476,
+    "start_row": 3808,
+    "name": "Magic +15 with Cards",
+    "desc": "Increases magical might by fifteen points when wielding cards."
+  },
+  {
+    "slot": 477,
+    "start_row": 3816,
+    "name": "Max. MP +10 with Cards",
+    "desc": "Increases maximum MP by ten when wielding cards."
+  },
+  {
+    "slot": 478,
+    "start_row": 3824,
+    "name": "Deftness +10 with Cards",
+    "desc": "Increases deftness by ten points when wielding cards."
+  },
+  {
+    "slot": 479,
+    "start_row": 3832,
+    "name": "Attack +20 with Cards",
+    "desc": "Increases attack power by twenty points when wielding cards."
+  },
+  {
+    "slot": 480,
+    "start_row": 3840,
+    "name": "Max. MP +10 with Whips",
+    "desc": "Increases maximum MP by ten when wielding whips."
+  },
+  {
+    "slot": 481,
+    "start_row": 3848,
+    "name": "Maximum MP +3",
+    "desc": "Increases maximum MP by three."
+  },
+  {
+    "slot": 482,
+    "start_row": 3856,
+    "name": "Magic +10 with Boomerangs",
+    "desc": "Increases magical might by ten points when wielding boomerangs."
+  },
+  {
+    "slot": 483,
+    "start_row": 3864,
+    "name": "Increased Evasion with Boomerangs",
+    "desc": "Slightly increases evasion when wielding boomerangs."
+  },
+  {
+    "slot": 484,
+    "start_row": 3872,
+    "name": "Max. MP +10 with Boomerangs",
+    "desc": "Increases maximum MP by ten when wielding boomerangs."
+  },
+  {
+    "slot": 485,
+    "start_row": 3880,
+    "name": "Attack +20 with Boomerangs",
+    "desc": "Increases attack power by twenty points when wielding boomerangs."
+  },
+  {
+    "slot": 486,
+    "start_row": 3888,
+    "name": "Max. HP +10 with Abacuses",
+    "desc": "Increases maximum HP by ten when wielding abacuses."
+  },
+  {
+    "slot": 487,
+    "start_row": 3896,
+    "name": "Deftness +10 with Abacuses",
+    "desc": "Increases deftness by ten points when wielding abacuses."
+  },
+  {
+    "slot": 488,
+    "start_row": 3904,
+    "name": "Attack +20 with Abacuses",
+    "desc": "Increases attack power by twenty points when wielding abacuses."
+  },
+  {
+    "slot": 489,
+    "start_row": 3912,
+    "name": "Increased Evasion with Claws",
+    "desc": "Slightly increases evasion when wielding claws."
+  },
+  {
+    "slot": 490,
+    "start_row": 3920,
+    "name": "Occasional Auto-Block with Greatswords",
+    "desc": "Occasionally blocks enemy attacks automatically when wielding greatswords."
+  },
+  {
+    "slot": 491,
+    "start_row": 3928,
+    "name": "Defensive Effects Boosted with Greatswords",
+    "desc": "Slightly increases block effectiveness when wielding greatswords."
+  },
+  {
+    "slot": 492,
+    "start_row": 3936,
+    "name": "Attack +20 with Greatswords",
+    "desc": "Increases attack power by twenty points when wielding greatswords."
+  },
+  {
+    "slot": 493,
+    "start_row": 3944,
+    "name": "Deftness +10 with Greatswords",
+    "desc": "Increases deftness by ten points when wielding greatswords."
+  },
+  {
+    "slot": 494,
+    "start_row": 3952,
+    "name": "Unblockable",
+    "desc": "Causes your attacks to connect even when an enemy is blocking."
+  },
+  {
+    "slot": 495,
+    "start_row": 3960,
+    "name": "Lone Wolf",
+    "desc": "Makes you do more damage the fewer people there are in your party."
+  },
+  {
+    "slot": 496,
+    "start_row": 3968,
+    "name": "Better Offensive Effects",
+    "desc": "Increases the effect of attack-boosting spells and abilities such as <C9>Oomph<R.>"
+  },
+  {
+    "slot": 497,
+    "start_row": 3976,
+    "name": "Increased Critical Damage",
+    "desc": "Increases the damage dealt by critical hits."
+  },
+  {
+    "slot": 498,
+    "start_row": 3984,
+    "name": "Increased Critical Spell Damage",
+    "desc": "Increases the damage dealt by critical spells."
+  },
+  {
+    "slot": 499,
+    "start_row": 3992,
+    "name": "Tension Boost When Near Death",
+    "desc": "Causes you to slowly gain tension when low on HP."
+  },
+  {
+    "slot": 500,
+    "start_row": 4000,
+    "name": "Cross Current Overload",
+    "desc": "Hold <P2> after unleashing <C9>Cross Current<R >to attack multiple times."
+  },
+  {
+    "slot": 501,
+    "start_row": 4008,
+    "name": "Storm Slash Strengthener",
+    "desc": "Hold <P2> during <C9>Storm Slash<R >to increase damage."
+  },
+  {
+    "slot": 502,
+    "start_row": 4016,
+    "name": "Cancel Miracle Moon",
+    "desc": "Enables you to cancel Miracle Moon mid-move."
+  },
+  {
+    "slot": 503,
+    "start_row": 4024,
+    "name": "Cancel Maelstrom",
+    "desc": "Enables you to cancel Maelstrom mid-move."
+  },
+  {
+    "slot": 504,
+    "start_row": 4032,
+    "name": "Frizz",
+    "desc": "Flings forth a ball of fire."
+  },
+  {
+    "slot": 505,
+    "start_row": 4040,
+    "name": "Power Throw",
+    "desc": "Mows down foes in your path with a shining boomerang."
+  },
+  {
+    "slot": 506,
+    "start_row": 4048,
+    "name": "Max. MP +20 with Whips",
+    "desc": "Increases maximum MP by twenty when wielding whips."
+  },
+  {
+    "slot": 507,
+    "start_row": 4056,
+    "name": "Occasional Free Spells with Wands",
+    "desc": "Causes 2% of all spells and abilities to be cast for no MP cost when wielding wands."
+  },
+  {
+    "slot": 508,
+    "start_row": 4064,
+    "name": "Max. MP +40 with Wands",
+    "desc": "Increases maximum MP by forty when wielding wands."
+  },
+  {
+    "slot": 509,
+    "start_row": 4072,
+    "name": "More Critical Spells with Wands",
+    "desc": "Slightly increases chance of critical spells when wielding wands."
+  },
+  {
+    "slot": 510,
+    "start_row": 4080,
+    "name": "Occasional Free Spells with Heavy Wands",
+    "desc": "Causes 2% of all spells and abilities to be cast for no MP cost when wielding heavy wands."
+  },
+  {
+    "slot": 511,
+    "start_row": 4088,
+    "name": "Max. MP +50 with Heavy Wands",
+    "desc": "Increases maximum MP by fifty when wielding heavy wands."
+  },
+  {
+    "slot": 512,
+    "start_row": 4096,
+    "name": "More Critical Spells with Heavy Wands",
+    "desc": "Slightly increases chance of critical spells when wielding heavy wands."
+  },
+  {
+    "slot": 513,
+    "start_row": 4104,
+    "name": "Increased Evasion with Axes",
+    "desc": "Slightly increases evasion when wielding axes."
+  },
+  {
+    "slot": 514,
+    "start_row": 4112,
+    "name": "Increased Evasion with Gauntlets",
+    "desc": "Slightly increases evasion when wielding gauntlets."
+  },
+  {
+    "slot": 515,
+    "start_row": 4120,
+    "name": "Occasional Auto-Block with Spears",
+    "desc": "Occasionally blocks enemy attacks automatically when wielding spears."
+  },
+  {
+    "slot": 516,
+    "start_row": 4128,
+    "name": "Increased Evasion with Abacuses",
+    "desc": "Slightly increases evasion when wielding abacuses."
+  },
+  {
+    "slot": 517,
+    "start_row": 4136,
+    "name": "Increased Evasion with Cards",
+    "desc": "Slightly increases evasion when wielding cards."
+  },
+  {
+    "slot": 518,
+    "start_row": 4144,
+    "name": "Max. MP +10 with Fans",
+    "desc": "Increases maximum MP by ten when wielding fans."
+  },
+  {
+    "slot": 519,
+    "start_row": 4152,
+    "name": "Increased Evasion with Swords",
+    "desc": "Slightly increases evasion when wielding swords."
+  },
+  {
+    "slot": 520,
+    "start_row": 4160,
+    "name": "Deftness +10 with Boomerangs",
+    "desc": "Increases deftness by ten points when wielding boomerangs."
+  },
+  {
+    "slot": 521,
+    "start_row": 4168,
+    "name": "Gain More Tension When Fired Up",
+    "desc": "Increases the rate at which tension is gained while fired up."
+  },
+  {
+    "slot": 522,
+    "start_row": 4176,
+    "name": "Multiheal Multiplier",
+    "desc": "Increases the amount healed by <C9>Multiheal<R.>"
+  },
+  {
+    "slot": 523,
+    "start_row": 4184,
+    "name": "Multiheal Maximiser",
+    "desc": "Further increases the amount healed by <C9>Multiheal<R.>"
+  },
+  {
+    "slot": 524,
+    "start_row": 4192,
+    "name": "Holy Water Enhancer",
+    "desc": "Increases the duration of <C9>Holy Water<R.>"
+  },
+  {
+    "slot": 525,
+    "start_row": 4200,
+    "name": "Harvest Moon Maximiser",
+    "desc": "Hold <P3> after using <C9>Harvest Moon<R >to fire even more powerful arrows while landing."
+  },
+  {
+    "slot": 526,
+    "start_row": 4208,
+    "name": "Resilience +3",
+    "desc": "Increases resilience by three points."
+  },
+  {
+    "slot": 527,
+    "start_row": 4216,
+    "name": "Bounce",
+    "desc": "Summons a spectral screen that reflects enemy spells."
+  },
+  {
+    "slot": 528,
+    "start_row": 4224,
+    "name": "Helm Splitter",
+    "desc": "A furious overhead smash that decreases enemies' defence."
+  },
+  {
+    "slot": 529,
+    "start_row": 4232,
+    "name": "A Cut Above",
+    "desc": "A stupendous storm of sweeping slashes."
+  },
+  {
+    "slot": 530,
+    "start_row": 4240,
+    "name": "Cancel Liberation",
+    "desc": ""
+  },
+  {
+    "slot": 531,
+    "start_row": 4248,
+    "name": "Zam",
+    "desc": "Fires forth bullet-like blobs of black energy."
+  },
+  {
+    "slot": 532,
+    "start_row": 4256,
+    "name": "Kazam",
+    "desc": "Damages enemies over a wide area with an eldritch explosion."
+  },
+  {
+    "slot": 533,
+    "start_row": 4264,
+    "name": "Kazammle",
+    "desc": "Damages enemies over a wide area with a huge eldritch explosion."
+  }
+]

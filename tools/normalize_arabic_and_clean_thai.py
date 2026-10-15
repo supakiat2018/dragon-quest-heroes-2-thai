@@ -12,9 +12,8 @@ def clean_thai_text(text):
     # But do NOT touch tags like <FH>, <FG>, etc.
     cleaned = re.sub(r'\s*\([A-Za-z0-9\s\-\.\'\’\/]+\)', '', cleaned)
     
-    # Clean possible awkward spacing before common Thai connective particles caused by removing parenthesis
-    # Only if the preceding character is not a digit or tag bracket
-    cleaned = re.sub(r'([^\d\s>])\s+(แล้ว|ใน|เพื่อ|หรือไม่|หรือ)', r'\1\2', cleaned)
+    # Clean any internal double spaces left from removed parentheses (preserve leading indentation)
+    cleaned = re.sub(r'(?<=\S)  +', ' ', cleaned)
     
     # 2. Convert Thai written numbers to Arabic numerals 1234567890
     number_replacements = [
@@ -108,13 +107,10 @@ def sync_master_csv():
     print(f"Master CSV synced: {synced} lines updated with new translations.")
 
 if __name__ == '__main__':
-    targets = [
-        'text_csv/categories/entry_00204_Menus_UI_Settings.csv',
-        'text_csv/categories/entry_00218_Dungeon_Prompts.csv',
-        'text_csv/categories/entry_00239_Mission_Objectives.csv',
-    ]
+    targets = sorted(glob.glob('text_csv/categories/entry_*.csv'))
     total_mod = 0
     for t in targets:
         total_mod += process_file(t)
     print(f"Total lines modified across category files: {total_mod}")
     sync_master_csv()
+

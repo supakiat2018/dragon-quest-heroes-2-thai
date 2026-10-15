@@ -1,0 +1,1544 @@
+[
+  {
+    "slot": 0,
+    "start_row": 0,
+    "name": "iron broadsword",
+    "desc": "A regular, wrought iron sword."
+  },
+  {
+    "slot": 1,
+    "start_row": 8,
+    "name": "steel broadsword",
+    "desc": "A fully fledged fighting blade forged from steel."
+  },
+  {
+    "slot": 2,
+    "start_row": 16,
+    "name": "hero's twin swords",
+    "desc": "A straightforward set of swords fit for a fearless hero."
+  },
+  {
+    "slot": 3,
+    "start_row": 24,
+    "name": "bronze blades",
+    "desc": "A solid set of swords made of burnished bronze."
+  },
+  {
+    "slot": 4,
+    "start_row": 32,
+    "name": "iron axe",
+    "desc": "A heavy iron axe with a heavy iron head."
+  },
+  {
+    "slot": 5,
+    "start_row": 40,
+    "name": "battle-axe",
+    "desc": "A super-sharp axe well-loved by the best warriors."
+  },
+  {
+    "slot": 6,
+    "start_row": 48,
+    "name": "iron lance",
+    "desc": "A spear made of iron for everyday action."
+  },
+  {
+    "slot": 7,
+    "start_row": 56,
+    "name": "holy lance",
+    "desc": "A sacred spear suffused with spiritual powers."
+  },
+  {
+    "slot": 8,
+    "start_row": 64,
+    "name": "iron fans",
+    "desc": "Hard and heavy fighting fans forged from iron."
+  },
+  {
+    "slot": 9,
+    "start_row": 72,
+    "name": "lunar fans",
+    "desc": "Fabulous fans festooned with the phases of the moon."
+  },
+  {
+    "slot": 10,
+    "start_row": 80,
+    "name": "blessed blades",
+    "desc": "Quality cutting weapons packed with pious power."
+  },
+  {
+    "slot": 11,
+    "start_row": 88,
+    "name": "bastard sword",
+    "desc": "An oversized sword favoured by fortune hunters."
+  },
+  {
+    "slot": 12,
+    "start_row": 96,
+    "name": "champion's swords",
+    "desc": "Brilliant blades bestowed upon only the best warriors."
+  },
+  {
+    "slot": 13,
+    "start_row": 104,
+    "name": "twin knight's swords",
+    "desc": "Balanced blades fit for chivalrous shenanigans."
+  },
+  {
+    "slot": 14,
+    "start_row": 112,
+    "name": "short bow",
+    "desc": "A basic bow for aspiring archers."
+  },
+  {
+    "slot": 15,
+    "start_row": 120,
+    "name": "Eros' bow",
+    "desc": "A beautiful bow blessed by the god of love."
+  },
+  {
+    "slot": 16,
+    "start_row": 128,
+    "name": "iron gauntlets",
+    "desc": "Heavy handguards preferred by practised pugilists."
+  },
+  {
+    "slot": 17,
+    "start_row": 136,
+    "name": "talismains",
+    "desc": "Holy handguards imbued with celestial strength."
+  },
+  {
+    "slot": 18,
+    "start_row": 144,
+    "name": "slicicles",
+    "desc": "Cool, curved cutting weapons made of biting blue ice."
+  },
+  {
+    "slot": 19,
+    "start_row": 152,
+    "name": "bolt cutters",
+    "desc": "Bright blue blades imbued with throbbing thunder."
+  },
+  {
+    "slot": 20,
+    "start_row": 160,
+    "name": "swish buckler",
+    "desc": "This unembellished buckler can blunt the keenest blades."
+  },
+  {
+    "slot": 21,
+    "start_row": 168,
+    "name": "twin stardust swords",
+    "desc": "Wondrous weapons said to be able to slice stars asunder."
+  },
+  {
+    "slot": 22,
+    "start_row": 176,
+    "name": "twin metal king swords",
+    "desc": "Royal blades with a steely surface and a squishy centre."
+  },
+  {
+    "slot": 23,
+    "start_row": 184,
+    "name": "gryphon's talon",
+    "desc": "A stylish sword with quill-like quillons."
+  },
+  {
+    "slot": 24,
+    "start_row": 192,
+    "name": "über twin knight's swords",
+    "desc": "Razor-sharp blades awarded to only the noblest of knights."
+  },
+  {
+    "slot": 25,
+    "start_row": 200,
+    "name": "chain whip",
+    "desc": "A flexible flail favoured by skilful whippers."
+  },
+  {
+    "slot": 26,
+    "start_row": 208,
+    "name": "morning star",
+    "desc": "A barbed ball designed to dash enemy defences."
+  },
+  {
+    "slot": 27,
+    "start_row": 216,
+    "name": "bronze boomerang",
+    "desc": "A basic boomerang made of beaten bronze."
+  },
+  {
+    "slot": 28,
+    "start_row": 224,
+    "name": "gusterang",
+    "desc": "A sleek, streamlined boomerang that will blow foes away."
+  },
+  {
+    "slot": 29,
+    "start_row": 232,
+    "name": "peafowl fans",
+    "desc": "Flamboyant fans that take after a peacock's train."
+  },
+  {
+    "slot": 30,
+    "start_row": 240,
+    "name": "potshot bow",
+    "desc": "Accurate enough to nail even the niftiest enemies."
+  },
+  {
+    "slot": 31,
+    "start_row": 248,
+    "name": "cautery sword",
+    "desc": "A blessed blade with the power to banish abominable beasts."
+  },
+  {
+    "slot": 32,
+    "start_row": 256,
+    "name": "dragonsbane",
+    "desc": "A sword so sharp it can slice through dragon scales."
+  },
+  {
+    "slot": 33,
+    "start_row": 264,
+    "name": "miracle sword",
+    "desc": "A sublime sword said to bestow blissful blessings."
+  },
+  {
+    "slot": 34,
+    "start_row": 272,
+    "name": "knight's sword",
+    "desc": "A balanced blade fit for chivalrous shenanigans."
+  },
+  {
+    "slot": 35,
+    "start_row": 280,
+    "name": "broad sword",
+    "desc": "A wide, weighty sword swung by seasoned soldiers."
+  },
+  {
+    "slot": 36,
+    "start_row": 288,
+    "name": "zombiesbane",
+    "desc": "A blade imbued with the power to lay the living dead low."
+  },
+  {
+    "slot": 37,
+    "start_row": 296,
+    "name": "über knight's sword",
+    "desc": "A razor-sharp blade awarded to only the noblest of knights."
+  },
+  {
+    "slot": 38,
+    "start_row": 304,
+    "name": "sunderbolt blade",
+    "desc": "A regal, resplendent weapon imbued with arcing energy."
+  },
+  {
+    "slot": 39,
+    "start_row": 312,
+    "name": "über gryphon's talon",
+    "desc": "Quill-like quillons form the cross guard of this sword."
+  },
+  {
+    "slot": 40,
+    "start_row": 320,
+    "name": "warsword",
+    "desc": "A sturdy sword that's suitable for any soldier."
+  },
+  {
+    "slot": 41,
+    "start_row": 328,
+    "name": "bloodletter",
+    "desc": "A sanguinary sword with a startlingly sharp edge."
+  },
+  {
+    "slot": 42,
+    "start_row": 336,
+    "name": "battle fork",
+    "desc": "A three-pronged polearm perfect for poking foes."
+  },
+  {
+    "slot": 43,
+    "start_row": 344,
+    "name": "demon spear",
+    "desc": "A fearsome spear said to be cursed by the demon king."
+  },
+  {
+    "slot": 44,
+    "start_row": 352,
+    "name": "storm spear",
+    "desc": "The lethal lance of a tempestuous storm god."
+  },
+  {
+    "slot": 45,
+    "start_row": 360,
+    "name": "blue blood's blade",
+    "desc": "Wielded by only the best-bred battlers in the business."
+  },
+  {
+    "slot": 46,
+    "start_row": 368,
+    "name": "king axe",
+    "desc": "An extravagant axe decorated with large royal runes."
+  },
+  {
+    "slot": 47,
+    "start_row": 376,
+    "name": "obliteratoriser",
+    "desc": "Perfect for pounding demons into dust."
+  },
+  {
+    "slot": 48,
+    "start_row": 384,
+    "name": "legate's blade",
+    "desc": "A sturdy and stately sword fit for a leader of men."
+  },
+  {
+    "slot": 49,
+    "start_row": 392,
+    "name": "über blue blood's blade",
+    "desc": "A sword so sharp that only superior sorts dare wield it."
+  },
+  {
+    "slot": 50,
+    "start_row": 400,
+    "name": "Accordian axe",
+    "desc": "A brutal battle-axe forged for a fearsome fighter."
+  },
+  {
+    "slot": 51,
+    "start_row": 408,
+    "name": "orichalcum gauntlets",
+    "desc": "Hardy handguards made from a mysterious mineral."
+  },
+  {
+    "slot": 52,
+    "start_row": 416,
+    "name": "devil's dukes",
+    "desc": "Monstrous mitts modelled after a fiend's forearms."
+  },
+  {
+    "slot": 53,
+    "start_row": 424,
+    "name": "cypress sticks",
+    "desc": "Basic wooden batons for battering baddies."
+  },
+  {
+    "slot": 54,
+    "start_row": 432,
+    "name": "hypnowhip",
+    "desc": "A spellbinding streak of razor-sharp ribbon."
+  },
+  {
+    "slot": 55,
+    "start_row": 440,
+    "name": "sidewinder",
+    "desc": "A flashy flail sewn together from the skins of snakes."
+  },
+  {
+    "slot": 56,
+    "start_row": 448,
+    "name": "dragontail whip",
+    "desc": "A terribly tough whip made to mirror a dragon's tail."
+  },
+  {
+    "slot": 57,
+    "start_row": 456,
+    "name": "stellar fans",
+    "desc": "Shiny fans spangled with shimmering silver stars."
+  },
+  {
+    "slot": 58,
+    "start_row": 464,
+    "name": "solar fans",
+    "desc": "Fiery fans that shine like the midday sun."
+  },
+  {
+    "slot": 59,
+    "start_row": 472,
+    "name": "magic circle",
+    "desc": "A deadly discus built to a curious configuration."
+  },
+  {
+    "slot": 60,
+    "start_row": 480,
+    "name": "pro's axe",
+    "desc": "A practical tool for toppling trees or felling foes."
+  },
+  {
+    "slot": 61,
+    "start_row": 488,
+    "name": "cypress stick",
+    "desc": "A basic wooden baton for battering baddies."
+  },
+  {
+    "slot": 62,
+    "start_row": 496,
+    "name": "great axe",
+    "desc": "A weighty weapon well-suited to war-making."
+  },
+  {
+    "slot": 63,
+    "start_row": 504,
+    "name": "Cheiron's bow",
+    "desc": "A bow imbued with the wisdom of a stout-hearted sage."
+  },
+  {
+    "slot": 64,
+    "start_row": 512,
+    "name": "über queen axe",
+    "desc": "A stately and sturdy weapon worthy of its name."
+  },
+  {
+    "slot": 65,
+    "start_row": 520,
+    "name": "bonny boomerang",
+    "desc": "A boomerang light enough for even the littlest of ladies."
+  },
+  {
+    "slot": 66,
+    "start_row": 528,
+    "name": "flametang boomerang",
+    "desc": "A boomerang filled with furious, fiery energy."
+  },
+  {
+    "slot": 67,
+    "start_row": 536,
+    "name": "falcon blade",
+    "desc": "A slender sword that strikes as swiftly as a hawk."
+  },
+  {
+    "slot": 68,
+    "start_row": 544,
+    "name": "nightcleaver",
+    "desc": "A sword so sharp it can slice through darkness itself."
+  },
+  {
+    "slot": 69,
+    "start_row": 552,
+    "name": "crimson crescent",
+    "desc": "Its striking colour scheme is said to foster ferocity."
+  },
+  {
+    "slot": 70,
+    "start_row": 560,
+    "name": "thunderbolt blade",
+    "desc": "A fierce, forked blade that flashes like lightning."
+  },
+  {
+    "slot": 71,
+    "start_row": 568,
+    "name": "hero spear",
+    "desc": "A sleek spear once wielded by a saviour of legend."
+  },
+  {
+    "slot": 72,
+    "start_row": 576,
+    "name": "bad axe",
+    "desc": "A wicked weapon sure to earn you plenty of attention."
+  },
+  {
+    "slot": 73,
+    "start_row": 584,
+    "name": "dark star",
+    "desc": "Its dire design strikes dread into all who descry it."
+  },
+  {
+    "slot": 74,
+    "start_row": 592,
+    "name": "beast paws",
+    "desc": "Merciless mitts hewn from the hide of a fell fiend."
+  },
+  {
+    "slot": 75,
+    "start_row": 600,
+    "name": "queen's whip",
+    "desc": "A luxurious lash dotted with jewels and gemstones."
+  },
+  {
+    "slot": 76,
+    "start_row": 608,
+    "name": "über crimson crescent",
+    "desc": "Swift, scarlet and sharper than a sharp thing."
+  },
+  {
+    "slot": 77,
+    "start_row": 616,
+    "name": "meteorang",
+    "desc": "A boomerang with the piercing power of a shooting star."
+  },
+  {
+    "slot": 78,
+    "start_row": 624,
+    "name": "great bow",
+    "desc": "A really big bow that fires really big arrows."
+  },
+  {
+    "slot": 79,
+    "start_row": 632,
+    "name": "platinum gauntlets",
+    "desc": "Though prodigiously pricey, they're well worth the money."
+  },
+  {
+    "slot": 80,
+    "start_row": 640,
+    "name": "metal king sword",
+    "desc": "A brutal blade with the curvy body of a metal king slime."
+  },
+  {
+    "slot": 81,
+    "start_row": 648,
+    "name": "godly gauntlets",
+    "desc": "Metal mitts mighty enough to mash boulders into mush."
+  },
+  {
+    "slot": 82,
+    "start_row": 656,
+    "name": "crystal fists",
+    "desc": "Gorgeous gauntlets crafted from bright blue crystal."
+  },
+  {
+    "slot": 83,
+    "start_row": 664,
+    "name": "heroine's sword",
+    "desc": "A straightforward sword fit for a fearless heroine."
+  },
+  {
+    "slot": 84,
+    "start_row": 672,
+    "name": "metal king spear",
+    "desc": "A puissant polearm with the might of a metal king slime."
+  },
+  {
+    "slot": 85,
+    "start_row": 680,
+    "name": "über majestic mitts",
+    "desc": "Lovely looking gloves that also pack a real punch."
+  },
+  {
+    "slot": 86,
+    "start_row": 688,
+    "name": "sparring gloves",
+    "desc": "Basic metal mitts made for manly martial artists."
+  },
+  {
+    "slot": 87,
+    "start_row": 696,
+    "name": "golden claws",
+    "desc": "Gaudy golden talons that sting foes with asp-like strikes."
+  },
+  {
+    "slot": 88,
+    "start_row": 704,
+    "name": "Gringham whip",
+    "desc": "A whip that rounds up wrong 'uns, and sends them packing."
+  },
+  {
+    "slot": 89,
+    "start_row": 712,
+    "name": "critical fans",
+    "desc": "Fashionable fans that combine punch with panache."
+  },
+  {
+    "slot": 90,
+    "start_row": 720,
+    "name": "metal wing boomerang",
+    "desc": "This brutal, barbed boomerang slices steel like butter."
+  },
+  {
+    "slot": 91,
+    "start_row": 728,
+    "name": "Odin's bow",
+    "desc": "A holy bow with a god-like capacity for destruction."
+  },
+  {
+    "slot": 92,
+    "start_row": 736,
+    "name": "dauntless gauntlets",
+    "desc": "These gloves are great for grinding enemies into gristle."
+  },
+  {
+    "slot": 93,
+    "start_row": 744,
+    "name": "wyrmfang",
+    "desc": "A brutal sword resembling a fire-breathing dragon."
+  },
+  {
+    "slot": 94,
+    "start_row": 752,
+    "name": "grandmaster's gauntlets",
+    "desc": "Gloves loved by an ancient martial master."
+  },
+  {
+    "slot": 95,
+    "start_row": 760,
+    "name": "monster mashers",
+    "desc": "Ghastly gauntlets imbued with evil energies."
+  },
+  {
+    "slot": 96,
+    "start_row": 768,
+    "name": "saint's spear",
+    "desc": "A hallowed lance with a saintly symbol on its tip."
+  },
+  {
+    "slot": 97,
+    "start_row": 776,
+    "name": "frostfire fists",
+    "desc": "Armoured gloves imbued with flames of frigid hellfire."
+  },
+  {
+    "slot": 98,
+    "start_row": 784,
+    "name": "über dauntless gauntlets",
+    "desc": "Tremendously tough gloves for supreme soldiers."
+  },
+  {
+    "slot": 99,
+    "start_row": 792,
+    "name": "majestic mitts",
+    "desc": "Flexible fistguards for socking suckers with style."
+  },
+  {
+    "slot": 100,
+    "start_row": 800,
+    "name": "sage's scourge",
+    "desc": "A wizardly whip well-suited to a magician's mitt."
+  },
+  {
+    "slot": 101,
+    "start_row": 808,
+    "name": "fancy fans",
+    "desc": "Flashy fans that mesmerise friend and foe alike."
+  },
+  {
+    "slot": 102,
+    "start_row": 816,
+    "name": "wolf claws",
+    "desc": "Lupine lacerators that can scratch foes silly."
+  },
+  {
+    "slot": 103,
+    "start_row": 824,
+    "name": "iron claws",
+    "desc": "classic claws crafted from solid iron."
+  },
+  {
+    "slot": 104,
+    "start_row": 832,
+    "name": "steel claws",
+    "desc": "Well-made weapons forged from sturdy steel."
+  },
+  {
+    "slot": 105,
+    "start_row": 840,
+    "name": "panther claws",
+    "desc": "A beautiful set of blades inspired by a beautiful big cat."
+  },
+  {
+    "slot": 106,
+    "start_row": 848,
+    "name": "white wolf claws",
+    "desc": "Tearing talons that take after those of a lupine legend."
+  },
+  {
+    "slot": 107,
+    "start_row": 856,
+    "name": "lord's sword",
+    "desc": "A golden greatsword only a lord could afford."
+  },
+  {
+    "slot": 108,
+    "start_row": 864,
+    "name": "Erdrick's sword",
+    "desc": "A weapon once wielded by a legendary lionheart."
+  },
+  {
+    "slot": 109,
+    "start_row": 872,
+    "name": "Zenithian sword",
+    "desc": "The dragon-themed blade of a chosen champion of old."
+  },
+  {
+    "slot": 110,
+    "start_row": 880,
+    "name": "wanderer's sword",
+    "desc": "The simple sword of a wandering warrior."
+  },
+  {
+    "slot": 111,
+    "start_row": 888,
+    "name": "dragon claws",
+    "desc": "Cool claws crafted with wyrm-lovers everywhere in mind."
+  },
+  {
+    "slot": 112,
+    "start_row": 896,
+    "name": "captain's hooks",
+    "desc": "Curved claws once worn by a dread pirate captain."
+  },
+  {
+    "slot": 113,
+    "start_row": 904,
+    "name": "Dragonlord claws",
+    "desc": "These bad boys slice through dragon scales like butter."
+  },
+  {
+    "slot": 114,
+    "start_row": 912,
+    "name": "über white wolf claws",
+    "desc": "Terrifyingly sharp talons named for a lupine legend."
+  },
+  {
+    "slot": 115,
+    "start_row": 920,
+    "name": "entrepreneur's abacus",
+    "desc": "A tool trusted by traders the world over."
+  },
+  {
+    "slot": 116,
+    "start_row": 928,
+    "name": "iron abacus",
+    "desc": "An iron adding machine ideal for everyday use."
+  },
+  {
+    "slot": 117,
+    "start_row": 936,
+    "name": "parson's partisan",
+    "desc": "A long, strong spear supplied to practising priests."
+  },
+  {
+    "slot": 118,
+    "start_row": 944,
+    "name": "stainless steel abacus",
+    "desc": "Sturdy enough to swing without fear of wear and tear."
+  },
+  {
+    "slot": 119,
+    "start_row": 952,
+    "name": "rich man's paw",
+    "desc": "An odd abacus said to beckon the big bucks."
+  },
+  {
+    "slot": 120,
+    "start_row": 960,
+    "name": "gutsy gloves",
+    "desc": "Ungraven gauntlets forged from the finest steel."
+  },
+  {
+    "slot": 121,
+    "start_row": 968,
+    "name": "lady's lash",
+    "desc": "A woven whip wielded by a wilful noblewoman."
+  },
+  {
+    "slot": 122,
+    "start_row": 976,
+    "name": "fans fatale",
+    "desc": "Pale pink dancers' fans that shine in the spotlight."
+  },
+  {
+    "slot": 123,
+    "start_row": 984,
+    "name": "abracadabracus",
+    "desc": "The best-beloved tool of enchanted accountants."
+  },
+  {
+    "slot": 124,
+    "start_row": 992,
+    "name": "Astraea's abacus",
+    "desc": "Better for bashing baddies than balancing books."
+  },
+  {
+    "slot": 125,
+    "start_row": 1000,
+    "name": "energising abacus",
+    "desc": "An incredible item that invigorates anyone who holds it."
+  },
+  {
+    "slot": 126,
+    "start_row": 1008,
+    "name": "metal king greatsword",
+    "desc": "A rock-solid sword forged in the image of a mercurial king."
+  },
+  {
+    "slot": 127,
+    "start_row": 1016,
+    "name": "Builder's mallet",
+    "desc": "A huge hammer loved by a legend in the building trade."
+  },
+  {
+    "slot": 128,
+    "start_row": 1024,
+    "name": "jade adder",
+    "desc": "An opulent abacus made of a gorgeous green stone."
+  },
+  {
+    "slot": 129,
+    "start_row": 1032,
+    "name": "House of Payin'",
+    "desc": "Can't afford a castle<FH> Buy one of these instead<FG>"
+  },
+  {
+    "slot": 130,
+    "start_row": 1040,
+    "name": "über Astraea's abacus",
+    "desc": "Great for bashing baddies, bad for balancing books."
+  },
+  {
+    "slot": 131,
+    "start_row": 1048,
+    "name": "diviner's deck",
+    "desc": "The basic tools of the fortune-telling trade."
+  },
+  {
+    "slot": 132,
+    "start_row": 1056,
+    "name": "time-worn tarot cards",
+    "desc": "A set of cards used by diviners of days long gone."
+  },
+  {
+    "slot": 133,
+    "start_row": 1064,
+    "name": "Puck's pack",
+    "desc": "The magic of the faerie folk fills this delicate deck."
+  },
+  {
+    "slot": 134,
+    "start_row": 1072,
+    "name": "pack of truths",
+    "desc": "Esoteric engravings hint at untold energies within."
+  },
+  {
+    "slot": 135,
+    "start_row": 1080,
+    "name": "Deck of Destiny",
+    "desc": "These cool cards let you forecast fate in serious style."
+  },
+  {
+    "slot": 136,
+    "start_row": 1088,
+    "name": "silver tarot cards",
+    "desc": "A pair of dragons decorate this dazzling deck."
+  },
+  {
+    "slot": 137,
+    "start_row": 1096,
+    "name": "Oberon's Tarot",
+    "desc": "Cards filled with the fabulous magic of the faerie king."
+  },
+  {
+    "slot": 138,
+    "start_row": 1104,
+    "name": "Lodestar Tarot",
+    "desc": "Sacred starlight guides the seer who holds these cards."
+  },
+  {
+    "slot": 139,
+    "start_row": 1112,
+    "name": "Hand of Fate",
+    "desc": "A deck designed not to divine destiny, but direct it."
+  },
+  {
+    "slot": 140,
+    "start_row": 1120,
+    "name": "über silver tarot cards",
+    "desc": "A top-quality tarot decorated with dazzling dragons."
+  },
+  {
+    "slot": 141,
+    "start_row": 1128,
+    "name": "über saint's spear",
+    "desc": "A top-level lance with a saintly symbol on its tip."
+  },
+  {
+    "slot": 142,
+    "start_row": 1136,
+    "name": "über sage's scourge",
+    "desc": "Whips up a wizard's magical might to the max."
+  },
+  {
+    "slot": 143,
+    "start_row": 1144,
+    "name": "ebony bow",
+    "desc": "An elegant arrow-firer hewn from ancient heartwood."
+  },
+  {
+    "slot": 144,
+    "start_row": 1152,
+    "name": "feather bow",
+    "desc": "A well-proportioned winged weapon that's très on-trend."
+  },
+  {
+    "slot": 145,
+    "start_row": 1160,
+    "name": "lyre of legend",
+    "desc": "Made to mimic a mythical minstrel's instrument."
+  },
+  {
+    "slot": 146,
+    "start_row": 1168,
+    "name": "über feather bow",
+    "desc": "A well-proportioned winged weapon of surpassing power."
+  },
+  {
+    "slot": 147,
+    "start_row": 1176,
+    "name": "rose-tinted spectaculars",
+    "desc": "A set of folding fans in a fabulous flowery form."
+  },
+  {
+    "slot": 148,
+    "start_row": 1184,
+    "name": "über fancy fans",
+    "desc": "Flashy fans made more for fighting than flirting."
+  },
+  {
+    "slot": 149,
+    "start_row": 1192,
+    "name": "queen axe",
+    "desc": "A chopper so proper that even royalty approve."
+  },
+  {
+    "slot": 150,
+    "start_row": 1200,
+    "name": "hero's shield",
+    "desc": "A sturdy shield fit for a fearless fighter."
+  },
+  {
+    "slot": 151,
+    "start_row": 1208,
+    "name": "wanderer's shield",
+    "desc": "A handy shield good for both blocking and bashing."
+  },
+  {
+    "slot": 152,
+    "start_row": 1216,
+    "name": "magic shield",
+    "desc": "A shield suffused with spell-shattering sorceries."
+  },
+  {
+    "slot": 153,
+    "start_row": 1224,
+    "name": "power shield",
+    "desc": "Wield this shield, and be showered with power."
+  },
+  {
+    "slot": 154,
+    "start_row": 1232,
+    "name": "saintess shield",
+    "desc": "A shield sanctified by the patron saint of punch-ups."
+  },
+  {
+    "slot": 155,
+    "start_row": 1240,
+    "name": "Erdrick's shield",
+    "desc": "A shield once wielded by a legendary lionheart."
+  },
+  {
+    "slot": 156,
+    "start_row": 1248,
+    "name": "Zenithian Shield",
+    "desc": "The dragon-themed shield of a chosen champion of old."
+  },
+  {
+    "slot": 157,
+    "start_row": 1256,
+    "name": "ogre shield",
+    "desc": "A huge, heavy shield shaped by a huge, heavy hand."
+  },
+  {
+    "slot": 158,
+    "start_row": 1264,
+    "name": "metal king shield",
+    "desc": "A super-strong shield symbolic of the metal king slime."
+  },
+  {
+    "slot": 159,
+    "start_row": 1272,
+    "name": "slime shield",
+    "desc": "A simple, smiling shield in the shape of a familiar foe."
+  },
+  {
+    "slot": 160,
+    "start_row": 1280,
+    "name": "pocus pin",
+    "desc": "A balanced baton with an orb on the end."
+  },
+  {
+    "slot": 161,
+    "start_row": 1288,
+    "name": "twinkle twinkle little staff",
+    "desc": "A baton bespangled with a spectrum of shiny stars."
+  },
+  {
+    "slot": 162,
+    "start_row": 1296,
+    "name": "winged wand",
+    "desc": "A lightweight cane crowned with a crest of feathers."
+  },
+  {
+    "slot": 163,
+    "start_row": 1304,
+    "name": "fond wand",
+    "desc": "A sickly-sweet stick that wears its heart on its head."
+  },
+  {
+    "slot": 164,
+    "start_row": 1312,
+    "name": "pixie stick",
+    "desc": "A colourful candy cane married with a mysterious mandala."
+  },
+  {
+    "slot": 165,
+    "start_row": 1320,
+    "name": "wyvern wand",
+    "desc": "A sceptre sculpted in the shape of a winged wyrm."
+  },
+  {
+    "slot": 166,
+    "start_row": 1328,
+    "name": "seraphic sceptre",
+    "desc": "A sacred stick capped with a crest of angelic aspect."
+  },
+  {
+    "slot": 167,
+    "start_row": 1336,
+    "name": "butterfly baton",
+    "desc": "A bejewelled baton beloved by the faerie queen."
+  },
+  {
+    "slot": 168,
+    "start_row": 1344,
+    "name": "olde-worlde wande",
+    "desc": "A wand with the wistful air of days gone by."
+  },
+  {
+    "slot": 169,
+    "start_row": 1352,
+    "name": "über scirocco sceptre",
+    "desc": "An elegant wand of overwhelming power."
+  },
+  {
+    "slot": 170,
+    "start_row": 1360,
+    "name": "hero's staff",
+    "desc": "A sturdy staff fit for a fearless fighter."
+  },
+  {
+    "slot": 171,
+    "start_row": 1368,
+    "name": "driller pillar",
+    "desc": "A sleek, stylish steel staff designed to swiftly lay foes low."
+  },
+  {
+    "slot": 172,
+    "start_row": 1376,
+    "name": "barbed bludgeon",
+    "desc": "A mighty, menacing mace adorned with thorns."
+  },
+  {
+    "slot": 173,
+    "start_row": 1384,
+    "name": "mistick",
+    "desc": "A staff of flowing, fluid lines that rains misery upon foes."
+  },
+  {
+    "slot": 174,
+    "start_row": 1392,
+    "name": "diabolicane",
+    "desc": "A pernicious pikestaff filled with a fiendish force."
+  },
+  {
+    "slot": 175,
+    "start_row": 1400,
+    "name": "dragon rod",
+    "desc": "A staff entwined with the tail of a sinuous serpent."
+  },
+  {
+    "slot": 176,
+    "start_row": 1408,
+    "name": "sunburst staff",
+    "desc": "A cane capped with the radiant rays of the summer sun."
+  },
+  {
+    "slot": 177,
+    "start_row": 1416,
+    "name": "knockout rod",
+    "desc": "A mysterious mace that can knock any enemy's block off."
+  },
+  {
+    "slot": 178,
+    "start_row": 1424,
+    "name": "pole of opposites",
+    "desc": "A strange staff that combines both light and dark magic."
+  },
+  {
+    "slot": 179,
+    "start_row": 1432,
+    "name": "über king's cudgel",
+    "desc": "A staff topped with savage spheres for bashing beasts."
+  },
+  {
+    "slot": 180,
+    "start_row": 1440,
+    "name": "oak staff",
+    "desc": "A plain polearm carved from well-aged wood."
+  },
+  {
+    "slot": 181,
+    "start_row": 1448,
+    "name": "wizard's staff",
+    "desc": "A standard-issue staff sizzling with sorcerous energy."
+  },
+  {
+    "slot": 182,
+    "start_row": 1456,
+    "name": "faerie staff",
+    "desc": "A wondrous wand filled with faerie magic."
+  },
+  {
+    "slot": 183,
+    "start_row": 1464,
+    "name": "staff of sentencing",
+    "desc": "A saintly sceptre for fighting in the name of justice."
+  },
+  {
+    "slot": 184,
+    "start_row": 1472,
+    "name": "spirit staff",
+    "desc": "A wand that brings the blessings of beings from beyond."
+  },
+  {
+    "slot": 185,
+    "start_row": 1480,
+    "name": "lightning staff",
+    "desc": "A sizzling sceptre that strikes foes with shocking force."
+  },
+  {
+    "slot": 186,
+    "start_row": 1488,
+    "name": "rune staff",
+    "desc": "Keeps an eye on the wielder so they're super-safe."
+  },
+  {
+    "slot": 187,
+    "start_row": 1496,
+    "name": "magma staff",
+    "desc": "A ferocious wand filled with fiery fury."
+  },
+  {
+    "slot": 188,
+    "start_row": 1504,
+    "name": "wyrmwand",
+    "desc": "A dragon glares down dourly from atop this staff."
+  },
+  {
+    "slot": 189,
+    "start_row": 1512,
+    "name": "Staff of Night",
+    "desc": "A legendary weapon once wielded by a vicious villain."
+  },
+  {
+    "slot": 190,
+    "start_row": 1520,
+    "name": "pot lid",
+    "desc": "A bit of kit from the kitchen pressed into service as a shield."
+  },
+  {
+    "slot": 193,
+    "start_row": 1544,
+    "name": "heroine's shield",
+    "desc": "A straightforward shield fit for a fearless fighter."
+  },
+  {
+    "slot": 194,
+    "start_row": 1552,
+    "name": "hero's claws",
+    "desc": "A simple set of claws fit for a fledgling thief."
+  },
+  {
+    "slot": 195,
+    "start_row": 1560,
+    "name": "hero's wand",
+    "desc": "A simple stick suited to an aspiring sorcerer."
+  },
+  {
+    "slot": 196,
+    "start_row": 1568,
+    "name": "hero's spear",
+    "desc": "A straightforward spear perfect for a promising priest."
+  },
+  {
+    "slot": 197,
+    "start_row": 1576,
+    "name": "knight's shield",
+    "desc": "A strong shield, ideal for an up-and-coming knight."
+  },
+  {
+    "slot": 198,
+    "start_row": 1584,
+    "name": "hero's axe",
+    "desc": "An easy-to-use axe fit for a fearless fighter."
+  },
+  {
+    "slot": 199,
+    "start_row": 1592,
+    "name": "hero's heavy wand",
+    "desc": "A simple staff specially made for aspiring sages."
+  },
+  {
+    "slot": 201,
+    "start_row": 1608,
+    "name": "heroine's claws",
+    "desc": "A simple set of claws fit for a fledgling thief."
+  },
+  {
+    "slot": 202,
+    "start_row": 1616,
+    "name": "heroine's wand",
+    "desc": "A simple stick suited to an aspiring sorceress."
+  },
+  {
+    "slot": 203,
+    "start_row": 1624,
+    "name": "heroine's spear",
+    "desc": "A straightforward spear perfect for a promising priestess."
+  },
+  {
+    "slot": 204,
+    "start_row": 1632,
+    "name": "Dragonlord's sceptre",
+    "desc": "A blighted staff beloved of the original evildoer."
+  },
+  {
+    "slot": 205,
+    "start_row": 1640,
+    "name": "heroine's axe",
+    "desc": "An easy-to-use axe fit for a fearless fighter."
+  },
+  {
+    "slot": 206,
+    "start_row": 1648,
+    "name": "heroine's heavy wand",
+    "desc": "A simple staff specially made for aspiring sages."
+  },
+  {
+    "slot": 207,
+    "start_row": 1656,
+    "name": "heroine's twin swords",
+    "desc": "A straightforward set of swords fit for a fearless fighter."
+  },
+  {
+    "slot": 208,
+    "start_row": 1664,
+    "name": "hero's sword",
+    "desc": "A straightforward sword fit for a fearless fighter."
+  },
+  {
+    "slot": 209,
+    "start_row": 1672,
+    "name": "heroine's staff",
+    "desc": "A sturdy staff fit for a fearless fighter."
+  },
+  {
+    "slot": 210,
+    "start_row": 1680,
+    "name": "Estark's sabres",
+    "desc": "The signature swords of the Lord of the Underworld."
+  },
+  {
+    "slot": 211,
+    "start_row": 1688,
+    "name": "slime sword",
+    "desc": "A sword forged in slime-honoured fashion."
+  },
+  {
+    "slot": 212,
+    "start_row": 1696,
+    "name": "gooreat sword",
+    "desc": "An easy-to-ooze greatsword in a gooey blue hue."
+  },
+  {
+    "slot": 213,
+    "start_row": 1704,
+    "name": "slime-on-a-stick",
+    "desc": "This staff's slimy centrepiece just oozes sophistication."
+  },
+  {
+    "slot": 214,
+    "start_row": 1712,
+    "name": "jelly caster",
+    "desc": "A sturdy sceptre with a slimy centrepiece."
+  },
+  {
+    "slot": 215,
+    "start_row": 1720,
+    "name": "gungenir",
+    "desc": "A goo-tipped spear that strikes straight every slime."
+  },
+  {
+    "slot": 216,
+    "start_row": 1728,
+    "name": "goolden axe",
+    "desc": "Its curves mirror the ooze in whooze image it was made."
+  },
+  {
+    "slot": 217,
+    "start_row": 1736,
+    "name": "squishing rod",
+    "desc": "A cuddly cudgel with sweet little slimes at either end."
+  },
+  {
+    "slot": 218,
+    "start_row": 1744,
+    "name": "gooey gloves",
+    "desc": "Gootiful blue gloves with sweet little slimes on the back."
+  },
+  {
+    "slot": 219,
+    "start_row": 1752,
+    "name": "splat o' nine tails",
+    "desc": "A whip graced by the gooreatest monster of all<FG>"
+  },
+  {
+    "slot": 220,
+    "start_row": 1760,
+    "name": "fandangoos",
+    "desc": "These fans' faces feature the cutest of all creatures."
+  },
+  {
+    "slot": 221,
+    "start_row": 1768,
+    "name": "goomerang",
+    "desc": "A boomerang with a blue blob slurp-bang in the middle."
+  },
+  {
+    "slot": 222,
+    "start_row": 1776,
+    "name": "goopid's bow",
+    "desc": "A gooracefully curved bow in a slime-blue hue."
+  },
+  {
+    "slot": 223,
+    "start_row": 1784,
+    "name": "goosome twosome",
+    "desc": "Distinctive swords designed to be oozed in pairs."
+  },
+  {
+    "slot": 224,
+    "start_row": 1792,
+    "name": "blobacus",
+    "desc": "An unoozual abacus that combines fun and function."
+  },
+  {
+    "slot": 225,
+    "start_row": 1800,
+    "name": "gloop deck",
+    "desc": "Cards ooze backs are graced by two gooey little guys."
+  },
+  {
+    "slot": 226,
+    "start_row": 1808,
+    "name": "gel-o-tines",
+    "desc": "Trendy talons tricked out with smiling slimes."
+  },
+  {
+    "slot": 227,
+    "start_row": 1816,
+    "name": "captain's sword",
+    "desc": "A carefully designed blade for strategic skirmishing."
+  },
+  {
+    "slot": 228,
+    "start_row": 1824,
+    "name": "captain's rapier",
+    "desc": "A lightweight sword for those who love to rush in swinging."
+  },
+  {
+    "slot": 229,
+    "start_row": 1832,
+    "name": "Luceus's shield",
+    "desc": "An Arban shield decorated with a draconic design."
+  },
+  {
+    "slot": 230,
+    "start_row": 1840,
+    "name": "king's cudgel",
+    "desc": "A staff topped with spiky balls for bashing beasts."
+  },
+  {
+    "slot": 231,
+    "start_row": 1848,
+    "name": "razer-wing boomerang",
+    "desc": "A double-bladed boomerang with an air of ingenuity."
+  },
+  {
+    "slot": 232,
+    "start_row": 1856,
+    "name": "emerald bow",
+    "desc": "A bejewelled bow that fires emerald-tipped arrows."
+  },
+  {
+    "slot": 233,
+    "start_row": 1864,
+    "name": "scirocco sceptre",
+    "desc": "An exquisite stick topped with a finely filigreed finial."
+  },
+  {
+    "slot": 234,
+    "start_row": 1872,
+    "name": "almighty axe",
+    "desc": "A triple-edged poleaxe, deadly in every direction."
+  },
+  {
+    "slot": 235,
+    "start_row": 1880,
+    "name": "conqueror's sword",
+    "desc": "A stately sword once wielded by a warrior king."
+  },
+  {
+    "slot": 236,
+    "start_row": 1888,
+    "name": "giga captain's sword",
+    "desc": "A super-sharp sword for strategic skirmishing."
+  },
+  {
+    "slot": 237,
+    "start_row": 1896,
+    "name": "giga captain's rapier",
+    "desc": "A super-sharp sword with which to rush in swinging."
+  },
+  {
+    "slot": 238,
+    "start_row": 1904,
+    "name": "giga king's cudgel",
+    "desc": "A staff topped with spiky balls for obliterating beasts."
+  },
+  {
+    "slot": 239,
+    "start_row": 1912,
+    "name": "giga razer-wing boomerang",
+    "desc": "An ingenious and deadly double-bladed boomerang."
+  },
+  {
+    "slot": 240,
+    "start_row": 1920,
+    "name": "giga emerald bow",
+    "desc": "A breathtaking bow that fires emerald-tipped arrows."
+  },
+  {
+    "slot": 241,
+    "start_row": 1928,
+    "name": "giga scirocco sceptre",
+    "desc": "An exquisite stick topped with fabulous filigree."
+  },
+  {
+    "slot": 242,
+    "start_row": 1936,
+    "name": "giga almighty axe",
+    "desc": "A triple-edged poleaxe, devastating in every direction."
+  },
+  {
+    "slot": 243,
+    "start_row": 1944,
+    "name": "giga conqueror's sword",
+    "desc": "A super-sharp sword once wielded by a warrior king."
+  },
+  {
+    "slot": 244,
+    "start_row": 1952,
+    "name": "Aurora's shield",
+    "desc": "An Arban shield decorated with a draconic design."
+  },
+  {
+    "slot": 250,
+    "start_row": 2000,
+    "name": "goodybag abacus",
+    "desc": "A weapon made with a jolly bag of jewels in mind."
+  },
+  {
+    "slot": 251,
+    "start_row": 2008,
+    "name": "gem slime sword",
+    "desc": "A gilded, glittering blade with a smiley, slimy decoration."
+  },
+  {
+    "slot": 252,
+    "start_row": 2016,
+    "name": "night club",
+    "desc": "A night clubber's club, complete with its namesake's face."
+  },
+  {
+    "slot": 253,
+    "start_row": 2024,
+    "name": "slime knight's shield",
+    "desc": "A buckler beloved of goo-riding gladiators."
+  },
+  {
+    "slot": 254,
+    "start_row": 2032,
+    "name": "imp's fork",
+    "desc": "Colossal cutlery associated with a certain little scamp."
+  },
+  {
+    "slot": 255,
+    "start_row": 2040,
+    "name": "robo-bow",
+    "desc": "This wicked weapon puts the ‘killing’ in ‘killing machine’."
+  },
+  {
+    "slot": 256,
+    "start_row": 2048,
+    "name": "plat o' one tails",
+    "desc": "A whip with a shape somewhat similar to a platypunk's tail."
+  },
+  {
+    "slot": 257,
+    "start_row": 2056,
+    "name": "slime stack stick",
+    "desc": "A simple stick shaped like a stack of slimes."
+  },
+  {
+    "slot": 258,
+    "start_row": 2064,
+    "name": "great sabreclaws",
+    "desc": "A pair of claws like a great sabrecat's forepaws."
+  },
+  {
+    "slot": 259,
+    "start_row": 2072,
+    "name": "drackerang",
+    "desc": "A boomerang based on a beloved flappy fiend."
+  },
+  {
+    "slot": 260,
+    "start_row": 2080,
+    "name": "golem gauntlets",
+    "desc": "Gloves as big as golems' fists<MV>and almost as deadly."
+  },
+  {
+    "slot": 261,
+    "start_row": 2088,
+    "name": "shadowblade",
+    "desc": "A sword in the shape of a sinister spectre."
+  },
+  {
+    "slot": 262,
+    "start_row": 2096,
+    "name": "robo-razor",
+    "desc": "Hunter mechs use these to target slippery slimes."
+  },
+  {
+    "slot": 263,
+    "start_row": 2104,
+    "name": "royal flush",
+    "desc": "Stylish-but-slimy cards with a regal reverse."
+  },
+  {
+    "slot": 264,
+    "start_row": 2112,
+    "name": "archdemon arcs",
+    "desc": "Formidable fighting fans with a diabolical design."
+  }
+]

@@ -1,0 +1,2242 @@
+{
+  "0": {
+    "start_idx": 0,
+    "sing": "slime",
+    "disp": "slime",
+    "plur": "slimes",
+    "art4": "the "
+  },
+  "1": {
+    "start_idx": 8,
+    "sing": "dracky",
+    "disp": "dracky",
+    "plur": "drackies",
+    "art4": "the "
+  },
+  "2": {
+    "start_idx": 16,
+    "sing": "walking corpse",
+    "disp": "walking corpse",
+    "plur": "walking corpses",
+    "art4": "the "
+  },
+  "3": {
+    "start_idx": 24,
+    "sing": "chimaera",
+    "disp": "chimaera",
+    "plur": "chimaeras",
+    "art4": "the "
+  },
+  "4": {
+    "start_idx": 32,
+    "sing": "imp",
+    "disp": "imp",
+    "plur": "imps",
+    "art4": "the "
+  },
+  "5": {
+    "start_idx": 40,
+    "sing": "hammerhood",
+    "disp": "hammerhood",
+    "plur": "hammerhoods",
+    "art4": "the "
+  },
+  "6": {
+    "start_idx": 48,
+    "sing": "restless armour",
+    "disp": "restless armour",
+    "plur": "restless armours",
+    "art4": "the "
+  },
+  "7": {
+    "start_idx": 56,
+    "sing": "healslime",
+    "disp": "healslime",
+    "plur": "healslimes",
+    "art4": "the "
+  },
+  "8": {
+    "start_idx": 64,
+    "sing": "rockbomb",
+    "disp": "rockbomb",
+    "plur": "rockbombs",
+    "art4": "the "
+  },
+  "9": {
+    "start_idx": 72,
+    "sing": "goodybag",
+    "disp": "goodybag",
+    "plur": "goodybags",
+    "art4": "the "
+  },
+  "10": {
+    "start_idx": 80,
+    "sing": "mummy",
+    "disp": "mummy",
+    "plur": "mummies",
+    "art4": "the "
+  },
+  "11": {
+    "start_idx": 88,
+    "sing": "golem",
+    "disp": "golem",
+    "plur": "golems",
+    "art4": "the "
+  },
+  "12": {
+    "start_idx": 96,
+    "sing": "killing machine",
+    "disp": "killing machine",
+    "plur": "killing machines",
+    "art4": "the "
+  },
+  "13": {
+    "start_idx": 104,
+    "sing": "platypunk",
+    "disp": "platypunk",
+    "plur": "platypunks",
+    "art4": "the "
+  },
+  "14": {
+    "start_idx": 112,
+    "sing": "agoomulator",
+    "disp": "agoomulator",
+    "plur": "agoomulators",
+    "art4": "the "
+  },
+  "15": {
+    "start_idx": 120,
+    "sing": "jailcat",
+    "disp": "jailcat",
+    "plur": "jailcats",
+    "art4": "the "
+  },
+  "16": {
+    "start_idx": 128,
+    "sing": "Merry Man",
+    "disp": "Merry Man",
+    "plur": "Merry Men",
+    "art4": "the "
+  },
+  "17": {
+    "start_idx": 136,
+    "sing": "bodkin archer",
+    "disp": "bodkin archer",
+    "plur": "bodkin archers",
+    "art4": "the "
+  },
+  "18": {
+    "start_idx": 144,
+    "sing": "troll",
+    "disp": "troll",
+    "plur": "trolls",
+    "art4": "the "
+  },
+  "19": {
+    "start_idx": 152,
+    "sing": "king slime",
+    "disp": "king slime",
+    "plur": "king slimes",
+    "art4": "the "
+  },
+  "20": {
+    "start_idx": 160,
+    "sing": "roseguardin",
+    "disp": "roseguardin",
+    "plur": "roseguardins",
+    "art4": "the "
+  },
+  "21": {
+    "start_idx": 168,
+    "sing": "hacksaurus",
+    "disp": "hacksaurus",
+    "plur": "hacksauruses",
+    "art4": "the "
+  },
+  "22": {
+    "start_idx": 176,
+    "sing": "living statue",
+    "disp": "living statue",
+    "plur": "living statues",
+    "art4": "the "
+  },
+  "23": {
+    "start_idx": 184,
+    "sing": "gargoyle",
+    "disp": "gargoyle",
+    "plur": "gargoyles",
+    "art4": "the "
+  },
+  "24": {
+    "start_idx": 192,
+    "sing": "liquid metal slime",
+    "disp": "liquid metal slime",
+    "plur": "liquid metal slimes",
+    "art4": "the "
+  },
+  "25": {
+    "start_idx": 200,
+    "sing": "mimic",
+    "disp": "mimic",
+    "plur": "mimics",
+    "art4": "the "
+  },
+  "26": {
+    "start_idx": 208,
+    "sing": "gigantes",
+    "disp": "gigantes",
+    "plur": "gigantes",
+    "art4": "the "
+  },
+  "27": {
+    "start_idx": 216,
+    "sing": "archdemon",
+    "disp": "archdemon",
+    "plur": "archdemons",
+    "art4": "the "
+  },
+  "28": {
+    "start_idx": 224,
+    "sing": "silvapithecus",
+    "disp": "silvapithecus",
+    "plur": "silvapithecuses",
+    "art4": "the "
+  },
+  "29": {
+    "start_idx": 232,
+    "sing": "great sabrecat",
+    "disp": "great sabrecat",
+    "plur": "great sabrecats",
+    "art4": "the "
+  },
+  "30": {
+    "start_idx": 240,
+    "sing": "slime knight",
+    "disp": "slime knight",
+    "plur": "slime knights",
+    "art4": "the "
+  },
+  "31": {
+    "start_idx": 248,
+    "sing": "muddy hand",
+    "disp": "muddy hand",
+    "plur": "muddy hands",
+    "art4": "the "
+  },
+  "32": {
+    "start_idx": 256,
+    "sing": "obstrocktion",
+    "disp": "obstrocktion",
+    "plur": "obstrocktions",
+    "art4": "the "
+  },
+  "33": {
+    "start_idx": 264,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "34": {
+    "start_idx": 272,
+    "sing": "float-o-copier",
+    "disp": "float-o-copier",
+    "plur": "float-o-copiers",
+    "art4": "the "
+  },
+  "35": {
+    "start_idx": 280,
+    "sing": "ghost",
+    "disp": "ghost",
+    "plur": "ghosts",
+    "art4": "the "
+  },
+  "36": {
+    "start_idx": 288,
+    "sing": "mud mannequin",
+    "disp": "mud mannequin",
+    "plur": "mud mannequins",
+    "art4": "the "
+  },
+  "37": {
+    "start_idx": 296,
+    "sing": "ice sculpture",
+    "disp": "ice sculpture",
+    "plur": "ice sculptures",
+    "art4": "the "
+  },
+  "38": {
+    "start_idx": 304,
+    "sing": "cumaulus",
+    "disp": "cumaulus",
+    "plur": "cumauluses",
+    "art4": "the "
+  },
+  "39": {
+    "start_idx": 312,
+    "sing": "hunter mech",
+    "disp": "hunter mech",
+    "plur": "hunter mechs",
+    "art4": "the "
+  },
+  "40": {
+    "start_idx": 320,
+    "sing": "hocus chimaera",
+    "disp": "hocus chimaera",
+    "plur": "hocus chimaeras",
+    "art4": "the "
+  },
+  "41": {
+    "start_idx": 328,
+    "sing": "Robbin' 'Ood",
+    "disp": "Robbin' 'Ood",
+    "plur": "Robbin' 'Oods",
+    "art4": ""
+  },
+  "42": {
+    "start_idx": 336,
+    "sing": "she-slime",
+    "disp": "she-slime",
+    "plur": "she-slimes",
+    "art4": "the "
+  },
+  "43": {
+    "start_idx": 344,
+    "sing": "dancing flame",
+    "disp": "dancing flame",
+    "plur": "dancing flames",
+    "art4": "the "
+  },
+  "44": {
+    "start_idx": 352,
+    "sing": "metal king slime",
+    "disp": "metal king slime",
+    "plur": "metal king slimes",
+    "art4": "the "
+  },
+  "45": {
+    "start_idx": 360,
+    "sing": "cureslime",
+    "disp": "cureslime",
+    "plur": "cureslimes",
+    "art4": "the "
+  },
+  "46": {
+    "start_idx": 368,
+    "sing": "stone golem",
+    "disp": "stone golem",
+    "plur": "stone golems",
+    "art4": "the "
+  },
+  "47": {
+    "start_idx": 376,
+    "sing": "minidemon",
+    "disp": "minidemon",
+    "plur": "minidemons",
+    "art4": "the "
+  },
+  "48": {
+    "start_idx": 384,
+    "sing": "corpse corporal",
+    "disp": "corpse corporal",
+    "plur": "corpse corporals",
+    "art4": "the "
+  },
+  "49": {
+    "start_idx": 392,
+    "sing": "bomboulder",
+    "disp": "bomboulder",
+    "plur": "bomboulders",
+    "art4": "the "
+  },
+  "50": {
+    "start_idx": 400,
+    "sing": "tyrantosaurus",
+    "disp": "tyrantosaurus",
+    "plur": "tyrantosauruses",
+    "art4": "the "
+  },
+  "51": {
+    "start_idx": 408,
+    "sing": "shadow",
+    "disp": "shadow",
+    "plur": "shadows",
+    "art4": "the "
+  },
+  "52": {
+    "start_idx": 416,
+    "sing": "hawk man",
+    "disp": "hawk man",
+    "plur": "hawk men",
+    "art4": "the "
+  },
+  "53": {
+    "start_idx": 424,
+    "sing": "powie yowie",
+    "disp": "powie yowie",
+    "plur": "powie yowies",
+    "art4": "the "
+  },
+  "54": {
+    "start_idx": 432,
+    "sing": "metal slime",
+    "disp": "metal slime",
+    "plur": "metal slimes",
+    "art4": "the "
+  },
+  "55": {
+    "start_idx": 440,
+    "sing": "king cureslime",
+    "disp": "king cureslime",
+    "plur": "king cureslimes",
+    "art4": "the "
+  },
+  "56": {
+    "start_idx": 448,
+    "sing": "man o' war",
+    "disp": "man o' war",
+    "plur": "men o' war",
+    "art4": "the "
+  },
+  "57": {
+    "start_idx": 456,
+    "sing": "gold golem",
+    "disp": "gold golem",
+    "plur": "gold golems",
+    "art4": "the "
+  },
+  "58": {
+    "start_idx": 464,
+    "sing": "lethal armour",
+    "disp": "lethal armour",
+    "plur": "lethal armours",
+    "art4": "the "
+  },
+  "59": {
+    "start_idx": 472,
+    "sing": "toxic zombie",
+    "disp": "toxic zombie",
+    "plur": "toxic zombies",
+    "art4": "the "
+  },
+  "60": {
+    "start_idx": 480,
+    "sing": "bubble slime",
+    "disp": "bubble slime",
+    "plur": "bubble slimes",
+    "art4": "the "
+  },
+  "61": {
+    "start_idx": 488,
+    "sing": "drackyma",
+    "disp": "drackyma",
+    "plur": "drackymas",
+    "art4": "the "
+  },
+  "62": {
+    "start_idx": 496,
+    "sing": "cannibox",
+    "disp": "cannibox",
+    "plur": "canniboxes",
+    "art4": "the "
+  },
+  "63": {
+    "start_idx": 504,
+    "sing": "bag o' laughs",
+    "disp": "bag o' laughs",
+    "plur": "bags o' laughs",
+    "art4": "the "
+  },
+  "64": {
+    "start_idx": 512,
+    "sing": "Atlas",
+    "disp": "Atlas",
+    "plur": "Atlases",
+    "art4": ""
+  },
+  "65": {
+    "start_idx": 520,
+    "sing": "treeface",
+    "disp": "treeface",
+    "plur": "treefaces",
+    "art4": "the "
+  },
+  "66": {
+    "start_idx": 528,
+    "sing": "hoodlum",
+    "disp": "hoodlum",
+    "plur": "hoodlums",
+    "art4": "the "
+  },
+  "67": {
+    "start_idx": 536,
+    "sing": "metal slime knight",
+    "disp": "metal slime knight",
+    "plur": "metal slime knights",
+    "art4": "the "
+  },
+  "68": {
+    "start_idx": 544,
+    "sing": "bloody hand",
+    "disp": "bloody hand",
+    "plur": "bloody hands",
+    "art4": "the "
+  },
+  "69": {
+    "start_idx": 552,
+    "sing": "green dragon",
+    "disp": "green dragon",
+    "plur": "green dragons",
+    "art4": "the "
+  },
+  "70": {
+    "start_idx": 560,
+    "sing": "mandrake major",
+    "disp": "mandrake major",
+    "plur": "mandrake majors",
+    "art4": "the "
+  },
+  "71": {
+    "start_idx": 568,
+    "sing": "drackmage",
+    "disp": "drackmage",
+    "plur": "drackmages",
+    "art4": "the "
+  },
+  "72": {
+    "start_idx": 576,
+    "sing": "Pandora's box",
+    "disp": "Pandora's box",
+    "plur": "Pandora's boxes",
+    "art4": "the "
+  },
+  "73": {
+    "start_idx": 584,
+    "sing": "bone baron",
+    "disp": "bone baron",
+    "plur": "bone barons",
+    "art4": "the "
+  },
+  "74": {
+    "start_idx": 592,
+    "sing": "Type G0",
+    "disp": "Type G0",
+    "plur": "Type G0s",
+    "art4": "the "
+  },
+  "75": {
+    "start_idx": 600,
+    "sing": "dread dragon",
+    "disp": "dread dragon",
+    "plur": "dread dragons",
+    "art4": "the "
+  },
+  "76": {
+    "start_idx": 608,
+    "sing": "gryphon",
+    "disp": "gryphon",
+    "plur": "gryphons",
+    "art4": "the "
+  },
+  "77": {
+    "start_idx": 616,
+    "sing": "hellion",
+    "disp": "hellion",
+    "plur": "hellions",
+    "art4": "the "
+  },
+  "78": {
+    "start_idx": 624,
+    "sing": "cosmic chimaera",
+    "disp": "cosmic chimaera",
+    "plur": "cosmic chimaeras",
+    "art4": "the "
+  },
+  "79": {
+    "start_idx": 632,
+    "sing": "teeny sanguini",
+    "disp": "teeny sanguini",
+    "plur": "teeny sanguinis",
+    "art4": "the "
+  },
+  "80": {
+    "start_idx": 640,
+    "sing": "skeleton soldier",
+    "disp": "skeleton soldier",
+    "plur": "skeleton soldiers",
+    "art4": "the "
+  },
+  "81": {
+    "start_idx": 648,
+    "sing": "boss troll",
+    "disp": "boss troll",
+    "plur": "boss trolls",
+    "art4": "the "
+  },
+  "82": {
+    "start_idx": 656,
+    "sing": "sorcerer",
+    "disp": "sorcerer",
+    "plur": "sorcerers",
+    "art4": "the "
+  },
+  "83": {
+    "start_idx": 664,
+    "sing": "pink sanguini",
+    "disp": "pink sanguini",
+    "plur": "pink sanguinis",
+    "art4": "the "
+  },
+  "84": {
+    "start_idx": 672,
+    "sing": "skeleton",
+    "disp": "skeleton",
+    "plur": "skeletons",
+    "art4": "the "
+  },
+  "85": {
+    "start_idx": 680,
+    "sing": "wight king",
+    "disp": "wight king",
+    "plur": "wight kings",
+    "art4": "the "
+  },
+  "86": {
+    "start_idx": 688,
+    "sing": "shaman",
+    "disp": "shaman",
+    "plur": "shamans",
+    "art4": "the "
+  },
+  "87": {
+    "start_idx": 696,
+    "sing": "genie sanguini",
+    "disp": "genie sanguini",
+    "plur": "genie sanguinis",
+    "art4": "the "
+  },
+  "88": {
+    "start_idx": 704,
+    "sing": "dark skeleton",
+    "disp": "dark skeleton",
+    "plur": "dark skeletons",
+    "art4": "the "
+  },
+  "89": {
+    "start_idx": 712,
+    "sing": "stone guardian",
+    "disp": "stone guardian",
+    "plur": "stone guardians",
+    "art4": "the "
+  },
+  "90": {
+    "start_idx": 720,
+    "sing": "magus",
+    "disp": "magus",
+    "plur": "magi",
+    "art4": "the "
+  },
+  "91": {
+    "start_idx": 728,
+    "sing": "moosifer",
+    "disp": "moosifer",
+    "plur": "moosifers",
+    "art4": "the "
+  },
+  "92": {
+    "start_idx": 736,
+    "sing": "night clubber",
+    "disp": "night clubber",
+    "plur": "night clubbers",
+    "art4": "the "
+  },
+  "93": {
+    "start_idx": 744,
+    "sing": "drakulard",
+    "disp": "drakulard",
+    "plur": "drakulards",
+    "art4": "the "
+  },
+  "94": {
+    "start_idx": 752,
+    "sing": "knight aberrant",
+    "disp": "knight aberrant",
+    "plur": "knights aberrant",
+    "art4": "the "
+  },
+  "95": {
+    "start_idx": 760,
+    "sing": "grinade",
+    "disp": "grinade",
+    "plur": "grinades",
+    "art4": "the "
+  },
+  "96": {
+    "start_idx": 768,
+    "sing": "stout troll",
+    "disp": "stout troll",
+    "plur": "stout trolls",
+    "art4": "the "
+  },
+  "97": {
+    "start_idx": 776,
+    "sing": "brownie",
+    "disp": "brownie",
+    "plur": "brownies",
+    "art4": "the "
+  },
+  "98": {
+    "start_idx": 784,
+    "sing": "missing lynx",
+    "disp": "missing lynx",
+    "plur": "missing lynxes",
+    "art4": "the "
+  },
+  "99": {
+    "start_idx": 792,
+    "sing": "zombie gladiator",
+    "disp": "zombie gladiator",
+    "plur": "zombie gladiators",
+    "art4": "the "
+  },
+  "100": {
+    "start_idx": 800,
+    "sing": "hell gladiator",
+    "disp": "hell gladiator",
+    "plur": "hell gladiators",
+    "art4": "the "
+  },
+  "101": {
+    "start_idx": 808,
+    "sing": "King of Klor",
+    "disp": "King of Klor",
+    "plur": "Kings of Klor",
+    "art4": "the "
+  },
+  "102": {
+    "start_idx": 816,
+    "sing": "overkilling machine",
+    "disp": "overkilling machine",
+    "plur": "overkilling machines",
+    "art4": "the "
+  },
+  "103": {
+    "start_idx": 824,
+    "sing": "low djinks",
+    "disp": "low djinks",
+    "plur": "low djinks",
+    "art4": "the "
+  },
+  "104": {
+    "start_idx": 832,
+    "sing": "blood mummy",
+    "disp": "blood mummy",
+    "plur": "blood mummies",
+    "art4": "the "
+  },
+  "105": {
+    "start_idx": 840,
+    "sing": "Crack-billed platypunk",
+    "disp": "Crack-billed platypunk",
+    "plur": "Crack-billed platypunks",
+    "art4": "the "
+  },
+  "106": {
+    "start_idx": 848,
+    "sing": "candy cat",
+    "disp": "candy cat",
+    "plur": "candy cats",
+    "art4": "the "
+  },
+  "107": {
+    "start_idx": 856,
+    "sing": "Marquis de Léon",
+    "disp": "Marquis de Léon",
+    "plur": "Marquises de Léon",
+    "art4": "the "
+  },
+  "108": {
+    "start_idx": 864,
+    "sing": "barbatos",
+    "disp": "barbatos",
+    "plur": "barbatoses",
+    "art4": "the "
+  },
+  "109": {
+    "start_idx": 872,
+    "sing": "demon-at-arms",
+    "disp": "demon-at-arms",
+    "plur": "demons-at-arms",
+    "art4": "the "
+  },
+  "110": {
+    "start_idx": 880,
+    "sing": "pazuzu",
+    "disp": "pazuzu",
+    "plur": "pazuzus",
+    "art4": "the "
+  },
+  "111": {
+    "start_idx": 888,
+    "sing": "überkilling machine",
+    "disp": "überkilling machine",
+    "plur": "überkilling machines",
+    "art4": "the "
+  },
+  "112": {
+    "start_idx": 896,
+    "sing": "belial",
+    "disp": "belial",
+    "plur": "belials",
+    "art4": "the "
+  },
+  "113": {
+    "start_idx": 904,
+    "sing": "bodkin fletcher",
+    "disp": "bodkin fletcher",
+    "plur": "bodkin fletchers",
+    "art4": "the "
+  },
+  "114": {
+    "start_idx": 912,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "115": {
+    "start_idx": 920,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "116": {
+    "start_idx": 928,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "117": {
+    "start_idx": 936,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "118": {
+    "start_idx": 944,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "119": {
+    "start_idx": 952,
+    "sing": "lost soul",
+    "disp": "lost soul",
+    "plur": "lost souls",
+    "art4": "the "
+  },
+  "120": {
+    "start_idx": 960,
+    "sing": "spitegeist",
+    "disp": "spitegeist",
+    "plur": "spitegeists",
+    "art4": "the "
+  },
+  "121": {
+    "start_idx": 968,
+    "sing": "magic marionette",
+    "disp": "magic marionette",
+    "plur": "magic marionettes",
+    "art4": "the "
+  },
+  "122": {
+    "start_idx": 976,
+    "sing": "King of Kadava",
+    "disp": "King of Kadava",
+    "plur": "Kings of Kadava",
+    "art4": "the "
+  },
+  "123": {
+    "start_idx": 984,
+    "sing": "hell niño",
+    "disp": "hell niño",
+    "plur": "hell niños",
+    "art4": "the "
+  },
+  "124": {
+    "start_idx": 992,
+    "sing": "frostburn",
+    "disp": "frostburn",
+    "plur": "frostburns",
+    "art4": "the "
+  },
+  "125": {
+    "start_idx": 1000,
+    "sing": "shade",
+    "disp": "shade",
+    "plur": "shades",
+    "art4": "the "
+  },
+  "126": {
+    "start_idx": 1008,
+    "sing": "sasquash",
+    "disp": "sasquash",
+    "plur": "sasquashes",
+    "art4": "the "
+  },
+  "127": {
+    "start_idx": 1016,
+    "sing": "treevil",
+    "disp": "treevil",
+    "plur": "treevils",
+    "art4": "the "
+  },
+  "128": {
+    "start_idx": 1024,
+    "sing": "hood",
+    "disp": "hood",
+    "plur": "hoods",
+    "art4": "the "
+  },
+  "129": {
+    "start_idx": 1032,
+    "sing": "mandrake marauder",
+    "disp": "mandrake marauder",
+    "plur": "mandrake marauders",
+    "art4": "the "
+  },
+  "130": {
+    "start_idx": 1040,
+    "sing": "grim rider",
+    "disp": "grim rider",
+    "plur": "grim riders",
+    "art4": "the "
+  },
+  "131": {
+    "start_idx": 1048,
+    "sing": "war gryphon",
+    "disp": "war gryphon",
+    "plur": "war gryphons",
+    "art4": "the "
+  },
+  "132": {
+    "start_idx": 1056,
+    "sing": "tortured soul",
+    "disp": "tortured soul",
+    "plur": "tortured souls",
+    "art4": "the "
+  },
+  "133": {
+    "start_idx": 1064,
+    "sing": "Balzack",
+    "disp": "Balzack",
+    "plur": "Balzacks",
+    "art4": ""
+  },
+  "134": {
+    "start_idx": 1072,
+    "sing": "knight errant",
+    "disp": "knight errant",
+    "plur": "knights errant",
+    "art4": "the "
+  },
+  "135": {
+    "start_idx": 1080,
+    "sing": "winged sabrecat",
+    "disp": "winged sabrecat",
+    "plur": "winged sabrecats",
+    "art4": "the "
+  },
+  "136": {
+    "start_idx": 1088,
+    "sing": "King of Al-Khazam",
+    "disp": "King of Al-Khazam",
+    "plur": "Kings of Al-Khazam",
+    "art4": "the "
+  },
+  "137": {
+    "start_idx": 1096,
+    "sing": "cloud surfer",
+    "disp": "cloud surfer",
+    "plur": "cloud surfers",
+    "art4": "the "
+  },
+  "138": {
+    "start_idx": 1104,
+    "sing": "mummy boy",
+    "disp": "mummy boy",
+    "plur": "mummy boys",
+    "art4": "the "
+  },
+  "139": {
+    "start_idx": 1112,
+    "sing": "splatypunk",
+    "disp": "splatypunk",
+    "plur": "splatypunks",
+    "art4": "the "
+  },
+  "140": {
+    "start_idx": 1120,
+    "sing": "terror tabby",
+    "disp": "terror tabby",
+    "plur": "terror tabbies",
+    "art4": "the "
+  },
+  "141": {
+    "start_idx": 1128,
+    "sing": "bodkin bowyer",
+    "disp": "bodkin bowyer",
+    "plur": "bodkin bowyers",
+    "art4": "the "
+  },
+  "142": {
+    "start_idx": 1136,
+    "sing": "firespirit",
+    "disp": "firespirit",
+    "plur": "firespirits",
+    "art4": "the "
+  },
+  "143": {
+    "start_idx": 1144,
+    "sing": "fightgeist",
+    "disp": "fightgeist",
+    "plur": "fightgeists",
+    "art4": "the "
+  },
+  "144": {
+    "start_idx": 1152,
+    "sing": "multicolour mannequin",
+    "disp": "multicolour mannequin",
+    "plur": "multicolour mannequins",
+    "art4": "the "
+  },
+  "145": {
+    "start_idx": 1160,
+    "sing": "hellcaster",
+    "disp": "hellcaster",
+    "plur": "hellcasters",
+    "art4": "the "
+  },
+  "146": {
+    "start_idx": 1168,
+    "sing": "freezing fog",
+    "disp": "freezing fog",
+    "plur": "freezing fogs",
+    "art4": "the "
+  },
+  "147": {
+    "start_idx": 1176,
+    "sing": "silhouette",
+    "disp": "silhouette",
+    "plur": "silhouettes",
+    "art4": "the "
+  },
+  "148": {
+    "start_idx": 1184,
+    "sing": "sweaty yeti",
+    "disp": "sweaty yeti",
+    "plur": "sweaty yetis",
+    "art4": "the "
+  },
+  "149": {
+    "start_idx": 1192,
+    "sing": "antiquitree",
+    "disp": "antiquitree",
+    "plur": "antiquitrees",
+    "art4": "the "
+  },
+  "150": {
+    "start_idx": 1200,
+    "sing": "heavy hood",
+    "disp": "heavy hood",
+    "plur": "heavy hoods",
+    "art4": "the "
+  },
+  "151": {
+    "start_idx": 1208,
+    "sing": "mandrake marshal",
+    "disp": "mandrake marshal",
+    "plur": "mandrake marshals",
+    "art4": "the "
+  },
+  "152": {
+    "start_idx": 1216,
+    "sing": "night rider",
+    "disp": "night rider",
+    "plur": "night riders",
+    "art4": "the "
+  },
+  "153": {
+    "start_idx": 1224,
+    "sing": "jamirus",
+    "disp": "jamirus",
+    "plur": "jamiruses",
+    "art4": "the "
+  },
+  "154": {
+    "start_idx": 1232,
+    "sing": "wight priest",
+    "disp": "wight priest",
+    "plur": "wight priests",
+    "art4": "the "
+  },
+  "155": {
+    "start_idx": 1240,
+    "sing": "pruslas",
+    "disp": "pruslas",
+    "plur": "pruslases",
+    "art4": "the "
+  },
+  "156": {
+    "start_idx": 1248,
+    "sing": "knight abhorrent",
+    "disp": "knight abhorrent",
+    "plur": "knights abhorrent",
+    "art4": "the "
+  },
+  "157": {
+    "start_idx": 1256,
+    "sing": "draguar",
+    "disp": "draguar",
+    "plur": "draguars",
+    "art4": "the "
+  },
+  "158": {
+    "start_idx": 1264,
+    "sing": "killing machine",
+    "disp": "killing machine",
+    "plur": "killing machines",
+    "art4": "the "
+  },
+  "159": {
+    "start_idx": 1272,
+    "sing": "high djinks",
+    "disp": "high djinks",
+    "plur": "high djinkses",
+    "art4": "the "
+  },
+  "160": {
+    "start_idx": 1280,
+    "sing": "bodkin bloodbow",
+    "disp": "bodkin bloodbow",
+    "plur": "bodkin bloodbows",
+    "art4": "the "
+  },
+  "161": {
+    "start_idx": 1288,
+    "sing": "zamtasm",
+    "disp": "zamtasm",
+    "plur": "zamtasms",
+    "art4": "the "
+  },
+  "162": {
+    "start_idx": 1296,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "163": {
+    "start_idx": 1304,
+    "sing": "Fractos",
+    "disp": "Fractos",
+    "plur": "Fractoses",
+    "art4": ""
+  },
+  "164": {
+    "start_idx": 1312,
+    "sing": "blue dragon",
+    "disp": "blue dragon",
+    "plur": "blue dragons",
+    "art4": "the "
+  },
+  "165": {
+    "start_idx": 1320,
+    "sing": "master moosifer",
+    "disp": "master moosifer",
+    "plur": "master moosifers",
+    "art4": "the "
+  },
+  "166": {
+    "start_idx": 1328,
+    "sing": "Dhuran",
+    "disp": "Dhuran",
+    "plur": "Dhurans",
+    "art4": ""
+  },
+  "167": {
+    "start_idx": 1336,
+    "sing": "dark brownie",
+    "disp": "dark brownie",
+    "plur": "dark brownies",
+    "art4": "the "
+  },
+  "168": {
+    "start_idx": 1344,
+    "sing": "great troll",
+    "disp": "great troll",
+    "plur": "great trolls",
+    "art4": "the "
+  },
+  "169": {
+    "start_idx": 1352,
+    "sing": "axesaurus",
+    "disp": "axesaurus",
+    "plur": "axesauruses",
+    "art4": "the "
+  },
+  "170": {
+    "start_idx": 1360,
+    "sing": "Fractos Unfettered",
+    "disp": "Fractos Unfettered",
+    "plur": "Fractoses Unfettered",
+    "art4": ""
+  },
+  "171": {
+    "start_idx": 1368,
+    "sing": "ghoul",
+    "disp": "ghoul",
+    "plur": "ghouls",
+    "art4": "the "
+  },
+  "172": {
+    "start_idx": 1376,
+    "sing": "infernal armour",
+    "disp": "infernal armour",
+    "plur": "infernal armours",
+    "art4": "the "
+  },
+  "173": {
+    "start_idx": 1384,
+    "sing": "batmandrill",
+    "disp": "batmandrill",
+    "plur": "batmandrills",
+    "art4": "the "
+  },
+  "174": {
+    "start_idx": 1392,
+    "sing": "bullion",
+    "disp": "bullion",
+    "plur": "bullions",
+    "art4": "the "
+  },
+  "175": {
+    "start_idx": 1400,
+    "sing": "loss leader",
+    "disp": "loss leader",
+    "plur": "loss leaders",
+    "art4": "the "
+  },
+  "176": {
+    "start_idx": 1408,
+    "sing": "Lazarel",
+    "disp": "Lazarel",
+    "plur": "Lazarels",
+    "art4": ""
+  },
+  "177": {
+    "start_idx": 1416,
+    "sing": "Teresa",
+    "disp": "Teresa",
+    "plur": "Teresas",
+    "art4": ""
+  },
+  "178": {
+    "start_idx": 1424,
+    "sing": "Cesar",
+    "disp": "Cesar",
+    "plur": "Cesars",
+    "art4": ""
+  },
+  "179": {
+    "start_idx": 1432,
+    "sing": "mysterious swordsman",
+    "disp": "mysterious swordsman",
+    "plur": "mysterious swordsmen",
+    "art4": "the "
+  },
+  "180": {
+    "start_idx": 1440,
+    "sing": "mysterious martial artist",
+    "disp": "mysterious martial artist",
+    "plur": "mysterious martial artists",
+    "art4": "the "
+  },
+  "181": {
+    "start_idx": 1448,
+    "sing": "Maya",
+    "disp": "Maya",
+    "plur": "Mayas",
+    "art4": ""
+  },
+  "182": {
+    "start_idx": 1456,
+    "sing": "Sinister Cesar",
+    "disp": "Sinister Cesar",
+    "plur": "Sinister Cesars",
+    "art4": ""
+  },
+  "183": {
+    "start_idx": 1464,
+    "sing": "Demonic Desdemona",
+    "disp": "Demonic Desdemona",
+    "plur": "Demonic Desdemonas",
+    "art4": ""
+  },
+  "184": {
+    "start_idx": 1472,
+    "sing": "Evil Alena",
+    "disp": "Evil Alena",
+    "plur": "Evil Alenas",
+    "art4": ""
+  },
+  "185": {
+    "start_idx": 1480,
+    "sing": "Cruel Kiryl",
+    "disp": "Cruel Kiryl",
+    "plur": "Cruel Kiryls",
+    "art4": ""
+  },
+  "186": {
+    "start_idx": 1488,
+    "sing": "Malign Maya",
+    "disp": "Malign Maya",
+    "plur": "Malign Mayas",
+    "art4": ""
+  },
+  "187": {
+    "start_idx": 1496,
+    "sing": "Malicious Meena",
+    "disp": "Malicious Meena",
+    "plur": "Malicious Meenas",
+    "art4": ""
+  },
+  "188": {
+    "start_idx": 1504,
+    "sing": "Tainted Torneko",
+    "disp": "Tainted Torneko",
+    "plur": "Tainted Tornekos",
+    "art4": ""
+  },
+  "189": {
+    "start_idx": 1512,
+    "sing": "Tainted Terry",
+    "disp": "Tainted Terry",
+    "plur": "Tainted Terrys",
+    "art4": ""
+  },
+  "190": {
+    "start_idx": 1520,
+    "sing": "Callous Carver",
+    "disp": "Callous Carver",
+    "plur": "Callous Carvers",
+    "art4": ""
+  },
+  "191": {
+    "start_idx": 1528,
+    "sing": "Malevolent Maribel",
+    "disp": "Malevolent Maribel",
+    "plur": "Malevolent Maribels",
+    "art4": ""
+  },
+  "192": {
+    "start_idx": 1536,
+    "sing": "Gruff Ruff",
+    "disp": "Gruff Ruff",
+    "plur": "Gruff Ruffs",
+    "art4": ""
+  },
+  "193": {
+    "start_idx": 1544,
+    "sing": "Jaundiced Jessica",
+    "disp": "Jaundiced Jessica",
+    "plur": "Jaundiced Jessicas",
+    "art4": ""
+  },
+  "194": {
+    "start_idx": 1552,
+    "sing": "Unpleasant Angelo",
+    "disp": "Unpleasant Angelo",
+    "plur": "Unpleasant Angelos",
+    "art4": ""
+  },
+  "195": {
+    "start_idx": 1560,
+    "sing": "Hard-Hearted Healix",
+    "disp": "Hard-Hearted Healix",
+    "plur": "Hard-Hearted Healixes",
+    "art4": ""
+  },
+  "196": {
+    "start_idx": 1568,
+    "sing": "Dunisian soldier",
+    "disp": "Dunisian soldier",
+    "plur": "Dunisian soldiers",
+    "art4": "the "
+  },
+  "197": {
+    "start_idx": 1576,
+    "sing": "Ingenian soldier",
+    "disp": "Ingenian soldier",
+    "plur": "Ingenian soldiers",
+    "art4": "the "
+  },
+  "198": {
+    "start_idx": 1584,
+    "sing": "knight aberrant",
+    "disp": "knight aberrant",
+    "plur": "knights aberrant",
+    "art4": "the "
+  },
+  "199": {
+    "start_idx": 1592,
+    "sing": "night clubber",
+    "disp": "night clubber",
+    "plur": "night clubbers",
+    "art4": "the "
+  },
+  "200": {
+    "start_idx": 1600,
+    "sing": "hood",
+    "disp": "hood",
+    "plur": "hoods",
+    "art4": "the "
+  },
+  "201": {
+    "start_idx": 1608,
+    "sing": "Field Marshal Donk",
+    "disp": "Field Marshal Donk",
+    "plur": "Field Marshal Donks",
+    "art4": ""
+  },
+  "202": {
+    "start_idx": 1616,
+    "sing": "infernal armour",
+    "disp": "infernal armour",
+    "plur": "infernal armours",
+    "art4": "the "
+  },
+  "203": {
+    "start_idx": 1624,
+    "sing": "hacksaurus",
+    "disp": "hacksaurus",
+    "plur": "hacksauruses",
+    "art4": "the "
+  },
+  "204": {
+    "start_idx": 1632,
+    "sing": "mandrake major",
+    "disp": "mandrake major",
+    "plur": "mandrake majors",
+    "art4": "the "
+  },
+  "205": {
+    "start_idx": 1640,
+    "sing": "powie yowie",
+    "disp": "powie yowie",
+    "plur": "powie yowies",
+    "art4": "the "
+  },
+  "206": {
+    "start_idx": 1648,
+    "sing": "blue dragon",
+    "disp": "blue dragon",
+    "plur": "blue dragons",
+    "art4": "the "
+  },
+  "207": {
+    "start_idx": 1656,
+    "sing": "Abominable Showman",
+    "disp": "Abominable Showman",
+    "plur": "Abominable Showmen",
+    "art4": "the "
+  },
+  "208": {
+    "start_idx": 1664,
+    "sing": "missing lynx",
+    "disp": "missing lynx",
+    "plur": "missing lynxes",
+    "art4": "the "
+  },
+  "209": {
+    "start_idx": 1672,
+    "sing": "Whameses",
+    "disp": "Whameses",
+    "plur": "Whameseses",
+    "art4": ""
+  },
+  "210": {
+    "start_idx": 1680,
+    "sing": "float-o-copier",
+    "disp": "float-o-copier",
+    "plur": "float-o-copiers",
+    "art4": "the "
+  },
+  "211": {
+    "start_idx": 1688,
+    "sing": "float-o-copier",
+    "disp": "float-o-copier",
+    "plur": "float-o-copiers",
+    "art4": "the "
+  },
+  "212": {
+    "start_idx": 1696,
+    "sing": "Dhuran",
+    "disp": "Dhuran",
+    "plur": "Dhuran",
+    "art4": ""
+  },
+  "213": {
+    "start_idx": 1704,
+    "sing": "Dhuran",
+    "disp": "Dhuran",
+    "plur": "Dhuran",
+    "art4": ""
+  },
+  "214": {
+    "start_idx": 1712,
+    "sing": "master moosifer",
+    "disp": "master moosifer",
+    "plur": "master moosifers",
+    "art4": "the "
+  },
+  "215": {
+    "start_idx": 1720,
+    "sing": "Lionidas",
+    "disp": "Lionidas",
+    "plur": "Lionidas",
+    "art4": ""
+  },
+  "216": {
+    "start_idx": 1728,
+    "sing": "pruslas",
+    "disp": "pruslas",
+    "plur": "pruslases",
+    "art4": "the "
+  },
+  "217": {
+    "start_idx": 1736,
+    "sing": "Marquis de Léon",
+    "disp": "Marquis de Léon",
+    "plur": "Marquises de Léon",
+    "art4": "the "
+  },
+  "218": {
+    "start_idx": 1744,
+    "sing": "mandrake major",
+    "disp": "mandrake major",
+    "plur": "mandrake majors",
+    "art4": "the "
+  },
+  "219": {
+    "start_idx": 1752,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "220": {
+    "start_idx": 1760,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "221": {
+    "start_idx": 1768,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "222": {
+    "start_idx": 1776,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "223": {
+    "start_idx": 1784,
+    "sing": "veteran knight aberrant",
+    "disp": "veteran knight aberrant",
+    "plur": "veteran knights aberrant",
+    "art4": "the "
+  },
+  "224": {
+    "start_idx": 1792,
+    "sing": "tomb terror",
+    "disp": "tomb terror",
+    "plur": "tomb terrors",
+    "art4": "the "
+  },
+  "225": {
+    "start_idx": 1800,
+    "sing": "tomb bowyer",
+    "disp": "tomb bowyer",
+    "plur": "tomb bowyers",
+    "art4": "the "
+  },
+  "226": {
+    "start_idx": 1808,
+    "sing": "treasure troll",
+    "disp": "treasure troll",
+    "plur": "treasure trolls",
+    "art4": "the "
+  },
+  "227": {
+    "start_idx": 1816,
+    "sing": "autombaton",
+    "disp": "autombaton",
+    "plur": "autombata",
+    "art4": "the "
+  },
+  "228": {
+    "start_idx": 1824,
+    "sing": "tombinator",
+    "disp": "tombinator",
+    "plur": "tombinators",
+    "art4": "the "
+  },
+  "229": {
+    "start_idx": 1832,
+    "sing": "silver sabrecat",
+    "disp": "silver sabrecat",
+    "plur": "silver sabrecats",
+    "art4": "the "
+  },
+  "230": {
+    "start_idx": 1840,
+    "sing": "mawkeeper",
+    "disp": "mawkeeper",
+    "plur": "mawkeepers",
+    "art4": "the "
+  },
+  "231": {
+    "start_idx": 1848,
+    "sing": "sand sniper",
+    "disp": "sand sniper",
+    "plur": "sand snipers",
+    "art4": "the "
+  },
+  "232": {
+    "start_idx": 1856,
+    "sing": "Queen of Ingenia",
+    "disp": "Queen of Ingenia",
+    "plur": "Queens of Ingenia",
+    "art4": "the "
+  },
+  "233": {
+    "start_idx": 1864,
+    "sing": "drakulard",
+    "disp": "drakulard",
+    "plur": "drakulards",
+    "art4": "the "
+  },
+  "234": {
+    "start_idx": 1872,
+    "sing": "Abominable Showman",
+    "disp": "Abominable Showman",
+    "plur": "Abominable Showmen",
+    "art4": "the "
+  },
+  "235": {
+    "start_idx": 1880,
+    "sing": "King of Accordia",
+    "disp": "King of Accordia",
+    "plur": "Kings of Accordia",
+    "art4": "the "
+  },
+  "236": {
+    "start_idx": 1888,
+    "sing": "Atlas",
+    "disp": "Atlas",
+    "plur": "Atlases",
+    "art4": ""
+  },
+  "237": {
+    "start_idx": 1896,
+    "sing": "veteran night clubber",
+    "disp": "veteran night clubber",
+    "plur": "veteran night clubbers",
+    "art4": "the "
+  },
+  "238": {
+    "start_idx": 1904,
+    "sing": "hood",
+    "disp": "hood",
+    "plur": "hoods",
+    "art4": "the "
+  },
+  "239": {
+    "start_idx": 1912,
+    "sing": "glade invader",
+    "disp": "glade invader",
+    "plur": "glade invaders",
+    "art4": "the "
+  },
+  "240": {
+    "start_idx": 1920,
+    "sing": "crimson killing machine",
+    "disp": "crimson killing machine",
+    "plur": "crimson killing machines",
+    "art4": "the "
+  },
+  "241": {
+    "start_idx": 1928,
+    "sing": "Ingenian royal guard",
+    "disp": "Ingenian royal guard",
+    "plur": "Ingenian royal guard",
+    "art4": "the "
+  },
+  "242": {
+    "start_idx": 1936,
+    "sing": "Kadavan commander",
+    "disp": "Kadavan commander",
+    "plur": "Kadavan commanders",
+    "art4": "the "
+  },
+  "243": {
+    "start_idx": 1944,
+    "sing": "corpse corporal",
+    "disp": "corpse corporal",
+    "plur": "corpse corporals",
+    "art4": "the "
+  },
+  "244": {
+    "start_idx": 1952,
+    "sing": "Atlas",
+    "disp": "Atlas",
+    "plur": "Atlases",
+    "art4": ""
+  },
+  "245": {
+    "start_idx": 1960,
+    "sing": "King of Kadava",
+    "disp": "King of Kadava",
+    "plur": "Kings of Kadava",
+    "art4": "the "
+  },
+  "246": {
+    "start_idx": 1968,
+    "sing": "King of Klor",
+    "disp": "King of Klor",
+    "plur": "Kings of Klor",
+    "art4": "the "
+  },
+  "247": {
+    "start_idx": 1976,
+    "sing": "Balzack",
+    "disp": "Balzack",
+    "plur": "Balzacks",
+    "art4": ""
+  },
+  "248": {
+    "start_idx": 1984,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "249": {
+    "start_idx": 1992,
+    "sing": "Cranked-Up King of Kadava",
+    "disp": "Cranked-Up King of Kadava",
+    "plur": "Cranked-Up Kings of Kadava",
+    "art4": "the "
+  },
+  "250": {
+    "start_idx": 2000,
+    "sing": "Cranked-Up King of Klor",
+    "disp": "Cranked-Up King of Klor",
+    "plur": "Cranked-Up Kings of Klor",
+    "art4": "the "
+  },
+  "251": {
+    "start_idx": 2008,
+    "sing": "Absolutely Abominable Showman",
+    "disp": "Absolutely Abominable Showman",
+    "plur": "Absolutely Abominable Showmen",
+    "art4": "the "
+  },
+  "252": {
+    "start_idx": 2016,
+    "sing": "Ultimate Atlas",
+    "disp": "Ultimate Atlas",
+    "plur": "Ultimate Atlases",
+    "art4": ""
+  },
+  "253": {
+    "start_idx": 2024,
+    "sing": "veteran pazuzu",
+    "disp": "veteran pazuzu",
+    "plur": "veteran pazuzus",
+    "art4": "the "
+  },
+  "254": {
+    "start_idx": 2032,
+    "sing": "veteran belial",
+    "disp": "veteran belial",
+    "plur": "veteran belials",
+    "art4": "the "
+  },
+  "255": {
+    "start_idx": 2040,
+    "sing": "Cranked-Up King of Al-Khazam",
+    "disp": "Cranked-Up King of Al-Khazam",
+    "plur": "Cranked-Up Kings of Al-Khazam",
+    "art4": "the "
+  },
+  "256": {
+    "start_idx": 2048,
+    "sing": "Cranked-Up King of Accordia",
+    "disp": "Cranked-Up King of Accordia",
+    "plur": "Cranked-Up Kings of Accordia",
+    "art4": "the "
+  },
+  "257": {
+    "start_idx": 2056,
+    "sing": "Lord Lionidas",
+    "disp": "Lord Lionidas",
+    "plur": "Lord Lionidas",
+    "art4": ""
+  },
+  "258": {
+    "start_idx": 2064,
+    "sing": "veteran master moosifer",
+    "disp": "veteran master moosifer",
+    "plur": "veteran master moosifers",
+    "art4": "the "
+  },
+  "259": {
+    "start_idx": 2072,
+    "sing": "veteran pruslas ",
+    "disp": "veteran pruslas ",
+    "plur": "veteran pruslas ",
+    "art4": "the "
+  },
+  "260": {
+    "start_idx": 2080,
+    "sing": "Full-On Fractos",
+    "disp": "Full-On Fractos",
+    "plur": "Full-On Fractoses",
+    "art4": ""
+  },
+  "261": {
+    "start_idx": 2088,
+    "sing": "Full-On Fractos Unfettered",
+    "disp": "Full-On Fractos Unfettered",
+    "plur": "Full-On Fractoses Unfettered",
+    "art4": ""
+  },
+  "262": {
+    "start_idx": 2096,
+    "sing": "veteran drakulard",
+    "disp": "veteran drakulard",
+    "plur": "veteran drakulards",
+    "art4": "the "
+  },
+  "263": {
+    "start_idx": 2104,
+    "sing": "veteran hood",
+    "disp": "veteran hood",
+    "plur": "veteran hoods",
+    "art4": "the "
+  },
+  "264": {
+    "start_idx": 2112,
+    "sing": "Big Bad Balzack",
+    "disp": "Big Bad Balzack",
+    "plur": "Big Bad Balzacks",
+    "art4": ""
+  },
+  "265": {
+    "start_idx": 2120,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "266": {
+    "start_idx": 2128,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "267": {
+    "start_idx": 2136,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "268": {
+    "start_idx": 2144,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "269": {
+    "start_idx": 2152,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "270": {
+    "start_idx": 2160,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "271": {
+    "start_idx": 2168,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "272": {
+    "start_idx": 2176,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "273": {
+    "start_idx": 2184,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "274": {
+    "start_idx": 2192,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "275": {
+    "start_idx": 2200,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "276": {
+    "start_idx": 2208,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "277": {
+    "start_idx": 2216,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "278": {
+    "start_idx": 2224,
+    "sing": "veteran platypunk",
+    "disp": "veteran platypunk",
+    "plur": "veteran platypunk",
+    "art4": "the "
+  },
+  "279": {
+    "start_idx": 2232,
+    "sing": "veteran candy cat",
+    "disp": "veteran candy cat",
+    "plur": "veteran candy cat",
+    "art4": "the "
+  },
+  "280": {
+    "start_idx": 2240,
+    "sing": "veteran great sabrecat",
+    "disp": "veteran great sabrecat",
+    "plur": "veteran great sabrecat",
+    "art4": "the "
+  },
+  "281": {
+    "start_idx": 2248,
+    "sing": "mimic",
+    "disp": "mimic",
+    "plur": "mimics",
+    "art4": "the "
+  },
+  "282": {
+    "start_idx": 2256,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "283": {
+    "start_idx": 2264,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "284": {
+    "start_idx": 2272,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "285": {
+    "start_idx": 2280,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "286": {
+    "start_idx": 2288,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "287": {
+    "start_idx": 2296,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "288": {
+    "start_idx": 2304,
+    "sing": "veteran missing lynx",
+    "disp": "veteran missing lynx",
+    "plur": "veteran missing lynxes",
+    "art4": "the "
+  },
+  "289": {
+    "start_idx": 2312,
+    "sing": "veteran wight priest",
+    "disp": "veteran wight priest",
+    "plur": "veteran wight priests",
+    "art4": "the "
+  },
+  "290": {
+    "start_idx": 2320,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "291": {
+    "start_idx": 2328,
+    "sing": "Estark",
+    "disp": "Estark",
+    "plur": "Estarks",
+    "art4": ""
+  },
+  "292": {
+    "start_idx": 2336,
+    "sing": "Dragonlord",
+    "disp": "Dragonlord",
+    "plur": "Dragonlords",
+    "art4": "the "
+  },
+  "293": {
+    "start_idx": 2344,
+    "sing": "Dragonlord",
+    "disp": "Dragonlord",
+    "plur": "Dragonlords",
+    "art4": "the "
+  },
+  "294": {
+    "start_idx": 2352,
+    "sing": "Samson Knight",
+    "disp": "Samson Knight",
+    "plur": "Samson Knights",
+    "art4": ""
+  },
+  "295": {
+    "start_idx": 2360,
+    "sing": "Abominable Showman",
+    "disp": "Abominable Showman",
+    "plur": "Abominable Showmen",
+    "art4": "the "
+  },
+  "296": {
+    "start_idx": 2368,
+    "sing": "Estark Extreme",
+    "disp": "Estark Extreme",
+    "plur": "Estark Extremes",
+    "art4": ""
+  },
+  "297": {
+    "start_idx": 2376,
+    "sing": "Dread Dragonlord",
+    "disp": "Dread Dragonlord",
+    "plur": "Dread Dragonlords",
+    "art4": "the "
+  },
+  "298": {
+    "start_idx": 2384,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "299": {
+    "start_idx": 2392,
+    "sing": "Devastating Dragonlord",
+    "disp": "Devastating Dragonlord",
+    "plur": "Devastating Dragonlords",
+    "art4": "the "
+  },
+  "300": {
+    "start_idx": 2400,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "301": {
+    "start_idx": 2408,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "302": {
+    "start_idx": 2416,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "303": {
+    "start_idx": 2424,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "304": {
+    "start_idx": 2432,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "305": {
+    "start_idx": 2440,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "306": {
+    "start_idx": 2448,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "307": {
+    "start_idx": 2456,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "308": {
+    "start_idx": 2464,
+    "sing": "dungeon master",
+    "disp": "dungeon master",
+    "plur": "dungeon masters",
+    "art4": "the "
+  },
+  "309": {
+    "start_idx": 2472,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "310": {
+    "start_idx": 2480,
+    "sing": "slime",
+    "disp": "slime",
+    "plur": "slimes",
+    "art4": "the "
+  },
+  "311": {
+    "start_idx": 2488,
+    "sing": "dracky",
+    "disp": "dracky",
+    "plur": "drackies",
+    "art4": "the "
+  },
+  "312": {
+    "start_idx": 2496,
+    "sing": "skeleton",
+    "disp": "skeleton",
+    "plur": "skeletons",
+    "art4": "the "
+  },
+  "313": {
+    "start_idx": 2504,
+    "sing": "ghost",
+    "disp": "ghost",
+    "plur": "ghosts",
+    "art4": "the "
+  },
+  "314": {
+    "start_idx": 2512,
+    "sing": "dread dragon",
+    "disp": "dread dragon",
+    "plur": "dread dragons",
+    "art4": "the "
+  },
+  "315": {
+    "start_idx": 2520,
+    "sing": "stone golem",
+    "disp": "stone golem",
+    "plur": "stone golems",
+    "art4": "the "
+  },
+  "316": {
+    "start_idx": 2528,
+    "sing": "knight abhorrent",
+    "disp": "knight abhorrent",
+    "plur": "knight abhorrents",
+    "art4": "the "
+  },
+  "317": {
+    "start_idx": 2536,
+    "sing": "cosmic chimaera",
+    "disp": "cosmic chimaera",
+    "plur": "cosmic chimaeras",
+    "art4": "the "
+  },
+  "318": {
+    "start_idx": 2544,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  },
+  "319": {
+    "start_idx": 2552,
+    "sing": "",
+    "disp": "",
+    "plur": "",
+    "art4": ""
+  }
+}

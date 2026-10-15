@@ -1,0 +1,830 @@
+[
+  {
+    "slot": 135,
+    "start_row": 1080,
+    "name": "Power Throw",
+    "desc": "Mows down foes in your path with a shining boomerang."
+  },
+  {
+    "slot": 136,
+    "start_row": 1088,
+    "name": "Super Power Throw",
+    "desc": "Mows down foes in your path with a giant shining boomerang."
+  },
+  {
+    "slot": 137,
+    "start_row": 1096,
+    "name": "Über Power Throw",
+    "desc": "Mows down foes in your path with an enormous shining boomerang."
+  },
+  {
+    "slot": 138,
+    "start_row": 1104,
+    "name": "Wonderwand",
+    "desc": "Employs an incredible magic item to cure your allies of all afflictions."
+  },
+  {
+    "slot": 139,
+    "start_row": 1112,
+    "name": "Soaring Slice",
+    "desc": "A spinning slash unleashed while leaping forward."
+  },
+  {
+    "slot": 140,
+    "start_row": 1120,
+    "name": "Flying Fist",
+    "desc": "An uplifting uppercut that sends enemies skyward."
+  },
+  {
+    "slot": 141,
+    "start_row": 1128,
+    "name": "Super Flying Fist",
+    "desc": "An unrestrained uppercut that sends foes flying even further."
+  },
+  {
+    "slot": 142,
+    "start_row": 1136,
+    "name": "Über Flying Fist",
+    "desc": "An ultimate uppercut that ejects enemies into the atmosphere."
+  },
+  {
+    "slot": 143,
+    "start_row": 1144,
+    "name": "Crack",
+    "desc": "Flings forth a flurry of ice balls that can freeze foes solid."
+  },
+  {
+    "slot": 144,
+    "start_row": 1152,
+    "name": "Crackle",
+    "desc": "Freezes foes with a big blast of ice."
+  },
+  {
+    "slot": 145,
+    "start_row": 1160,
+    "name": "Kacrack",
+    "desc": "Freezes foes with an enormous blast of ice."
+  },
+  {
+    "slot": 146,
+    "start_row": 1168,
+    "name": "Glacier Strike",
+    "desc": "A super-chilled sword strike that leaves the weapon imbued with ice."
+  },
+  {
+    "slot": 147,
+    "start_row": 1176,
+    "name": "Frost Slash",
+    "desc": "Bashes bits of ice up from the ground to blast enemies away."
+  },
+  {
+    "slot": 148,
+    "start_row": 1184,
+    "name": "Crushed Ice",
+    "desc": "A swift sequence of clouts with an ice-coated club."
+  },
+  {
+    "slot": 149,
+    "start_row": 1192,
+    "name": "Pink Typhoon",
+    "desc": "Summons a swirling spiral of energy that damages enemies and sends the user skyward."
+  },
+  {
+    "slot": 150,
+    "start_row": 1200,
+    "name": "Timbrel of Tension",
+    "desc": "Calls on an incredible instrument that can cause all allies' tension to increase."
+  },
+  {
+    "slot": 151,
+    "start_row": 1208,
+    "name": "Frost Fangs",
+    "desc": "Summons spires of ice that send nearby enemies soaring."
+  },
+  {
+    "slot": 152,
+    "start_row": 1216,
+    "name": "Divide and Conquer",
+    "desc": "Creates two copies of the caster in order to cause triple trouble."
+  },
+  {
+    "slot": 153,
+    "start_row": 1224,
+    "name": "Twister Fists",
+    "desc": "A spinning strike with outstretched arms that clobbers close-by foes."
+  },
+  {
+    "slot": 154,
+    "start_row": 1232,
+    "name": "Red Mist",
+    "desc": "Temporarily increases attack power and ramps up the rapidity of <C9>Rampage<R.>"
+  },
+  {
+    "slot": 155,
+    "start_row": 1240,
+    "name": "Omniheal",
+    "desc": "Magnificent magic that completely heals all allies."
+  },
+  {
+    "slot": 156,
+    "start_row": 1248,
+    "name": "Multiheal",
+    "desc": "A superior spell that heals all allies."
+  },
+  {
+    "slot": 157,
+    "start_row": 1256,
+    "name": "Poison Arrow",
+    "desc": "A blighted bolt that envenomates all enemies in the affected area."
+  },
+  {
+    "slot": 158,
+    "start_row": 1264,
+    "name": "Ring of Ruin",
+    "desc": "Draws a spectral circle that assists spellcasters in clinching critical casts."
+  },
+  {
+    "slot": 159,
+    "start_row": 1272,
+    "name": "War Cry",
+    "desc": "Summons a wolf, along with which the user will unleash a staggering war cry."
+  },
+  {
+    "slot": 160,
+    "start_row": 1280,
+    "name": "Meaty Treat",
+    "desc": "A hearty haunch that heals wounds and increases attack power."
+  },
+  {
+    "slot": 161,
+    "start_row": 1288,
+    "name": "Deceleratle",
+    "desc": "A spell that slows all enemies in an area."
+  },
+  {
+    "slot": 162,
+    "start_row": 1296,
+    "name": "Wonder Wall",
+    "desc": "Brings forth a magical barrier that drives back enemies and their spells."
+  },
+  {
+    "slot": 163,
+    "start_row": 1304,
+    "name": "Liberation",
+    "desc": "An ancient incantation that brings out the beast within."
+  },
+  {
+    "slot": 164,
+    "start_row": 1312,
+    "name": "Miracle Slash",
+    "desc": "An intriguing enchantment that heals the user's own wounds with each strike."
+  },
+  {
+    "slot": 165,
+    "start_row": 1320,
+    "name": "Hurt Converter",
+    "desc": "A curious conjuration that causes all the user's attacks to heal them."
+  },
+  {
+    "slot": 166,
+    "start_row": 1328,
+    "name": "Miracle Moon",
+    "desc": "Chops chumps into chunks with a storm of spinning sickles."
+  },
+  {
+    "slot": 167,
+    "start_row": 1336,
+    "name": "Blind Man's Biff",
+    "desc": "Empties the user's mind and sends a single supreme strike straight forward."
+  },
+  {
+    "slot": 168,
+    "start_row": 1344,
+    "name": "Meditation",
+    "desc": "Mindfulness with actual medical effects. Can cure wounds."
+  },
+  {
+    "slot": 169,
+    "start_row": 1352,
+    "name": "Maelstrom",
+    "desc": "Creates a vast vortex that sucks in surrounding monsters."
+  },
+  {
+    "slot": 170,
+    "start_row": 1360,
+    "name": "Spear of Influence",
+    "desc": "Invokes the grace of the Goddess to extend the area over which spear attacks have effect."
+  },
+  {
+    "slot": 171,
+    "start_row": 1368,
+    "name": "Furious Flurry",
+    "desc": "A series of strikes with a staff that smash into enemies ceaselessly."
+  },
+  {
+    "slot": 172,
+    "start_row": 1376,
+    "name": "Frizz",
+    "desc": "Flings forth a ball of fire."
+  },
+  {
+    "slot": 173,
+    "start_row": 1384,
+    "name": "Frizzle",
+    "desc": "Flings forth a great ball of fire."
+  },
+  {
+    "slot": 174,
+    "start_row": 1392,
+    "name": "Kafrizz",
+    "desc": "Flings forth a massive fireball that bursts in a flurry of flames."
+  },
+  {
+    "slot": 175,
+    "start_row": 1400,
+    "name": "Double-Edged Slash",
+    "desc": "Sacrifices some of the user's health to unleash an insanely intense attack."
+  },
+  {
+    "slot": 176,
+    "start_row": 1408,
+    "name": "Arcane Echo",
+    "desc": "An interesting aura that causes spells to be cast in duplicate for a little while."
+  },
+  {
+    "slot": 177,
+    "start_row": 1416,
+    "name": "Magma Strike",
+    "desc": "Blasts of molten stone surround the user and leave the weapon imbued with fire."
+  },
+  {
+    "slot": 178,
+    "start_row": 1424,
+    "name": "Deliverance",
+    "desc": "Projects a portal that sucks enemies in, then sends them flying."
+  },
+  {
+    "slot": 179,
+    "start_row": 1432,
+    "name": "Ruff Rider",
+    "desc": "The user hops atop a wild wolf and ravages the enemy repeatedly."
+  },
+  {
+    "slot": 180,
+    "start_row": 1440,
+    "name": "Thunder Strike",
+    "desc": "A crackling attack that leaves the weapon imbued with lightning."
+  },
+  {
+    "slot": 181,
+    "start_row": 1448,
+    "name": "Chain Lightning",
+    "desc": "A super-charged series of spear strikes. Keep pressing the button to continue attacking."
+  },
+  {
+    "slot": 182,
+    "start_row": 1456,
+    "name": "Lightning Conductor",
+    "desc": "A lightning-powered lance attack that blasts enemies away."
+  },
+  {
+    "slot": 183,
+    "start_row": 1464,
+    "name": "Snooze",
+    "desc": "A soporific spell that sends foes to sleep."
+  },
+  {
+    "slot": 184,
+    "start_row": 1472,
+    "name": "Crackerwhack",
+    "desc": "Swings the axe down from overhead with earth-shattering strength."
+  },
+  {
+    "slot": 185,
+    "start_row": 1480,
+    "name": "Super Crackerwhack",
+    "desc": "Swings the axe down from overhead with even more earth-shattering strength."
+  },
+  {
+    "slot": 186,
+    "start_row": 1488,
+    "name": "Über Crackerwhack",
+    "desc": "Swings the axe down from overhead with inconceivably earth-shattering strength."
+  },
+  {
+    "slot": 187,
+    "start_row": 1496,
+    "name": "Reheal",
+    "desc": "Inscribes an ephemeral circle which heals all allies within it for a while."
+  },
+  {
+    "slot": 188,
+    "start_row": 1504,
+    "name": "Remidheal",
+    "desc": "Inscribes an ephemeral circle which rapidly heals all allies within it for a while."
+  },
+  {
+    "slot": 189,
+    "start_row": 1512,
+    "name": "Remoreheal",
+    "desc": "Inscribes an ephemeral circle which very rapidly heals all allies within it for a while."
+  },
+  {
+    "slot": 190,
+    "start_row": 1520,
+    "name": "Kasap",
+    "desc": "A spell that drains the defences of all enemies in an area."
+  },
+  {
+    "slot": 191,
+    "start_row": 1528,
+    "name": "Steel Splitter",
+    "desc": "A rising uppercut with a lightning-infused fist."
+  },
+  {
+    "slot": 192,
+    "start_row": 1536,
+    "name": "Inferno Slash",
+    "desc": "Summons a fiery tornado that sweeps enemies skyward."
+  },
+  {
+    "slot": 193,
+    "start_row": 1544,
+    "name": "Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes over a wide area."
+  },
+  {
+    "slot": 194,
+    "start_row": 1552,
+    "name": "Super Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes near and far."
+  },
+  {
+    "slot": 195,
+    "start_row": 1560,
+    "name": "Über Maulstrom",
+    "desc": "A short, sharp shockwave that shreds foes over an enormous area."
+  },
+  {
+    "slot": 196,
+    "start_row": 1568,
+    "name": "Morale Masher",
+    "desc": "A blast of energy that blows away enemy status embellishments."
+  },
+  {
+    "slot": 197,
+    "start_row": 1576,
+    "name": "Strength +5",
+    "desc": "Increases strength by five points."
+  },
+  {
+    "slot": 198,
+    "start_row": 1584,
+    "name": "Strength +10",
+    "desc": "Increases strength by ten points."
+  },
+  {
+    "slot": 199,
+    "start_row": 1592,
+    "name": "Resilience +5",
+    "desc": "Increases resilience by five points."
+  },
+  {
+    "slot": 200,
+    "start_row": 1600,
+    "name": "Resilience +10",
+    "desc": "Increases resilience by ten points."
+  },
+  {
+    "slot": 201,
+    "start_row": 1608,
+    "name": "Wisdom +5",
+    "desc": "Increases wisdom by five points."
+  },
+  {
+    "slot": 202,
+    "start_row": 1616,
+    "name": "Wisdom +10",
+    "desc": "Increases wisdom by ten points."
+  },
+  {
+    "slot": 203,
+    "start_row": 1624,
+    "name": "Deftness +5",
+    "desc": "Increases deftness by five points."
+  },
+  {
+    "slot": 204,
+    "start_row": 1632,
+    "name": "Deftness +10",
+    "desc": "Increases deftness by ten points."
+  },
+  {
+    "slot": 205,
+    "start_row": 1640,
+    "name": "Maximum HP +5",
+    "desc": "Increases maximum HP by five."
+  },
+  {
+    "slot": 206,
+    "start_row": 1648,
+    "name": "Maximum HP +10",
+    "desc": "Increases maximum HP by ten."
+  },
+  {
+    "slot": 207,
+    "start_row": 1656,
+    "name": "Maximum HP +20",
+    "desc": "Increases maximum HP by twenty."
+  },
+  {
+    "slot": 208,
+    "start_row": 1664,
+    "name": "Maximum MP +5",
+    "desc": "Increases maximum MP by five."
+  },
+  {
+    "slot": 209,
+    "start_row": 1672,
+    "name": "Maximum MP +10",
+    "desc": "Increases maximum MP by ten."
+  },
+  {
+    "slot": 210,
+    "start_row": 1680,
+    "name": "Maximum MP +20",
+    "desc": "Increases maximum MP by twenty."
+  },
+  {
+    "slot": 211,
+    "start_row": 1688,
+    "name": "Good In Tension",
+    "desc": "Increases rate of tension gain."
+  },
+  {
+    "slot": 212,
+    "start_row": 1696,
+    "name": "Best In Tension",
+    "desc": "Significantly increases rate of tension gain."
+  },
+  {
+    "slot": 213,
+    "start_row": 1704,
+    "name": "Fuel for the Fire",
+    "desc": "Occasionally earns you extra tension when defeating foes."
+  },
+  {
+    "slot": 214,
+    "start_row": 1712,
+    "name": "Tension Extension",
+    "desc": "Extends high tension by two seconds."
+  },
+  {
+    "slot": 215,
+    "start_row": 1720,
+    "name": "Tension Extension Turbo",
+    "desc": "Extends high tension by four seconds."
+  },
+  {
+    "slot": 216,
+    "start_row": 1728,
+    "name": "Tension Extension Extreme",
+    "desc": "Extends high tension by eight seconds."
+  },
+  {
+    "slot": 217,
+    "start_row": 1736,
+    "name": "Feel the Burn",
+    "desc": "Turns up the tension when you take damage."
+  },
+  {
+    "slot": 218,
+    "start_row": 1744,
+    "name": "Powersaver Lite",
+    "desc": "Causes 2% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 219,
+    "start_row": 1752,
+    "name": "Powersaver",
+    "desc": "Causes 5% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 220,
+    "start_row": 1760,
+    "name": "Powersaver Plus",
+    "desc": "Causes 10% of all spells and abilities to be cast for no MP cost."
+  },
+  {
+    "slot": 221,
+    "start_row": 1768,
+    "name": "Saving Grace",
+    "desc": "Brings the user back to life with 50% HP when beaten in battle once in a while."
+  },
+  {
+    "slot": 222,
+    "start_row": 1776,
+    "name": "Amazing Grace",
+    "desc": "Brings the user back to life with 50% HP when beaten in battle reasonably often."
+  },
+  {
+    "slot": 223,
+    "start_row": 1784,
+    "name": "Leafless Lifeline",
+    "desc": "Occasionally revives an ally without consuming an Yggdrasil leaf."
+  },
+  {
+    "slot": 224,
+    "start_row": 1792,
+    "name": "Sweet Spot Swatter",
+    "desc": "Increases critical hit chance when attacking an enemy's weak spot."
+  },
+  {
+    "slot": 225,
+    "start_row": 1800,
+    "name": "Knack of Kazapple",
+    "desc": "Allows the use of the incredible Kazapple spell."
+  },
+  {
+    "slot": 226,
+    "start_row": 1808,
+    "name": "Experience +5<FK>",
+    "desc": "Increases experience earned when defeating enemies by 5%."
+  },
+  {
+    "slot": 227,
+    "start_row": 1816,
+    "name": "Experience +10<FK>",
+    "desc": "Increases experience earned when defeating enemies by 10%."
+  },
+  {
+    "slot": 228,
+    "start_row": 1824,
+    "name": "Critical Bump",
+    "desc": "Slightly increases critical hit chance."
+  },
+  {
+    "slot": 229,
+    "start_row": 1832,
+    "name": "Critical Jump",
+    "desc": "Substantially increases critical hit chance."
+  },
+  {
+    "slot": 230,
+    "start_row": 1840,
+    "name": "Spell Surge",
+    "desc": "Slightly increases critical spell chance."
+  },
+  {
+    "slot": 231,
+    "start_row": 1848,
+    "name": "Spell Splurge",
+    "desc": "Substantially increases critical spell chance."
+  },
+  {
+    "slot": 232,
+    "start_row": 1856,
+    "name": "Spell Resistance +10<FK>",
+    "desc": "Reduces damage from enemy spells by 10%."
+  },
+  {
+    "slot": 233,
+    "start_row": 1864,
+    "name": "Breath Resistance +5<FK>",
+    "desc": "Reduces damage from enemy breath attacks by 10%."
+  },
+  {
+    "slot": 234,
+    "start_row": 1872,
+    "name": "Coup de Grâce Damage +3<FK>",
+    "desc": "Increases coup de grâce damage by 3%."
+  },
+  {
+    "slot": 235,
+    "start_row": 1880,
+    "name": "Coup de Grâce Damage +7<FK>",
+    "desc": "Increases coup de grâce damage by 7%."
+  },
+  {
+    "slot": 236,
+    "start_row": 1888,
+    "name": "Attack +5",
+    "desc": "Increases attack power by five points."
+  },
+  {
+    "slot": 237,
+    "start_row": 1896,
+    "name": "Attack +10",
+    "desc": "Increases attack power by ten points."
+  },
+  {
+    "slot": 238,
+    "start_row": 1904,
+    "name": "Attack +15",
+    "desc": "Increases attack power by fifteen points."
+  },
+  {
+    "slot": 239,
+    "start_row": 1912,
+    "name": "Attack +20",
+    "desc": "Increases attack power by twenty points."
+  },
+  {
+    "slot": 240,
+    "start_row": 1920,
+    "name": "Defence +5",
+    "desc": "Increases defence by five points."
+  },
+  {
+    "slot": 241,
+    "start_row": 1928,
+    "name": "Defence +10",
+    "desc": "Increases defence by ten points."
+  },
+  {
+    "slot": 242,
+    "start_row": 1936,
+    "name": "Defence +15",
+    "desc": "Increases defence by fifteen points."
+  },
+  {
+    "slot": 243,
+    "start_row": 1944,
+    "name": "Defence +20",
+    "desc": "Increases defence by twenty points."
+  },
+  {
+    "slot": 244,
+    "start_row": 1952,
+    "name": "Fighting Fit I",
+    "desc": "Increases maximum HP by four."
+  },
+  {
+    "slot": 245,
+    "start_row": 1960,
+    "name": "Refined Mind I",
+    "desc": "Increases maximum MP by two."
+  },
+  {
+    "slot": 246,
+    "start_row": 1968,
+    "name": "Sage's Spirit I",
+    "desc": "Increases magical might by six points."
+  },
+  {
+    "slot": 247,
+    "start_row": 1976,
+    "name": "Strong Arm I",
+    "desc": "Increases strength by two points."
+  },
+  {
+    "slot": 248,
+    "start_row": 1984,
+    "name": "Thick-Skinned I",
+    "desc": "Increases resilience by two points."
+  },
+  {
+    "slot": 249,
+    "start_row": 1992,
+    "name": "Critical Faculties I",
+    "desc": "Slightly increases critical hit chance."
+  },
+  {
+    "slot": 250,
+    "start_row": 2000,
+    "name": "Boogie Knights",
+    "desc": "Slowly gain tension when dancing."
+  },
+  {
+    "slot": 251,
+    "start_row": 2008,
+    "name": "Magic Touch I",
+    "desc": "Slightly increases critical spell chance."
+  },
+  {
+    "slot": 252,
+    "start_row": 2016,
+    "name": "Fighting Fit II",
+    "desc": "Increases maximum HP by ten."
+  },
+  {
+    "slot": 253,
+    "start_row": 2024,
+    "name": "Refined Mind II",
+    "desc": "Increases maximum MP by five."
+  },
+  {
+    "slot": 254,
+    "start_row": 2032,
+    "name": "Sage's Spirit II",
+    "desc": "Increases magical might by fourteen points."
+  },
+  {
+    "slot": 255,
+    "start_row": 2040,
+    "name": "Strong Arm II",
+    "desc": "Increases strength by five points."
+  },
+  {
+    "slot": 256,
+    "start_row": 2048,
+    "name": "Thick-Skinned II",
+    "desc": "Increases resilience by five points."
+  },
+  {
+    "slot": 257,
+    "start_row": 2056,
+    "name": "Critical Faculties II",
+    "desc": "Substantially increases critical hit chance."
+  },
+  {
+    "slot": 258,
+    "start_row": 2064,
+    "name": "Sweet Dreams",
+    "desc": "Slowly recover HP when sleeping."
+  },
+  {
+    "slot": 259,
+    "start_row": 2072,
+    "name": "Magic Touch II",
+    "desc": "Substantially increases critical spell chance."
+  },
+  {
+    "slot": 260,
+    "start_row": 2080,
+    "name": "Fighting Fit III",
+    "desc": "Increases maximum HP by sixteen."
+  },
+  {
+    "slot": 261,
+    "start_row": 2088,
+    "name": "Refined Mind III",
+    "desc": "Increases maximum MP by eight."
+  },
+  {
+    "slot": 262,
+    "start_row": 2096,
+    "name": "Sage's Spirit III",
+    "desc": "Increases magical might by twenty-two points."
+  },
+  {
+    "slot": 263,
+    "start_row": 2104,
+    "name": "Strong Arm III",
+    "desc": "Increases strength by eight points."
+  },
+  {
+    "slot": 264,
+    "start_row": 2112,
+    "name": "Thick-Skinned III",
+    "desc": "Increases resilience by eight points."
+  },
+  {
+    "slot": 265,
+    "start_row": 2120,
+    "name": "Critical Faculties III",
+    "desc": "Significantly increases critical hit chance."
+  },
+  {
+    "slot": 266,
+    "start_row": 2128,
+    "name": "Fighting Dirty",
+    "desc": "Increases critical hit chance when attacking an enemy's weak spot."
+  },
+  {
+    "slot": 267,
+    "start_row": 2136,
+    "name": "Magic Touch III",
+    "desc": "Significantly increases critical spell chance."
+  },
+  {
+    "slot": 268,
+    "start_row": 2144,
+    "name": "Stunning Revelation",
+    "desc": "Increases chance of staggering enemies when attacking."
+  },
+  {
+    "slot": 269,
+    "start_row": 2152,
+    "name": "Cheap Tricks",
+    "desc": "Reduces the MP cost of using tag tricks."
+  },
+  {
+    "slot": 270,
+    "start_row": 2160,
+    "name": "Dead Wringer",
+    "desc": "Increases the chance of defeated enemies dropping magic water."
+  },
+  {
+    "slot": 271,
+    "start_row": 2168,
+    "name": "The Emperor",
+    "desc": "Increases experience earned at the price of proficiency."
+  },
+  {
+    "slot": 272,
+    "start_row": 2176,
+    "name": "Speculate to Accumulate",
+    "desc": "Increases experience earned, but gets you less gold."
+  }
+]

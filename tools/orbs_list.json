@@ -1,0 +1,212 @@
+[
+  {
+    "slot": 0,
+    "start_row": 0,
+    "name": "plain orb",
+    "desc": "An orb with the defensive density of a woollen tunic."
+  },
+  {
+    "slot": 1,
+    "start_row": 8,
+    "name": "wayfarer's orb",
+    "desc": "An orb designed to replace a traveller's robes."
+  },
+  {
+    "slot": 2,
+    "start_row": 16,
+    "name": "leather orb",
+    "desc": "Offers the same protection as a suit of leather armour."
+  },
+  {
+    "slot": 3,
+    "start_row": 24,
+    "name": "scale orb",
+    "desc": "Offers similar protection to a suit of scale mail."
+  },
+  {
+    "slot": 6,
+    "start_row": 48,
+    "name": "iron orb",
+    "desc": "A cold grey orb that's as hard as iron."
+  },
+  {
+    "slot": 7,
+    "start_row": 56,
+    "name": "steel orb",
+    "desc": "A stainless steel orb that keeps you safe<MV>and clean<FG>"
+  },
+  {
+    "slot": 8,
+    "start_row": 64,
+    "name": "orb of evasion",
+    "desc": "An orb that makes you as hard to hit as an artful dodger."
+  },
+  {
+    "slot": 10,
+    "start_row": 80,
+    "name": "orb of serenity",
+    "desc": "Guaranteed to keep you safe, secure and serene."
+  },
+  {
+    "slot": 11,
+    "start_row": 88,
+    "name": "magic orb",
+    "desc": "An orb imbued with magic-resistant powers."
+  },
+  {
+    "slot": 12,
+    "start_row": 96,
+    "name": "orbolero",
+    "desc": "A curious orb with an advantageous affinity for magic."
+  },
+  {
+    "slot": 13,
+    "start_row": 104,
+    "name": "illusionist's orb",
+    "desc": "Offers protection similar to that of a sorcerer's surplice."
+  },
+  {
+    "slot": 15,
+    "start_row": 120,
+    "name": "witch's orb",
+    "desc": "An eerie orb enchanted by a wizened witch."
+  },
+  {
+    "slot": 16,
+    "start_row": 128,
+    "name": "heavy orb",
+    "desc": "An orb that's about as protective as plate armour."
+  },
+  {
+    "slot": 17,
+    "start_row": 136,
+    "name": "flowing orb",
+    "desc": "A soft, silky orb that lets you sidestep spells."
+  },
+  {
+    "slot": 18,
+    "start_row": 144,
+    "name": "exorcist's orb",
+    "desc": "An orb with the power of a robe that dispels demons."
+  },
+  {
+    "slot": 20,
+    "start_row": 160,
+    "name": "dragon orb",
+    "desc": "A reptilian orb forged from the scales of a serpent."
+  },
+  {
+    "slot": 21,
+    "start_row": 168,
+    "name": "enchanted orb",
+    "desc": "About as protective as a suit of spirit-infused armour."
+  },
+  {
+    "slot": 22,
+    "start_row": 176,
+    "name": "dark orb",
+    "desc": "An ink-black orb that sends enemy attacks astray."
+  },
+  {
+    "slot": 23,
+    "start_row": 184,
+    "name": "tectonic orb",
+    "desc": "A majestic orb of earth-shattering strength."
+  },
+  {
+    "slot": 24,
+    "start_row": 192,
+    "name": "wizard's orb",
+    "desc": "An orb instilled with the energies of a great enchanter."
+  },
+  {
+    "slot": 25,
+    "start_row": 200,
+    "name": "gigant orb",
+    "desc": "This enlarging orb makes its owner feel ten feet tall."
+  },
+  {
+    "slot": 26,
+    "start_row": 208,
+    "name": "orbus regale",
+    "desc": "An orb that resists any infraction on its ruler's rights."
+  },
+  {
+    "slot": 27,
+    "start_row": 216,
+    "name": "orb of enlightenment",
+    "desc": "A divine orb dripping with noble knowledge."
+  },
+  {
+    "slot": 28,
+    "start_row": 224,
+    "name": "princess's orb",
+    "desc": "This eminent orb makes its owner feel like royalty."
+  },
+  {
+    "slot": 29,
+    "start_row": 232,
+    "name": "sacred orb",
+    "desc": "A blessed orb that boosts its bearer's well-being."
+  },
+  {
+    "slot": 30,
+    "start_row": 240,
+    "name": "metal king orb",
+    "desc": "A decidedly dense orb that confers a stupendous solidity."
+  },
+  {
+    "slot": 31,
+    "start_row": 248,
+    "name": "angel's orb",
+    "desc": "A holy orb once held by a herald of the heavens."
+  },
+  {
+    "slot": 32,
+    "start_row": 256,
+    "name": "elevating orb",
+    "desc": "This eye-opening orb lets one see the world in a new light."
+  },
+  {
+    "slot": 34,
+    "start_row": 272,
+    "name": "Erdrick's orb",
+    "desc": "An orb imbued with the spirit of a legendary lionheart."
+  },
+  {
+    "slot": 35,
+    "start_row": 280,
+    "name": "Zenithian orb",
+    "desc": "A legendary orb that boasts potent protective powers."
+  },
+  {
+    "slot": 36,
+    "start_row": 288,
+    "name": "Dragovian orb",
+    "desc": "Equivalent to the armour of a leader of dragon men."
+  },
+  {
+    "slot": 37,
+    "start_row": 296,
+    "name": "Gaia orb",
+    "desc": "An orb imbued with the strength of the spirit of the earth."
+  },
+  {
+    "slot": 38,
+    "start_row": 304,
+    "name": "orb of implacability",
+    "desc": "An orb afflicted with an incredibly calamitous curse."
+  },
+  {
+    "slot": 39,
+    "start_row": 312,
+    "name": "ominous orb",
+    "desc": "An orb that will curse the wearer to an unenviable fate."
+  },
+  {
+    "slot": 40,
+    "start_row": 320,
+    "name": "ill-omened orb",
+    "desc": "An orb that will curse the wearer to an ugly fate."
+  }
+]

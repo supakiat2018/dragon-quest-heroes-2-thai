@@ -1,0 +1,278 @@
+[
+  {
+    "slot": 0,
+    "start_row": 0,
+    "name": "slime earrings",
+    "desc": "A pair of pretty earrings in the shape of slimes."
+  },
+  {
+    "slot": 1,
+    "start_row": 8,
+    "name": "restless heart",
+    "desc": "This healthy heart is able to endure any hardship."
+  },
+  {
+    "slot": 2,
+    "start_row": 16,
+    "name": "monocle",
+    "desc": "A single lens in a gold filigree frame."
+  },
+  {
+    "slot": 3,
+    "start_row": 24,
+    "name": "gold ring",
+    "desc": "A golden ring that drives up the wearer's defence."
+  },
+  {
+    "slot": 4,
+    "start_row": 32,
+    "name": "bunny tail",
+    "desc": "A fluffy charm made from a bunny's bobtail."
+  },
+  {
+    "slot": 5,
+    "start_row": 40,
+    "name": "mechanical monocle",
+    "desc": "An advanced optical aid comprised of complex cogs."
+  },
+  {
+    "slot": 6,
+    "start_row": 48,
+    "name": "gold bracer",
+    "desc": "A golden wristband with elaborate engravings."
+  },
+  {
+    "slot": 7,
+    "start_row": 56,
+    "name": "champion's choker",
+    "desc": "Nifty neckwear given potent powers by a god of war."
+  },
+  {
+    "slot": 8,
+    "start_row": 64,
+    "name": "earthwyrm's eye",
+    "desc": "A gem jammed with the earthy energy of a deadly dragon."
+  },
+  {
+    "slot": 9,
+    "start_row": 72,
+    "name": "scholar's specs",
+    "desc": "Stylish spectacles that make buffoons look like brainiacs."
+  },
+  {
+    "slot": 10,
+    "start_row": 80,
+    "name": "Kamikazee bracer",
+    "desc": "Takes foes with the wearer when they get whacked."
+  },
+  {
+    "slot": 11,
+    "start_row": 88,
+    "name": "ring of riddance",
+    "desc": "A blessed band that dispels evil energies."
+  },
+  {
+    "slot": 12,
+    "start_row": 96,
+    "name": "tough guy tattoo",
+    "desc": "A tribal transfer to embellish a bulging bicep."
+  },
+  {
+    "slot": 13,
+    "start_row": 104,
+    "name": "strength ring",
+    "desc": "A ring that offers the wearer a little extra Oomph."
+  },
+  {
+    "slot": 14,
+    "start_row": 112,
+    "name": "meteorite bracer",
+    "desc": "Wristwear that speeds up skill use but saps the psyche."
+  },
+  {
+    "slot": 15,
+    "start_row": 120,
+    "name": "agility ring",
+    "desc": "A ring adorned with a symbol of a speeding swift."
+  },
+  {
+    "slot": 16,
+    "start_row": 128,
+    "name": "raging ruby",
+    "desc": "A jewel that lets its bearer land more decisive strikes."
+  },
+  {
+    "slot": 17,
+    "start_row": 136,
+    "name": "ruby of protection",
+    "desc": "A jewel that warns its wearer of incoming attacks."
+  },
+  {
+    "slot": 18,
+    "start_row": 144,
+    "name": "prayer ring",
+    "desc": "A much-revered ring that answers its wearer's prayers."
+  },
+  {
+    "slot": 19,
+    "start_row": 152,
+    "name": "gold rosary",
+    "desc": "A holy amulet that spares its bearer from certain death."
+  },
+  {
+    "slot": 20,
+    "start_row": 160,
+    "name": "beckoning bell",
+    "desc": "A charming chime that attracts enemies' attention."
+  },
+  {
+    "slot": 21,
+    "start_row": 168,
+    "name": "titan belt",
+    "desc": "Allows the wearer to exploit enemies' weaknesses."
+  },
+  {
+    "slot": 22,
+    "start_row": 176,
+    "name": "life ring",
+    "desc": "A restorative ring that works wonders on the wearer's wounds."
+  },
+  {
+    "slot": 23,
+    "start_row": 184,
+    "name": "über ace of spoils",
+    "desc": "If you're consumed by greed, it's the only card you need."
+  },
+  {
+    "slot": 24,
+    "start_row": 192,
+    "name": "elevating shoes",
+    "desc": "Slip on these slip-ons for an elevating experience."
+  },
+  {
+    "slot": 25,
+    "start_row": 200,
+    "name": "gospel ring",
+    "desc": "A blessed band beloved of a higher power."
+  },
+  {
+    "slot": 26,
+    "start_row": 208,
+    "name": "sorcerer's ring",
+    "desc": "A wizardly ring that maximises one's mental faculties."
+  },
+  {
+    "slot": 27,
+    "start_row": 216,
+    "name": "lucky dragon's wing",
+    "desc": "A barbaric talisman that beats back enemy spells."
+  },
+  {
+    "slot": 30,
+    "start_row": 240,
+    "name": "ace of spoils",
+    "desc": "If you've got the greed, it's the only card you need."
+  },
+  {
+    "slot": 31,
+    "start_row": 248,
+    "name": "catholicon ring",
+    "desc": "Blessed bling that extends the effects of support skills."
+  },
+  {
+    "slot": 32,
+    "start_row": 256,
+    "name": "wrecklace",
+    "desc": "A potent pendant that dials up the damage of coups de grâce."
+  },
+  {
+    "slot": 34,
+    "start_row": 272,
+    "name": "loin-girder",
+    "desc": "A monstrously weighty waistband covered with claws."
+  },
+  {
+    "slot": 35,
+    "start_row": 280,
+    "name": "care ring",
+    "desc": "A ring symbolising a love that shall never be split asunder."
+  },
+  {
+    "slot": 36,
+    "start_row": 288,
+    "name": "dogged collar",
+    "desc": "A neat necklace that boosts baddie-battering abilities."
+  },
+  {
+    "slot": 37,
+    "start_row": 296,
+    "name": "Venus' tear",
+    "desc": "A jewel that protects you from every direction."
+  },
+  {
+    "slot": 39,
+    "start_row": 312,
+    "name": "adamant pendant",
+    "desc": "Stops its wearer from shrinking from even the strongest strike."
+  },
+  {
+    "slot": 40,
+    "start_row": 320,
+    "name": "rousing ring",
+    "desc": "Jaunty jewellery that stops the wearer from falling asleep."
+  },
+  {
+    "slot": 41,
+    "start_row": 328,
+    "name": "papillon pendant",
+    "desc": "An amulet that sharpens wits and dampens dance effects."
+  },
+  {
+    "slot": 42,
+    "start_row": 336,
+    "name": "allure ring",
+    "desc": "A filigreed ring filled with spiritual strength."
+  },
+  {
+    "slot": 43,
+    "start_row": 344,
+    "name": "monarchic mark",
+    "desc": "Relic of a ruler for whom the safety of his subjects was sacred."
+  },
+  {
+    "slot": 44,
+    "start_row": 352,
+    "name": "endure ring",
+    "desc": "A ring bearing a sacred seal that fends off fatal blows."
+  },
+  {
+    "slot": 45,
+    "start_row": 360,
+    "name": "ring of truth",
+    "desc": "A remarkable ring that clears the air for its bearer."
+  },
+  {
+    "slot": 46,
+    "start_row": 368,
+    "name": "ring of immunity",
+    "desc": "A serpentine ring that protects against poison."
+  },
+  {
+    "slot": 47,
+    "start_row": 376,
+    "name": "sock-it locket",
+    "desc": "An awe-inspiring amulet blessed by the demon king himself."
+  },
+  {
+    "slot": 48,
+    "start_row": 384,
+    "name": "block-it locket",
+    "desc": "A pretty pendant that pulsates with the power of life."
+  },
+  {
+    "slot": 51,
+    "start_row": 408,
+    "name": "nacreous necromonocle",
+    "desc": "An evil eyeguard that creates tension from carnage."
+  }
+]

@@ -1,0 +1,320 @@
+  0 | slime                          | slime                          | slimes
+  1 | dracky                         | dracky                         | drackies
+  2 | walking corpse                 | walking corpse                 | walking corpses
+  3 | chimaera                       | chimaera                       | chimaeras
+  4 | imp                            | imp                            | imps
+  5 | hammerhood                     | hammerhood                     | hammerhoods
+  6 | restless armour                | restless armour                | restless armours
+  7 | healslime                      | healslime                      | healslimes
+  8 | rockbomb                       | rockbomb                       | rockbombs
+  9 | goodybag                       | goodybag                       | goodybags
+ 10 | mummy                          | mummy                          | mummies
+ 11 | golem                          | golem                          | golems
+ 12 | killing machine                | killing machine                | killing machines
+ 13 | platypunk                      | platypunk                      | platypunks
+ 14 | agoomulator                    | agoomulator                    | agoomulators
+ 15 | jailcat                        | jailcat                        | jailcats
+ 16 | Merry Man                      | Merry Man                      | Merry Men
+ 17 | bodkin archer                  | bodkin archer                  | bodkin archers
+ 18 | troll                          | troll                          | trolls
+ 19 | king slime                     | king slime                     | king slimes
+ 20 | roseguardin                    | roseguardin                    | roseguardins
+ 21 | hacksaurus                     | hacksaurus                     | hacksauruses
+ 22 | living statue                  | living statue                  | living statues
+ 23 | gargoyle                       | gargoyle                       | gargoyles
+ 24 | liquid metal slime             | liquid metal slime             | liquid metal slimes
+ 25 | mimic                          | mimic                          | mimics
+ 26 | gigantes                       | gigantes                       | gigantes
+ 27 | archdemon                      | archdemon                      | archdemons
+ 28 | silvapithecus                  | silvapithecus                  | silvapithecuses
+ 29 | great sabrecat                 | great sabrecat                 | great sabrecats
+ 30 | slime knight                   | slime knight                   | slime knights
+ 31 | muddy hand                     | muddy hand                     | muddy hands
+ 32 | obstrocktion                   | obstrocktion                   | obstrocktions
+ 33 | mawkeeper                      | mawkeeper                      | mawkeepers
+ 34 | float-o-copier                 | float-o-copier                 | float-o-copiers
+ 35 | ghost                          | ghost                          | ghosts
+ 36 | mud mannequin                  | mud mannequin                  | mud mannequins
+ 37 | ice sculpture                  | ice sculpture                  | ice sculptures
+ 38 | cumaulus                       | cumaulus                       | cumauluses
+ 39 | hunter mech                    | hunter mech                    | hunter mechs
+ 40 | hocus chimaera                 | hocus chimaera                 | hocus chimaeras
+ 41 | Robbin' 'Ood                   | Robbin' 'Ood                   | Robbin' 'Oods
+ 42 | she-slime                      | she-slime                      | she-slimes
+ 43 | dancing flame                  | dancing flame                  | dancing flames
+ 44 | metal king slime               | metal king slime               | metal king slimes
+ 45 | cureslime                      | cureslime                      | cureslimes
+ 46 | stone golem                    | stone golem                    | stone golems
+ 47 | minidemon                      | minidemon                      | minidemons
+ 48 | corpse corporal                | corpse corporal                | corpse corporals
+ 49 | bomboulder                     | bomboulder                     | bomboulders
+ 50 | tyrantosaurus                  | tyrantosaurus                  | tyrantosauruses
+ 51 | shadow                         | shadow                         | shadows
+ 52 | hawk man                       | hawk man                       | hawk men
+ 53 | powie yowie                    | powie yowie                    | powie yowies
+ 54 | metal slime                    | metal slime                    | metal slimes
+ 55 | king cureslime                 | king cureslime                 | king cureslimes
+ 56 | man o' war                     | man o' war                     | men o' war
+ 57 | gold golem                     | gold golem                     | gold golems
+ 58 | lethal armour                  | lethal armour                  | lethal armours
+ 59 | toxic zombie                   | toxic zombie                   | toxic zombies
+ 60 | bubble slime                   | bubble slime                   | bubble slimes
+ 61 | drackyma                       | drackyma                       | drackymas
+ 62 | cannibox                       | cannibox                       | canniboxes
+ 63 | bag o' laughs                  | bag o' laughs                  | bags o' laughs
+ 64 | Atlas                          | Atlas                          | Atlases
+ 65 | treeface                       | treeface                       | treefaces
+ 66 | hoodlum                        | hoodlum                        | hoodlums
+ 67 | metal slime knight             | metal slime knight             | metal slime knights
+ 68 | bloody hand                    | bloody hand                    | bloody hands
+ 69 | green dragon                   | green dragon                   | green dragons
+ 70 | mandrake major                 | mandrake major                 | mandrake majors
+ 71 | drackmage                      | drackmage                      | drackmages
+ 72 | Pandora's box                  | Pandora's box                  | Pandora's boxes
+ 73 | bone baron                     | bone baron                     | bone barons
+ 74 | Type G0                        | Type G0                        | Type G0s
+ 75 | dread dragon                   | dread dragon                   | dread dragons
+ 76 | gryphon                        | gryphon                        | gryphons
+ 77 | hellion                        | hellion                        | hellions
+ 78 | cosmic chimaera                | cosmic chimaera                | cosmic chimaeras
+ 79 | teeny sanguini                 | teeny sanguini                 | teeny sanguinis
+ 80 | skeleton soldier               | skeleton soldier               | skeleton soldiers
+ 81 | boss troll                     | boss troll                     | boss trolls
+ 82 | sorcerer                       | sorcerer                       | sorcerers
+ 83 | pink sanguini                  | pink sanguini                  | pink sanguinis
+ 84 | skeleton                       | skeleton                       | skeletons
+ 85 | wight king                     | wight king                     | wight kings
+ 86 | shaman                         | shaman                         | shamans
+ 87 | genie sanguini                 | genie sanguini                 | genie sanguinis
+ 88 | dark skeleton                  | dark skeleton                  | dark skeletons
+ 89 | stone guardian                 | stone guardian                 | stone guardians
+ 90 | magus                          | magus                          | magi
+ 91 | moosifer                       | moosifer                       | moosifers
+ 92 | night clubber                  | night clubber                  | night clubbers
+ 93 | drakulard                      | drakulard                      | drakulards
+ 94 | knight aberrant                | knight aberrant                | knights aberrant
+ 95 | grinade                        | grinade                        | grinades
+ 96 | stout troll                    | stout troll                    | stout trolls
+ 97 | brownie                        | brownie                        | brownies
+ 98 | missing lynx                   | missing lynx                   | missing lynxes
+ 99 | zombie gladiator               | zombie gladiator               | zombie gladiators
+100 | hell gladiator                 | hell gladiator                 | hell gladiators
+101 | King of Klor                   | King of Klor                   | Kings of Klor
+102 | overkilling machine            | overkilling machine            | overkilling machines
+103 | low djinks                     | low djinks                     | low djinks
+104 | blood mummy                    | blood mummy                    | blood mummies
+105 | Crack-billed platypunk         | Crack-billed platypunk         | Crack-billed platypunks
+106 | candy cat                      | candy cat                      | candy cats
+107 | Marquis de Léon                | Marquis de Léon                | Marquises de Léon
+108 | barbatos                       | barbatos                       | barbatoses
+109 | demon-at-arms                  | demon-at-arms                  | demons-at-arms
+110 | pazuzu                         | pazuzu                         | pazuzus
+111 | überkilling machine            | überkilling machine            | überkilling machines
+112 | belial                         | belial                         | belials
+113 | bodkin fletcher                | bodkin fletcher                | bodkin fletchers
+114 | mawkeeper                      | mawkeeper                      | mawkeepers
+115 | mawkeeper                      | mawkeeper                      | mawkeepers
+116 | mawkeeper                      | mawkeeper                      | mawkeepers
+117 | mawkeeper                      | mawkeeper                      | mawkeepers
+118 | mawkeeper                      | mawkeeper                      | mawkeepers
+119 | lost soul                      | lost soul                      | lost souls
+120 | spitegeist                     | spitegeist                     | spitegeists
+121 | magic marionette               | magic marionette               | magic marionettes
+122 | King of Kadava                 | King of Kadava                 | Kings of Kadava
+123 | hell niño                      | hell niño                      | hell niños
+124 | frostburn                      | frostburn                      | frostburns
+125 | shade                          | shade                          | shades
+126 | sasquash                       | sasquash                       | sasquashes
+127 | treevil                        | treevil                        | treevils
+128 | hood                           | hood                           | hoods
+129 | mandrake marauder              | mandrake marauder              | mandrake marauders
+130 | grim rider                     | grim rider                     | grim riders
+131 | war gryphon                    | war gryphon                    | war gryphons
+132 | tortured soul                  | tortured soul                  | tortured souls
+133 | Balzack                        | Balzack                        | Balzacks
+134 | knight errant                  | knight errant                  | knights errant
+135 | winged sabrecat                | winged sabrecat                | winged sabrecats
+136 | King of Al-Khazam              | King of Al-Khazam              | Kings of Al-Khazam
+137 | cloud surfer                   | cloud surfer                   | cloud surfers
+138 | mummy boy                      | mummy boy                      | mummy boys
+139 | splatypunk                     | splatypunk                     | splatypunks
+140 | terror tabby                   | terror tabby                   | terror tabbies
+141 | bodkin bowyer                  | bodkin bowyer                  | bodkin bowyers
+142 | firespirit                     | firespirit                     | firespirits
+143 | fightgeist                     | fightgeist                     | fightgeists
+144 | multicolour mannequin          | multicolour mannequin          | multicolour mannequins
+145 | hellcaster                     | hellcaster                     | hellcasters
+146 | freezing fog                   | freezing fog                   | freezing fogs
+147 | silhouette                     | silhouette                     | silhouettes
+148 | sweaty yeti                    | sweaty yeti                    | sweaty yetis
+149 | antiquitree                    | antiquitree                    | antiquitrees
+150 | heavy hood                     | heavy hood                     | heavy hoods
+151 | mandrake marshal               | mandrake marshal               | mandrake marshals
+152 | night rider                    | night rider                    | night riders
+153 | jamirus                        | jamirus                        | jamiruses
+154 | wight priest                   | wight priest                   | wight priests
+155 | pruslas                        | pruslas                        | pruslases
+156 | knight abhorrent               | knight abhorrent               | knights abhorrent
+157 | draguar                        | draguar                        | draguars
+158 | killing machine                | killing machine                | killing machines
+159 | high djinks                    | high djinks                    | high djinkses
+160 | bodkin bloodbow                | bodkin bloodbow                | bodkin bloodbows
+161 | zamtasm                        | zamtasm                        | zamtasms
+162 | dungeon master                 | dungeon master                 | dungeon masters
+163 | Fractos                        | Fractos                        | Fractoses
+164 | blue dragon                    | blue dragon                    | blue dragons
+165 | master moosifer                | master moosifer                | master moosifers
+166 | Dhuran                         | Dhuran                         | Dhurans
+167 | dark brownie                   | dark brownie                   | dark brownies
+168 | great troll                    | great troll                    | great trolls
+169 | axesaurus                      | axesaurus                      | axesauruses
+170 | Fractos Unfettered             | Fractos Unfettered             | Fractoses Unfettered
+171 | ghoul                          | ghoul                          | ghouls
+172 | infernal armour                | infernal armour                | infernal armours
+173 | batmandrill                    | batmandrill                    | batmandrills
+174 | bullion                        | bullion                        | bullions
+175 | loss leader                    | loss leader                    | loss leaders
+176 | Lazarel                        | Lazarel                        | Lazarels
+177 | Teresa                         | Teresa                         | Teresas
+178 | Cesar                          | Cesar                          | Cesars
+179 | mysterious swordsman           | mysterious swordsman           | mysterious swordsmen
+180 | mysterious martial artist      | mysterious martial artist      | mysterious martial artists
+181 | Maya                           | Maya                           | Mayas
+182 | Sinister Cesar                 | Sinister Cesar                 | Sinister Cesars
+183 | Demonic Desdemona              | Demonic Desdemona              | Demonic Desdemonas
+184 | Evil Alena                     | Evil Alena                     | Evil Alenas
+185 | Cruel Kiryl                    | Cruel Kiryl                    | Cruel Kiryls
+186 | Malign Maya                    | Malign Maya                    | Malign Mayas
+187 | Malicious Meena                | Malicious Meena                | Malicious Meenas
+188 | Tainted Torneko                | Tainted Torneko                | Tainted Tornekos
+189 | Tainted Terry                  | Tainted Terry                  | Tainted Terrys
+190 | Callous Carver                 | Callous Carver                 | Callous Carvers
+191 | Malevolent Maribel             | Malevolent Maribel             | Malevolent Maribels
+192 | Gruff Ruff                     | Gruff Ruff                     | Gruff Ruffs
+193 | Jaundiced Jessica              | Jaundiced Jessica              | Jaundiced Jessicas
+194 | Unpleasant Angelo              | Unpleasant Angelo              | Unpleasant Angelos
+195 | Hard-Hearted Healix            | Hard-Hearted Healix            | Hard-Hearted Healixes
+196 | Dunisian soldier               | Dunisian soldier               | Dunisian soldiers
+197 | Ingenian soldier               | Ingenian soldier               | Ingenian soldiers
+198 | knight aberrant                | knight aberrant                | knights aberrant
+199 | night clubber                  | night clubber                  | night clubbers
+200 | hood                           | hood                           | hoods
+201 | Field Marshal Donk             | Field Marshal Donk             | Field Marshal Donks
+202 | infernal armour                | infernal armour                | infernal armours
+203 | hacksaurus                     | hacksaurus                     | hacksauruses
+204 | mandrake major                 | mandrake major                 | mandrake majors
+205 | powie yowie                    | powie yowie                    | powie yowies
+206 | blue dragon                    | blue dragon                    | blue dragons
+207 | Abominable Showman             | Abominable Showman             | Abominable Showmen
+208 | missing lynx                   | missing lynx                   | missing lynxes
+209 | Whameses                       | Whameses                       | Whameseses
+210 | float-o-copier                 | float-o-copier                 | float-o-copiers
+211 | float-o-copier                 | float-o-copier                 | float-o-copiers
+212 | Dhuran                         | Dhuran                         | Dhuran
+213 | Dhuran                         | Dhuran                         | Dhuran
+214 | master moosifer                | master moosifer                | master moosifers
+215 | Lionidas                       | Lionidas                       | Lionidas
+216 | pruslas                        | pruslas                        | pruslases
+217 | Marquis de Léon                | Marquis de Léon                | Marquises de Léon
+218 | mandrake major                 | mandrake major                 | mandrake majors
+219 | (EMPTY)
+220 | (EMPTY)
+221 | (EMPTY)
+222 | (EMPTY)
+223 | veteran knight aberrant        | veteran knight aberrant        | veteran knights aberrant
+224 | tomb terror                    | tomb terror                    | tomb terrors
+225 | tomb bowyer                    | tomb bowyer                    | tomb bowyers
+226 | treasure troll                 | treasure troll                 | treasure trolls
+227 | autombaton                     | autombaton                     | autombata
+228 | tombinator                     | tombinator                     | tombinators
+229 | silver sabrecat                | silver sabrecat                | silver sabrecats
+230 | mawkeeper                      | mawkeeper                      | mawkeepers
+231 | sand sniper                    | sand sniper                    | sand snipers
+232 | Queen of Ingenia               | Queen of Ingenia               | Queens of Ingenia
+233 | drakulard                      | drakulard                      | drakulards
+234 | Abominable Showman             | Abominable Showman             | Abominable Showmen
+235 | King of Accordia               | King of Accordia               | Kings of Accordia
+236 | Atlas                          | Atlas                          | Atlases
+237 | veteran night clubber          | veteran night clubber          | veteran night clubbers
+238 | hood                           | hood                           | hoods
+239 | glade invader                  | glade invader                  | glade invaders
+240 | crimson killing machine        | crimson killing machine        | crimson killing machines
+241 | Ingenian royal guard           | Ingenian royal guard           | Ingenian royal guard
+242 | Kadavan commander              | Kadavan commander              | Kadavan commanders
+243 | corpse corporal                | corpse corporal                | corpse corporals
+244 | Atlas                          | Atlas                          | Atlases
+245 | King of Kadava                 | King of Kadava                 | Kings of Kadava
+246 | King of Klor                   | King of Klor                   | Kings of Klor
+247 | Balzack                        | Balzack                        | Balzacks
+248 | (EMPTY)
+249 | Cranked-Up King of Kadava      | Cranked-Up King of Kadava      | Cranked-Up Kings of Kadava
+250 | Cranked-Up King of Klor        | Cranked-Up King of Klor        | Cranked-Up Kings of Klor
+251 | Absolutely Abominable Showman  | Absolutely Abominable Showman  | Absolutely Abominable Showmen
+252 | Ultimate Atlas                 | Ultimate Atlas                 | Ultimate Atlases
+253 | veteran pazuzu                 | veteran pazuzu                 | veteran pazuzus
+254 | veteran belial                 | veteran belial                 | veteran belials
+255 | Cranked-Up King of Al-Khazam   | Cranked-Up King of Al-Khazam   | Cranked-Up Kings of Al-Khazam
+256 | Cranked-Up King of Accordia    | Cranked-Up King of Accordia    | Cranked-Up Kings of Accordia
+257 | Lord Lionidas                  | Lord Lionidas                  | Lord Lionidas
+258 | veteran master moosifer        | veteran master moosifer        | veteran master moosifers
+259 | veteran pruslas                | veteran pruslas                | veteran pruslas 
+260 | Full-On Fractos                | Full-On Fractos                | Full-On Fractoses
+261 | Full-On Fractos Unfettered     | Full-On Fractos Unfettered     | Full-On Fractoses Unfettered
+262 | veteran drakulard              | veteran drakulard              | veteran drakulards
+263 | veteran hood                   | veteran hood                   | veteran hoods
+264 | Big Bad Balzack                | Big Bad Balzack                | Big Bad Balzacks
+265 | dungeon master                 | dungeon master                 | dungeon masters
+266 | dungeon master                 | dungeon master                 | dungeon masters
+267 | dungeon master                 | dungeon master                 | dungeon masters
+268 | dungeon master                 | dungeon master                 | dungeon masters
+269 | dungeon master                 | dungeon master                 | dungeon masters
+270 | dungeon master                 | dungeon master                 | dungeon masters
+271 | dungeon master                 | dungeon master                 | dungeon masters
+272 | dungeon master                 | dungeon master                 | dungeon masters
+273 | dungeon master                 | dungeon master                 | dungeon masters
+274 | dungeon master                 | dungeon master                 | dungeon masters
+275 | dungeon master                 | dungeon master                 | dungeon masters
+276 | dungeon master                 | dungeon master                 | dungeon masters
+277 | dungeon master                 | dungeon master                 | dungeon masters
+278 | veteran platypunk              | veteran platypunk              | veteran platypunk
+279 | veteran candy cat              | veteran candy cat              | veteran candy cat
+280 | veteran great sabrecat         | veteran great sabrecat         | veteran great sabrecat
+281 | mimic                          | mimic                          | mimics
+282 | (EMPTY)
+283 | (EMPTY)
+284 | (EMPTY)
+285 | (EMPTY)
+286 | (EMPTY)
+287 | (EMPTY)
+288 | veteran missing lynx           | veteran missing lynx           | veteran missing lynxes
+289 | veteran wight priest           | veteran wight priest           | veteran wight priests
+290 | dungeon master                 | dungeon master                 | dungeon masters
+291 | Estark                         | Estark                         | Estarks
+292 | Dragonlord                     | Dragonlord                     | Dragonlords
+293 | Dragonlord                     | Dragonlord                     | Dragonlords
+294 | Samson Knight                  | Samson Knight                  | Samson Knights
+295 | Abominable Showman             | Abominable Showman             | Abominable Showmen
+296 | Estark Extreme                 | Estark Extreme                 | Estark Extremes
+297 | Dread Dragonlord               | Dread Dragonlord               | Dread Dragonlords
+298 | (EMPTY)
+299 | Devastating Dragonlord         | Devastating Dragonlord         | Devastating Dragonlords
+300 | dungeon master                 | dungeon master                 | dungeon masters
+301 | dungeon master                 | dungeon master                 | dungeon masters
+302 | dungeon master                 | dungeon master                 | dungeon masters
+303 | dungeon master                 | dungeon master                 | dungeon masters
+304 | dungeon master                 | dungeon master                 | dungeon masters
+305 | dungeon master                 | dungeon master                 | dungeon masters
+306 | dungeon master                 | dungeon master                 | dungeon masters
+307 | dungeon master                 | dungeon master                 | dungeon masters
+308 | dungeon master                 | dungeon master                 | dungeon masters
+309 | (EMPTY)
+310 | slime                          | slime                          | slimes
+311 | dracky                         | dracky                         | drackies
+312 | skeleton                       | skeleton                       | skeletons
+313 | ghost                          | ghost                          | ghosts
+314 | dread dragon                   | dread dragon                   | dread dragons
+315 | stone golem                    | stone golem                    | stone golems
+316 | knight abhorrent               | knight abhorrent               | knight abhorrents
+317 | cosmic chimaera                | cosmic chimaera                | cosmic chimaeras
+318 | (EMPTY)
+319 | (EMPTY)

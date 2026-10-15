@@ -1,0 +1,131 @@
+Maximum HP
+Maximum MP
+Strength
+Resilience
+Wisdom
+Deftness
+Attack
+Defence
+Critical Hit Chance
+Tension Build Rate
+Magical Resistance
+Instant Death Resistance
+More Yggdrasil Leaves
+Mini Medal Drop Rate
+Tension Up When Damaged
+Chance of No MP Cost
+Longer High-Tension Period
+Chance to Revive Instantly on Death
+Quake/Roar Resistance
+Coup de Grâce Damage
+Damage to Weak Points
+360-Degree Block
+Gold Earned
+Experience Earned
+Lower Damage, More Criticals
+Cast Kamikazee on Death
+Att./Def. Increases Last Longer
+Death Blow Survival Chance
+Roar Resistance
+Reduced Damage When Frozen
+Reduced Damage When Blocking
+Defence Increases Boosted
+Attack Increases Boosted
+Damage Up, MP Regeneration Down
+MP Cost Up, Skill Chrg. Time Down
+Resist Slowing
+Damage Occasionally Ignored
+Mild MP Regeneration
+Mild HP Regeneration
+Shorter Quake Stumble Duration
+Shorter Seal Duration
+Shorter Sleep Duration
+Shorter Poison Duration
+Shorter Bedazzle Duration
+Shorter Curse Duration
+Ability Damage
+Spell Damage
+Breath Resistance
+Tension Up When Some Foes Beaten
+Critical Spell Rate
+Reduced Dance Effect
+Chance of Free Revival
+Improved Dodging
+More Item Drops
+Attack Up When Low on HP
+Defence Up When Low on HP
+Criticals Up When Low on HP
+Damage to Flying Monsters
+Strength of Monster Minions
+Status Effect Resistance
+Helping Hand from Healix
+HP of Person/Object Defended
+Chance of Poisoning upon Attack
+Chance to Bedazzle upon Attack
+Chance of Instadeath upon Attack
+Chance to Divide upon Attack
+Attacks Can Reduce Defence
+Metal Monster Encounters Up
+Ignore Enemy Block
+Blast Resistance
+No Recoil When Attacked
+Ingredient Drop Rate
+Medicinal Herb Drop Rate
+Status Ailment Resistance
+HP Down, Spell Resistance Up
+Magical Might
+Recover HP on Attack
+Chance to Stun
+Critical Hits on Weak Points
+Occasionally Can't Help Dancing
+Occasionally Cursed
+Status Ailments Last Longer
+Gain Tension When Dancing
+Can Pass on Own Ailments When Hit
+Regenerate HP While Sleeping
+Reduced Tag Trick MP Cost
+Increased Tag Trick Damage
+Substitution Medals Last Longer
+Substitution Monsters Are Stronger
+More Magic Water
+Critical Hits Occasionally Ignored
+Attack Up When Ally Slain
+Defence Up When Ally Slain
+Tension Up When Ally Slain
+Increased Status Ailment Chance
+HP Regen. When Damaged at Full MP
+Gold Up, Experience Down
+Experience Up, Proficiency Down
+Proficiency Up, Gold Down
+Damage Up with Status Ailments
+Increased Critical Damage
+Increased Critical Spell Damage
+Magical Might Up, Max. HP Down
+Max. MP Up, Max. HP Down
+Sometimes Resist Status Ailments
+Fire Damage Up with Heavy Wands
+Wind Damage Up with Heavy Wands
+Lightning Dmg. Up with Heavy Wands
+Explosion Dmg. Up with Heavy Wands
+Dark Damage Up with Heavy Wands
+Sometimes Attract Foes' Attention
+Get Targeted More
+Avoid Some Monster Battles
+Chance to Auto-Defend
+Damage Up with Small Party
+MP Recovers When Low on HP
+Tension Up When Low on HP
+Reduced Freeze Time
+Reduced Damage from Poison
+Increased Kamikazee Power
+Bedazzlement Resistance
+Seal Resistance
+Healstone Power
+HP/MP Up at Max. Tension
+Recover MP on Critical Hit
+Movement Speed
+Bigger Arrows
+Absorb More MP from Slimes
+More Gold Nuglets from Slimes
+Hit Metal Slimes More Easily
+Quick Tension Gain When Fired Up

@@ -1,0 +1,75 @@
+[48 ] Bang-Based
+[49 ] Bang-Based
+[50 ] Blasts enemies in front with an intense explosion.
+[168] Flame Breath
+[169] Flame Breath
+[170] Belches blazing hot\nbreath all over enemies\nin front.
+[232] Sizz-Based
+[233] Sizz-Based
+[234] An ancient incantation that fires forth a racing pillar of flame.
+[240] Chain Sickle
+[241] Chain Sickle
+[242] Swings a slicing device on a long chain in a lethal lacerating arc.
+[320] Cutting Edge
+[321] Cutting Edge
+[322] Increases the size of the sword, then swings down with serious force.
+[336] Whack-Based
+[337] Whack-Based
+[338] A cursed incantation that sends an enemy to the hereafter.
+[424] Rubblerouser-Based
+[425] Rubblerouser-Based
+[426] Draws a secret sigil on the ground that sends stone spikes springing up after a slight delay.
+[488] Knuckle Sandwich
+[489] Knuckle Sandwich
+[490] A powerful punch produced by focusing force into the fist.
+[528] Parallax
+[529] Parallax
+[530] A strike that sends a shockwave shuddering through the earth.
+[616] Zap-Based
+[617] Zap-Based
+[618] A bolt from the blue that strikes foes in front.
+[680] Flying Knee
+[681] Flying Knee
+[682] Dives forward to deliver a bent-legged blow.
+[696] Zam-Based
+[697] Zam-Based
+[698] Fires forth bullet-like blobs of black energy.
+[704] Needle Shot
+[705] Needle Shot
+[706] An advanced arrow attack with a high chance of a critical hit.
+[752] Woosh-Based
+[753] Woosh-Based
+[754] Stirs up a wicked whirlwind that damages foes in front.
+[800] Quickfire Caster
+[801] Quickfire Caster
+[802] Allows attack spells to be cast without any waiting time at all.
+[824] Power Throw
+[825] Power Throw
+[826] Mows down foes in your path with a shining boomerang.
+[848] Flying Fist
+[849] Flying Fist
+[850] An uplifting uppercut that sends enemies skyward.
+[856] Crack-Based
+[857] Crack-Based
+[858] Flings forth a flurry of ice balls that can freeze foes solid.
+[1024] Miracle Moon
+[1025] Miracle Moon
+[1026] Chops chumps into chunks with a storm of spinning sickles.
+[1048] Maelstrom
+[1049] Maelstrom
+[1050] Creates a vast vortex that sucks in surrounding monsters.
+[1072] Frizz-Based
+[1073] Frizz-Based
+[1074] Flings forth a ball of fire.
+[1152] Crackerwhack
+[1153] Crackerwhack
+[1154] Swings the axe down from overhead with earth-shattering strength.
+[1160] Reheal-Based
+[1161] Reheal-Based
+[1162] Inscribes an ephemeral circle which heals all allies within it for a while.
+[1192] Maulstrom
+[1193] Maulstrom
+[1194] A short, sharp shockwave that shreds foes over a wide area.
+[1400] Zam-Based
+[1401] Zam-Based
+[1402] Fires forth bullet-like blobs of black energy.
